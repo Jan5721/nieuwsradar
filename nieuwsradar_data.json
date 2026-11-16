@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "16-11-2026 17:45",
+ "bijgewerkt": "16-11-2026 17:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne": {
    "titel": "In beeld: Sinterklaas bezoekt Deurne",
@@ -4421,7 +4421,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 17:43"
@@ -5570,23 +5570,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "15-11 22:10"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64503/kerst-in-de-wieger-brengt-tradities-van-vroeger-tot-leven": {
-   "titel": "Kerst in De Wieger brengt tradities van vroeger tot leven",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64503/kerst-in-de-wieger-brengt-tradities-van-vroeger-tot-leven",
-   "tekst": "DEURNE - Museum De Wieger in Deurne haalt de kerstsfeer uit de eerste helft van de twintigste eeuw terug. Van 8 december tot en met 3 januari kunnen bezoekers ontdekken hoe de familie Wiegersma kerst vierde. In het voormalige woonhuis van huisarts en kunstenaar Hendrik Wiegersma …",
-   "datum": "2026-11-09T16:45:00+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "09-11 17:45"
   },
   "https://www.omroepbrabant.nl/nieuws/6033392/deurne-geeft-groen-licht-voor-bouw-van-52-parkappartementen": {
    "titel": "Deurne geeft groen licht voor bouw van 52 parkappartementen",
