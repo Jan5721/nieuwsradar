@@ -1,0 +1,480 @@
+{
+  "instellingen": {
+    "dagen_tonen": 7,
+    "pagina_titel": "Nieuwsradar Helmond – De Peel",
+    "pagina_verversen_minuten": 15,
+    "extra_kopie_naar": "site/index.html",
+    "uitsluiten_titels": [
+      "uitschrijving basisregistratie personen",
+      "inschrijving basisregistratie personen",
+      "Basisregistratie Personen"
+    ],
+    "verborgen_onder_alles": [
+      "112"
+    ]
+  },
+  "gemeenten": {
+    "Helmond": {
+      "sterk": [
+        "Helmond",
+        "Helmondse",
+        "Helmonder",
+        "Mierlo-Hout",
+        "Brandevoort",
+        "Stiphout",
+        "Rijpelberg",
+        "Brouwhuis",
+        "Dierdonk",
+        "Warande",
+        "Suytkade",
+        "Automotive Campus"
+      ],
+      "zwak": []
+    },
+    "Deurne": {
+      "sterk": [
+        "Deurne",
+        "Deurnese",
+        "Deurnenaar",
+        "Liessel",
+        "Vlierden",
+        "Helenaveen",
+        "Neerkant",
+        "Zeilberg",
+        "Walsberg"
+      ],
+      "zwak": []
+    },
+    "Asten": {
+      "sterk": [
+        "Asten",
+        "Astense",
+        "Astenaar",
+        "Ommel",
+        "Heusden (Asten)",
+        "Heusden-Asten",
+        "Prinsenhoeve"
+      ],
+      "zwak": [
+        "Heusden"
+      ]
+    },
+    "Someren": {
+      "sterk": [
+        "Someren",
+        "Somerense",
+        "Somerenaar",
+        "Lierop",
+        "Someren-Eind",
+        "Someren-Heide",
+        "Sluis 11"
+      ],
+      "zwak": []
+    }
+  },
+  "bronnen": [
+    {
+      "naam": "Weekblad voor Deurne",
+      "type": "rss",
+      "url": "https://www.weekbladvoordeurne.nl/rss",
+      "soort": "lokale pers",
+      "standaard_gemeente": "Deurne"
+    },
+    {
+      "naam": "Peelbelang",
+      "type": "rss",
+      "url": "https://www.peelbelangonline.nl/rss",
+      "soort": "lokale pers",
+      "standaard_gemeente": "Asten"
+    },
+    {
+      "naam": "De Loop (HelmondNu)",
+      "type": "rss",
+      "url": "https://www.helmondnu.nl/rss",
+      "soort": "lokale pers",
+      "standaard_gemeente": "Helmond"
+    },
+    {
+      "naam": "ED Helmond",
+      "type": "rss",
+      "url": "https://www.ed.nl/helmond/rss.xml",
+      "soort": "regionale pers",
+      "standaard_gemeente": null
+    },
+    {
+      "naam": "ED Deurne",
+      "type": "rss",
+      "url": "https://www.ed.nl/deurne/rss.xml",
+      "soort": "regionale pers",
+      "standaard_gemeente": null
+    },
+    {
+      "naam": "ED Asten",
+      "type": "rss",
+      "url": "https://www.ed.nl/asten/rss.xml",
+      "soort": "regionale pers",
+      "standaard_gemeente": null
+    },
+    {
+      "naam": "ED Someren",
+      "type": "rss",
+      "url": "https://www.ed.nl/someren/rss.xml",
+      "soort": "regionale pers",
+      "standaard_gemeente": null
+    },
+    {
+      "naam": "Omroep Brabant",
+      "type": "rss",
+      "url": "https://www.omroepbrabant.nl/rss",
+      "soort": "regionale omroep",
+      "standaard_gemeente": null
+    },
+    {
+      "naam": "Omroep Brabant lokaal Helmond",
+      "type": "html",
+      "url": "https://www.omroepbrabant.nl/lokaal/helmond",
+      "link_patroon": "/nieuws/\\d+/",
+      "soort": "regionale omroep",
+      "standaard_gemeente": "Helmond"
+    },
+    {
+      "naam": "Omroep Brabant lokaal Deurne",
+      "type": "html",
+      "url": "https://www.omroepbrabant.nl/lokaal/deurne",
+      "link_patroon": "/nieuws/\\d+/",
+      "soort": "regionale omroep",
+      "standaard_gemeente": "Deurne"
+    },
+    {
+      "naam": "Omroep Brabant lokaal Asten",
+      "type": "html",
+      "url": "https://www.omroepbrabant.nl/lokaal/asten",
+      "link_patroon": "/nieuws/\\d+/",
+      "soort": "regionale omroep",
+      "standaard_gemeente": "Asten"
+    },
+    {
+      "naam": "Omroep Brabant lokaal Someren",
+      "type": "html",
+      "url": "https://www.omroepbrabant.nl/lokaal/someren",
+      "link_patroon": "/nieuws/\\d+/",
+      "soort": "regionale omroep",
+      "standaard_gemeente": "Someren"
+    },
+    {
+      "naam": "Gemeente Helmond",
+      "type": "rss",
+      "url": "https://www.helmond.nl/rss",
+      "soort": "gemeente",
+      "standaard_gemeente": "Helmond"
+    },
+    {
+      "naam": "Gemeente Deurne",
+      "type": "html",
+      "url": "https://www.deurne.nl/nieuws",
+      "link_patroon": "^/nieuws/[a-z0-9-]+$",
+      "soort": "gemeente",
+      "standaard_gemeente": "Deurne"
+    },
+    {
+      "naam": "Gemeente Asten",
+      "type": "rss",
+      "url": "https://www.asten.nl/rss.xml",
+      "soort": "gemeente",
+      "standaard_gemeente": "Asten"
+    },
+    {
+      "naam": "Gemeente Someren",
+      "type": "rss",
+      "url": "https://www.someren.nl/rss.xml",
+      "soort": "gemeente",
+      "standaard_gemeente": "Someren"
+    },
+    {
+      "naam": "Bekendmakingen Helmond",
+      "type": "bekendmakingen",
+      "gemeente": "Helmond",
+      "soort": "bekendmaking",
+      "standaard_gemeente": "Helmond"
+    },
+    {
+      "naam": "Bekendmakingen Deurne",
+      "type": "bekendmakingen",
+      "gemeente": "Deurne",
+      "soort": "bekendmaking",
+      "standaard_gemeente": "Deurne"
+    },
+    {
+      "naam": "Bekendmakingen Asten",
+      "type": "bekendmakingen",
+      "gemeente": "Asten",
+      "soort": "bekendmaking",
+      "standaard_gemeente": "Asten"
+    },
+    {
+      "naam": "Bekendmakingen Someren",
+      "type": "bekendmakingen",
+      "gemeente": "Someren",
+      "soort": "bekendmaking",
+      "standaard_gemeente": "Someren"
+    },
+    {
+      "naam": "Drimble Helmond",
+      "type": "rss",
+      "url": "https://drimble.nl/nieuws/helmond/index.xml",
+      "soort": "verzamelsite",
+      "standaard_gemeente": "Helmond"
+    },
+    {
+      "naam": "Drimble Deurne",
+      "type": "rss",
+      "url": "https://drimble.nl/nieuws/deurne/index.xml",
+      "soort": "verzamelsite",
+      "standaard_gemeente": "Deurne"
+    },
+    {
+      "naam": "Drimble Asten",
+      "type": "rss",
+      "url": "https://drimble.nl/nieuws/asten/index.xml",
+      "soort": "verzamelsite",
+      "standaard_gemeente": "Asten"
+    },
+    {
+      "naam": "Drimble Someren",
+      "type": "rss",
+      "url": "https://drimble.nl/nieuws/someren/index.xml",
+      "soort": "verzamelsite",
+      "standaard_gemeente": "Someren"
+    },
+    {
+      "naam": "P2000 Helmond",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/helmond.rss",
+      "soort": "112",
+      "standaard_gemeente": "Helmond",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Deurne",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/deurne.rss",
+      "soort": "112",
+      "standaard_gemeente": "Deurne",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Liessel",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/liessel.rss",
+      "soort": "112",
+      "standaard_gemeente": "Deurne",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Neerkant",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/neerkant.rss",
+      "soort": "112",
+      "standaard_gemeente": "Deurne",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Vlierden",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/vlierden.rss",
+      "soort": "112",
+      "standaard_gemeente": "Deurne",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Helenaveen",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/helenaveen.rss",
+      "soort": "112",
+      "standaard_gemeente": "Deurne",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Asten",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/asten.rss",
+      "soort": "112",
+      "standaard_gemeente": "Asten",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Ommel",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/ommel.rss",
+      "soort": "112",
+      "standaard_gemeente": "Asten",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Someren",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/someren.rss",
+      "soort": "112",
+      "standaard_gemeente": "Someren",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    },
+    {
+      "naam": "P2000 Lierop",
+      "type": "rss",
+      "url": "https://alarmeringen.nl/feeds/city/lierop.rss",
+      "soort": "112",
+      "standaard_gemeente": "Someren",
+      "dagen_tonen": 2,
+      "niet_als": [
+        "\\bB ?[12]\\b",
+        "[Pp]roefalarm",
+        "\\btest\\b",
+        "[Bb]esteld vervoer"
+      ],
+      "prio_als": [
+        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "GRIP",
+        "[Zz]eer [Gg]rote [Bb]rand",
+        "[Gg]rote [Bb]rand",
+        "[Tt]raumaheli",
+        "[Ll]ifeliner"
+      ],
+      "splits_112": true
+    }
+  ]
+}
