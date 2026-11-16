@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "16-11-2026 17:13",
+ "bijgewerkt": "16-11-2026 17:29",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne": {
    "titel": "In beeld: Sinterklaas bezoekt Deurne",
@@ -900,7 +900,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 17:00"
@@ -1537,7 +1537,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034237/helmond-sport-oefent-tegen-lommel-sk": {
    "titel": "Helmond Sport oefent tegen Lommel SK",
    "link": "https://www.omroepbrabant.nl/nieuws/6034237/helmond-sport-oefent-tegen-lommel-sk",
-   "tekst": "dinsdag Helmond Sport speelt woensdag een oefenwedstrijd tegen Lommel SK in België. De wedstrijd begint om twaalf uur en is gratis toegankelijk voor publiek.",
+   "tekst": "10 november 2026 Helmond Sport speelt woensdag een oefenwedstrijd tegen Lommel SK in België. De wedstrijd begint om twaalf uur en is gratis toegankelijk voor publiek.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4409,6 +4409,39 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108616915/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html": {
+   "titel": "Laarbeek wil met Senzer door voor groenonderhoud, maar het moet wel beter werk leveren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616915/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html",
+   "tekst": "",
+   "datum": "2026-11-16T16:13:11+00:00",
+   "eerst_gezien": "2026-11-16T16:28:55.792526+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 17:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108616914/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html": {
+   "titel": "Hallo Sint! Check hier de foto`s van de sinterklaasintocht 2026 in Helmond.",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616914/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-16T16:13:11+00:00",
+   "eerst_gezien": "2026-11-16T16:28:55.792526+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108616875/woonbedrijf-zet-extra-in-op-leefbaarheid-alleen-bouwen-en-huurders-zoeken-is-niet-meer-genoeg.html": {
    "titel": "Woonbedrijf zet extra in op leefbaarheid: `Alleen bouwen en huurders zoeken is niet meer genoeg`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108616875/woonbedrijf-zet-extra-in-op-leefbaarheid-alleen-bouwen-en-huurders-zoeken-is-niet-meer-genoeg.html",
@@ -4421,7 +4454,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 17:07"
@@ -4438,7 +4471,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4454,10 +4487,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 17:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108616803/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html": {
    "titel": "Hallo Sint! Check hier de foto`s van de sinterklaasintocht 2026 in Helmond.",
@@ -4471,7 +4503,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4487,7 +4519,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4964,6 +4996,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 06:37"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126172154a2deurnerit136728": {
+   "titel": "A2 Deurne Rit: 136728",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126172154a2deurnerit136728",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-16T17:21:54+01:00",
+   "eerst_gezien": "2026-11-16T16:28:55.792526+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "16-11 17:21"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126171928a2lieroprit136725": {
+   "titel": "A2 Lierop Rit: 136725",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126171928a2lieroprit136725",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-16T17:19:28+01:00",
+   "eerst_gezien": "2026-11-16T16:28:55.792526+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "16-11 17:19"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126165524p2bob02brbuitenhoornstraathelmond223231": {
    "titel": "P 2 BOB-02 BR buiten Hoornstraat Helmond 223231",
@@ -6048,7 +6114,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -6068,7 +6134,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
