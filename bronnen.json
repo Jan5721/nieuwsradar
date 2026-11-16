@@ -78,14 +78,16 @@
       "type": "rss",
       "url": "https://www.weekbladvoordeurne.nl/rss",
       "soort": "lokale pers",
-      "standaard_gemeente": "Deurne"
+      "standaard_gemeente": "Deurne",
+      "tijd_is_lokaal": true
     },
     {
       "naam": "Peelbelang",
       "type": "rss",
       "url": "https://www.peelbelangonline.nl/rss",
       "soort": "lokale pers",
-      "standaard_gemeente": "Asten"
+      "standaard_gemeente": "Asten",
+      "tijd_is_lokaal": true
     },
     {
       "naam": "De Loop (HelmondNu)",

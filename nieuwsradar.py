@@ -116,6 +116,11 @@ def lees_rss(bron):
             "datum": datum(it.findtext(ns + "updated") or it.findtext(ns + "published")),
             "betaald": False,
         })
+    if bron.get("tijd_is_lokaal"):
+        # sommige feeds geven Nederlandse tijd maar labelen die als UTC
+        for it in items:
+            if it["datum"]:
+                it["datum"] = it["datum"].replace(tzinfo=None).astimezone()
     return items
 
 
