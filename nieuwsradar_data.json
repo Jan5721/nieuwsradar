@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "16-11-2026 16:25",
+ "bijgewerkt": "16-11-2026 16:41",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne": {
    "titel": "In beeld: Sinterklaas bezoekt Deurne",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 17:03"
@@ -608,7 +608,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 17:09"
@@ -1075,23 +1075,6 @@
    "prio": false,
    "tijd": "15-11 17:31"
   },
-  "https://www.ed.nl/deurne/prins-dennis-i-heerst-de-komende-maanden-over-ulewappersrijk~a258ea23/": {
-   "titel": "Prins Dennis I heerst de komende maanden over Ulewappersrijk",
-   "link": "https://www.ed.nl/deurne/prins-dennis-i-heerst-de-komende-maanden-over-ulewappersrijk~a258ea23/",
-   "tekst": "Prins Dennis I heerst de komende maanden over Ulewappersrijk. Die naam draagt Neerkant met carnaval.",
-   "datum": "2026-11-15T15:23:00+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 16:23"
-  },
   "https://www.ed.nl/deurne/museum-de-wieger-houdt-workshop-kerstbal-beschilderen-in-deurne~ac1de529/": {
    "titel": "Museum De Wieger houdt workshop kerstbal beschilderen in Deurne",
    "link": "https://www.ed.nl/deurne/museum-de-wieger-houdt-workshop-kerstbal-beschilderen-in-deurne~ac1de529/",
@@ -1108,6 +1091,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 11:55"
+  },
+  "https://www.ed.nl/deurne/prins-dennis-i-heerst-de-komende-maanden-over-ulewappersrijk~a258ea23/": {
+   "titel": "Prins Dennis I heerst de komende maanden over Ulewappersrijk",
+   "link": "https://www.ed.nl/deurne/prins-dennis-i-heerst-de-komende-maanden-over-ulewappersrijk~a258ea23/",
+   "tekst": "Prins Dennis I heerst de komende maanden over Ulewappersrijk. Die naam draagt Neerkant met carnaval.",
+   "datum": "2026-11-15T15:23:00+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 16:23"
   },
   "https://www.ed.nl/helmond/kijk-de-video-zo-kwam-sinterklaas-zondag-in-helmond-aan~a2ce3a64/": {
    "titel": "Kijk de video: zo kwam Sinterklaas zondag in Helmond aan",
@@ -1700,10 +1700,29 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 16:24"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen": {
+   "titel": "Deurne wint NK Tegelwippen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen",
+   "tekst": "Deurne heeft de poule Brabantse Peeldorpen gewonnen in het NK Tegelwippen. In totaal zijn 22.262 tegels vervangen door groen, waarmee de gemeente boven Gemert-Bakel, Someren, Laarbeek en Asten eindigt.",
+   "datum": "2026-11-16T15:40:52.229622+00:00",
+   "eerst_gezien": "2026-11-16T15:40:52.229622+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne",
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 16:40"
   },
   "https://www.omroepbrabant.nl/nieuws/6034898/martinetplein-in-deurne-krijgt-meer-groen-en-zitplekken": {
    "titel": "Martinetplein in Deurne krijgt meer groen en zitplekken",
@@ -1717,7 +1736,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 16:24"
@@ -1725,7 +1744,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning": {
    "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
    "link": "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning",
-   "tekst": "De gemeente Deurne heeft toestemming gegeven voor een evenement op de Bivakweg. Het besluit werd op 10 november genomen en de vergunning is verleend.",
+   "tekst": "donderdag De gemeente Deurne heeft toestemming gegeven voor een evenement op de Bivakweg. Het besluit werd op 10 november genomen en de vergunning is verleend.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -2180,23 +2199,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.omroepbrabant.nl/nieuws/6033391/deurne-wil-grond-uitlenen-voor-uitbreiding-schoolplein": {
-   "titel": "Deurne wil grond uitlenen voor uitbreiding schoolplein",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033391/deurne-wil-grond-uitlenen-voor-uitbreiding-schoolplein",
-   "tekst": "3 november 2026 De gemeente Deurne heeft plannen om een stuk grond bij de Keltenstraat uit te lenen aan Stichting Prodas. Het gaat om een uitbreiding van het schoolplein van basisschool d'n Bogerd.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
   "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming": {
    "titel": "Voormalige boerderij in Ommel krijgt nieuwe bestemming",
    "link": "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming",
@@ -2209,7 +2211,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 16:24"
@@ -4424,6 +4426,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108616514/vijftal-op-de-vuist-in-centrum-eindhoven-bezoekers-glow-opgeschrikt-duo-17-en-23-uit-schijndel-aangehouden.html": {
+   "titel": "Vijftal op de vuist in centrum Eindhoven: bezoekers Glow opgeschrikt, duo (17 en 23) uit Schijndel aangehouden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616514/vijftal-op-de-vuist-in-centrum-eindhoven-bezoekers-glow-opgeschrikt-duo-17-en-23-uit-schijndel-aangehouden.html",
+   "tekst": "",
+   "datum": "2026-11-16T15:25:13+00:00",
+   "eerst_gezien": "2026-11-16T15:40:52.229622+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 16:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108616335/oprichter-cafe-altstadt-in-eindhoven-overleden-bart-kon-mopperen-maar-altijd-met-een-knipoog.html": {
    "titel": "Oprichter café Altstadt in Eindhoven overleden: `Bart kon mopperen, maar altijd met een knipoog`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108616335/oprichter-cafe-altstadt-in-eindhoven-overleden-bart-kon-mopperen-maar-altijd-met-een-knipoog.html",
@@ -4436,7 +4455,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 16:07"
@@ -4570,23 +4589,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108614834/ellen-35-uit-gemert-nam-meerdere-keren-afscheid-van-dochter-yara-dan-ga-je-echt-door-een-hel.html": {
-   "titel": "Ellen (35) uit Gemert nam meerdere keren afscheid van dochter Yara: `Dan ga je echt door een hel`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108614834/ellen-35-uit-gemert-nam-meerdere-keren-afscheid-van-dochter-yara-dan-ga-je-echt-door-een-hel.html",
-   "tekst": "",
-   "datum": "2026-11-16T11:49:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 12:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
    "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
@@ -4929,6 +4931,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 06:37"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033391/deurne-wil-grond-uitlenen-voor-uitbreiding-schoolplein": {
+   "titel": "Deurne wil grond uitlenen voor uitbreiding schoolplein",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033391/deurne-wil-grond-uitlenen-voor-uitbreiding-schoolplein",
+   "tekst": "3 november 2026 De gemeente Deurne heeft plannen om een stuk grond bij de Keltenstraat uit te lenen aan Stichting Prodas. Het gaat om een uitbreiding van het schoolplein van basisschool d'n Bogerd.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108614834/ellen-35-uit-gemert-nam-meerdere-keren-afscheid-van-dochter-yara-dan-ga-je-echt-door-een-hel.html": {
+   "titel": "Ellen (35) uit Gemert nam meerdere keren afscheid van dochter Yara: `Dan ga je echt door een hel`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108614834/ellen-35-uit-gemert-nam-meerdere-keren-afscheid-van-dochter-yara-dan-ga-je-echt-door-een-hel.html",
+   "tekst": "",
+   "datum": "2026-11-16T11:49:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 12:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126153036a2deurnerit136693": {
    "titel": "A2 Deurne Rit: 136693",
@@ -5712,12 +5748,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -5817,7 +5853,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
