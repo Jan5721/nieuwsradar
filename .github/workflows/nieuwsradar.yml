@@ -2,7 +2,7 @@ name: Nieuwsradar
 
 on:
   schedule:
-    - cron: "7 * * * *"      # elk uur (GitHub kan een paar minuten later starten)
+    - cron: "*/20 * * * *"   # elke 20 minuten (GitHub start soms later of slaat een ronde over)
   workflow_dispatch:          # handmatig starten via de knop 'Run workflow'
 
 permissions:
