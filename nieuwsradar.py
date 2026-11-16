@@ -454,7 +454,7 @@ def main():
             per_kop[kop]["gemeenten"] = sorted(set(per_kop[kop]["gemeenten"]) | set(v["gemeenten"]))
             continue
         per_kop[kop] = v
-    items = sorted(per_kop.values(), key=lambda v: v["datum"], reverse=True)
+    items = sorted(per_kop.values(), key=lambda v: datum(v["datum"]) or NU, reverse=True)
     for v in items:
         v["tijd"] = lokaal(datum(v["datum"]))
 
