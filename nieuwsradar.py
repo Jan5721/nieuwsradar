@@ -177,6 +177,37 @@ def lees_html(bron):
     return items[:30]
 
 
+def lees_p2000monitor(bron):
+    """P2000-tabel van p2000monitor.eu (één regel per capcode; zelfde melding samenvoegen)."""
+    data, cs = haal(bron["url"])
+    tekst = data.decode("iso-8859-1" if cs.lower() in ("utf-8", "") and b"iso-8859-1" in data[:600].lower() else cs, errors="replace")
+    meldingen = {}
+    for rij in re.findall(r"<TR>(.*?)</TR>", tekst, re.S | re.I):
+        cellen = dict(re.findall(r'<TD CLASS="(COL\d)">(.*?)</TD>', rij, re.S | re.I))
+        if not {"COL2", "COL3", "COL7"} <= cellen.keys():
+            continue
+        delen = re.split(r"<BR>", cellen["COL7"], maxsplit=1, flags=re.I)
+        bericht = schoon(delen[0])
+        eenheid = schoon(delen[1]) if len(delen) > 1 else ""
+        if not bericht:
+            continue
+        try:
+            d = datetime.strptime(schoon(cellen["COL3"]) + " " + schoon(cellen["COL2"]), "%d-%m-%y %H:%M:%S").astimezone()
+        except ValueError:
+            d = None
+        sleutel = (schoon(cellen["COL3"]), schoon(cellen["COL2"]), bericht)
+        m = meldingen.setdefault(sleutel, {"titel": bericht, "eenheden": [], "datum": d})
+        if eenheid and eenheid not in m["eenheden"]:
+            m["eenheden"].append(eenheid)
+    items = []
+    for (dd, tt, bericht), m in meldingen.items():
+        code = re.sub(r"\W+", "", f"{dd}{tt}{bericht}".lower())[:60]
+        items.append({"titel": bericht, "link": bron["url"] + "#" + code,
+                      "tekst": schoon(" · ".join(m["eenheden"]), 280), "datum": m["datum"],
+                      "betaald": False, "alleen_titel": True})
+    return items
+
+
 def lees_bekendmakingen(bron, dagen):
     vanaf = (NU - timedelta(days=dagen)).strftime("%Y-%m-%d")
     q = (f'c.product-area==officielepublicaties and dt.creator=="{bron["gemeente"]}" '
@@ -204,12 +235,21 @@ def lees_bekendmakingen(bron, dagen):
 def dienst_112(titel, tekst):
     """Bepaal de hulpdienst van een P2000-melding: brandweer, ambulance of politie."""
     t = titel.strip()
+    eenheden = tekst.lower()
     alles = (titel + " " + tekst).lower()
-    if re.match(r"(A ?[12]|B ?[12])\b", t, re.I) or re.match(r"ambulance", t, re.I):
+    if re.match(r"(A ?[0-2]|B ?[12])\b", t, re.I) or re.match(r"ambulance", t, re.I):
+        return "ambulance"
+    if re.match(r"(P ?[0-3]|PRIO ?[0-3])\b", t, re.I):
+        return "brandweer"
+    if re.search(r"politie|\bpol\b", eenheden):
+        return "politie"
+    if re.search(r"\bbrw\b|brandweer", eenheden):
+        return "brandweer"
+    if re.search(r"ambulance|\brav\b|\bmka\b|lifeliner|traumaheli|mmt", eenheden):
         return "ambulance"
     if re.search(r"politie|\bpol\b", alles):
         return "politie"
-    if re.match(r"(P ?[123]|PRIO ?[123])\b", t, re.I) or re.search(r"brand|bdh|brt|hulpverlening|\boms\b|nacontrole|wateroverlast|stormschade", alles):
+    if re.search(r"brand|bdh|brt|hulpverlening|\boms\b|nacontrole|wateroverlast|stormschade", alles):
         return "brandweer"
     if re.search(r"ambu|mmt|traumaheli|lifeliner", alles):
         return "ambulance"
@@ -346,6 +386,8 @@ def main():
         try:
             if bron["type"] == "rss":
                 ruw = lees_rss(bron)
+            elif bron["type"] == "p2000monitor":
+                ruw = lees_p2000monitor(bron)
             elif bron["type"] == "html":
                 ruw = lees_html(bron)
             elif bron["type"] == "bekendmakingen":
@@ -363,7 +405,8 @@ def main():
                     continue
                 if any(r.search(it["titel"]) for r in niet_als):
                     continue
-                gems = bepaal_gemeenten(it["titel"] + " " + it["tekst"], cfg, bron.get("standaard_gemeente"))
+                zoektekst = it["titel"] if it.get("alleen_titel") else it["titel"] + " " + it["tekst"]
+                gems = bepaal_gemeenten(zoektekst, cfg, bron.get("standaard_gemeente"))
                 if not gems:
                     continue  # regionale bron zonder treffer
                 sleutel = it["link"]

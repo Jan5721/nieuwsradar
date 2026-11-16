@@ -247,234 +247,35 @@
       "standaard_gemeente": "Someren"
     },
     {
-      "naam": "P2000 Helmond",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/helmond.rss",
+      "naam": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+      "type": "p2000monitor",
+      "url": "https://www.p2000monitor.eu/Brabantzuidoost.html",
       "soort": "112",
-      "standaard_gemeente": "Helmond",
+      "splits_112": true,
+      "standaard_gemeente": null,
       "dagen_tonen": 2,
       "niet_als": [
         "\\bB ?[12]\\b",
         "[Pp]roefalarm",
         "\\btest\\b",
-        "[Bb]esteld vervoer"
+        "[Bb]esteld vervoer",
+        "testmelding"
       ],
       "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
+        "\\b(P ?1|A ?[01]|Prio 1)\\b",
         "GRIP",
         "[Zz]eer [Gg]rote [Bb]rand",
         "[Gg]rote [Bb]rand",
         "[Tt]raumaheli",
         "[Ll]ifeliner"
-      ],
-      "splits_112": true
+      ]
     },
     {
-      "naam": "P2000 Deurne",
+      "naam": "112Brabant",
       "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/deurne.rss",
-      "soort": "112",
-      "standaard_gemeente": "Deurne",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
-    },
-    {
-      "naam": "P2000 Liessel",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/liessel.rss",
-      "soort": "112",
-      "standaard_gemeente": "Deurne",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
-    },
-    {
-      "naam": "P2000 Neerkant",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/neerkant.rss",
-      "soort": "112",
-      "standaard_gemeente": "Deurne",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
-    },
-    {
-      "naam": "P2000 Vlierden",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/vlierden.rss",
-      "soort": "112",
-      "standaard_gemeente": "Deurne",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
-    },
-    {
-      "naam": "P2000 Helenaveen",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/helenaveen.rss",
-      "soort": "112",
-      "standaard_gemeente": "Deurne",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
-    },
-    {
-      "naam": "P2000 Asten",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/asten.rss",
-      "soort": "112",
-      "standaard_gemeente": "Asten",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
-    },
-    {
-      "naam": "P2000 Ommel",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/ommel.rss",
-      "soort": "112",
-      "standaard_gemeente": "Asten",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
-    },
-    {
-      "naam": "P2000 Someren",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/someren.rss",
-      "soort": "112",
-      "standaard_gemeente": "Someren",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
-    },
-    {
-      "naam": "P2000 Lierop",
-      "type": "rss",
-      "url": "https://alarmeringen.nl/feeds/city/lierop.rss",
-      "soort": "112",
-      "standaard_gemeente": "Someren",
-      "dagen_tonen": 2,
-      "niet_als": [
-        "\\bB ?[12]\\b",
-        "[Pp]roefalarm",
-        "\\btest\\b",
-        "[Bb]esteld vervoer"
-      ],
-      "prio_als": [
-        "\\b(P ?1|A ?1|Prio 1)\\b",
-        "GRIP",
-        "[Zz]eer [Gg]rote [Bb]rand",
-        "[Gg]rote [Bb]rand",
-        "[Tt]raumaheli",
-        "[Ll]ifeliner"
-      ],
-      "splits_112": true
+      "url": "https://www.112brabant.nl/feed/",
+      "soort": "112-nieuws",
+      "standaard_gemeente": null
     }
   ]
 }
