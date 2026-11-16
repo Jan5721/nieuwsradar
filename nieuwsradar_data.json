@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "16-11-2026 17:29",
+ "bijgewerkt": "16-11-2026 17:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne": {
    "titel": "In beeld: Sinterklaas bezoekt Deurne",
@@ -1024,23 +1024,6 @@
    "prio": false,
    "tijd": "15-11 19:01"
   },
-  "https://www.ed.nl/helmond/jan-vriends-maakte-de-stripwereld-nog-gezelliger~ac377bb3/": {
-   "titel": "Jan Vriends maakte de stripwereld nog gezelliger",
-   "link": "https://www.ed.nl/helmond/jan-vriends-maakte-de-stripwereld-nog-gezelliger~ac377bb3/",
-   "tekst": "Als Stripmaker der Nederlanden zocht Helmonder Jan Vriends de samenwerking. De derde Stripmakersdagen, die afgelopen weekeinde in de Cacaofabriek gehouden werden, zijn daar een mooi voorbeeld van.",
-   "datum": "2026-11-15T17:00:43+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 18:00"
-  },
   "https://www.ed.nl/deurne/museum-de-wieger-houdt-workshop-kerstbal-beschilderen-in-deurne~ac1de529/": {
    "titel": "Museum De Wieger houdt workshop kerstbal beschilderen in Deurne",
    "link": "https://www.ed.nl/deurne/museum-de-wieger-houdt-workshop-kerstbal-beschilderen-in-deurne~ac1de529/",
@@ -1057,6 +1040,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 11:55"
+  },
+  "https://www.ed.nl/helmond/jan-vriends-maakte-de-stripwereld-nog-gezelliger~ac377bb3/": {
+   "titel": "Jan Vriends maakte de stripwereld nog gezelliger",
+   "link": "https://www.ed.nl/helmond/jan-vriends-maakte-de-stripwereld-nog-gezelliger~ac377bb3/",
+   "tekst": "Als Stripmaker der Nederlanden zocht Helmonder Jan Vriends de samenwerking. De derde Stripmakersdagen, die afgelopen weekeinde in de Cacaofabriek gehouden werden, zijn daar een mooi voorbeeld van.",
+   "datum": "2026-11-15T17:00:43+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 18:00"
   },
   "https://www.ed.nl/helmond/sinterklaas-is-weer-thuis-in-het-helmondse-kasteel~aa9a5eb3/": {
    "titel": "Sinterklaas is weer ‘thuis’ in het Helmondse kasteel",
@@ -4409,6 +4409,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html": {
+   "titel": "Nog even nagloeien: dit was Glow 2026 in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-16T16:43:18+00:00",
+   "eerst_gezien": "2026-11-16T16:44:57.353717+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 17:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108616915/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html": {
    "titel": "Laarbeek wil met Senzer door voor groenonderhoud, maar het moet wel beter werk leveren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108616915/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html",
@@ -4421,7 +4438,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 17:13"
@@ -4438,7 +4455,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5009,7 +5026,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 17:21"
@@ -5026,7 +5043,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 17:19"
@@ -6029,12 +6046,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 8,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 5,
    "fout": ""
   },
   "ED Asten": {
@@ -6114,7 +6131,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
