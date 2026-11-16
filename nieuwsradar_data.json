@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "16-11-2026 21:42",
+ "bijgewerkt": "16-11-2026 22:14",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel": {
+   "titel": "Krankzinnig slot bezorgt SJVV periodetitel",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel",
+   "tekst": "SINT JOZEFPAROCHIE - Een rollercoaster aan emoties. Met alle strijd die het moest leveren omdat het een uur lang met een man minder moest spelen, lag iedereen er verslagen bij toen Roggel in de 92e minuut de gelijkmaker wist te forceren. Maar met nog één laatste …",
+   "datum": "2026-11-16T21:45:00+01:00",
+   "eerst_gezien": "2026-11-16T21:13:33.068887+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 21:45"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64695/heropening-en-open-dag-kledingbank-t-hart-in-deurne": {
    "titel": "Heropening en open dag Kledingbank ’t Hart in Deurne",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64695/heropening-en-open-dag-kledingbank-t-hart-in-deurne",
@@ -4965,7 +4982,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 21:17"
@@ -6386,7 +6403,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 35,
    "fout": ""
   },
   "Peelbelang": {
@@ -6506,7 +6523,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
