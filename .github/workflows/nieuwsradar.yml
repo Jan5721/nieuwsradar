@@ -52,10 +52,10 @@ jobs:
         uses: actions/deploy-pages@v4
 
   # GitHub start geplande rondes voor dit account niet betrouwbaar.
-  # Daarom start elke ronde na 15 minuten zelf de volgende (tenzij er al een klaarstaat).
+  # Daarom start elke ronde (ook een geplande) na 15 minuten zelf de volgende, tenzij er al een klaarstaat.
   volgende:
     needs: ophalen
-    if: always() && github.event_name != 'schedule'
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - name: Wachten en volgende ronde starten
