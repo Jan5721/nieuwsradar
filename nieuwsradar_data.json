@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "16-11-2026 22:14",
+ "bijgewerkt": "16-11-2026 22:30",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel": {
    "titel": "Krankzinnig slot bezorgt SJVV periodetitel",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 21:45"
@@ -4970,6 +4970,40 @@
    "prio": false,
    "tijd": "12-11 06:37"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126221354a2deurnerit136826": {
+   "titel": "A2 Deurne Rit: 136826",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126221354a2deurnerit136826",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-16T22:13:54+01:00",
+   "eerst_gezien": "2026-11-16T21:29:30.922011+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "16-11 22:13"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126221026a2helmondrit136824": {
+   "titel": "A2 Helmond Rit: 136824",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126221026a2helmondrit136824",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-16T22:10:26+01:00",
+   "eerst_gezien": "2026-11-16T21:29:30.922011+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "16-11 22:10"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126211749a2helmondrit136807": {
    "titel": "A2 Helmond Rit: 136807",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126211749a2helmondrit136807",
@@ -6523,7 +6557,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
