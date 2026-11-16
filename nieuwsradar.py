@@ -312,7 +312,6 @@ def maak_pagina(cfg, items, bronstatus, laatst):
     n_nieuw = sum(1 for i in items if i.get("nieuw"))
     pagina = f"""<!DOCTYPE html>
 <html lang="nl"><head><meta charset="utf-8">
-<meta http-equiv="refresh" content="{int(inst.get('pagina_verversen_minuten', 15)) * 60}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -344,7 +343,7 @@ footer{{max-width:1000px;margin:30px auto;padding:0 20px 40px;font-size:12px;col
 footer li.fout{{color:#B3261E}}
 </style></head><body>
 <header><h1>{html.escape(inst['pagina_titel'])}</h1>
-<div class="sub">Bijgewerkt {html.escape(laatst)} · {len(items)} berichten van de afgelopen {inst['dagen_tonen']} dagen · <span class="nieuwlabel">{n_nieuw} nieuw</span> sinds de vorige ronde</div>
+<div class="sub">Bijgewerkt {html.escape(laatst)} · {len(items)} berichten van de afgelopen {inst['dagen_tonen']} dagen · <span class="nieuwlabel">{n_nieuw} nieuw</span> sinds de vorige ronde <button id="ververs" title="Nieuwste versie ophalen">↻ Ververs</button></div>
 <div class="balk"><button data-f="gem" data-v="" class="aan">Alle gemeenten</button>{knoppen_g}</div>
 <div class="balk"><button data-f="soort" data-v="" class="aan">Alle bronnen</button>{knoppen_s}
 <button id="alleennieuw">Alleen nieuw</button><input id="zoek" placeholder="Zoeken in koppen…"></div></header>
@@ -352,6 +351,9 @@ footer li.fout{{color:#B3261E}}
 <footer><b>Status bronnen</b> (aantal berichten bij de laatste ronde)<ul>{status}</ul>
 Koppen en korte samenvattingen komen uit de feeds van de bronnen; lees het volledige bericht bij de bron. Alleen voor intern gebruik.</footer>
 <script>
+const vers=()=>location.replace(location.pathname+'?t='+Date.now());
+document.getElementById('ververs').onclick=vers;
+setTimeout(vers,{int(inst.get('pagina_verversen_minuten', 15)) * 60000});
 const st={{gem:'',soort:'',nieuw:false,q:''}};
 const verborgen={json.dumps(cfg["instellingen"].get("verborgen_onder_alles", []))};
 function pas(){{document.querySelectorAll('.item').forEach(e=>{{
