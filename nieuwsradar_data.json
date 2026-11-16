@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "16-11-2026 22:30",
+ "bijgewerkt": "16-11-2026 22:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel": {
    "titel": "Krankzinnig slot bezorgt SJVV periodetitel",
@@ -4982,7 +4982,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 22:13"
@@ -4999,7 +4999,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 22:10"
