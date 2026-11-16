@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "16-11-2026 17:50",
+ "bijgewerkt": "16-11-2026 18:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne": {
    "titel": "In beeld: Sinterklaas bezoekt Deurne",
@@ -4409,22 +4409,39 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html": {
-   "titel": "Nog even nagloeien: dit was Glow 2026 in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108617317/negen-maanden-eerder-dan-gepland-de-sleutel-woontoren-pure-opgeleverd.html": {
+   "titel": "Negen maanden eerder dan gepland de sleutel, woontoren Pure opgeleverd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108617317/negen-maanden-eerder-dan-gepland-de-sleutel-woontoren-pure-opgeleverd.html",
    "tekst": "",
-   "datum": "2026-11-16T16:43:18+00:00",
-   "eerst_gezien": "2026-11-16T16:44:57.353717+00:00",
+   "datum": "2026-11-16T17:01:05+00:00",
+   "eerst_gezien": "2026-11-16T17:05:41.299986+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "16-11 17:43"
+   "tijd": "16-11 18:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108617253/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html": {
+   "titel": "Nog even nagloeien: dit was Glow 2026 in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108617253/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-16T16:49:05+00:00",
+   "eerst_gezien": "2026-11-16T17:05:41.299986+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 17:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108616915/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html": {
    "titel": "Laarbeek wil met Senzer door voor groenonderhoud, maar het moet wel beter werk leveren",
@@ -4655,22 +4672,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 16:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108615856/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond.html": {
-   "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108615856/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-16T14:13:05+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
    "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
@@ -5013,6 +5014,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 06:37"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html": {
+   "titel": "Nog even nagloeien: dit was Glow 2026 in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-16T16:43:18+00:00",
+   "eerst_gezien": "2026-11-16T16:44:57.353717+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 17:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108615856/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond.html": {
+   "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108615856/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-16T14:13:05+00:00",
+   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126172154a2deurnerit136728": {
    "titel": "A2 Deurne Rit: 136728",
@@ -6134,7 +6168,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
