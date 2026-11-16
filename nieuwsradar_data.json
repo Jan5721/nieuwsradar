@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 00:07",
+ "bijgewerkt": "17-11-2026 00:24",
  "items": {
   "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/": {
    "titel": "Twee 19-jarigen nemen 109 jaar oude Slagerij Hagelaar in Helmond over",
@@ -4096,6 +4096,23 @@
    "prio": false,
    "tijd": "12-11 06:37"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126002333a2helmondrit136844": {
+   "titel": "A2 Helmond Rit: 136844",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126002333a2helmondrit136844",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T00:23:33+01:00",
+   "eerst_gezien": "2026-11-16T23:23:40.054586+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 00:23"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126221354a2deurnerit136826": {
    "titel": "A2 Deurne Rit: 136826",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126221354a2deurnerit136826",
@@ -6688,7 +6705,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
