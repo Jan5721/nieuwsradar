@@ -9,6 +9,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  actions: write
 
 concurrency:
   group: nieuwsradar
@@ -49,3 +50,23 @@ jobs:
 
       - id: deploy
         uses: actions/deploy-pages@v4
+
+  # GitHub start geplande rondes voor dit account niet betrouwbaar.
+  # Daarom start elke ronde na 15 minuten zelf de volgende (tenzij er al een klaarstaat).
+  volgende:
+    needs: ophalen
+    if: always() && github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wachten en volgende ronde starten
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          sleep 900
+          actief=$(gh run list --workflow nieuwsradar.yml --limit 20 --json databaseId,status --jq '[.[] | select(.databaseId != ${{ github.run_id }}) | select(.status != "completed")] | length')
+          if [ "$actief" = "0" ]; then
+            gh workflow run nieuwsradar.yml --ref main
+          else
+            echo "Er staat al een ronde klaar; geen nieuwe gestart."
+          fi
