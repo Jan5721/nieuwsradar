@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 12:47",
+ "bijgewerkt": "17-11-2026 13:04",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd": {
    "titel": "Lezing over vogeltrek bij De Ossenbeemd",
@@ -935,7 +935,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:45"
@@ -1123,7 +1123,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:42"
@@ -2369,7 +2369,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:47"
@@ -4619,6 +4619,22 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108625530/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar.html": {
+   "titel": "Het ED gaat undercover in het Kasteel van Sinterklaas: hoe krijgen ze het ieder jaar weer voor elkaar'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625530/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar.html",
+   "tekst": "",
+   "datum": "2026-11-17T11:58:12+00:00",
+   "eerst_gezien": "2026-11-17T12:03:29.949064+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108625040/de-anijskrollen-vliegen-weer-over-de-toonbank-het-leeft-heel-erg.html": {
    "titel": "De anijskrollen vliegen weer over de toonbank: `Het leeft heel erg`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108625040/de-anijskrollen-vliegen-weer-over-de-toonbank-het-leeft-heel-erg.html",
@@ -4833,55 +4849,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
-   "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:01:04+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623287/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
-   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623287/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T07:43:19+00:00",
-   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623279/rondleiding-door-het-kasteel-van-sinterklaas-in-helmond-video.html": {
-   "titel": "Rondleiding door het Kasteel van Sinterklaas in Helmond [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623279/rondleiding-door-het-kasteel-van-sinterklaas-in-helmond-video.html",
-   "tekst": "Hoe wonen Sinterklaas en de pieten als ze in Helmond zijn' ð°ð Wij mochten alvast een kijkje nemen in Het Kasteel van Sinterklaas!...",
-   "datum": "2026-11-17T07:41:09+00:00",
-   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 08:41"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
    "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
@@ -5818,6 +5785,55 @@
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 16:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
+   "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
+   "tekst": "",
+   "datum": "2026-11-17T08:01:04+00:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623287/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
+   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623287/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-17T07:43:19+00:00",
+   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623279/rondleiding-door-het-kasteel-van-sinterklaas-in-helmond-video.html": {
+   "titel": "Rondleiding door het Kasteel van Sinterklaas in Helmond [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623279/rondleiding-door-het-kasteel-van-sinterklaas-in-helmond-video.html",
+   "tekst": "Hoe wonen Sinterklaas en de pieten als ze in Helmond zijn' ð°ð Wij mochten alvast een kijkje nemen in Het Kasteel van Sinterklaas!...",
+   "datum": "2026-11-17T07:41:09+00:00",
+   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 08:41"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126153036a2deurnerit136693": {
    "titel": "A2 Deurne Rit: 136693",
@@ -7830,7 +7846,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
