@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 12:31",
+ "bijgewerkt": "17-11-2026 12:47",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd": {
    "titel": "Lezing over vogeltrek bij De Ossenbeemd",
@@ -923,6 +923,23 @@
    "prio": false,
    "tijd": "10-11 14:52"
   },
+  "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/": {
+   "titel": "Het ED gaat undercover in het Kasteel van Sinterklaas: hoe krijgen ze het ieder jaar weer voor elkaar?",
+   "link": "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/",
+   "tekst": "Helmond is er klaar voor. Nu de Goedheiligman veilig in Nederland is aangekomen, strijkt hij weer neer in het kasteel. Vanaf dinsdag 17 november kloppen er duizenden kinderen aan. Maar hoe krijgen de Pieten dat toch iedere keer weer geregeld? We kijken tot begin december mee.",
+   "datum": "2026-11-17T11:45:04+00:00",
+   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 12:45"
+  },
   "https://www.ed.nl/helmond/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond~a023b4f6/": {
    "titel": "Film over dementie gevolgd door gesprek met casemanagers in Helmond",
    "link": "https://www.ed.nl/helmond/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond~a023b4f6/",
@@ -1093,6 +1110,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:00"
+  },
+  "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/": {
+   "titel": "Willy Koppens uit Deurne krijgt Brabant Bokaal voor inzet voor cultuur",
+   "link": "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/",
+   "tekst": "Willy Koppens uit Deurne heeft een Brabant Bokaal gekregen voor zijn inzet voor cultuur. Ook Rolf Vonk uit Veghel en het echtpaar Frens van den Biggelaar en Mia van de Wiel uit Den Dungen ontvingen de onderscheiding van het Cultuurfonds Noord-Brabant.",
+   "datum": "2026-11-17T11:42:28+00:00",
+   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 12:42"
   },
   "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/": {
    "titel": "Gemeente Deurne werkt aan uitkijktoren en wandelpaden bij Peelvenen in Liessel",
@@ -2323,10 +2357,27 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035083/deurne-wint-nk-tegelwippen-in-brabantse-peeldorpen": {
+   "titel": "Deurne wint NK Tegelwippen in Brabantse Peeldorpen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035083/deurne-wint-nk-tegelwippen-in-brabantse-peeldorpen",
+   "tekst": "",
+   "datum": "2026-11-17T11:47:09.942467+00:00",
+   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 12:47"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos": {
    "titel": "Bomen gekapt op Boksenberg voor sterker bos",
    "link": "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos",
-   "tekst": "",
+   "tekst": "Op de Boksenberg zijn afgelopen winter bomen gekapt. Hierdoor zijn open plekken ontstaan waar nieuwe bomen, struiken en planten kunnen groeien. De natuur krijgt deels de kans om zichzelf te herstellen, terwijl op andere plekken jonge …",
    "datum": "2026-11-17T10:26:38.889108+00:00",
    "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2360,7 +2411,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind": {
    "titel": "Sinterklaas arriveert per boot in Someren-Eind",
    "link": "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind",
-   "tekst": "Sinterklaas is per boot aangekomen in Someren-Eind en feestelijk onthaald.",
+   "tekst": "",
    "datum": "2026-11-16T15:56:49.505092+00:00",
    "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -5186,7 +5237,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 12:17"
@@ -7694,12 +7745,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -7734,7 +7785,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 21,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -7799,7 +7850,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 37,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
