@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 12:15",
+ "bijgewerkt": "17-11-2026 12:31",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd": {
    "titel": "Lezing over vogeltrek bij De Ossenbeemd",
@@ -1144,23 +1144,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 11:40"
-  },
-  "https://www.ed.nl/asten/werkgroep-veldbiologie-wandelt-langs-kievitsloop-bij-nederweert~ad7a1c4c/": {
-   "titel": "Werkgroep Veldbiologie wandelt langs Kievitsloop bij Nederweert",
-   "link": "https://www.ed.nl/asten/werkgroep-veldbiologie-wandelt-langs-kievitsloop-bij-nederweert~ad7a1c4c/",
-   "tekst": "De werkgroep Veldbiologie van IVN Asten-Someren houdt een wandeling langs de Kievitsloop bij Nederweert. Dinsdag 24 november start de wandeling om 09.15 uur bij Kievitdijk in Nederweert, met vooraf verzamelen om 09.00 uur bij IVN-gebouw de Stulp in Asten.",
-   "datum": "2026-11-16T10:07:25+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 11:07"
   },
   "https://www.ed.nl/someren/fietsfilmavond-the-big-bike-film-night-komt-naar-someren~a8159073/": {
    "titel": "Fietsfilmavond The Big Bike Film Night komt naar Someren",
@@ -2760,7 +2743,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:07"
@@ -4597,7 +4580,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:07"
@@ -4614,7 +4597,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:01"
@@ -4631,7 +4614,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5191,6 +5174,23 @@
    "prio": false,
    "tijd": "12-11 06:37"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121739a2astenrit137059": {
+   "titel": "A2 Asten Rit: 137059",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121739a2astenrit137059",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T12:17:39+01:00",
+   "eerst_gezien": "2026-11-17T11:31:11.602341+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 12:17"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121515a2astenrit137059": {
    "titel": "A2 Asten Rit: 137059",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121515a2astenrit137059",
@@ -5203,7 +5203,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 12:15"
@@ -5801,6 +5801,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 15:30"
+  },
+  "https://www.ed.nl/asten/werkgroep-veldbiologie-wandelt-langs-kievitsloop-bij-nederweert~ad7a1c4c/": {
+   "titel": "Werkgroep Veldbiologie wandelt langs Kievitsloop bij Nederweert",
+   "link": "https://www.ed.nl/asten/werkgroep-veldbiologie-wandelt-langs-kievitsloop-bij-nederweert~ad7a1c4c/",
+   "tekst": "De werkgroep Veldbiologie van IVN Asten-Someren houdt een wandeling langs de Kievitsloop bij Nederweert. Dinsdag 24 november start de wandeling om 09.15 uur bij Kievitdijk in Nederweert, met vooraf verzamelen om 09.00 uur bij IVN-gebouw de Stulp in Asten.",
+   "datum": "2026-11-16T10:07:25+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 11:07"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126152051a2deurnerit136687": {
    "titel": "A2 Deurne Rit: 136687",
@@ -7687,7 +7704,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "ED Someren": {
