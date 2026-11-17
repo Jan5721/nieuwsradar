@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 16:18",
+ "bijgewerkt": "17-11-2026 16:35",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64708/sinterklaas-komt-naar-sint-jozefparochie": {
    "titel": "Sinterklaas komt naar Sint Jozefparochie",
@@ -4733,7 +4733,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4749,7 +4749,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 16:13"
@@ -4766,7 +4766,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4782,7 +4782,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4798,7 +4798,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4814,7 +4814,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
