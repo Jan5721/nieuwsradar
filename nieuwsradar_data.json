@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 22:17",
+ "bijgewerkt": "17-11-2026 22:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne": {
    "titel": "Film Youri is deze week te zien in het Cultuurcentrum in Deurne",
@@ -4729,7 +4729,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 22:01"
@@ -8389,23 +8389,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#151126222213a2helmondrit136338": {
-   "titel": "A2 Helmond Rit: 136338",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#151126222213a2helmondrit136338",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-15T22:22:13+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "15-11 22:22"
   },
   "https://www.ed.nl/deurne/prins-niels-i-van-de-dorstvlegels~a7334209/": {
    "titel": "Prins Niels I van de Dorstvlegels",
