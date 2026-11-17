@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 09:18",
+ "bijgewerkt": "17-11-2026 09:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64699/willy-koppens-ontvangt-brabant-bokaal-voor-inzet-voor-cultuur": {
    "titel": "Willy Koppens ontvangt Brabant Bokaal voor inzet voor cultuur in Deurne",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 08:45"
@@ -608,7 +608,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 09:07"
@@ -1070,7 +1070,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 09:05"
@@ -3545,6 +3545,23 @@
    "prio": false,
    "tijd": "12-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537636.html": {
+   "titel": "Kennisgeving voornemen wijziging omgevingsplan hoofdstuk 21:11 - Suezlaan 7 in Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537636.html",
+   "tekst": "",
+   "datum": "2026-11-17T00:00:00+00:00",
+   "eerst_gezien": "2026-11-17T08:33:46.934800+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-525799.html": {
    "titel": "Subsidieregeling decentrale politieke partijen Deurne 2026",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-525799.html",
@@ -3814,6 +3831,23 @@
    "prio": false,
    "tijd": "16-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-535448.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Lindenlaan 5 5751AW Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-535448.html",
+   "tekst": "het verbouwen en verduurzamen van de woning met een aanbouw en het realiseren van een bijgebouw",
+   "datum": "2026-11-17T00:00:00+00:00",
+   "eerst_gezien": "2026-11-17T08:33:46.934800+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-529649.html": {
    "titel": "Gemeente Deurne​, melding Besluit activiteiten leefomgeving, Beukelsdijk ​ ​​te ​Deurne",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-529649.html",
@@ -3877,7 +3911,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 01:00"
@@ -3985,6 +4019,23 @@
    "prio": false,
    "tijd": "12-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-535711.html": {
+   "titel": "Gemeente Asten - aanvraag omgevingsvergunning, Rootweg Asten",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-535711.html",
+   "tekst": "het kappen van een dode boom",
+   "datum": "2026-11-17T00:00:00+00:00",
+   "eerst_gezien": "2026-11-17T08:33:46.934800+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-528845.html": {
    "titel": "Gemeente Asten - intrekken aanvraag omgevingsvergunning, Klaproosstraat 19 5721CX Asten",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-528845.html",
@@ -4052,6 +4103,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-535480.html": {
+   "titel": "Gemeente Asten - aanvraag omgevingsvergunning kappen van bomen op diverse locaties",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-535480.html",
+   "tekst": "het kappen van 19 bomen",
+   "datum": "2026-11-17T00:00:00+00:00",
+   "eerst_gezien": "2026-11-17T08:33:46.934800+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-534248.html": {
    "titel": "Gemeente Asten - aanvraag omgevingsvergunning, Binnenhof 3 5721VS Asten",
@@ -4371,7 +4439,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 09:13"
@@ -4388,7 +4456,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 09:07"
@@ -4405,7 +4473,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4421,7 +4489,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4437,7 +4505,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -7169,12 +7237,12 @@
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 24,
    "fout": ""
   },
   "Bekendmakingen Asten": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 12,
    "fout": ""
   },
   "Bekendmakingen Someren": {
@@ -7204,7 +7272,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 40,
+   "aantal": 38,
    "fout": ""
   },
   "112Brabant": {
