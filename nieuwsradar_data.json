@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 09:34",
+ "bijgewerkt": "17-11-2026 09:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64699/willy-koppens-ontvangt-brabant-bokaal-voor-inzet-voor-cultuur": {
    "titel": "Willy Koppens ontvangt Brabant Bokaal voor inzet voor cultuur in Deurne",
@@ -3557,7 +3557,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 01:00"
@@ -3843,7 +3843,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 01:00"
@@ -4031,7 +4031,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 01:00"
@@ -4116,7 +4116,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 01:00"
