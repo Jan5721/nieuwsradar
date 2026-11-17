@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 21:29",
+ "bijgewerkt": "17-11-2026 21:45",
  "items": {
   "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
@@ -1804,6 +1804,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
+   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
+   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
+   "datum": "2026-11-11T16:01:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 17:01"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -5728,40 +5762,6 @@
    "prio": false,
    "tijd": "17-11 08:19"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
-   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
-   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
-   "datum": "2026-11-11T16:01:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 17:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html": {
    "titel": "Rechtbank legt hogere celstraf op voor woningovervallen Zijtaart en Sint-Oedenrode",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html",
@@ -8905,9 +8905,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "ParseError: no element found: line 2, column 0"
+   "ok": true,
+   "aantal": 2,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
