@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 13:36",
+ "bijgewerkt": "17-11-2026 13:52",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe": {
    "titel": "UWV: ‘Aantal mensen met psychische klachten neemt toe’",
@@ -626,7 +626,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 13:34"
@@ -4670,6 +4670,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html": {
+   "titel": "Eindhovense raad beslist over bouwplan Begijnenhof, met veel betaalbare woningen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html",
+   "tekst": "",
+   "datum": "2026-11-17T12:49:05+00:00",
+   "eerst_gezien": "2026-11-17T12:52:05.988150+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html": {
    "titel": "N397 bij Veldhoven nacht afgesloten voor onderhoud",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html",
@@ -4883,23 +4900,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
-   "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:13:11+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
    "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
@@ -5751,6 +5751,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "16-11 18:20"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
+   "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html",
+   "tekst": "",
+   "datum": "2026-11-17T08:13:11+00:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 09:13"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126181614a0helmondrit136741": {
    "titel": "A0 Helmond Rit: 136741",
@@ -8000,7 +8017,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
