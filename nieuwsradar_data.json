@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 07:25",
+ "bijgewerkt": "17-11-2026 07:41",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel": {
    "titel": "Krankzinnig slot bezorgt SJVV periodetitel",
@@ -917,7 +917,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 06:30"
@@ -1091,23 +1091,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "15-11 18:00"
-  },
-  "https://www.ed.nl/helmond/sinterklaas-is-weer-thuis-in-het-helmondse-kasteel~aa9a5eb3/": {
-   "titel": "Sinterklaas is weer ‘thuis’ in het Helmondse kasteel",
-   "link": "https://www.ed.nl/helmond/sinterklaas-is-weer-thuis-in-het-helmondse-kasteel~aa9a5eb3/",
-   "tekst": "Met de wifi-code van het Helmondse kasteel op zak heeft Sinterklaas weer zijn intrek genomen in wat de komende drie weken zijn huis is in Nederland.",
-   "datum": "2026-11-15T16:31:00+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 17:31"
   },
   "https://www.ed.nl/asten/werkgroep-veldbiologie-wandelt-langs-kievitsloop-bij-nederweert~ad7a1c4c/": {
    "titel": "Werkgroep Veldbiologie wandelt langs Kievitsloop bij Nederweert",
@@ -2272,7 +2255,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden": {
    "titel": "Lezing over heggen en hagen in Asten-Heusden",
    "link": "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden",
-   "tekst": "dinsdag Op donderdag 3 december vindt in gemeenschapshuis Hart van Heuze in Asten-Heusden een lezing plaats over aanleg en beheer van heggen en hagen. Het programma begint om acht uur ’s avonds en staat in het teken van biodiversiteit en …",
+   "tekst": "10 november 2026 Op donderdag 3 december vindt in gemeenschapshuis Hart van Heuze in Asten-Heusden een lezing plaats over aanleg en beheer van heggen en hagen. Het programma begint om acht uur ’s avonds en staat in het teken van …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -4359,12 +4342,29 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108622853/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
-   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622853/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108622931/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html": {
+   "titel": "Zijn illegale zakken naast de afvalcontainer asociaal, of is er meer aan de hand'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622931/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html",
    "tekst": "",
-   "datum": "2026-11-17T06:15:01+00:00",
-   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
+   "datum": "2026-11-17T06:31:03+00:00",
+   "eerst_gezien": "2026-11-17T06:40:55.843772+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 07:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
+   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
+   "tekst": "",
+   "datum": "2026-11-17T06:29:05+00:00",
+   "eerst_gezien": "2026-11-17T06:40:55.843772+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4387,7 +4387,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 07:13"
@@ -4404,7 +4404,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4420,7 +4420,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4553,39 +4553,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108619578/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over.html": {
-   "titel": "Twee 19-jarigen nemen 109 jaar oude Slagerij Hagelaar in Helmond over",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108619578/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over.html",
-   "tekst": "",
-   "datum": "2026-11-16T22:12:11+00:00",
-   "eerst_gezien": "2026-11-16T22:18:43.334050+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108618266/voorbijganger-vindt-overleden-man-in-bosjes-langs-spoor-in-eindhoven.html": {
-   "titel": "Voorbijganger vindt overleden man in bosjes langs spoor in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108618266/voorbijganger-vindt-overleden-man-in-bosjes-langs-spoor-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-16T20:01:04+00:00",
-   "eerst_gezien": "2026-11-16T20:07:19.653161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 21:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
    "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
@@ -5591,6 +5558,72 @@
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 11:06"
+  },
+  "https://www.ed.nl/helmond/sinterklaas-is-weer-thuis-in-het-helmondse-kasteel~aa9a5eb3/": {
+   "titel": "Sinterklaas is weer ‘thuis’ in het Helmondse kasteel",
+   "link": "https://www.ed.nl/helmond/sinterklaas-is-weer-thuis-in-het-helmondse-kasteel~aa9a5eb3/",
+   "tekst": "Met de wifi-code van het Helmondse kasteel op zak heeft Sinterklaas weer zijn intrek genomen in wat de komende drie weken zijn huis is in Nederland.",
+   "datum": "2026-11-15T16:31:00+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 17:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108622853/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
+   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622853/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
+   "tekst": "",
+   "datum": "2026-11-17T06:15:01+00:00",
+   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108619578/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over.html": {
+   "titel": "Twee 19-jarigen nemen 109 jaar oude Slagerij Hagelaar in Helmond over",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108619578/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over.html",
+   "tekst": "",
+   "datum": "2026-11-16T22:12:11+00:00",
+   "eerst_gezien": "2026-11-16T22:18:43.334050+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108618266/voorbijganger-vindt-overleden-man-in-bosjes-langs-spoor-in-eindhoven.html": {
+   "titel": "Voorbijganger vindt overleden man in bosjes langs spoor in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108618266/voorbijganger-vindt-overleden-man-in-bosjes-langs-spoor-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-16T20:01:04+00:00",
+   "eerst_gezien": "2026-11-16T20:07:19.653161+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 21:01"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126095608a1somerenrit136497": {
    "titel": "A1 Someren Rit: 136497",
@@ -6770,7 +6803,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -6850,7 +6883,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -6870,7 +6903,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 40,
+   "aantal": 39,
    "fout": ""
   },
   "112Brabant": {
