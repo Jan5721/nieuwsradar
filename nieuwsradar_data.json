@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 22:50",
+ "bijgewerkt": "17-11-2026 23:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne": {
    "titel": "Film Youri is deze week te zien in het Cultuurcentrum in Deurne",
@@ -5283,7 +5283,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 22:44"
