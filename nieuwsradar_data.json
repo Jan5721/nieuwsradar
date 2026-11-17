@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 23:39",
+ "bijgewerkt": "17-11-2026 23:55",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne": {
    "titel": "Film Youri is deze week te zien in het Cultuurcentrum in Deurne",
@@ -4717,6 +4717,22 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108632230/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
+   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108632230/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
+   "tekst": "",
+   "datum": "2026-11-17T22:45:03+00:00",
+   "eerst_gezien": "2026-11-17T22:54:53.576751+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html": {
    "titel": "Wendy en Youri (19) nemen slagerij over: ´Vrienden vinden ons gek´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html",
@@ -4922,22 +4938,6 @@
    "tekst": "",
    "datum": "2026-11-17T16:43:15+00:00",
    "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:31:04+00:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5760,6 +5760,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 10:06"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:31:04+00:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627768/nieuwe-namen-maestro-veldhoven-bekend.html": {
    "titel": "Nieuwe namen Maestro Veldhoven bekend",
@@ -8322,23 +8338,6 @@
    "prio": false,
    "tijd": "16-11 16:49"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#151126235123a2helmondrit136357": {
-   "titel": "A2 Helmond Rit: 136357",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#151126235123a2helmondrit136357",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-15T23:51:23+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "15-11 23:51"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108616708/voormalig-supermarkt-topman-boer-krijgt-sleutelpositie-bij-philips.html": {
    "titel": "Voormalig supermarkt-topman Boer krijgt sleutelpositie bij Philips",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108616708/voormalig-supermarkt-topman-boer-krijgt-sleutelpositie-bij-philips.html",
@@ -8996,7 +8995,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 28,
    "fout": ""
   },
   "112Brabant": {
