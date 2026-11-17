@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 15:14",
+ "bijgewerkt": "17-11-2026 15:30",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe": {
    "titel": "UWV: ‘Aantal mensen met psychische klachten neemt toe’",
@@ -923,6 +923,23 @@
    "prio": false,
    "tijd": "11-11 09:16"
   },
+  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/",
+   "tekst": "In Helmond zijn momenteel enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brahmslaan al ruim een uur zonder stroom.",
+   "datum": "2026-11-17T14:26:49+00:00",
+   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 15:26"
+  },
   "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/": {
    "titel": "Het ED gaat undercover in het Kasteel van Sinterklaas: hoe krijgen ze het ieder jaar weer voor elkaar?",
    "link": "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/",
@@ -1043,23 +1060,6 @@
    "prio": false,
    "tijd": "16-11 17:00"
   },
-  "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/": {
-   "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
-   "link": "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/",
-   "tekst": "IVN Helmond houdt een natuur- en cultuurwandeling langs de Goorloop, de Schootense Loop en de Stiphoutse Loop. Woensdag 25 november begint de wandeling om 10.00 uur op de parkeerplaats naast het kerkhof aan de Hortsedijk in Helmond.",
-   "datum": "2026-11-16T14:01:47+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 15:01"
-  },
   "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/": {
    "titel": "Willy Koppens uit Deurne krijgt Brabant Bokaal voor inzet voor cultuur",
    "link": "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/",
@@ -1093,6 +1093,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 09:05"
+  },
+  "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/": {
+   "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
+   "link": "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/",
+   "tekst": "IVN Helmond houdt een natuur- en cultuurwandeling langs de Goorloop, de Schootense Loop en de Stiphoutse Loop. Woensdag 25 november begint de wandeling om 10.00 uur op de parkeerplaats naast het kerkhof aan de Hortsedijk in Helmond.",
+   "datum": "2026-11-16T14:01:47+00:00",
+   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 15:01"
   },
   "https://www.ed.nl/helmond/martin-76-had-net-15-000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield~a4fed415/": {
    "titel": "Martin (76) had net 15.000 lampjes gekocht voor de kerstrevue toen zijn hart er ineens mee ophield",
@@ -5228,6 +5245,23 @@
    "prio": false,
    "tijd": "12-11 06:37"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138": {
+   "titel": "A2 Helmond Rit: 137138",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T15:29:12+01:00",
+   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 15:29"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126140733a2helmondrit137112": {
    "titel": "A2 Helmond Rit: 137112",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126140733a2helmondrit137112",
@@ -8019,7 +8053,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "ED Asten": {
@@ -8119,7 +8153,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 26,
    "fout": ""
   },
   "112Brabant": {
