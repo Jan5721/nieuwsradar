@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 17:25",
+ "bijgewerkt": "17-11-2026 17:41",
  "items": {
   "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
    "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
@@ -30,7 +30,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 16:00"
@@ -47,7 +47,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 15:26"
@@ -240,23 +240,6 @@
    "prio": false,
    "tijd": "16-11 15:01"
   },
-  "https://www.ed.nl/helmond/martin-76-had-net-15-000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield~a4fed415/": {
-   "titel": "Martin (76) had net 15.000 lampjes gekocht voor de kerstrevue toen zijn hart er ineens mee ophield",
-   "link": "https://www.ed.nl/helmond/martin-76-had-net-15-000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield~a4fed415/",
-   "tekst": "Zaterdagochtend kocht Martin Martens nog 15.000 lampjes voor de kerstrevue van zijn toneelgroep. De Helmonder was net in zijn wagen gestapt toen zijn hart er ineens mee ophield. Hij overleed in het ziekenhuis, 76 jaar oud. Veel Helmondse clubs zijn in rouw.",
-   "datum": "2026-11-16T13:30:00+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 14:30"
-  },
   "https://www.ed.nl/asten/grip-wagen-komt-naar-asten-voor-kleine-hoeveelheden-afval~a78bd205/": {
    "titel": "Grip-wagen komt naar Asten voor kleine hoeveelheden afval",
    "link": "https://www.ed.nl/asten/grip-wagen-komt-naar-asten-voor-kleine-hoeveelheden-afval~a78bd205/",
@@ -308,10 +291,27 @@
    "prio": false,
    "tijd": "17-11 13:09"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035101/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek": {
+   "titel": "Wendy en Youri (19) nemen slagerij over: 'Vrienden vinden ons gek'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035101/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek",
+   "tekst": "Hun vrienden zijn vooral bezig met studeren, uitgaan en genieten van hun jeugd. Maar Wendy Veenhuis en Youri de Lepper, allebei 19 jaar, hebben andere plannen. Het stel wordt de nieuwe eigenaar van Slagerij Hagelaar in Helmond. Een zaak die al 109 jaar bestaat. Hun vrienden …",
+   "datum": "2026-11-17T16:30:00+00:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 17:30"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen": {
    "titel": "Stroomstoring in Helmond, herstel verwacht rond half negen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen",
-   "tekst": "",
+   "tekst": "In Helmond is sinds kwart over vier een stroomstoring. Een deel van postcodegebied 5706 is getroffen. De netbeheerder verwacht dat de storing rond half negen vanavond is opgelost.",
    "datum": "2026-11-17T15:51:24.334830+00:00",
    "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -345,7 +345,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond half drie",
    "link": "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie",
-   "tekst": "De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds half elf vanochtend zonder stroom. De storing duurde tot elf uur zevenenveertig.",
+   "tekst": "",
    "datum": "2026-11-17T10:10:38.579736+00:00",
    "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -793,23 +793,6 @@
    "gemeenten": [
     "Helmond",
     "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033936/helmond-sport-verliest-nipt-van-fc-volendam": {
-   "titel": "Helmond Sport verliest nipt van FC Volendam",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033936/helmond-sport-verliest-nipt-van-fc-volendam",
-   "tekst": "6 november 2026 Helmond Sport heeft vrijdagavond in eigen stadion met 2-3 verloren van FC Volendam. Ondanks tweemaal terugkomen van een achterstand, besliste een doelpunt tien minuten voor tijd de wedstrijd. Het duel in het MySteel Stadion …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
@@ -2133,2025 +2116,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
-   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:19:02+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627667/jannes-b-22-acht-jaar-vast-voor-gewelddadige-overvallen-in-zijtaart-en-sint-oedenrode-kinderen-sliepen-in-woning.html": {
-   "titel": "Jannes B. (22) acht jaar vast voor gewelddadige overvallen in Zijtaart en Sint-Oedenrode, kinderen sliepen in woning",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627667/jannes-b-22-acht-jaar-vast-voor-gewelddadige-overvallen-in-zijtaart-en-sint-oedenrode-kinderen-sliepen-in-woning.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:13:11+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627505/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627505/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:01:05+00:00",
-   "eerst_gezien": "2026-11-17T16:07:36.374713+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html": {
-   "titel": "Rechtbank legt hogere celstraf op voor woningovervallen Zijtaart en Sint-Oedenrode",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:49:05+00:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627164/markante-deurnese-villa-zit-straks-vol-senioren.html": {
-   "titel": "Markante Deurnese villa zit straks vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627164/markante-deurnese-villa-zit-straks-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:13:05+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627163/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html": {
-   "titel": "Klapstuk van jubileumjaar Böhmische Freunde: concert in drie muziekstijlen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627163/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:13:05+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:13:05+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html": {
-   "titel": "Markante Deurnese villa zit straks vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html": {
-   "titel": "Klapstuk van jubileumjaar Böhmische Freunde: concert in drie muziekstijlen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html",
-   "tekst": "",
-   "datum": "2026-11-17T14:31:03+00:00",
-   "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html": {
-   "titel": "Gemeenteraad buigt zich over volgende stap voor Begijnenhof, waar woontoren net onder de Catharinakerk uitkomt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html",
-   "tekst": "",
-   "datum": "2026-11-17T13:13:10+00:00",
-   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626166/jan-g-opnieuw-aangehouden-in-groot-onderzoek-naar-drugshandel-ook-zes-andere-arrestaties.html": {
-   "titel": "Jan G. opnieuw aangehouden in groot onderzoek naar drugshandel, ook zes andere arrestaties",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626166/jan-g-opnieuw-aangehouden-in-groot-onderzoek-naar-drugshandel-ook-zes-andere-arrestaties.html",
-   "tekst": "",
-   "datum": "2026-11-17T13:13:05+00:00",
-   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626163/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html": {
-   "titel": "Cateringbedrijf Maison van den Boer vertrekt na 120 jaar uit Veghel, `passende oplossing` gezocht voor medewerkers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626163/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html",
-   "tekst": "",
-   "datum": "2026-11-17T13:13:05+00:00",
-   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:11:39+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
-   "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html",
-   "tekst": "",
-   "datum": "2026-11-15T20:15:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 21:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
-   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
-   "tekst": "",
-   "datum": "2026-11-15T18:45:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 19:45"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html": {
-   "titel": "Prins Bart I gaat voorop bij De Peelstrekels",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html",
-   "tekst": "",
-   "datum": "2026-11-15T10:43:15+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 11:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html": {
-   "titel": "Aanpassing van weg tussen Helmond en Deurne komt dichterbij, maar tunnelwerk schuift door",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html",
-   "tekst": "",
-   "datum": "2026-11-14T22:15:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond",
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 23:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
-   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
-   "tekst": "",
-   "datum": "2026-11-15T22:42:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html": {
-   "titel": "Bronsgieterij Royal Eijsbouts, Asten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html",
-   "tekst": "Een gebroken bronzen beeld van een kunstenaar maakte dat ik op zoek moest naar een bronsgieterij, maar waar zijn die en wat is dan een goede...",
-   "datum": "2026-11-12T22:24:04+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:24"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html": {
-   "titel": "Speciaal plan Snack Products voor eigen huisvesting positief ontvangen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html",
-   "tekst": "Komkommerteler Snack Products heeft plannen voor een eigen huisvestingslocatie in Heusden. Er moeten 192 eigen medewerkers gehuisvest...",
-   "datum": "2026-11-12T22:09:47+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:09"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html": {
-   "titel": "Graafwerk van een andere partij sloopt glasvezel in Asten-Heusden: tv, internet en vaste lijn eruit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html",
-   "tekst": "",
-   "datum": "2026-11-12T15:11:23+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 16:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html": {
-   "titel": "400 huizen in Asten-Heusden zonder internet door storing",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html",
-   "tekst": "",
-   "datum": "2026-11-12T13:49:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 14:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html": {
-   "titel": "Beiaardier 2026 Asten [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html",
-   "tekst": "Beiaardier Rosemarie Seuntiëns speelt op het carillon in de Astense kerktoren.",
-   "datum": "2026-11-12T12:30:05+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 13:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html": {
-   "titel": "IVN neemt wandelaars mee door natuurgebied Keelven in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html",
-   "tekst": "Het natuurgebied rond het Keelven in Someren heeft door de jaren heen grote veranderingen ondergaan. Tijdens een publiekswandeling...",
-   "datum": "2026-11-11T22:55:02+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 23:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html": {
-   "titel": "Waarom de gemeenten Asten en Someren juist hier een azc willen bouwen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html",
-   "tekst": "",
-   "datum": "2026-11-11T12:25:12+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 13:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html": {
-   "titel": "Sportieve prins Twan II voorop in de polonaise bij De Meerpoel in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html",
-   "tekst": "",
-   "datum": "2026-11-14T22:12:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 23:12"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html": {
-   "titel": "Vroeger liep Koen mee met `t Vaartje, nu is hij prins van De Plattevonder",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html",
-   "tekst": "",
-   "datum": "2026-11-14T14:11:36+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 15:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html": {
-   "titel": "Vroeger liep Koen mee met `t Vaartje tijdens de carnaval, nu is hij prins van De Plattevonder",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html",
-   "tekst": "",
-   "datum": "2026-11-14T08:29:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 09:29"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html": {
-   "titel": "Someren presenteert centrumplan met hoogbouw, maar inwoners vrezen voor kermis en Kennedymars",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html",
-   "tekst": "",
-   "datum": "2026-11-12T06:37:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 07:37"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html": {
-   "titel": "Meningen verdeeld over Somerens centrumplan: `Mooi, maar kan de Kennedymars hier nog eindigen'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html",
-   "tekst": "",
-   "datum": "2026-11-12T05:37:10+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 06:37"
-  },
-  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/",
-   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
-   "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
-  },
-  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
-   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/",
-   "tekst": "In Helmond zijn momenteel enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brahmslaan al ruim een uur zonder stroom.",
-   "datum": "2026-11-17T14:26:49+00:00",
-   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 15:26"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033461/eerste-cultuurcafe-someren-brengt-cultuurmakers-samen": {
-   "titel": "Eerste Cultuurcafé Someren brengt cultuurmakers samen",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033461/eerste-cultuurcafe-someren-brengt-cultuurmakers-samen",
-   "tekst": "3 november 2026 Bij Punt 18 in Someren heeft op donderdag 29 oktober de eerste editie van het Cultuurcafé plaatsgevonden. Zo’n 25 aanwezigen, waaronder culturele verenigingen, makers en maatschappelijke organisaties, gingen met elkaar in …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html": {
-   "titel": "Eindhovense raad beslist over bouwplan Begijnenhof, met veel betaalbare woningen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html",
-   "tekst": "",
-   "datum": "2026-11-17T12:49:05+00:00",
-   "eerst_gezien": "2026-11-17T12:52:05.988150+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html": {
-   "titel": "N397 bij Veldhoven nacht afgesloten voor onderhoud",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html",
-   "tekst": "",
-   "datum": "2026-11-17T12:13:05+00:00",
-   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html": {
-   "titel": "Waarom sportschool en dansschool in Deurne zich overvallen voelen door het plan voor het buurthuis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html",
-   "tekst": "",
-   "datum": "2026-11-12T22:42:09+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:42"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176": {
-   "titel": "A2 Helmond Rit: 137176",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T16:50:54+01:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 16:50"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151": {
-   "titel": "A1 Helmond Rit: 137151",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-17T15:54:00+01:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 15:54"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140": {
-   "titel": "A2 Asten Rit: 137140",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T15:33:27+01:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 15:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138": {
-   "titel": "A2 Helmond Rit: 137138",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T15:29:12+01:00",
-   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 15:29"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126140733a2helmondrit137112": {
-   "titel": "A2 Helmond Rit: 137112",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126140733a2helmondrit137112",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T14:07:33+01:00",
-   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 14:07"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126130603a2helmondrit137079": {
-   "titel": "A2 Helmond Rit: 137079",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126130603a2helmondrit137079",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T13:06:03+01:00",
-   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 13:06"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121739a2astenrit137059": {
-   "titel": "A2 Asten Rit: 137059",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121739a2astenrit137059",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T12:17:39+01:00",
-   "eerst_gezien": "2026-11-17T11:31:11.602341+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 12:17"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121515a2astenrit137059": {
-   "titel": "A2 Asten Rit: 137059",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121515a2astenrit137059",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T12:15:15+01:00",
-   "eerst_gezien": "2026-11-17T11:15:09.316881+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 12:15"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126114610a2astenrit137043": {
-   "titel": "A2 Asten Rit: 137043",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126114610a2astenrit137043",
-   "tekst": "Ambulance 22-114 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T11:46:10+01:00",
-   "eerst_gezien": "2026-11-17T10:59:06.828700+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 11:46"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126113851a2helmondrit137040": {
-   "titel": "A2 Helmond Rit: 137040",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126113851a2helmondrit137040",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T11:38:51+01:00",
-   "eerst_gezien": "2026-11-17T10:43:02.931022+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 11:38"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126111309a2helmondrit137031": {
-   "titel": "A2 Helmond Rit: 137031",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126111309a2helmondrit137031",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-132)",
-   "datum": "2026-11-17T11:13:09+01:00",
-   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 11:13"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126104955a2helmondrit137013": {
-   "titel": "A2 Helmond Rit: 137013",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126104955a2helmondrit137013",
-   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T10:49:55+01:00",
-   "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 10:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126103021a1helmondrit136996": {
-   "titel": "A1 Helmond Rit: 136996",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126103021a1helmondrit136996",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T10:30:21+01:00",
-   "eerst_gezien": "2026-11-17T09:38:45.270104+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 10:30"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126102304a1deurnerit136991": {
-   "titel": "A1 Deurne Rit: 136991",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126102304a1deurnerit136991",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T10:23:04+01:00",
-   "eerst_gezien": "2026-11-17T09:38:45.270104+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 10:23"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101657a1astenrit136984": {
-   "titel": "A1 Asten Rit: 136984",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101657a1astenrit136984",
-   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
-   "datum": "2026-11-17T10:16:57+01:00",
-   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 10:16"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101655a1astenrit136984": {
-   "titel": "A1 Asten Rit: 136984",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101655a1astenrit136984",
-   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
-   "datum": "2026-11-17T10:16:55+01:00",
-   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101240a2astenrit136981": {
-   "titel": "A2 Asten Rit: 136981",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101240a2astenrit136981",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T10:12:40+01:00",
-   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 10:12"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126100639a2deurnerit136977": {
-   "titel": "A2 Deurne Rit: 136977",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126100639a2deurnerit136977",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T10:06:39+01:00",
-   "eerst_gezien": "2026-11-17T09:06:16.238804+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 10:06"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126084833a1helmondrit136931": {
-   "titel": "A1 Helmond Rit: 136931",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126084833a1helmondrit136931",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T08:48:33+01:00",
-   "eerst_gezien": "2026-11-17T08:01:21.527676+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 08:48"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126081934a2astenrit136918": {
-   "titel": "A2 Asten Rit: 136918",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126081934a2astenrit136918",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T08:19:34+01:00",
-   "eerst_gezien": "2026-11-17T07:28:57.294474+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 08:19"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050852a2helmondrit136886": {
-   "titel": "A2 Helmond Rit: 136886",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050852a2helmondrit136886",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-131)",
-   "datum": "2026-11-17T05:08:52+01:00",
-   "eerst_gezien": "2026-11-17T04:15:14.420349+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 05:08"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050752a1helmondrit136884": {
-   "titel": "A1 Helmond Rit: 136884",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050752a1helmondrit136884",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T05:07:52+01:00",
-   "eerst_gezien": "2026-11-17T04:15:14.420349+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 05:07"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126034246a1helmondrit136876": {
-   "titel": "A1 Helmond Rit: 136876",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126034246a1helmondrit136876",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T03:42:46+01:00",
-   "eerst_gezien": "2026-11-17T02:55:06.697269+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 03:42"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126014957a2helmondrit136865": {
-   "titel": "A2 Helmond Rit: 136865",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126014957a2helmondrit136865",
-   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T01:49:57+01:00",
-   "eerst_gezien": "2026-11-17T01:34:08.686254+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 01:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126010800a2heusdenastenrit136857": {
-   "titel": "A2 Heusden Asten Rit: 136857",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126010800a2heusdenastenrit136857",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T01:08:00+01:00",
-   "eerst_gezien": "2026-11-17T00:28:39.249998+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 01:08"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126004201a2astenrit136848": {
-   "titel": "A2 Asten Rit: 136848",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126004201a2astenrit136848",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T00:42:01+01:00",
-   "eerst_gezien": "2026-11-16T23:56:14.252126+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 00:42"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64708/sinterklaas-komt-naar-sint-jozefparochie": {
-   "titel": "Sinterklaas komt naar Sint Jozefparochie",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64708/sinterklaas-komt-naar-sint-jozefparochie",
-   "tekst": "SINT JOZEFPAROCHIE - Sinterklaas brengt zondag 22 november een bezoek aan Sint Jozefparochie. Samen met zijn Pieten maakt hij zijn intocht in de wijk. In gemeenschapshuis het Hofke van Marijke vindt van 15.15 tot 16.45 uur een feestelijk programma plaats.",
-   "datum": "2026-11-17T15:30:00+01:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 15:30"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe": {
-   "titel": "UWV: ‘Aantal mensen met psychische klachten neemt toe’",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe",
-   "tekst": "REGIO - Diverse sectoren in De Peel kampen nog altijd met grote personeelstekorten. 'De uitdaging zit steeds meer in het vinden van de juiste match tussen vraag en aanbod', aldus het UWV, dat tevens het aantal mensen met psychische klachten ziet groeien.",
-   "datum": "2026-11-17T13:14:00+01:00",
-   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Asten",
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:14"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd": {
-   "titel": "Lezing over vogeltrek bij De Ossenbeemd",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd",
-   "tekst": "DEURNE - Vogelwerkgroep De Kulert houdt maandag 23 november een lezing over vogeltrek bij De Ossenbeemd in Deurne. Gastspreker Gerard Compiet vertelt van 20.00 tot 22.00 uur over de jaarlijkse verplaatsingen van vogels. De inloop begint om 19.45 uur.",
-   "datum": "2026-11-17T11:25:00+01:00",
-   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 11:25"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64697/nick-en-fenna-strijbos-boerenbruidspaar-in-sint-jozefparochie": {
-   "titel": "Nick en Fenna Strijbos zijn boerenbruidspaar in Sint Jozefparochie",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64697/nick-en-fenna-strijbos-boerenbruidspaar-in-sint-jozefparochie",
-   "tekst": "SINT JOZEFPAROCHIE - Nick (36) en Fenna (34) Strijbos zijn zaterdag in het Hofke van Marijke gepresenteerd als het 33e boerenbruidspaar van Sint Jozefparochie. Onder de namen Tinus van ut Krèjtbord en Kato van de Kempische Hei gaan ze komende carnaval voorop in het …",
-   "datum": "2026-11-17T10:15:00+01:00",
-   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 10:15"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64699/willy-koppens-ontvangt-brabant-bokaal-voor-inzet-voor-cultuur": {
-   "titel": "Willy Koppens ontvangt Brabant Bokaal voor inzet voor cultuur in Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64699/willy-koppens-ontvangt-brabant-bokaal-voor-inzet-voor-cultuur",
-   "tekst": "DEURNE - Willy Koppens heeft maandag 16 november de Brabant Bokaal 2026 ontvangen. Hij krijgt de onderscheiding van het Cultuurfonds Noord-Brabant voor zijn jarenlange vrijwillige inzet voor het culturele leven in Deurne. De prijs werd uitgereikt tijdens een bijeenkomst in …",
-   "datum": "2026-11-17T08:45:00+01:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 08:45"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel": {
-   "titel": "Krankzinnig slot bezorgt SJVV periodetitel",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel",
-   "tekst": "SINT JOZEFPAROCHIE - Een rollercoaster aan emoties. Met alle strijd die het moest leveren omdat het een uur lang met een man minder moest spelen, lag iedereen er verslagen bij toen Roggel in de 92e minuut de gelijkmaker wist te forceren. Maar met nog één laatste …",
-   "datum": "2026-11-16T21:45:00+01:00",
-   "eerst_gezien": "2026-11-16T21:13:33.068887+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 21:45"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64695/heropening-en-open-dag-kledingbank-t-hart-in-deurne": {
-   "titel": "Heropening en open dag Kledingbank ’t Hart in Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64695/heropening-en-open-dag-kledingbank-t-hart-in-deurne",
-   "tekst": "DEURNE - Na een kleine verbouwing en een flinke opknapbeurt opent de Kledingbank van 't Hart op zondag 22 november weer officieel haar deuren. Voor klanten is de winkel alweer enige weken open. Er wordt momenteel nog gewerkt aan de laatste details.",
-   "datum": "2026-11-16T18:31:00+01:00",
-   "eerst_gezien": "2026-11-16T18:12:11.310413+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 18:31"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne": {
-   "titel": "In beeld: Sinterklaas bezoekt Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne",
-   "tekst": "DEURNE - Sinterklaas heeft zondag 15 november samen met zijn Pieten een bezoek gebracht aan Deurne. Op de Markt werd de goedheiligman ontvangen door burgemeester Greet Buter. Kinderen en hun ouders kwamen kijken naar de intocht en het programma met optredens van de Pietenschool …",
-   "datum": "2026-11-16T16:03:00+01:00",
-   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:03"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64673/dennis-en-femke-trines-gaan-voorop-bij-de-ulewappers": {
-   "titel": "Dennis en Femke Trines gaan voorop bij De Ulewappers",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64673/dennis-en-femke-trines-gaan-voorop-bij-de-ulewappers",
-   "tekst": "NEERKANT - Dennis Trines (51) en zijn vrouw Femke Trines-Feller (40) zijn de nieuwe prins en prinses van carnavalsvereniging De Ulewappers in Neerkant. Het echtpaar woont met hun kinderen Jorn (13) en Fynn (15) aan de Sint Vincentiusstraat en kijkt ernaar uit om samen voorop te …",
-   "datum": "2026-11-16T12:00:26+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 12:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64646/museum-de-wieger-is-op-zoek-naar-oude-kerstballen": {
-   "titel": "Museum De Wieger is op zoek naar oude kerstballen",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64646/museum-de-wieger-is-op-zoek-naar-oude-kerstballen",
-   "tekst": "DEURNE - Museum De Wieger is op zoek naar nostalgische kerstballen en kerstornamenten om de kerstsfeer uit de tijd van Hendrik Wiegersma tot leven te brengen. Voor de tweede editie van Kerst in De Wieger, van 8 december 2026 tot en met 3 januari 2027, wil het museum een …",
-   "datum": "2026-11-15T18:40:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 18:40"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64661/pieter-van-de-akker-69ste-prins-van-de-streupers": {
-   "titel": "Pieter van de Akker 69ste Prins van De Streupers",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64661/pieter-van-de-akker-69ste-prins-van-de-streupers",
-   "tekst": "DE RIPS - Pieter van de Akker (41) is uitgeroepen tot de 69ste Prins van carnavalsvereniging De Streupers. Als Prins Pieter d'n Eerste voert hij samen met zijn prinses Hanneke van de Akker het komende carnavalsseizoen de scepter over het Streupersrijk.",
-   "datum": "2026-11-15T13:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 13:30"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64660/frans-en-asia-nielen-nieuw-prinsenpaar-van-de-peelpluimen": {
-   "titel": "Frans en Asia Nielen nieuw prinsenpaar van de Peelpluimen",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64660/frans-en-asia-nielen-nieuw-prinsenpaar-van-de-peelpluimen",
-   "tekst": "HELENAVEEN - Frans Niele en Asia Nielen-Granatowska zijn zaterdagavond uitgeroepen tot het 67ste prinsenpaar van carnavalsvereniging De Peelpluimen. Tijdens het prinsenbal in dorpscentrum De Gouden Helm werden ook het nieuwe jeugdprinsenpaar Loek I en Aysa I gepresenteerd.",
-   "datum": "2026-11-15T13:00:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 13:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64659/harm-van-de-mortel-nieuwe-prins-van-c-s-de-kei": {
-   "titel": "Harm van de Mortel nieuwe Prins van C.S. De Kei",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64659/harm-van-de-mortel-nieuwe-prins-van-c-s-de-kei",
-   "tekst": "LIESSEL - Harm van de Mortel (26) is zaterdag tijdens het KEI-festijn uitgeroepen tot Prins Harm d'n Uurste van C.S. De Kei. Hij gaat tijdens carnaval voorop in het feestgedruis in Liessel.",
-   "datum": "2026-11-15T12:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 12:30"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64658/niels-van-rijssel-zwaait-als-51ste-prins-van-de-dorstvlegels-": {
-   "titel": "Niels van Rijssel zwaait als 51ste Prins van de Dorstvlegels de scepter",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64658/niels-van-rijssel-zwaait-als-51ste-prins-van-de-dorstvlegels-",
-   "tekst": "VLIERDEN - Niels van Rijssel (22) is uitgeroepen tot de 51ste Prins van de Dorstvlegels. Tijdens de spelshow 'Zo Vader Zo Zoon' werd hij gepresenteerd als de nieuwe voorganger van Dorstvlegelland.",
-   "datum": "2026-11-15T12:00:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 12:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64657/jan-stevens-en-peppone-klaus-gaan-voorop-bij-de-pottenbakkers": {
-   "titel": "Jan Stevens en Peppone Klaus gaan voorop bij de Pottenbakkers",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64657/jan-stevens-en-peppone-klaus-gaan-voorop-bij-de-pottenbakkers",
-   "tekst": "ZEILBERG - Jan Stevens en Peppone Klaus zijn zaterdag 14 november uitgeroepen tot het nieuwe prinsenpaar van de Pottenbakkers. De presentatie vond plaats in zaal De Zwaan. Het paar wordt tijdens carnaval bijgestaan door adjudanten Mark en Frans.",
-   "datum": "2026-11-15T11:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 11:30"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64656/bas-van-loon-70ste-prins-der-heikneuters": {
-   "titel": "Bas van Loon 70ste Prins der Heikneuters",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64656/bas-van-loon-70ste-prins-der-heikneuters",
-   "tekst": "SINT JOZEFPAROCHIE - Bas van Loon is zaterdagavond uitgeroepen tot de 70ste Prins der Heikneuters. In een volle residentie het Hofke van Marijke werd hij gepresenteerd als Prins Bas d'n Uurste. Hij voert tijdens carnaval de scepter over de Sint Jozefparochie.",
-   "datum": "2026-11-15T10:56:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 10:56"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64655/prins-bart-i-vedder-is-de-69ste-prins-van-de-peelstrekels": {
-   "titel": "Prins Bart I (Vedder) is de 69ste prins van de Peelstrekels",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64655/prins-bart-i-vedder-is-de-69ste-prins-van-de-peelstrekels",
-   "tekst": "DEURNE - Zaterdagavond 14 november werd aan het eind van de Masked Singer in De Strikkeldome bekendgemaakt dat Bart Vedder de nieuwe Peelstrekelprins is. Hij zal als Bart I IN 2027 voorgaan in de polonaise van het Peelstrekelrijk.",
-   "datum": "2026-11-15T10:28:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 10:28"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64654/t-v-a-t-je-neemt-afscheid-met-laatste-voorstellingen": {
-   "titel": "’t V.A.T.-je neemt afscheid met laatste voorstellingen",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64654/t-v-a-t-je-neemt-afscheid-met-laatste-voorstellingen",
-   "tekst": "VLIERDEN - De jeugdafdeling 't V.A.T.-je van toneelvereniging 't V.A.T. speelt in december voor de laatste keer een voorstelling. Op donderdag 11 en vrijdag 12 december staan de jonge toneelspelers om 20.00 uur op het podium van 't Huis in Vlierden. Zondag 13 december begint de …",
-   "datum": "2026-11-14T17:12:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 17:12"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64653/arcades-korfbalsport-zet-jubilarissen-in-het-zonnetje": {
-   "titel": "Arcades Korfbalsport zet jubilarissen in het zonnetje",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64653/arcades-korfbalsport-zet-jubilarissen-in-het-zonnetje",
-   "tekst": "NEERKANT/LIESSEL/ZEILBERG - Tijdens de algemene ledenvergadering van Arcades Korfbalsport is aandacht besteed aan drie bijzondere jubilarissen. Nathalie Thielen, Colinda Roefs-Oosterveen en Truus van Lieshout werden gehuldigd vanwege hun 25-jarig lidmaatschap van de …",
-   "datum": "2026-11-14T14:50:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 14:50"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64652/culinaire-capriolen": {
-   "titel": "Culinaire capriolen",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64652/culinaire-capriolen",
-   "tekst": "Ik kan best een band op mijn brommer leggen en een afdak timmeren dat een tijdje blijft staan lukt ook nog. Maar zet mij voor een fornuis en mijn beschaving valt binnen tien minuten terug naar het stenen tijdperk.Vandaag waag ik me aan risotto met truffel, zeekraal en gekonfijte …",
-   "datum": "2026-11-14T13:33:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 13:33"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64650/kaartverkoop-jubileumconcert-deurnes-mannenkoor-goed-van-start": {
-   "titel": "Kaartverkoop jubileumconcert Deurnes Mannenkoor goed van start",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64650/kaartverkoop-jubileumconcert-deurnes-mannenkoor-goed-van-start",
-   "tekst": "DEURNE - De kaartverkoop voor het jubileum-slotconcert van het Deurnes Mannenkoor is voortvarend begonnen. Het optreden vindt plaats op zondag 22 november en vormt de afsluiting van de viering van het 50-jarig bestaan van het koor.",
-   "datum": "2026-11-14T11:57:13+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 11:57"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64649/nieuwe-hoogheden-heikneuterrijk-verschijnen-in-the-mystery-of": {
-   "titel": "Nieuwe hoogheden Heikneuterrijk verschijnen in ‘The Mystery of Light’",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64649/nieuwe-hoogheden-heikneuterrijk-verschijnen-in-the-mystery-of",
-   "tekst": "SINT JOZEFPAROCHIE - Wie worden de nieuwe hoogheden van het Heikneuterrijk? Die vraag wordt zaterdag 14 november beantwoord tijdens een feestelijke carnavalsavond in gemeenschapshuis het Hofke van Marijke. Onder het thema 'The Mystery of Light' worden de nieuwe hoogheden van de …",
-   "datum": "2026-11-14T10:58:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 10:58"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64647/zie-ginds": {
-   "titel": "Zie ginds",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64647/zie-ginds",
-   "tekst": "Omdat al direct na de grote vakantie de pepernoten in de schappen van de supermarkten liggen wordt het onderhand wel eens tijd dat de Goedheiligman koers zet naar ons koude kikkerlandje. Komende zaterdag arriveert hij in Grave waar dit jaar de stoomboot aanmeert. Vanaf afgelopen …",
-   "datum": "2026-11-13T17:00:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 17:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64645/duofietsendeurne-blikt-terug-op-succesvol-seizoen": {
-   "titel": "DuoFietsenDeurne blikt terug op succesvol seizoen",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64645/duofietsendeurne-blikt-terug-op-succesvol-seizoen",
-   "tekst": "DEURNE - Stichting DuoFietsenDeurne heeft tijdens de jaarlijkse vrijwilligersavond teruggekeken op het afgelopen fietsseizoen. De stichting maakte 211 ritten, waarmee ruim 900 mensen een fietstocht door Deurne en omgeving konden maken.",
-   "datum": "2026-11-13T15:00:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 15:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64644/deurne-maakt-zich-op-voor-de-komst-van-sinterklaas": {
-   "titel": "Deurne maakt zich op voor de komst van Sinterklaas",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64644/deurne-maakt-zich-op-voor-de-komst-van-sinterklaas",
-   "tekst": "DEURNE - Sinterklaas brengt zondag 15 november samen met zijn Pieten een bezoek aan Deurne. De intocht op de Markt begint om 13.30 uur. Burgemeester Greet Buter verwelkomt de goedheiligman officieel.",
-   "datum": "2026-11-13T13:03:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 13:03"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64641/benefietavond-levert-5-540-euro-op-voor-villa-pardoes": {
-   "titel": "Benefietavond levert 5.540 euro op voor Villa Pardoes",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64641/benefietavond-levert-5-540-euro-op-voor-villa-pardoes",
-   "tekst": "SINT JOZEFPAROCHIE - De benefietavond voor Villa Pardoes heeft 5.540,44 euro opgebracht. De organisatie overhandigde dinsdag de cheque aan de stichting. Het evenement in het Hofke van Marijke trok eind september ongeveer 330 bezoekers. De opbrengst is bedoeld om gezinnen met een …",
-   "datum": "2026-11-13T10:45:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 10:45"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64633/sinterklaas-en-zijn-pieten-komen-zondag-op-bezoek-in-zeilberg": {
-   "titel": "Sinterklaas en zijn Pieten komen zondag op bezoek in Zeilberg",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64633/sinterklaas-en-zijn-pieten-komen-zondag-op-bezoek-in-zeilberg",
-   "tekst": "ZEILBERG - Sinterklaas brengt zondag 15 november een bezoek aan Zeilberg. Samen met zijn Pieten wordt hij om 14.15 uur opgehaald bij de molen. Vanaf daar gaat de stoet via de Legerweg, Jagerweg en Blasiusstraat naar gemeenschapshuis Den Draai.",
-   "datum": "2026-11-13T08:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 08:30"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64632/met-boerenverstand-vrijdag-voor-laatste-keer-gratis-te-zien-i": {
-   "titel": "‘Met Boerenverstand’ vrijdag voor laatste keer gratis te zien in Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64632/met-boerenverstand-vrijdag-voor-laatste-keer-gratis-te-zien-i",
-   "tekst": "DEURNE - De film 'Met Boerenverstand' is inmiddels door meer dan 2.000 mensen bekeken. De documentaire over het leven op het Deurnese platteland is gemaakt in opdracht van Stichting Buitengebied Deurne.",
-   "datum": "2026-11-12T22:38:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 22:38"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64631/opinie-zonder-tussenstop-van-wiemel-naar-knoflookbad": {
-   "titel": "Opinie - ‘Zonder tussenstop van Wiemel naar ‘Knoflookbad’’",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64631/opinie-zonder-tussenstop-van-wiemel-naar-knoflookbad",
-   "tekst": "Weet u nog hoe het tijdens corona ging? Zwembaden moesten sluiten, zwemlessen gingen niet door en de wachtlijsten groeiden. Zelfs toen zwemlessen onder voorwaarden mochten doorgaan, duurde het nog jaren voordat de achterstanden waren weggewerkt. Staat ons nu een nog rigoureuzere …",
-   "datum": "2026-11-12T18:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 18:30"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64630/deurne-gaat-voor-verhuizing-van-den-draai-naar-nieuwe-locatie": {
-   "titel": "Deurne gaat voor verhuizing van Den Draai naar nieuwe locatie",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64630/deurne-gaat-voor-verhuizing-van-den-draai-naar-nieuwe-locatie",
-   "tekst": "ZEILBERG - De gemeente Deurne wil vaart zetten achter de plannen voor een nieuw gemeenschapshuis en een beweegvoorziening in het hart van Zeilberg. Het college ziet de kerk als de aangewezen plek voor Den Draai. Achter de kerk moet ruimte komen voor een nieuwe beweegvoorziening.",
-   "datum": "2026-11-12T15:52:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 15:52"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64628/buitengebied-in-beeld-bemeko-partyverhuur": {
-   "titel": "Buitengebied in beeld: Bemeko Partyverhuur",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64628/buitengebied-in-beeld-bemeko-partyverhuur",
-   "tekst": "Met twee compagnons richtte Mark Meulendijks (44) het bedrijf in 2002 op. Door de jaren heen is er het nodige veranderd in de samenstelling van het bedrijf. Een van de medeoprichters is na een aantal jaren gestopt. De andere medeoprichter is helaas op een gegeven moment komen te …",
-   "datum": "2026-11-12T12:18:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 12:18"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64625/periodetitel-lonkt-voor-sv-deurne": {
-   "titel": "Periodetitel lonkt voor SV Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64625/periodetitel-lonkt-voor-sv-deurne",
-   "tekst": "DEURNE - Dankzij de mooie zege op RKSV Nemelaer van afgelopen weekend hebben de mannen van Frank Teeuwen de beste troeven in handen om komende zondag beslag te leggen op de eerste periodetitel. Met nog één speelronde te gaan bedraagt de voorsprong op de enige overgebleven …",
-   "datum": "2026-11-12T09:29:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 09:29"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64622/janus-en-de-rest-wint-dorpsquiz-deurne-wittut": {
-   "titel": "Janus en de rest wint dorpsquiz Deurne Wittut",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64622/janus-en-de-rest-wint-dorpsquiz-deurne-wittut",
-   "tekst": "DEURNE - Team Janus en de rest heeft de zesde editie van dorpsquiz Deurne Wittut gewonnen. In totaal namen 38 teams deel aan de quiz. De winnaar behaalde 608 punten en ontvangt naast de wisseltrofee een cheque van 1.000 euro voor het goede doel het Walhalla.",
-   "datum": "2026-11-11T15:44:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 15:44"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64602/tune-en-renantia-verzorgen-uitwisselingsconcert-in-liessel": {
-   "titel": "Tune en Renantia verzorgen uitwisselingsconcert in Liessel",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64602/tune-en-renantia-verzorgen-uitwisselingsconcert-in-liessel",
-   "tekst": "LIESSEL - Muziekvereniging Tune uit Liessel en fanfare Renantia uit Griendtsveen hebben zaterdag 7 november samen een uitwisselingsconcert verzorgd in gemeenschapshuis De Kastanje. Beide verenigingen brachten een gevarieerd programma met slagwerk, fanfare en orkestmuziek.",
-   "datum": "2026-11-11T11:21:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 11:21"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64551/vernieuwd-e-kartteam-van-hub-van-doornecollege-begint-seizoen": {
-   "titel": "Vernieuwd E-kartteam van Hub van Doornecollege begint seizoen met overwinning",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64551/vernieuwd-e-kartteam-van-hub-van-doornecollege-begint-seizoen",
-   "tekst": "DEURNE - Het E-kartteam van het Hub van Doornecollege is uitstekend begonnen aan het nieuwe raceseizoen. De vernieuwde ploeg pakte tijdens de eerste wedstrijddag in Lelystad direct de overwinning. Maar minstens zo belangrijk als het resultaat was de manier waarop de leerlingen …",
-   "datum": "2026-11-11T09:01:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 09:01"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64594/elf-nederlands-kampioenen-bij-taekwon-do-academy-chon-ji": {
-   "titel": "Elf Nederlands kampioenen bij Taekwon-Do Academy Chon-Ji",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64594/elf-nederlands-kampioenen-bij-taekwon-do-academy-chon-ji",
-   "tekst": "MILHEEZE - Taekwon-Do Academy Chon-Ji heeft zondag 8 november een succesvol Nederlands kampioenschap achter de rug. Tijdens het titeltoernooi in Koog aan de Zaan veroverden de deelnemers van de vereniging elf nationale titels. Daarnaast werden meerdere zilveren en bronzen …",
-   "datum": "2026-11-10T18:18:51+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "10-11 18:18"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans": {
-   "titel": "Asielopvanglocatie start met accu, aggregaat en watertank: ‘Aansluitingen volgen later’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans",
-   "tekst": "ASTEN - Een béétje behelpen: de asielopvanglocatie aan de Kanaalweg in Asten moet komende maand al in bedrijf zijn, maar doet dat in eerste instantie zonder riool- en elektriciteitsaansluiting. \"Maar bewoners merken er niets van.\"",
-   "datum": "2026-11-17T13:34:00+01:00",
-   "eerst_gezien": "2026-11-17T12:35:52.716684+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:34"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64707/onis-houdt-open-inloop-over-vrijwilligerswerk-in-asten-en-someren": {
-   "titel": "Onis houdt open inloop over vrijwilligerswerk in Asten en Someren",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64707/onis-houdt-open-inloop-over-vrijwilligerswerk-in-asten-en-someren",
-   "tekst": "ASTEN/SOMEREN - Ergens in de gemeenten Asten en Someren vrijwilligerswerk doen? Dan zijn de opties legio. Onis Welzijn vertelt er komende maandag meer over tijdens een open inloop in gemeenschapshuis 't Kwartier in Asten.",
-   "datum": "2026-11-17T11:13:00+01:00",
-   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 11:13"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64698/de-lezersfotos-van-de-week": {
-   "titel": "De mooiste lezersfoto’s van de week",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64698/de-lezersfotos-van-de-week",
-   "tekst": "ASTEN - Ook vorige week stroomde de mailbox weer vol met lezersfoto's. Op deze pagina een overzicht van de mooiste platen die binnenkwamen.",
-   "datum": "2026-11-17T09:07:00+01:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:07"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64688/in-beeld-de-klot-trapt-carnaval-af-met-premiere-zittingsavond": {
-   "titel": "In beeld: De Klot trapt carnaval af met première zittingsavond",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64688/in-beeld-de-klot-trapt-carnaval-af-met-premiere-zittingsavond",
-   "tekst": "ASTEN - Traditiegetrouw trapte carnavalsstichting De Klot op de elfde van de elfde het nieuwe seizoen af. In gemeenschapshuis 't Kwartier vond de première van de zittingsavond plaats.",
-   "datum": "2026-11-16T16:09:00+01:00",
-   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:09"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64681/in-beeld-sinterklaas-feestelijk-ontvangen-in-asten": {
-   "titel": "In beeld: Sinterklaas feestelijk ontvangen in Asten",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64681/in-beeld-sinterklaas-feestelijk-ontvangen-in-asten",
-   "tekst": "ASTEN - Een beetje kou wist de hoopvolle verwachtingen zondag niet te temperen. En dus liep Asten uit voor de ontvangst van Sinterklaas en diens gevolg.",
-   "datum": "2026-11-16T14:35:00+01:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 14:35"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64675/de-peelvrujters-presenteren-prins-ramon-als-nieuwe-heusdense-": {
-   "titel": "De Peelvrujters presenteren prins Ramòn als nieuwe Heusdense hoogheid",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64675/de-peelvrujters-presenteren-prins-ramon-als-nieuwe-heusdense-",
-   "tekst": "HEUSDEN - Gemeenschapshuis Hart van Heuze stroomde zaterdag vol verwachting vol. De aftrap van een nieuw carnavalsseizoen werd namelijk vormgegeven met de presentatie van de nieuwe Heusdense hoogheden. Voor de hoogste troon werd prins Ramòn onthuld.",
-   "datum": "2026-11-16T13:25:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:25"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64674/uwv-aantal-mensen-met-psychische-klachten-neemt-toe": {
-   "titel": "UWV: ‘Aantal mensen met psychische klachten neemt toe’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64674/uwv-aantal-mensen-met-psychische-klachten-neemt-toe",
-   "tekst": "REGIO - Diverse sectoren in De Peel kampen nog altijd met grote personeelstekorten. 'De uitdaging zit steeds meer in het vinden van de juiste match tussen vraag en aanbod', aldus het UWV, dat tevens het aantal mensen met psychische klachten ziet groeien.",
-   "datum": "2026-11-16T12:18:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://www.peelbelangonline.nl/nieuws/sport/64667/efficient-nwc-pakt-belangrijke-punten-in-eersel": {
-   "titel": "Efficiënt NWC pakt belangrijke punten in Eersel",
-   "link": "https://www.peelbelangonline.nl/nieuws/sport/64667/efficient-nwc-pakt-belangrijke-punten-in-eersel",
-   "tekst": "EERSEL - NWC rekende zondagmiddag in de tweede helft af met nummer dertien EFC. Het team van trainer Peter Verstappen sprong goed om met de kansen en boekte een belangrijke 0-3 zege op sportpark De Dieprijt.",
-   "datum": "2026-11-16T09:51:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 09:51"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64651/actie-team-huntington-reist-opnieuw-af-naar-nijmegen-allemaal": {
-   "titel": "Actie Team Huntington reist opnieuw af naar Nijmegen: ‘Allemaal hetzelfde doel’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64651/actie-team-huntington-reist-opnieuw-af-naar-nijmegen-allemaal",
-   "tekst": "ASTEN/NIJMEGEN - Voorheen bekend als Campagneteam Huntington, maar inmiddels door het leven als Actie Team Huntington. Komende zondag reist de groep onder leiding van initiatiefnemer Bas van Loon uit Asten opnieuw af naar Nijmegen, om aldaar deel te nemen aan de …",
-   "datum": "2026-11-14T12:49:36+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 12:49"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64648/la-fete-pronkt-weer-in-asten-een-toepasselijke-bestemming": {
-   "titel": "La Fête pronkt weer in Asten: ‘Een toepasselijke bestemming’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64648/la-fete-pronkt-weer-in-asten-een-toepasselijke-bestemming",
-   "tekst": "ASTEN - Hoe het schilderij ooit in Asten belandde? Ook maker Jan van den Berg weet het niet. Maar het kunstwerk La Fête pronkte twintig jaar lang in de trouwzaal in het gemeentehuis van Asten. De tijd liet echter haar sporen na, het beste was er intussen wel vanaf. Maar Van den …",
-   "datum": "2026-11-14T10:17:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 10:17"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64642/plan-voor-open-bomenroute-door-asten-en-someren-samen-kunnen-": {
-   "titel": "Plan voor open bomenroute door Asten en Someren: ‘Samen kunnen we iets bijzonders realiseren’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64642/plan-voor-open-bomenroute-door-asten-en-someren-samen-kunnen-",
-   "tekst": "ASTEN/SOMEREN - \"Bedenk eens wat bomen voor ons betekenen\", zegt Peter van Rees. Hij is mede-initiatiefnemer van het plan voor een open bomenroute door de gemeenten Asten en Someren. De club is op zoek naar inwoners die een handje willen helpen. \"Samen kunnen we iets bijzonders …",
-   "datum": "2026-11-13T12:50:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 12:50"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64634/rek-zeker-nog-niet-uit-aastese-dorpsquiz": {
-   "titel": "Rek zeker nog niet uit Aastese Dorpsquiz",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64634/rek-zeker-nog-niet-uit-aastese-dorpsquiz",
-   "tekst": "ASTEN - Na het eerste lustrum eerder dit jaar was de vraag: is er nog genoeg animo voor de Aastese Dorpsquiz? Het antwoord: jazeker! Nu 28 teams zich hebben ingeschreven is editie nummer zes officieel in de maak. \"We kunnen definitief verder met de voorbereidingen.\"",
-   "datum": "2026-11-13T11:42:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 11:42"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64629/ommelse-in-de-race-voor-plek-in-provinciale-staten-brabant-is": {
-   "titel": "Ommelse in de race voor plek in Provinciale Staten: ‘Brabant is meer dan de grote steden’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64629/ommelse-in-de-race-voor-plek-in-provinciale-staten-brabant-is",
-   "tekst": "OMMEL - Nu nog burgercommissielid in de gemeente Asten, maar straks misschien (ook) lid van de Provinciale Staten van Noord-Brabant. Gemke van Houts-Sauvé uit Ommel staat op plek vier van de kandidatenlijst van Lokaal Brabant. \"Onze dorpen, kleine kernen en lokale gemeenschappen …",
-   "datum": "2026-11-12T13:42:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 13:42"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64626/asten-is-een-bijenheuvel-rijker-willen-biodiversiteit-vergroten": {
-   "titel": "Asten is een bijenheuvel rijker: ‘Willen biodiversiteit vergroten’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64626/asten-is-een-bijenheuvel-rijker-willen-biodiversiteit-vergroten",
-   "tekst": "ASTEN - Bijenhoudersvereniging Sint Ambrosius uit Asten heeft samen met de gemeente een nieuwe bijenheuvel aangelegd. Deze ligt naast het clubgebouw van de vereniging aan de Nachtegaalweg. \"De zandheuvel warmt door de zon snel op, wat ideaal is voor het uitkomen van de larven.\"",
-   "datum": "2026-11-12T12:05:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 12:05"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64624/gratis-themabijeenkomsten-in-asten-over-schimmel-en-inzicht-i": {
-   "titel": "Gratis themabijeenkomsten in Asten over schimmel en inzicht in je energieverbruik",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64624/gratis-themabijeenkomsten-in-asten-over-schimmel-en-inzicht-i",
-   "tekst": "ASTEN - Het Energiehuis Slim Wonen houdt deze en komende maand twee gratis themabijeenkomsten. Onderwerpen zijn 'Schimmel, ventilatie en gezondheid' en 'Inzicht in je energieverbruik'.",
-   "datum": "2026-11-12T09:14:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 09:14"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64621/in-beeld-boomfeestdag-in-t-loverpark-in-asten": {
-   "titel": "In beeld: Boomfeestdag in ‘t Loverpark in Asten",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64621/in-beeld-boomfeestdag-in-t-loverpark-in-asten",
-   "tekst": "ASTEN - De jaarlijkse boomfeestdag in Asten vond vandaag in het nieuwe Loverpark plaats.",
-   "datum": "2026-11-11T15:35:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 15:35"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64605/winteropvang-voor-daklozen-vanwege-kou-eerder-geopend": {
-   "titel": "Winteropvang voor daklozen vanwege kou eerder geopend",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64605/winteropvang-voor-daklozen-vanwege-kou-eerder-geopend",
-   "tekst": "HELMOND - Normaliter opent de winteropvang pas op 1 december, maar daklozen kunnen sinds vorige week al bij De Kamenij in Helmond terecht. De nachtvorst doet namelijk steeds vroeger zijn intrede.",
-   "datum": "2026-11-11T13:42:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 13:42"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64603/asten-en-someren-kiezen-definitief-voor-gezamenlijke-asielopvang": {
-   "titel": "Asten en Someren kiezen definitief voor gezamenlijke asielopvang",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64603/asten-en-someren-kiezen-definitief-voor-gezamenlijke-asielopvang",
-   "tekst": "ASTEN/SOMEREN - De kogel is definitief door de kerk: er komt een asielopvanglocatie voor maximaal 204 mensen aan de Kanaalweg in Asten. De colleges van B en W van de gemeenten Asten en Someren besloten dinsdag officieel te gaan samenwerken.",
-   "datum": "2026-11-11T12:05:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 12:05"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64601/ivn-houdt-herfstwandeling-door-keelven-gebied": {
-   "titel": "IVN houdt herfstwandeling door Keelven-gebied",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64601/ivn-houdt-herfstwandeling-door-keelven-gebied",
-   "tekst": "SOMEREN - IVN Asten-Someren houdt komende zondag een herfstwandeling door het Keelven-gebied in Someren. Tijdens de wandeling staan de natuur, de herfstkleuren en de cultuurgeschiedenis centraal.",
-   "datum": "2026-11-11T09:16:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 09:16"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-528608.html": {
    "titel": "Melding voor het toepassen van grond bij het bouwrijp en woonrijp maken Oostende te Helmond",
@@ -5782,6 +3746,2175 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:31:04+00:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627768/nieuwe-namen-maestro-veldhoven-bekend.html": {
+   "titel": "Nieuwe namen Maestro Veldhoven bekend",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627768/nieuwe-namen-maestro-veldhoven-bekend.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:31:04+00:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 17:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627743/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
+   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627743/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:25:17+00:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627667/jannes-b-22-acht-jaar-vast-voor-gewelddadige-overvallen-in-zijtaart-en-sint-oedenrode-kinderen-sliepen-in-woning.html": {
+   "titel": "Jannes B. (22) acht jaar vast voor gewelddadige overvallen in Zijtaart en Sint-Oedenrode, kinderen sliepen in woning",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627667/jannes-b-22-acht-jaar-vast-voor-gewelddadige-overvallen-in-zijtaart-en-sint-oedenrode-kinderen-sliepen-in-woning.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:13:11+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 17:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627505/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
+   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627505/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:01:05+00:00",
+   "eerst_gezien": "2026-11-17T16:07:36.374713+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html": {
+   "titel": "Rechtbank legt hogere celstraf op voor woningovervallen Zijtaart en Sint-Oedenrode",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:49:05+00:00",
+   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 16:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627164/markante-deurnese-villa-zit-straks-vol-senioren.html": {
+   "titel": "Markante Deurnese villa zit straks vol senioren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627164/markante-deurnese-villa-zit-straks-vol-senioren.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:13:05+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627163/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html": {
+   "titel": "Klapstuk van jubileumjaar Böhmische Freunde: concert in drie muziekstijlen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627163/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:13:05+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 16:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
+   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:13:05+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html": {
+   "titel": "Markante Deurnese villa zit straks vol senioren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:07:21+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html": {
+   "titel": "Klapstuk van jubileumjaar Böhmische Freunde: concert in drie muziekstijlen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:07:21+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
+   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:07:21+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html",
+   "tekst": "",
+   "datum": "2026-11-17T14:31:03+00:00",
+   "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html": {
+   "titel": "Gemeenteraad buigt zich over volgende stap voor Begijnenhof, waar woontoren net onder de Catharinakerk uitkomt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html",
+   "tekst": "",
+   "datum": "2026-11-17T13:13:10+00:00",
+   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 14:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
+   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:29:06+00:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
+   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:11:39+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
+   "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html",
+   "tekst": "",
+   "datum": "2026-11-15T20:15:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 21:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
+   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
+   "tekst": "",
+   "datum": "2026-11-15T18:45:03+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 19:45"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html": {
+   "titel": "Prins Bart I gaat voorop bij De Peelstrekels",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html",
+   "tekst": "",
+   "datum": "2026-11-15T10:43:15+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 11:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html": {
+   "titel": "Aanpassing van weg tussen Helmond en Deurne komt dichterbij, maar tunnelwerk schuift door",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html",
+   "tekst": "",
+   "datum": "2026-11-14T22:15:03+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Helmond",
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 23:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
+   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
+   "tekst": "",
+   "datum": "2026-11-15T22:42:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html": {
+   "titel": "Bronsgieterij Royal Eijsbouts, Asten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html",
+   "tekst": "Een gebroken bronzen beeld van een kunstenaar maakte dat ik op zoek moest naar een bronsgieterij, maar waar zijn die en wat is dan een goede...",
+   "datum": "2026-11-12T22:24:04+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:24"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html": {
+   "titel": "Speciaal plan Snack Products voor eigen huisvesting positief ontvangen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html",
+   "tekst": "Komkommerteler Snack Products heeft plannen voor een eigen huisvestingslocatie in Heusden. Er moeten 192 eigen medewerkers gehuisvest...",
+   "datum": "2026-11-12T22:09:47+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:09"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html": {
+   "titel": "Graafwerk van een andere partij sloopt glasvezel in Asten-Heusden: tv, internet en vaste lijn eruit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html",
+   "tekst": "",
+   "datum": "2026-11-12T15:11:23+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 16:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html": {
+   "titel": "400 huizen in Asten-Heusden zonder internet door storing",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html",
+   "tekst": "",
+   "datum": "2026-11-12T13:49:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 14:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html": {
+   "titel": "Beiaardier 2026 Asten [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html",
+   "tekst": "Beiaardier Rosemarie Seuntiëns speelt op het carillon in de Astense kerktoren.",
+   "datum": "2026-11-12T12:30:05+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 13:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html": {
+   "titel": "IVN neemt wandelaars mee door natuurgebied Keelven in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html",
+   "tekst": "Het natuurgebied rond het Keelven in Someren heeft door de jaren heen grote veranderingen ondergaan. Tijdens een publiekswandeling...",
+   "datum": "2026-11-11T22:55:02+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 23:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html": {
+   "titel": "Waarom de gemeenten Asten en Someren juist hier een azc willen bouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html",
+   "tekst": "",
+   "datum": "2026-11-11T12:25:12+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 13:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html": {
+   "titel": "Sportieve prins Twan II voorop in de polonaise bij De Meerpoel in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html",
+   "tekst": "",
+   "datum": "2026-11-14T22:12:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 23:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html": {
+   "titel": "Vroeger liep Koen mee met `t Vaartje, nu is hij prins van De Plattevonder",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html",
+   "tekst": "",
+   "datum": "2026-11-14T14:11:36+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 15:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html": {
+   "titel": "Vroeger liep Koen mee met `t Vaartje tijdens de carnaval, nu is hij prins van De Plattevonder",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html",
+   "tekst": "",
+   "datum": "2026-11-14T08:29:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 09:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html": {
+   "titel": "Someren presenteert centrumplan met hoogbouw, maar inwoners vrezen voor kermis en Kennedymars",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html",
+   "tekst": "",
+   "datum": "2026-11-12T06:37:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 07:37"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html": {
+   "titel": "Meningen verdeeld over Somerens centrumplan: `Mooi, maar kan de Kennedymars hier nog eindigen'`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html",
+   "tekst": "",
+   "datum": "2026-11-12T05:37:10+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 06:37"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202": {
+   "titel": "A2 Helmond Rit: 137202",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T17:33:50+01:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 17:33"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173329ongevalwegvervoerletselengelseweghelmond": {
+   "titel": "Ongeval wegvervoer letsel Engelseweg Helmond",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173329ongevalwegvervoerletselengelseweghelmond",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-17T17:33:29+01:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 17:33"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126171823a1liesselrit137191": {
+   "titel": "A1 Liessel Rit: 137191",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126171823a1liesselrit137191",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T17:18:23+01:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 17:18"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176": {
+   "titel": "A2 Helmond Rit: 137176",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T16:50:54+01:00",
+   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 16:50"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151": {
+   "titel": "A1 Helmond Rit: 137151",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T15:54:00+01:00",
+   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 15:54"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140": {
+   "titel": "A2 Asten Rit: 137140",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T15:33:27+01:00",
+   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 15:33"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138": {
+   "titel": "A2 Helmond Rit: 137138",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T15:29:12+01:00",
+   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 15:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126140733a2helmondrit137112": {
+   "titel": "A2 Helmond Rit: 137112",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126140733a2helmondrit137112",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T14:07:33+01:00",
+   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 14:07"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126130603a2helmondrit137079": {
+   "titel": "A2 Helmond Rit: 137079",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126130603a2helmondrit137079",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T13:06:03+01:00",
+   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 13:06"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121739a2astenrit137059": {
+   "titel": "A2 Asten Rit: 137059",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121739a2astenrit137059",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T12:17:39+01:00",
+   "eerst_gezien": "2026-11-17T11:31:11.602341+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 12:17"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121515a2astenrit137059": {
+   "titel": "A2 Asten Rit: 137059",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121515a2astenrit137059",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T12:15:15+01:00",
+   "eerst_gezien": "2026-11-17T11:15:09.316881+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 12:15"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126114610a2astenrit137043": {
+   "titel": "A2 Asten Rit: 137043",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126114610a2astenrit137043",
+   "tekst": "Ambulance 22-114 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T11:46:10+01:00",
+   "eerst_gezien": "2026-11-17T10:59:06.828700+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 11:46"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126113851a2helmondrit137040": {
+   "titel": "A2 Helmond Rit: 137040",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126113851a2helmondrit137040",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T11:38:51+01:00",
+   "eerst_gezien": "2026-11-17T10:43:02.931022+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 11:38"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126111309a2helmondrit137031": {
+   "titel": "A2 Helmond Rit: 137031",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126111309a2helmondrit137031",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-132)",
+   "datum": "2026-11-17T11:13:09+01:00",
+   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 11:13"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126104955a2helmondrit137013": {
+   "titel": "A2 Helmond Rit: 137013",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126104955a2helmondrit137013",
+   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T10:49:55+01:00",
+   "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 10:49"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126103021a1helmondrit136996": {
+   "titel": "A1 Helmond Rit: 136996",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126103021a1helmondrit136996",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T10:30:21+01:00",
+   "eerst_gezien": "2026-11-17T09:38:45.270104+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 10:30"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126102304a1deurnerit136991": {
+   "titel": "A1 Deurne Rit: 136991",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126102304a1deurnerit136991",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T10:23:04+01:00",
+   "eerst_gezien": "2026-11-17T09:38:45.270104+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 10:23"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101657a1astenrit136984": {
+   "titel": "A1 Asten Rit: 136984",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101657a1astenrit136984",
+   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
+   "datum": "2026-11-17T10:16:57+01:00",
+   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 10:16"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101655a1astenrit136984": {
+   "titel": "A1 Asten Rit: 136984",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101655a1astenrit136984",
+   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
+   "datum": "2026-11-17T10:16:55+01:00",
+   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101240a2astenrit136981": {
+   "titel": "A2 Asten Rit: 136981",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126101240a2astenrit136981",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T10:12:40+01:00",
+   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 10:12"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126100639a2deurnerit136977": {
+   "titel": "A2 Deurne Rit: 136977",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126100639a2deurnerit136977",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T10:06:39+01:00",
+   "eerst_gezien": "2026-11-17T09:06:16.238804+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 10:06"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126084833a1helmondrit136931": {
+   "titel": "A1 Helmond Rit: 136931",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126084833a1helmondrit136931",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T08:48:33+01:00",
+   "eerst_gezien": "2026-11-17T08:01:21.527676+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 08:48"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126081934a2astenrit136918": {
+   "titel": "A2 Asten Rit: 136918",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126081934a2astenrit136918",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T08:19:34+01:00",
+   "eerst_gezien": "2026-11-17T07:28:57.294474+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 08:19"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050852a2helmondrit136886": {
+   "titel": "A2 Helmond Rit: 136886",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050852a2helmondrit136886",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-131)",
+   "datum": "2026-11-17T05:08:52+01:00",
+   "eerst_gezien": "2026-11-17T04:15:14.420349+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 05:08"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050752a1helmondrit136884": {
+   "titel": "A1 Helmond Rit: 136884",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050752a1helmondrit136884",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T05:07:52+01:00",
+   "eerst_gezien": "2026-11-17T04:15:14.420349+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 05:07"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126034246a1helmondrit136876": {
+   "titel": "A1 Helmond Rit: 136876",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126034246a1helmondrit136876",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T03:42:46+01:00",
+   "eerst_gezien": "2026-11-17T02:55:06.697269+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 03:42"
+  },
+  "https://www.ed.nl/helmond/martin-76-had-net-15-000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield~a4fed415/": {
+   "titel": "Martin (76) had net 15.000 lampjes gekocht voor de kerstrevue toen zijn hart er ineens mee ophield",
+   "link": "https://www.ed.nl/helmond/martin-76-had-net-15-000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield~a4fed415/",
+   "tekst": "Zaterdagochtend kocht Martin Martens nog 15.000 lampjes voor de kerstrevue van zijn toneelgroep. De Helmonder was net in zijn wagen gestapt toen zijn hart er ineens mee ophield. Hij overleed in het ziekenhuis, 76 jaar oud. Veel Helmondse clubs zijn in rouw.",
+   "datum": "2026-11-16T13:30:00+00:00",
+   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 14:30"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033936/helmond-sport-verliest-nipt-van-fc-volendam": {
+   "titel": "Helmond Sport verliest nipt van FC Volendam",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033936/helmond-sport-verliest-nipt-van-fc-volendam",
+   "tekst": "6 november 2026 Helmond Sport heeft vrijdagavond in eigen stadion met 2-3 verloren van FC Volendam. Ondanks tweemaal terugkomen van een achterstand, besliste een doelpunt tien minuten voor tijd de wedstrijd. Het duel in het MySteel Stadion …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
+   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:19:02+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108626166/jan-g-opnieuw-aangehouden-in-groot-onderzoek-naar-drugshandel-ook-zes-andere-arrestaties.html": {
+   "titel": "Jan G. opnieuw aangehouden in groot onderzoek naar drugshandel, ook zes andere arrestaties",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626166/jan-g-opnieuw-aangehouden-in-groot-onderzoek-naar-drugshandel-ook-zes-andere-arrestaties.html",
+   "tekst": "",
+   "datum": "2026-11-17T13:13:05+00:00",
+   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 14:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108626163/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html": {
+   "titel": "Cateringbedrijf Maison van den Boer vertrekt na 120 jaar uit Veghel, `passende oplossing` gezocht voor medewerkers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626163/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html",
+   "tekst": "",
+   "datum": "2026-11-17T13:13:05+00:00",
+   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 14:13"
+  },
+  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/": {
+   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
+   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/",
+   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
+   "datum": "2026-11-17T15:00:00+00:00",
+   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 16:00"
+  },
+  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/",
+   "tekst": "In Helmond zijn momenteel enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brahmslaan al ruim een uur zonder stroom.",
+   "datum": "2026-11-17T14:26:49+00:00",
+   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 15:26"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033461/eerste-cultuurcafe-someren-brengt-cultuurmakers-samen": {
+   "titel": "Eerste Cultuurcafé Someren brengt cultuurmakers samen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033461/eerste-cultuurcafe-someren-brengt-cultuurmakers-samen",
+   "tekst": "3 november 2026 Bij Punt 18 in Someren heeft op donderdag 29 oktober de eerste editie van het Cultuurcafé plaatsgevonden. Zo’n 25 aanwezigen, waaronder culturele verenigingen, makers en maatschappelijke organisaties, gingen met elkaar in …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html": {
+   "titel": "Eindhovense raad beslist over bouwplan Begijnenhof, met veel betaalbare woningen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html",
+   "tekst": "",
+   "datum": "2026-11-17T12:49:05+00:00",
+   "eerst_gezien": "2026-11-17T12:52:05.988150+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html": {
+   "titel": "N397 bij Veldhoven nacht afgesloten voor onderhoud",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html",
+   "tekst": "",
+   "datum": "2026-11-17T12:13:05+00:00",
+   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html": {
+   "titel": "Waarom sportschool en dansschool in Deurne zich overvallen voelen door het plan voor het buurthuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html",
+   "tekst": "",
+   "datum": "2026-11-12T22:42:09+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:42"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126014957a2helmondrit136865": {
+   "titel": "A2 Helmond Rit: 136865",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126014957a2helmondrit136865",
+   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T01:49:57+01:00",
+   "eerst_gezien": "2026-11-17T01:34:08.686254+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 01:49"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126010800a2heusdenastenrit136857": {
+   "titel": "A2 Heusden Asten Rit: 136857",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126010800a2heusdenastenrit136857",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T01:08:00+01:00",
+   "eerst_gezien": "2026-11-17T00:28:39.249998+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 01:08"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126004201a2astenrit136848": {
+   "titel": "A2 Asten Rit: 136848",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126004201a2astenrit136848",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T00:42:01+01:00",
+   "eerst_gezien": "2026-11-16T23:56:14.252126+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 00:42"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64708/sinterklaas-komt-naar-sint-jozefparochie": {
+   "titel": "Sinterklaas komt naar Sint Jozefparochie",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64708/sinterklaas-komt-naar-sint-jozefparochie",
+   "tekst": "SINT JOZEFPAROCHIE - Sinterklaas brengt zondag 22 november een bezoek aan Sint Jozefparochie. Samen met zijn Pieten maakt hij zijn intocht in de wijk. In gemeenschapshuis het Hofke van Marijke vindt van 15.15 tot 16.45 uur een feestelijk programma plaats.",
+   "datum": "2026-11-17T15:30:00+01:00",
+   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 15:30"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe": {
+   "titel": "UWV: ‘Aantal mensen met psychische klachten neemt toe’",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe",
+   "tekst": "REGIO - Diverse sectoren in De Peel kampen nog altijd met grote personeelstekorten. 'De uitdaging zit steeds meer in het vinden van de juiste match tussen vraag en aanbod', aldus het UWV, dat tevens het aantal mensen met psychische klachten ziet groeien.",
+   "datum": "2026-11-17T13:14:00+01:00",
+   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Asten",
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:14"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd": {
+   "titel": "Lezing over vogeltrek bij De Ossenbeemd",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd",
+   "tekst": "DEURNE - Vogelwerkgroep De Kulert houdt maandag 23 november een lezing over vogeltrek bij De Ossenbeemd in Deurne. Gastspreker Gerard Compiet vertelt van 20.00 tot 22.00 uur over de jaarlijkse verplaatsingen van vogels. De inloop begint om 19.45 uur.",
+   "datum": "2026-11-17T11:25:00+01:00",
+   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 11:25"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64697/nick-en-fenna-strijbos-boerenbruidspaar-in-sint-jozefparochie": {
+   "titel": "Nick en Fenna Strijbos zijn boerenbruidspaar in Sint Jozefparochie",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64697/nick-en-fenna-strijbos-boerenbruidspaar-in-sint-jozefparochie",
+   "tekst": "SINT JOZEFPAROCHIE - Nick (36) en Fenna (34) Strijbos zijn zaterdag in het Hofke van Marijke gepresenteerd als het 33e boerenbruidspaar van Sint Jozefparochie. Onder de namen Tinus van ut Krèjtbord en Kato van de Kempische Hei gaan ze komende carnaval voorop in het …",
+   "datum": "2026-11-17T10:15:00+01:00",
+   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 10:15"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64699/willy-koppens-ontvangt-brabant-bokaal-voor-inzet-voor-cultuur": {
+   "titel": "Willy Koppens ontvangt Brabant Bokaal voor inzet voor cultuur in Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64699/willy-koppens-ontvangt-brabant-bokaal-voor-inzet-voor-cultuur",
+   "tekst": "DEURNE - Willy Koppens heeft maandag 16 november de Brabant Bokaal 2026 ontvangen. Hij krijgt de onderscheiding van het Cultuurfonds Noord-Brabant voor zijn jarenlange vrijwillige inzet voor het culturele leven in Deurne. De prijs werd uitgereikt tijdens een bijeenkomst in …",
+   "datum": "2026-11-17T08:45:00+01:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 08:45"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel": {
+   "titel": "Krankzinnig slot bezorgt SJVV periodetitel",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/sport/64696/krankzinnig-slot-bezorgt-sjvv-periodetitel",
+   "tekst": "SINT JOZEFPAROCHIE - Een rollercoaster aan emoties. Met alle strijd die het moest leveren omdat het een uur lang met een man minder moest spelen, lag iedereen er verslagen bij toen Roggel in de 92e minuut de gelijkmaker wist te forceren. Maar met nog één laatste …",
+   "datum": "2026-11-16T21:45:00+01:00",
+   "eerst_gezien": "2026-11-16T21:13:33.068887+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 21:45"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64695/heropening-en-open-dag-kledingbank-t-hart-in-deurne": {
+   "titel": "Heropening en open dag Kledingbank ’t Hart in Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64695/heropening-en-open-dag-kledingbank-t-hart-in-deurne",
+   "tekst": "DEURNE - Na een kleine verbouwing en een flinke opknapbeurt opent de Kledingbank van 't Hart op zondag 22 november weer officieel haar deuren. Voor klanten is de winkel alweer enige weken open. Er wordt momenteel nog gewerkt aan de laatste details.",
+   "datum": "2026-11-16T18:31:00+01:00",
+   "eerst_gezien": "2026-11-16T18:12:11.310413+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 18:31"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne": {
+   "titel": "In beeld: Sinterklaas bezoekt Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne",
+   "tekst": "DEURNE - Sinterklaas heeft zondag 15 november samen met zijn Pieten een bezoek gebracht aan Deurne. Op de Markt werd de goedheiligman ontvangen door burgemeester Greet Buter. Kinderen en hun ouders kwamen kijken naar de intocht en het programma met optredens van de Pietenschool …",
+   "datum": "2026-11-16T16:03:00+01:00",
+   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 16:03"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64673/dennis-en-femke-trines-gaan-voorop-bij-de-ulewappers": {
+   "titel": "Dennis en Femke Trines gaan voorop bij De Ulewappers",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64673/dennis-en-femke-trines-gaan-voorop-bij-de-ulewappers",
+   "tekst": "NEERKANT - Dennis Trines (51) en zijn vrouw Femke Trines-Feller (40) zijn de nieuwe prins en prinses van carnavalsvereniging De Ulewappers in Neerkant. Het echtpaar woont met hun kinderen Jorn (13) en Fynn (15) aan de Sint Vincentiusstraat en kijkt ernaar uit om samen voorop te …",
+   "datum": "2026-11-16T12:00:26+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 12:00"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64646/museum-de-wieger-is-op-zoek-naar-oude-kerstballen": {
+   "titel": "Museum De Wieger is op zoek naar oude kerstballen",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64646/museum-de-wieger-is-op-zoek-naar-oude-kerstballen",
+   "tekst": "DEURNE - Museum De Wieger is op zoek naar nostalgische kerstballen en kerstornamenten om de kerstsfeer uit de tijd van Hendrik Wiegersma tot leven te brengen. Voor de tweede editie van Kerst in De Wieger, van 8 december 2026 tot en met 3 januari 2027, wil het museum een …",
+   "datum": "2026-11-15T18:40:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 18:40"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64661/pieter-van-de-akker-69ste-prins-van-de-streupers": {
+   "titel": "Pieter van de Akker 69ste Prins van De Streupers",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64661/pieter-van-de-akker-69ste-prins-van-de-streupers",
+   "tekst": "DE RIPS - Pieter van de Akker (41) is uitgeroepen tot de 69ste Prins van carnavalsvereniging De Streupers. Als Prins Pieter d'n Eerste voert hij samen met zijn prinses Hanneke van de Akker het komende carnavalsseizoen de scepter over het Streupersrijk.",
+   "datum": "2026-11-15T13:30:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 13:30"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64660/frans-en-asia-nielen-nieuw-prinsenpaar-van-de-peelpluimen": {
+   "titel": "Frans en Asia Nielen nieuw prinsenpaar van de Peelpluimen",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64660/frans-en-asia-nielen-nieuw-prinsenpaar-van-de-peelpluimen",
+   "tekst": "HELENAVEEN - Frans Niele en Asia Nielen-Granatowska zijn zaterdagavond uitgeroepen tot het 67ste prinsenpaar van carnavalsvereniging De Peelpluimen. Tijdens het prinsenbal in dorpscentrum De Gouden Helm werden ook het nieuwe jeugdprinsenpaar Loek I en Aysa I gepresenteerd.",
+   "datum": "2026-11-15T13:00:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 13:00"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64659/harm-van-de-mortel-nieuwe-prins-van-c-s-de-kei": {
+   "titel": "Harm van de Mortel nieuwe Prins van C.S. De Kei",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64659/harm-van-de-mortel-nieuwe-prins-van-c-s-de-kei",
+   "tekst": "LIESSEL - Harm van de Mortel (26) is zaterdag tijdens het KEI-festijn uitgeroepen tot Prins Harm d'n Uurste van C.S. De Kei. Hij gaat tijdens carnaval voorop in het feestgedruis in Liessel.",
+   "datum": "2026-11-15T12:30:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 12:30"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64658/niels-van-rijssel-zwaait-als-51ste-prins-van-de-dorstvlegels-": {
+   "titel": "Niels van Rijssel zwaait als 51ste Prins van de Dorstvlegels de scepter",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64658/niels-van-rijssel-zwaait-als-51ste-prins-van-de-dorstvlegels-",
+   "tekst": "VLIERDEN - Niels van Rijssel (22) is uitgeroepen tot de 51ste Prins van de Dorstvlegels. Tijdens de spelshow 'Zo Vader Zo Zoon' werd hij gepresenteerd als de nieuwe voorganger van Dorstvlegelland.",
+   "datum": "2026-11-15T12:00:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 12:00"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64657/jan-stevens-en-peppone-klaus-gaan-voorop-bij-de-pottenbakkers": {
+   "titel": "Jan Stevens en Peppone Klaus gaan voorop bij de Pottenbakkers",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64657/jan-stevens-en-peppone-klaus-gaan-voorop-bij-de-pottenbakkers",
+   "tekst": "ZEILBERG - Jan Stevens en Peppone Klaus zijn zaterdag 14 november uitgeroepen tot het nieuwe prinsenpaar van de Pottenbakkers. De presentatie vond plaats in zaal De Zwaan. Het paar wordt tijdens carnaval bijgestaan door adjudanten Mark en Frans.",
+   "datum": "2026-11-15T11:30:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 11:30"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64656/bas-van-loon-70ste-prins-der-heikneuters": {
+   "titel": "Bas van Loon 70ste Prins der Heikneuters",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64656/bas-van-loon-70ste-prins-der-heikneuters",
+   "tekst": "SINT JOZEFPAROCHIE - Bas van Loon is zaterdagavond uitgeroepen tot de 70ste Prins der Heikneuters. In een volle residentie het Hofke van Marijke werd hij gepresenteerd als Prins Bas d'n Uurste. Hij voert tijdens carnaval de scepter over de Sint Jozefparochie.",
+   "datum": "2026-11-15T10:56:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 10:56"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64655/prins-bart-i-vedder-is-de-69ste-prins-van-de-peelstrekels": {
+   "titel": "Prins Bart I (Vedder) is de 69ste prins van de Peelstrekels",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64655/prins-bart-i-vedder-is-de-69ste-prins-van-de-peelstrekels",
+   "tekst": "DEURNE - Zaterdagavond 14 november werd aan het eind van de Masked Singer in De Strikkeldome bekendgemaakt dat Bart Vedder de nieuwe Peelstrekelprins is. Hij zal als Bart I IN 2027 voorgaan in de polonaise van het Peelstrekelrijk.",
+   "datum": "2026-11-15T10:28:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 10:28"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64654/t-v-a-t-je-neemt-afscheid-met-laatste-voorstellingen": {
+   "titel": "’t V.A.T.-je neemt afscheid met laatste voorstellingen",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64654/t-v-a-t-je-neemt-afscheid-met-laatste-voorstellingen",
+   "tekst": "VLIERDEN - De jeugdafdeling 't V.A.T.-je van toneelvereniging 't V.A.T. speelt in december voor de laatste keer een voorstelling. Op donderdag 11 en vrijdag 12 december staan de jonge toneelspelers om 20.00 uur op het podium van 't Huis in Vlierden. Zondag 13 december begint de …",
+   "datum": "2026-11-14T17:12:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 17:12"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64653/arcades-korfbalsport-zet-jubilarissen-in-het-zonnetje": {
+   "titel": "Arcades Korfbalsport zet jubilarissen in het zonnetje",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64653/arcades-korfbalsport-zet-jubilarissen-in-het-zonnetje",
+   "tekst": "NEERKANT/LIESSEL/ZEILBERG - Tijdens de algemene ledenvergadering van Arcades Korfbalsport is aandacht besteed aan drie bijzondere jubilarissen. Nathalie Thielen, Colinda Roefs-Oosterveen en Truus van Lieshout werden gehuldigd vanwege hun 25-jarig lidmaatschap van de …",
+   "datum": "2026-11-14T14:50:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 14:50"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64652/culinaire-capriolen": {
+   "titel": "Culinaire capriolen",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64652/culinaire-capriolen",
+   "tekst": "Ik kan best een band op mijn brommer leggen en een afdak timmeren dat een tijdje blijft staan lukt ook nog. Maar zet mij voor een fornuis en mijn beschaving valt binnen tien minuten terug naar het stenen tijdperk.Vandaag waag ik me aan risotto met truffel, zeekraal en gekonfijte …",
+   "datum": "2026-11-14T13:33:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 13:33"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64650/kaartverkoop-jubileumconcert-deurnes-mannenkoor-goed-van-start": {
+   "titel": "Kaartverkoop jubileumconcert Deurnes Mannenkoor goed van start",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64650/kaartverkoop-jubileumconcert-deurnes-mannenkoor-goed-van-start",
+   "tekst": "DEURNE - De kaartverkoop voor het jubileum-slotconcert van het Deurnes Mannenkoor is voortvarend begonnen. Het optreden vindt plaats op zondag 22 november en vormt de afsluiting van de viering van het 50-jarig bestaan van het koor.",
+   "datum": "2026-11-14T11:57:13+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 11:57"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64649/nieuwe-hoogheden-heikneuterrijk-verschijnen-in-the-mystery-of": {
+   "titel": "Nieuwe hoogheden Heikneuterrijk verschijnen in ‘The Mystery of Light’",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64649/nieuwe-hoogheden-heikneuterrijk-verschijnen-in-the-mystery-of",
+   "tekst": "SINT JOZEFPAROCHIE - Wie worden de nieuwe hoogheden van het Heikneuterrijk? Die vraag wordt zaterdag 14 november beantwoord tijdens een feestelijke carnavalsavond in gemeenschapshuis het Hofke van Marijke. Onder het thema 'The Mystery of Light' worden de nieuwe hoogheden van de …",
+   "datum": "2026-11-14T10:58:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 10:58"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64647/zie-ginds": {
+   "titel": "Zie ginds",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64647/zie-ginds",
+   "tekst": "Omdat al direct na de grote vakantie de pepernoten in de schappen van de supermarkten liggen wordt het onderhand wel eens tijd dat de Goedheiligman koers zet naar ons koude kikkerlandje. Komende zaterdag arriveert hij in Grave waar dit jaar de stoomboot aanmeert. Vanaf afgelopen …",
+   "datum": "2026-11-13T17:00:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "13-11 17:00"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64645/duofietsendeurne-blikt-terug-op-succesvol-seizoen": {
+   "titel": "DuoFietsenDeurne blikt terug op succesvol seizoen",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64645/duofietsendeurne-blikt-terug-op-succesvol-seizoen",
+   "tekst": "DEURNE - Stichting DuoFietsenDeurne heeft tijdens de jaarlijkse vrijwilligersavond teruggekeken op het afgelopen fietsseizoen. De stichting maakte 211 ritten, waarmee ruim 900 mensen een fietstocht door Deurne en omgeving konden maken.",
+   "datum": "2026-11-13T15:00:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "13-11 15:00"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64644/deurne-maakt-zich-op-voor-de-komst-van-sinterklaas": {
+   "titel": "Deurne maakt zich op voor de komst van Sinterklaas",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64644/deurne-maakt-zich-op-voor-de-komst-van-sinterklaas",
+   "tekst": "DEURNE - Sinterklaas brengt zondag 15 november samen met zijn Pieten een bezoek aan Deurne. De intocht op de Markt begint om 13.30 uur. Burgemeester Greet Buter verwelkomt de goedheiligman officieel.",
+   "datum": "2026-11-13T13:03:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "13-11 13:03"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64641/benefietavond-levert-5-540-euro-op-voor-villa-pardoes": {
+   "titel": "Benefietavond levert 5.540 euro op voor Villa Pardoes",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64641/benefietavond-levert-5-540-euro-op-voor-villa-pardoes",
+   "tekst": "SINT JOZEFPAROCHIE - De benefietavond voor Villa Pardoes heeft 5.540,44 euro opgebracht. De organisatie overhandigde dinsdag de cheque aan de stichting. Het evenement in het Hofke van Marijke trok eind september ongeveer 330 bezoekers. De opbrengst is bedoeld om gezinnen met een …",
+   "datum": "2026-11-13T10:45:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "13-11 10:45"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64633/sinterklaas-en-zijn-pieten-komen-zondag-op-bezoek-in-zeilberg": {
+   "titel": "Sinterklaas en zijn Pieten komen zondag op bezoek in Zeilberg",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64633/sinterklaas-en-zijn-pieten-komen-zondag-op-bezoek-in-zeilberg",
+   "tekst": "ZEILBERG - Sinterklaas brengt zondag 15 november een bezoek aan Zeilberg. Samen met zijn Pieten wordt hij om 14.15 uur opgehaald bij de molen. Vanaf daar gaat de stoet via de Legerweg, Jagerweg en Blasiusstraat naar gemeenschapshuis Den Draai.",
+   "datum": "2026-11-13T08:30:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "13-11 08:30"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64632/met-boerenverstand-vrijdag-voor-laatste-keer-gratis-te-zien-i": {
+   "titel": "‘Met Boerenverstand’ vrijdag voor laatste keer gratis te zien in Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64632/met-boerenverstand-vrijdag-voor-laatste-keer-gratis-te-zien-i",
+   "tekst": "DEURNE - De film 'Met Boerenverstand' is inmiddels door meer dan 2.000 mensen bekeken. De documentaire over het leven op het Deurnese platteland is gemaakt in opdracht van Stichting Buitengebied Deurne.",
+   "datum": "2026-11-12T22:38:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 22:38"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64631/opinie-zonder-tussenstop-van-wiemel-naar-knoflookbad": {
+   "titel": "Opinie - ‘Zonder tussenstop van Wiemel naar ‘Knoflookbad’’",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64631/opinie-zonder-tussenstop-van-wiemel-naar-knoflookbad",
+   "tekst": "Weet u nog hoe het tijdens corona ging? Zwembaden moesten sluiten, zwemlessen gingen niet door en de wachtlijsten groeiden. Zelfs toen zwemlessen onder voorwaarden mochten doorgaan, duurde het nog jaren voordat de achterstanden waren weggewerkt. Staat ons nu een nog rigoureuzere …",
+   "datum": "2026-11-12T18:30:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 18:30"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64630/deurne-gaat-voor-verhuizing-van-den-draai-naar-nieuwe-locatie": {
+   "titel": "Deurne gaat voor verhuizing van Den Draai naar nieuwe locatie",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64630/deurne-gaat-voor-verhuizing-van-den-draai-naar-nieuwe-locatie",
+   "tekst": "ZEILBERG - De gemeente Deurne wil vaart zetten achter de plannen voor een nieuw gemeenschapshuis en een beweegvoorziening in het hart van Zeilberg. Het college ziet de kerk als de aangewezen plek voor Den Draai. Achter de kerk moet ruimte komen voor een nieuwe beweegvoorziening.",
+   "datum": "2026-11-12T15:52:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 15:52"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64628/buitengebied-in-beeld-bemeko-partyverhuur": {
+   "titel": "Buitengebied in beeld: Bemeko Partyverhuur",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64628/buitengebied-in-beeld-bemeko-partyverhuur",
+   "tekst": "Met twee compagnons richtte Mark Meulendijks (44) het bedrijf in 2002 op. Door de jaren heen is er het nodige veranderd in de samenstelling van het bedrijf. Een van de medeoprichters is na een aantal jaren gestopt. De andere medeoprichter is helaas op een gegeven moment komen te …",
+   "datum": "2026-11-12T12:18:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 12:18"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64625/periodetitel-lonkt-voor-sv-deurne": {
+   "titel": "Periodetitel lonkt voor SV Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64625/periodetitel-lonkt-voor-sv-deurne",
+   "tekst": "DEURNE - Dankzij de mooie zege op RKSV Nemelaer van afgelopen weekend hebben de mannen van Frank Teeuwen de beste troeven in handen om komende zondag beslag te leggen op de eerste periodetitel. Met nog één speelronde te gaan bedraagt de voorsprong op de enige overgebleven …",
+   "datum": "2026-11-12T09:29:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 09:29"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64622/janus-en-de-rest-wint-dorpsquiz-deurne-wittut": {
+   "titel": "Janus en de rest wint dorpsquiz Deurne Wittut",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64622/janus-en-de-rest-wint-dorpsquiz-deurne-wittut",
+   "tekst": "DEURNE - Team Janus en de rest heeft de zesde editie van dorpsquiz Deurne Wittut gewonnen. In totaal namen 38 teams deel aan de quiz. De winnaar behaalde 608 punten en ontvangt naast de wisseltrofee een cheque van 1.000 euro voor het goede doel het Walhalla.",
+   "datum": "2026-11-11T15:44:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 15:44"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64602/tune-en-renantia-verzorgen-uitwisselingsconcert-in-liessel": {
+   "titel": "Tune en Renantia verzorgen uitwisselingsconcert in Liessel",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64602/tune-en-renantia-verzorgen-uitwisselingsconcert-in-liessel",
+   "tekst": "LIESSEL - Muziekvereniging Tune uit Liessel en fanfare Renantia uit Griendtsveen hebben zaterdag 7 november samen een uitwisselingsconcert verzorgd in gemeenschapshuis De Kastanje. Beide verenigingen brachten een gevarieerd programma met slagwerk, fanfare en orkestmuziek.",
+   "datum": "2026-11-11T11:21:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 11:21"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64551/vernieuwd-e-kartteam-van-hub-van-doornecollege-begint-seizoen": {
+   "titel": "Vernieuwd E-kartteam van Hub van Doornecollege begint seizoen met overwinning",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64551/vernieuwd-e-kartteam-van-hub-van-doornecollege-begint-seizoen",
+   "tekst": "DEURNE - Het E-kartteam van het Hub van Doornecollege is uitstekend begonnen aan het nieuwe raceseizoen. De vernieuwde ploeg pakte tijdens de eerste wedstrijddag in Lelystad direct de overwinning. Maar minstens zo belangrijk als het resultaat was de manier waarop de leerlingen …",
+   "datum": "2026-11-11T09:01:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 09:01"
+  },
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64594/elf-nederlands-kampioenen-bij-taekwon-do-academy-chon-ji": {
+   "titel": "Elf Nederlands kampioenen bij Taekwon-Do Academy Chon-Ji",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64594/elf-nederlands-kampioenen-bij-taekwon-do-academy-chon-ji",
+   "tekst": "MILHEEZE - Taekwon-Do Academy Chon-Ji heeft zondag 8 november een succesvol Nederlands kampioenschap achter de rug. Tijdens het titeltoernooi in Koog aan de Zaan veroverden de deelnemers van de vereniging elf nationale titels. Daarnaast werden meerdere zilveren en bronzen …",
+   "datum": "2026-11-10T18:18:51+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "10-11 18:18"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans": {
+   "titel": "Asielopvanglocatie start met accu, aggregaat en watertank: ‘Aansluitingen volgen later’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans",
+   "tekst": "ASTEN - Een béétje behelpen: de asielopvanglocatie aan de Kanaalweg in Asten moet komende maand al in bedrijf zijn, maar doet dat in eerste instantie zonder riool- en elektriciteitsaansluiting. \"Maar bewoners merken er niets van.\"",
+   "datum": "2026-11-17T13:34:00+01:00",
+   "eerst_gezien": "2026-11-17T12:35:52.716684+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:34"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64707/onis-houdt-open-inloop-over-vrijwilligerswerk-in-asten-en-someren": {
+   "titel": "Onis houdt open inloop over vrijwilligerswerk in Asten en Someren",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64707/onis-houdt-open-inloop-over-vrijwilligerswerk-in-asten-en-someren",
+   "tekst": "ASTEN/SOMEREN - Ergens in de gemeenten Asten en Someren vrijwilligerswerk doen? Dan zijn de opties legio. Onis Welzijn vertelt er komende maandag meer over tijdens een open inloop in gemeenschapshuis 't Kwartier in Asten.",
+   "datum": "2026-11-17T11:13:00+01:00",
+   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 11:13"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64698/de-lezersfotos-van-de-week": {
+   "titel": "De mooiste lezersfoto’s van de week",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64698/de-lezersfotos-van-de-week",
+   "tekst": "ASTEN - Ook vorige week stroomde de mailbox weer vol met lezersfoto's. Op deze pagina een overzicht van de mooiste platen die binnenkwamen.",
+   "datum": "2026-11-17T09:07:00+01:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 09:07"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64688/in-beeld-de-klot-trapt-carnaval-af-met-premiere-zittingsavond": {
+   "titel": "In beeld: De Klot trapt carnaval af met première zittingsavond",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64688/in-beeld-de-klot-trapt-carnaval-af-met-premiere-zittingsavond",
+   "tekst": "ASTEN - Traditiegetrouw trapte carnavalsstichting De Klot op de elfde van de elfde het nieuwe seizoen af. In gemeenschapshuis 't Kwartier vond de première van de zittingsavond plaats.",
+   "datum": "2026-11-16T16:09:00+01:00",
+   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 16:09"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64681/in-beeld-sinterklaas-feestelijk-ontvangen-in-asten": {
+   "titel": "In beeld: Sinterklaas feestelijk ontvangen in Asten",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64681/in-beeld-sinterklaas-feestelijk-ontvangen-in-asten",
+   "tekst": "ASTEN - Een beetje kou wist de hoopvolle verwachtingen zondag niet te temperen. En dus liep Asten uit voor de ontvangst van Sinterklaas en diens gevolg.",
+   "datum": "2026-11-16T14:35:00+01:00",
+   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 14:35"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64675/de-peelvrujters-presenteren-prins-ramon-als-nieuwe-heusdense-": {
+   "titel": "De Peelvrujters presenteren prins Ramòn als nieuwe Heusdense hoogheid",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64675/de-peelvrujters-presenteren-prins-ramon-als-nieuwe-heusdense-",
+   "tekst": "HEUSDEN - Gemeenschapshuis Hart van Heuze stroomde zaterdag vol verwachting vol. De aftrap van een nieuw carnavalsseizoen werd namelijk vormgegeven met de presentatie van de nieuwe Heusdense hoogheden. Voor de hoogste troon werd prins Ramòn onthuld.",
+   "datum": "2026-11-16T13:25:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:25"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64674/uwv-aantal-mensen-met-psychische-klachten-neemt-toe": {
+   "titel": "UWV: ‘Aantal mensen met psychische klachten neemt toe’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64674/uwv-aantal-mensen-met-psychische-klachten-neemt-toe",
+   "tekst": "REGIO - Diverse sectoren in De Peel kampen nog altijd met grote personeelstekorten. 'De uitdaging zit steeds meer in het vinden van de juiste match tussen vraag en aanbod', aldus het UWV, dat tevens het aantal mensen met psychische klachten ziet groeien.",
+   "datum": "2026-11-16T12:18:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.peelbelangonline.nl/nieuws/sport/64667/efficient-nwc-pakt-belangrijke-punten-in-eersel": {
+   "titel": "Efficiënt NWC pakt belangrijke punten in Eersel",
+   "link": "https://www.peelbelangonline.nl/nieuws/sport/64667/efficient-nwc-pakt-belangrijke-punten-in-eersel",
+   "tekst": "EERSEL - NWC rekende zondagmiddag in de tweede helft af met nummer dertien EFC. Het team van trainer Peter Verstappen sprong goed om met de kansen en boekte een belangrijke 0-3 zege op sportpark De Dieprijt.",
+   "datum": "2026-11-16T09:51:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 09:51"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64651/actie-team-huntington-reist-opnieuw-af-naar-nijmegen-allemaal": {
+   "titel": "Actie Team Huntington reist opnieuw af naar Nijmegen: ‘Allemaal hetzelfde doel’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64651/actie-team-huntington-reist-opnieuw-af-naar-nijmegen-allemaal",
+   "tekst": "ASTEN/NIJMEGEN - Voorheen bekend als Campagneteam Huntington, maar inmiddels door het leven als Actie Team Huntington. Komende zondag reist de groep onder leiding van initiatiefnemer Bas van Loon uit Asten opnieuw af naar Nijmegen, om aldaar deel te nemen aan de …",
+   "datum": "2026-11-14T12:49:36+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 12:49"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64648/la-fete-pronkt-weer-in-asten-een-toepasselijke-bestemming": {
+   "titel": "La Fête pronkt weer in Asten: ‘Een toepasselijke bestemming’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64648/la-fete-pronkt-weer-in-asten-een-toepasselijke-bestemming",
+   "tekst": "ASTEN - Hoe het schilderij ooit in Asten belandde? Ook maker Jan van den Berg weet het niet. Maar het kunstwerk La Fête pronkte twintig jaar lang in de trouwzaal in het gemeentehuis van Asten. De tijd liet echter haar sporen na, het beste was er intussen wel vanaf. Maar Van den …",
+   "datum": "2026-11-14T10:17:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 10:17"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64642/plan-voor-open-bomenroute-door-asten-en-someren-samen-kunnen-": {
+   "titel": "Plan voor open bomenroute door Asten en Someren: ‘Samen kunnen we iets bijzonders realiseren’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64642/plan-voor-open-bomenroute-door-asten-en-someren-samen-kunnen-",
+   "tekst": "ASTEN/SOMEREN - \"Bedenk eens wat bomen voor ons betekenen\", zegt Peter van Rees. Hij is mede-initiatiefnemer van het plan voor een open bomenroute door de gemeenten Asten en Someren. De club is op zoek naar inwoners die een handje willen helpen. \"Samen kunnen we iets bijzonders …",
+   "datum": "2026-11-13T12:50:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "13-11 12:50"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64634/rek-zeker-nog-niet-uit-aastese-dorpsquiz": {
+   "titel": "Rek zeker nog niet uit Aastese Dorpsquiz",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64634/rek-zeker-nog-niet-uit-aastese-dorpsquiz",
+   "tekst": "ASTEN - Na het eerste lustrum eerder dit jaar was de vraag: is er nog genoeg animo voor de Aastese Dorpsquiz? Het antwoord: jazeker! Nu 28 teams zich hebben ingeschreven is editie nummer zes officieel in de maak. \"We kunnen definitief verder met de voorbereidingen.\"",
+   "datum": "2026-11-13T11:42:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "13-11 11:42"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64629/ommelse-in-de-race-voor-plek-in-provinciale-staten-brabant-is": {
+   "titel": "Ommelse in de race voor plek in Provinciale Staten: ‘Brabant is meer dan de grote steden’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64629/ommelse-in-de-race-voor-plek-in-provinciale-staten-brabant-is",
+   "tekst": "OMMEL - Nu nog burgercommissielid in de gemeente Asten, maar straks misschien (ook) lid van de Provinciale Staten van Noord-Brabant. Gemke van Houts-Sauvé uit Ommel staat op plek vier van de kandidatenlijst van Lokaal Brabant. \"Onze dorpen, kleine kernen en lokale gemeenschappen …",
+   "datum": "2026-11-12T13:42:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 13:42"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64626/asten-is-een-bijenheuvel-rijker-willen-biodiversiteit-vergroten": {
+   "titel": "Asten is een bijenheuvel rijker: ‘Willen biodiversiteit vergroten’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64626/asten-is-een-bijenheuvel-rijker-willen-biodiversiteit-vergroten",
+   "tekst": "ASTEN - Bijenhoudersvereniging Sint Ambrosius uit Asten heeft samen met de gemeente een nieuwe bijenheuvel aangelegd. Deze ligt naast het clubgebouw van de vereniging aan de Nachtegaalweg. \"De zandheuvel warmt door de zon snel op, wat ideaal is voor het uitkomen van de larven.\"",
+   "datum": "2026-11-12T12:05:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 12:05"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64624/gratis-themabijeenkomsten-in-asten-over-schimmel-en-inzicht-i": {
+   "titel": "Gratis themabijeenkomsten in Asten over schimmel en inzicht in je energieverbruik",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64624/gratis-themabijeenkomsten-in-asten-over-schimmel-en-inzicht-i",
+   "tekst": "ASTEN - Het Energiehuis Slim Wonen houdt deze en komende maand twee gratis themabijeenkomsten. Onderwerpen zijn 'Schimmel, ventilatie en gezondheid' en 'Inzicht in je energieverbruik'.",
+   "datum": "2026-11-12T09:14:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 09:14"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64621/in-beeld-boomfeestdag-in-t-loverpark-in-asten": {
+   "titel": "In beeld: Boomfeestdag in ‘t Loverpark in Asten",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64621/in-beeld-boomfeestdag-in-t-loverpark-in-asten",
+   "tekst": "ASTEN - De jaarlijkse boomfeestdag in Asten vond vandaag in het nieuwe Loverpark plaats.",
+   "datum": "2026-11-11T15:35:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 15:35"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64605/winteropvang-voor-daklozen-vanwege-kou-eerder-geopend": {
+   "titel": "Winteropvang voor daklozen vanwege kou eerder geopend",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64605/winteropvang-voor-daklozen-vanwege-kou-eerder-geopend",
+   "tekst": "HELMOND - Normaliter opent de winteropvang pas op 1 december, maar daklozen kunnen sinds vorige week al bij De Kamenij in Helmond terecht. De nachtvorst doet namelijk steeds vroeger zijn intrede.",
+   "datum": "2026-11-11T13:42:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 13:42"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64603/asten-en-someren-kiezen-definitief-voor-gezamenlijke-asielopvang": {
+   "titel": "Asten en Someren kiezen definitief voor gezamenlijke asielopvang",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64603/asten-en-someren-kiezen-definitief-voor-gezamenlijke-asielopvang",
+   "tekst": "ASTEN/SOMEREN - De kogel is definitief door de kerk: er komt een asielopvanglocatie voor maximaal 204 mensen aan de Kanaalweg in Asten. De colleges van B en W van de gemeenten Asten en Someren besloten dinsdag officieel te gaan samenwerken.",
+   "datum": "2026-11-11T12:05:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 12:05"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64601/ivn-houdt-herfstwandeling-door-keelven-gebied": {
+   "titel": "IVN houdt herfstwandeling door Keelven-gebied",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64601/ivn-houdt-herfstwandeling-door-keelven-gebied",
+   "tekst": "SOMEREN - IVN Asten-Someren houdt komende zondag een herfstwandeling door het Keelven-gebied in Someren. Tijdens de wandeling staan de natuur, de herfstkleuren en de cultuurgeschiedenis centraal.",
+   "datum": "2026-11-11T09:16:00+01:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 09:16"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
@@ -8501,7 +8634,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -8516,12 +8649,12 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -8560,24 +8693,24 @@
    "fout": ""
   },
   "Bekendmakingen Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "aantal": 44,
+   "fout": ""
   },
   "Bekendmakingen Deurne": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "aantal": 24,
+   "fout": ""
   },
   "Bekendmakingen Asten": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "aantal": 12,
+   "fout": ""
   },
   "Bekendmakingen Someren": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "aantal": 16,
+   "fout": ""
   },
   "Drimble Helmond": {
    "ok": true,
@@ -8586,7 +8719,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "Drimble Asten": {
@@ -8601,7 +8734,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 26,
    "fout": ""
   },
   "112Brabant": {
