@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 09:50",
+ "bijgewerkt": "17-11-2026 10:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64699/willy-koppens-ontvangt-brabant-bokaal-voor-inzet-voor-cultuur": {
    "titel": "Willy Koppens ontvangt Brabant Bokaal voor inzet voor cultuur in Deurne",
@@ -921,6 +921,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "10-11 12:01"
+  },
+  "https://www.ed.nl/deurne/liesselse-smederij-mcm-groeide-onder-directeur-pim-verder-uit-we-zijn-nog-steeds-een-familiebedrijf~a1288134/": {
+   "titel": "Liesselse smederij MCM groeide onder directeur Pim verder uit: ‘We zijn nog steeds een familiebedrijf’",
+   "link": "https://www.ed.nl/deurne/liesselse-smederij-mcm-groeide-onder-directeur-pim-verder-uit-we-zijn-nog-steeds-een-familiebedrijf~a1288134/",
+   "tekst": "De onderdelen, modules en specialistische gereedschappen die de metaalbewerkingsfabriek van MCM in Liessel verlaten, vinden hun weg naar allerlei klanten. Van de hightech maakindustrie en de medische wereld tot DAF en defensie. Hoe groeide het?",
+   "datum": "2026-11-17T09:01:08+00:00",
+   "eerst_gezien": "2026-11-17T09:06:16.238804+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 10:01"
   },
   "https://www.ed.nl/helmond/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond~a7849bf6/": {
    "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
@@ -2729,6 +2746,23 @@
    "prio": false,
    "tijd": "11-11 12:12"
   },
+  "https://www.someren.nl/nieuws/artikel/op-de-boksenberg-groeit-het-bos-van-de-toekomst": {
+   "titel": "Op de Boksenberg groeit het bos van de toekomst",
+   "link": "https://www.someren.nl/nieuws/artikel/op-de-boksenberg-groeit-het-bos-van-de-toekomst",
+   "tekst": "Afgelopen winter zijn op de Boksenberg bomen gekapt. Daardoor zijn open plekken in het bos ontstaan. Op deze plekken krijgen nieuwe bomen, struiken en planten de ruimte om te groeien.",
+   "datum": "2026-11-17T07:55:58+00:00",
+   "eerst_gezien": "2026-11-17T09:06:16.238804+00:00",
+   "bron": "Gemeente Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 08:55"
+  },
   "https://www.someren.nl/nieuws/artikel/someren-kleurt-oranje-tegen-geweld-tegen-vrouwen": {
    "titel": "Someren kleurt oranje tegen geweld tegen vrouwen",
    "link": "https://www.someren.nl/nieuws/artikel/someren-kleurt-oranje-tegen-geweld-tegen-vrouwen",
@@ -4427,561 +4461,22 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
-   "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:13:11+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623416/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
-   "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623416/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:07:20+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623365/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
-   "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623365/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:01:04+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623364/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
-   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623364/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:01:04+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
-   "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:01:04+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623287/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
-   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623287/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T07:43:19+00:00",
-   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623279/rondleiding-door-het-kasteel-van-sinterklaas-in-helmond-video.html": {
-   "titel": "Rondleiding door het Kasteel van Sinterklaas in Helmond [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623279/rondleiding-door-het-kasteel-van-sinterklaas-in-helmond-video.html",
-   "tekst": "Hoe wonen Sinterklaas en de pieten als ze in Helmond zijn' ð°ð Wij mochten alvast een kijkje nemen in Het Kasteel van Sinterklaas!...",
-   "datum": "2026-11-17T07:41:09+00:00",
-   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 08:41"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623272/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
-   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623272/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T07:40:06+00:00",
-   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623238/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html": {
-   "titel": "Junioravond in Geldrop staat in het teken van reuzenplaneten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623238/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html",
-   "tekst": "",
-   "datum": "2026-11-17T07:31:03+00:00",
-   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 08:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623023/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html": {
-   "titel": "Zijn illegale zakken naast de afvalcontainer asociaal, of is er meer aan de hand'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623023/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html",
-   "tekst": "",
-   "datum": "2026-11-17T06:43:15+00:00",
-   "eerst_gezien": "2026-11-17T06:57:00.409500+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 07:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
-   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
-   "tekst": "",
-   "datum": "2026-11-17T06:29:05+00:00",
-   "eerst_gezien": "2026-11-17T06:40:55.843772+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108622847/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html": {
-   "titel": "Chef-kok Peter Kesseler voegt live hoofdstuk toe aan kookboek in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622847/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-17T06:13:08+00:00",
-   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 07:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108622845/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
-   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622845/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
-   "tekst": "",
-   "datum": "2026-11-17T06:13:05+00:00",
-   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
-   "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html",
-   "tekst": "",
-   "datum": "2026-11-15T20:15:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126100639a2deurnerit136977": {
+   "titel": "A2 Deurne Rit: 136977",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126100639a2deurnerit136977",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T10:06:39+01:00",
+   "eerst_gezien": "2026-11-17T09:06:16.238804+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Deurne"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "15-11 21:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
-   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
-   "tekst": "",
-   "datum": "2026-11-15T18:45:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 19:45"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html": {
-   "titel": "Prins Bart I gaat voorop bij De Peelstrekels",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html",
-   "tekst": "",
-   "datum": "2026-11-15T10:43:15+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 11:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html": {
-   "titel": "Aanpassing van weg tussen Helmond en Deurne komt dichterbij, maar tunnelwerk schuift door",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html",
-   "tekst": "",
-   "datum": "2026-11-14T22:15:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond",
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 23:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html": {
-   "titel": "Waarom sportschool en dansschool in Deurne zich overvallen voelen door het plan voor het buurthuis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html",
-   "tekst": "",
-   "datum": "2026-11-12T22:42:09+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:42"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108581628/sportschool-in-zeilbergse-kerk-schrikt-van-mogelijke-komst-buurthuis-we-hebben-flink-geinvesteerd.html": {
-   "titel": "Sportschool in Zeilbergse kerk schrikt van mogelijke komst buurthuis: `We hebben flink geïnvesteerd`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108581628/sportschool-in-zeilbergse-kerk-schrikt-van-mogelijke-komst-buurthuis-we-hebben-flink-geinvesteerd.html",
-   "tekst": "",
-   "datum": "2026-11-12T20:13:05+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 21:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108563087/deurne-wil-buurthuis-den-draai-onderbrengen-in-monumentale-kerk-maar-plan-is-nog-niet-definitief.html": {
-   "titel": "Deurne wil buurthuis Den Draai onderbrengen in monumentale kerk, maar plan is nog niet definitief",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108563087/deurne-wil-buurthuis-den-draai-onderbrengen-in-monumentale-kerk-maar-plan-is-nog-niet-definitief.html",
-   "tekst": "",
-   "datum": "2026-11-11T06:21:27+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 07:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
-   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
-   "tekst": "",
-   "datum": "2026-11-15T22:42:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html": {
-   "titel": "Bronsgieterij Royal Eijsbouts, Asten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html",
-   "tekst": "Een gebroken bronzen beeld van een kunstenaar maakte dat ik op zoek moest naar een bronsgieterij, maar waar zijn die en wat is dan een goede...",
-   "datum": "2026-11-12T22:24:04+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:24"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html": {
-   "titel": "Speciaal plan Snack Products voor eigen huisvesting positief ontvangen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html",
-   "tekst": "Komkommerteler Snack Products heeft plannen voor een eigen huisvestingslocatie in Heusden. Er moeten 192 eigen medewerkers gehuisvest...",
-   "datum": "2026-11-12T22:09:47+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:09"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html": {
-   "titel": "Graafwerk van een andere partij sloopt glasvezel in Asten-Heusden: tv, internet en vaste lijn eruit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html",
-   "tekst": "",
-   "datum": "2026-11-12T15:11:23+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 16:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html": {
-   "titel": "400 huizen in Asten-Heusden zonder internet door storing",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html",
-   "tekst": "",
-   "datum": "2026-11-12T13:49:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 14:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html": {
-   "titel": "Beiaardier 2026 Asten [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html",
-   "tekst": "Beiaardier Rosemarie Seuntiëns speelt op het carillon in de Astense kerktoren.",
-   "datum": "2026-11-12T12:30:05+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 13:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html": {
-   "titel": "IVN neemt wandelaars mee door natuurgebied Keelven in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html",
-   "tekst": "Het natuurgebied rond het Keelven in Someren heeft door de jaren heen grote veranderingen ondergaan. Tijdens een publiekswandeling...",
-   "datum": "2026-11-11T22:55:02+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 23:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html": {
-   "titel": "Waarom de gemeenten Asten en Someren juist hier een azc willen bouwen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html",
-   "tekst": "",
-   "datum": "2026-11-11T12:25:12+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 13:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html": {
-   "titel": "Sportieve prins Twan II voorop in de polonaise bij De Meerpoel in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html",
-   "tekst": "",
-   "datum": "2026-11-14T22:12:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 23:12"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html": {
-   "titel": "Vroeger liep Koen mee met `t Vaartje, nu is hij prins van De Plattevonder",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html",
-   "tekst": "",
-   "datum": "2026-11-14T14:11:36+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 15:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html": {
-   "titel": "Vroeger liep Koen mee met `t Vaartje tijdens de carnaval, nu is hij prins van De Plattevonder",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html",
-   "tekst": "",
-   "datum": "2026-11-14T08:29:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 09:29"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html": {
-   "titel": "Someren presenteert centrumplan met hoogbouw, maar inwoners vrezen voor kermis en Kennedymars",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html",
-   "tekst": "",
-   "datum": "2026-11-12T06:37:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 07:37"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html": {
-   "titel": "Meningen verdeeld over Somerens centrumplan: `Mooi, maar kan de Kennedymars hier nog eindigen'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html",
-   "tekst": "",
-   "datum": "2026-11-12T05:37:10+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 06:37"
+   "tijd": "17-11 10:06"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126084833a1helmondrit136931": {
    "titel": "A1 Helmond Rit: 136931",
@@ -5577,6 +5072,562 @@
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 12:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
+   "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html",
+   "tekst": "",
+   "datum": "2026-11-17T08:13:11+00:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 09:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623416/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
+   "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623416/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
+   "tekst": "",
+   "datum": "2026-11-17T08:07:20+00:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 09:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623365/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
+   "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623365/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html",
+   "tekst": "",
+   "datum": "2026-11-17T08:01:04+00:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623364/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
+   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623364/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-17T08:01:04+00:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
+   "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
+   "tekst": "",
+   "datum": "2026-11-17T08:01:04+00:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623287/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
+   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623287/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-17T07:43:19+00:00",
+   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623279/rondleiding-door-het-kasteel-van-sinterklaas-in-helmond-video.html": {
+   "titel": "Rondleiding door het Kasteel van Sinterklaas in Helmond [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623279/rondleiding-door-het-kasteel-van-sinterklaas-in-helmond-video.html",
+   "tekst": "Hoe wonen Sinterklaas en de pieten als ze in Helmond zijn' ð°ð Wij mochten alvast een kijkje nemen in Het Kasteel van Sinterklaas!...",
+   "datum": "2026-11-17T07:41:09+00:00",
+   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 08:41"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623272/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
+   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623272/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-17T07:40:06+00:00",
+   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623238/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html": {
+   "titel": "Junioravond in Geldrop staat in het teken van reuzenplaneten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623238/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html",
+   "tekst": "",
+   "datum": "2026-11-17T07:31:03+00:00",
+   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 08:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108623023/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html": {
+   "titel": "Zijn illegale zakken naast de afvalcontainer asociaal, of is er meer aan de hand'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623023/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html",
+   "tekst": "",
+   "datum": "2026-11-17T06:43:15+00:00",
+   "eerst_gezien": "2026-11-17T06:57:00.409500+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 07:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
+   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
+   "tekst": "",
+   "datum": "2026-11-17T06:29:05+00:00",
+   "eerst_gezien": "2026-11-17T06:40:55.843772+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108622847/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html": {
+   "titel": "Chef-kok Peter Kesseler voegt live hoofdstuk toe aan kookboek in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622847/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-17T06:13:08+00:00",
+   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 07:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108622845/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
+   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622845/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
+   "tekst": "",
+   "datum": "2026-11-17T06:13:05+00:00",
+   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
+   "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html",
+   "tekst": "",
+   "datum": "2026-11-15T20:15:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 21:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
+   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
+   "tekst": "",
+   "datum": "2026-11-15T18:45:03+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 19:45"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html": {
+   "titel": "Prins Bart I gaat voorop bij De Peelstrekels",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html",
+   "tekst": "",
+   "datum": "2026-11-15T10:43:15+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 11:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html": {
+   "titel": "Aanpassing van weg tussen Helmond en Deurne komt dichterbij, maar tunnelwerk schuift door",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html",
+   "tekst": "",
+   "datum": "2026-11-14T22:15:03+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Helmond",
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 23:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html": {
+   "titel": "Waarom sportschool en dansschool in Deurne zich overvallen voelen door het plan voor het buurthuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html",
+   "tekst": "",
+   "datum": "2026-11-12T22:42:09+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:42"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108581628/sportschool-in-zeilbergse-kerk-schrikt-van-mogelijke-komst-buurthuis-we-hebben-flink-geinvesteerd.html": {
+   "titel": "Sportschool in Zeilbergse kerk schrikt van mogelijke komst buurthuis: `We hebben flink geïnvesteerd`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108581628/sportschool-in-zeilbergse-kerk-schrikt-van-mogelijke-komst-buurthuis-we-hebben-flink-geinvesteerd.html",
+   "tekst": "",
+   "datum": "2026-11-12T20:13:05+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 21:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108563087/deurne-wil-buurthuis-den-draai-onderbrengen-in-monumentale-kerk-maar-plan-is-nog-niet-definitief.html": {
+   "titel": "Deurne wil buurthuis Den Draai onderbrengen in monumentale kerk, maar plan is nog niet definitief",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108563087/deurne-wil-buurthuis-den-draai-onderbrengen-in-monumentale-kerk-maar-plan-is-nog-niet-definitief.html",
+   "tekst": "",
+   "datum": "2026-11-11T06:21:27+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 07:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
+   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
+   "tekst": "",
+   "datum": "2026-11-15T22:42:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html": {
+   "titel": "Bronsgieterij Royal Eijsbouts, Asten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html",
+   "tekst": "Een gebroken bronzen beeld van een kunstenaar maakte dat ik op zoek moest naar een bronsgieterij, maar waar zijn die en wat is dan een goede...",
+   "datum": "2026-11-12T22:24:04+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:24"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html": {
+   "titel": "Speciaal plan Snack Products voor eigen huisvesting positief ontvangen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html",
+   "tekst": "Komkommerteler Snack Products heeft plannen voor een eigen huisvestingslocatie in Heusden. Er moeten 192 eigen medewerkers gehuisvest...",
+   "datum": "2026-11-12T22:09:47+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:09"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html": {
+   "titel": "Graafwerk van een andere partij sloopt glasvezel in Asten-Heusden: tv, internet en vaste lijn eruit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html",
+   "tekst": "",
+   "datum": "2026-11-12T15:11:23+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 16:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html": {
+   "titel": "400 huizen in Asten-Heusden zonder internet door storing",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html",
+   "tekst": "",
+   "datum": "2026-11-12T13:49:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 14:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html": {
+   "titel": "Beiaardier 2026 Asten [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html",
+   "tekst": "Beiaardier Rosemarie Seuntiëns speelt op het carillon in de Astense kerktoren.",
+   "datum": "2026-11-12T12:30:05+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 13:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html": {
+   "titel": "IVN neemt wandelaars mee door natuurgebied Keelven in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html",
+   "tekst": "Het natuurgebied rond het Keelven in Someren heeft door de jaren heen grote veranderingen ondergaan. Tijdens een publiekswandeling...",
+   "datum": "2026-11-11T22:55:02+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 23:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html": {
+   "titel": "Waarom de gemeenten Asten en Someren juist hier een azc willen bouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html",
+   "tekst": "",
+   "datum": "2026-11-11T12:25:12+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 13:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html": {
+   "titel": "Sportieve prins Twan II voorop in de polonaise bij De Meerpoel in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html",
+   "tekst": "",
+   "datum": "2026-11-14T22:12:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 23:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html": {
+   "titel": "Vroeger liep Koen mee met `t Vaartje, nu is hij prins van De Plattevonder",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html",
+   "tekst": "",
+   "datum": "2026-11-14T14:11:36+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 15:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html": {
+   "titel": "Vroeger liep Koen mee met `t Vaartje tijdens de carnaval, nu is hij prins van De Plattevonder",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html",
+   "tekst": "",
+   "datum": "2026-11-14T08:29:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 09:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html": {
+   "titel": "Someren presenteert centrumplan met hoogbouw, maar inwoners vrezen voor kermis en Kennedymars",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html",
+   "tekst": "",
+   "datum": "2026-11-12T06:37:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 07:37"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html": {
+   "titel": "Meningen verdeeld over Somerens centrumplan: `Mooi, maar kan de Kennedymars hier nog eindigen'`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html",
+   "tekst": "",
+   "datum": "2026-11-12T05:37:10+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 06:37"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126120751a2deurnerit136582": {
    "titel": "A2 Deurne Rit: 136582",
@@ -7167,7 +7218,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
@@ -7227,7 +7278,7 @@
   },
   "Gemeente Someren": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 5,
    "fout": ""
   },
   "Bekendmakingen Helmond": {
@@ -7251,28 +7302,28 @@
    "fout": ""
   },
   "Drimble Helmond": {
-   "ok": true,
-   "aantal": 13,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Deurne": {
-   "ok": true,
-   "aantal": 7,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Asten": {
-   "ok": true,
-   "aantal": 8,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Someren": {
-   "ok": true,
-   "aantal": 5,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 38,
+   "aantal": 36,
    "fout": ""
   },
   "112Brabant": {
