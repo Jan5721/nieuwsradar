@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "17-11-2026 17:57",
+ "bijgewerkt": "17-11-2026 18:14",
  "items": {
+  "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/": {
+   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
+   "link": "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/",
+   "tekst": "Het knettert – alweer – in de Somerense gemeenteraad. Terwijl belangrijke besluiten passeren, vliegen de verwijten tussen coalitie en oppositie over en weer.",
+   "datum": "2026-11-17T17:00:52+00:00",
+   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 18:00"
+  },
   "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
    "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
    "link": "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/",
@@ -155,23 +172,6 @@
    "prio": false,
    "tijd": "16-11 20:00"
   },
-  "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/": {
-   "titel": "Hallo Sint! Check hier de foto’s van de sinterklaasintocht 2026 in Helmond.",
-   "link": "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/",
-   "tekst": "Vrolijke en gespannen snoetjes, pepernoten, dansjes en vooral veel gezelligheid: kleine en grote Helmonders stonden zondag 15 november klaar om Sinterklaas en zijn pieten een warm welkom te geven. Ben jij gespot? Bekijk hier de foto’s van de sinterklaasintocht 2026 in Helmond.",
-   "datum": "2026-11-16T16:00:16+00:00",
-   "eerst_gezien": "2026-11-16T16:12:53.350055+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 17:00"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/": {
    "titel": "Gemeente Deurne vernieuwt Martinetplein met meer groen en nieuwe zitplekken",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/",
@@ -223,12 +223,12 @@
    "prio": false,
    "tijd": "17-11 09:05"
   },
-  "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/": {
-   "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
-   "link": "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/",
-   "tekst": "IVN Helmond houdt een natuur- en cultuurwandeling langs de Goorloop, de Schootense Loop en de Stiphoutse Loop. Woensdag 25 november begint de wandeling om 10.00 uur op de parkeerplaats naast het kerkhof aan de Hortsedijk in Helmond.",
-   "datum": "2026-11-16T14:01:47+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+  "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/": {
+   "titel": "Hallo Sint! Check hier de foto’s van de sinterklaasintocht 2026 in Helmond.",
+   "link": "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/",
+   "tekst": "Vrolijke en gespannen snoetjes, pepernoten, dansjes en vooral veel gezelligheid: kleine en grote Helmonders stonden zondag 15 november klaar om Sinterklaas en zijn pieten een warm welkom te geven. Ben jij gespot? Bekijk hier de foto’s van de sinterklaasintocht 2026 in Helmond.",
+   "datum": "2026-11-16T16:00:16+00:00",
+   "eerst_gezien": "2026-11-16T16:12:53.350055+00:00",
    "bron": "ED Deurne",
    "gemeenten": [
     "Helmond"
@@ -238,7 +238,7 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "16-11 15:01"
+   "tijd": "16-11 17:00"
   },
   "https://www.ed.nl/asten/grip-wagen-komt-naar-asten-voor-kleine-hoeveelheden-afval~a78bd205/": {
    "titel": "Grip-wagen komt naar Asten voor kleine hoeveelheden afval",
@@ -1790,6 +1790,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
+   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
+   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
+   "datum": "2026-11-11T16:01:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 17:01"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -3713,6 +3747,39 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html": {
+   "titel": "Eindhovense raad positief over nieuwe woontoren, al houdt het qua aantal parkeerplekken niet echt over",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:13:10+00:00",
+   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 18:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
+   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:07:26+00:00",
+   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627958/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html": {
    "titel": "Van bioscoop tot museum: tijdens de Urban Trail Eindhoven ren je door gebouwen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627958/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html",
@@ -3725,7 +3792,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 17:49"
@@ -3742,7 +3809,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 17:43"
@@ -3759,7 +3826,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3899,54 +3966,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
    "tekst": "",
    "datum": "2026-11-17T15:13:05+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html": {
-   "titel": "Markante Deurnese villa zit straks vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html": {
-   "titel": "Klapstuk van jubileumjaar Böhmische Freunde: concert in drie muziekstijlen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
    "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -4196,6 +4215,22 @@
    "prio": false,
    "tijd": "11-11 13:25"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
+   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:11:29+00:00",
+   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html": {
    "titel": "Sportieve prins Twan II voorop in de polonaise bij De Meerpoel in Someren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html",
@@ -4264,23 +4299,6 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html": {
-   "titel": "Meningen verdeeld over Somerens centrumplan: `Mooi, maar kan de Kennedymars hier nog eindigen'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html",
-   "tekst": "",
-   "datum": "2026-11-12T05:37:10+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 06:37"
-  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212": {
    "titel": "A1 Asten Rit: 137212",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212",
@@ -4293,7 +4311,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 17:57"
@@ -4705,6 +4723,88 @@
    "prio": false,
    "tijd": "17-11 05:08"
   },
+  "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/": {
+   "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
+   "link": "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/",
+   "tekst": "IVN Helmond houdt een natuur- en cultuurwandeling langs de Goorloop, de Schootense Loop en de Stiphoutse Loop. Woensdag 25 november begint de wandeling om 10.00 uur op de parkeerplaats naast het kerkhof aan de Hortsedijk in Helmond.",
+   "datum": "2026-11-16T14:01:47+00:00",
+   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 15:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html": {
+   "titel": "Markante Deurnese villa zit straks vol senioren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:07:21+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html": {
+   "titel": "Klapstuk van jubileumjaar Böhmische Freunde: concert in drie muziekstijlen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:07:21+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
+   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:07:21+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html": {
+   "titel": "Meningen verdeeld over Somerens centrumplan: `Mooi, maar kan de Kennedymars hier nog eindigen'`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574401/meningen-verdeeld-over-somerens-centrumplan-mooi-maar-kan-de-kennedymars-hier-nog-eindigen.html",
+   "tekst": "",
+   "datum": "2026-11-12T05:37:10+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 06:37"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050752a1helmondrit136884": {
    "titel": "A1 Helmond Rit: 136884",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050752a1helmondrit136884",
@@ -4721,40 +4821,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 05:07"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
-   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
-   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
-   "datum": "2026-11-11T16:01:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 17:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html": {
    "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
@@ -8739,9 +8805,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "ParseError: no element found: line 2, column 0"
+   "ok": true,
+   "aantal": 2,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -8780,7 +8846,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -8800,7 +8866,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 26,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
