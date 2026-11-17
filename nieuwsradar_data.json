@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 17:08",
+ "bijgewerkt": "17-11-2026 17:25",
  "items": {
   "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
    "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
@@ -18,36 +18,36 @@
    "prio": false,
    "tijd": "17-11 16:00"
   },
-  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/",
+  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
+   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
+   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/",
    "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
    "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 16:00"
   },
-  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
-   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/",
-   "tekst": "In Helmond zijn momenteel enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brahmslaan al ruim een uur zonder stroom.",
+  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-opgelost~a178219b/": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-opgelost~a178219b/",
+   "tekst": "In Helmond zijn dinsdag enkele tientallen huishoudens getroffen door een stroomstoring. Als gevolg hiervan zat de Brahmslaan bijna drie uur zonder stroom.",
    "datum": "2026-11-17T14:26:49+00:00",
-   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 15:26"
@@ -328,7 +328,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035112/stroomstoring-treft-helmond-minder-dan-100-adressen": {
    "titel": "Stroomstoring treft Helmond: minder dan 100 adressen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035112/stroomstoring-treft-helmond-minder-dan-100-adressen",
-   "tekst": "In Helmond zijn sinds vanmiddag kort voor twee uur minder dan 100 adressen zonder stroom. De oorzaak van de storing wordt nog onderzocht. Naar verwachting is het probleem rond zes uur vanavond opgelost.",
+   "tekst": "De stroomstoring in Helmond is opgelost. Minder dan 100 adressen zaten sinds kwart voor twee vanmiddag zonder stroom. De storing werd verholpen om kwart voor vijf.",
    "datum": "2026-11-17T14:45:54.125468+00:00",
    "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -908,7 +908,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne": {
    "titel": "Gehandicaptenparkeerplaats ingesteld bij Kolgans 33 in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne",
-   "tekst": "woensdag De gemeente Deurne heeft een gehandicaptenparkeerplaats toegewezen bij Kolgans 33. Het gaat om een plek die gekoppeld is aan het kenteken van de auto van de aanvrager.",
+   "tekst": "11 november 2026 De gemeente Deurne heeft een gehandicaptenparkeerplaats toegewezen bij Kolgans 33. Het gaat om een plek die gekoppeld is aan het kenteken van de auto van de aanvrager.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -925,7 +925,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034358/vergunning-verleend-voor-woningen-aan-peelraand-in-deurne": {
    "titel": "Vergunning verleend voor woningen aan Peelraand in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6034358/vergunning-verleend-voor-woningen-aan-peelraand-in-deurne",
-   "tekst": "woensdag De gemeente Deurne heeft besloten dat de woningen aan Peelraand 14 en 16 mogen worden verschoven. De omgevingsvergunning is op 4 november verleend.",
+   "tekst": "11 november 2026 De gemeente Deurne heeft besloten dat de woningen aan Peelraand 14 en 16 mogen worden verschoven. De omgevingsvergunning is op 4 november verleend.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1808,23 +1808,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.omroepbrabant.nl/nieuws/6033461/eerste-cultuurcafe-someren-brengt-cultuurmakers-samen": {
-   "titel": "Eerste Cultuurcafé Someren brengt cultuurmakers samen",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033461/eerste-cultuurcafe-someren-brengt-cultuurmakers-samen",
-   "tekst": "3 november 2026 Bij Punt 18 in Someren heeft op donderdag 29 oktober de eerste editie van het Cultuurcafé plaatsgevonden. Zo’n 25 aanwezigen, waaronder culturele verenigingen, makers en maatschappelijke organisaties, gingen met elkaar in …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
   "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
    "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
    "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
@@ -2151,6 +2134,39 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
+   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:19:02+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627667/jannes-b-22-acht-jaar-vast-voor-gewelddadige-overvallen-in-zijtaart-en-sint-oedenrode-kinderen-sliepen-in-woning.html": {
+   "titel": "Jannes B. (22) acht jaar vast voor gewelddadige overvallen in Zijtaart en Sint-Oedenrode, kinderen sliepen in woning",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627667/jannes-b-22-acht-jaar-vast-voor-gewelddadige-overvallen-in-zijtaart-en-sint-oedenrode-kinderen-sliepen-in-woning.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:13:11+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 17:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627505/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627505/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
@@ -2163,7 +2179,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2348,39 +2364,21 @@
    "prio": false,
    "tijd": "17-11 14:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html": {
-   "titel": "Eindhovense raad beslist over bouwplan Begijnenhof, met veel betaalbare woningen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
+   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
    "tekst": "",
-   "datum": "2026-11-17T12:49:05+00:00",
-   "eerst_gezien": "2026-11-17T12:52:05.988150+00:00",
-   "bron": "Drimble Helmond",
+   "datum": "2026-11-17T16:11:39+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html": {
-   "titel": "N397 bij Veldhoven nacht afgesloten voor onderhoud",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html",
-   "tekst": "",
-   "datum": "2026-11-17T12:13:05+00:00",
-   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
    "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
@@ -2451,23 +2449,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 23:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html": {
-   "titel": "Waarom sportschool en dansschool in Deurne zich overvallen voelen door het plan voor het buurthuis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html",
-   "tekst": "",
-   "datum": "2026-11-12T22:42:09+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
    "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
@@ -2689,6 +2670,108 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 06:37"
+  },
+  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/": {
+   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
+   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/",
+   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
+   "datum": "2026-11-17T15:00:00+00:00",
+   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 16:00"
+  },
+  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/",
+   "tekst": "In Helmond zijn momenteel enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brahmslaan al ruim een uur zonder stroom.",
+   "datum": "2026-11-17T14:26:49+00:00",
+   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 15:26"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033461/eerste-cultuurcafe-someren-brengt-cultuurmakers-samen": {
+   "titel": "Eerste Cultuurcafé Someren brengt cultuurmakers samen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033461/eerste-cultuurcafe-someren-brengt-cultuurmakers-samen",
+   "tekst": "3 november 2026 Bij Punt 18 in Someren heeft op donderdag 29 oktober de eerste editie van het Cultuurcafé plaatsgevonden. Zo’n 25 aanwezigen, waaronder culturele verenigingen, makers en maatschappelijke organisaties, gingen met elkaar in …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html": {
+   "titel": "Eindhovense raad beslist over bouwplan Begijnenhof, met veel betaalbare woningen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html",
+   "tekst": "",
+   "datum": "2026-11-17T12:49:05+00:00",
+   "eerst_gezien": "2026-11-17T12:52:05.988150+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html": {
+   "titel": "N397 bij Veldhoven nacht afgesloten voor onderhoud",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html",
+   "tekst": "",
+   "datum": "2026-11-17T12:13:05+00:00",
+   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html": {
+   "titel": "Waarom sportschool en dansschool in Deurne zich overvallen voelen door het plan voor het buurthuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108585021/waarom-sportschool-en-dansschool-in-deurne-zich-overvallen-voelen-door-het-plan-voor-het-buurthuis.html",
+   "tekst": "",
+   "datum": "2026-11-12T22:42:09+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:42"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176": {
    "titel": "A2 Helmond Rit: 137176",
@@ -8453,7 +8536,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 20,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -8479,7 +8562,7 @@
   "Bekendmakingen Helmond": {
    "ok": false,
    "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal Server Error"
+   "fout": "TimeoutError: The read operation timed out"
   },
   "Bekendmakingen Deurne": {
    "ok": false,
@@ -8518,7 +8601,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 26,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
