@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "17-11-2026 11:11",
+ "bijgewerkt": "17-11-2026 11:27",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd": {
+   "titel": "Lezing over vogeltrek bij De Ossenbeemd",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd",
+   "tekst": "DEURNE - Vogelwerkgroep De Kulert houdt maandag 23 november een lezing over vogeltrek bij De Ossenbeemd in Deurne. Gastspreker Gerard Compiet vertelt van 20.00 tot 22.00 uur over de jaarlijkse verplaatsingen van vogels. De inloop begint om 19.45 uur.",
+   "datum": "2026-11-17T11:25:00+01:00",
+   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 11:25"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64697/nick-en-fenna-strijbos-boerenbruidspaar-in-sint-jozefparochie": {
    "titel": "Nick en Fenna Strijbos zijn boerenbruidspaar in Sint Jozefparochie",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64697/nick-en-fenna-strijbos-boerenbruidspaar-in-sint-jozefparochie",
@@ -579,22 +596,23 @@
    "prio": false,
    "tijd": "10-11 14:51"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64543/ehbo-vereniging-deurne-ontvangt-koninklijke-erepenning": {
-   "titel": "EHBO-vereniging Deurne ontvangt Koninklijke Erepenning",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64543/ehbo-vereniging-deurne-ontvangt-koninklijke-erepenning",
-   "tekst": "DEURNE - EHBO-vereniging Deurne heeft zaterdagavond de Koninklijke Erepenning ontvangen. Burgemeester Greet Buter reikte de onderscheiding uit tijdens de viering van het 75-jarig bestaan van de vereniging.",
-   "datum": "2026-11-10T11:15:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64707/onis-houdt-open-inloop-over-vrijwilligerswerk-in-asten-en-someren": {
+   "titel": "Onis houdt open inloop over vrijwilligerswerk in Asten en Someren",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64707/onis-houdt-open-inloop-over-vrijwilligerswerk-in-asten-en-someren",
+   "tekst": "ASTEN/SOMEREN - Ergens in de gemeenten Asten en Someren vrijwilligerswerk doen? Dan zijn de opties legio. Onis Welzijn vertelt er komende maandag meer over tijdens een open inloop in gemeenschapshuis 't Kwartier in Asten.",
+   "datum": "2026-11-17T11:13:00+01:00",
+   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
+   "bron": "Peelbelang",
    "gemeenten": [
-    "Deurne"
+    "Asten",
+    "Someren"
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "10-11 11:15"
+   "tijd": "17-11 11:13"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64698/de-lezersfotos-van-de-week": {
    "titel": "De mooiste lezersfoto’s van de week",
@@ -1190,7 +1208,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 11:10"
@@ -1875,7 +1893,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "16-11 13:39"
   },
   "https://www.omroepbrabant.nl/nieuws/6033601/in-deurne-gevonden-oehoe-is-vermiste-coco-baasje-krijgt-hem-opgezet-terug": {
    "titel": "In Deurne gevonden oehoe is vermiste Coco, baasje krijgt hem opgezet terug",
@@ -2338,10 +2357,27 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos": {
+   "titel": "Bomen gekapt op Boksenberg voor sterker bos",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos",
+   "tekst": "",
+   "datum": "2026-11-17T10:26:38.889108+00:00",
+   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 11:26"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035041/someren-start-campagne-tegen-geweld-tegen-vrouwen": {
    "titel": "Someren start campagne tegen geweld tegen vrouwen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035041/someren-start-campagne-tegen-geweld-tegen-vrouwen",
-   "tekst": "",
+   "tekst": "Someren doet mee aan de campagne Orange the World. Burgemeester Dilia Blok en wethouder Daniël van Schijndel hijsen op woensdag 25 november een speciale vlag bij het gemeentehuis. De campagne vraagt aandacht voor geweld tegen vrouwen en …",
    "datum": "2026-11-17T10:10:38.579736+00:00",
    "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2350,7 +2386,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 11:10"
@@ -2375,7 +2411,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034876/prachtparenmiddag-voor-bruidsparen-in-someren": {
    "titel": "Prachtparenmiddag voor bruidsparen in Someren",
    "link": "https://www.omroepbrabant.nl/nieuws/6034876/prachtparenmiddag-voor-bruidsparen-in-someren",
-   "tekst": "In theater De Ruchte in Someren hebben 68 bruidsparen deelgenomen aan een feestelijke middag vol muziek en dans.",
+   "tekst": "",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4549,12 +4585,12 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108624524/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html": {
    "titel": "Pakistaanse Bushra (65) zoekt veiligheid in Nuenen, terwijl de angst om haar familie haar niet loslaat",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624524/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html",
    "tekst": "",
-   "datum": "2026-11-17T10:07:23+00:00",
-   "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
+   "datum": "2026-11-17T10:13:05+00:00",
+   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4564,7 +4600,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "17-11 11:07"
+   "tijd": "17-11 11:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108624006/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond.html": {
    "titel": "Film over dementie gevolgd door gesprek met casemanagers in Helmond",
@@ -4762,22 +4798,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 07:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
-   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
-   "tekst": "",
-   "datum": "2026-11-17T06:29:05+00:00",
-   "eerst_gezien": "2026-11-17T06:40:55.843772+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
    "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
@@ -5121,6 +5141,23 @@
    "prio": false,
    "tijd": "12-11 06:37"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126111309a2helmondrit137031": {
+   "titel": "A2 Helmond Rit: 137031",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126111309a2helmondrit137031",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-132)",
+   "datum": "2026-11-17T11:13:09+01:00",
+   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 11:13"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126104955a2helmondrit137013": {
    "titel": "A2 Helmond Rit: 137013",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126104955a2helmondrit137013",
@@ -5133,7 +5170,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 10:49"
@@ -5714,6 +5751,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "16-11 14:34"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html": {
+   "titel": "Pakistaanse Bushra (65) zoekt veiligheid in Nuenen, terwijl de angst om haar familie haar niet loslaat",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html",
+   "tekst": "",
+   "datum": "2026-11-17T10:07:23+00:00",
+   "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 11:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
+   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622923/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
+   "tekst": "",
+   "datum": "2026-11-17T06:29:05+00:00",
+   "eerst_gezien": "2026-11-17T06:40:55.843772+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.omroepbrabant.nl/nieuws/6033842/grond-bij-kasteel-traverse-en-stationsplein-helmond-wordt-afgesloten": {
    "titel": "Grond bij Kasteel-Traverse en Stationsplein Helmond wordt afgesloten",
@@ -7429,7 +7499,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 20,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -7479,7 +7549,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 20,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -7524,7 +7594,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -7544,7 +7614,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 36,
    "fout": ""
   },
   "112Brabant": {
