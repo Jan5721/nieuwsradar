@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 17:41",
+ "bijgewerkt": "17-11-2026 17:57",
  "items": {
   "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
    "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
@@ -303,7 +303,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 17:30"
@@ -1790,40 +1790,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
-   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
-   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
-   "datum": "2026-11-11T16:01:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 17:01"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -3747,6 +3713,56 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627958/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html": {
+   "titel": "Van bioscoop tot museum: tijdens de Urban Trail Eindhoven ren je door gebouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627958/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:49:06+00:00",
+   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 17:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627908/nieuwe-namen-maestro-veldhoven-bekend.html": {
+   "titel": "Nieuwe namen Maestro Veldhoven bekend",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627908/nieuwe-namen-maestro-veldhoven-bekend.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:43:15+00:00",
+   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 17:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627906/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html": {
+   "titel": "Van bioscoop tot museum: tijdens de Urban Trail Eindhoven ren je door gebouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627906/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:43:15+00:00",
+   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html": {
    "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html",
@@ -3759,7 +3775,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3775,10 +3791,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:31"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627743/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
@@ -3792,7 +3807,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3943,39 +3958,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html",
-   "tekst": "",
-   "datum": "2026-11-17T14:31:03+00:00",
-   "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html": {
-   "titel": "Gemeenteraad buigt zich over volgende stap voor Begijnenhof, waar woontoren net onder de Catharinakerk uitkomt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html",
-   "tekst": "",
-   "datum": "2026-11-17T13:13:10+00:00",
-   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
@@ -3988,7 +3970,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4299,6 +4281,23 @@
    "prio": false,
    "tijd": "12-11 06:37"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212": {
+   "titel": "A1 Asten Rit: 137212",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T17:57:30+01:00",
+   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 17:57"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202": {
    "titel": "A2 Helmond Rit: 137202",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202",
@@ -4311,7 +4310,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 17:33"
@@ -4328,7 +4327,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 17:33"
@@ -4345,7 +4344,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 17:18"
@@ -4722,6 +4721,73 @@
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 05:07"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
+   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
+   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
+   "datum": "2026-11-11T16:01:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 17:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html",
+   "tekst": "",
+   "datum": "2026-11-17T14:31:03+00:00",
+   "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html": {
+   "titel": "Gemeenteraad buigt zich over volgende stap voor Begijnenhof, waar woontoren net onder de Catharinakerk uitkomt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html",
+   "tekst": "",
+   "datum": "2026-11-17T13:13:10+00:00",
+   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 14:13"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126034246a1helmondrit136876": {
    "titel": "A1 Helmond Rit: 136876",
@@ -8673,9 +8739,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 2,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -8714,7 +8780,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
