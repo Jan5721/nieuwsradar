@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 18:30",
+ "bijgewerkt": "17-11-2026 18:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64711/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 17:30"
@@ -1259,7 +1259,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 18:30"
@@ -2579,7 +2579,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034408/gemeenten-asten-en-someren-werken-samen-aan-asielopvang": {
    "titel": "Gemeenten Asten en Someren werken samen aan asielopvang",
    "link": "https://www.omroepbrabant.nl/nieuws/6034408/gemeenten-asten-en-someren-werken-samen-aan-asielopvang",
-   "tekst": "woensdag De gemeenten Asten en Someren gaan samenwerken bij de opvang van asielzoekers. Asten opent een tijdelijke locatie aan de Kanaalweg voor maximaal 204 asielzoekers. De opvang richt zich op gezinnen en alleenstaanden. De locatie …",
+   "tekst": "11 november 2026 De gemeenten Asten en Someren gaan samenwerken bij de opvang van asielzoekers. Asten opent een tijdelijke locatie aan de Kanaalweg voor maximaal 204 asielzoekers. De opvang richt zich op gezinnen en alleenstaanden. De …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2596,7 +2596,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034406/prinsenbal-cv-de-plattevonder-onthult-nieuwe-prins-en-prinses": {
    "titel": "Prinsenbal CV De Plattevonder onthult nieuwe prins en prinses",
    "link": "https://www.omroepbrabant.nl/nieuws/6034406/prinsenbal-cv-de-plattevonder-onthult-nieuwe-prins-en-prinses",
-   "tekst": "woensdag Op vrijdag 13 november organiseert CV De Plattevonder haar prinsenbal in Someren. Tijdens deze avond, die om acht uur ’s avonds begint, wordt de nieuwe prins en prinses van de vereniging bekendgemaakt.",
+   "tekst": "11 november 2026 Op vrijdag 13 november organiseert CV De Plattevonder haar prinsenbal in Someren. Tijdens deze avond, die om acht uur ’s avonds begint, wordt de nieuwe prins en prinses van de vereniging bekendgemaakt.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4685,6 +4685,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628381/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html": {
+   "titel": "Politie controleert auto op A67: bestuurder heeft foto van vervalste ID-kaart bij zich en test positief op cocaïne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628381/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:43:15+00:00",
+   "eerst_gezien": "2026-11-17T17:46:06.958413+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 18:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html": {
    "titel": "Eindhovense raad positief over nieuwe woontoren, al houdt het qua aantal parkeerplekken niet echt over",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html",
@@ -4898,22 +4915,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 16:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:13:05+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
@@ -5643,6 +5644,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 08:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
+   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
+   "tekst": "",
+   "datum": "2026-11-17T15:13:05+00:00",
+   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.omroepbrabant.nl/nieuws/6033960/helmond-is-de-frikandellenstad-er-wordt-geen-rotzooi-in-verwerkt": {
    "titel": "Helmond is de frikandellenstad: \"Er wordt geen rotzooi in verwerkt\"",
