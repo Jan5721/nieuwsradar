@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "17-11-2026 13:20",
+ "bijgewerkt": "17-11-2026 13:36",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe": {
    "titel": "UWV: ‘Aantal mensen met psychische klachten neemt toe’",
@@ -14,7 +14,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 13:14"
@@ -614,6 +614,23 @@
    "prio": false,
    "tijd": "10-11 14:51"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans": {
+   "titel": "Asielopvanglocatie start met accu, aggregaat en watertank: ‘Aansluitingen volgen later’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans",
+   "tekst": "ASTEN - Een béétje behelpen: de asielopvanglocatie aan de Kanaalweg in Asten moet komende maand al in bedrijf zijn, maar doet dat in eerste instantie zonder riool- en elektriciteitsaansluiting. \"Maar bewoners merken er niets van.\"",
+   "datum": "2026-11-17T13:34:00+01:00",
+   "eerst_gezien": "2026-11-17T12:35:52.716684+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:34"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64707/onis-houdt-open-inloop-over-vrijwilligerswerk-in-asten-en-someren": {
    "titel": "Onis houdt open inloop over vrijwilligerswerk in Asten en Someren",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64707/onis-houdt-open-inloop-over-vrijwilligerswerk-in-asten-en-someren",
@@ -1111,23 +1128,6 @@
    "prio": false,
    "tijd": "16-11 13:10"
   },
-  "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/": {
-   "titel": "Gratis kerstmarkt in Helmond voor minima: Samantha’s hondjes lopen er nu ook kerstig bij",
-   "link": "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/",
-   "tekst": "Elk jaar houdt welzijnsstichting BeBizzy in Helmond een gratis kerstmarkt voor mensen met een kleinere beurs. Iemand als Samantha Zijtveld is blij dat ze met wat nieuwe spullen weer een keer echt kerst kan vieren. En haar hondjes Mila en Kiki doen ook gezellig mee.",
-   "datum": "2026-11-16T12:00:16+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:00"
-  },
   "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/": {
    "titel": "Willy Koppens uit Deurne krijgt Brabant Bokaal voor inzet voor cultuur",
    "link": "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/",
@@ -1161,6 +1161,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 09:05"
+  },
+  "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/": {
+   "titel": "Gratis kerstmarkt in Helmond voor minima: Samantha’s hondjes lopen er nu ook kerstig bij",
+   "link": "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/",
+   "tekst": "Elk jaar houdt welzijnsstichting BeBizzy in Helmond een gratis kerstmarkt voor mensen met een kleinere beurs. Iemand als Samantha Zijtveld is blij dat ze met wat nieuwe spullen weer een keer echt kerst kan vieren. En haar hondjes Mila en Kiki doen ook gezellig mee.",
+   "datum": "2026-11-16T12:00:16+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:00"
   },
   "https://www.ed.nl/deurne/museum-de-wieger-houdt-workshop-kerstbal-beschilderen-in-deurne~ac1de529/": {
    "titel": "Museum De Wieger houdt workshop kerstbal beschilderen in Deurne",
@@ -1208,7 +1225,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 13:09"
@@ -2236,23 +2253,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.omroepbrabant.nl/nieuws/6033432/nieuwe-afspraken-voor-wonen-in-deurne": {
-   "titel": "Nieuwe afspraken voor wonen in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033432/nieuwe-afspraken-voor-wonen-in-deurne",
-   "tekst": "3 november 2026 De gemeente Deurne, woningbouwvereniging Bergopwaarts en huurdersorganisatie HBO de Peel hebben nieuwe afspraken gemaakt voor de periode 2026–2029. Het gaat om plannen voor woningbouw, betaalbaar wonen, verduurzaming en …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
   "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming": {
    "titel": "Voormalige boerderij in Ommel krijgt nieuwe bestemming",
    "link": "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming",
@@ -2931,7 +2931,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 13:02"
@@ -4682,7 +4682,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 13:13"
@@ -4699,7 +4699,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4715,7 +4715,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5255,7 +5255,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 13:06"
@@ -5802,6 +5802,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "16-11 18:15"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033432/nieuwe-afspraken-voor-wonen-in-deurne": {
+   "titel": "Nieuwe afspraken voor wonen in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033432/nieuwe-afspraken-voor-wonen-in-deurne",
+   "tekst": "3 november 2026 De gemeente Deurne, woningbouwvereniging Bergopwaarts en huurdersorganisatie HBO de Peel hebben nieuwe afspraken gemaakt voor de periode 2026–2029. Het gaat om plannen voor woningbouw, betaalbaar wonen, verduurzaming en …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#161126172154a2deurnerit136728": {
    "titel": "A2 Deurne Rit: 136728",
@@ -7868,7 +7885,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 20,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -7878,12 +7895,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -7908,7 +7925,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -7983,7 +8000,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
