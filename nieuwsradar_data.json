@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 00:28",
+ "bijgewerkt": "18-11-2026 00:44",
  "items": {
   "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
@@ -4260,7 +4260,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
