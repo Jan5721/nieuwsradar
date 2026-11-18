@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 16:41",
+ "bijgewerkt": "18-11-2026 16:59",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -4563,6 +4563,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108638533/nieuwe-scholen-sportvelden-en-buurthuizen-regiogemeenten-tellen-alvast-300-miljoen-euro-neer.html": {
+   "titel": "Nieuwe scholen, sportvelden en buurthuizen: regiogemeenten tellen alvast 300 miljoen euro neer",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638533/nieuwe-scholen-sportvelden-en-buurthuizen-regiogemeenten-tellen-alvast-300-miljoen-euro-neer.html",
+   "tekst": "",
+   "datum": "2026-11-18T15:49:05+00:00",
+   "eerst_gezien": "2026-11-18T15:58:24.628070+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 16:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108638265/steeds-meer-jonge-brabanders-blijven-single-vrouwen-willen-niet-downdaten.html": {
    "titel": "Steeds meer jonge Brabanders blijven single: `Vrouwen willen niet downdaten`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108638265/steeds-meer-jonge-brabanders-blijven-single-vrouwen-willen-niet-downdaten.html",
@@ -4804,39 +4821,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html",
-   "tekst": "Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles...",
-   "datum": "2026-11-18T11:29:03+00:00",
-   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:29"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:25:12+00:00",
-   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5159,6 +5143,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 07:37"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126164713a2somerenrit137615": {
+   "titel": "A2 Someren Rit: 137615",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126164713a2somerenrit137615",
+   "tekst": "Ambulance 22-120 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T16:47:13+01:00",
+   "eerst_gezien": "2026-11-18T15:58:24.628070+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 16:47"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126161608a1deurnerit137602": {
    "titel": "A1 Deurne Rit: 137602",
@@ -5533,6 +5534,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html",
+   "tekst": "Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles...",
+   "datum": "2026-11-18T11:29:03+00:00",
+   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:25:12+00:00",
+   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
@@ -8855,23 +8889,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126165524p2bob02brbuitenhoornstraathelmond223231": {
-   "titel": "P 2 BOB-02 BR buiten Hoornstraat Helmond 223231",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126165524p2bob02brbuitenhoornstraathelmond223231",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-16T16:55:24+01:00",
-   "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 16:55"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
    "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
@@ -10388,7 +10405,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -10408,7 +10425,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
