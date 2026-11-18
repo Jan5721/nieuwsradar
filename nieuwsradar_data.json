@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 15:36",
+ "bijgewerkt": "18-11-2026 15:52",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -614,23 +614,6 @@
    "prio": false,
    "tijd": "12-11 09:29"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64622/janus-en-de-rest-wint-dorpsquiz-deurne-wittut": {
-   "titel": "Janus en de rest wint dorpsquiz Deurne Wittut",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64622/janus-en-de-rest-wint-dorpsquiz-deurne-wittut",
-   "tekst": "DEURNE - Team Janus en de rest heeft de zesde editie van dorpsquiz Deurne Wittut gewonnen. In totaal namen 38 teams deel aan de quiz. De winnaar behaalde 608 punten en ontvangt naast de wisseltrofee een cheque van 1.000 euro voor het goede doel het Walhalla.",
-   "datum": "2026-11-11T15:44:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 15:44"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64786/ineens-laat-dode-beuk-in-ommel-maria-verschijnen": {
    "titel": "Ineens laat dode beuk in Ommel Maria verschijnen",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64786/ineens-laat-dode-beuk-in-ommel-maria-verschijnen",
@@ -1222,7 +1205,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 15:26"
@@ -5585,6 +5568,23 @@
    "prio": true,
    "tijd": "17-11 17:57"
   },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202": {
    "titel": "A2 Helmond Rit: 137202",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202",
@@ -5618,23 +5618,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 17:33"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
   },
   "https://www.omroepbrabant.nl/nieuws/6033568/raadsvergaderingen-deurne-op-15-en-16-december": {
    "titel": "Raadsvergaderingen Deurne op 15 en 16 december",
@@ -10205,7 +10188,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 37,
+   "aantal": 36,
    "fout": ""
   },
   "Peelbelang": {
@@ -10325,7 +10308,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
