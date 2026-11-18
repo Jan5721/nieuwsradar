@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 18:04",
+ "bijgewerkt": "18-11-2026 18:20",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -4542,7 +4542,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 17:58"
@@ -4559,7 +4559,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4575,7 +4575,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 17:49"
@@ -4592,7 +4592,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4608,7 +4608,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5128,6 +5128,23 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126180443steekpartijzuidende5701mghelmond": {
+   "titel": "Steekpartij Zuidende 5701MG Helmond",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126180443steekpartijzuidende5701mghelmond",
+   "tekst": "Politie Oost-Brabant (Persvoorlichter) · Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-18T18:04:43+01:00",
+   "eerst_gezien": "2026-11-18T17:19:36.524027+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 18:04"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126164713a2somerenrit137615": {
    "titel": "A2 Someren Rit: 137615",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126164713a2somerenrit137615",
@@ -5434,6 +5451,23 @@
    "prio": true,
    "tijd": "17-11 20:38"
   },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126202330a2helmondrit137262": {
    "titel": "A2 Helmond Rit: 137262",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126202330a2helmondrit137262",
@@ -5467,23 +5501,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 20:04"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108637168/vermiste-vrouw-67-uit-lieshout-dood-aangetroffen.html": {
    "titel": "Vermiste vrouw (67) uit Lieshout dood aangetroffen",
@@ -8921,57 +8938,6 @@
    "prio": false,
    "tijd": "17-11 09:13"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126181614a0helmondrit136741": {
-   "titel": "A0 Helmond Rit: 136741",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126181614a0helmondrit136741",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T18:16:14+01:00",
-   "eerst_gezien": "2026-11-16T17:21:46.617640+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "16-11 18:16"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126181522p1bob01reanimatieinzetaedspoorstraathelmond22323": {
-   "titel": "P 1 BOB-01 Reanimatie (Inzet AED) Spoorstraat Helmond 223231",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126181522p1bob01reanimatieinzetaedspoorstraathelmond22323",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-16T18:15:22+01:00",
-   "eerst_gezien": "2026-11-16T17:21:46.617640+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "16-11 18:15"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126181505a0helmondrit136740": {
-   "titel": "A0 Helmond Rit: 136740",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126181505a0helmondrit136740",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T18:15:05+01:00",
-   "eerst_gezien": "2026-11-16T17:21:46.617640+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "16-11 18:15"
-  },
   "https://www.omroepbrabant.nl/nieuws/6033432/nieuwe-afspraken-voor-wonen-in-deurne": {
    "titel": "Nieuwe afspraken voor wonen in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6033432/nieuwe-afspraken-voor-wonen-in-deurne",
@@ -10574,7 +10540,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
