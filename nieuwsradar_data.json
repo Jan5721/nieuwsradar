@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 12:20",
+ "bijgewerkt": "18-11-2026 12:36",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64773/waterschapsbelasting-stijgt-opnieuw-in-2027": {
    "titel": "Waterschapsbelasting stijgt opnieuw in 2027",
@@ -626,7 +626,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:11"
@@ -2896,23 +2896,6 @@
    "prio": false,
    "tijd": "12-11 15:33"
   },
-  "https://www.asten.nl/nieuws/artikel/creatieve-mantel-uit-dag": {
-   "titel": "Creatieve mantel-uit-dag",
-   "link": "https://www.asten.nl/nieuws/artikel/creatieve-mantel-uit-dag",
-   "tekst": "Sluit op 25 november aan bij de creatieve middag.",
-   "datum": "2026-11-11T11:20:46+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 12:20"
-  },
   "https://www.someren.nl/nieuws/artikel/stevig-blijven-staan-zodat-u-kunt-blijven-doen-wat-u-graag-doet": {
    "titel": "Stevig blijven staan, zodat u kunt blijven doen wat u graag doet!",
    "link": "https://www.someren.nl/nieuws/artikel/stevig-blijven-staan-zodat-u-kunt-blijven-doen-wat-u-graag-doet",
@@ -4613,12 +4596,29 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html",
+   "tekst": "Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles...",
+   "datum": "2026-11-18T11:29:03+00:00",
+   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
    "tekst": "",
-   "datum": "2026-11-18T11:19:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "datum": "2026-11-18T11:25:12+00:00",
+   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Deurne"
@@ -4641,7 +4641,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:13"
@@ -4658,7 +4658,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:07"
@@ -4675,7 +4675,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4876,35 +4876,19 @@
    "prio": false,
    "tijd": "18-11 11:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635604/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
-   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635604/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108636336/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636336/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
    "tekst": "",
-   "datum": "2026-11-18T10:13:05+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
+   "datum": "2026-11-18T11:28:02+00:00",
+   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635525/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html": {
-   "titel": "Vocaal Ensemble Phoenix uit Veldhoven geeft kerstconcert in Middelbeers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635525/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:07:22+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -4971,41 +4955,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
-   "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html",
-   "tekst": "",
-   "datum": "2026-11-15T20:15:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 21:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
-   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
-   "tekst": "",
-   "datum": "2026-11-15T18:45:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 19:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
    "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
@@ -5159,6 +5108,24 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
+   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
+   "tekst": "",
+   "datum": "2026-11-15T18:45:03+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 19:45"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html": {
    "titel": "Sportieve prins Twan II voorop in de polonaise bij De Meerpoel in Someren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html",
@@ -5226,6 +5193,88 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 07:37"
+  },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:19:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635604/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
+   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635604/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:13:05+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635525/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html": {
+   "titel": "Vocaal Ensemble Phoenix uit Veldhoven geeft kerstconcert in Middelbeers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635525/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:07:22+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
+   "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html",
+   "tekst": "",
+   "datum": "2026-11-15T20:15:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 21:15"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462": {
    "titel": "A2 Helmond Rit: 137462",
@@ -5634,23 +5683,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 14:07"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
    "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
@@ -10012,7 +10044,7 @@
   },
   "Gemeente Asten": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 6,
    "fout": ""
   },
   "Gemeente Someren": {
@@ -10042,12 +10074,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 5,
    "fout": ""
   },
   "Drimble Asten": {
@@ -10057,12 +10089,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
