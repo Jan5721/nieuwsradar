@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 10:11",
+ "bijgewerkt": "18-11-2026 10:27",
  "items": {
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
@@ -13,7 +13,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:05"
@@ -30,7 +30,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:00"
@@ -829,7 +829,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:10"
@@ -846,7 +846,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:10"
@@ -3763,6 +3763,54 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635075/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635075/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:13:10+00:00",
+   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635068/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635068/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:13:05+00:00",
+   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635058/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635058/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:11:29+00:00",
+   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635009/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html": {
    "titel": "Geldropse Fabiën wil meer vrijwilligers aantrekken voor Nepal",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635009/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html",
@@ -3775,7 +3823,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:07"
@@ -3792,7 +3840,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:07"
@@ -3809,7 +3857,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3825,7 +3873,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3841,7 +3889,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3857,7 +3905,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3873,7 +3921,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4010,45 +4058,12 @@
    "prio": false,
    "tijd": "18-11 07:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634112/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
-   "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634112/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:49:06+00:00",
-   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634110/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html": {
-   "titel": "Nieuwe hoop voor 1,5 miljoen artrosepatiënten: implantaat van levend kraakbeen moet pijn eerder verlichten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634110/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:49:05+00:00",
-   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
    "tekst": "",
-   "datum": "2026-11-18T09:10:08+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "datum": "2026-11-18T09:20:03+00:00",
+   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -4391,7 +4406,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 10:09"
@@ -4408,7 +4423,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "18-11 09:58"
@@ -4425,7 +4440,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 09:28"
@@ -4735,6 +4750,55 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 13:06"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634112/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
+   "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634112/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:49:06+00:00",
+   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634110/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html": {
+   "titel": "Nieuwe hoop voor 1,5 miljoen artrosepatiënten: implantaat van levend kraakbeen moet pijn eerder verlichten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634110/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:49:05+00:00",
+   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:10:08+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126121739a2astenrit137059": {
    "titel": "A2 Asten Rit: 137059",
@@ -9553,7 +9617,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -9573,7 +9637,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
