@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 20:14",
+ "bijgewerkt": "18-11-2026 20:30",
  "items": {
   "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/": {
    "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
@@ -292,19 +292,19 @@
    "prio": false,
    "tijd": "18-11 11:04"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-politie-nog-op-zoek-naar-andere-man": {
-   "titel": "Man gepakt na melding van steekpartij, politie nog op zoek naar andere man",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-politie-nog-op-zoek-naar-andere-man",
-   "tekst": "Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij, maar of er daadwerkelijk gestoken is, wordt nog onderzocht. De politie is nog op zoek naar een andere man. In …",
+  "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
+   "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
+   "tekst": "Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij. In een van de appartementen zou zich aan het begin van de avond iets hebben afgespeeld. Wat daar precies …",
    "datum": "2026-11-18T17:50:41+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 18:50"
@@ -3594,6 +3594,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108640038/kledingbank-wil-af-van-slechte-kleding-mensen-bewust-maken-van-wat-ze-doneren.html": {
+   "titel": "Kledingbank wil af van slechte kleding: `Mensen bewust maken van wat ze doneren`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640038/kledingbank-wil-af-van-slechte-kleding-mensen-bewust-maken-van-wat-ze-doneren.html",
+   "tekst": "",
+   "datum": "2026-11-18T19:13:05+00:00",
+   "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 20:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108640000/weekendtips-deze-dingen-doe-je-in-eindhoven-20-22-november.html": {
    "titel": "Weekendtips: deze dingen doe je in Eindhoven (20-22 november)",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108640000/weekendtips-deze-dingen-doe-je-in-eindhoven-20-22-november.html",
@@ -3606,7 +3623,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 20:07"
@@ -3623,10 +3640,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:07"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108639935/weekendtips-deze-dingen-doe-je-in-eindhoven-20-22-november.html": {
    "titel": "Weekendtips: deze dingen doe je in Eindhoven (20-22 november)",
@@ -3640,7 +3656,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3893,23 +3909,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108638746/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html": {
-   "titel": "Vijf wilde zwijnen doodgereden bij Eersel: wat moet je doen bij aanrijding met wild en ben je verzekerd'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638746/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html",
-   "tekst": "",
-   "datum": "2026-11-18T16:13:10+00:00",
-   "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 17:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -4533,23 +4532,6 @@
    "prio": false,
    "tijd": "18-11 03:36"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126224443a1helmondrit137293": {
-   "titel": "A1 Helmond Rit: 137293",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126224443a1helmondrit137293",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-17T22:44:43+01:00",
-   "eerst_gezien": "2026-11-17T21:49:44.689872+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 22:44"
-  },
   "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
    "titel": "Man aangehouden na mogelijk steekincident in appartement",
    "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
@@ -4583,6 +4565,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-politie-nog-op-zoek-naar-andere-man": {
+   "titel": "Man gepakt na melding van steekpartij, politie nog op zoek naar andere man",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-politie-nog-op-zoek-naar-andere-man",
+   "tekst": "Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij, maar of er daadwerkelijk gestoken is, wordt nog onderzocht. De politie is nog op zoek naar een andere man. In …",
+   "datum": "2026-11-18T17:50:41+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 18:50"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108638746/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html": {
+   "titel": "Vijf wilde zwijnen doodgereden bij Eersel: wat moet je doen bij aanrijding met wild en ben je verzekerd'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638746/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:13:10+00:00",
+   "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:13"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126224443a1helmondrit137293": {
+   "titel": "A1 Helmond Rit: 137293",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126224443a1helmondrit137293",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T22:44:43+01:00",
+   "eerst_gezien": "2026-11-17T21:49:44.689872+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 22:44"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108638744/gewone-bijzondere-dorpsbewoners-in-de-schijnwerpers-tijdens-bezoek-commissaris.html": {
    "titel": "Gewone bijzondere dorpsbewoners in de schijnwerpers tijdens bezoek commissaris",
@@ -10792,7 +10825,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "112Brabant": {
