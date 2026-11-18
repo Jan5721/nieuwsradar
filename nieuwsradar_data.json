@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 19:09",
+ "bijgewerkt": "18-11-2026 19:25",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -1223,7 +1223,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 18:50"
@@ -4513,6 +4513,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639636/luuk-brouwers-maakte-de-transfer-waar-hij-op-hoopte-nu-staat-duel-met-juventus-voor-de-deur.html": {
+   "titel": "Luuk Brouwers maakte de transfer waar hij op hoopte, nu staat duel met Juventus voor de deur",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639636/luuk-brouwers-maakte-de-transfer-waar-hij-op-hoopte-nu-staat-duel-met-juventus-voor-de-deur.html",
+   "tekst": "",
+   "datum": "2026-11-18T18:13:06+00:00",
+   "eerst_gezien": "2026-11-18T18:25:14.561210+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108639571/man-aangehouden-na-mogelijk-steekincident-in-helmond-politie-zoekt-slachtoffer.html": {
    "titel": "Man aangehouden na mogelijk steekincident in Helmond, politie zoekt slachtoffer",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108639571/man-aangehouden-na-mogelijk-steekincident-in-helmond-politie-zoekt-slachtoffer.html",
@@ -4525,7 +4542,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:04"
@@ -4542,7 +4559,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:01"
@@ -4779,22 +4796,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 16:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108638136/els-heeft-een-bijzondere-foodtruck-mijn-hobby-is-een-beetje-uit-de-hand-gelopen.html": {
-   "titel": "Els heeft een bijzondere foodtruck: `Mijn hobby is een beetje uit de hand gelopen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638136/els-heeft-een-bijzondere-foodtruck-mijn-hobby-is-een-beetje-uit-de-hand-gelopen.html",
-   "tekst": "",
-   "datum": "2026-11-18T15:07:29+00:00",
-   "eerst_gezien": "2026-11-18T15:08:30.243096+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -5447,7 +5448,7 @@
    ],
    "soort": "112-nieuws",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
@@ -5468,6 +5469,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108638136/els-heeft-een-bijzondere-foodtruck-mijn-hobby-is-een-beetje-uit-de-hand-gelopen.html": {
+   "titel": "Els heeft een bijzondere foodtruck: `Mijn hobby is een beetje uit de hand gelopen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638136/els-heeft-een-bijzondere-foodtruck-mijn-hobby-is-een-beetje-uit-de-hand-gelopen.html",
+   "tekst": "",
+   "datum": "2026-11-18T15:07:29+00:00",
+   "eerst_gezien": "2026-11-18T15:08:30.243096+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout~a8a4bb5c/": {
    "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
@@ -9005,23 +9022,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126191225a2helmondrit136757": {
-   "titel": "A2 Helmond Rit: 136757",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126191225a2helmondrit136757",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T19:12:25+01:00",
-   "eerst_gezien": "2026-11-16T18:28:39.497244+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 19:12"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
    "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
