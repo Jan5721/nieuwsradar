@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "18-11-2026 10:59",
+ "bijgewerkt": "18-11-2026 11:16",
  "items": {
+  "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/": {
+   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
+   "link": "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/",
+   "tekst": "In de afgelopen week heeft de gemeente Helmond in totaal zestien vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-18T10:03:39+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:03"
+  },
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Verkeerde gemeente, verkeerde afstand’",
    "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/",
@@ -13,7 +30,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:05"
@@ -137,22 +154,22 @@
    "prio": false,
    "tijd": "17-11 16:00"
   },
-  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-opgelost~a178219b/": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
-   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-opgelost~a178219b/",
-   "tekst": "In Helmond zijn dinsdag enkele tientallen huishoudens getroffen door een stroomstoring. Als gevolg hiervan zat de Brahmslaan bijna drie uur zonder stroom.",
-   "datum": "2026-11-17T14:26:49+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "ED Helmond",
+  "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/": {
+   "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Deurne",
+   "link": "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/",
+   "tekst": "In de afgelopen week heeft de gemeente Deurne in totaal dertien vergunningaanvragen verwerkt, waarvanin ieder geval twaalf voor Deurne. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-18T10:03:26+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "ED Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "17-11 15:26"
+   "tijd": "18-11 11:03"
   },
   "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/": {
    "titel": "Gemeente Deurne vernieuwt Martinetplein met meer groen en nieuwe zitplekken",
@@ -240,22 +257,22 @@
    "prio": false,
    "tijd": "17-11 09:05"
   },
-  "https://www.ed.nl/helmond/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond~a7849bf6/": {
-   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
-   "link": "https://www.ed.nl/helmond/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond~a7849bf6/",
-   "tekst": "Vocal Group Just Us geeft een kerstconcert in Kasteel Helmond. Zondag 13 december begint An A Capella Christmas om 14.30 uur.",
-   "datum": "2026-11-17T07:35:53+00:00",
-   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
-   "bron": "ED Deurne",
+  "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/": {
+   "titel": "Afgelopen week 7 meldingen van de gemeente over onder meer bouw in Asten",
+   "link": "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/",
+   "tekst": "In de afgelopen week heeft de gemeente Asten in totaal zeven vergunningaanvragen verwerkt, waarvan zes voor Asten en één voor Heusden. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-18T10:03:43+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "ED Asten",
    "gemeenten": [
-    "Helmond"
+    "Asten"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "17-11 08:35"
+   "tijd": "18-11 11:03"
   },
   "https://www.ed.nl/asten/grip-wagen-komt-naar-asten-voor-kleine-hoeveelheden-afval~a78bd205/": {
    "titel": "Grip-wagen komt naar Asten voor kleine hoeveelheden afval",
@@ -274,22 +291,22 @@
    "prio": false,
    "tijd": "17-11 13:54"
   },
-  "https://www.ed.nl/asten/gerrit-vestjens-toont-natuurfotos-bij-ivn-asten-someren-in-asten~a44e7b93/": {
-   "titel": "Gerrit Vestjens toont natuurfoto’s bij IVN Asten-Someren in Asten",
-   "link": "https://www.ed.nl/asten/gerrit-vestjens-toont-natuurfotos-bij-ivn-asten-someren-in-asten~a44e7b93/",
-   "tekst": "Natuurfotograaf Gerrit Vestjens geeft bij IVN Asten-Someren een presentatie over zijn werk. Vrijdag 20 november begint ‘Mijn reis als hobby natuurfotograaf’ om 20.00 uur in verenigingsgebouw de Stulp aan de Ostaderstraat 30 in Asten.",
-   "datum": "2026-11-17T10:40:00+00:00",
-   "eerst_gezien": "2026-11-17T10:43:02.931022+00:00",
-   "bron": "ED Asten",
+  "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/": {
+   "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Someren",
+   "link": "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/",
+   "tekst": "In de afgelopen week heeft de gemeente Someren in totaal dertien vergunningaanvragen verwerkt, waarvan twaalf voor Someren en één voor Lierop. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-18T10:04:45+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "ED Someren",
    "gemeenten": [
-    "Asten"
+    "Someren"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "17-11 11:40"
+   "tijd": "18-11 11:04"
   },
   "https://www.ed.nl/someren/cabaretvoorstelling-poeha-speelt-begin-december-in-someren~ae191d75/": {
    "titel": "Cabaretvoorstelling Poeha speelt begin december in Someren",
@@ -3729,6 +3746,105 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635620/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html": {
+   "titel": "Waarom buurthuizen in Veldhoven een grotere rol moeten krijgen in de wijk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635620/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:13:11+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635618/piekbuien-en-hitte-dwingen-eindhoven-tot-nadenken-over-de-toekomst-het-is-een-zoektocht.html": {
+   "titel": "Piekbuien en hitte dwingen Eindhoven tot nadenken over de toekomst: `Het is een zoektocht`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635618/piekbuien-en-hitte-dwingen-eindhoven-tot-nadenken-over-de-toekomst-het-is-een-zoektocht.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:13:11+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635608/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html": {
+   "titel": "Vocaal Ensemble Phoenix uit Veldhoven geeft kerstconcert in Middelbeers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635608/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:13:05+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635604/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
+   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635604/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:13:05+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635525/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html": {
+   "titel": "Vocaal Ensemble Phoenix uit Veldhoven geeft kerstconcert in Middelbeers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635525/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:07:22+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
+   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:07:22+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
    "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
@@ -3741,7 +3857,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:49"
@@ -3758,7 +3874,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:49"
@@ -3775,7 +3891,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3791,7 +3907,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3915,104 +4031,6 @@
    "tekst": "",
    "datum": "2026-11-18T09:01:05+00:00",
    "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html": {
-   "titel": "Graaien maar: tiendaagse pop-up met verloren pakketten komt naar Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:01:05+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634940/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
-   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634940/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:01:05+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634867/werkzaamheden-verkeerslichten-sterrenlaan.html": {
-   "titel": "Werkzaamheden verkeerslichten Sterrenlaan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634867/werkzaamheden-verkeerslichten-sterrenlaan.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:49:06+00:00",
-   "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634806/werkzaamheden-verkeerslichten-sterrenlaan.html": {
-   "titel": "Werkzaamheden verkeerslichten Sterrenlaan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634806/werkzaamheden-verkeerslichten-sterrenlaan.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:43:29+00:00",
-   "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634639/eindhovens-kamerkoor-viert-75-jarig-jubileum-met-concert.html": {
-   "titel": "Eindhovens Kamerkoor viert 75-jarig jubileum met concert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634639/eindhovens-kamerkoor-viert-75-jarig-jubileum-met-concert.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:19:03+00:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634545/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html": {
-   "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634545/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:07:28+00:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4732,6 +4750,155 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 13:06"
+  },
+  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-opgelost~a178219b/": {
+   "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-opgelost~a178219b/",
+   "tekst": "In Helmond zijn dinsdag enkele tientallen huishoudens getroffen door een stroomstoring. Als gevolg hiervan zat de Brahmslaan bijna drie uur zonder stroom.",
+   "datum": "2026-11-17T14:26:49+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 15:26"
+  },
+  "https://www.ed.nl/helmond/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond~a7849bf6/": {
+   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
+   "link": "https://www.ed.nl/helmond/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond~a7849bf6/",
+   "tekst": "Vocal Group Just Us geeft een kerstconcert in Kasteel Helmond. Zondag 13 december begint An A Capella Christmas om 14.30 uur.",
+   "datum": "2026-11-17T07:35:53+00:00",
+   "eerst_gezien": "2026-11-17T07:45:01.813493+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 08:35"
+  },
+  "https://www.ed.nl/asten/gerrit-vestjens-toont-natuurfotos-bij-ivn-asten-someren-in-asten~a44e7b93/": {
+   "titel": "Gerrit Vestjens toont natuurfoto’s bij IVN Asten-Someren in Asten",
+   "link": "https://www.ed.nl/asten/gerrit-vestjens-toont-natuurfotos-bij-ivn-asten-someren-in-asten~a44e7b93/",
+   "tekst": "Natuurfotograaf Gerrit Vestjens geeft bij IVN Asten-Someren een presentatie over zijn werk. Vrijdag 20 november begint ‘Mijn reis als hobby natuurfotograaf’ om 20.00 uur in verenigingsgebouw de Stulp aan de Ostaderstraat 30 in Asten.",
+   "datum": "2026-11-17T10:40:00+00:00",
+   "eerst_gezien": "2026-11-17T10:43:02.931022+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 11:40"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html": {
+   "titel": "Graaien maar: tiendaagse pop-up met verloren pakketten komt naar Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:01:05+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634940/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634940/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:01:05+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634867/werkzaamheden-verkeerslichten-sterrenlaan.html": {
+   "titel": "Werkzaamheden verkeerslichten Sterrenlaan",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634867/werkzaamheden-verkeerslichten-sterrenlaan.html",
+   "tekst": "",
+   "datum": "2026-11-18T08:49:06+00:00",
+   "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 09:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634806/werkzaamheden-verkeerslichten-sterrenlaan.html": {
+   "titel": "Werkzaamheden verkeerslichten Sterrenlaan",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634806/werkzaamheden-verkeerslichten-sterrenlaan.html",
+   "tekst": "",
+   "datum": "2026-11-18T08:43:29+00:00",
+   "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634639/eindhovens-kamerkoor-viert-75-jarig-jubileum-met-concert.html": {
+   "titel": "Eindhovens Kamerkoor viert 75-jarig jubileum met concert",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634639/eindhovens-kamerkoor-viert-75-jarig-jubileum-met-concert.html",
+   "tekst": "",
+   "datum": "2026-11-18T08:19:03+00:00",
+   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 09:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634545/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html": {
+   "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634545/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html",
+   "tekst": "",
+   "datum": "2026-11-18T08:07:28+00:00",
+   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
@@ -8466,23 +8633,6 @@
    "prio": false,
    "tijd": "15-11 18:00"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126110657a2helmondrit136547": {
-   "titel": "A2 Helmond Rit: 136547",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126110657a2helmondrit136547",
-   "tekst": "Ambulance 22-110 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T11:06:57+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 11:06"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html": {
    "titel": "Junioravond in Geldrop staat in het teken van reuzenplaneten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html",
@@ -9647,7 +9797,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant": {
