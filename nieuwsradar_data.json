@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 17:31",
+ "bijgewerkt": "18-11-2026 17:47",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -920,6 +920,23 @@
    "prio": false,
    "tijd": "12-11 09:14"
   },
+  "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/": {
+   "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
+   "link": "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/",
+   "tekst": "Ommel is een kunstwerk rijker. Een dode beuk op het Kerkplein is door houtkunstenaar Roel van Wylick tot Mariabeeld omgetoverd.",
+   "datum": "2026-11-18T16:44:00+00:00",
+   "eerst_gezien": "2026-11-18T16:47:24.590015+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:44"
+  },
   "https://www.ed.nl/helmond/helmondse-oprichter-van-malafide-elektriciteitsbedrijf-krijgt-3-5-jaar-cel-ook-anderen-krijgen-celstraf~a50a778c/": {
    "titel": "Helmondse oprichter van malafide elektriciteitsbedrijf krijgt 3,5 jaar cel, ook anderen krijgen celstraf",
    "link": "https://www.ed.nl/helmond/helmondse-oprichter-van-malafide-elektriciteitsbedrijf-krijgt-3-5-jaar-cel-ook-anderen-krijgen-celstraf~a50a778c/",
@@ -1108,23 +1125,6 @@
    "prio": false,
    "tijd": "18-11 07:22"
   },
-  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
-   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
-   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/",
-   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
-   "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
-  },
   "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/": {
    "titel": "Museum Klok & Peel in Asten toont LEGO-lievelingsdieren van kinderen",
    "link": "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/",
@@ -1192,23 +1192,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
-  },
-  "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/",
-   "tekst": "Met de sloop van de werkplaatsen van opleidingsbedrijf Bouwmensen Mierlo is dinsdag een begin gemaakt met de vernieuwing van BouwInfraCampus Helmond-De Peel. ‘Dit moet het bouwcentrum van de regio worden’.",
-   "datum": "2026-11-18T06:01:00+00:00",
-   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:01"
   },
   "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/": {
    "titel": "Someren hijst vlag voor campagne tegen geweld tegen vrouwen",
@@ -1879,7 +1862,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning": {
    "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
    "link": "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning",
-   "tekst": "donderdag De gemeente Deurne heeft toestemming gegeven voor een evenement op de Bivakweg. Het besluit werd op 10 november genomen en de vergunning is verleend.",
+   "tekst": "12 november 2026 De gemeente Deurne heeft toestemming gegeven voor een evenement op de Bivakweg. Het besluit werd op 10 november genomen en de vergunning is verleend.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -2199,10 +2182,27 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035289/bouw-en-exposeer-je-eigen-lego-dier-in-asten": {
+   "titel": "Bouw en exposeer je eigen LEGO-dier in Asten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035289/bouw-en-exposeer-je-eigen-lego-dier-in-asten",
+   "tekst": "",
+   "datum": "2026-11-18T16:47:24.590015+00:00",
+   "eerst_gezien": "2026-11-18T16:47:24.590015+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:47"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers": {
    "titel": "Alzheimer Café Peelland: steun voor mantelzorgers",
    "link": "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers",
-   "tekst": "",
+   "tekst": "In Asten vindt dinsdagavond 1 december een bijeenkomst plaats voor mantelzorgers van mensen met dementie. Het Alzheimer Café Peelland richt zich op het omgaan met overbelasting en het organiseren van hulp.",
    "datum": "2026-11-17T13:57:17.916721+00:00",
    "eerst_gezien": "2026-11-17T13:57:17.916721+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2236,7 +2236,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne": {
    "titel": "Vispassage gepland in Asten en Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne",
-   "tekst": "De gemeenten Asten en Deurne hebben een vergunning verleend voor het aanleggen van een vispassage. Het gaat om percelen die kadastraal bekend zijn in beide plaatsen.",
+   "tekst": "vrijdag De gemeenten Asten en Deurne hebben een vergunning verleend voor het aanleggen van een vispassage. Het gaat om percelen die kadastraal bekend zijn in beide plaatsen.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -5113,23 +5113,6 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
-  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126164713a2somerenrit137615": {
    "titel": "A2 Someren Rit: 137615",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126164713a2somerenrit137615",
@@ -5486,6 +5469,57 @@
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 20:03"
+  },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
+  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
+   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
+   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/",
+   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
+   "datum": "2026-11-17T15:00:00+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 16:00"
+  },
+  "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/",
+   "tekst": "Met de sloop van de werkplaatsen van opleidingsbedrijf Bouwmensen Mierlo is dinsdag een begin gemaakt met de vernieuwing van BouwInfraCampus Helmond-De Peel. ‘Dit moet het bouwcentrum van de regio worden’.",
+   "datum": "2026-11-18T06:01:00+00:00",
+   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:01"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126195344a1deurnerit137256": {
    "titel": "A1 Deurne Rit: 137256",
@@ -10353,17 +10387,17 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "ED Someren": {
@@ -10388,7 +10422,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -10458,7 +10492,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
