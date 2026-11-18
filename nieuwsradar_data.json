@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 16:25",
+ "bijgewerkt": "18-11-2026 16:41",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -1074,23 +1074,6 @@
    "prio": false,
    "tijd": "18-11 07:22"
   },
-  "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/",
-   "tekst": "Met de sloop van de werkplaatsen van opleidingsbedrijf Bouwmensen Mierlo is dinsdag een begin gemaakt met de vernieuwing van BouwInfraCampus Helmond-De Peel. ‘Dit moet het bouwcentrum van de regio worden’.",
-   "datum": "2026-11-18T06:01:00+00:00",
-   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:01"
-  },
   "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/": {
    "titel": "Wethouder Deurne geeft les over zichtbaarheid in het verkeer",
    "link": "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/",
@@ -1124,23 +1107,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
-  },
-  "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/": {
-   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
-   "link": "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/",
-   "tekst": "Het knettert – alweer – in de Somerense gemeenteraad. Terwijl belangrijke besluiten passeren, vliegen de verwijten tussen coalitie en oppositie over en weer.",
-   "datum": "2026-11-17T17:00:52+00:00",
-   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 18:00"
   },
   "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
@@ -1243,6 +1209,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
+  },
+  "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/",
+   "tekst": "Met de sloop van de werkplaatsen van opleidingsbedrijf Bouwmensen Mierlo is dinsdag een begin gemaakt met de vernieuwing van BouwInfraCampus Helmond-De Peel. ‘Dit moet het bouwcentrum van de regio worden’.",
+   "datum": "2026-11-18T06:01:00+00:00",
+   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:01"
   },
   "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/": {
    "titel": "Someren hijst vlag voor campagne tegen geweld tegen vrouwen",
@@ -4592,7 +4575,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 16:21"
@@ -4609,7 +4592,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 16:13"
@@ -4626,7 +4609,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 16:13"
@@ -5189,7 +5172,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "18-11 16:16"
@@ -5550,6 +5533,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/": {
+   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
+   "link": "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/",
+   "tekst": "Het knettert – alweer – in de Somerense gemeenteraad. Terwijl belangrijke besluiten passeren, vliegen de verwijten tussen coalitie en oppositie over en weer.",
+   "datum": "2026-11-17T17:00:52+00:00",
+   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 18:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
    "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
@@ -10303,17 +10303,17 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 5,
    "fout": ""
   },
   "ED Someren": {
