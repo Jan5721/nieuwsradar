@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 17:15",
+ "bijgewerkt": "18-11-2026 17:31",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -1258,7 +1258,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 17:00"
@@ -1622,7 +1622,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034535/evenementen-fletcher-helmond-krijgen-groen-licht": {
    "titel": "Evenementen Fletcher Helmond krijgen groen licht",
    "link": "https://www.omroepbrabant.nl/nieuws/6034535/evenementen-fletcher-helmond-krijgen-groen-licht",
-   "tekst": "donderdag De gemeente Helmond heeft toestemming gegeven voor drie evenementen bij Fletcher Helmond. Deze vinden plaats op 17, 18 en 19 december aan de Scheepsboulevard 2.",
+   "tekst": "12 november 2026 De gemeente Helmond heeft toestemming gegeven voor drie evenementen bij Fletcher Helmond. Deze vinden plaats op 17, 18 en 19 december aan de Scheepsboulevard 2.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -2271,7 +2271,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034530/nieuwe-luifel-en-scheidingswand-bij-gebouw-in-asten": {
    "titel": "Nieuwe luifel en scheidingswand bij gebouw in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6034530/nieuwe-luifel-en-scheidingswand-bij-gebouw-in-asten",
-   "tekst": "donderdag Bij een pand aan de Nobisweg in Asten is een vergunning verleend voor het plaatsen van een nieuwe luifel en scheidingswand aan de achterzijde.",
+   "tekst": "12 november 2026 Bij een pand aan de Nobisweg in Asten is een vergunning verleend voor het plaatsen van een nieuwe luifel en scheidingswand aan de achterzijde.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -4542,7 +4542,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 17:13"
@@ -4559,7 +4559,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 17:13"
@@ -4576,7 +4576,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4592,7 +4592,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5113,6 +5113,23 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126164713a2somerenrit137615": {
    "titel": "A2 Someren Rit: 137615",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126164713a2somerenrit137615",
@@ -5486,23 +5503,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 19:53"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
   },
   "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
    "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
@@ -8873,40 +8873,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126172154a2deurnerit136728": {
-   "titel": "A2 Deurne Rit: 136728",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126172154a2deurnerit136728",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T17:21:54+01:00",
-   "eerst_gezien": "2026-11-16T16:28:55.792526+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 17:21"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126171928a2lieroprit136725": {
-   "titel": "A2 Lierop Rit: 136725",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126171928a2lieroprit136725",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T17:19:28+01:00",
-   "eerst_gezien": "2026-11-16T16:28:55.792526+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 17:19"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108623416/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
    "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108623416/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
@@ -10492,7 +10458,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
