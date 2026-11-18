@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 12:04",
+ "bijgewerkt": "18-11-2026 12:20",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64773/waterschapsbelasting-stijgt-opnieuw-in-2027": {
    "titel": "Waterschapsbelasting stijgt opnieuw in 2027",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:43"
@@ -614,6 +614,23 @@
    "prio": false,
    "tijd": "11-11 15:44"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64774/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
+   "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64774/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v",
+   "tekst": "DE PEEL - Soroptimistclub Helmond-Peelland neemt van 25 november tot en met 10 december deel aan 'Orange the World', de wereldwijde campagne tegen geweld tegen vrouwen en meisjes. In de Peelregio worden vlaggen gehesen en gebouwen oranje verlicht om aandacht te vragen voor dit …",
+   "datum": "2026-11-18T12:11:00+01:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:11"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64772/grote-ontdekmiddag-voor-jong-en-oud-bij-museum-klok-peel": {
    "titel": "‘Grote ontdekmiddag’ voor jong en oud bij Museum Klok & Peel",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64772/grote-ontdekmiddag-voor-jong-en-oud-bij-museum-klok-peel",
@@ -626,7 +643,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:11"
@@ -921,24 +938,6 @@
    "prio": false,
    "tijd": "11-11 13:42"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64603/asten-en-someren-kiezen-definitief-voor-gezamenlijke-asielopvang": {
-   "titel": "Asten en Someren kiezen definitief voor gezamenlijke asielopvang",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64603/asten-en-someren-kiezen-definitief-voor-gezamenlijke-asielopvang",
-   "tekst": "ASTEN/SOMEREN - De kogel is definitief door de kerk: er komt een asielopvanglocatie voor maximaal 204 mensen aan de Kanaalweg in Asten. De colleges van B en W van de gemeenten Asten en Someren besloten dinsdag officieel te gaan samenwerken.",
-   "datum": "2026-11-11T12:05:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 12:05"
-  },
   "https://www.ed.nl/regionale-economie/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf~a5b0c477/": {
    "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
    "link": "https://www.ed.nl/regionale-economie/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf~a5b0c477/",
@@ -976,7 +975,7 @@
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Verkeerde gemeente, verkeerde afstand’",
    "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/",
-   "tekst": "Deurne is negentien miljoen euro door de neus geboord dankzij fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
+   "tekst": "Deurne is 19 miljoen euro door de neus geboord door fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
    "datum": "2026-11-18T09:05:00+00:00",
    "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
    "bron": "ED Helmond",
@@ -1075,23 +1074,6 @@
    "prio": false,
    "tijd": "17-11 18:00"
   },
-  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
-   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
-   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/",
-   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
-   "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
-  },
   "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/": {
    "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Deurne",
    "link": "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/",
@@ -1108,6 +1090,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
+  },
+  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
+   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
+   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/",
+   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
+   "datum": "2026-11-17T15:00:00+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 16:00"
   },
   "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
    "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
@@ -2914,41 +2913,6 @@
    "prio": false,
    "tijd": "11-11 12:20"
   },
-  "https://www.asten.nl/nieuws/artikel/blijf-stevig-staan-valpreventie-is-voor-iedereen-van-65-jaar-en-ouder": {
-   "titel": "Blijf stevig staan! Valpreventie is voor iedereen van 65 jaar en ouder",
-   "link": "https://www.asten.nl/nieuws/artikel/blijf-stevig-staan-valpreventie-is-voor-iedereen-van-65-jaar-en-ouder",
-   "tekst": "Kom naar de gratis bijeenkomst op 26 november in 't Kwartier.",
-   "datum": "2026-11-11T11:15:18+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 12:15"
-  },
-  "https://www.asten.nl/nieuws/artikel/colleges-asten-en-someren-nemen-definitief-besluit-tot-samenwerking-asielopvang": {
-   "titel": "Colleges Asten en Someren nemen definitief besluit tot samenwerking asielopvang",
-   "link": "https://www.asten.nl/nieuws/artikel/colleges-asten-en-someren-nemen-definitief-besluit-tot-samenwerking-asielopvang",
-   "tekst": "Vanochtend hebben de colleges van burgemeester en wethouders van Asten en Someren besloten samen te werken bij de opvang van asielzoekers. De gemeente Asten start met de opbouw van de tijdelijke asielopvang voor maximaal 204 asielzoekers aan de Kanaalweg.",
-   "datum": "2026-11-11T11:12:04+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Asten",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 12:12"
-  },
   "https://www.someren.nl/nieuws/artikel/stevig-blijven-staan-zodat-u-kunt-blijven-doen-wat-u-graag-doet": {
    "titel": "Stevig blijven staan, zodat u kunt blijven doen wat u graag doet!",
    "link": "https://www.someren.nl/nieuws/artikel/stevig-blijven-staan-zodat-u-kunt-blijven-doen-wat-u-graag-doet",
@@ -4649,6 +4613,72 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:19:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
+   "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:13:05+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636168/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html": {
+   "titel": "Gemert past bouwplan Textielkwartier aan, maar buurt vindt het nog steeds te massaal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636168/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:07:25+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636167/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
+   "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636167/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:07:25+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108636117/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html": {
    "titel": "Gemert past bouwplan Textielkwartier aan, maar buurt vindt het nog steeds te massaal",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108636117/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html",
@@ -4661,10 +4691,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636050/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html": {
    "titel": "Van koelteplekken tot wadi`s: Eindhoven zet in op een stad die extreme hitte en regen aankan",
@@ -4678,7 +4707,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:49"
@@ -4695,7 +4724,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4711,7 +4740,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4727,7 +4756,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4879,72 +4908,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
-   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:07:22+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
-   "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:49:09+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635373/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html": {
-   "titel": "Was 2026 voor jou een bijzonder jaar' Deel het met het ED",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635373/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:49:08+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635372/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
-   "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635372/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:49:07+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
@@ -5043,23 +5006,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "15-11 19:45"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html": {
-   "titel": "Prins Bart I gaat voorop bij De Peelstrekels",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html",
-   "tekst": "",
-   "datum": "2026-11-15T10:43:15+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 11:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
    "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
@@ -5688,6 +5634,106 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 14:07"
+  },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
+   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:07:22+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
+   "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:49:09+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635373/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html": {
+   "titel": "Was 2026 voor jou een bijzonder jaar' Deel het met het ED",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635373/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:49:08+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635372/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
+   "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635372/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:49:07+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html": {
+   "titel": "Prins Bart I gaat voorop bij De Peelstrekels",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108605987/prins-bart-i-gaat-voorop-bij-de-peelstrekels.html",
+   "tekst": "",
+   "datum": "2026-11-15T10:43:15+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 11:43"
   },
   "https://www.ed.nl/deurne/liesselse-smederij-mcm-groeide-onder-directeur-pim-verder-uit-we-zijn-nog-steeds-een-familiebedrijf~a1288134/": {
    "titel": "Liesselse smederij MCM groeide onder directeur Pim verder uit: ‘We zijn nog steeds een familiebedrijf’",
@@ -8663,40 +8709,6 @@
    "prio": true,
    "tijd": "16-11 12:46"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126121553a2helmondrit136597": {
-   "titel": "A2 Helmond Rit: 136597",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126121553a2helmondrit136597",
-   "tekst": "Ambulance 22-108 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T12:15:53+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 12:15"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126121345a2helmondrit136591": {
-   "titel": "A2 Helmond Rit: 136591",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126121345a2helmondrit136591",
-   "tekst": "Ambulance 22-108 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T12:13:45+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 12:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108622847/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html": {
    "titel": "Chef-kok Peter Kesseler voegt live hoofdstuk toe aan kookboek in Eindhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108622847/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html",
@@ -8729,57 +8741,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126120751a2deurnerit136582": {
-   "titel": "A2 Deurne Rit: 136582",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126120751a2deurnerit136582",
-   "tekst": "Ambulance 22-120 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T12:07:51+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 12:07"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126120623a2helmondrit136580": {
-   "titel": "A2 Helmond Rit: 136580",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126120623a2helmondrit136580",
-   "tekst": "Ambulance 22-120 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T12:06:23+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 12:06"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126120554a1deurnerit136578": {
-   "titel": "A1 Deurne Rit: 136578",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126120554a1deurnerit136578",
-   "tekst": "Ambulance 22-110 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T12:05:54+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "16-11 12:05"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108622843/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html": {
    "titel": "Chef-kok Peter Kesseler voegt live hoofdstuk toe aan kookboek in Eindhoven",
@@ -9996,12 +9957,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 8,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "ED Asten": {
@@ -10051,7 +10012,7 @@
   },
   "Gemeente Asten": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 7,
    "fout": ""
   },
   "Gemeente Someren": {
@@ -10086,7 +10047,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 6,
    "fout": ""
   },
   "Drimble Asten": {
@@ -10106,7 +10067,7 @@
   },
   "112Brabant": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   }
  }
