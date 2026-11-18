@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 06:55",
+ "bijgewerkt": "18-11-2026 07:12",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne": {
    "titel": "Film Youri is deze week te zien in het Cultuurcentrum in Deurne",
@@ -957,6 +957,23 @@
    "prio": false,
    "tijd": "11-11 09:16"
   },
+  "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/",
+   "tekst": "Met de sloop van de werkplaatsen van opleidingsbedrijf Bouwmensen Mierlo is dinsdag een begin gemaakt met de vernieuwing van BouwInfraCampus Helmond-De Peel. ‘Dit moet het bouwcentrum van de regio worden’.",
+   "datum": "2026-11-18T06:01:02+00:00",
+   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:01"
+  },
   "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
    "link": "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/",
@@ -1094,40 +1111,6 @@
    "prio": false,
    "tijd": "17-11 08:35"
   },
-  "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/": {
-   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
-   "link": "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/",
-   "tekst": "De landelijke intocht van Sinterklaas leidt tot een politiek opmerkelijke gang van zaken in Helmond. Cultuurwethouder Martijn Rieter heeft zelf bijgedragen aan zes raadsvragen namens zijn partij Helder Helmond. Die moet hij dus binnen enkele weken zelf ook beantwoorden.",
-   "datum": "2026-11-17T05:30:00+00:00",
-   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 06:30"
-  },
-  "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/": {
-   "titel": "Twee 19-jarigen nemen 109 jaar oude Slagerij Hagelaar in Helmond over",
-   "link": "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/",
-   "tekst": "De huidige eigenaren van Slagerij Hagelaar in Helmond, Gaby Lenssen en Mart Bankers, geven het stokje door aan twee jonge ondernemers. „Fantastisch dat zij een slagerij over willen nemen, want die mensen zijn schaars.”",
-   "datum": "2026-11-16T19:00:31+00:00",
-   "eerst_gezien": "2026-11-16T19:18:13.545949+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 20:00"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/": {
    "titel": "Gemeente Deurne vernieuwt Martinetplein met meer groen en nieuwe zitplekken",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/",
@@ -1178,6 +1161,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 09:05"
+  },
+  "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/": {
+   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
+   "link": "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/",
+   "tekst": "De landelijke intocht van Sinterklaas leidt tot een politiek opmerkelijke gang van zaken in Helmond. Cultuurwethouder Martijn Rieter heeft zelf bijgedragen aan zes raadsvragen namens zijn partij Helder Helmond. Die moet hij dus binnen enkele weken zelf ook beantwoorden.",
+   "datum": "2026-11-17T05:30:00+00:00",
+   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 06:30"
+  },
+  "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/": {
+   "titel": "Twee 19-jarigen nemen 109 jaar oude Slagerij Hagelaar in Helmond over",
+   "link": "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/",
+   "tekst": "De huidige eigenaren van Slagerij Hagelaar in Helmond, Gaby Lenssen en Mart Bankers, geven het stokje door aan twee jonge ondernemers. „Fantastisch dat zij een slagerij over willen nemen, want die mensen zijn schaars.”",
+   "datum": "2026-11-16T19:00:31+00:00",
+   "eerst_gezien": "2026-11-16T19:18:13.545949+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 20:00"
   },
   "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/": {
    "titel": "Hallo Sint! Check hier de foto’s van de sinterklaasintocht 2026 in Helmond.",
@@ -2762,6 +2779,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
+   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
+   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
+   "datum": "2026-11-11T16:01:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 17:01"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -4516,6 +4567,39 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:07:27+00:00",
+   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633836/eindhovense-pro-wethouder-samir-toub-door-het-stof-oppositie-wil-onderzoek-naar-belangenverstrengeling.html": {
+   "titel": "Eindhovense PRO-wethouder Samir Toub door het stof, oppositie wil onderzoek naar belangenverstrengeling",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633836/eindhovense-pro-wethouder-samir-toub-door-het-stof-oppositie-wil-onderzoek-naar-belangenverstrengeling.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:01:06+00:00",
+   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108632230/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
    "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108632230/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
@@ -4680,72 +4764,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 18:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
-   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
-   "tekst": "",
-   "datum": "2026-11-17T17:07:26+00:00",
-   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627958/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html": {
-   "titel": "Van bioscoop tot museum: tijdens de Urban Trail Eindhoven ren je door gebouwen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627958/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:49:06+00:00",
-   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627908/nieuwe-namen-maestro-veldhoven-bekend.html": {
-   "titel": "Nieuwe namen Maestro Veldhoven bekend",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627908/nieuwe-namen-maestro-veldhoven-bekend.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:43:15+00:00",
-   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627906/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html": {
-   "titel": "Van bioscoop tot museum: tijdens de Urban Trail Eindhoven ren je door gebouwen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627906/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:43:15+00:00",
-   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
@@ -5476,6 +5494,72 @@
    "prio": false,
    "tijd": "17-11 10:49"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
+   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:07:26+00:00",
+   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627958/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html": {
+   "titel": "Van bioscoop tot museum: tijdens de Urban Trail Eindhoven ren je door gebouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627958/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:49:06+00:00",
+   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 17:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627908/nieuwe-namen-maestro-veldhoven-bekend.html": {
+   "titel": "Nieuwe namen Maestro Veldhoven bekend",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627908/nieuwe-namen-maestro-veldhoven-bekend.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:43:15+00:00",
+   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 17:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627906/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html": {
+   "titel": "Van bioscoop tot museum: tijdens de Urban Trail Eindhoven ren je door gebouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627906/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:43:15+00:00",
+   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126103021a1helmondrit136996": {
    "titel": "A1 Helmond Rit: 136996",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126103021a1helmondrit136996",
@@ -5576,40 +5660,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 10:06"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
-   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
-   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
-   "datum": "2026-11-11T16:01:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 17:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
@@ -8739,12 +8789,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 6,
    "fout": ""
   },
   "ED Asten": {
@@ -8783,9 +8833,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal server error"
+   "ok": true,
+   "aantal": 2,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -8824,7 +8874,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -8844,7 +8894,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
