@@ -1,6 +1,40 @@
 {
- "bijgewerkt": "18-11-2026 09:55",
+ "bijgewerkt": "18-11-2026 10:11",
  "items": {
+  "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
+   "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/",
+   "tekst": "Deurne is negentien miljoen euro door de neus geboord dankzij fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
+   "datum": "2026-11-18T09:05:00+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:05"
+  },
+  "https://www.ed.nl/helmond/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november~aa6aeca2/": {
+   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
+   "link": "https://www.ed.nl/helmond/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november~aa6aeca2/",
+   "tekst": "Het verblijf van Sinterklaas in Helmond gaat niet onopgemerkt voorbij. Dit weekend staan veel uitjes dan ook in het teken van de goedheiligman. Maar je kunt ook cultuur snuiven met een bezoekje aan een tentoonstelling of museum.",
+   "datum": "2026-11-18T09:00:00+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:00"
+  },
   "https://www.ed.nl/helmond/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout~a8a4bb5c/": {
    "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
    "link": "https://www.ed.nl/helmond/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout~a8a4bb5c/",
@@ -137,41 +171,6 @@
    "prio": false,
    "tijd": "17-11 12:45"
   },
-  "https://www.ed.nl/helmond/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond~a023b4f6/": {
-   "titel": "Film over dementie gevolgd door gesprek met casemanagers in Helmond",
-   "link": "https://www.ed.nl/helmond/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond~a023b4f6/",
-   "tekst": "Dementievriendelijk Helmond en LEVgroep houden een filmavond over dementie met de film Supernova. Donderdag 26 november is de film om 19.30 uur te zien bij de Cacaofabriek in Helmond.",
-   "datum": "2026-11-17T09:17:00+00:00",
-   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 10:17"
-  },
-  "https://www.ed.nl/deurne/liesselse-smederij-mcm-groeide-onder-directeur-pim-verder-uit-we-zijn-nog-steeds-een-familiebedrijf~a1288134/": {
-   "titel": "Liesselse smederij MCM groeide onder directeur Pim verder uit: ‘We zijn nog steeds een familiebedrijf’",
-   "link": "https://www.ed.nl/deurne/liesselse-smederij-mcm-groeide-onder-directeur-pim-verder-uit-we-zijn-nog-steeds-een-familiebedrijf~a1288134/",
-   "tekst": "De onderdelen, modules en specialistische gereedschappen die de metaalbewerkingsfabriek van MCM in Liessel verlaten, vinden hun weg naar allerlei klanten. Van de hightech maakindustrie en de medische wereld tot DAF en defensie. Hoe groeide het?",
-   "datum": "2026-11-17T09:01:08+00:00",
-   "eerst_gezien": "2026-11-17T09:06:16.238804+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 10:01"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/": {
    "titel": "Gemeente Deurne vernieuwt Martinetplein met meer groen en nieuwe zitplekken",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/",
@@ -206,6 +205,24 @@
    "prio": false,
    "tijd": "17-11 12:42"
   },
+  "https://www.ed.nl/deurne/liesselse-smederij-mcm-groeide-onder-directeur-pim-verder-uit-we-zijn-nog-steeds-een-familiebedrijf~a1288134/": {
+   "titel": "Liesselse smederij MCM groeide onder directeur Pim verder uit: ‘We zijn nog steeds een familiebedrijf’",
+   "link": "https://www.ed.nl/deurne/liesselse-smederij-mcm-groeide-onder-directeur-pim-verder-uit-we-zijn-nog-steeds-een-familiebedrijf~a1288134/",
+   "tekst": "De onderdelen, modules en specialistische gereedschappen die de metaalbewerkingsfabriek van MCM in Liessel verlaten, vinden hun weg naar allerlei klanten. Van de hightech maakindustrie en de medische wereld tot DAF en defensie. Hoe groeide het?",
+   "datum": "2026-11-17T09:01:08+00:00",
+   "eerst_gezien": "2026-11-17T09:06:16.238804+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 10:01"
+  },
   "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/": {
    "titel": "Gemeente Deurne werkt aan uitkijktoren en wandelpaden bij Peelvenen in Liessel",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/",
@@ -239,40 +256,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 08:35"
-  },
-  "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/": {
-   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
-   "link": "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/",
-   "tekst": "De landelijke intocht van Sinterklaas leidt tot een politiek opmerkelijke gang van zaken in Helmond. Cultuurwethouder Martijn Rieter heeft zelf bijgedragen aan zes raadsvragen namens zijn partij Helder Helmond. Die moet hij dus binnen enkele weken zelf ook beantwoorden.",
-   "datum": "2026-11-17T05:30:00+00:00",
-   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 06:30"
-  },
-  "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/": {
-   "titel": "Twee 19-jarigen nemen 109 jaar oude Slagerij Hagelaar in Helmond over",
-   "link": "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/",
-   "tekst": "De huidige eigenaren van Slagerij Hagelaar in Helmond, Gaby Lenssen en Mart Bankers, geven het stokje door aan twee jonge ondernemers. „Fantastisch dat zij een slagerij over willen nemen, want die mensen zijn schaars.”",
-   "datum": "2026-11-16T19:00:31+00:00",
-   "eerst_gezien": "2026-11-16T19:18:13.545949+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 20:00"
   },
   "https://www.ed.nl/asten/grip-wagen-komt-naar-asten-voor-kleine-hoeveelheden-afval~a78bd205/": {
    "titel": "Grip-wagen komt naar Asten voor kleine hoeveelheden afval",
@@ -354,7 +337,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 09:54"
@@ -371,7 +354,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 09:54"
@@ -834,10 +817,44 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne": {
+   "titel": "Tijdelijke woonunit voor twee jaar aan Belgerenseweg in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne",
+   "tekst": "",
+   "datum": "2026-11-18T09:10:50.054002+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:10"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035219/vergunning-verleend-voor-woningbouw-in-liessel": {
+   "titel": "Vergunning verleend voor woningbouw in Liessel",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035219/vergunning-verleend-voor-woningbouw-in-liessel",
+   "tekst": "De gemeente Deurne heeft een vergunning verleend voor de bouw van een woning op Loon 58 b in Liessel. Het besluit is op 16 november 2026 genomen.",
+   "datum": "2026-11-18T09:10:50.054002+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:10"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers": {
    "titel": "Thema-avond in Asten: steun voor mantelzorgers",
    "link": "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers",
-   "tekst": "",
+   "tekst": "Op dinsdag 1 december organiseert Alzheimer Café Peelland een bijeenkomst in Asten over de uitdagingen van mantelzorgers bij dementie. De avond richt zich op het herkennen van overbelasting en het inschakelen van hulp.",
    "datum": "2026-11-17T18:50:55.839156+00:00",
    "eerst_gezien": "2026-11-17T18:50:55.839156+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -854,7 +871,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel": {
    "titel": "Nieuwbouwwoning mag gebouwd worden aan Buntseweg in Liessel",
    "link": "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel",
-   "tekst": "De gemeente heeft een vergunning verleend voor het bouwen van een nieuwbouwwoning aan de Buntseweg in Liessel. Het besluit is op 12 november genomen.",
+   "tekst": "maandag De gemeente heeft een vergunning verleend voor het bouwen van een nieuwbouwwoning aan de Buntseweg in Liessel. Het besluit is op 12 november genomen.",
    "datum": "2026-11-16T15:24:37.551385+00:00",
    "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -871,7 +888,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal": {
    "titel": "Reflection Day in Deurne: zichtbaarheid in verkeer centraal",
    "link": "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal",
-   "tekst": "In Deurne heeft wethouder Wouter Bulten basisschoolleerlingen bewust gemaakt van het belang van zichtbaarheid in het verkeer. Dit gebeurde tijdens Reflection Day, een campagne die al tien jaar aandacht vraagt voor verkeersveiligheid in …",
+   "tekst": "maandag In Deurne heeft wethouder Wouter Bulten basisschoolleerlingen bewust gemaakt van het belang van zichtbaarheid in het verkeer. Dit gebeurde tijdens Reflection Day, een campagne die al tien jaar aandacht vraagt voor …",
    "datum": "2026-11-16T15:56:49.505092+00:00",
    "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1299,23 +1316,6 @@
    "titel": "Vergunning verleend voor herbouwen loods in Neerkant",
    "link": "https://www.omroepbrabant.nl/nieuws/6033529/vergunning-verleend-voor-herbouwen-loods-in-neerkant",
    "tekst": "4 november 2026 De gemeente Deurne heeft een vergunning verleend voor het herbouwen van een loods op Boonhof 3 in Neerkant. Het besluit is op 2 november 2026 genomen.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033528/woning-wordt-gesloopt-en-herbouwd-aan-dennenveld-in-deurne": {
-   "titel": "Woning wordt gesloopt en herbouwd aan Dennenveld in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033528/woning-wordt-gesloopt-en-herbouwd-aan-dennenveld-in-deurne",
-   "tekst": "4 november 2026 De gemeente Deurne heeft besloten dat een woning aan Dennenveld 16 mag worden gesloopt en opnieuw gebouwd. Het besluit is op 2 november 2026 genomen.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -3763,6 +3763,120 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635009/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html": {
+   "titel": "Geldropse Fabiën wil meer vrijwilligers aantrekken voor Nepal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635009/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:07:27+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635008/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html": {
+   "titel": "Graaien maar: tiendaagse pop-up met verloren pakketten komt naar Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635008/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:07:27+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:07:27+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634976/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634976/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:04:20+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634943/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html": {
+   "titel": "Geldropse Fabiën wil meer vrijwilligers aantrekken voor Nepal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634943/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:01:05+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html": {
+   "titel": "Graaien maar: tiendaagse pop-up met verloren pakketten komt naar Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:01:05+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634940/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634940/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:01:05+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108634867/werkzaamheden-verkeerslichten-sterrenlaan.html": {
    "titel": "Werkzaamheden verkeerslichten Sterrenlaan",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108634867/werkzaamheden-verkeerslichten-sterrenlaan.html",
@@ -3775,7 +3889,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 09:49"
@@ -3792,7 +3906,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3929,68 +4043,19 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
-   "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
    "tekst": "",
-   "datum": "2026-11-18T06:43:18+00:00",
-   "eerst_gezien": "2026-11-18T06:44:04.724763+00:00",
-   "bron": "Drimble Helmond",
+   "datum": "2026-11-18T09:10:08+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634017/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
-   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634017/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:31:04+00:00",
-   "eerst_gezien": "2026-11-18T06:44:04.724763+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633926/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
-   "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633926/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:13:10+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633922/bouwinfracampus-in-mierlo-op-de-schop.html": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633922/bouwinfracampus-in-mierlo-op-de-schop.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:13:05+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -4093,24 +4158,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "15-11 11:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html": {
-   "titel": "Aanpassing van weg tussen Helmond en Deurne komt dichterbij, maar tunnelwerk schuift door",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html",
-   "tekst": "",
-   "datum": "2026-11-14T22:15:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond",
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 23:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
    "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
@@ -4332,88 +4379,56 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034237/helmond-sport-oefent-tegen-lommel-sk": {
-   "titel": "Helmond Sport oefent tegen Lommel SK",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034237/helmond-sport-oefent-tegen-lommel-sk",
-   "tekst": "10 november 2026 Helmond Sport speelt woensdag een oefenwedstrijd tegen Lommel SK in België. De wedstrijd begint om twaalf uur en is gratis toegankelijk voor publiek.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405": {
+   "titel": "A2 Helmond Rit: 137405",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T10:09:07+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "regionale omroep",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "16-11 13:39"
+   "tijd": "18-11 10:09"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034126/oefening-noodsteunpunt-mierlo-hout-op-12-november": {
-   "titel": "Oefening noodsteunpunt Mierlo-Hout op 12 november",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034126/oefening-noodsteunpunt-mierlo-hout-op-12-november",
-   "tekst": "9 november 2026 Op donderdag 12 november wordt in wijkhuis de Geseldonk in Helmond een noodsteunpunt getest. Tijdens de oefening wordt onderzocht hoe inwoners elkaar kunnen helpen bij een langdurige stroomuitval. Het is onderdeel van een …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398": {
+   "titel": "A1 Helmond Rit: 137398",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T09:58:43+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "regionale omroep",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "18-11 09:58"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389": {
+   "titel": "A2 Helmond Rit: 137389",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-18T09:28:58+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
-   "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:13:05+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633906/bouwinfracampus-in-mierlo-op-de-schop.html": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633906/bouwinfracampus-in-mierlo-op-de-schop.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:11:24+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033495/vergunning-verleend-voor-huisvesting-arbeidsmigranten-in-deurne": {
-   "titel": "Vergunning verleend voor huisvesting arbeidsmigranten in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033495/vergunning-verleend-voor-huisvesting-arbeidsmigranten-in-deurne",
-   "tekst": "4 november 2026 De gemeente Deurne heeft toestemming gegeven voor het huisvesten van maximaal tien arbeidsmigranten aan de Julianastraat 10. Dit mag voor een periode van vijf jaar.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
+   "tijd": "18-11 09:28"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126090140a2liesselrit137378": {
    "titel": "A2 Liessel Rit: 137378",
@@ -4754,6 +4769,240 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 12:15"
+  },
+  "https://www.ed.nl/helmond/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond~a023b4f6/": {
+   "titel": "Film over dementie gevolgd door gesprek met casemanagers in Helmond",
+   "link": "https://www.ed.nl/helmond/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond~a023b4f6/",
+   "tekst": "Dementievriendelijk Helmond en LEVgroep houden een filmavond over dementie met de film Supernova. Donderdag 26 november is de film om 19.30 uur te zien bij de Cacaofabriek in Helmond.",
+   "datum": "2026-11-17T09:17:00+00:00",
+   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 10:17"
+  },
+  "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/": {
+   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
+   "link": "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/",
+   "tekst": "De landelijke intocht van Sinterklaas leidt tot een politiek opmerkelijke gang van zaken in Helmond. Cultuurwethouder Martijn Rieter heeft zelf bijgedragen aan zes raadsvragen namens zijn partij Helder Helmond. Die moet hij dus binnen enkele weken zelf ook beantwoorden.",
+   "datum": "2026-11-17T05:30:00+00:00",
+   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 06:30"
+  },
+  "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/": {
+   "titel": "Twee 19-jarigen nemen 109 jaar oude Slagerij Hagelaar in Helmond over",
+   "link": "https://www.ed.nl/helmond/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over~a729023e/",
+   "tekst": "De huidige eigenaren van Slagerij Hagelaar in Helmond, Gaby Lenssen en Mart Bankers, geven het stokje door aan twee jonge ondernemers. „Fantastisch dat zij een slagerij over willen nemen, want die mensen zijn schaars.”",
+   "datum": "2026-11-16T19:00:31+00:00",
+   "eerst_gezien": "2026-11-16T19:18:13.545949+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 20:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033528/woning-wordt-gesloopt-en-herbouwd-aan-dennenveld-in-deurne": {
+   "titel": "Woning wordt gesloopt en herbouwd aan Dennenveld in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033528/woning-wordt-gesloopt-en-herbouwd-aan-dennenveld-in-deurne",
+   "tekst": "4 november 2026 De gemeente Deurne heeft besloten dat een woning aan Dennenveld 16 mag worden gesloopt en opnieuw gebouwd. Het besluit is op 2 november 2026 genomen.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
+   "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:43:18+00:00",
+   "eerst_gezien": "2026-11-18T06:44:04.724763+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634017/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
+   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634017/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:31:04+00:00",
+   "eerst_gezien": "2026-11-18T06:44:04.724763+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633926/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
+   "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633926/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:13:10+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633922/bouwinfracampus-in-mierlo-op-de-schop.html": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633922/bouwinfracampus-in-mierlo-op-de-schop.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:13:05+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html": {
+   "titel": "Aanpassing van weg tussen Helmond en Deurne komt dichterbij, maar tunnelwerk schuift door",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602638/aanpassing-van-weg-tussen-helmond-en-deurne-komt-dichterbij-maar-tunnelwerk-schuift-door.html",
+   "tekst": "",
+   "datum": "2026-11-14T22:15:03+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Helmond",
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 23:15"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034237/helmond-sport-oefent-tegen-lommel-sk": {
+   "titel": "Helmond Sport oefent tegen Lommel SK",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034237/helmond-sport-oefent-tegen-lommel-sk",
+   "tekst": "10 november 2026 Helmond Sport speelt woensdag een oefenwedstrijd tegen Lommel SK in België. De wedstrijd begint om twaalf uur en is gratis toegankelijk voor publiek.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034126/oefening-noodsteunpunt-mierlo-hout-op-12-november": {
+   "titel": "Oefening noodsteunpunt Mierlo-Hout op 12 november",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034126/oefening-noodsteunpunt-mierlo-hout-op-12-november",
+   "tekst": "9 november 2026 Op donderdag 12 november wordt in wijkhuis de Geseldonk in Helmond een noodsteunpunt getest. Tijdens de oefening wordt onderzocht hoe inwoners elkaar kunnen helpen bij een langdurige stroomuitval. Het is onderdeel van een …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
+   "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:13:05+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633906/bouwinfracampus-in-mierlo-op-de-schop.html": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633906/bouwinfracampus-in-mierlo-op-de-schop.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:11:24+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033495/vergunning-verleend-voor-huisvesting-arbeidsmigranten-in-deurne": {
+   "titel": "Vergunning verleend voor huisvesting arbeidsmigranten in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033495/vergunning-verleend-voor-huisvesting-arbeidsmigranten-in-deurne",
+   "tekst": "4 november 2026 De gemeente Deurne heeft toestemming gegeven voor het huisvesten van maximaal tien arbeidsmigranten aan de Julianastraat 10. Dit mag voor een periode van vijf jaar.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126114610a2astenrit137043": {
    "titel": "A2 Asten Rit: 137043",
@@ -8284,23 +8533,6 @@
    "prio": false,
    "tijd": "16-11 21:01"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126095608a1somerenrit136497": {
-   "titel": "A1 Someren Rit: 136497",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126095608a1somerenrit136497",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T09:56:08+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "16-11 09:56"
-  },
   "https://www.ed.nl/helmond/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond~a9261b29/": {
    "titel": "Wethouder Rieter helpt mee zichzelf raadsvragen te stellen over gewenste landelijke intocht van Sint in Helmond",
    "link": "https://www.ed.nl/helmond/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond~a9261b29/",
@@ -9241,7 +9473,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 5,
    "fout": ""
   },
   "ED Asten": {
@@ -9266,7 +9498,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -9321,7 +9553,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -9341,7 +9573,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
