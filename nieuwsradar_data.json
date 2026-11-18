@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 06:39",
+ "bijgewerkt": "18-11-2026 06:55",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne": {
    "titel": "Film Youri is deze week te zien in het Cultuurcentrum in Deurne",
@@ -2357,7 +2357,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034410/gemeenten-asten-en-someren-werken-samen-aan-asielopvang": {
    "titel": "Gemeenten Asten en Someren werken samen aan asielopvang",
    "link": "https://www.omroepbrabant.nl/nieuws/6034410/gemeenten-asten-en-someren-werken-samen-aan-asielopvang",
-   "tekst": "woensdag De gemeenten Asten en Someren gaan samenwerken bij de opvang van asielzoekers. In Asten wordt een tijdelijke opvanglocatie voor maximaal 204 asielzoekers aan de Kanaalweg ingericht, die nog dit jaar in gebruik wordt genomen.",
+   "tekst": "11 november 2026 De gemeenten Asten en Someren gaan samenwerken bij de opvang van asielzoekers. In Asten wordt een tijdelijke opvanglocatie voor maximaal 204 asielzoekers aan de Kanaalweg ingericht, die nog dit jaar in gebruik wordt …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2375,7 +2375,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034409/gratis-bijeenkomst-over-valpreventie-in-asten": {
    "titel": "Gratis bijeenkomst over valpreventie in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6034409/gratis-bijeenkomst-over-valpreventie-in-asten",
-   "tekst": "woensdag Gemeente Asten organiseert op donderdag 26 november een gratis bijeenkomst over valpreventie voor inwoners van 65 jaar en ouder. De bijeenkomst vindt plaats in gemeenschapshuis ’t Kwartier en duurt van half drie tot half vijf.",
+   "tekst": "11 november 2026 Gemeente Asten organiseert op donderdag 26 november een gratis bijeenkomst over valpreventie voor inwoners van 65 jaar en ouder. De bijeenkomst vindt plaats in gemeenschapshuis ’t Kwartier en duurt van half drie tot half …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2613,7 +2613,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034408/gemeenten-asten-en-someren-werken-samen-aan-asielopvang": {
    "titel": "Gemeenten Asten en Someren werken samen aan asielopvang",
    "link": "https://www.omroepbrabant.nl/nieuws/6034408/gemeenten-asten-en-someren-werken-samen-aan-asielopvang",
-   "tekst": "woensdag De gemeenten Asten en Someren gaan samenwerken bij de opvang van asielzoekers. Asten opent een tijdelijke locatie aan de Kanaalweg voor maximaal 204 asielzoekers. De opvang richt zich op gezinnen en alleenstaanden. De locatie …",
+   "tekst": "11 november 2026 De gemeenten Asten en Someren gaan samenwerken bij de opvang van asielzoekers. Asten opent een tijdelijke locatie aan de Kanaalweg voor maximaal 204 asielzoekers. De opvang richt zich op gezinnen en alleenstaanden. De …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -8785,7 +8785,7 @@
   "Gemeente Helmond": {
    "ok": false,
    "aantal": 0,
-   "fout": "ParseError: no element found: line 2, column 0"
+   "fout": "HTTPError: HTTP Error 500: Internal server error"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -8844,7 +8844,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
