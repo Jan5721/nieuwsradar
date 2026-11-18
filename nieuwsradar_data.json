@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 17:47",
+ "bijgewerkt": "18-11-2026 18:04",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -932,7 +932,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 17:44"
@@ -2194,7 +2194,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 17:47"
@@ -4530,6 +4530,88 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639105/jonge-nepagent-op-heterdaad-aangehouden-in-woning-in-helmond-twee-medeverdachten-ook-opgepakt.html": {
+   "titel": "Jonge nepagent op heterdaad aangehouden in woning in Helmond, twee medeverdachten ook opgepakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639105/jonge-nepagent-op-heterdaad-aangehouden-in-woning-in-helmond-twee-medeverdachten-ook-opgepakt.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:58:06+00:00",
+   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:58"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639048/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten.html": {
+   "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639048/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:49:07+00:00",
+   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639047/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html": {
+   "titel": "Eindhoven ontsnapt `bij toeval` aan stadsbrand in binnenstad, tip van agent voorkomt onbeheersbaar inferno",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639047/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:49:07+00:00",
+   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639045/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten.html": {
+   "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639045/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:49:06+00:00",
+   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639044/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html": {
+   "titel": "Eindhoven ontsnapt `bij toeval` aan stadsbrand in binnenstad, tip van agent voorkomt onbeheersbaar inferno",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639044/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:49:05+00:00",
+   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108638746/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html": {
    "titel": "Vijf wilde zwijnen doodgereden bij Eersel: wat moet je doen bij aanrijding met wild en ben je verzekerd'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108638746/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html",
@@ -4729,73 +4811,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 14:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108637168/vermiste-vrouw-67-uit-lieshout-dood-aangetroffen.html": {
-   "titel": "Vermiste vrouw (67) uit Lieshout dood aangetroffen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108637168/vermiste-vrouw-67-uit-lieshout-dood-aangetroffen.html",
-   "tekst": "",
-   "datum": "2026-11-18T13:13:10+00:00",
-   "eerst_gezien": "2026-11-18T13:15:13.375903+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108637002/straks-komen-hier-seniorenwoningen-maar-deze-plek-in-lierop-was-al-in-de-middeleeuwen-bewoond.html": {
-   "titel": "Straks komen hier seniorenwoningen, maar deze plek in Lierop was al in de Middeleeuwen bewoond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108637002/straks-komen-hier-seniorenwoningen-maar-deze-plek-in-lierop-was-al-in-de-middeleeuwen-bewoond.html",
-   "tekst": "",
-   "datum": "2026-11-18T12:49:05+00:00",
-   "eerst_gezien": "2026-11-18T12:59:14.268844+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636613/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html": {
-   "titel": "Zelfs de schoorsteen keert terug: 350 woningen op plek van voormalige Schellensfabriek in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636613/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636611/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html": {
-   "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636611/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -5453,23 +5468,6 @@
    "prio": true,
    "tijd": "17-11 20:04"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200352a1deurnerit137258": {
-   "titel": "A1 Deurne Rit: 137258",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200352a1deurnerit137258",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-17T20:03:52+01:00",
-   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 20:03"
-  },
   "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
    "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
    "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
@@ -5486,6 +5484,90 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108637168/vermiste-vrouw-67-uit-lieshout-dood-aangetroffen.html": {
+   "titel": "Vermiste vrouw (67) uit Lieshout dood aangetroffen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108637168/vermiste-vrouw-67-uit-lieshout-dood-aangetroffen.html",
+   "tekst": "",
+   "datum": "2026-11-18T13:13:10+00:00",
+   "eerst_gezien": "2026-11-18T13:15:13.375903+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 14:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108637002/straks-komen-hier-seniorenwoningen-maar-deze-plek-in-lierop-was-al-in-de-middeleeuwen-bewoond.html": {
+   "titel": "Straks komen hier seniorenwoningen, maar deze plek in Lierop was al in de Middeleeuwen bewoond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108637002/straks-komen-hier-seniorenwoningen-maar-deze-plek-in-lierop-was-al-in-de-middeleeuwen-bewoond.html",
+   "tekst": "",
+   "datum": "2026-11-18T12:49:05+00:00",
+   "eerst_gezien": "2026-11-18T12:59:14.268844+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636613/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html": {
+   "titel": "Zelfs de schoorsteen keert terug: 350 woningen op plek van voormalige Schellensfabriek in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636613/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:49:06+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636611/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html": {
+   "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636611/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:49:06+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:49"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200352a1deurnerit137258": {
+   "titel": "A1 Deurne Rit: 137258",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200352a1deurnerit137258",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T20:03:52+01:00",
+   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 20:03"
   },
   "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
@@ -10472,7 +10554,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -10492,7 +10574,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 20,
    "fout": ""
   },
   "112Brabant": {
