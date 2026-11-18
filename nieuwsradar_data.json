@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 07:12",
+ "bijgewerkt": "18-11-2026 07:28",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne": {
    "titel": "Film Youri is deze week te zien in het Cultuurcentrum in Deurne",
@@ -957,6 +957,23 @@
    "prio": false,
    "tijd": "11-11 09:16"
   },
+  "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/": {
+   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
+   "link": "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/",
+   "tekst": "Het Stedelijk Helmonds Seniorenkoor geeft een kerstconcert in de Bethlehemkerk in Helmond. Het concert is 13 december en begint om 14.30 uur, de kerk gaat om 14.15 uur open.",
+   "datum": "2026-11-18T06:22:00+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:22"
+  },
   "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/": {
    "titel": "BouwInfraCampus in Mierlo op de schop",
    "link": "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/",
@@ -969,7 +986,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 07:01"
@@ -4567,12 +4584,77 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
+   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
    "tekst": "",
-   "datum": "2026-11-18T06:07:27+00:00",
-   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
+   "datum": "2026-11-18T06:27:17+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633926/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
+   "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633926/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:13:10+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633922/bouwinfracampus-in-mierlo-op-de-schop.html": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633922/bouwinfracampus-in-mierlo-op-de-schop.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:13:05+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
+   "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:13:05+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633906/bouwinfracampus-in-mierlo-op-de-schop.html": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633906/bouwinfracampus-in-mierlo-op-de-schop.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:11:24+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4595,7 +4677,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 07:01"
@@ -4713,57 +4795,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 20:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html": {
-   "titel": "Eindhovenaar verdacht van verkoop gestolen spullen met 2 miljoen aan opbrengst",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html",
-   "tekst": "",
-   "datum": "2026-11-17T18:13:05+00:00",
-   "eerst_gezien": "2026-11-17T18:18:31.203049+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 19:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628410/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html": {
-   "titel": "Politie controleert auto op A67: bestuurder heeft foto van vervalste ID-kaart bij zich en test positief op cocaïne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628410/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html",
-   "tekst": "",
-   "datum": "2026-11-17T17:49:06+00:00",
-   "eerst_gezien": "2026-11-17T18:02:14.588153+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 18:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html": {
-   "titel": "Eindhovense raad positief over nieuwe woontoren, al houdt het qua aantal parkeerplekken niet echt over",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html",
-   "tekst": "",
-   "datum": "2026-11-17T17:13:10+00:00",
-   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 18:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
@@ -5102,6 +5133,73 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 07:37"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:07:27+00:00",
+   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html": {
+   "titel": "Eindhovenaar verdacht van verkoop gestolen spullen met 2 miljoen aan opbrengst",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html",
+   "tekst": "",
+   "datum": "2026-11-17T18:13:05+00:00",
+   "eerst_gezien": "2026-11-17T18:18:31.203049+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 19:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628410/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html": {
+   "titel": "Politie controleert auto op A67: bestuurder heeft foto van vervalste ID-kaart bij zich en test positief op cocaïne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628410/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:49:06+00:00",
+   "eerst_gezien": "2026-11-17T18:02:14.588153+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 18:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html": {
+   "titel": "Eindhovense raad positief over nieuwe woontoren, al houdt het qua aantal parkeerplekken niet echt over",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:13:10+00:00",
+   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 18:13"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126033611a2helmondrit137324": {
    "titel": "A2 Helmond Rit: 137324",
@@ -6494,23 +6592,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 21:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108563087/deurne-wil-buurthuis-den-draai-onderbrengen-in-monumentale-kerk-maar-plan-is-nog-niet-definitief.html": {
-   "titel": "Deurne wil buurthuis Den Draai onderbrengen in monumentale kerk, maar plan is nog niet definitief",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108563087/deurne-wil-buurthuis-den-draai-onderbrengen-in-monumentale-kerk-maar-plan-is-nog-niet-definitief.html",
-   "tekst": "",
-   "datum": "2026-11-11T06:21:27+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 07:21"
   },
   "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/": {
    "titel": "Gratis kerstmarkt in Helmond voor minima: Samantha’s hondjes lopen er nu ook kerstig bij",
@@ -8789,7 +8870,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -8874,7 +8955,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -8894,7 +8975,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
