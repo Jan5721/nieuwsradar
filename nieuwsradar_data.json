@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 12:54",
+ "bijgewerkt": "18-11-2026 13:27",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64773/waterschapsbelasting-stijgt-opnieuw-in-2027": {
    "titel": "Waterschapsbelasting stijgt opnieuw in 2027",
@@ -951,7 +951,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:40"
@@ -1176,6 +1176,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:45"
+  },
+  "https://www.ed.nl/asten/alzheimer-cafe-peelland-houdt-bijeenkomst-over-mantelzorg-in-asten~a51ebdfae/": {
+   "titel": "Alzheimer Café Peelland houdt bijeenkomst over mantelzorg in Asten",
+   "link": "https://www.ed.nl/asten/alzheimer-cafe-peelland-houdt-bijeenkomst-over-mantelzorg-in-asten~a51ebdfae/",
+   "tekst": "Alzheimer Café Peelland houdt een bijeenkomst over mantelzorg voor mensen met dementie. Dinsdag 1 december is de bijeenkomst van 19.30 tot 21.00 uur in ’t Kwartier aan de Kerkstraat 10 in Asten, met inloop vanaf 19.00 uur.",
+   "datum": "2026-11-18T11:58:00+00:00",
+   "eerst_gezien": "2026-11-18T12:26:47.518200+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:58"
   },
   "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/": {
    "titel": "Afgelopen week 7 meldingen van de gemeente over onder meer bouw in Asten",
@@ -2967,1046 +2984,6 @@
    "prio": false,
    "tijd": "11-11 15:06"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636613/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html": {
-   "titel": "Zelfs de schoorsteen keert terug: 350 woningen op plek van voormalige Schellensfabriek in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636613/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636611/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html": {
-   "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636611/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
-   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636553/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html": {
-   "titel": "Zelfs de schoorsteen keert terug: 350 woningen op plek van voormalige Schellensfabriek in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636553/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:43:24+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636550/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
-   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636550/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:43:24+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636548/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html": {
-   "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636548/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:43:24+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html",
-   "tekst": "Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles...",
-   "datum": "2026-11-18T11:29:03+00:00",
-   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:29"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:25:12+00:00",
-   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
-   "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:13:05+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636168/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html": {
-   "titel": "Gemert past bouwplan Textielkwartier aan, maar buurt vindt het nog steeds te massaal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636168/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:07:25+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636167/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
-   "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636167/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:07:25+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636117/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html": {
-   "titel": "Gemert past bouwplan Textielkwartier aan, maar buurt vindt het nog steeds te massaal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636117/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:01:05+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636050/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html": {
-   "titel": "Van koelteplekken tot wadi`s: Eindhoven zet in op een stad die extreme hitte en regen aankan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636050/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:09+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html": {
-   "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:09+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636047/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html": {
-   "titel": "Van koelteplekken tot wadi`s: Eindhoven zet in op een stad die extreme hitte en regen aankan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636047/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636045/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html": {
-   "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636045/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635996/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html": {
-   "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635996/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:43:26+00:00",
-   "eerst_gezien": "2026-11-18T10:47:48.985868+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html": {
-   "titel": "Proef in Brabant: is parkeren én laden op één en dezelfde laadplek een goed idee'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:21:31+00:00",
-   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636336/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636336/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:28:02+00:00",
-   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:20:03+00:00",
-   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
-   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:29:06+00:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:11:39+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
-   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
-   "tekst": "",
-   "datum": "2026-11-15T22:42:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html": {
-   "titel": "Bronsgieterij Royal Eijsbouts, Asten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html",
-   "tekst": "Een gebroken bronzen beeld van een kunstenaar maakte dat ik op zoek moest naar een bronsgieterij, maar waar zijn die en wat is dan een goede...",
-   "datum": "2026-11-12T22:24:04+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:24"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html": {
-   "titel": "Speciaal plan Snack Products voor eigen huisvesting positief ontvangen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html",
-   "tekst": "Komkommerteler Snack Products heeft plannen voor een eigen huisvestingslocatie in Heusden. Er moeten 192 eigen medewerkers gehuisvest...",
-   "datum": "2026-11-12T22:09:47+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:09"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html": {
-   "titel": "Graafwerk van een andere partij sloopt glasvezel in Asten-Heusden: tv, internet en vaste lijn eruit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html",
-   "tekst": "",
-   "datum": "2026-11-12T15:11:23+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 16:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html": {
-   "titel": "400 huizen in Asten-Heusden zonder internet door storing",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html",
-   "tekst": "",
-   "datum": "2026-11-12T13:49:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 14:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html": {
-   "titel": "Beiaardier 2026 Asten [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html",
-   "tekst": "Beiaardier Rosemarie Seuntiëns speelt op het carillon in de Astense kerktoren.",
-   "datum": "2026-11-12T12:30:05+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 13:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html": {
-   "titel": "IVN neemt wandelaars mee door natuurgebied Keelven in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html",
-   "tekst": "Het natuurgebied rond het Keelven in Someren heeft door de jaren heen grote veranderingen ondergaan. Tijdens een publiekswandeling...",
-   "datum": "2026-11-11T22:55:02+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 23:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html": {
-   "titel": "Waarom de gemeenten Asten en Someren juist hier een azc willen bouwen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108566081/waarom-de-gemeenten-asten-en-someren-juist-hier-een-azc-willen-bouwen.html",
-   "tekst": "",
-   "datum": "2026-11-11T12:25:12+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 13:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
-   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
-   "tekst": "",
-   "datum": "2026-11-17T23:12:08+00:00",
-   "eerst_gezien": "2026-11-17T23:27:18.161833+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
-   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
-   "tekst": "",
-   "datum": "2026-11-15T18:45:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 19:45"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html": {
-   "titel": "Sportieve prins Twan II voorop in de polonaise bij De Meerpoel in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html",
-   "tekst": "",
-   "datum": "2026-11-14T22:12:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 23:12"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html": {
-   "titel": "Vroeger liep Koen mee met `t Vaartje, nu is hij prins van De Plattevonder",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html",
-   "tekst": "",
-   "datum": "2026-11-14T14:11:36+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 15:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html": {
-   "titel": "Vroeger liep Koen mee met `t Vaartje tijdens de carnaval, nu is hij prins van De Plattevonder",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html",
-   "tekst": "",
-   "datum": "2026-11-14T08:29:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 09:29"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html": {
-   "titel": "Someren presenteert centrumplan met hoogbouw, maar inwoners vrezen voor kermis en Kennedymars",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html",
-   "tekst": "",
-   "datum": "2026-11-12T06:37:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 07:37"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462": {
-   "titel": "A2 Helmond Rit: 137462",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T11:39:07+01:00",
-   "eerst_gezien": "2026-11-18T10:47:48.985868+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 11:39"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112122a1helmondrit137449": {
-   "titel": "A1 Helmond Rit: 137449",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112122a1helmondrit137449",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T11:21:22+01:00",
-   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "18-11 11:21"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112014a2somerenrit137448": {
-   "titel": "A2 Someren Rit: 137448",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112014a2somerenrit137448",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T11:20:14+01:00",
-   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 11:20"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421": {
-   "titel": "A2 Helmond Rit: 137421",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T10:35:04+01:00",
-   "eerst_gezien": "2026-11-18T09:43:11.836669+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 10:35"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405": {
-   "titel": "A2 Helmond Rit: 137405",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T10:09:07+01:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 10:09"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398": {
-   "titel": "A1 Helmond Rit: 137398",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T09:58:43+01:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "18-11 09:58"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389": {
-   "titel": "A2 Helmond Rit: 137389",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-18T09:28:58+01:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 09:28"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126090140a2liesselrit137378": {
-   "titel": "A2 Liessel Rit: 137378",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126090140a2liesselrit137378",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T09:01:40+01:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 09:01"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126033611a2helmondrit137324": {
-   "titel": "A2 Helmond Rit: 137324",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126033611a2helmondrit137324",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T03:36:11+01:00",
-   "eerst_gezien": "2026-11-18T02:41:24.333340+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 03:36"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126224443a1helmondrit137293": {
-   "titel": "A1 Helmond Rit: 137293",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126224443a1helmondrit137293",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-17T22:44:43+01:00",
-   "eerst_gezien": "2026-11-17T21:49:44.689872+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 22:44"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126203851a1astenrit137267": {
-   "titel": "A1 Asten Rit: 137267",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126203851a1astenrit137267",
-   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T20:38:51+01:00",
-   "eerst_gezien": "2026-11-17T19:40:14.488901+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 20:38"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126202330a2helmondrit137262": {
-   "titel": "A2 Helmond Rit: 137262",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126202330a2helmondrit137262",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T20:23:30+01:00",
-   "eerst_gezien": "2026-11-17T19:22:58.978934+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 20:23"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200444a1helmondrit137259": {
-   "titel": "A1 Helmond Rit: 137259",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200444a1helmondrit137259",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T20:04:44+01:00",
-   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 20:04"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200352a1deurnerit137258": {
-   "titel": "A1 Deurne Rit: 137258",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200352a1deurnerit137258",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-17T20:03:52+01:00",
-   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 20:03"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126195344a1deurnerit137256": {
-   "titel": "A1 Deurne Rit: 137256",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126195344a1deurnerit137256",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T19:53:44+01:00",
-   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 19:53"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212": {
-   "titel": "A1 Asten Rit: 137212",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T17:57:30+01:00",
-   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 17:57"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202": {
-   "titel": "A2 Helmond Rit: 137202",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-17T17:33:50+01:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 17:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173329ongevalwegvervoerletselengelseweghelmond": {
-   "titel": "Ongeval wegvervoer letsel Engelseweg Helmond",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173329ongevalwegvervoerletselengelseweghelmond",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-17T17:33:29+01:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 17:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126171823a1liesselrit137191": {
-   "titel": "A1 Liessel Rit: 137191",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126171823a1liesselrit137191",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T17:18:23+01:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 17:18"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176": {
-   "titel": "A2 Helmond Rit: 137176",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T16:50:54+01:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 16:50"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151": {
-   "titel": "A1 Helmond Rit: 137151",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-17T15:54:00+01:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 15:54"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140": {
-   "titel": "A2 Asten Rit: 137140",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T15:33:27+01:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 15:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138": {
-   "titel": "A2 Helmond Rit: 137138",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T15:29:12+01:00",
-   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 15:29"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
-  },
-  "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/": {
-   "titel": "Willy Koppens uit Deurne krijgt Brabant Bokaal voor inzet voor cultuur",
-   "link": "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/",
-   "tekst": "Willy Koppens uit Deurne heeft een Brabant Bokaal gekregen voor zijn inzet voor cultuur. Ook Rolf Vonk uit Veghel en het echtpaar Frens van den Biggelaar en Mia van de Wiel uit Den Dungen ontvingen de onderscheiding van het Cultuurfonds Noord-Brabant.",
-   "datum": "2026-11-17T11:42:28+00:00",
-   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 12:42"
-  },
-  "https://www.ed.nl/someren/cabaretvoorstelling-poeha-speelt-begin-december-in-someren~ae191d75/": {
-   "titel": "Cabaretvoorstelling Poeha speelt begin december in Someren",
-   "link": "https://www.ed.nl/someren/cabaretvoorstelling-poeha-speelt-begin-december-in-someren~ae191d75/",
-   "tekst": "Cabaretduo Blauwe Vinkjes speelt de voorstelling Poeha in Theater de Ruchte in Someren. Vrijdag 4 december begint de voorstelling om 20.00 uur en duurt deze tot 23.00 uur.",
-   "datum": "2026-11-17T12:09:37+00:00",
-   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:09"
-  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-528608.html": {
    "titel": "Melding voor het toepassen van grond bij het bouwrijp en woonrijp maken Oostende te Helmond",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-528608.html",
@@ -5619,6 +4596,1059 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636613/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html": {
+   "titel": "Zelfs de schoorsteen keert terug: 350 woningen op plek van voormalige Schellensfabriek in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636613/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:49:06+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636611/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html": {
+   "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636611/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:49:06+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
+   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:49:06+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636553/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html": {
+   "titel": "Zelfs de schoorsteen keert terug: 350 woningen op plek van voormalige Schellensfabriek in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636553/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:43:24+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636550/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
+   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636550/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:43:24+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636548/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html": {
+   "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636548/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:43:24+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html",
+   "tekst": "Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles...",
+   "datum": "2026-11-18T11:29:03+00:00",
+   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636310/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:25:12+00:00",
+   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
+   "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:13:05+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636168/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html": {
+   "titel": "Gemert past bouwplan Textielkwartier aan, maar buurt vindt het nog steeds te massaal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636168/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:07:25+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636167/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
+   "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636167/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:07:25+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636117/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html": {
+   "titel": "Gemert past bouwplan Textielkwartier aan, maar buurt vindt het nog steeds te massaal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636117/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:01:05+00:00",
+   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636050/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html": {
+   "titel": "Van koelteplekken tot wadi`s: Eindhoven zet in op een stad die extreme hitte en regen aankan",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636050/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:49:09+00:00",
+   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html": {
+   "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:49:09+00:00",
+   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636047/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html": {
+   "titel": "Van koelteplekken tot wadi`s: Eindhoven zet in op een stad die extreme hitte en regen aankan",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636047/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:49:06+00:00",
+   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636045/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html": {
+   "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636045/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:49:06+00:00",
+   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635996/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html": {
+   "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635996/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:43:26+00:00",
+   "eerst_gezien": "2026-11-18T10:47:48.985868+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html": {
+   "titel": "Proef in Brabant: is parkeren én laden op één en dezelfde laadplek een goed idee'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:21:31+00:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
+   "tekst": "",
+   "datum": "2026-11-18T12:11:30+00:00",
+   "eerst_gezien": "2026-11-18T12:26:47.518200+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636656/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
+   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636656/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:58:07+00:00",
+   "eerst_gezien": "2026-11-18T12:26:47.518200+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636336/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636336/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:28:02+00:00",
+   "eerst_gezien": "2026-11-18T11:36:26.371357+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:20:03+00:00",
+   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
+   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:29:06+00:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
+   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
+   "tekst": "",
+   "datum": "2026-11-17T16:11:39+00:00",
+   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
+   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
+   "tekst": "",
+   "datum": "2026-11-15T22:42:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html": {
+   "titel": "Bronsgieterij Royal Eijsbouts, Asten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html",
+   "tekst": "Een gebroken bronzen beeld van een kunstenaar maakte dat ik op zoek moest naar een bronsgieterij, maar waar zijn die en wat is dan een goede...",
+   "datum": "2026-11-12T22:24:04+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:24"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html": {
+   "titel": "Speciaal plan Snack Products voor eigen huisvesting positief ontvangen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html",
+   "tekst": "Komkommerteler Snack Products heeft plannen voor een eigen huisvestingslocatie in Heusden. Er moeten 192 eigen medewerkers gehuisvest...",
+   "datum": "2026-11-12T22:09:47+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 23:09"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html": {
+   "titel": "Graafwerk van een andere partij sloopt glasvezel in Asten-Heusden: tv, internet en vaste lijn eruit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html",
+   "tekst": "",
+   "datum": "2026-11-12T15:11:23+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 16:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html": {
+   "titel": "400 huizen in Asten-Heusden zonder internet door storing",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108578594/400-huizen-in-asten-heusden-zonder-internet-door-storing.html",
+   "tekst": "",
+   "datum": "2026-11-12T13:49:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 14:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html": {
+   "titel": "Beiaardier 2026 Asten [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html",
+   "tekst": "Beiaardier Rosemarie Seuntiëns speelt op het carillon in de Astense kerktoren.",
+   "datum": "2026-11-12T12:30:05+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 13:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html": {
+   "titel": "IVN neemt wandelaars mee door natuurgebied Keelven in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108573229/ivn-neemt-wandelaars-mee-door-natuurgebied-keelven-in-someren.html",
+   "tekst": "Het natuurgebied rond het Keelven in Someren heeft door de jaren heen grote veranderingen ondergaan. Tijdens een publiekswandeling...",
+   "datum": "2026-11-11T22:55:02+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "11-11 23:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
+   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
+   "tekst": "",
+   "datum": "2026-11-17T23:12:08+00:00",
+   "eerst_gezien": "2026-11-17T23:27:18.161833+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
+   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
+   "tekst": "",
+   "datum": "2026-11-15T18:45:03+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "15-11 19:45"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html": {
+   "titel": "Sportieve prins Twan II voorop in de polonaise bij De Meerpoel in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108602547/sportieve-prins-twan-ii-voorop-in-de-polonaise-bij-de-meerpoel-in-someren.html",
+   "tekst": "",
+   "datum": "2026-11-14T22:12:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 23:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html": {
+   "titel": "Vroeger liep Koen mee met `t Vaartje, nu is hij prins van De Plattevonder",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html",
+   "tekst": "",
+   "datum": "2026-11-14T14:11:36+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 15:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html": {
+   "titel": "Vroeger liep Koen mee met `t Vaartje tijdens de carnaval, nu is hij prins van De Plattevonder",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html",
+   "tekst": "",
+   "datum": "2026-11-14T08:29:06+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "14-11 09:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html": {
+   "titel": "Someren presenteert centrumplan met hoogbouw, maar inwoners vrezen voor kermis en Kennedymars",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html",
+   "tekst": "",
+   "datum": "2026-11-12T06:37:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "12-11 07:37"
+  },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462": {
+   "titel": "A2 Helmond Rit: 137462",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T11:39:07+01:00",
+   "eerst_gezien": "2026-11-18T10:47:48.985868+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 11:39"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112122a1helmondrit137449": {
+   "titel": "A1 Helmond Rit: 137449",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112122a1helmondrit137449",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T11:21:22+01:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "18-11 11:21"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112014a2somerenrit137448": {
+   "titel": "A2 Someren Rit: 137448",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112014a2somerenrit137448",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T11:20:14+01:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 11:20"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421": {
+   "titel": "A2 Helmond Rit: 137421",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T10:35:04+01:00",
+   "eerst_gezien": "2026-11-18T09:43:11.836669+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 10:35"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405": {
+   "titel": "A2 Helmond Rit: 137405",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T10:09:07+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 10:09"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398": {
+   "titel": "A1 Helmond Rit: 137398",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T09:58:43+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "18-11 09:58"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389": {
+   "titel": "A2 Helmond Rit: 137389",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-18T09:28:58+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 09:28"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126090140a2liesselrit137378": {
+   "titel": "A2 Liessel Rit: 137378",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126090140a2liesselrit137378",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T09:01:40+01:00",
+   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 09:01"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126033611a2helmondrit137324": {
+   "titel": "A2 Helmond Rit: 137324",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126033611a2helmondrit137324",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T03:36:11+01:00",
+   "eerst_gezien": "2026-11-18T02:41:24.333340+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 03:36"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126224443a1helmondrit137293": {
+   "titel": "A1 Helmond Rit: 137293",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126224443a1helmondrit137293",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T22:44:43+01:00",
+   "eerst_gezien": "2026-11-17T21:49:44.689872+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 22:44"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126203851a1astenrit137267": {
+   "titel": "A1 Asten Rit: 137267",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126203851a1astenrit137267",
+   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T20:38:51+01:00",
+   "eerst_gezien": "2026-11-17T19:40:14.488901+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 20:38"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126202330a2helmondrit137262": {
+   "titel": "A2 Helmond Rit: 137262",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126202330a2helmondrit137262",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T20:23:30+01:00",
+   "eerst_gezien": "2026-11-17T19:22:58.978934+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 20:23"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200444a1helmondrit137259": {
+   "titel": "A1 Helmond Rit: 137259",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200444a1helmondrit137259",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T20:04:44+01:00",
+   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 20:04"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200352a1deurnerit137258": {
+   "titel": "A1 Deurne Rit: 137258",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126200352a1deurnerit137258",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T20:03:52+01:00",
+   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 20:03"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126195344a1deurnerit137256": {
+   "titel": "A1 Deurne Rit: 137256",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126195344a1deurnerit137256",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T19:53:44+01:00",
+   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 19:53"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212": {
+   "titel": "A1 Asten Rit: 137212",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T17:57:30+01:00",
+   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 17:57"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202": {
+   "titel": "A2 Helmond Rit: 137202",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173350a2helmondrit137202",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T17:33:50+01:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 17:33"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173329ongevalwegvervoerletselengelseweghelmond": {
+   "titel": "Ongeval wegvervoer letsel Engelseweg Helmond",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126173329ongevalwegvervoerletselengelseweghelmond",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-17T17:33:29+01:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 17:33"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126171823a1liesselrit137191": {
+   "titel": "A1 Liessel Rit: 137191",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126171823a1liesselrit137191",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T17:18:23+01:00",
+   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 17:18"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176": {
+   "titel": "A2 Helmond Rit: 137176",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126165054a2helmondrit137176",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T16:50:54+01:00",
+   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 16:50"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151": {
+   "titel": "A1 Helmond Rit: 137151",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T15:54:00+01:00",
+   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 15:54"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140": {
+   "titel": "A2 Asten Rit: 137140",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T15:33:27+01:00",
+   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 15:33"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138": {
+   "titel": "A2 Helmond Rit: 137138",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-17T15:29:12+01:00",
+   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "17-11 15:29"
+  },
+  "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/": {
+   "titel": "Willy Koppens uit Deurne krijgt Brabant Bokaal voor inzet voor cultuur",
+   "link": "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/",
+   "tekst": "Willy Koppens uit Deurne heeft een Brabant Bokaal gekregen voor zijn inzet voor cultuur. Ook Rolf Vonk uit Veghel en het echtpaar Frens van den Biggelaar en Mia van de Wiel uit Den Dungen ontvingen de onderscheiding van het Cultuurfonds Noord-Brabant.",
+   "datum": "2026-11-17T11:42:28+00:00",
+   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 12:42"
+  },
+  "https://www.ed.nl/someren/cabaretvoorstelling-poeha-speelt-begin-december-in-someren~ae191d75/": {
+   "titel": "Cabaretvoorstelling Poeha speelt begin december in Someren",
+   "link": "https://www.ed.nl/someren/cabaretvoorstelling-poeha-speelt-begin-december-in-someren~ae191d75/",
+   "tekst": "Cabaretduo Blauwe Vinkjes speelt de voorstelling Poeha in Theater de Ruchte in Someren. Vrijdag 4 december begint de voorstelling om 20.00 uur en duurt deze tot 23.00 uur.",
+   "datum": "2026-11-17T12:09:37+00:00",
+   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 13:09"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108635708/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html": {
    "titel": "Waarom buurthuizen in Veldhoven een grotere rol moeten krijgen in de wijk",
@@ -8824,23 +8854,6 @@
    "prio": true,
    "tijd": "16-11 13:49"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126130202a2deurnerit136628": {
-   "titel": "A2 Deurne Rit: 136628",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126130202a2deurnerit136628",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-132)",
-   "datum": "2026-11-16T13:02:02+01:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 13:02"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108622847/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html": {
    "titel": "Chef-kok Peter Kesseler voegt live hoofdstuk toe aan kookboek in Eindhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108622847/chef-kok-peter-kesseler-voegt-live-hoofdstuk-toe-aan-kookboek-in-eindhoven.html",
@@ -10099,7 +10112,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
@@ -10153,24 +10166,24 @@
    "fout": ""
   },
   "Bekendmakingen Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "aantal": 46,
+   "fout": ""
   },
   "Bekendmakingen Deurne": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "aantal": 23,
+   "fout": ""
   },
   "Bekendmakingen Asten": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "aantal": 13,
+   "fout": ""
   },
   "Bekendmakingen Someren": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "aantal": 13,
+   "fout": ""
   },
   "Drimble Helmond": {
    "ok": true,
@@ -10179,12 +10192,12 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 6,
    "fout": ""
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 7,
    "fout": ""
   },
   "Drimble Someren": {
@@ -10194,7 +10207,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
