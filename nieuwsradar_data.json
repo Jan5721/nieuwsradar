@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 09:22",
+ "bijgewerkt": "18-11-2026 09:39",
  "items": {
   "https://www.ed.nl/helmond/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout~a8a4bb5c/": {
    "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
@@ -1329,23 +1329,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.omroepbrabant.nl/nieuws/6033495/vergunning-verleend-voor-huisvesting-arbeidsmigranten-in-deurne": {
-   "titel": "Vergunning verleend voor huisvesting arbeidsmigranten in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033495/vergunning-verleend-voor-huisvesting-arbeidsmigranten-in-deurne",
-   "tekst": "4 november 2026 De gemeente Deurne heeft toestemming gegeven voor het huisvesten van maximaal tien arbeidsmigranten aan de Julianastraat 10. Dit mag voor een periode van vijf jaar.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers": {
    "titel": "Alzheimer Café Peelland: steun voor mantelzorgers",
    "link": "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers",
@@ -2502,7 +2485,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 01:00"
@@ -2621,7 +2604,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 01:00"
@@ -2966,6 +2949,23 @@
    "prio": false,
    "tijd": "12-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537599.html": {
+   "titel": "Kennisgeving voornemen wijziging omgevingsplan hoofdstuk 21.12 - Bruggenseweg 12, Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537599.html",
+   "tekst": "",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-18T08:38:11.778266+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-531161.html": {
    "titel": "Vertrokken met onbekende bestemming van J. Appelman",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-531161.html",
@@ -3000,6 +3000,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538622.html": {
+   "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit (BOPA) voor het plaatsen van een tijdelijke woonunit voor maximaal 2 jaar aan de Belgerenseweg, kadastraat bekend gemeent",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538622.html",
+   "tekst": "het plaatsen van een tijdelijke woonunit voor maximaal 2 jaar",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-18T08:38:11.778266+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-529772.html": {
    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Bivakweg 1 5752PZ Deurne",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-529772.html",
@@ -3031,8 +3048,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 01:00"
+   "prio": false
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-531333.html": {
    "titel": "Kennisgeving ontvangst melding Klein Bruggen 8 5752SE Deurne",
@@ -3050,6 +3066,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537397.html": {
+   "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Loon 58 b in Liessel",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537397.html",
+   "tekst": "het realiseren van een woning Hoogdonkseweg 1b (advies bodem)",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-18T08:38:11.778266+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-533906.html": {
    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Kruisstraat 10, 5751 BJ in Deurne",
@@ -3084,6 +3117,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538471.html": {
+   "titel": "Kennisgeving besluit intrekking omgevingsvergunning Klein Bruggen 8 5752SE Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538471.html",
+   "tekst": "het intrekken van een omgevingsvergunning met het onderdeel milieu bekend met nummer HZ-2021-1000",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-18T08:38:11.778266+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-531042.html": {
    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Helmondseweg 7 5751GA Deurne",
@@ -3236,6 +3286,23 @@
    "prio": false,
    "tijd": "16-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538387.html": {
+   "titel": "Gemeente Asten - verleende omgevingsvergunning, Koningsplein 4 5721GJ Asten",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538387.html",
+   "tekst": "het vervangen van glas en voordeur",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-18T08:38:11.778266+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-530733.html": {
    "titel": "Gemeente Asten, besluit aanvraag omgevingsvergunning, de percelen, kadastraal bekend Asten, sectie Q, nummer 489 te Asten en Deurne, sectie U, nummer 1200 te Deurne",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-530733.html",
@@ -3334,7 +3401,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 01:00"
@@ -3355,6 +3422,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538245.html": {
+   "titel": "Gemeente Asten - Gedoogbeslissing ten behoeve van het realiseren van een tijdelijke opvangvoorziening voor asielzoekers aan de Kanaalweg Asten",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538245.html",
+   "tekst": "Gemeente Asten gedoogt vanaf 10 november 2026 tijdelijk de opvang van maximaal 204 asielzoekers aan de Kanaalweg. De opvang is nodig vanwege het tekort aan opvangplaatsen. De gedoogbeslissing geldt tot …",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-18T08:38:11.778266+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-534184.html": {
    "titel": "Gemeente Asten - verleende omgevingsvergunning, Diesdonkerweg 7 5724PE Ommel, Diesdonkerweg 7a 5724PE Ommel",
@@ -3657,7 +3741,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 09:19"
@@ -3674,7 +3758,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3690,7 +3774,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 09:07"
@@ -3707,7 +3791,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 09:07"
@@ -4213,6 +4297,23 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
+  "https://www.omroepbrabant.nl/nieuws/6033495/vergunning-verleend-voor-huisvesting-arbeidsmigranten-in-deurne": {
+   "titel": "Vergunning verleend voor huisvesting arbeidsmigranten in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033495/vergunning-verleend-voor-huisvesting-arbeidsmigranten-in-deurne",
+   "tekst": "4 november 2026 De gemeente Deurne heeft toestemming gegeven voor het huisvesten van maximaal tien arbeidsmigranten aan de Julianastraat 10. Dit mag voor een periode van vijf jaar.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126090140a2liesselrit137378": {
    "titel": "A2 Liessel Rit: 137378",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126090140a2liesselrit137378",
@@ -4225,7 +4326,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 09:01"
@@ -9098,7 +9199,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -9138,12 +9239,12 @@
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 23,
    "fout": ""
   },
   "Bekendmakingen Asten": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 13,
    "fout": ""
   },
   "Bekendmakingen Someren": {
@@ -9173,7 +9274,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
