@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 14:31",
+ "bijgewerkt": "18-11-2026 14:47",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 14:19"
@@ -949,7 +949,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 14:16"
@@ -1108,6 +1108,23 @@
    "prio": false,
    "tijd": "18-11 07:01"
   },
+  "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/": {
+   "titel": "Wethouder Deurne geeft les over zichtbaarheid in het verkeer",
+   "link": "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/",
+   "tekst": "Wethouder Wouter Bulten heeft leerlingen van basisschool De Bron in Deurne uitleg gegeven over zichtbaarheid in het verkeer. De presentatie was onderdeel van Reflection Day, een actie rond verkeersveiligheid in de donkere maanden.",
+   "datum": "2026-11-18T13:37:00+00:00",
+   "eerst_gezien": "2026-11-18T13:47:16.936299+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 14:37"
+  },
   "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/": {
    "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Deurne",
    "link": "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/",
@@ -1243,6 +1260,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
+  },
+  "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/": {
+   "titel": "Someren hijst vlag voor campagne tegen geweld tegen vrouwen",
+   "link": "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/",
+   "tekst": "De gemeente Someren doet mee aan de wereldwijde campagne Orange the World tegen geweld tegen vrouwen en meisjes. Woensdag 25 november hijsen burgemeester Dilia Blok, wethouder Daniël van Schijndel en Soroptimisten Helmond-Peel om 12.00 uur de vlag bij het gemeentehuis.",
+   "datum": "2026-11-18T13:39:07+00:00",
+   "eerst_gezien": "2026-11-18T13:47:16.936299+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Helmond",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 14:39"
   },
   "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/": {
    "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Someren",
@@ -4613,12 +4648,12 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108637305/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html": {
    "titel": "Myriam bouwde jarenlang aan de kunstwereld in Veghel, nu neemt ze afscheid: `Het is weer tijd om zelf te creëren`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108637305/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html",
    "tekst": "",
-   "datum": "2026-11-18T13:21:28+00:00",
-   "eerst_gezien": "2026-11-18T13:31:15.869521+00:00",
+   "datum": "2026-11-18T13:31:03+00:00",
+   "eerst_gezien": "2026-11-18T13:47:16.936299+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4628,7 +4663,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "18-11 14:21"
+   "tijd": "18-11 14:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108637208/helmondse-oprichter-van-malafide-elektriciteitsbedrijf-krijgt-42-maanden-cel-ook-anderen-krijgen-celstraf.html": {
    "titel": "Helmondse oprichter van malafide elektriciteitsbedrijf krijgt 42 maanden cel, ook anderen krijgen celstraf",
@@ -4642,7 +4677,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 14:19"
@@ -4893,22 +4928,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html": {
-   "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:09+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -5226,6 +5245,23 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143146a2helmondrit137552": {
+   "titel": "A2 Helmond Rit: 137552",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143146a2helmondrit137552",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T14:31:46+01:00",
+   "eerst_gezien": "2026-11-18T13:47:16.936299+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 14:31"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143058a1helmondrit137551": {
    "titel": "A1 Helmond Rit: 137551",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143058a1helmondrit137551",
@@ -5238,7 +5274,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "18-11 14:30"
@@ -5255,7 +5291,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 14:20"
@@ -5272,7 +5308,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 14:18"
@@ -5634,23 +5670,6 @@
    "prio": false,
    "tijd": "17-11 16:50"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151": {
-   "titel": "A1 Helmond Rit: 137151",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-17T15:54:00+01:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 15:54"
-  },
   "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
    "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
    "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
@@ -5667,6 +5686,56 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html": {
+   "titel": "Myriam bouwde jarenlang aan de kunstwereld in Veghel, nu neemt ze afscheid: `Het is weer tijd om zelf te creëren`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html",
+   "tekst": "",
+   "datum": "2026-11-18T13:21:28+00:00",
+   "eerst_gezien": "2026-11-18T13:31:15.869521+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 14:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html": {
+   "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:49:09+00:00",
+   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151": {
+   "titel": "A1 Helmond Rit: 137151",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126155400a1helmondrit137151",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-17T15:54:00+01:00",
+   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "17-11 15:54"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636047/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html": {
    "titel": "Van koelteplekken tot wadi`s: Eindhoven zet in op een stad die extreme hitte en regen aankan",
@@ -8904,40 +8973,6 @@
    "prio": false,
    "tijd": "17-11 07:43"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126143515ongevalwegvervoerletselaldideltaweg5709abhelmond": {
-   "titel": "Ongeval wegvervoer letsel Aldi Deltaweg 5709AB Helmond",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126143515ongevalwegvervoerletselaldideltaweg5709abhelmond",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-16T14:35:15+01:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 14:35"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126143421a2helmondrit136675": {
-   "titel": "A2 Helmond Rit: 136675",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126143421a2helmondrit136675",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T14:34:21+01:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 14:34"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html": {
    "titel": "Pakistaanse Bushra (65) zoekt veiligheid in Nuenen, terwijl de angst om haar familie haar niet loslaat",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html",
@@ -10241,7 +10276,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "ED Asten": {
@@ -10251,7 +10286,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -10321,7 +10356,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
