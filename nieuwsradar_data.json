@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 16:59",
+ "bijgewerkt": "18-11-2026 17:15",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -1057,23 +1057,6 @@
    "prio": false,
    "tijd": "18-11 08:56"
   },
-  "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/": {
-   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
-   "link": "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/",
-   "tekst": "Het Stedelijk Helmonds Seniorenkoor geeft een kerstconcert in de Bethlehemkerk in Helmond. Het concert is 13 december en begint om 14.30 uur, de kerk gaat om 14.15 uur open.",
-   "datum": "2026-11-18T06:22:00+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:22"
-  },
   "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/": {
    "titel": "Wethouder Deurne geeft les over zichtbaarheid in het verkeer",
    "link": "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/",
@@ -1108,6 +1091,23 @@
    "prio": false,
    "tijd": "18-11 11:03"
   },
+  "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/": {
+   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
+   "link": "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/",
+   "tekst": "Het Stedelijk Helmonds Seniorenkoor geeft een kerstconcert in de Bethlehemkerk in Helmond. Het concert is 13 december en begint om 14.30 uur, de kerk gaat om 14.15 uur open.",
+   "datum": "2026-11-18T06:22:00+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:22"
+  },
   "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
    "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/",
@@ -1120,23 +1120,6 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
-  },
-  "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/",
-   "tekst": "Jaja, hij is er! Na een lange bootreis kwamen Sinterklaas en zijn pieten op zondag 15 november aan in Helmond. Omdat het gezelschap ergens moet slapen, heet het kasteel tot en met vrijdag 4 december het Kasteel van Sinterklaas.",
-   "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
@@ -1262,10 +1245,28 @@
    "prio": false,
    "tijd": "18-11 11:04"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk": {
+   "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk",
+   "tekst": "Zes elektriciens moeten de cel in voor een reeks oplichtingen. De rechtbank in Den Bosch oordeelde woensdag dat de mannen uit Helmond, Deurne en Eindhoven honderden slachtoffers hebben gemaakt. Ze deden zich voor als betrouwbare elektriciens en brachten vervolgens extreem hoge …",
+   "datum": "2026-11-18T16:00:00+00:00",
+   "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:00"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg": {
    "titel": "Helmond erkent woonbestemming aan Gerwenseweg",
    "link": "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg",
-   "tekst": "",
+   "tekst": "De gemeente Helmond heeft een woonbestemming erkend voor een pand aan de Gerwenseweg. Dit besluit volgt uit een omgevingsvergunning die eerder dit jaar werd aangevraagd.",
    "datum": "2026-11-18T08:54:55.875632+00:00",
    "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1299,7 +1300,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035006/deze-slagerij-bestaat-al-109-jaar-nu-nemen-twee-19-jarigen-de-zaak-over": {
    "titel": "Deze slagerij bestaat al 109 jaar, nu nemen twee 19-jarigen de zaak over",
    "link": "https://www.omroepbrabant.nl/nieuws/6035006/deze-slagerij-bestaat-al-109-jaar-nu-nemen-twee-19-jarigen-de-zaak-over",
-   "tekst": "Waar veel leeftijdsgenoten nog studeren of ieder weekend op stap gaan, beginnen Wendy en Youri aan een heel ander avontuur. Het jonge stel, ze zijn beiden 19 jaar oud, neemt een slagerij in Helmond over die al 109 jaar bestaat. Een flinke …",
+   "tekst": "BRABANT",
    "datum": "2026-11-17T17:30:01.152387+00:00",
    "eerst_gezien": "2026-11-17T17:30:01.152387+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1741,23 +1742,6 @@
    "titel": "Vrouw op fiets gewond bij aanrijding met auto in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6034441/vrouw-op-fiets-gewond-bij-aanrijding-met-auto-in-helmond",
    "tekst": "11 november 2026 Een vrouw op de fiets is woensdagmiddag gewond geraakt bij een botsing met een auto op de Mierloseweg in Helmond.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034422/helmond-sport-verliest-oefenduel-bij-lommel-sk": {
-   "titel": "Helmond Sport verliest oefenduel bij Lommel SK",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034422/helmond-sport-verliest-oefenduel-bij-lommel-sk",
-   "tekst": "11 november 2026 Helmond Sport heeft een oefenwedstrijd tegen Lommel SK met 1-0 verloren. De jonge ploeg uit Helmond wist na een moeilijke start het spel te domineren, maar kreeg kort na rust een tegendoelpunt. Ondanks meerdere kansen …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -2726,23 +2710,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 10:12"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant": {
-   "titel": "Automotive Campus gaat verder onder publiek eigenaarschap van Gemeente Helmond en Provincie Noord-Brabant",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/automotive-campus-gaat-verder-onder-publiek-eigenaarschap-van-gemeente-helmond-en-provincie-noord-brabant",
-   "tekst": "Woensdag 11 november heeft de overdracht van de aandelen van de Automotive Campus (ondergebracht in Campus Sui Moveo) plaatsgevonden bij de notaris door Bouwbedrijf Van de Ven uit Veghel aan de Provincie Noord-Brabant en de gemeente Helmond. Dit vormt het sluitstuk van een lang …",
-   "datum": "2026-11-11T16:01:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 17:01"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -4563,6 +4530,72 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108638746/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html": {
+   "titel": "Vijf wilde zwijnen doodgereden bij Eersel: wat moet je doen bij aanrijding met wild en ben je verzekerd'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638746/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:13:10+00:00",
+   "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108638744/gewone-bijzondere-dorpsbewoners-in-de-schijnwerpers-tijdens-bezoek-commissaris.html": {
+   "titel": "Gewone bijzondere dorpsbewoners in de schijnwerpers tijdens bezoek commissaris",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638744/gewone-bijzondere-dorpsbewoners-in-de-schijnwerpers-tijdens-bezoek-commissaris.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:13:09+00:00",
+   "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108638742/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html": {
+   "titel": "Vijf wilde zwijnen doodgereden bij Eersel: wat moet je doen bij aanrijding met wild en ben je verzekerd'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638742/vijf-wilde-zwijnen-doodgereden-bij-eersel-wat-moet-je-doen-bij-aanrijding-met-wild-en-ben-je-verzekerd.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:13:05+00:00",
+   "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108638740/gewone-bijzondere-dorpsbewoners-in-de-schijnwerpers-tijdens-bezoek-commissaris.html": {
+   "titel": "Gewone bijzondere dorpsbewoners in de schijnwerpers tijdens bezoek commissaris",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638740/gewone-bijzondere-dorpsbewoners-in-de-schijnwerpers-tijdens-bezoek-commissaris.html",
+   "tekst": "",
+   "datum": "2026-11-18T16:13:05+00:00",
+   "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108638533/nieuwe-scholen-sportvelden-en-buurthuizen-regiogemeenten-tellen-alvast-300-miljoen-euro-neer.html": {
    "titel": "Nieuwe scholen, sportvelden en buurthuizen: regiogemeenten tellen alvast 300 miljoen euro neer",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108638533/nieuwe-scholen-sportvelden-en-buurthuizen-regiogemeenten-tellen-alvast-300-miljoen-euro-neer.html",
@@ -4575,7 +4608,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 16:49"
@@ -4763,70 +4796,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
-   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636553/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html": {
-   "titel": "Zelfs de schoorsteen keert terug: 350 woningen op plek van voormalige Schellensfabriek in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636553/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:43:24+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636550/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
-   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636550/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:43:24+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636548/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html": {
-   "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636548/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:43:24+00:00",
-   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -5156,7 +5125,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 16:47"
@@ -5534,6 +5503,104 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
+   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
+   "link": "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/",
+   "tekst": "Jaja, hij is er! Na een lange bootreis kwamen Sinterklaas en zijn pieten op zondag 15 november aan in Helmond. Omdat het gezelschap ergens moet slapen, heet het kasteel tot en met vrijdag 4 december het Kasteel van Sinterklaas.",
+   "datum": "2026-11-17T15:00:00+00:00",
+   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 16:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034422/helmond-sport-verliest-oefenduel-bij-lommel-sk": {
+   "titel": "Helmond Sport verliest oefenduel bij Lommel SK",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034422/helmond-sport-verliest-oefenduel-bij-lommel-sk",
+   "tekst": "11 november 2026 Helmond Sport heeft een oefenwedstrijd tegen Lommel SK met 1-0 verloren. De jonge ploeg uit Helmond wist na een moeilijke start het spel te domineren, maar kreeg kort na rust een tegendoelpunt. Ondanks meerdere kansen …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
+   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:49:06+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636553/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html": {
+   "titel": "Zelfs de schoorsteen keert terug: 350 woningen op plek van voormalige Schellensfabriek in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636553/zelfs-de-schoorsteen-keert-terug-350-woningen-op-plek-van-voormalige-schellensfabriek-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:43:24+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636550/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
+   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636550/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:43:24+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636548/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html": {
+   "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636548/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:43:24+00:00",
+   "eerst_gezien": "2026-11-18T11:52:26.952596+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636362/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf.html": {
    "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
@@ -10320,7 +10387,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 8,
    "fout": ""
   },
   "ED Deurne": {
@@ -10340,12 +10407,12 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -10365,7 +10432,7 @@
   },
   "Gemeente Helmond": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Gemeente Deurne": {
