@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 07:28",
+ "bijgewerkt": "18-11-2026 07:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne": {
    "titel": "Film Youri is deze week te zien in het Cultuurcentrum in Deurne",
@@ -969,7 +969,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 07:22"
@@ -1742,7 +1742,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034422/helmond-sport-verliest-oefenduel-bij-lommel-sk": {
    "titel": "Helmond Sport verliest oefenduel bij Lommel SK",
    "link": "https://www.omroepbrabant.nl/nieuws/6034422/helmond-sport-verliest-oefenduel-bij-lommel-sk",
-   "tekst": "woensdag Helmond Sport heeft een oefenwedstrijd tegen Lommel SK met 1-0 verloren. De jonge ploeg uit Helmond wist na een moeilijke start het spel te domineren, maar kreeg kort na rust een tegendoelpunt. Ondanks meerdere kansen lukte het …",
+   "tekst": "11 november 2026 Helmond Sport heeft een oefenwedstrijd tegen Lommel SK met 1-0 verloren. De jonge ploeg uit Helmond wist na een moeilijke start het spel te domineren, maar kreeg kort na rust een tegendoelpunt. Ondanks meerdere kansen …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4584,12 +4584,29 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
-   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
+   "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
    "tekst": "",
-   "datum": "2026-11-18T06:27:17+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "datum": "2026-11-18T06:43:18+00:00",
+   "eerst_gezien": "2026-11-18T06:44:04.724763+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634017/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
+   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634017/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:31:04+00:00",
+   "eerst_gezien": "2026-11-18T06:44:04.724763+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4612,7 +4629,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 07:13"
@@ -4629,7 +4646,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4645,7 +4662,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4661,7 +4678,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4761,40 +4778,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108629463/rien-luijkx-klare-taal-bokaal-voor-mmc-arts-joost-janssen.html": {
-   "titel": "Rien Luijkx Klare Taal Bokaal voor MMC-arts Joost Janssen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108629463/rien-luijkx-klare-taal-bokaal-voor-mmc-arts-joost-janssen.html",
-   "tekst": "",
-   "datum": "2026-11-17T21:01:05+00:00",
-   "eerst_gezien": "2026-11-17T21:17:23.030804+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 22:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628849/klare-taal-bokaal-voor-mmc-arts-joost-janssen.html": {
-   "titel": "Klare Taal Bokaal voor MMC-arts Joost Janssen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628849/klare-taal-bokaal-voor-mmc-arts-joost-janssen.html",
-   "tekst": "",
-   "datum": "2026-11-17T19:01:04+00:00",
-   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 20:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
@@ -5133,73 +5116,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 07:37"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:07:27+00:00",
-   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html": {
-   "titel": "Eindhovenaar verdacht van verkoop gestolen spullen met 2 miljoen aan opbrengst",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html",
-   "tekst": "",
-   "datum": "2026-11-17T18:13:05+00:00",
-   "eerst_gezien": "2026-11-17T18:18:31.203049+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 19:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628410/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html": {
-   "titel": "Politie controleert auto op A67: bestuurder heeft foto van vervalste ID-kaart bij zich en test positief op cocaïne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628410/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html",
-   "tekst": "",
-   "datum": "2026-11-17T17:49:06+00:00",
-   "eerst_gezien": "2026-11-17T18:02:14.588153+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 18:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html": {
-   "titel": "Eindhovense raad positief over nieuwe woontoren, al houdt het qua aantal parkeerplekken niet echt over",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html",
-   "tekst": "",
-   "datum": "2026-11-17T17:13:10+00:00",
-   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 18:13"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126033611a2helmondrit137324": {
    "titel": "A2 Helmond Rit: 137324",
@@ -5591,6 +5507,123 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
+   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:27:17+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108629463/rien-luijkx-klare-taal-bokaal-voor-mmc-arts-joost-janssen.html": {
+   "titel": "Rien Luijkx Klare Taal Bokaal voor MMC-arts Joost Janssen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108629463/rien-luijkx-klare-taal-bokaal-voor-mmc-arts-joost-janssen.html",
+   "tekst": "",
+   "datum": "2026-11-17T21:01:05+00:00",
+   "eerst_gezien": "2026-11-17T21:17:23.030804+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 22:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628849/klare-taal-bokaal-voor-mmc-arts-joost-janssen.html": {
+   "titel": "Klare Taal Bokaal voor MMC-arts Joost Janssen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628849/klare-taal-bokaal-voor-mmc-arts-joost-janssen.html",
+   "tekst": "",
+   "datum": "2026-11-17T19:01:04+00:00",
+   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 20:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html": {
+   "titel": "BouwInfraCampus in Mierlo op de schop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:07:27+00:00",
+   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html": {
+   "titel": "Eindhovenaar verdacht van verkoop gestolen spullen met 2 miljoen aan opbrengst",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html",
+   "tekst": "",
+   "datum": "2026-11-17T18:13:05+00:00",
+   "eerst_gezien": "2026-11-17T18:18:31.203049+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 19:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628410/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html": {
+   "titel": "Politie controleert auto op A67: bestuurder heeft foto van vervalste ID-kaart bij zich en test positief op cocaïne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628410/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:49:06+00:00",
+   "eerst_gezien": "2026-11-17T18:02:14.588153+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 18:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html": {
+   "titel": "Eindhovense raad positief over nieuwe woontoren, al houdt het qua aantal parkeerplekken niet echt over",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html",
+   "tekst": "",
+   "datum": "2026-11-17T17:13:10+00:00",
+   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 18:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
@@ -8955,7 +8988,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -8975,7 +9008,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
