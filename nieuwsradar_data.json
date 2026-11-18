@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "18-11-2026 11:16",
+ "bijgewerkt": "18-11-2026 11:32",
  "items": {
+  "https://www.ed.nl/regionale-economie/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx~a5b0c477/": {
+   "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
+   "link": "https://www.ed.nl/regionale-economie/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx~a5b0c477/",
+   "tekst": "Hij verkoopt sieraden en horloges vanuit zijn Helmondse winkel, zij zijn van een Amerikaanse miljardenfirma, vooral bekend als platform waar je sneakers kunt verhandelen. Allebei heten ze Stockx. Achter de schermen woedt al jaren een strijd om die naam. Bij de rechter vecht de …",
+   "datum": "2026-11-18T10:30:08+00:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:30"
+  },
   "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/": {
    "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
    "link": "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/",
@@ -13,7 +30,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
@@ -137,23 +154,6 @@
    "prio": false,
    "tijd": "17-11 16:00"
   },
-  "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/",
-   "tekst": "Jaja, hij is er! Na een lange bootreis kwamen Sinterklaas en zijn pieten op zondag 15 november aan in Helmond. Omdat het gezelschap ergens moet slapen, heet het kasteel tot en met vrijdag 4 december het Kasteel van Sinterklaas.",
-   "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
-  },
   "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/": {
    "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Deurne",
    "link": "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/",
@@ -166,10 +166,27 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
+  },
+  "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
+   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
+   "link": "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/",
+   "tekst": "Jaja, hij is er! Na een lange bootreis kwamen Sinterklaas en zijn pieten op zondag 15 november aan in Helmond. Omdat het gezelschap ergens moet slapen, heet het kasteel tot en met vrijdag 4 december het Kasteel van Sinterklaas.",
+   "datum": "2026-11-17T15:00:00+00:00",
+   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 16:00"
   },
   "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/": {
    "titel": "Gemeente Deurne vernieuwt Martinetplein met meer groen en nieuwe zitplekken",
@@ -240,23 +257,6 @@
    "prio": false,
    "tijd": "17-11 10:01"
   },
-  "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/": {
-   "titel": "Gemeente Deurne werkt aan uitkijktoren en wandelpaden bij Peelvenen in Liessel",
-   "link": "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/",
-   "tekst": "De gemeente Deurne werkt met de provincie Noord-Brabant, Waterschap Aa en Maas en Staatsbosbeheer aan het Belevingsplan Peelvenen. Het plan bestaat uit een uitkijktoren en wandelpaden bij de Peel, ter hoogte van de Eikenlaan en het Leegveld in Liessel.",
-   "datum": "2026-11-17T08:05:00+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:05"
-  },
   "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/": {
    "titel": "Afgelopen week 7 meldingen van de gemeente over onder meer bouw in Asten",
    "link": "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/",
@@ -269,7 +269,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
@@ -303,7 +303,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:04"
@@ -2116,23 +2116,6 @@
    "prio": false,
    "tijd": "11-11 15:06"
   },
-  "https://www.someren.nl/nieuws/artikel/colleges-asten-en-someren-nemen-definitief-besluit-tot-samenwerking-asielopvang": {
-   "titel": "Colleges Asten en Someren nemen definitief besluit tot samenwerking asielopvang",
-   "link": "https://www.someren.nl/nieuws/artikel/colleges-asten-en-someren-nemen-definitief-besluit-tot-samenwerking-asielopvang",
-   "tekst": "",
-   "datum": "2026-11-11T10:28:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Someren",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-528608.html": {
    "titel": "Melding voor het toepassen van grond bij het bouwrijp en woonrijp maken Oostende te Helmond",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-528608.html",
@@ -3746,6 +3729,72 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635840/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html": {
+   "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635840/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:31:04+00:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html": {
+   "titel": "Proef in Brabant: is parkeren én laden op één en dezelfde laadplek een goed idee'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:21:31+00:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635708/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html": {
+   "titel": "Waarom buurthuizen in Veldhoven een grotere rol moeten krijgen in de wijk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635708/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:19:02+00:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635705/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html": {
+   "titel": "Proef in Brabant: is parkeren én laden op één en dezelfde laadplek een goed idee'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635705/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html",
+   "tekst": "",
+   "datum": "2026-11-18T10:19:02+00:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635620/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html": {
    "titel": "Waarom buurthuizen in Veldhoven een grotere rol moeten krijgen in de wijk",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635620/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html",
@@ -3758,10 +3807,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108635618/piekbuien-en-hitte-dwingen-eindhoven-tot-nadenken-over-de-toekomst-het-is-een-zoektocht.html": {
    "titel": "Piekbuien en hitte dwingen Eindhoven tot nadenken over de toekomst: `Het is een zoektocht`",
@@ -3775,7 +3823,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:13"
@@ -3792,7 +3840,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:13"
@@ -3809,7 +3857,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3825,7 +3873,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3841,7 +3889,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3992,54 +4040,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:07:27+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634976/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
-   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634976/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:04:20+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634943/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html": {
-   "titel": "Geldropse Fabiën wil meer vrijwilligers aantrekken voor Nepal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634943/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:01:05+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
@@ -4376,6 +4376,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 07:37"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112122a1helmondrit137449": {
+   "titel": "A1 Helmond Rit: 137449",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112122a1helmondrit137449",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T11:21:22+01:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "18-11 11:21"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112014a2somerenrit137448": {
+   "titel": "A2 Someren Rit: 137448",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112014a2somerenrit137448",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T11:20:14+01:00",
+   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 11:20"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421": {
    "titel": "A2 Helmond Rit: 137421",
@@ -4733,6 +4767,71 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 14:07"
+  },
+  "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/": {
+   "titel": "Gemeente Deurne werkt aan uitkijktoren en wandelpaden bij Peelvenen in Liessel",
+   "link": "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/",
+   "tekst": "De gemeente Deurne werkt met de provincie Noord-Brabant, Waterschap Aa en Maas en Staatsbosbeheer aan het Belevingsplan Peelvenen. Het plan bestaat uit een uitkijktoren en wandelpaden bij de Peel, ter hoogte van de Eikenlaan en het Leegveld in Liessel.",
+   "datum": "2026-11-17T08:05:00+00:00",
+   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 09:05"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:07:27+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634976/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634976/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:04:20+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634943/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html": {
+   "titel": "Geldropse Fabiën wil meer vrijwilligers aantrekken voor Nepal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634943/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:01:05+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#171126130603a2helmondrit137079": {
    "titel": "A2 Helmond Rit: 137079",
@@ -6048,23 +6147,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "11-11 15:44"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64602/tune-en-renantia-verzorgen-uitwisselingsconcert-in-liessel": {
-   "titel": "Tune en Renantia verzorgen uitwisselingsconcert in Liessel",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64602/tune-en-renantia-verzorgen-uitwisselingsconcert-in-liessel",
-   "tekst": "LIESSEL - Muziekvereniging Tune uit Liessel en fanfare Renantia uit Griendtsveen hebben zaterdag 7 november samen een uitwisselingsconcert verzorgd in gemeenschapshuis De Kastanje. Beide verenigingen brachten een gevarieerd programma met slagwerk, fanfare en orkestmuziek.",
-   "datum": "2026-11-11T11:21:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "11-11 11:21"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans": {
    "titel": "Asielopvanglocatie start met accu, aggregaat en watertank: ‘Aansluitingen volgen later’",
@@ -9842,7 +9924,7 @@
   },
   "Gemeente Someren": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 5,
    "fout": ""
   },
   "Bekendmakingen Helmond": {
@@ -9867,7 +9949,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -9887,7 +9969,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
