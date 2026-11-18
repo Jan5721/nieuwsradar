@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 22:22",
+ "bijgewerkt": "18-11-2026 22:38",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -4525,7 +4525,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 22:21"
@@ -4542,7 +4542,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 22:07"
@@ -5080,88 +5080,22 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
-  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
-   "titel": "Man aangehouden na mogelijk steekincident in appartement",
-   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
-   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
-   "datum": "2026-11-18T18:09:03+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "112Brabant",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126222129a2helmondrit137729": {
+   "titel": "A2 Helmond Rit: 137729",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126222129a2helmondrit137729",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-18T22:21:29+01:00",
+   "eerst_gezien": "2026-11-18T21:38:29.466220+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "112-nieuws",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "18-11 19:09"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639843/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html": {
-   "titel": "Hamburgerketen zet mes in eigen vlees: zaken in Eindhoven en Den Bosch dicht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639843/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html",
-   "tekst": "",
-   "datum": "2026-11-18T18:43:28+00:00",
-   "eerst_gezien": "2026-11-18T18:57:26.503597+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 19:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639754/het-scheelde-een-paar-minuten-of-enorme-brand-had-groot-gat-geslagen-in-centrum-van-eindhoven.html": {
-   "titel": "Het scheelde een paar minuten of enorme brand had groot gat geslagen in centrum van Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639754/het-scheelde-een-paar-minuten-of-enorme-brand-had-groot-gat-geslagen-in-centrum-van-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-18T18:31:04+00:00",
-   "eerst_gezien": "2026-11-18T18:41:23.582587+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639752/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html": {
-   "titel": "Hamburgerketen zet mes in eigen vlees: zaken in Eindhoven en Den Bosch dicht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639752/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html",
-   "tekst": "",
-   "datum": "2026-11-18T18:31:04+00:00",
-   "eerst_gezien": "2026-11-18T18:41:23.582587+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "tijd": "18-11 22:21"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126185039a1helmondrit137677": {
    "titel": "A1 Helmond Rit: 137677",
@@ -5468,6 +5402,89 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 03:36"
+  },
+  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
+   "titel": "Man aangehouden na mogelijk steekincident in appartement",
+   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
+   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
+   "datum": "2026-11-18T18:09:03+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:09"
+  },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639843/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html": {
+   "titel": "Hamburgerketen zet mes in eigen vlees: zaken in Eindhoven en Den Bosch dicht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639843/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html",
+   "tekst": "",
+   "datum": "2026-11-18T18:43:28+00:00",
+   "eerst_gezien": "2026-11-18T18:57:26.503597+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639754/het-scheelde-een-paar-minuten-of-enorme-brand-had-groot-gat-geslagen-in-centrum-van-eindhoven.html": {
+   "titel": "Het scheelde een paar minuten of enorme brand had groot gat geslagen in centrum van Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639754/het-scheelde-een-paar-minuten-of-enorme-brand-had-groot-gat-geslagen-in-centrum-van-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-18T18:31:04+00:00",
+   "eerst_gezien": "2026-11-18T18:41:23.582587+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108639752/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html": {
+   "titel": "Hamburgerketen zet mes in eigen vlees: zaken in Eindhoven en Den Bosch dicht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639752/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html",
+   "tekst": "",
+   "datum": "2026-11-18T18:31:04+00:00",
+   "eerst_gezien": "2026-11-18T18:41:23.582587+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640475/zilveren-draaginsigne-voor-mark-van-schaijk.html": {
    "titel": "Zilveren draaginsigne voor Mark van Schaijk",
@@ -10958,7 +10975,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
