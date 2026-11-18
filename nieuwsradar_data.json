@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 10:27",
+ "bijgewerkt": "18-11-2026 10:43",
  "items": {
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
@@ -1299,23 +1299,6 @@
    "titel": "Noodlijdende bussenbouwer Ebusco krijgt injectie van 12 miljoen euro",
    "link": "https://www.omroepbrabant.nl/nieuws/6033532/noodlijdende-bussenbouwer-ebusco-krijgt-injectie-van-12-miljoen-euro",
    "tekst": "4 november 2026 De Deurnese fabrikant van elektrische bussen Ebusco krijgt een nieuwe geldinjectie van 12 miljoen euro van aandeelhouders. Dinsdag werd bekend dat het bedrijf de uitbetaling van salarissen over oktober moest uitstellen door …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033529/vergunning-verleend-voor-herbouwen-loods-in-neerkant": {
-   "titel": "Vergunning verleend voor herbouwen loods in Neerkant",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033529/vergunning-verleend-voor-herbouwen-loods-in-neerkant",
-   "tekst": "4 november 2026 De gemeente Deurne heeft een vergunning verleend voor het herbouwen van een loods op Boonhof 3 in Neerkant. Het besluit is op 2 november 2026 genomen.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -3775,7 +3758,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3791,7 +3774,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3807,7 +3790,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4070,7 +4053,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4393,6 +4376,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 07:37"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421": {
+   "titel": "A2 Helmond Rit: 137421",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T10:35:04+01:00",
+   "eerst_gezien": "2026-11-18T09:43:11.836669+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 10:35"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405": {
    "titel": "A2 Helmond Rit: 137405",
@@ -4750,6 +4750,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 13:06"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033529/vergunning-verleend-voor-herbouwen-loods-in-neerkant": {
+   "titel": "Vergunning verleend voor herbouwen loods in Neerkant",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033529/vergunning-verleend-voor-herbouwen-loods-in-neerkant",
+   "tekst": "4 november 2026 De gemeente Deurne heeft een vergunning verleend voor het herbouwen van een loods op Boonhof 3 in Neerkant. Het besluit is op 2 november 2026 genomen.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108634112/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
    "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
@@ -9562,7 +9579,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -9637,7 +9654,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
