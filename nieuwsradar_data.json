@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 20:46",
+ "bijgewerkt": "18-11-2026 21:02",
  "items": {
   "https://www.ed.nl/helmond/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders~a7001f70/": {
    "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
@@ -13,7 +13,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 20:30"
@@ -188,23 +188,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:00"
-  },
-  "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/": {
-   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
-   "link": "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/",
-   "tekst": "Het Stedelijk Helmonds Seniorenkoor geeft een kerstconcert in de Bethlehemkerk in Helmond. Het concert is 13 december en begint om 14.30 uur, de kerk gaat om 14.15 uur open.",
-   "datum": "2026-11-18T06:22:00+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:22"
   },
   "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/": {
    "titel": "Museum Klok & Peel in Asten toont LEGO-lievelingsdieren van kinderen",
@@ -686,7 +669,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034606/voet-verwen-dag-voor-dak-en-thuislozen": {
    "titel": "Voet-verwen-dag voor dak- en thuislozen",
    "link": "https://www.omroepbrabant.nl/nieuws/6034606/voet-verwen-dag-voor-dak-en-thuislozen",
-   "tekst": "donderdag Op zaterdag 14 november krijgen dak- en thuislozen gratis voetverzorging en advies. Dit gebeurt op locaties van SMO, het Leger des Heils en Care Extra.",
+   "tekst": "12 november 2026 Op zaterdag 14 november krijgen dak- en thuislozen gratis voetverzorging en advies. Dit gebeurt op locaties van SMO, het Leger des Heils en Care Extra.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1335,7 +1318,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast": {
    "titel": "Wegversmalling Meijelseweg in Heusden wordt aangepast",
    "link": "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast",
-   "tekst": "donderdag De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
+   "tekst": "12 november 2026 De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -3611,6 +3594,57 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
+   "titel": "Man aangehouden na mogelijk steekincident in appartement",
+   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
+   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
+   "datum": "2026-11-18T18:09:03+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:09"
+  },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
+  "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/": {
+   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
+   "link": "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/",
+   "tekst": "Het Stedelijk Helmonds Seniorenkoor geeft een kerstconcert in de Bethlehemkerk in Helmond. Het concert is 13 december en begint om 14.30 uur, de kerk gaat om 14.15 uur open.",
+   "datum": "2026-11-18T06:22:00+00:00",
+   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:22"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108640273/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html": {
    "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108640273/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html",
@@ -3623,7 +3657,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4548,40 +4582,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 03:36"
-  },
-  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
-   "titel": "Man aangehouden na mogelijk steekincident in appartement",
-   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
-   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
-   "datum": "2026-11-18T18:09:03+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 19:09"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108639044/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html": {
    "titel": "Eindhoven ontsnapt `bij toeval` aan stadsbrand in binnenstad, tip van agent voorkomt onbeheersbaar inferno",
@@ -9088,23 +9088,6 @@
    "prio": false,
    "tijd": "16-11 21:17"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126210056a2helmondrit136805": {
-   "titel": "A2 Helmond Rit: 136805",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126210056a2helmondrit136805",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T21:00:56+01:00",
-   "eerst_gezien": "2026-11-16T20:07:19.653161+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 21:00"
-  },
   "https://www.omroepbrabant.nl/nieuws/6033447/houtoogst-gestart-op-somerense-heide": {
    "titel": "Houtoogst gestart op Somerense Heide",
    "link": "https://www.omroepbrabant.nl/nieuws/6033447/houtoogst-gestart-op-somerense-heide",
@@ -9121,23 +9104,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#161126205035a2helmondrit136800": {
-   "titel": "A2 Helmond Rit: 136800",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#161126205035a2helmondrit136800",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-16T20:50:35+01:00",
-   "eerst_gezien": "2026-11-16T19:51:04.418187+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "16-11 20:50"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108626098/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html": {
    "titel": "Cateringbedrijf Maison van den Boer vertrekt na 120 jaar uit Veghel, `passende oplossing` gezocht voor medewerkers",
@@ -10741,7 +10707,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -10820,28 +10786,28 @@
    "fout": ""
   },
   "Drimble Helmond": {
-   "ok": true,
-   "aantal": 19,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Deurne": {
-   "ok": true,
-   "aantal": 6,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Asten": {
-   "ok": true,
-   "aantal": 7,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Someren": {
-   "ok": true,
-   "aantal": 6,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
