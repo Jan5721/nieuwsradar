@@ -1,19 +1,19 @@
 {
- "bijgewerkt": "18-11-2026 10:43",
+ "bijgewerkt": "18-11-2026 10:59",
  "items": {
-  "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
-   "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/",
+  "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Verkeerde gemeente, verkeerde afstand’",
+   "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/",
    "tekst": "Deurne is negentien miljoen euro door de neus geboord dankzij fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
    "datum": "2026-11-18T09:05:00+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:05"
@@ -154,23 +154,6 @@
    "prio": false,
    "tijd": "17-11 15:26"
   },
-  "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/": {
-   "titel": "Het ED gaat undercover in het Kasteel van Sinterklaas: hoe krijgen ze het ieder jaar weer voor elkaar?",
-   "link": "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/",
-   "tekst": "Helmond is er klaar voor. Nu de Goedheiligman veilig in Nederland is aangekomen, strijkt hij weer neer in het kasteel. Vanaf dinsdag 17 november kloppen er duizenden kinderen aan. Maar hoe krijgen de pieten dat toch iedere keer weer geregeld? We kijken tot begin december mee.",
-   "datum": "2026-11-17T11:45:00+00:00",
-   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 12:45"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/": {
    "titel": "Gemeente Deurne vernieuwt Martinetplein met meer groen en nieuwe zitplekken",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-vernieuwt-martinetplein-met-meer-groen-en-nieuwe-zitplekken~a7d1963b/",
@@ -187,6 +170,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 15:38"
+  },
+  "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/": {
+   "titel": "Het ED gaat undercover in het Kasteel van Sinterklaas: hoe krijgen ze het ieder jaar weer voor elkaar?",
+   "link": "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/",
+   "tekst": "Helmond is er klaar voor. Nu de Goedheiligman veilig in Nederland is aangekomen, strijkt hij weer neer in het kasteel. Vanaf dinsdag 17 november kloppen er duizenden kinderen aan. Maar hoe krijgen de pieten dat toch iedere keer weer geregeld? We kijken tot begin december mee.",
+   "datum": "2026-11-17T11:45:00+00:00",
+   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "17-11 12:45"
   },
   "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/": {
    "titel": "Willy Koppens uit Deurne krijgt Brabant Bokaal voor inzet voor cultuur",
@@ -701,7 +701,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034467/professionals-in-helmond-bijeen-voor-veiligheid-en-verkeer": {
    "titel": "Professionals in Helmond bijeen voor veiligheid en verkeer",
    "link": "https://www.omroepbrabant.nl/nieuws/6034467/professionals-in-helmond-bijeen-voor-veiligheid-en-verkeer",
-   "tekst": "woensdag In Zalencentrum De Smed in Stiphout kwamen op 22 september professionals uit Helmond samen. De bijeenkomst, georganiseerd door wijkraad Stiphout-Warande, stond in het teken van veiligheid en verkeer. Drie sprekers deelden kennis …",
+   "tekst": "11 november 2026 In Zalencentrum De Smed in Stiphout kwamen op 22 september professionals uit Helmond samen. De bijeenkomst, georganiseerd door wijkraad Stiphout-Warande, stond in het teken van veiligheid en verkeer. Drie sprekers deelden …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1282,23 +1282,6 @@
    "titel": "Raadsvergaderingen Deurne op 15 en 16 december",
    "link": "https://www.omroepbrabant.nl/nieuws/6033568/raadsvergaderingen-deurne-op-15-en-16-december",
    "tekst": "4 november 2026 De gemeenteraad van Deurne vergadert op 15 en 16 december. De bijeenkomsten vinden plaats in het Huis voor de samenleving, waar de publieke tribune geopend is.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033532/noodlijdende-bussenbouwer-ebusco-krijgt-injectie-van-12-miljoen-euro": {
-   "titel": "Noodlijdende bussenbouwer Ebusco krijgt injectie van 12 miljoen euro",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033532/noodlijdende-bussenbouwer-ebusco-krijgt-injectie-van-12-miljoen-euro",
-   "tekst": "4 november 2026 De Deurnese fabrikant van elektrische bussen Ebusco krijgt een nieuwe geldinjectie van 12 miljoen euro van aandeelhouders. Dinsdag werd bekend dat het bedrijf de uitbetaling van salarissen over oktober moest uitstellen door …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -3746,6 +3729,72 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
+   "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:49:09+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635373/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html": {
+   "titel": "Was 2026 voor jou een bijzonder jaar' Deel het met het ED",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635373/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:49:08+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635372/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
+   "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635372/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:49:07+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635302/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html": {
+   "titel": "Was 2026 voor jou een bijzonder jaar' Deel het met het ED",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635302/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:43:21+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635075/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
    "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635075/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
@@ -3973,73 +4022,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634544/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html": {
-   "titel": "Nieuwe hoop voor 1,5 miljoen artrosepatiënten: implantaat van levend kraakbeen moet pijn eerder verlichten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634544/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:07:28+00:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634541/vrouw-67-uit-lieshout-vermist-op-blote-voeten-vertrokken.html": {
-   "titel": "Vrouw (67) uit Lieshout vermist, op blote voeten vertrokken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634541/vrouw-67-uit-lieshout-vermist-op-blote-voeten-vertrokken.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:07:28+00:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634503/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html": {
-   "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634503/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:01:04+00:00",
-   "eerst_gezien": "2026-11-18T08:04:55.005945+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634116/het-wordt-straks-stiller-rond-vliegbasis-eindhoven-met-dank-aan-de-amerikanen.html": {
-   "titel": "Het wordt straks stiller rond Vliegbasis Eindhoven; met dank aan de Amerikanen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634116/het-wordt-straks-stiller-rond-vliegbasis-eindhoven-met-dank-aan-de-amerikanen.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:49:08+00:00",
-   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
@@ -4389,7 +4371,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 10:35"
@@ -4750,6 +4732,107 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 13:06"
+  },
+  "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
+   "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/",
+   "tekst": "Deurne is negentien miljoen euro door de neus geboord dankzij fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
+   "datum": "2026-11-18T09:05:00+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:05"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033532/noodlijdende-bussenbouwer-ebusco-krijgt-injectie-van-12-miljoen-euro": {
+   "titel": "Noodlijdende bussenbouwer Ebusco krijgt injectie van 12 miljoen euro",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033532/noodlijdende-bussenbouwer-ebusco-krijgt-injectie-van-12-miljoen-euro",
+   "tekst": "4 november 2026 De Deurnese fabrikant van elektrische bussen Ebusco krijgt een nieuwe geldinjectie van 12 miljoen euro van aandeelhouders. Dinsdag werd bekend dat het bedrijf de uitbetaling van salarissen over oktober moest uitstellen door …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634544/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html": {
+   "titel": "Nieuwe hoop voor 1,5 miljoen artrosepatiënten: implantaat van levend kraakbeen moet pijn eerder verlichten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634544/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html",
+   "tekst": "",
+   "datum": "2026-11-18T08:07:28+00:00",
+   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 09:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634541/vrouw-67-uit-lieshout-vermist-op-blote-voeten-vertrokken.html": {
+   "titel": "Vrouw (67) uit Lieshout vermist, op blote voeten vertrokken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634541/vrouw-67-uit-lieshout-vermist-op-blote-voeten-vertrokken.html",
+   "tekst": "",
+   "datum": "2026-11-18T08:07:28+00:00",
+   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 09:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634503/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html": {
+   "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634503/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html",
+   "tekst": "",
+   "datum": "2026-11-18T08:01:04+00:00",
+   "eerst_gezien": "2026-11-18T08:04:55.005945+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108634116/het-wordt-straks-stiller-rond-vliegbasis-eindhoven-met-dank-aan-de-amerikanen.html": {
+   "titel": "Het wordt straks stiller rond Vliegbasis Eindhoven; met dank aan de Amerikanen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634116/het-wordt-straks-stiller-rond-vliegbasis-eindhoven-met-dank-aan-de-amerikanen.html",
+   "tekst": "",
+   "datum": "2026-11-18T06:49:08+00:00",
+   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 07:49"
   },
   "https://www.omroepbrabant.nl/nieuws/6033529/vergunning-verleend-voor-herbouwen-loods-in-neerkant": {
    "titel": "Vergunning verleend voor herbouwen loods in Neerkant",
@@ -9549,12 +9632,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "ED Asten": {
@@ -9579,7 +9662,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 28,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
