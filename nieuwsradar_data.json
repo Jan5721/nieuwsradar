@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "18-11-2026 23:27",
+ "bijgewerkt": "18-11-2026 23:43",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -4525,7 +4525,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4541,7 +4541,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4557,7 +4557,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5062,6 +5062,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 07:37"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126233251a2helmondrit137743": {
+   "titel": "A2 Helmond Rit: 137743",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126233251a2helmondrit137743",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T23:32:51+01:00",
+   "eerst_gezien": "2026-11-18T22:42:51.129095+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 23:32"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126222129a2helmondrit137729": {
    "titel": "A2 Helmond Rit: 137729",
@@ -11023,7 +11040,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
