@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 00:31",
+ "bijgewerkt": "19-11-2026 00:47",
  "items": {
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -3594,6 +3594,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108644275/aangehouden-man-in-helmond-vrijgelaten-geen-sprake-van-steekincident.html": {
+   "titel": "Aangehouden man in Helmond vrijgelaten: geen sprake van steekincident",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108644275/aangehouden-man-in-helmond-vrijgelaten-geen-sprake-van-steekincident.html",
+   "tekst": "",
+   "datum": "2026-11-18T23:42:08+00:00",
+   "eerst_gezien": "2026-11-18T23:46:55.887101+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 00:42"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108644097/explosief-gaat-af-bij-geparkeerde-auto-in-eindhoven-politie-doet-onderzoek.html": {
    "titel": "Explosief gaat af bij geparkeerde auto in Eindhoven, politie doet onderzoek",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108644097/explosief-gaat-af-bij-geparkeerde-auto-in-eindhoven-politie-doet-onderzoek.html",
@@ -3807,8 +3824,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:58"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640315/bebloed-slachtoffer-loopt-door-eindhoven-centraal-na-steekpartij.html": {
    "titel": "Bebloed slachtoffer loopt door Eindhoven Centraal na steekpartij",
@@ -9020,23 +9036,6 @@
    "prio": false,
    "tijd": "17-11 01:08"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126004201a2astenrit136848": {
-   "titel": "A2 Asten Rit: 136848",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126004201a2astenrit136848",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T00:42:01+01:00",
-   "eerst_gezien": "2026-11-16T23:56:14.252126+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 00:42"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
@@ -11019,7 +11018,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
