@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 15:17",
+ "bijgewerkt": "19-11-2026 15:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
    "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
@@ -885,6 +885,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 11:42"
+  },
+  "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
+   "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
+   "link": "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/",
+   "tekst": "Ze wachten al jaren om de eerste steen te leggen, de bouwers van woningen aan de zuidkant van Vlierden. Maar mogelijke overlast van blaffende honden blijft vooralsnog een sta-in-de-weg. De Raad van State is nu aan zet.",
+   "datum": "2026-11-19T14:30:38+00:00",
+   "eerst_gezien": "2026-11-19T14:33:28.927997+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 15:30"
   },
   "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
    "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
@@ -2503,23 +2520,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 18:03"
-  },
-  "https://www.asten.nl/nieuws/artikel/aanpassing-wegversmalling-meijelseweg": {
-   "titel": "Aanpassing wegversmalling Meijelseweg",
-   "link": "https://www.asten.nl/nieuws/artikel/aanpassing-wegversmalling-meijelseweg",
-   "tekst": "De wegversmalling nabij de kruising Meijelseweg-Vlinkert in Heusden wordt aangepast om de veiligheid voor fietsers te verbeteren.",
-   "datum": "2026-11-12T14:33:19+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 15:33"
   },
   "https://www.someren.nl/nieuws/artikel/stevig-blijven-staan-zodat-u-kunt-blijven-doen-wat-u-graag-doet": {
    "titel": "Stevig blijven staan, zodat u kunt blijven doen wat u graag doet!",
@@ -4272,7 +4272,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:15"
@@ -4289,7 +4289,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:07"
@@ -4809,6 +4809,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126152922a2astenrit138115": {
+   "titel": "A2 Asten Rit: 138115",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126152922a2astenrit138115",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T15:29:22+01:00",
+   "eerst_gezien": "2026-11-19T14:33:28.927997+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 15:29"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126144632a1astenrit138093": {
    "titel": "A1 Asten Rit: 138093",
@@ -8662,40 +8679,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140": {
-   "titel": "A2 Asten Rit: 137140",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126153327a2astenrit137140",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T15:33:27+01:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 15:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138": {
-   "titel": "A2 Helmond Rit: 137138",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126152912a2helmondrit137138",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T15:29:12+01:00",
-   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 15:29"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html": {
    "titel": "Proef in Brabant: is parkeren én laden op één en dezelfde laadplek een goed idee'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html",
@@ -12435,7 +12418,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "ED Deurne": {
@@ -12490,7 +12473,7 @@
   },
   "Gemeente Asten": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 5,
    "fout": ""
   },
   "Gemeente Someren": {
@@ -12540,7 +12523,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
