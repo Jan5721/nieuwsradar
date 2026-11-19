@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 08:17",
+ "bijgewerkt": "19-11-2026 08:33",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -3409,6 +3409,56 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
+   "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
+   "tekst": "",
+   "datum": "2026-11-19T07:25:11+00:00",
+   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 08:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645693/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html": {
+   "titel": "IVN Geldrop doet mee aan landelijke zoektocht naar winterbloei",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645693/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html",
+   "tekst": "",
+   "datum": "2026-11-19T07:21:38+00:00",
+   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 08:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645682/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
+   "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645682/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
+   "tekst": "",
+   "datum": "2026-11-19T07:19:03+00:00",
+   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108645659/eerste-huizen-nieuwe-geldropse-wijk-lommerrijk-in-juli-2027-klaar.html": {
    "titel": "Eerste huizen nieuwe Geldropse wijk Lommerrijk in juli 2027 klaar",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108645659/eerste-huizen-nieuwe-geldropse-wijk-lommerrijk-in-juli-2027-klaar.html",
@@ -3421,7 +3471,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 08:13"
@@ -3438,10 +3488,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645649/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet.html": {
    "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: `Want die bestaan niet`",
@@ -3455,7 +3504,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3471,7 +3520,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 08:07"
@@ -3488,7 +3537,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3504,7 +3553,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3520,7 +3569,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3638,39 +3687,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
-   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:43:18+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645317/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html": {
-   "titel": "Ombudsman TU/e ontkent betrokkenheid bij ontslagzaak, maar zat eerder als mediator wel degelijk aan tafel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645317/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:13:04+00:00",
-   "eerst_gezien": "2026-11-19T06:29:06.655569+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108642000/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk.html": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
@@ -3954,6 +3970,40 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083115ongevalwegvervoerletselburgemeesterroelslaanboer": {
+   "titel": "Ongeval wegvervoer letsel Burgemeester Roelslaan Boerenkamplaan Someren",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083115ongevalwegvervoerletselburgemeesterroelslaanboer",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-19T08:31:15+01:00",
+   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 08:31"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083100a2somerenrit137853": {
+   "titel": "A2 Someren Rit: 137853",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083100a2somerenrit137853",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T08:31:00+01:00",
+   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 08:31"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126080847a1helmondrit137840": {
    "titel": "A1 Helmond Rit: 137840",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126080847a1helmondrit137840",
@@ -3966,7 +4016,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "19-11 08:08"
@@ -4276,6 +4326,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
+   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:43:18+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645317/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html": {
+   "titel": "Ombudsman TU/e ontkent betrokkenheid bij ontslagzaak, maar zat eerder als mediator wel degelijk aan tafel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645317/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:13:04+00:00",
+   "eerst_gezien": "2026-11-19T06:29:06.655569+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108644467/jonge-nepagent-op-heterdaad-betrapt-in-woning-in-helmond-ook-twee-medeverdachten-opgepakt.html": {
    "titel": "Jonge nepagent op heterdaad betrapt in woning in Helmond, ook twee medeverdachten opgepakt",
@@ -7928,23 +8011,6 @@
    "prio": true,
    "tijd": "17-11 08:48"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126081934a2astenrit136918": {
-   "titel": "A2 Asten Rit: 136918",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126081934a2astenrit136918",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T08:19:34+01:00",
-   "eerst_gezien": "2026-11-17T07:28:57.294474+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 08:19"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html": {
    "titel": "Rechtbank legt hogere celstraf op voor woningovervallen Zijtaart en Sint-Oedenrode",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html",
@@ -10296,7 +10362,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -10316,7 +10382,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 20,
    "fout": ""
   },
   "112Brabant": {
