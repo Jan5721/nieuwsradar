@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 16:57",
+ "bijgewerkt": "19-11-2026 17:13",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
    "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
@@ -886,6 +886,23 @@
    "prio": false,
    "tijd": "13-11 11:42"
   },
+  "https://www.ed.nl/someren/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt~abdaca8d/": {
+   "titel": "Vier jaar stallen leeg, nu toch weer varkens in Lierop? Niet als het aan Animal Rights ligt",
+   "link": "https://www.ed.nl/someren/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt~abdaca8d/",
+   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. ‘Er ligt een kwetsbaar natuurgebied in de buurt’.",
+   "datum": "2026-11-19T16:00:51+00:00",
+   "eerst_gezien": "2026-11-19T16:12:40.144931+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 17:00"
+  },
   "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/": {
    "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door ‘zware blaffers’",
    "link": "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/",
@@ -987,23 +1004,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 08:00"
-  },
-  "https://www.ed.nl/helmond/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond~a5a9470e/": {
-   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
-   "link": "https://www.ed.nl/helmond/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond~a5a9470e/",
-   "tekst": "Alzheimer Café zuidoost Brabant sluit het jaar af met een bijeenkomst in Helmond. Donderdag 17 december is de feestelijke jaarafsluiting van 19.30 tot 21.00 uur in Wijkhuis Westwijzer aan de Cortenbachstraat 70.",
-   "datum": "2026-11-19T06:39:00+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:39"
   },
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -1996,7 +1996,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne": {
    "titel": "Vispassage gepland in Asten en Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne",
-   "tekst": "vrijdag De gemeenten Asten en Deurne hebben een vergunning verleend voor het aanleggen van een vispassage. Het gaat om percelen die kadastraal bekend zijn in beide plaatsen.",
+   "tekst": "13 november 2026 De gemeenten Asten en Deurne hebben een vergunning verleend voor het aanleggen van een vispassage. Het gaat om percelen die kadastraal bekend zijn in beide plaatsen.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2236,7 +2236,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034675/someren-verbiedt-eigen-straatnaamborden-en-huisnummerborden": {
    "titel": "Someren verbiedt eigen straatnaamborden en huisnummerborden",
    "link": "https://www.omroepbrabant.nl/nieuws/6034675/someren-verbiedt-eigen-straatnaamborden-en-huisnummerborden",
-   "tekst": "vrijdag De gemeente Someren heeft besloten dat eigen straatnaamborden en huisnummerborden niet langer mogen worden opgehangen zonder toestemming van het college. Vanaf de inwerkingtreding van de nieuwe regels mogen borden niet afwijken van …",
+   "tekst": "13 november 2026 De gemeente Someren heeft besloten dat eigen straatnaamborden en huisnummerborden niet langer mogen worden opgehangen zonder toestemming van het college. Vanaf de inwerkingtreding van de nieuwe regels mogen borden niet …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4278,6 +4278,39 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650176/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt.html": {
+   "titel": "Vier jaar stallen leeg, nu toch weer varkens in Lierop' Niet als het aan Animal Rights ligt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650176/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt.html",
+   "tekst": "",
+   "datum": "2026-11-19T16:07:25+00:00",
+   "eerst_gezien": "2026-11-19T16:12:40.144931+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650113/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html": {
+   "titel": "Bijna alle internationals terug bij FC Dordrecht voor duel met Helmond Sport",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650113/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html",
+   "tekst": "",
+   "datum": "2026-11-19T16:04:08+00:00",
+   "eerst_gezien": "2026-11-19T16:12:40.144931+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 17:04"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108649810/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html": {
    "titel": "Grootschalige oefening op Eindhoven Airport: hoe opereren hulpdiensten als het een keer echt fout gaat'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108649810/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html",
@@ -4492,23 +4525,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648925/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
-   "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648925/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:49:05+00:00",
-   "eerst_gezien": "2026-11-19T14:01:15.341513+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -4758,6 +4774,23 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126170908a2helmondrit138157": {
+   "titel": "A2 Helmond Rit: 138157",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126170908a2helmondrit138157",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T17:09:08+01:00",
+   "eerst_gezien": "2026-11-19T16:12:40.144931+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 17:09"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126165313a2helmondrit138148": {
    "titel": "A2 Helmond Rit: 138148",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126165313a2helmondrit138148",
@@ -4770,7 +4803,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 16:53"
@@ -4787,7 +4820,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 16:49"
@@ -4804,7 +4837,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 16:46"
@@ -5217,23 +5250,6 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126233251a2helmondrit137743": {
-   "titel": "A2 Helmond Rit: 137743",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126233251a2helmondrit137743",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T23:32:51+01:00",
-   "eerst_gezien": "2026-11-18T22:42:51.129095+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 23:32"
-  },
   "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
    "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
    "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
@@ -5250,6 +5266,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/helmond/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond~a5a9470e/": {
+   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
+   "link": "https://www.ed.nl/helmond/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond~a5a9470e/",
+   "tekst": "Alzheimer Café zuidoost Brabant sluit het jaar af met een bijeenkomst in Helmond. Donderdag 17 december is de feestelijke jaarafsluiting van 19.30 tot 21.00 uur in Wijkhuis Westwijzer aan de Cortenbachstraat 70.",
+   "datum": "2026-11-19T06:39:00+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648925/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
+   "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648925/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:49:05+00:00",
+   "eerst_gezien": "2026-11-19T14:01:15.341513+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:49"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126233251a2helmondrit137743": {
+   "titel": "A2 Helmond Rit: 137743",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126233251a2helmondrit137743",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T23:32:51+01:00",
+   "eerst_gezien": "2026-11-18T22:42:51.129095+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 23:32"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html": {
    "titel": "Twee aanhoudingen bij politie-inval in kapsalon in Eindhoven",
@@ -12770,7 +12837,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
