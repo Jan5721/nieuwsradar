@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 13:40",
+ "bijgewerkt": "19-11-2026 13:57",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia": {
    "titel": "SV Deurne wil koppositie verstevigen tegen opgeleefd Limburgia",
@@ -868,23 +868,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 11:42"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64629/ommelse-in-de-race-voor-plek-in-provinciale-staten-brabant-is": {
-   "titel": "Ommelse in de race voor plek in Provinciale Staten: ‘Brabant is meer dan de grote steden’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64629/ommelse-in-de-race-voor-plek-in-provinciale-staten-brabant-is",
-   "tekst": "OMMEL - Nu nog burgercommissielid in de gemeente Asten, maar straks misschien (ook) lid van de Provinciale Staten van Noord-Brabant. Gemke van Houts-Sauvé uit Ommel staat op plek vier van de kandidatenlijst van Lokaal Brabant. \"Onze dorpen, kleine kernen en lokale gemeenschappen …",
-   "datum": "2026-11-12T13:42:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 13:42"
   },
   "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
    "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
@@ -1894,23 +1877,6 @@
    "titel": "Werkzaamheden aan asfaltdrempels in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6033775/werkzaamheden-aan-asfaltdrempels-in-deurne",
    "tekst": "5 november 2026 In Deurne worden van vrijdag 20 november tot en met dinsdag 1 december diverse asfaltdrempels aangelegd en hersteld. Dit gebeurt om de verkeersveiligheid te verbeteren. Tijdens de werkzaamheden zijn de betreffende wegen …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033736/toon-van-duynhoven-krijgt-koninklijke-onderscheiding": {
-   "titel": "Toon van Duynhoven krijgt koninklijke onderscheiding",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033736/toon-van-duynhoven-krijgt-koninklijke-onderscheiding",
-   "tekst": "5 november 2026 Toon van Duynhoven uit Liessel heeft een koninklijke onderscheiding ontvangen. Hij is benoemd tot Lid in de Orde van Oranje-Nassau. Burgemeester Greet Buter reikte de onderscheiding uit in gemeenschapshuis De Kastanje. Dit …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4289,7 +4255,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:31"
@@ -4306,7 +4272,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:31"
@@ -4323,7 +4289,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:29"
@@ -4340,7 +4306,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5231,6 +5197,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 18:04"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033736/toon-van-duynhoven-krijgt-koninklijke-onderscheiding": {
+   "titel": "Toon van Duynhoven krijgt koninklijke onderscheiding",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033736/toon-van-duynhoven-krijgt-koninklijke-onderscheiding",
+   "tekst": "5 november 2026 Toon van Duynhoven uit Liessel heeft een koninklijke onderscheiding ontvangen. Hij is benoemd tot Lid in de Orde van Oranje-Nassau. Burgemeester Greet Buter reikte de onderscheiding uit in gemeenschapshuis De Kastanje. Dit …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647867/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html": {
    "titel": "BRIEVEN I `Wat een kinderachtig gesteggel altijd in de Tweede Kamer`",
@@ -12173,7 +12156,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -12213,7 +12196,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 22,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
