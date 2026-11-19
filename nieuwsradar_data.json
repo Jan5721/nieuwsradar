@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 21:00",
+ "bijgewerkt": "19-11-2026 21:16",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -915,7 +915,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 19:30"
@@ -988,23 +988,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:00"
-  },
-  "https://www.ed.nl/helmond/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen~a3fe26df/": {
-   "titel": "Bibliotheek Helmond-Peel biedt ruimte voor gesprek over verslavingsproblemen",
-   "link": "https://www.ed.nl/helmond/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen~a3fe26df/",
-   "tekst": "De vierde bijeenkomst van Kop en Koffie staat in het teken van steun voor naasten van mensen met verslavingsproblemen. Dinsdag 1 december begint de avond om 19.30 uur in Bibliotheek Helmond-Peel aan de Watermolenwal 11 in Helmond.",
-   "datum": "2026-11-19T08:54:00+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:54"
   },
   "https://www.ed.nl/deurne/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne~a0c6f3b5/": {
    "titel": "Bandeville eert Willy DeVille met concert in Cultuurcentrum Deurne",
@@ -4262,6 +4245,72 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651790/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html": {
+   "titel": "Automobiliste (55) zag 87-jarige fietser over het hoofd in Son en Breugel: `Verschrikkelijk dat meneer nu in een rolstoel...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651790/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:13:05+00:00",
+   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 21:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651758/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651758/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:11:34+00:00",
+   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651740/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html": {
+   "titel": "Automobiliste (55) zag 87-jarige fietser over het hoofd in Son en Breugel: `Verschrikkelijk dat meneer nu in een rolstoel...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651740/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:07:22+00:00",
+   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651695/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html": {
+   "titel": "Margriet (65) neemt na 42 jaar afscheid van Kafee Kix op Stratumseind: `Ik ben wel toe aan mijn pensioen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651695/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:01:05+00:00",
+   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 21:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651655/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651655/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
@@ -4274,7 +4323,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4290,10 +4339,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 20:55"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651631/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
@@ -4307,7 +4355,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4425,55 +4473,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651418/margriet-vos-gaat-met-pensioen-na-42-jaar-kafee-kix-straks-plaatjes-draaien-met-een-advocaatje-met-slagroom.html": {
-   "titel": "Margriet Vos gaat met pensioen na 42 jaar Kafee Kix: `Straks plaatjes draaien met een advocaatje met slagroom`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651418/margriet-vos-gaat-met-pensioen-na-42-jaar-kafee-kix-straks-plaatjes-draaien-met-een-advocaatje-met-slagroom.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:07:27+00:00",
-   "eerst_gezien": "2026-11-19T19:11:32.171421+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651389/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
-   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651389/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:04:19+00:00",
-   "eerst_gezien": "2026-11-19T19:11:32.171421+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651308/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html": {
-   "titel": "Vakbonden zoeken opnieuw contact met ASML na vastgelopen reorganisatie: `We moeten het vertrouwen herstellen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651308/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:49:06+00:00",
-   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
@@ -5266,6 +5265,72 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/helmond/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen~a3fe26df/": {
+   "titel": "Bibliotheek Helmond-Peel biedt ruimte voor gesprek over verslavingsproblemen",
+   "link": "https://www.ed.nl/helmond/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen~a3fe26df/",
+   "tekst": "De vierde bijeenkomst van Kop en Koffie staat in het teken van steun voor naasten van mensen met verslavingsproblemen. Dinsdag 1 december begint de avond om 19.30 uur in Bibliotheek Helmond-Peel aan de Watermolenwal 11 in Helmond.",
+   "datum": "2026-11-19T08:54:00+00:00",
+   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:54"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651418/margriet-vos-gaat-met-pensioen-na-42-jaar-kafee-kix-straks-plaatjes-draaien-met-een-advocaatje-met-slagroom.html": {
+   "titel": "Margriet Vos gaat met pensioen na 42 jaar Kafee Kix: `Straks plaatjes draaien met een advocaatje met slagroom`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651418/margriet-vos-gaat-met-pensioen-na-42-jaar-kafee-kix-straks-plaatjes-draaien-met-een-advocaatje-met-slagroom.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:07:27+00:00",
+   "eerst_gezien": "2026-11-19T19:11:32.171421+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651389/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
+   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651389/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:04:19+00:00",
+   "eerst_gezien": "2026-11-19T19:11:32.171421+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651308/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html": {
+   "titel": "Vakbonden zoeken opnieuw contact met ASML na vastgelopen reorganisatie: `We moeten het vertrouwen herstellen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651308/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html",
+   "tekst": "",
+   "datum": "2026-11-19T18:49:06+00:00",
+   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 19:49"
   },
   "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
    "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
@@ -11581,23 +11646,6 @@
    "prio": false,
    "tijd": "17-11 11:43"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108581628/sportschool-in-zeilbergse-kerk-schrikt-van-mogelijke-komst-buurthuis-we-hebben-flink-geinvesteerd.html": {
-   "titel": "Sportschool in Zeilbergse kerk schrikt van mogelijke komst buurthuis: `We hebben flink geïnvesteerd`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108581628/sportschool-in-zeilbergse-kerk-schrikt-van-mogelijke-komst-buurthuis-we-hebben-flink-geinvesteerd.html",
-   "tekst": "",
-   "datum": "2026-11-12T20:13:05+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 21:13"
-  },
   "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/": {
    "titel": "Gratis kerstmarkt in Helmond voor minima: Samantha’s hondjes lopen er nu ook kerstig bij",
    "link": "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/",
@@ -13297,7 +13345,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 6,
    "fout": ""
   },
   "ED Deurne": {
@@ -13382,7 +13430,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
