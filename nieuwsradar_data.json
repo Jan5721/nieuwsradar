@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 00:29",
+ "bijgewerkt": "20-11-2026 00:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -4229,6 +4229,39 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
+   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
+   "tekst": "",
+   "datum": "2026-11-19T23:42:09+00:00",
+   "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 00:42"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108655648/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655648/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T23:42:08+00:00",
+   "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
@@ -4293,8 +4326,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 23:15"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108652974/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
@@ -4465,22 +4497,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651655/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
    "tekst": "",
    "datum": "2026-11-19T19:58:14+00:00",
-   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651644/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html": {
-   "titel": "Margriet (65) neemt na 42 jaar afscheid van Kafee Kix op Stratumseind: `Ik ben wel toe aan mijn pensioen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651644/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:55:05+00:00",
    "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -5216,6 +5232,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651644/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html": {
+   "titel": "Margriet (65) neemt na 42 jaar afscheid van Kafee Kix op Stratumseind: `Ik ben wel toe aan mijn pensioen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651644/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:55:05+00:00",
+   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651631/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
@@ -13545,7 +13577,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
