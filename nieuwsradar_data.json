@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 04:32",
+ "bijgewerkt": "19-11-2026 04:48",
  "items": {
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -1757,6 +1757,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -4399,23 +4416,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 09:14"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126090140a2liesselrit137378": {
    "titel": "A2 Liessel Rit: 137378",
@@ -9958,9 +9958,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "ParseError: no element found: line 2, column 0"
+   "ok": true,
+   "aantal": 1,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
