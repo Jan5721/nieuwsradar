@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 06:09",
+ "bijgewerkt": "19-11-2026 06:25",
  "items": {
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -1216,23 +1216,6 @@
    "titel": "Rioolwerkzaamheden Spoorlaan in Deurne zorgen voor afsluitingen",
    "link": "https://www.omroepbrabant.nl/nieuws/6033641/rioolwerkzaamheden-spoorlaan-in-deurne-zorgen-voor-afsluitingen",
    "tekst": "5 november 2026 De Spoorlaan in Deurne gaat op zaterdag 14 november en maandag 16 en dinsdag 17 november tijdelijk dicht vanwege rioolwerkzaamheden. De straat wordt deels of volledig afgesloten, afhankelijk van de dag. Verkeer wordt …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033604/stroomstoring-in-deurne-herstel-verwacht-rond-tien-uur": {
-   "titel": "Stroomstoring in Deurne, herstel verwacht rond tien uur",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033604/stroomstoring-in-deurne-herstel-verwacht-rond-tien-uur",
-   "tekst": "5 november 2026 De stroomstoring in Deurne is voorbij. Minder dan 25 adressen zaten sinds vanochtend zes uur zonder stroom. De storing was rond twintig voor twaalf verholpen.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -3107,39 +3090,22 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
-  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
-   "titel": "Man aangehouden na mogelijk steekincident in appartement",
-   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
-   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
-   "datum": "2026-11-18T18:09:03+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "112Brabant",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126061734a2helmondrit137816": {
+   "titel": "A2 Helmond Rit: 137816",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126061734a2helmondrit137816",
+   "tekst": "Ambulance 22-114 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T06:17:34+01:00",
+   "eerst_gezien": "2026-11-19T05:24:45.836116+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "112-nieuws",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "18-11 19:09"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
+   "tijd": "19-11 06:17"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126031028a1helmondrit137797": {
    "titel": "A1 Helmond Rit: 137797",
@@ -3497,6 +3463,57 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 09:28"
+  },
+  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
+   "titel": "Man aangehouden na mogelijk steekincident in appartement",
+   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
+   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
+   "datum": "2026-11-18T18:09:03+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:09"
+  },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033604/stroomstoring-in-deurne-herstel-verwacht-rond-tien-uur": {
+   "titel": "Stroomstoring in Deurne, herstel verwacht rond tien uur",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033604/stroomstoring-in-deurne-herstel-verwacht-rond-tien-uur",
+   "tekst": "5 november 2026 De stroomstoring in Deurne is voorbij. Minder dan 25 adressen zaten sinds vanochtend zes uur zonder stroom. De storing was rond twintig voor twaalf verholpen.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
   },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -9910,7 +9927,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 26,
+   "aantal": 25,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -9985,7 +10002,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
