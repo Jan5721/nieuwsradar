@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 19:06",
+ "bijgewerkt": "19-11-2026 19:22",
  "items": {
   "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
    "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
@@ -3360,12 +3360,12 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
    "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
    "tekst": "",
-   "datum": "2026-11-19T18:01:05+00:00",
-   "eerst_gezien": "2026-11-19T18:05:49.437901+00:00",
+   "datum": "2026-11-19T18:07:23+00:00",
+   "eerst_gezien": "2026-11-19T18:21:50.417573+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -3375,7 +3375,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "19-11 19:01"
+   "tijd": "19-11 19:07"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650857/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html": {
    "titel": "`Game-griep` om GTA 6 te spelen blijft uit in Veghel: `Ik moest naar school van mijn moeder`",
@@ -4383,23 +4383,6 @@
    "prio": true,
    "tijd": "19-11 03:10"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126023042a2helmondrit137789": {
-   "titel": "A2 Helmond Rit: 137789",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126023042a2helmondrit137789",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T02:30:42+01:00",
-   "eerst_gezien": "2026-11-19T01:39:06.666276+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 02:30"
-  },
   "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
    "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
    "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
@@ -4416,6 +4399,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
+   "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
+   "tekst": "",
+   "datum": "2026-11-19T18:01:05+00:00",
+   "eerst_gezien": "2026-11-19T18:05:49.437901+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 19:01"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126023042a2helmondrit137789": {
+   "titel": "A2 Helmond Rit: 137789",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126023042a2helmondrit137789",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T02:30:42+01:00",
+   "eerst_gezien": "2026-11-19T01:39:06.666276+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 02:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108649554/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html": {
    "titel": "Hek definitief op slot bij Voedselbos Eindhoven: `Ontzettend jammer, ik heb vier maanden m`n stinkende best gedaan`",
@@ -13092,7 +13109,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
