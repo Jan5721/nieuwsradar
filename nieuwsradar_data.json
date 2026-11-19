@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 10:42",
+ "bijgewerkt": "19-11-2026 10:59",
  "items": {
   "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
    "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
@@ -56,7 +56,7 @@
    "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: ‘Want die bestaan niet’",
    "link": "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/",
    "tekst": "De eerste bezoekers van het Kasteel van Sinterklaas in Helmond laten zich niet zomaar foppen. „Waarom is mijn tekening opgehaald, maar heb ik nog geen cadeau gehad?” De vraag komt van een kritische jongen met een groen pietenmutsje op.",
-   "datum": "2026-11-19T07:00:17+00:00",
+   "datum": "2026-11-19T07:00:00+00:00",
    "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -241,23 +241,6 @@
    "prio": false,
    "tijd": "18-11 14:39"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
-   "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
-   "tekst": "Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij. In een van de appartementen zou zich aan het begin van de avond iets hebben afgespeeld. Wat daar precies …",
-   "datum": "2026-11-18T17:50:41+00:00",
-   "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 18:50"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond": {
    "titel": "Extra woning en samengevoegde winkels aan Heistraat in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond",
@@ -274,6 +257,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:09"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
+   "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
+   "tekst": "Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij.",
+   "datum": "2026-11-18T19:29:40.285438+00:00",
+   "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 20:29"
   },
   "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
    "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
@@ -1454,7 +1454,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034619/huiskamerproject-de-einder-bestaat-twintig-jaar": {
    "titel": "Huiskamerproject De Einder bestaat twintig jaar",
    "link": "https://www.omroepbrabant.nl/nieuws/6034619/huiskamerproject-de-einder-bestaat-twintig-jaar",
-   "tekst": "donderdag Het huiskamerproject De Einder in Someren-Eind bestaat twintig jaar. Het initiatief begon in 2006 met vijftien deelnemers en is uitgegroeid tot een vertrouwde ontmoetingsplek. De bijeenkomsten worden vanaf het nieuwe jaar …",
+   "tekst": "12 november 2026 Het huiskamerproject De Einder in Someren-Eind bestaat twintig jaar. Het initiatief begon in 2006 met vijftien deelnemers en is uitgegroeid tot een vertrouwde ontmoetingsplek. De bijeenkomsten worden vanaf het nieuwe jaar …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -1620,40 +1620,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033698/stroomstoring-in-someren": {
-   "titel": "Stroomstoring in Someren",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033698/stroomstoring-in-someren",
-   "tekst": "5 november 2026 De stroomstoring in Someren is voorbij. Minder dan 25 adressen zaten sinds vanochtend zonder stroom. De storing begon om tien over half elf en was om vijf over half twaalf verholpen.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -3530,6 +3496,40 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108646734/bloedende-man-21-aangehouden-op-eindhoven-centraal-blijkt-zichzelf-verwond-te-hebben.html": {
+   "titel": "Bloedende man (21) aangehouden op Eindhoven Centraal: blijkt zichzelf verwond te hebben",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646734/bloedende-man-21-aangehouden-op-eindhoven-centraal-blijkt-zichzelf-verwond-te-hebben.html",
+   "tekst": "",
+   "datum": "2026-11-19T09:49:07+00:00",
+   "eerst_gezien": "2026-11-19T09:58:18.017960+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108646732/avonturier-met-kunst-en-ruimte-vier-boeken-onthullen-het-eigenzinnige-universum-van-avonturier-jan-doms.html": {
+   "titel": "`Avonturier met kunst en ruimte`; vier boeken onthullen het eigenzinnige universum van avonturier Jan Doms",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646732/avonturier-met-kunst-en-ruimte-vier-boeken-onthullen-het-eigenzinnige-universum-van-avonturier-jan-doms.html",
+   "tekst": "",
+   "datum": "2026-11-19T09:49:05+00:00",
+   "eerst_gezien": "2026-11-19T09:58:18.017960+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 10:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108646465/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html": {
    "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108646465/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html",
@@ -3742,39 +3742,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 08:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645682/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
-   "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645682/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:19:03+00:00",
-   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645659/eerste-huizen-nieuwe-geldropse-wijk-lommerrijk-in-juli-2027-klaar.html": {
-   "titel": "Eerste huizen nieuwe Geldropse wijk Lommerrijk in juli 2027 klaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645659/eerste-huizen-nieuwe-geldropse-wijk-lommerrijk-in-juli-2027-klaar.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:13:09+00:00",
-   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108642000/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk.html": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
@@ -4054,7 +4021,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 10:36"
@@ -4071,7 +4038,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 10:34"
@@ -4382,6 +4349,90 @@
    "prio": true,
    "tijd": "18-11 16:16"
   },
+  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
+   "titel": "Man aangehouden na mogelijk steekincident in appartement",
+   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
+   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
+   "datum": "2026-11-18T18:09:03+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:09"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033698/stroomstoring-in-someren": {
+   "titel": "Stroomstoring in Someren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033698/stroomstoring-in-someren",
+   "tekst": "5 november 2026 De stroomstoring in Someren is voorbij. Minder dan 25 adressen zaten sinds vanochtend zonder stroom. De storing begon om tien over half elf en was om vijf over half twaalf verholpen.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645682/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
+   "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645682/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
+   "tekst": "",
+   "datum": "2026-11-19T07:19:03+00:00",
+   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645659/eerste-huizen-nieuwe-geldropse-wijk-lommerrijk-in-juli-2027-klaar.html": {
+   "titel": "Eerste huizen nieuwe Geldropse wijk Lommerrijk in juli 2027 klaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645659/eerste-huizen-nieuwe-geldropse-wijk-lommerrijk-in-juli-2027-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-19T07:13:09+00:00",
+   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 08:13"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143146a2helmondrit137552": {
    "titel": "A2 Helmond Rit: 137552",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143146a2helmondrit137552",
@@ -4415,23 +4466,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "18-11 14:30"
-  },
-  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
-   "titel": "Man aangehouden na mogelijk steekincident in appartement",
-   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
-   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
-   "datum": "2026-11-18T18:09:03+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 19:09"
   },
   "https://www.ed.nl/asten/mantelzorgers-in-asten-maken-decoratie-tijdens-creatieve-mantel-uit-dag~a535803b/": {
    "titel": "Mantelzorgers in Asten maken decoratie tijdens creatieve mantel-uit-dag",
@@ -9038,23 +9072,6 @@
    "prio": false,
    "tijd": "17-11 11:13"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126104955a2helmondrit137013": {
-   "titel": "A2 Helmond Rit: 137013",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126104955a2helmondrit137013",
-   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T10:49:55+01:00",
-   "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 10:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html": {
    "titel": "Wendy en Youri (19) nemen slagerij over: ´Vrienden vinden ons gek´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html",
@@ -11685,12 +11702,12 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -11705,13 +11722,13 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 1,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -11770,7 +11787,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 20,
    "fout": ""
   },
   "112Brabant": {
