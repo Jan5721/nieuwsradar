@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 01:03",
+ "bijgewerkt": "19-11-2026 01:19",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -3477,6 +3477,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108644467/jonge-nepagent-op-heterdaad-betrapt-in-woning-in-helmond-ook-twee-medeverdachten-opgepakt.html": {
+   "titel": "Jonge nepagent op heterdaad betrapt in woning in Helmond, ook twee medeverdachten opgepakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108644467/jonge-nepagent-op-heterdaad-betrapt-in-woning-in-helmond-ook-twee-medeverdachten-opgepakt.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:12:11+00:00",
+   "eerst_gezien": "2026-11-19T00:18:52.841888+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:12"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108644275/aangehouden-man-in-helmond-vrijgelaten-geen-sprake-van-steekincident.html": {
    "titel": "Aangehouden man in Helmond vrijgelaten: geen sprake van steekincident",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108644275/aangehouden-man-in-helmond-vrijgelaten-geen-sprake-van-steekincident.html",
@@ -3725,22 +3742,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 20:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640283/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html": {
-   "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640283/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html",
-   "tekst": "",
-   "datum": "2026-11-18T19:49:06+00:00",
-   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -4037,7 +4038,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -4398,6 +4399,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108640283/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html": {
+   "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640283/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html",
+   "tekst": "",
+   "datum": "2026-11-18T19:49:06+00:00",
+   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640038/kledingbank-wil-af-van-slechte-kleding-mensen-bewust-maken-van-wat-ze-doneren.html": {
    "titel": "Kledingbank wil af van slechte kleding: `Mensen bewust maken van wat ze doneren`",
@@ -7999,23 +8016,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "17-11 01:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126010800a2heusdenastenrit136857": {
-   "titel": "A2 Heusden Asten Rit: 136857",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126010800a2heusdenastenrit136857",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T01:08:00+01:00",
-   "eerst_gezien": "2026-11-17T00:28:39.249998+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 01:08"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
