@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "19-11-2026 19:22",
+ "bijgewerkt": "19-11-2026 19:39",
  "items": {
+  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/": {
+   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
+   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/",
+   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
+   "datum": "2026-11-19T18:30:38+00:00",
+   "eerst_gezien": "2026-11-19T18:37:47.746384+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 19:30"
+  },
   "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
    "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
    "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
@@ -121,23 +138,6 @@
    "prio": false,
    "tijd": "19-11 08:00"
   },
-  "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
-   "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
-   "link": "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/",
-   "tekst": "De brieven aan ouders van overlastgevende fatbiketieners in Brandevoort lijken effect te hebben. De overlast nam de afgelopen drie weken fors af, blijkt uit meldingen bij de gemeente en politie. Toch blijft Helmonds burgemeester Sjoerd Potters voorzichtig: „Het is een …",
-   "datum": "2026-11-18T19:30:00+00:00",
-   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:30"
-  },
   "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/": {
    "titel": "Jan Paagman Sterrenwacht houdt publieksavond in Asten",
    "link": "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/",
@@ -154,6 +154,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:12"
+  },
+  "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
+   "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
+   "link": "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/",
+   "tekst": "De brieven aan ouders van overlastgevende fatbiketieners in Brandevoort lijken effect te hebben. De overlast nam de afgelopen drie weken fors af, blijkt uit meldingen bij de gemeente en politie. Toch blijft Helmonds burgemeester Sjoerd Potters voorzichtig: „Het is een …",
+   "datum": "2026-11-18T19:30:00+00:00",
+   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 20:30"
   },
   "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne": {
    "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
@@ -1501,40 +1518,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 10:12"
-  },
-  "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
-   "titel": "Verkeersveiligheid begint met zichtbaarheid",
-   "link": "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid",
-   "tekst": "",
-   "datum": "2026-11-16T00:00:00+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen": {
-   "titel": "Deurne wint NK Tegelwippen in de Brabantse Peeldorpen",
-   "link": "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen",
-   "tekst": "",
-   "datum": "2026-11-16T00:00:00+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 01:00"
   },
   "https://www.asten.nl/nieuws/artikel/blog-40-een-inkijkje-in-het-werkleven-van-de-burgemeester": {
    "titel": "Blog 40: Een inkijkje in het werkleven van de burgemeester",
@@ -3360,6 +3343,22 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
+   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
+   "tekst": "",
+   "datum": "2026-11-19T18:34:04+00:00",
+   "eerst_gezien": "2026-11-19T18:37:47.746384+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
    "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
@@ -3372,7 +3371,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 19:07"
@@ -3569,38 +3568,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649768/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html": {
-   "titel": "Grootschalige oefening op Eindhoven Airport: hoe opereren hulpdiensten als het een keer echt fout gaat'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649768/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html",
-   "tekst": "",
-   "datum": "2026-11-19T15:25:18+00:00",
-   "eerst_gezien": "2026-11-19T15:40:31.516609+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649738/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers.html": {
-   "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door `zware blaffers`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649738/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers.html",
-   "tekst": "",
-   "datum": "2026-11-19T15:21:34+00:00",
-   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -4399,6 +4366,72 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
+   "titel": "Verkeersveiligheid begint met zichtbaarheid",
+   "link": "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid",
+   "tekst": "",
+   "datum": "2026-11-16T00:00:00+00:00",
+   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen": {
+   "titel": "Deurne wint NK Tegelwippen in de Brabantse Peeldorpen",
+   "link": "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen",
+   "tekst": "",
+   "datum": "2026-11-16T00:00:00+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649768/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html": {
+   "titel": "Grootschalige oefening op Eindhoven Airport: hoe opereren hulpdiensten als het een keer echt fout gaat'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649768/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html",
+   "tekst": "",
+   "datum": "2026-11-19T15:25:18+00:00",
+   "eerst_gezien": "2026-11-19T15:40:31.516609+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649738/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers.html": {
+   "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door `zware blaffers`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649738/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers.html",
+   "tekst": "",
+   "datum": "2026-11-19T15:21:34+00:00",
+   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
    "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
@@ -13004,12 +13037,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 7,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "ED Asten": {
@@ -13019,7 +13052,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -13053,9 +13086,9 @@
    "fout": ""
   },
   "Gemeente Deurne": {
-   "ok": true,
-   "aantal": 2,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   "Gemeente Asten": {
    "ok": true,
@@ -13089,7 +13122,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
