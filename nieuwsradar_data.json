@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 20:44",
+ "bijgewerkt": "19-11-2026 21:00",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -903,19 +903,19 @@
    "prio": false,
    "tijd": "19-11 20:00"
   },
-  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
-   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
-   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/",
+  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/",
    "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
    "datum": "2026-11-19T18:30:00+00:00",
-   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
+   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 19:30"
@@ -4262,6 +4262,55 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651655/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651655/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:58:14+00:00",
+   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651644/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html": {
+   "titel": "Margriet (65) neemt na 42 jaar afscheid van Kafee Kix op Stratumseind: `Ik ben wel toe aan mijn pensioen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651644/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:55:05+00:00",
+   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 20:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651631/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651631/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:51:07+00:00",
+   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
    "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
@@ -4274,7 +4323,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 20:43"
@@ -4291,7 +4340,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 20:43"
@@ -4308,7 +4357,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4324,7 +4373,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4425,54 +4474,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 19:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651307/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
-   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651307/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:49:06+00:00",
-   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651280/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html": {
-   "titel": "Vakbonden zoeken opnieuw contact met ASML na vastgelopen reorganisatie: `We moeten het vertrouwen herstellen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651280/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:43:16+00:00",
-   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651279/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
-   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651279/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:43:16+00:00",
-   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
@@ -5249,23 +5250,6 @@
    "prio": false,
    "tijd": "19-11 06:17"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126031028a1helmondrit137797": {
-   "titel": "A1 Helmond Rit: 137797",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126031028a1helmondrit137797",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T03:10:28+01:00",
-   "eerst_gezien": "2026-11-19T02:11:16.673186+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "19-11 03:10"
-  },
   "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
    "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
    "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
@@ -5282,6 +5266,88 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
+   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
+   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/",
+   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
+   "datum": "2026-11-19T18:30:00+00:00",
+   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 19:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651307/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
+   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651307/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
+   "tekst": "",
+   "datum": "2026-11-19T18:49:06+00:00",
+   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651280/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html": {
+   "titel": "Vakbonden zoeken opnieuw contact met ASML na vastgelopen reorganisatie: `We moeten het vertrouwen herstellen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651280/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html",
+   "tekst": "",
+   "datum": "2026-11-19T18:43:16+00:00",
+   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651279/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
+   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651279/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
+   "tekst": "",
+   "datum": "2026-11-19T18:43:16+00:00",
+   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126031028a1helmondrit137797": {
+   "titel": "A1 Helmond Rit: 137797",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126031028a1helmondrit137797",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T03:10:28+01:00",
+   "eerst_gezien": "2026-11-19T02:11:16.673186+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "19-11 03:10"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
@@ -13336,7 +13402,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
