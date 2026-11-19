@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 20:28",
+ "bijgewerkt": "19-11-2026 20:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -915,7 +915,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 19:30"
@@ -1012,7 +1012,7 @@
    "tekst": "Bandeville geeft een concert in Cultuurcentrum Deurne met muziek van en rond Willy DeVille. Zondag 22 november begint het optreden om 15.30 uur.",
    "datum": "2026-11-19T08:37:06+00:00",
    "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Deurne"
    ],
@@ -4262,12 +4262,62 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
+   "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
    "tekst": "",
-   "datum": "2026-11-19T19:25:14+00:00",
-   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
+   "datum": "2026-11-19T19:43:16+00:00",
+   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 20:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651601/fietser-zwaargewond-nadat-automobilist-andere-auto-achtervolgt-en-crasht-in-eindhoven.html": {
+   "titel": "Fietser zwaargewond nadat automobilist andere auto achtervolgt en crasht in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651601/fietser-zwaargewond-nadat-automobilist-andere-auto-achtervolgt-en-crasht-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:43:16+00:00",
+   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 20:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651542/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
+   "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651542/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:31:04+00:00",
+   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651536/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651536/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:29:06+00:00",
+   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4290,7 +4340,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4306,7 +4356,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 20:13"
@@ -4423,40 +4473,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
-   "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:07:23+00:00",
-   "eerst_gezien": "2026-11-19T18:21:50.417573+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650857/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html": {
-   "titel": "`Game-griep` om GTA 6 te spelen blijft uit in Veghel: `Ik moest naar school van mijn moeder`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650857/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:43:14+00:00",
-   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 18:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
@@ -5266,6 +5282,56 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:25:14+00:00",
+   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
+   "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
+   "tekst": "",
+   "datum": "2026-11-19T18:07:23+00:00",
+   "eerst_gezien": "2026-11-19T18:21:50.417573+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 19:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650857/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html": {
+   "titel": "`Game-griep` om GTA 6 te spelen blijft uit in Veghel: `Ik moest naar school van mijn moeder`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650857/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html",
+   "tekst": "",
+   "datum": "2026-11-19T17:43:14+00:00",
+   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 18:43"
   },
   "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/": {
    "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
@@ -8944,23 +9010,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 14:19"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126203851a1astenrit137267": {
-   "titel": "A1 Asten Rit: 137267",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126203851a1astenrit137267",
-   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T20:38:51+01:00",
-   "eerst_gezien": "2026-11-17T19:40:14.488901+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 20:38"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108637168/vermiste-vrouw-67-uit-lieshout-dood-aangetroffen.html": {
    "titel": "Vermiste vrouw (67) uit Lieshout dood aangetroffen",
@@ -13182,12 +13231,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 7,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -13267,7 +13316,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
