@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 06:57",
+ "bijgewerkt": "19-11-2026 07:13",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -1090,23 +1090,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:05"
-  },
-  "https://www.ed.nl/helmond/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november~aa6aeca2/": {
-   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
-   "link": "https://www.ed.nl/helmond/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november~aa6aeca2/",
-   "tekst": "Het verblijf van Sinterklaas in Helmond gaat niet onopgemerkt voorbij. Dit weekend staan veel uitjes dan ook in het teken van de goedheiligman. Maar je kunt ook cultuur snuiven met een bezoekje aan een tentoonstelling of museum.",
-   "datum": "2026-11-18T09:00:00+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:00"
   },
   "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/": {
    "titel": "Museum Klok & Peel in Asten toont LEGO-lievelingsdieren van kinderen",
@@ -3460,6 +3443,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645291/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html": {
+   "titel": "Ombudsman TU/e ontkent betrokkenheid bij ontslagzaak, maar zat eerder als mediator wel degelijk aan tafel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645291/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:07:21+00:00",
+   "eerst_gezien": "2026-11-19T06:12:57.289343+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:07"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108644467/jonge-nepagent-op-heterdaad-betrapt-in-woning-in-helmond-ook-twee-medeverdachten-opgepakt.html": {
    "titel": "Jonge nepagent op heterdaad betrapt in woning in Helmond, ook twee medeverdachten opgepakt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108644467/jonge-nepagent-op-heterdaad-betrapt-in-woning-in-helmond-ook-twee-medeverdachten-opgepakt.html",
@@ -3708,23 +3708,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640315/bebloed-slachtoffer-loopt-door-eindhoven-centraal-na-steekpartij.html": {
-   "titel": "Bebloed slachtoffer loopt door Eindhoven Centraal na steekpartij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640315/bebloed-slachtoffer-loopt-door-eindhoven-centraal-na-steekpartij.html",
-   "tekst": "",
-   "datum": "2026-11-18T19:55:06+00:00",
-   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:55"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -4332,40 +4315,6 @@
    "prio": false,
    "tijd": "18-11 10:35"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405": {
-   "titel": "A2 Helmond Rit: 137405",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T10:09:07+01:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 10:09"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398": {
-   "titel": "A1 Helmond Rit: 137398",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T09:58:43+01:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "18-11 09:58"
-  },
   "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
    "titel": "Man aangehouden na mogelijk steekincident in appartement",
    "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
@@ -4399,6 +4348,74 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://www.ed.nl/helmond/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november~aa6aeca2/": {
+   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
+   "link": "https://www.ed.nl/helmond/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november~aa6aeca2/",
+   "tekst": "Het verblijf van Sinterklaas in Helmond gaat niet onopgemerkt voorbij. Dit weekend staan veel uitjes dan ook in het teken van de goedheiligman. Maar je kunt ook cultuur snuiven met een bezoekje aan een tentoonstelling of museum.",
+   "datum": "2026-11-18T09:00:00+00:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108640315/bebloed-slachtoffer-loopt-door-eindhoven-centraal-na-steekpartij.html": {
+   "titel": "Bebloed slachtoffer loopt door Eindhoven Centraal na steekpartij",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640315/bebloed-slachtoffer-loopt-door-eindhoven-centraal-na-steekpartij.html",
+   "tekst": "",
+   "datum": "2026-11-18T19:55:06+00:00",
+   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 20:55"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405": {
+   "titel": "A2 Helmond Rit: 137405",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126100907a2helmondrit137405",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T10:09:07+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 10:09"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398": {
+   "titel": "A1 Helmond Rit: 137398",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T09:58:43+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "18-11 09:58"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389": {
    "titel": "A2 Helmond Rit: 137389",
@@ -9885,7 +9902,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -9985,7 +10002,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
