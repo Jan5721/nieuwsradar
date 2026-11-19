@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "19-11-2026 08:49",
+ "bijgewerkt": "19-11-2026 09:05",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia": {
+   "titel": "SV Deurne wil koppositie verstevigen tegen opgeleefd Limburgia",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia",
+   "tekst": "DEURNE - Na het veiligstellen van de eerste periodetitel afgelopen weekend in Best, resteert er voor SV Deurne nog drie competitiewedstrijden voordat de winterstop aanbreekt. Te beginnen met een thuiswedstrijd tegen BSV Limburgia/Kamerland, dat momenteel de vierde plaats in de …",
+   "datum": "2026-11-19T08:59:00+01:00",
+   "eerst_gezien": "2026-11-19T08:05:18.197198+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 08:59"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v",
@@ -1074,23 +1091,6 @@
    "prio": false,
    "tijd": "18-11 11:30"
   },
-  "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/": {
-   "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Deurne",
-   "link": "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/",
-   "tekst": "In de afgelopen week heeft de gemeente Deurne in totaal dertien vergunningaanvragen verwerkt, waarvanin ieder geval twaalf voor Deurne. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-18T10:03:26+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:03"
-  },
   "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/": {
    "titel": "Museum Klok & Peel in Asten toont LEGO-lievelingsdieren van kinderen",
    "link": "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/",
@@ -1537,7 +1537,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034606/voet-verwen-dag-voor-dak-en-thuislozen": {
    "titel": "Voet-verwen-dag voor dak- en thuislozen",
    "link": "https://www.omroepbrabant.nl/nieuws/6034606/voet-verwen-dag-voor-dak-en-thuislozen",
-   "tekst": "donderdag Op zaterdag 14 november krijgen dak- en thuislozen gratis voetverzorging en advies. Dit gebeurt op locaties van SMO, het Leger des Heils en Care Extra.",
+   "tekst": "12 november 2026 Op zaterdag 14 november krijgen dak- en thuislozen gratis voetverzorging en advies. Dit gebeurt op locaties van SMO, het Leger des Heils en Care Extra.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -2169,7 +2169,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast": {
    "titel": "Wegversmalling Meijelseweg in Heusden wordt aangepast",
    "link": "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast",
-   "tekst": "donderdag De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
+   "tekst": "12 november 2026 De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -4309,6 +4309,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
+  },
+  "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/": {
+   "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Deurne",
+   "link": "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/",
+   "tekst": "In de afgelopen week heeft de gemeente Deurne in totaal dertien vergunningaanvragen verwerkt, waarvanin ieder geval twaalf voor Deurne. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-18T10:03:26+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:03"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462": {
    "titel": "A2 Helmond Rit: 137462",
@@ -10245,7 +10262,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 37,
    "fout": ""
   },
   "Peelbelang": {
@@ -10265,7 +10282,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
