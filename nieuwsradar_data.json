@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 08:33",
+ "bijgewerkt": "19-11-2026 08:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -3421,7 +3421,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 08:25"
@@ -3438,7 +3438,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 08:21"
@@ -3455,7 +3455,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3982,7 +3982,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 08:31"
@@ -3999,7 +3999,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 08:31"
@@ -4293,23 +4293,6 @@
    "prio": false,
    "tijd": "18-11 13:40"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462": {
-   "titel": "A2 Helmond Rit: 137462",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T11:39:07+01:00",
-   "eerst_gezien": "2026-11-18T10:47:48.985868+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 11:39"
-  },
   "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
    "titel": "Man aangehouden na mogelijk steekincident in appartement",
    "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
@@ -4326,6 +4309,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462": {
+   "titel": "A2 Helmond Rit: 137462",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T11:39:07+01:00",
+   "eerst_gezien": "2026-11-18T10:47:48.985868+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 11:39"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
    "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
@@ -7994,23 +7994,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126084833a1helmondrit136931": {
-   "titel": "A1 Helmond Rit: 136931",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126084833a1helmondrit136931",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T08:48:33+01:00",
-   "eerst_gezien": "2026-11-17T08:01:21.527676+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 08:48"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html": {
    "titel": "Rechtbank legt hogere celstraf op voor woningovervallen Zijtaart en Sint-Oedenrode",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html",
@@ -10382,7 +10365,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
