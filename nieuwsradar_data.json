@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 16:08",
+ "bijgewerkt": "19-11-2026 16:24",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
    "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
@@ -597,6 +597,23 @@
    "prio": false,
    "tijd": "12-11 18:30"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64794/in-beeld-prinsenbal-bij-de-peelvrujters": {
+   "titel": "In beeld: Prinsenbal bij De Peelvrujters",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64794/in-beeld-prinsenbal-bij-de-peelvrujters",
+   "tekst": "HEUSDEN - Het hoogtepunt was natuurlijk de onthulling van de nieuwe prins van Heusden, maar feest was het zaterdag sowieso tijdens het Prinsenbal van De Peelvrujters.",
+   "datum": "2026-11-19T16:15:00+01:00",
+   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 16:15"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64788/najaarsactie-gaat-van-start-samen-houden-we-asten-bruisend": {
    "titel": "Najaarsactie gaat van start: ‘Samen houden we Asten bruisend’",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64788/najaarsactie-gaat-van-start-samen-houden-we-asten-bruisend",
@@ -869,19 +886,19 @@
    "prio": false,
    "tijd": "13-11 11:42"
   },
-  "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
-   "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
-   "link": "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/",
+  "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/": {
+   "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door ‘zware blaffers’",
+   "link": "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/",
    "tekst": "Ze wachten al jaren om de eerste steen te leggen, de bouwers van woningen aan de zuidkant van Vlierden. Maar mogelijke overlast van blaffende honden blijft vooralsnog een sta-in-de-weg. De Raad van State is nu aan zet.",
-   "datum": "2026-11-19T14:30:38+00:00",
-   "eerst_gezien": "2026-11-19T14:33:28.927997+00:00",
+   "datum": "2026-11-19T14:30:00+00:00",
+   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:30"
@@ -915,7 +932,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:00"
@@ -1042,7 +1059,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne": {
    "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne",
-   "tekst": "De Fiscale inlichtingen- en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Een woordvoerder van het FIOD zegt dat de invallen te maken hebben met strafrechtelijk onderzoek. Het gaat om onder andere woonwagens aan de Rivierensingel …",
+   "tekst": "De Fiscale inlichtingen- en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk is of er ook mensen zijn opgepakt. Een woordvoerder van de FIOD gaat donderdag niet in op vragen over waar het onderzoek mee te maken heeft. Het …",
    "datum": "2026-11-19T14:45:00+00:00",
    "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
    "bron": "Omroep Brabant",
@@ -1052,7 +1069,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:45"
@@ -4261,12 +4278,28 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649501/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html": {
-   "titel": "Hek definitief op slot bij Voedselbos Eindhoven: `Ontzettend jammer, ik heb vier maanden m`n stinkende best gedaan`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649501/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108649738/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers.html": {
+   "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door `zware blaffers`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649738/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers.html",
    "tekst": "",
-   "datum": "2026-11-19T14:55:05+00:00",
-   "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
+   "datum": "2026-11-19T15:21:34+00:00",
+   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649554/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html": {
+   "titel": "Hek definitief op slot bij Voedselbos Eindhoven: `Ontzettend jammer, ik heb vier maanden m`n stinkende best gedaan`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649554/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html",
+   "tekst": "",
+   "datum": "2026-11-19T15:01:05+00:00",
+   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4276,7 +4309,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "19-11 15:55"
+   "tijd": "19-11 16:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108649449/transportbedrijf-dacht-slim-te-zijn-met-slapen-in-de-cabine-maar-de-raad-van-state-zet-er-een-harde-streep-door.html": {
    "titel": "Transportbedrijf dacht slim te zijn met slapen in de cabine, maar de Raad van State zet er een harde streep door",
@@ -4479,40 +4512,6 @@
    "prio": false,
    "tijd": "19-11 14:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648702/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html": {
-   "titel": "Truckers van Van Lankveld mogen niet in de cabine bij hun bedrijf slapen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648702/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:13:05+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648700/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html": {
-   "titel": "Stedelijk College opent vernieuwd schoolplein tijdens VMBO in Bedrijf-dag",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648700/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:13:05+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html",
@@ -4676,23 +4675,6 @@
    "prio": false,
    "tijd": "12-11 23:09"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html": {
-   "titel": "Graafwerk van een andere partij sloopt glasvezel in Asten-Heusden: tv, internet en vaste lijn eruit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108579297/graafwerk-van-een-andere-partij-sloopt-glasvezel-in-asten-heusden-tv-internet-en-vaste-lijn-eruit.html",
-   "tekst": "",
-   "datum": "2026-11-12T15:11:23+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 16:11"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
@@ -4790,7 +4772,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 15:53"
@@ -5219,6 +5201,74 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
+   "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
+   "link": "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/",
+   "tekst": "Ze wachten al jaren om de eerste steen te leggen, de bouwers van woningen aan de zuidkant van Vlierden. Maar mogelijke overlast van blaffende honden blijft vooralsnog een sta-in-de-weg. De Raad van State is nu aan zet.",
+   "datum": "2026-11-19T14:30:38+00:00",
+   "eerst_gezien": "2026-11-19T14:33:28.927997+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 15:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649501/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html": {
+   "titel": "Hek definitief op slot bij Voedselbos Eindhoven: `Ontzettend jammer, ik heb vier maanden m`n stinkende best gedaan`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649501/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html",
+   "tekst": "",
+   "datum": "2026-11-19T14:55:05+00:00",
+   "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 15:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648702/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html": {
+   "titel": "Truckers van Van Lankveld mogen niet in de cabine bij hun bedrijf slapen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648702/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:13:05+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648700/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html": {
+   "titel": "Stedelijk College opent vernieuwd schoolplein tijdens VMBO in Bedrijf-dag",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648700/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:13:05+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:13"
   },
   "https://www.omroepbrabant.nl/nieuws/6034451/automotive-campus-helmond-in-handen-van-provincie-en-gemeente": {
    "titel": "Automotive Campus Helmond in handen van provincie en gemeente",
@@ -12542,7 +12592,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -12637,7 +12687,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -12647,7 +12697,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "Drimble Someren": {
