@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 05:52",
+ "bijgewerkt": "19-11-2026 06:09",
  "items": {
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -3107,6 +3107,40 @@
    "prio": false,
    "tijd": "12-11 07:37"
   },
+  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
+   "titel": "Man aangehouden na mogelijk steekincident in appartement",
+   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
+   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
+   "datum": "2026-11-18T18:09:03+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:09"
+  },
+  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
+   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
+   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
+   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
+   "datum": "2026-11-18T11:17:03+00:00",
+   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 12:17"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126031028a1helmondrit137797": {
    "titel": "A1 Helmond Rit: 137797",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126031028a1helmondrit137797",
@@ -3463,40 +3497,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 09:28"
-  },
-  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
-   "titel": "Man aangehouden na mogelijk steekincident in appartement",
-   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
-   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
-   "datum": "2026-11-18T18:09:03+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 19:09"
-  },
-  "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
-   "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
-   "link": "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/",
-   "tekst": "HELMOND - Bij recyclingbedrijf Jansen in Helmond is woensdagochtend brand uitgebroken tijdens werkzaamheden. Het vuur ontstond vermoedelijk bij een gasfles die op dat moment werd gebruikt. De brand was snel onder controle. Voor zover bekend is niemand gewond geraakt.",
-   "datum": "2026-11-18T11:17:03+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:17"
   },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -9985,7 +9985,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
