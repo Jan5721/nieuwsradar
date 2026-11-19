@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 11:31",
+ "bijgewerkt": "19-11-2026 11:47",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia": {
    "titel": "SV Deurne wil koppositie verstevigen tegen opgeleefd Limburgia",
@@ -626,7 +626,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:42"
@@ -2474,23 +2474,6 @@
    "titel": "Stroomstoring in Lierop",
    "link": "https://www.omroepbrabant.nl/nieuws/6033800/stroomstoring-in-lierop",
    "tekst": "6 november 2026 De stroomstoring in Lierop is opgelost. Minder dan 25 adressen zaten sinds vanochtend vroeg zonder elektriciteit. De storing begon om kwart voor vijf en was naar verwachting opgelost om twee uur vanmiddag.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033708/28-risicos-op-inbraak-ontdekt-tijdens-actie-in-someren": {
-   "titel": "28 risico's op inbraak ontdekt tijdens actie in Someren",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033708/28-risicos-op-inbraak-ontdekt-tijdens-actie-in-someren",
-   "tekst": "5 november 2026 In Someren zijn maandagavond 28 situaties ontdekt die een verhoogd risico op inbraak opleveren. Vrijwilligers, boa’s en politie voerden een Witte Voetjes Actie uit om bewoners bewust te maken van kwetsbare plekken.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4379,12 +4362,12 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647095/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html": {
-   "titel": "Rechter zet streep door beroep van Nuenense tegenstander van azc",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647095/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108647254/door-coen-werd-het-rapport-over-de-vliegramp-in-strijp-niet-vernietigd-ruim-100-dagen-in-het-archief-met-2000-kopieen.html": {
+   "titel": "Door Coen werd het rapport over de vliegramp in Strijp niet vernietigd: `Ruim 100 dagen in het archief met 2000 kopieën...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647254/door-coen-werd-het-rapport-over-de-vliegramp-in-strijp-niet-vernietigd-ruim-100-dagen-in-het-archief-met-2000-kopieen.html",
    "tekst": "",
-   "datum": "2026-11-19T10:25:11+00:00",
-   "eerst_gezien": "2026-11-19T10:31:23.042575+00:00",
+   "datum": "2026-11-19T10:43:30+00:00",
+   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4394,7 +4377,24 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "19-11 11:25"
+   "tijd": "19-11 11:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647169/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html": {
+   "titel": "Rechter zet streep door beroep van Nuenense tegenstander van azc",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647169/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html",
+   "tekst": "",
+   "datum": "2026-11-19T10:31:04+00:00",
+   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 11:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108646997/student-stuurt-beeld-van-gewapende-mannen-na-jarenlange-intimidatie-uitgeschreven-bij-universiteiten-in-tilburg-en-eindhoven.html": {
    "titel": "Student stuurt beeld van gewapende mannen: na jarenlange intimidatie uitgeschreven bij universiteiten in Tilburg en Eindhoven",
@@ -4608,23 +4608,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646012/opknapbeurt-verandert-internationale-bushalte-van-somber-visitekaartje-in-fijn-startpunt.html": {
-   "titel": "Opknapbeurt verandert internationale bushalte van `somber visitekaartje` in fijn startpunt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646012/opknapbeurt-verandert-internationale-bushalte-van-somber-visitekaartje-in-fijn-startpunt.html",
-   "tekst": "",
-   "datum": "2026-11-19T08:13:05+00:00",
-   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108642000/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk.html": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
@@ -4891,6 +4874,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126114028a2somerenrit137980": {
+   "titel": "A2 Someren Rit: 137980",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126114028a2somerenrit137980",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T11:40:28+01:00",
+   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 11:40"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126113848a2helmondrit137974": {
+   "titel": "A2 Helmond Rit: 137974",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126113848a2helmondrit137974",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-19T11:38:48+01:00",
+   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 11:38"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126113601a2helmondrit137974": {
+   "titel": "A2 Helmond Rit: 137974",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126113601a2helmondrit137974",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T11:36:01+01:00",
+   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 11:36"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103607a2helmondrit137931": {
    "titel": "A2 Helmond Rit: 137931",
@@ -5248,6 +5282,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033708/28-risicos-op-inbraak-ontdekt-tijdens-actie-in-someren": {
+   "titel": "28 risico's op inbraak ontdekt tijdens actie in Someren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033708/28-risicos-op-inbraak-ontdekt-tijdens-actie-in-someren",
+   "tekst": "5 november 2026 In Someren zijn maandagavond 28 situaties ontdekt die een verhoogd risico op inbraak opleveren. Vrijwilligers, boa’s en politie voerden een Witte Voetjes Actie uit om bewoners bewust te maken van kwetsbare plekken.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647095/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html": {
+   "titel": "Rechter zet streep door beroep van Nuenense tegenstander van azc",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647095/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html",
+   "tekst": "",
+   "datum": "2026-11-19T10:25:11+00:00",
+   "eerst_gezien": "2026-11-19T10:31:23.042575+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 11:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108646012/opknapbeurt-verandert-internationale-bushalte-van-somber-visitekaartje-in-fijn-startpunt.html": {
+   "titel": "Opknapbeurt verandert internationale bushalte van `somber visitekaartje` in fijn startpunt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646012/opknapbeurt-verandert-internationale-bushalte-van-somber-visitekaartje-in-fijn-startpunt.html",
+   "tekst": "",
+   "datum": "2026-11-19T08:13:05+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:13"
   },
   "https://www.ed.nl/deurne/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur~a54af63e/": {
    "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
@@ -9022,40 +9107,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126114610a2astenrit137043": {
-   "titel": "A2 Asten Rit: 137043",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126114610a2astenrit137043",
-   "tekst": "Ambulance 22-114 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T11:46:10+01:00",
-   "eerst_gezien": "2026-11-17T10:59:06.828700+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 11:46"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126113851a2helmondrit137040": {
-   "titel": "A2 Helmond Rit: 137040",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126113851a2helmondrit137040",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T11:38:51+01:00",
-   "eerst_gezien": "2026-11-17T10:43:02.931022+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 11:38"
-  },
   "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/": {
    "titel": "Hallo Sint! Check hier de foto’s van de sinterklaasintocht 2026 in Helmond.",
    "link": "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/",
@@ -11756,7 +11807,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -11821,7 +11872,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
