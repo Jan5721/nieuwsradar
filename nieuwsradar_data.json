@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 09:05",
+ "bijgewerkt": "19-11-2026 09:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia": {
    "titel": "SV Deurne wil koppositie verstevigen tegen opgeleefd Limburgia",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 08:59"
@@ -920,23 +920,6 @@
    "prio": false,
    "tijd": "12-11 12:05"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64624/gratis-themabijeenkomsten-in-asten-over-schimmel-en-inzicht-i": {
-   "titel": "Gratis themabijeenkomsten in Asten over schimmel en inzicht in je energieverbruik",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64624/gratis-themabijeenkomsten-in-asten-over-schimmel-en-inzicht-i",
-   "tekst": "ASTEN - Het Energiehuis Slim Wonen houdt deze en komende maand twee gratis themabijeenkomsten. Onderwerpen zijn 'Schimmel, ventilatie en gezondheid' en 'Inzicht in je energieverbruik'.",
-   "datum": "2026-11-12T09:14:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 09:14"
-  },
   "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/": {
    "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: ‘Want die bestaan niet’",
    "link": "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/",
@@ -1090,6 +1073,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:30"
+  },
+  "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/": {
+   "titel": "Jan Paagman Sterrenwacht houdt publieksavond in Asten",
+   "link": "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/",
+   "tekst": "De Jan Paagman Sterrenwacht in Asten houdt een publieksavond met rondleiding, presentatie, planetariumvoorstelling en bezoek aan de telescoop. Vrijdag 27 november begint het programma om 19.00 uur aan de Ostaderstraat 28.",
+   "datum": "2026-11-19T08:12:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:12"
   },
   "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/": {
    "titel": "Museum Klok & Peel in Asten toont LEGO-lievelingsdieren van kinderen",
@@ -1670,10 +1670,27 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne": {
+   "titel": "Vergunning voor nieuwe kozijnen in zijgevel in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne",
+   "tekst": "",
+   "datum": "2026-11-19T08:21:25.517896+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:21"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne": {
    "titel": "Tijdelijke woonunit voor twee jaar aan Belgerenseweg in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne",
-   "tekst": "",
+   "tekst": "De gemeente Deurne heeft toestemming gegeven voor het plaatsen van een tijdelijke woonunit aan de Belgerenseweg. De woonunit mag maximaal twee jaar blijven staan.",
    "datum": "2026-11-18T09:10:50.054002+00:00",
    "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1707,7 +1724,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers": {
    "titel": "Thema-avond in Asten: steun voor mantelzorgers",
    "link": "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers",
-   "tekst": "Op dinsdag 1 december organiseert Alzheimer Café Peelland een bijeenkomst in Asten over de uitdagingen van mantelzorgers bij dementie. De avond richt zich op het herkennen van overbelasting en het inschakelen van hulp.",
+   "tekst": "dinsdag Op dinsdag 1 december organiseert Alzheimer Café Peelland een bijeenkomst in Asten over de uitdagingen van mantelzorgers bij dementie. De avond richt zich op het herkennen van overbelasting en het inschakelen van hulp.",
    "datum": "2026-11-17T18:50:55.839156+00:00",
    "eerst_gezien": "2026-11-17T18:50:55.839156+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -2832,6 +2849,121 @@
    "prio": false,
    "tijd": "17-11 08:04"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539809.html": {
+   "titel": "Aanvraag vergunning voor het plaatsen van een airco aan van Diemenstraat 36 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539809.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537769.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Moerdonksvoort te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537769.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538095.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Heiakker te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538095.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537832.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Blaakbeemden te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537832.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537598.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan 3e Haagstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537598.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538019.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Willem Prinzenstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538019.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539752.html": {
+   "titel": "Aanvraag vergunning voor het oprichten van een bedrijfshal (technisch) aan Zandstraat 39 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539752.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-527135.html": {
    "titel": "Beleidsregel bijtincidenten honden Helmond 2025",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-527135.html",
@@ -2848,6 +2980,333 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537484.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Saxofoonstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537484.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539778.html": {
+   "titel": "Aanvraag vergunning voor een onderhoudskap, het kappen van 10 bomen en knotten van 13 bomen aan Lage en Korte Geer te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539778.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539892.html": {
+   "titel": "Toestemming voor het verbouwen van 60 woningen aan diverse locaties te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539892.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537554.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Kolkbeemden te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537554.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539886.html": {
+   "titel": "Toestemming voor een tijdelijke daklozenopvang aan Jeroen Boschstraat 19 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539886.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538286.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Jan Ettenstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538286.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539607.html": {
+   "titel": "Aanvraag vergunning voor een oplegger tijdens optocht vriendengroep \"De Trekjanussen\" op 7 februari 2027 aan Prins Hendriklaan te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539607.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539924.html": {
+   "titel": "Toestemming voor het oprichten van 18 woningen tussen Dijksestraat 49 en 51, Hoge Jeeger te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539924.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537041.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Van Ommerenstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537041.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539798.html": {
+   "titel": "Aanvraag vergunning voor het plaatsen van een carport aan Hillendonk 3 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539798.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537745.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Drenthehof te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537745.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537086.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Demerstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537086.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537371.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Kasteel Noord te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537371.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-536950.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Nemerlaerhof te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-536950.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538420.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Wederhof te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538420.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537771.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Snoekstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537771.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537714.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Haaghout te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537714.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-536862.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Wachtelbeemden te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-536862.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539818.html": {
+   "titel": "Aanvraag vergunning voor het uitbreiden van een bijgebouw, plaatsen van een overkapping en bijgebouw, bijwonen (technisch) aan Doornweg 2 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539818.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538370.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Antilopelaan te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538370.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-536888.html": {
    "titel": "Erkennen woonbestemming, Gerwenseweg 70 5708EL Helmond",
@@ -2866,6 +3325,203 @@
    "prio": false,
    "tijd": "18-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539679.html": {
+   "titel": "Buiten behandeling gestelde aanvraag voor het uitbreiden van een bedrijfsruimte met appartementen aan Veestraat (oud V&D gebouw) te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539679.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-536983.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Hollandhof te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-536983.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539793.html": {
+   "titel": "Aanvraag vergunning voor het verbouwen van een sporthal aan Scheepsboulevard 11 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539793.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537924.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Johannes Vermeerlaan te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537924.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538003.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Wilhelminalaan te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538003.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539838.html": {
+   "titel": "Aanvraag vergunning voor het plaatsen van twee bijgebouwen aan Hof Bruheze 16 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539838.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537880.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Kanaaldijk N.W. te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537880.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-536876.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Iekendonksevoort te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-536876.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-536920.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Van Liemptstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-536920.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539914.html": {
+   "titel": "Toestemming voor het oprichten van een bijgebouw aan Trambrugweg 12 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539914.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539699.html": {
+   "titel": "Aanvraag vergunning voor een onderhoudskap, het kappen van 8 bomen en kandelaberen van 5 bomen aan Trambaan te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539699.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537329.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Hulshoeve te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537329.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-536711.html": {
    "titel": "Besluit tot vaststelling van de subsidieplafonds en verdeelwijze evenementen Helmond 2027",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-536711.html",
@@ -2883,6 +3539,202 @@
    "prio": false,
    "tijd": "18-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537817.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Meester Rietkerklaan te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537817.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537291.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Edelhertlaan te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537291.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537963.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Creatieveld te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537963.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539579.html": {
+   "titel": "Aanvraag vergunning voor een oplegger tijdens optocht Cv de Spekzullekes op 7 februari 2027 aan Kasteel-Traverse te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539579.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537279.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Hoboplein te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537279.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539826.html": {
+   "titel": "Aanvraag vergunning voor het wijzigen van een deel van een bedrijfspand naar een winkel aan Rooseindsestraat 97 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539826.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538340.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Zeeuwendonk te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538340.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539731.html": {
+   "titel": "Aanvraag vergunning voor de onderhoudskap van 26 bomen aan diverse locaties te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539731.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539712.html": {
+   "titel": "Aanvraag vergunning voor het uitbreiden van een bijgebouw en het plaatsen van een overkapping en bijgebouw aan Doornweg 2 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539712.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-536668.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Van Speijklaan te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-536668.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537983.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Rivierensingel te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537983.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538201.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Icarusstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538201.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-537636.html": {
    "titel": "Kennisgeving voornemen wijziging omgevingsplan hoofdstuk 21:11 - Suezlaan 7 in Deurne",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537636.html",
@@ -2899,6 +3751,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539290.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Mijnenweg 10 5758AD Neerkant",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539290.html",
+   "tekst": "het renoveren van dak en gevels",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-537599.html": {
    "titel": "Kennisgeving voornemen wijziging omgevingsplan hoofdstuk 21.12 - Bruggenseweg 12, Deurne",
@@ -3136,6 +4005,23 @@
    "prio": false,
    "tijd": "17-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539497.html": {
+   "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Korhoender 2 5754bDA Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539497.html",
+   "tekst": "het plaatsen van 2 kozijnen in de zijgevel",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-532430.html": {
    "titel": "Kennisgeving voornemen bruikleen van gemeentegrond",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-532430.html",
@@ -3324,6 +4210,23 @@
    "prio": false,
    "tijd": "16-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539612.html": {
+   "titel": "Gemeente Asten - verleende omgevingsvergunning, Zeilhoekweg 1 5725RP Heusden",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539612.html",
+   "tekst": "het afwijken van het vigerende landschappelijk inpassingsplan erfinrichting",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-531390.html": {
    "titel": "Aanvraag omgevingsvergunning Sonnehove 1 te Someren",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-531390.html",
@@ -3408,6 +4311,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
+   "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
+   "tekst": "",
+   "datum": "2026-11-19T08:19:02+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108646012/opknapbeurt-verandert-internationale-bushalte-van-somber-visitekaartje-in-fijn-startpunt.html": {
+   "titel": "Opknapbeurt verandert internationale bushalte van `somber visitekaartje` in fijn startpunt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646012/opknapbeurt-verandert-internationale-bushalte-van-somber-visitekaartje-in-fijn-startpunt.html",
+   "tekst": "",
+   "datum": "2026-11-19T08:13:05+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
    "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
@@ -3630,54 +4567,6 @@
    "tekst": "",
    "datum": "2026-11-19T06:49:05+00:00",
    "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html": {
-   "titel": "Waarom PSV gelooft dat de stadionuitbreiding haalbaar is: `Anders missen we een hele generatie supporters`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:43:19+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html": {
-   "titel": "Weet je nog' Deze `GTA`-streetart stond jarenlang op de muur in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:43:19+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html": {
-   "titel": "Harmonie Phileutonia uit Eindhoven houdt familiekerstconcert met kerstmarkt in Nuenen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:43:19+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -3969,6 +4858,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126090809a2helmondrit137874": {
+   "titel": "A2 Helmond Rit: 137874",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126090809a2helmondrit137874",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T09:08:09+01:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 09:08"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083115ongevalwegvervoerletselburgemeesterroelslaanboer": {
    "titel": "Ongeval wegvervoer letsel Burgemeester Roelslaan Boerenkamplaan Someren",
@@ -4309,6 +5215,54 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html": {
+   "titel": "Waarom PSV gelooft dat de stadionuitbreiding haalbaar is: `Anders missen we een hele generatie supporters`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:43:19+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html": {
+   "titel": "Weet je nog' Deze `GTA`-streetart stond jarenlang op de muur in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:43:19+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html": {
+   "titel": "Harmonie Phileutonia uit Eindhoven houdt familiekerstconcert met kerstmarkt in Nuenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:43:19+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/": {
    "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Deurne",
@@ -10267,7 +11221,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -10287,7 +11241,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Someren": {
@@ -10307,7 +11261,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 26,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -10342,17 +11296,17 @@
   },
   "Bekendmakingen Helmond": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 54,
    "fout": ""
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 19,
    "fout": ""
   },
   "Bekendmakingen Asten": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "Bekendmakingen Someren": {
@@ -10362,7 +11316,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -10382,7 +11336,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 20,
    "fout": ""
   },
   "112Brabant": {
