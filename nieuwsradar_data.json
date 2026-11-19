@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 20:12",
+ "bijgewerkt": "19-11-2026 20:28",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 18:49"
@@ -898,24 +898,24 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 20:00"
   },
-  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/": {
-   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
-   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/",
+  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
+   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
+   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/",
    "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
-   "datum": "2026-11-19T18:30:38+00:00",
-   "eerst_gezien": "2026-11-19T18:37:47.746384+00:00",
+   "datum": "2026-11-19T18:30:00+00:00",
+   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 19:30"
@@ -4262,6 +4262,55 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:25:14+00:00",
+   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
+   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:13:05+00:00",
+   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651458/margriet-vos-gaat-met-pensioen-na-42-jaar-kafee-kix-straks-plaatjes-draaien-met-een-advocaatje-met-slagroom.html": {
+   "titel": "Margriet Vos gaat met pensioen na 42 jaar Kafee Kix: `Straks plaatjes draaien met een advocaatje met slagroom`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651458/margriet-vos-gaat-met-pensioen-na-42-jaar-kafee-kix-straks-plaatjes-draaien-met-een-advocaatje-met-slagroom.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:13:05+00:00",
+   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 20:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651447/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651447/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
@@ -4274,7 +4323,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4290,10 +4339,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 20:07"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651389/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -4307,7 +4355,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4409,88 +4457,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 18:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650819/druk-neemt-toe-voor-helmond-sport-in-kelderkraker-tegen-dordrecht-we-moeten-toch-een-keer-onze-punten-sprokkelen.html": {
-   "titel": "Druk neemt toe voor Helmond Sport in kelderkraker tegen Dordrecht: `We moeten toch een kéér onze punten sprokkelen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650819/druk-neemt-toe-voor-helmond-sport-in-kelderkraker-tegen-dordrecht-we-moeten-toch-een-keer-onze-punten-sprokkelen.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:36:06+00:00",
-   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 18:36"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650788/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html": {
-   "titel": "`Game-griep` om GTA 6 te spelen blijft uit in Veghel: `Ik moest naar school van mijn moeder`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650788/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:31:03+00:00",
-   "eerst_gezien": "2026-11-19T17:33:18.893012+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650714/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html": {
-   "titel": "Looks of brains' Deze Helmonder doet mee aan Beauty and the geek",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650714/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:19:03+00:00",
-   "eerst_gezien": "2026-11-19T17:33:18.893012+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650685/arrestatieteam-valt-woning-binnen-in-eindhoven-en-houdt-man-aan.html": {
-   "titel": "Arrestatieteam valt woning binnen in Eindhoven en houdt man aan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650685/arrestatieteam-valt-woning-binnen-in-eindhoven-en-houdt-man-aan.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:13:10+00:00",
-   "eerst_gezien": "2026-11-19T17:17:16.908446+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 18:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650508/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen.html": {
-   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: `Sowieso veel mis met die stallen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650508/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:49:08+00:00",
-   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
@@ -5300,6 +5266,105 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/": {
+   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
+   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/",
+   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
+   "datum": "2026-11-19T18:30:38+00:00",
+   "eerst_gezien": "2026-11-19T18:37:47.746384+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 19:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650819/druk-neemt-toe-voor-helmond-sport-in-kelderkraker-tegen-dordrecht-we-moeten-toch-een-keer-onze-punten-sprokkelen.html": {
+   "titel": "Druk neemt toe voor Helmond Sport in kelderkraker tegen Dordrecht: `We moeten toch een kéér onze punten sprokkelen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650819/druk-neemt-toe-voor-helmond-sport-in-kelderkraker-tegen-dordrecht-we-moeten-toch-een-keer-onze-punten-sprokkelen.html",
+   "tekst": "",
+   "datum": "2026-11-19T17:36:06+00:00",
+   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 18:36"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650788/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html": {
+   "titel": "`Game-griep` om GTA 6 te spelen blijft uit in Veghel: `Ik moest naar school van mijn moeder`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650788/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html",
+   "tekst": "",
+   "datum": "2026-11-19T17:31:03+00:00",
+   "eerst_gezien": "2026-11-19T17:33:18.893012+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650714/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html": {
+   "titel": "Looks of brains' Deze Helmonder doet mee aan Beauty and the geek",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650714/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html",
+   "tekst": "",
+   "datum": "2026-11-19T17:19:03+00:00",
+   "eerst_gezien": "2026-11-19T17:33:18.893012+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650685/arrestatieteam-valt-woning-binnen-in-eindhoven-en-houdt-man-aan.html": {
+   "titel": "Arrestatieteam valt woning binnen in Eindhoven en houdt man aan",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650685/arrestatieteam-valt-woning-binnen-in-eindhoven-en-houdt-man-aan.html",
+   "tekst": "",
+   "datum": "2026-11-19T17:13:10+00:00",
+   "eerst_gezien": "2026-11-19T17:17:16.908446+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 18:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650508/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen.html": {
+   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: `Sowieso veel mis met die stallen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650508/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen.html",
+   "tekst": "",
+   "datum": "2026-11-19T16:49:08+00:00",
+   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -8896,23 +8961,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "17-11 20:38"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126202330a2helmondrit137262": {
-   "titel": "A2 Helmond Rit: 137262",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126202330a2helmondrit137262",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T20:23:30+01:00",
-   "eerst_gezien": "2026-11-17T19:22:58.978934+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 20:23"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108637168/vermiste-vrouw-67-uit-lieshout-dood-aangetroffen.html": {
    "titel": "Vermiste vrouw (67) uit Lieshout dood aangetroffen",
@@ -13219,7 +13267,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
