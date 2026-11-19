@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 23:57",
+ "bijgewerkt": "20-11-2026 00:13",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -1078,7 +1078,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
    "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
-   "tekst": "",
+   "tekst": "woensdag Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij.",
    "datum": "2026-11-18T19:29:40.285438+00:00",
    "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1095,7 +1095,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
    "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
    "link": "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad",
-   "tekst": "",
+   "tekst": "woensdag Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond woensdag op Instagram. De bewoner van het huis had na een eerste belletje direct de politie …",
    "datum": "2026-11-18T17:51:48.968760+00:00",
    "eerst_gezien": "2026-11-18T17:51:48.968760+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1112,11 +1112,12 @@
   "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
    "link": "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk",
-   "tekst": "VIDEO",
+   "tekst": "VIDEO woensdag Zes elektriciens moeten de cel in voor een reeks oplichtingen. De rechtbank in Den Bosch oordeelde woensdag dat de mannen uit Helmond, Deurne en Eindhoven honderden slachtoffers hebben gemaakt. Ze deden zich voor als …",
    "datum": "2026-11-18T16:14:34.212254+00:00",
    "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
    "gemeenten": [
+    "Deurne",
     "Helmond"
    ],
    "soort": "regionale omroep",
@@ -1129,7 +1130,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg": {
    "titel": "Helmond erkent woonbestemming aan Gerwenseweg",
    "link": "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg",
-   "tekst": "",
+   "tekst": "woensdag De gemeente Helmond heeft een woonbestemming erkend voor een pand aan de Gerwenseweg. Dit besluit volgt uit een omgevingsvergunning die eerder dit jaar werd aangevraagd.",
    "datum": "2026-11-18T08:54:55.875632+00:00",
    "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1146,7 +1147,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035199/helmond-stelt-subsidieplafonds-voor-evenementen-in-2027-vast": {
    "titel": "Helmond stelt subsidieplafonds voor evenementen in 2027 vast",
    "link": "https://www.omroepbrabant.nl/nieuws/6035199/helmond-stelt-subsidieplafonds-voor-evenementen-in-2027-vast",
-   "tekst": "",
+   "tekst": "woensdag Burgemeester en wethouders van Helmond hebben het subsidieplafond voor evenementen in 2027 vastgesteld. In totaal is er vijfhonderdvierentachtigduizend euro beschikbaar.",
    "datum": "2026-11-18T08:54:55.875632+00:00",
    "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4240,7 +4241,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4616,7 +4617,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 23:55"
@@ -4633,7 +4634,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 23:55"
