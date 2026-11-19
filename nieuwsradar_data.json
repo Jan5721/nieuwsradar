@@ -1,19 +1,20 @@
 {
- "bijgewerkt": "19-11-2026 17:45",
+ "bijgewerkt": "19-11-2026 18:01",
  "items": {
-  "https://www.ed.nl/someren/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt~abdaca8d/": {
-   "titel": "Vier jaar stallen leeg, nu toch weer varkens in Lierop? Niet als het aan Animal Rights ligt",
-   "link": "https://www.ed.nl/someren/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt~abdaca8d/",
-   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. ‘Er ligt een kwetsbaar natuurgebied in de buurt’.",
-   "datum": "2026-11-19T16:00:51+00:00",
-   "eerst_gezien": "2026-11-19T16:12:40.144931+00:00",
+  "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
+   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
+   "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
+   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. „Er ligt een kwetsbaar natuurgebied in de buurt.”",
+   "datum": "2026-11-19T16:00:00+00:00",
+   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
+    "Helmond",
     "Someren"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 17:00"
@@ -120,23 +121,6 @@
    "prio": false,
    "tijd": "19-11 08:00"
   },
-  "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-nieuw-leven-inblazen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
-   "titel": "Nieuwe eigenaar wil oude varkensstal nieuw leven inblazen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
-   "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-nieuw-leven-inblazen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
-   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. ‘Er ligt een kwetsbaar natuurgebied in de buurt’.",
-   "datum": "2026-11-19T16:00:00+00:00",
-   "eerst_gezien": "2026-11-19T16:45:04.272127+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:00"
-  },
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
    "link": "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/",
@@ -153,23 +137,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 20:30"
-  },
-  "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/": {
-   "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
-   "link": "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/",
-   "tekst": "Ommel is een kunstwerk rijker. Een dode beuk op het Kerkplein is door houtkunstenaar Roel van Wylick tot Mariabeeld omgetoverd.",
-   "datum": "2026-11-18T16:44:00+00:00",
-   "eerst_gezien": "2026-11-18T16:47:24.590015+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 17:44"
   },
   "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/": {
    "titel": "Jan Paagman Sterrenwacht houdt publieksavond in Asten",
@@ -218,7 +185,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 17:45"
@@ -565,7 +532,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034694/twee-mensen-naar-ziekenhuis-na-botsing-met-autos-in-helmond": {
    "titel": "Twee mensen naar ziekenhuis na botsing met auto's in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6034694/twee-mensen-naar-ziekenhuis-na-botsing-met-autos-in-helmond",
-   "tekst": "vrijdag Twee auto's zijn vrijdagochtend op elkaar gebotst in Helmond. Het ongeluk gebeurde op de kruising van de Wethouder Ebbelaan en de Bakelsedijk. Twee mensen zijn met de ambulance naar het ziekenhuis gebracht. Over de aard van hun …",
+   "tekst": "13 november 2026 Twee auto's zijn vrijdagochtend op elkaar gebotst in Helmond. Het ongeluk gebeurde op de kruising van de Wethouder Ebbelaan en de Bakelsedijk. Twee mensen zijn met de ambulance naar het ziekenhuis gebracht. Over de aard …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1044,23 +1011,6 @@
    "titel": "Dakkapelvergunning verleend voor woning in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6033853/dakkapelvergunning-verleend-voor-woning-in-deurne",
    "tekst": "6 november 2026 De gemeente Deurne heeft een vergunning verleend voor het plaatsen van een dakkapel aan de Vliersingel 67. Het besluit is genomen op 4 november 2026.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033775/werkzaamheden-aan-asfaltdrempels-in-deurne": {
-   "titel": "Werkzaamheden aan asfaltdrempels in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033775/werkzaamheden-aan-asfaltdrempels-in-deurne",
-   "tekst": "5 november 2026 In Deurne worden van vrijdag 20 november tot en met dinsdag 1 december diverse asfaltdrempels aangelegd en hersteld. Dit gebeurt om de verkeersveiligheid te verbeteren. Tijdens de werkzaamheden zijn de betreffende wegen …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -3410,6 +3360,22 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650508/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen.html": {
+   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: `Sowieso veel mis met die stallen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650508/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen.html",
+   "tekst": "",
+   "datum": "2026-11-19T16:49:08+00:00",
+   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
@@ -3422,7 +3388,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 17:43"
@@ -3608,38 +3574,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649418/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid.html": {
-   "titel": "Alleen `zware blaffers` vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649418/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid.html",
-   "tekst": "",
-   "datum": "2026-11-19T14:43:12+00:00",
-   "eerst_gezien": "2026-11-19T14:49:47.028890+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649417/eindhoven-wacht-niet-op-raad-van-state-en-wil-na-de-zomer-van-2027-beginnen-met-de-aanleg-van-hov4.html": {
-   "titel": "Eindhoven wacht niet op Raad van State en wil na de zomer van 2027 beginnen met de aanleg van HOV4",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649417/eindhoven-wacht-niet-op-raad-van-state-en-wil-na-de-zomer-van-2027-beginnen-met-de-aanleg-van-hov4.html",
-   "tekst": "",
-   "datum": "2026-11-19T14:43:12+00:00",
-   "eerst_gezien": "2026-11-19T14:49:47.028890+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -4398,6 +4332,106 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/someren/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt~abdaca8d/": {
+   "titel": "Vier jaar stallen leeg, nu toch weer varkens in Lierop? Niet als het aan Animal Rights ligt",
+   "link": "https://www.ed.nl/someren/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt~abdaca8d/",
+   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. ‘Er ligt een kwetsbaar natuurgebied in de buurt’.",
+   "datum": "2026-11-19T16:00:51+00:00",
+   "eerst_gezien": "2026-11-19T16:12:40.144931+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 17:00"
+  },
+  "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-nieuw-leven-inblazen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
+   "titel": "Nieuwe eigenaar wil oude varkensstal nieuw leven inblazen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
+   "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-nieuw-leven-inblazen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
+   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. ‘Er ligt een kwetsbaar natuurgebied in de buurt’.",
+   "datum": "2026-11-19T16:00:00+00:00",
+   "eerst_gezien": "2026-11-19T16:45:04.272127+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 17:00"
+  },
+  "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/": {
+   "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
+   "link": "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/",
+   "tekst": "Ommel is een kunstwerk rijker. Een dode beuk op het Kerkplein is door houtkunstenaar Roel van Wylick tot Mariabeeld omgetoverd.",
+   "datum": "2026-11-18T16:44:00+00:00",
+   "eerst_gezien": "2026-11-18T16:47:24.590015+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 17:44"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033775/werkzaamheden-aan-asfaltdrempels-in-deurne": {
+   "titel": "Werkzaamheden aan asfaltdrempels in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033775/werkzaamheden-aan-asfaltdrempels-in-deurne",
+   "tekst": "5 november 2026 In Deurne worden van vrijdag 20 november tot en met dinsdag 1 december diverse asfaltdrempels aangelegd en hersteld. Dit gebeurt om de verkeersveiligheid te verbeteren. Tijdens de werkzaamheden zijn de betreffende wegen …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649418/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid.html": {
+   "titel": "Alleen `zware blaffers` vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649418/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid.html",
+   "tekst": "",
+   "datum": "2026-11-19T14:43:12+00:00",
+   "eerst_gezien": "2026-11-19T14:49:47.028890+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649417/eindhoven-wacht-niet-op-raad-van-state-en-wil-na-de-zomer-van-2027-beginnen-met-de-aanleg-van-hov4.html": {
+   "titel": "Eindhoven wacht niet op Raad van State en wil na de zomer van 2027 beginnen met de aanleg van HOV4",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649417/eindhoven-wacht-niet-op-raad-van-state-en-wil-na-de-zomer-van-2027-beginnen-met-de-aanleg-van-hov4.html",
+   "tekst": "",
+   "datum": "2026-11-19T14:43:12+00:00",
+   "eerst_gezien": "2026-11-19T14:49:47.028890+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
    "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
@@ -8948,23 +8982,6 @@
    "prio": false,
    "tijd": "18-11 11:49"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212": {
-   "titel": "A1 Asten Rit: 137212",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126175730a1astenrit137212",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T17:57:30+01:00",
-   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 17:57"
-  },
   "https://www.omroepbrabant.nl/nieuws/6033568/raadsvergaderingen-deurne-op-15-en-16-december": {
    "titel": "Raadsvergaderingen Deurne op 15 en 16 december",
    "link": "https://www.omroepbrabant.nl/nieuws/6033568/raadsvergaderingen-deurne-op-15-en-16-december",
@@ -12824,7 +12841,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 1,
    "fout": ""
   },
   "ED Asten": {
@@ -12849,7 +12866,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 21,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -12904,7 +12921,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
