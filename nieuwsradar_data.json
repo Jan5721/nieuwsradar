@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 18:33",
+ "bijgewerkt": "19-11-2026 18:50",
  "items": {
   "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
    "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
@@ -1484,23 +1484,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -3360,6 +3343,40 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650857/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html": {
+   "titel": "`Game-griep` om GTA 6 te spelen blijft uit in Veghel: `Ik moest naar school van mijn moeder`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650857/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html",
+   "tekst": "",
+   "datum": "2026-11-19T17:43:14+00:00",
+   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 18:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650819/druk-neemt-toe-voor-helmond-sport-in-kelderkraker-tegen-dordrecht-we-moeten-toch-een-keer-onze-punten-sprokkelen.html": {
+   "titel": "Druk neemt toe voor Helmond Sport in kelderkraker tegen Dordrecht: `We moeten toch een kéér onze punten sprokkelen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650819/druk-neemt-toe-voor-helmond-sport-in-kelderkraker-tegen-dordrecht-we-moeten-toch-een-keer-onze-punten-sprokkelen.html",
+   "tekst": "",
+   "datum": "2026-11-19T17:36:06+00:00",
+   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 18:36"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108650788/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html": {
    "titel": "`Game-griep` om GTA 6 te spelen blijft uit in Veghel: `Ik moest naar school van mijn moeder`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108650788/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html",
@@ -3372,10 +3389,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 18:31"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650714/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html": {
    "titel": "Looks of brains' Deze Helmonder doet mee aan Beauty and the geek",
@@ -3389,7 +3405,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3574,23 +3590,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 16:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649449/transportbedrijf-dacht-slim-te-zijn-met-slapen-in-de-cabine-maar-de-raad-van-state-zet-er-een-harde-streep-door.html": {
-   "titel": "Transportbedrijf dacht slim te zijn met slapen in de cabine, maar de Raad van State zet er een harde streep door",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649449/transportbedrijf-dacht-slim-te-zijn-met-slapen-in-de-cabine-maar-de-raad-van-state-zet-er-een-harde-streep-door.html",
-   "tekst": "",
-   "datum": "2026-11-19T14:49:08+00:00",
-   "eerst_gezien": "2026-11-19T14:49:47.028890+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 15:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -3840,6 +3839,40 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126183806a1ommelrit138183": {
+   "titel": "A1 Ommel Rit: 138183",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126183806a1ommelrit138183",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T18:38:06+01:00",
+   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "19-11 18:38"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126183527a2astenrit138180": {
+   "titel": "A2 Asten Rit: 138180",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126183527a2astenrit138180",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T18:35:27+01:00",
+   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 18:35"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126182410a1ommelrit138178": {
    "titel": "A1 Ommel Rit: 138178",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126182410a1ommelrit138178",
@@ -3852,7 +3885,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "19-11 18:24"
@@ -4366,6 +4399,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649449/transportbedrijf-dacht-slim-te-zijn-met-slapen-in-de-cabine-maar-de-raad-van-state-zet-er-een-harde-streep-door.html": {
+   "titel": "Transportbedrijf dacht slim te zijn met slapen in de cabine, maar de Raad van State zet er een harde streep door",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649449/transportbedrijf-dacht-slim-te-zijn-met-slapen-in-de-cabine-maar-de-raad-van-state-zet-er-een-harde-streep-door.html",
+   "tekst": "",
+   "datum": "2026-11-19T14:49:08+00:00",
+   "eerst_gezien": "2026-11-19T14:49:47.028890+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 15:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108649447/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid.html": {
    "titel": "Alleen `zware blaffers` vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
@@ -12947,9 +13014,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 1,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 500: Internal server error"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -12988,7 +13055,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -13008,7 +13075,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
