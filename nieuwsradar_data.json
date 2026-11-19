@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 15:01",
+ "bijgewerkt": "19-11-2026 15:17",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
    "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
@@ -4260,6 +4260,40 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649168/voormalig-helmond-sport-speler-diego-van-zutphen-is-per-direct-inzetbaar-bij-una.html": {
+   "titel": "Voormalig Helmond Sport-speler Diego van Zutphen is per direct inzetbaar bij UNA",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649168/voormalig-helmond-sport-speler-diego-van-zutphen-is-per-direct-inzetbaar-bij-una.html",
+   "tekst": "",
+   "datum": "2026-11-19T14:15:03+00:00",
+   "eerst_gezien": "2026-11-19T14:17:29.387904+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 15:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649081/voorlopig-einde-voor-voedselbos-eindhoven-niet-blijven-hopen-op-iets-dat-misschien-niet-komt.html": {
+   "titel": "Voorlopig einde voor Voedselbos Eindhoven: `Niet blijven hopen op iets dat misschien niet komt`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649081/voorlopig-einde-voor-voedselbos-eindhoven-niet-blijven-hopen-op-iets-dat-misschien-niet-komt.html",
+   "tekst": "",
+   "datum": "2026-11-19T14:07:20+00:00",
+   "eerst_gezien": "2026-11-19T14:17:29.387904+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 15:07"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108649004/twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html": {
    "titel": "Twee aanhoudingen bij inval in Eindhovense kapsalon",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108649004/twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html",
@@ -4272,7 +4306,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:55"
@@ -4289,7 +4323,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:49"
@@ -4510,55 +4544,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648247/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html": {
-   "titel": "Welke herinneringen heb jij aan Maison van den Boer'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648247/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:21:29+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648236/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html": {
-   "titel": "Architectenbureau Raffaan gaat nieuw gebouw van kindcentrum Puur Sang in Mierlo ontwerpen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648236/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:19:03+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648188/auto-van-vrouw-zou-worden-opgeblazen-twee-weken-later-volgt-explosie-in-eindhoven.html": {
-   "titel": "Auto van vrouw zou worden opgeblazen, twee weken later volgt explosie in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648188/auto-van-vrouw-zou-worden-opgeblazen-twee-weken-later-volgt-explosie-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:13:09+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -4837,7 +4822,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "19-11 14:46"
@@ -5249,6 +5234,55 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648247/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html": {
+   "titel": "Welke herinneringen heb jij aan Maison van den Boer'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648247/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:21:29+00:00",
+   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648236/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html": {
+   "titel": "Architectenbureau Raffaan gaat nieuw gebouw van kindcentrum Puur Sang in Mierlo ontwerpen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648236/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:19:03+00:00",
+   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648188/auto-van-vrouw-zou-worden-opgeblazen-twee-weken-later-volgt-explosie-in-eindhoven.html": {
+   "titel": "Auto van vrouw zou worden opgeblazen, twee weken later volgt explosie in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648188/auto-van-vrouw-zou-worden-opgeblazen-twee-weken-later-volgt-explosie-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:13:09+00:00",
+   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 13:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
    "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
@@ -12486,7 +12520,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
