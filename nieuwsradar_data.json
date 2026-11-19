@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 04:48",
+ "bijgewerkt": "19-11-2026 05:20",
  "items": {
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -7682,23 +7682,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050852a2helmondrit136886": {
-   "titel": "A2 Helmond Rit: 136886",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050852a2helmondrit136886",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-131)",
-   "datum": "2026-11-17T05:08:52+01:00",
-   "eerst_gezien": "2026-11-17T04:15:14.420349+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 05:08"
-  },
   "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/": {
    "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
    "link": "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/",
@@ -7780,23 +7763,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 06:37"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050752a1helmondrit136884": {
-   "titel": "A1 Helmond Rit: 136884",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126050752a1helmondrit136884",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T05:07:52+01:00",
-   "eerst_gezien": "2026-11-17T04:15:14.420349+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 05:07"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html": {
    "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
