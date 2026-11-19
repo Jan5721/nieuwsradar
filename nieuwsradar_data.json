@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 07:29",
+ "bijgewerkt": "19-11-2026 07:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -920,6 +920,23 @@
    "prio": false,
    "tijd": "12-11 09:14"
   },
+  "https://www.ed.nl/helmond/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond~a5a9470e/": {
+   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
+   "link": "https://www.ed.nl/helmond/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond~a5a9470e/",
+   "tekst": "Alzheimer Café zuidoost Brabant sluit het jaar af met een bijeenkomst in Helmond. Donderdag 17 december is de feestelijke jaarafsluiting van 19.30 tot 21.00 uur in Wijkhuis Westwijzer aan de Cortenbachstraat 70.",
+   "datum": "2026-11-19T06:39:00+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:39"
+  },
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
    "link": "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/",
@@ -1023,23 +1040,6 @@
    "prio": false,
    "tijd": "18-11 11:30"
   },
-  "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/": {
-   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
-   "link": "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/",
-   "tekst": "In de afgelopen week heeft de gemeente Helmond in totaal zestien vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-18T10:03:39+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:03"
-  },
   "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/": {
    "titel": "Wethouder Deurne geeft les over zichtbaarheid in het verkeer",
    "link": "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/",
@@ -1073,23 +1073,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
-  },
-  "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Verkeerde gemeente, verkeerde afstand’",
-   "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/",
-   "tekst": "Deurne is 19 miljoen euro door de neus geboord door fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
-   "datum": "2026-11-18T09:05:00+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:05"
   },
   "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/": {
    "titel": "Museum Klok & Peel in Asten toont LEGO-lievelingsdieren van kinderen",
@@ -3443,6 +3426,73 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html": {
+   "titel": "Waarom PSV gelooft dat de stadionuitbreiding haalbaar is: `Anders missen we een hele generatie supporters`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:43:19+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html": {
+   "titel": "Weet je nog' Deze `GTA`-streetart stond jarenlang op de muur in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:43:19+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html": {
+   "titel": "Harmonie Phileutonia uit Eindhoven houdt familiekerstconcert met kerstmarkt in Nuenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:43:19+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
+   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:43:18+00:00",
+   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108645317/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html": {
    "titel": "Ombudsman TU/e ontkent betrokkenheid bij ontslagzaak, maar zat eerder als mediator wel degelijk aan tafel",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108645317/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html",
@@ -3455,7 +3505,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 07:13"
@@ -3659,39 +3709,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 21:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html": {
-   "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html",
-   "tekst": "",
-   "datum": "2026-11-18T20:21:31+00:00",
-   "eerst_gezien": "2026-11-18T20:33:53.008253+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640392/gemert-bakel-moet-van-rechter-bewoners-en-bedrijven-scheiden-met-groenbuffer.html": {
-   "titel": "Gemert-Bakel moet van rechter bewoners en bedrijven scheiden met groenbuffer",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640392/gemert-bakel-moet-van-rechter-bewoners-en-bedrijven-scheiden-met-groenbuffer.html",
-   "tekst": "",
-   "datum": "2026-11-18T20:13:05+00:00",
-   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 21:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -3959,23 +3976,6 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html": {
-   "titel": "Someren presenteert centrumplan met hoogbouw, maar inwoners vrezen voor kermis en Kennedymars",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108574690/someren-presenteert-centrumplan-met-hoogbouw-maar-inwoners-vrezen-voor-kermis-en-kennedymars.html",
-   "tekst": "",
-   "datum": "2026-11-12T06:37:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 07:37"
-  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126072813a1helenaveenrit137826": {
    "titel": "A1 Helenaveen Rit: 137826",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126072813a1helenaveenrit137826",
@@ -3988,7 +3988,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "19-11 07:28"
@@ -4299,23 +4299,6 @@
    "prio": false,
    "tijd": "18-11 11:20"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421": {
-   "titel": "A2 Helmond Rit: 137421",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T10:35:04+01:00",
-   "eerst_gezien": "2026-11-18T09:43:11.836669+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 10:35"
-  },
   "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
    "titel": "Man aangehouden na mogelijk steekincident in appartement",
    "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
@@ -4332,6 +4315,90 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
+  },
+  "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/": {
+   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
+   "link": "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/",
+   "tekst": "In de afgelopen week heeft de gemeente Helmond in totaal zestien vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-18T10:03:39+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:03"
+  },
+  "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Verkeerde gemeente, verkeerde afstand’",
+   "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/",
+   "tekst": "Deurne is 19 miljoen euro door de neus geboord door fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
+   "datum": "2026-11-18T09:05:00+00:00",
+   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 10:05"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html": {
+   "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html",
+   "tekst": "",
+   "datum": "2026-11-18T20:21:31+00:00",
+   "eerst_gezien": "2026-11-18T20:33:53.008253+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108640392/gemert-bakel-moet-van-rechter-bewoners-en-bedrijven-scheiden-met-groenbuffer.html": {
+   "titel": "Gemert-Bakel moet van rechter bewoners en bedrijven scheiden met groenbuffer",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640392/gemert-bakel-moet-van-rechter-bewoners-en-bedrijven-scheiden-met-groenbuffer.html",
+   "tekst": "",
+   "datum": "2026-11-18T20:13:05+00:00",
+   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 21:13"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421": {
+   "titel": "A2 Helmond Rit: 137421",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126103504a2helmondrit137421",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-18T10:35:04+01:00",
+   "eerst_gezien": "2026-11-18T09:43:11.836669+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 10:35"
   },
   "https://112brabant.nl/2026/11/18/brand-bij-gasfles-tijdens-werkzaamheden-bij-recyclingbedrijf/": {
    "titel": "Brand bij gasfles tijdens werkzaamheden bij recyclingbedrijf",
@@ -9936,7 +10003,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -10016,7 +10083,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -10031,17 +10098,17 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 5,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   }
  }
