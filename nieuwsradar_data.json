@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 16:24",
+ "bijgewerkt": "19-11-2026 16:41",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
    "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
@@ -609,7 +609,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 16:15"
@@ -898,7 +898,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:30"
@@ -4278,6 +4278,55 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649810/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html": {
+   "titel": "Grootschalige oefening op Eindhoven Airport: hoe opereren hulpdiensten als het een keer echt fout gaat'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649810/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html",
+   "tekst": "",
+   "datum": "2026-11-19T15:31:04+00:00",
+   "eerst_gezien": "2026-11-19T15:40:31.516609+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 16:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649769/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html": {
+   "titel": "Looks of brains' Deze Helmonder doet mee aan Beauty and the geek",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649769/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html",
+   "tekst": "",
+   "datum": "2026-11-19T15:25:18+00:00",
+   "eerst_gezien": "2026-11-19T15:40:31.516609+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108649768/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html": {
+   "titel": "Grootschalige oefening op Eindhoven Airport: hoe opereren hulpdiensten als het een keer echt fout gaat'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649768/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html",
+   "tekst": "",
+   "datum": "2026-11-19T15:25:18+00:00",
+   "eerst_gezien": "2026-11-19T15:40:31.516609+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108649738/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers.html": {
    "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door `zware blaffers`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108649738/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers.html",
@@ -4290,7 +4339,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4306,7 +4355,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 16:01"
@@ -4460,57 +4509,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html": {
-   "titel": "Twee aanhoudingen bij politie-inval in kapsalon in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:43:14+00:00",
-   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648801/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel.html": {
-   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648801/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel.html",
-   "tekst": "De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer...",
-   "datum": "2026-11-19T13:29:03+00:00",
-   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:29"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html": {
-   "titel": "Politie vindt bijna halve kilo amfetamine in big shopper, maar mocht ze de auto van Eindhovenaar wel stopzetten'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:13:10+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -5201,6 +5199,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html": {
+   "titel": "Twee aanhoudingen bij politie-inval in kapsalon in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:43:14+00:00",
+   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648801/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel.html": {
+   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648801/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel.html",
+   "tekst": "De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer...",
+   "datum": "2026-11-19T13:29:03+00:00",
+   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html": {
+   "titel": "Politie vindt bijna halve kilo amfetamine in big shopper, maar mocht ze de auto van Eindhovenaar wel stopzetten'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:13:10+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:13"
   },
   "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
    "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
