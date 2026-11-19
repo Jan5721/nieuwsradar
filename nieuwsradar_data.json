@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 10:26",
+ "bijgewerkt": "19-11-2026 10:42",
  "items": {
   "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
    "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
@@ -223,23 +223,6 @@
    "prio": false,
    "tijd": "18-11 15:26"
   },
-  "https://www.ed.nl/asten/mantelzorgers-in-asten-maken-decoratie-tijdens-creatieve-mantel-uit-dag~a535803b/": {
-   "titel": "Mantelzorgers in Asten maken decoratie tijdens creatieve mantel-uit-dag",
-   "link": "https://www.ed.nl/asten/mantelzorgers-in-asten-maken-decoratie-tijdens-creatieve-mantel-uit-dag~a535803b/",
-   "tekst": "Mantelzorgers uit Asten komen samen voor een creatieve mantel-uit-dag van de Werkgroep Mantel-uit-Dagen Asten. Woensdag 25 november maken deelnemers een wand- of raamdecoratie in Gemeenschapshuis ’t Kwartier in Asten.",
-   "datum": "2026-11-18T13:15:00+00:00",
-   "eerst_gezien": "2026-11-18T13:15:13.375903+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 14:15"
-  },
   "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/": {
    "titel": "Someren hijst vlag voor campagne tegen geweld tegen vrouwen",
    "link": "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/",
@@ -275,23 +258,6 @@
    "prio": false,
    "tijd": "18-11 18:50"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
-   "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad",
-   "tekst": "Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond woensdag op Instagram. De bewoner van het huis had na een eerste belletje direct de politie gebeld. Agenten verstopten zich in het huis en …",
-   "datum": "2026-11-18T17:34:09+00:00",
-   "eerst_gezien": "2026-11-18T17:51:48.968760+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 18:34"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond": {
    "titel": "Extra woning en samengevoegde winkels aan Heistraat in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond",
@@ -308,6 +274,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:09"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
+   "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad",
+   "tekst": "Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond woensdag op Instagram. De bewoner van het huis had na een eerste belletje direct de politie gebeld. …",
+   "datum": "2026-11-18T17:51:48.968760+00:00",
+   "eerst_gezien": "2026-11-18T17:51:48.968760+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 18:51"
   },
   "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
@@ -3559,7 +3542,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3575,7 +3558,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:13"
@@ -3592,7 +3575,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4059,6 +4042,40 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103607a2helmondrit137931": {
+   "titel": "A2 Helmond Rit: 137931",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103607a2helmondrit137931",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T10:36:07+01:00",
+   "eerst_gezien": "2026-11-19T09:42:00.074244+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 10:36"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103420ongevalwegvervoerletselhoutsdonknoordhoutseparal": {
+   "titel": "Ongeval wegvervoer letsel Houtsdonk Noord Houtse Parallelweg Helmond",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103420ongevalwegvervoerletselhoutsdonknoordhoutseparal",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-19T10:34:20+01:00",
+   "eerst_gezien": "2026-11-19T09:42:00.074244+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 10:34"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126100436a2astenrit137905": {
    "titel": "A2 Asten Rit: 137905",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126100436a2astenrit137905",
@@ -4071,7 +4088,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 10:04"
@@ -4399,6 +4416,40 @@
    "prio": true,
    "tijd": "18-11 14:30"
   },
+  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
+   "titel": "Man aangehouden na mogelijk steekincident in appartement",
+   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
+   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
+   "datum": "2026-11-18T18:09:03+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:09"
+  },
+  "https://www.ed.nl/asten/mantelzorgers-in-asten-maken-decoratie-tijdens-creatieve-mantel-uit-dag~a535803b/": {
+   "titel": "Mantelzorgers in Asten maken decoratie tijdens creatieve mantel-uit-dag",
+   "link": "https://www.ed.nl/asten/mantelzorgers-in-asten-maken-decoratie-tijdens-creatieve-mantel-uit-dag~a535803b/",
+   "tekst": "Mantelzorgers uit Asten komen samen voor een creatieve mantel-uit-dag van de Werkgroep Mantel-uit-Dagen Asten. Woensdag 25 november maken deelnemers een wand- of raamdecoratie in Gemeenschapshuis ’t Kwartier in Asten.",
+   "datum": "2026-11-18T13:15:00+00:00",
+   "eerst_gezien": "2026-11-18T13:15:13.375903+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 14:15"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126142059a2helmondrit137545": {
    "titel": "A2 Helmond Rit: 137545",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126142059a2helmondrit137545",
@@ -4432,23 +4483,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 14:18"
-  },
-  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
-   "titel": "Man aangehouden na mogelijk steekincident in appartement",
-   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
-   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
-   "datum": "2026-11-18T18:09:03+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 19:09"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645657/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html": {
    "titel": "IVN Geldrop doet mee aan landelijke zoektocht naar winterbloei",
@@ -9268,23 +9302,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126103021a1helmondrit136996": {
-   "titel": "A1 Helmond Rit: 136996",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126103021a1helmondrit136996",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-17T10:30:21+01:00",
-   "eerst_gezien": "2026-11-17T09:38:45.270104+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "17-11 10:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
@@ -11658,7 +11675,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Someren": {
@@ -11668,12 +11685,12 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
