@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 06:41",
+ "bijgewerkt": "19-11-2026 06:57",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -2476,7 +2476,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034577/nieuw-vorstenpaar-geinstalleerd-bij-cv-de-plattevonder": {
    "titel": "Nieuw vorstenpaar geïnstalleerd bij CV de Plattevonder",
    "link": "https://www.omroepbrabant.nl/nieuws/6034577/nieuw-vorstenpaar-geinstalleerd-bij-cv-de-plattevonder",
-   "tekst": "donderdag CV de Plattevonder heeft vrijdag 6 november afscheid genomen van Vorst Ruud en Vorstin Dieuwer. Het nieuwe vorstenpaar, Vorst Rob en Vorstin Nicole, is geïnstalleerd. Ook zijn er wijzigingen in de Raad van Elf en het jeugdcomité. …",
+   "tekst": "12 november 2026 CV de Plattevonder heeft vrijdag 6 november afscheid genomen van Vorst Ruud en Vorstin Dieuwer. Het nieuwe vorstenpaar, Vorst Rob en Vorstin Nicole, is geïnstalleerd. Ook zijn er wijzigingen in de Raad van Elf en het …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4366,23 +4366,6 @@
    "prio": true,
    "tijd": "18-11 09:58"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389": {
-   "titel": "A2 Helmond Rit: 137389",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-18T09:28:58+01:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 09:28"
-  },
   "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
    "titel": "Man aangehouden na mogelijk steekincident in appartement",
    "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
@@ -4416,6 +4399,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 12:17"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389": {
+   "titel": "A2 Helmond Rit: 137389",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-18T09:28:58+01:00",
+   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "18-11 09:28"
   },
   "https://www.omroepbrabant.nl/nieuws/6033604/stroomstoring-in-deurne-herstel-verwacht-rond-tien-uur": {
    "titel": "Stroomstoring in Deurne, herstel verwacht rond tien uur",
@@ -9985,7 +9985,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
