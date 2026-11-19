@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "19-11-2026 14:13",
+ "bijgewerkt": "19-11-2026 14:29",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
+   "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-",
+   "tekst": "ZEILBERG - Na een ingrijpende verbouwing maakt PLUS Bouwmans in Zeilberg zich op voor de heropening. Woensdag 25 november om 8.30 uur gaan de deuren van de vernieuwde supermarkt weer open. Klanten treffen er onder meer een uitgebreid assortiment verse producten, een vernieuwde …",
+   "datum": "2026-11-19T14:16:00+01:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:16"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia": {
    "titel": "SV Deurne wil koppositie verstevigen tegen opgeleefd Limburgia",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia",
@@ -4243,6 +4260,57 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html": {
+   "titel": "Politie vindt bijna halve kilo amfetamine in big shopper, maar mocht ze de auto van Eindhovenaar wel stopzetten'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:13:10+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648702/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html": {
+   "titel": "Truckers van Van Lankveld mogen niet in de cabine bij hun bedrijf slapen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648702/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:13:05+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648700/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html": {
+   "titel": "Stedelijk College opent vernieuwd schoolplein tijdens VMBO in Bedrijf-dag",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648700/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:13:05+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648660/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html": {
    "titel": "Truckers van Van Lankveld mogen niet in de cabine bij hun bedrijf slapen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648660/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html",
@@ -4255,10 +4323,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:07"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648659/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html": {
    "titel": "Stedelijk College opent vernieuwd schoolplein tijdens VMBO in Bedrijf-dag",
@@ -4272,10 +4339,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:07"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648548/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
    "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
@@ -4289,7 +4355,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:57"
@@ -4491,55 +4557,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
-   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
-   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
-   "datum": "2026-11-19T12:06:04+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html": {
-   "titel": "Politie onderzoekt mogelijke bedreiging voorafgaand aan explosie bij auto in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:01:04+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647961/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
-   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647961/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
-   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
-   "datum": "2026-11-19T11:55:02+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -4822,6 +4839,72 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
+   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
+   "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
+   "tekst": "HELMOND – De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer woonwagens aan de Rivierensingel en Helmondsingel en een bedrijfspand aan de 1e Tussendijk zijn doorzocht. De invallen maken deel uit …",
+   "datum": "2026-11-19T13:25:55+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
+   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
+   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
+   "datum": "2026-11-19T12:06:04+00:00",
+   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html": {
+   "titel": "Politie onderzoekt mogelijke bedreiging voorafgaand aan explosie bij auto in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:01:04+00:00",
+   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 13:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647961/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
+   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647961/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
+   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
+   "datum": "2026-11-19T11:55:02+00:00",
+   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126132446a2helmondrit138052": {
    "titel": "A2 Helmond Rit: 138052",
@@ -12184,7 +12267,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 36,
    "fout": ""
   },
   "Peelbelang": {
@@ -12304,12 +12387,12 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   }
  }
