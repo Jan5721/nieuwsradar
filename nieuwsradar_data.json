@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 22:05",
+ "bijgewerkt": "19-11-2026 22:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -4245,6 +4245,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html": {
+   "titel": "87-jarige fietser belandt in rolstoel na aanrijding in Son en Breugel, automobiliste (55) vecht tegen tranen in rechtszaal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html",
+   "tekst": "",
+   "datum": "2026-11-19T21:13:09+00:00",
+   "eerst_gezien": "2026-11-19T21:20:41.766776+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 22:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651871/ooit-runde-margriet-65-vier-cafes-na-42-jaar-verkoopt-ze-haar-levenswerk-op-stratumseind-ik-ben-mezelf-weleens-voorbijgegaan.html": {
    "titel": "Ooit runde Margriet (65) vier cafés, na 42 jaar verkoopt ze haar levenswerk op Stratumseind: `Ik ben mezelf weleens voorbijgegaan`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651871/ooit-runde-margriet-65-vier-cafes-na-42-jaar-verkoopt-ze-haar-levenswerk-op-stratumseind-ik-ben-mezelf-weleens-voorbijgegaan.html",
@@ -4448,22 +4465,6 @@
    "tekst": "",
    "datum": "2026-11-19T19:29:06+00:00",
    "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
-   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:13:05+00:00",
-   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5232,23 +5233,6 @@
    "prio": true,
    "tijd": "19-11 07:28"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126061734a2helmondrit137816": {
-   "titel": "A2 Helmond Rit: 137816",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126061734a2helmondrit137816",
-   "tekst": "Ambulance 22-114 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T06:17:34+01:00",
-   "eerst_gezien": "2026-11-19T05:24:45.836116+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 06:17"
-  },
   "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
    "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
    "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
@@ -5265,6 +5249,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
+   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:13:05+00:00",
+   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126061734a2helmondrit137816": {
+   "titel": "A2 Helmond Rit: 137816",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126061734a2helmondrit137816",
+   "tekst": "Ambulance 22-114 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T06:17:34+01:00",
+   "eerst_gezien": "2026-11-19T05:24:45.836116+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 06:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651458/margriet-vos-gaat-met-pensioen-na-42-jaar-kafee-kix-straks-plaatjes-draaien-met-een-advocaatje-met-slagroom.html": {
    "titel": "Margriet Vos gaat met pensioen na 42 jaar Kafee Kix: `Straks plaatjes draaien met een advocaatje met slagroom`",
@@ -13483,7 +13500,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
