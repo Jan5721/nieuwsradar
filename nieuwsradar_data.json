@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 13:24",
+ "bijgewerkt": "19-11-2026 13:40",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia": {
    "titel": "SV Deurne wil koppositie verstevigen tegen opgeleefd Limburgia",
@@ -4277,6 +4277,73 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648364/auto-wordt-opgeblazen-in-eindhoven-vrouw-zou-twee-weken-eerder-zijn-bedreigd.html": {
+   "titel": "Auto wordt opgeblazen in Eindhoven: vrouw zou twee weken eerder zijn bedreigd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648364/auto-wordt-opgeblazen-in-eindhoven-vrouw-zou-twee-weken-eerder-zijn-bedreigd.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:31:03+00:00",
+   "eerst_gezien": "2026-11-19T12:40:05.644399+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 13:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648359/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html": {
+   "titel": "Welke herinneringen heb jij aan Maison van den Boer'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648359/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:31:03+00:00",
+   "eerst_gezien": "2026-11-19T12:40:05.644399+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 13:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648329/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
+   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648329/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
+   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
+   "datum": "2026-11-19T12:29:05+00:00",
+   "eerst_gezien": "2026-11-19T12:40:05.644399+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 13:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648279/auto-wordt-opgeblazen-in-eindhoven-vrouw-zou-twee-weken-eerder-zijn-bedreigd.html": {
+   "titel": "Auto wordt opgeblazen in Eindhoven: vrouw zou twee weken eerder zijn bedreigd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648279/auto-wordt-opgeblazen-in-eindhoven-vrouw-zou-twee-weken-eerder-zijn-bedreigd.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:25:13+00:00",
+   "eerst_gezien": "2026-11-19T12:40:05.644399+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648251/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html": {
    "titel": "Architectenbureau Raffaan gaat nieuw gebouw van kindcentrum Puur Sang in Mierlo ontwerpen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648251/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html",
@@ -4289,7 +4356,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:21"
@@ -4306,10 +4373,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:21"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648236/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html": {
    "titel": "Architectenbureau Raffaan gaat nieuw gebouw van kindcentrum Puur Sang in Mierlo ontwerpen",
@@ -4323,7 +4389,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4339,7 +4405,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:13"
@@ -4356,7 +4422,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:13"
@@ -4373,7 +4439,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4389,7 +4455,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4405,7 +4471,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:13"
@@ -4424,8 +4490,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:06"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html": {
    "titel": "Politie onderzoekt mogelijke bedreiging voorafgaand aan explosie bij auto in Eindhoven",
@@ -4493,72 +4558,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 12:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647867/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html": {
-   "titel": "BRIEVEN I `Wat een kinderachtig gesteggel altijd in de Tweede Kamer`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647867/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:43:17+00:00",
-   "eerst_gezien": "2026-11-19T11:51:47.700948+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647766/brabant-wil-nieuwe-aanpak-via-grote-stikstofuitstoters.html": {
-   "titel": "Brabant wil nieuwe aanpak via grote stikstofuitstoters",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647766/brabant-wil-nieuwe-aanpak-via-grote-stikstofuitstoters.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:31:03+00:00",
-   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647764/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html": {
-   "titel": "BRIEVEN I `Wat een kinderachtig gesteggel altijd in de Tweede Kamer`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647764/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:31:03+00:00",
-   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647727/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
-   "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647727/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:25:12+00:00",
-   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -4757,23 +4756,6 @@
    "prio": false,
    "tijd": "12-11 14:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html": {
-   "titel": "Beiaardier 2026 Asten [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108577852/beiaardier-2026-asten-video.html",
-   "tekst": "Beiaardier Rosemarie Seuntiëns speelt op het carillon in de Astense kerktoren.",
-   "datum": "2026-11-12T12:30:05+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 13:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
@@ -4871,7 +4853,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 13:24"
@@ -4888,7 +4870,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 13:11"
@@ -5249,6 +5231,72 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 18:04"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647867/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html": {
+   "titel": "BRIEVEN I `Wat een kinderachtig gesteggel altijd in de Tweede Kamer`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647867/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html",
+   "tekst": "",
+   "datum": "2026-11-19T11:43:17+00:00",
+   "eerst_gezien": "2026-11-19T11:51:47.700948+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 12:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647766/brabant-wil-nieuwe-aanpak-via-grote-stikstofuitstoters.html": {
+   "titel": "Brabant wil nieuwe aanpak via grote stikstofuitstoters",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647766/brabant-wil-nieuwe-aanpak-via-grote-stikstofuitstoters.html",
+   "tekst": "",
+   "datum": "2026-11-19T11:31:03+00:00",
+   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647764/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html": {
+   "titel": "BRIEVEN I `Wat een kinderachtig gesteggel altijd in de Tweede Kamer`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647764/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html",
+   "tekst": "",
+   "datum": "2026-11-19T11:31:03+00:00",
+   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647727/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
+   "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647727/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
+   "tekst": "",
+   "datum": "2026-11-19T11:25:12+00:00",
+   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 12:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648136/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html": {
    "titel": "Twee Eindhovenaren staan terecht om drugs, maar mocht de politie wel ingrijpen'",
@@ -12230,7 +12278,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 5,
    "fout": ""
   },
   "Drimble Someren": {
