@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 21:32",
+ "bijgewerkt": "19-11-2026 21:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -1384,7 +1384,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034751/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond half negen",
    "link": "https://www.omroepbrabant.nl/nieuws/6034751/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen",
-   "tekst": "vrijdag De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds gisteravond zonder stroom. De storing begon om half zeven en werd vannacht om vijf over half twaalf verholpen.",
+   "tekst": "13 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds gisteravond zonder stroom. De storing begon om half zeven en werd vannacht om vijf over half twaalf verholpen.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4257,7 +4257,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 21:31"
@@ -4274,7 +4274,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
