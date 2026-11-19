@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 14:29",
+ "bijgewerkt": "19-11-2026 14:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
    "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:16"
@@ -4260,6 +4260,57 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
+   "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:43:15+00:00",
+   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html": {
+   "titel": "Twee aanhoudingen bij politie-inval in kapsalon in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T13:43:14+00:00",
+   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648801/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel.html": {
+   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648801/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel.html",
+   "tekst": "De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer...",
+   "datum": "2026-11-19T13:29:03+00:00",
+   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:29"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html": {
    "titel": "Politie vindt bijna halve kilo amfetamine in big shopper, maar mocht ze de auto van Eindhovenaar wel stopzetten'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html",
@@ -4272,7 +4323,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:13"
@@ -4289,7 +4340,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:13"
@@ -4306,7 +4357,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:13"
@@ -4524,39 +4575,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648182/thema-lezing-in-nuenen-hoe-blijf-je-een-goed-mens.html": {
-   "titel": "Thema-lezing in Nuenen: hoe blijf je een goed mens'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648182/thema-lezing-in-nuenen-hoe-blijf-je-een-goed-mens.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:13:05+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648180/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html": {
-   "titel": "Twee Eindhovenaren staan terecht om drugs, maar mocht de politie wel ingrijpen'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648180/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:13:05+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -4840,71 +4858,39 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
-  "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
-   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
-   "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
-   "tekst": "HELMOND – De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer woonwagens aan de Rivierensingel en Helmondsingel en een bedrijfspand aan de 1e Tussendijk zijn doorzocht. De invallen maken deel uit …",
-   "datum": "2026-11-19T13:25:55+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "112Brabant",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142329a1helmondrit138079": {
+   "titel": "A1 Helmond Rit: 138079",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142329a1helmondrit138079",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T14:23:29+01:00",
+   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "112-nieuws",
+   "soort": "112 ambulance",
    "betaald": false,
    "nieuw": true,
-   "dagen": 7,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "19-11 14:23"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142253ongevalwegvervoerletselkorhoenderhofreigerlaanhe": {
+   "titel": "Ongeval wegvervoer letsel Korhoenderhof Reigerlaan Helmond",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142253ongevalwegvervoerletselkorhoenderhofreigerlaanhe",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-19T14:22:53+01:00",
+   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "19-11 14:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
-   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
-   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
-   "datum": "2026-11-19T12:06:04+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html": {
-   "titel": "Politie onderzoekt mogelijke bedreiging voorafgaand aan explosie bij auto in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:01:04+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647961/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
-   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647961/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
-   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
-   "datum": "2026-11-19T11:55:02+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "tijd": "19-11 14:22"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126132446a2helmondrit138052": {
    "titel": "A2 Helmond Rit: 138052",
@@ -5279,6 +5265,105 @@
    "dagen": 2,
    "prio": true,
    "tijd": "18-11 18:50"
+  },
+  "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
+   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
+   "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
+   "tekst": "HELMOND – De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer woonwagens aan de Rivierensingel en Helmondsingel en een bedrijfspand aan de 1e Tussendijk zijn doorzocht. De invallen maken deel uit …",
+   "datum": "2026-11-19T13:25:55+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648182/thema-lezing-in-nuenen-hoe-blijf-je-een-goed-mens.html": {
+   "titel": "Thema-lezing in Nuenen: hoe blijf je een goed mens'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648182/thema-lezing-in-nuenen-hoe-blijf-je-een-goed-mens.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:13:05+00:00",
+   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648180/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html": {
+   "titel": "Twee Eindhovenaren staan terecht om drugs, maar mocht de politie wel ingrijpen'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648180/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:13:05+00:00",
+   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 13:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
+   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
+   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
+   "datum": "2026-11-19T12:06:04+00:00",
+   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html": {
+   "titel": "Politie onderzoekt mogelijke bedreiging voorafgaand aan explosie bij auto in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T12:01:04+00:00",
+   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 13:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647961/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
+   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647961/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
+   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
+   "datum": "2026-11-19T11:55:02+00:00",
+   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#181126180443steekpartijzuidende5701mghelmond": {
    "titel": "Steekpartij Zuidende 5701MG Helmond",
@@ -12367,7 +12452,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -12387,7 +12472,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
