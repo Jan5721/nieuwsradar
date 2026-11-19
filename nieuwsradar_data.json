@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 09:21",
+ "bijgewerkt": "19-11-2026 09:38",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia": {
    "titel": "SV Deurne wil koppositie verstevigen tegen opgeleefd Limburgia",
@@ -614,23 +614,6 @@
    "prio": false,
    "tijd": "12-11 12:18"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64625/periodetitel-lonkt-voor-sv-deurne": {
-   "titel": "Periodetitel lonkt voor SV Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64625/periodetitel-lonkt-voor-sv-deurne",
-   "tekst": "DEURNE - Dankzij de mooie zege op RKSV Nemelaer van afgelopen weekend hebben de mannen van Frank Teeuwen de beste troeven in handen om komende zondag beslag te leggen op de eerste periodetitel. Met nog één speelronde te gaan bedraagt de voorsprong op de enige overgebleven …",
-   "datum": "2026-11-12T09:29:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 09:29"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64786/ineens-laat-dode-beuk-in-ommel-maria-verschijnen": {
    "titel": "Ineens laat dode beuk in Ommel Maria verschijnen",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64786/ineens-laat-dode-beuk-in-ommel-maria-verschijnen",
@@ -1040,6 +1023,23 @@
    "prio": false,
    "tijd": "18-11 12:40"
   },
+  "https://www.ed.nl/deurne/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne~a0c6f3b5/": {
+   "titel": "Bandeville eert Willy DeVille met concert in Cultuurcentrum Deurne",
+   "link": "https://www.ed.nl/deurne/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne~a0c6f3b5/",
+   "tekst": "Bandeville geeft een concert in Cultuurcentrum Deurne met muziek van en rond Willy DeVille. Zondag 22 november begint het optreden om 15.30 uur.",
+   "datum": "2026-11-19T08:37:06+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:37"
+  },
   "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/": {
    "titel": "Wethouder Deurne geeft les over zichtbaarheid in het verkeer",
    "link": "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/",
@@ -1086,7 +1086,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:12"
@@ -1520,7 +1520,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034299/deze-lichtkunstenaars-willen-de-werknemers-van-vlisco-in-helmond-eren": {
    "titel": "Deze lichtkunstenaars willen de werknemers van Vlisco in Helmond eren",
    "link": "https://www.omroepbrabant.nl/nieuws/6034299/deze-lichtkunstenaars-willen-de-werknemers-van-vlisco-in-helmond-eren",
-   "tekst": "VIDEO donderdag Hij is lang, hij is kaal en hij is de bekendste muur van Helmond: de muur van textielfabriek Vlisco, vlak achter het kasteel van Helmond. Ideaal voor een indrukwekkende projectie voor lichtfestival GLOW. Makers Mark Vankan …",
+   "tekst": "VIDEO 12 november 2026 Hij is lang, hij is kaal en hij is de bekendste muur van Helmond: de muur van textielfabriek Vlisco, vlak achter het kasteel van Helmond. Ideaal voor een indrukwekkende projectie voor lichtfestival GLOW. Makers Mark …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1682,7 +1682,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:21"
@@ -2861,7 +2861,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2878,7 +2878,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2895,7 +2895,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2911,7 +2911,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2927,9 +2927,26 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539904.html": {
+   "titel": "Toestemming voor het samenvoegen van winkels en het realiseren van een extra woning boven aan Heistraat 193, 193A,B,C te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539904.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-538019.html": {
    "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Willem Prinzenstraat te Helmond",
@@ -2943,7 +2960,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2959,7 +2976,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2993,7 +3010,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3009,7 +3026,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3026,7 +3043,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3043,7 +3060,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3059,7 +3076,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3076,7 +3093,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3092,7 +3109,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3109,7 +3126,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3126,7 +3143,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3142,7 +3159,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3159,7 +3176,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3175,7 +3192,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3191,9 +3208,43 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539849.html": {
+   "titel": "Aanvraag vergunning voor een wijziging op een verleende vergunning met betrekking tot het vergroten van een woning aan Gerwenseweg 28 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539849.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539931.html": {
+   "titel": "Toestemming voor het realiseren van horeca met terras aan Dorpsstraat 34 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539931.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-536950.html": {
    "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Nemerlaerhof te Helmond",
@@ -3207,7 +3258,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3223,7 +3274,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3239,7 +3290,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3255,7 +3306,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3271,7 +3322,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3287,7 +3338,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3304,7 +3355,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3337,7 +3388,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3354,7 +3405,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3370,7 +3421,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3387,7 +3438,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3403,9 +3454,26 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539857.html": {
+   "titel": "Aanvraag vergunning voor het plaatsen van een overkapping aan Bergheide 3 te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539857.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-539838.html": {
    "titel": "Aanvraag vergunning voor het plaatsen van twee bijgebouwen aan Hof Bruheze 16 te Helmond",
@@ -3419,7 +3487,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3436,7 +3504,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3452,7 +3520,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3468,7 +3536,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3484,7 +3552,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3501,7 +3569,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3518,7 +3586,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3551,7 +3619,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3567,7 +3635,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3583,7 +3651,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3599,7 +3667,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3616,7 +3684,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3632,7 +3700,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3649,7 +3717,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3665,7 +3733,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3682,7 +3750,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -3699,39 +3767,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://zoek.officielebekendmakingen.nl/gmb-2026-537983.html": {
-   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Rivierensingel te Helmond",
-   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537983.html",
-   "tekst": "",
-   "datum": "2026-11-19T00:00:00+00:00",
-   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
-   "bron": "Bekendmakingen Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "bekendmaking",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://zoek.officielebekendmakingen.nl/gmb-2026-538201.html": {
-   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Icarusstraat te Helmond",
-   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538201.html",
-   "tekst": "",
-   "datum": "2026-11-19T00:00:00+00:00",
-   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
-   "bron": "Bekendmakingen Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "bekendmaking",
-   "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3752,6 +3788,23 @@
    "prio": false,
    "tijd": "17-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539949.html": {
+   "titel": "Kennisgeving besluit intrekking omgevingsvergunning Riet 14 5754PG Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539949.html",
+   "tekst": "het gedeeltelijk intrekken van omgevingsvergunning HZ-2013-0796 met datum 19-09-2013 voor het onderdeel veehouderij",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-539290.html": {
    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Mijnenweg 10 5758AD Neerkant",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539290.html",
@@ -3764,7 +3817,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -4017,7 +4070,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -4142,6 +4195,23 @@
    "prio": false,
    "tijd": "16-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-541456.html": {
+   "titel": "Gemeente Asten - verleende omgevingsvergunning, Snepweg 12 5725RC Heusden",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-541456.html",
+   "tekst": "het bouwen van een schuur",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-538245.html": {
    "titel": "Gemeente Asten - Gedoogbeslissing ten behoeve van het realiseren van een tijdelijke opvangvoorziening voor asielzoekers aan de Kanaalweg Asten",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538245.html",
@@ -4175,6 +4245,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-540237.html": {
+   "titel": "Gemeente Asten - aanvraag omgevingsvergunning, Marsstraat 28 5721XW Asten",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-540237.html",
+   "tekst": "het plaatsen van een dakkapel op het voordakvlak van een woning",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-541457.html": {
+   "titel": "Gemeente Asten - verleende omgevingsvergunning, Gevlochtsebaan 7 5725RD Heusden",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-541457.html",
+   "tekst": "het bouwen van een bedrijfsruimte",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-535480.html": {
    "titel": "Gemeente Asten - aanvraag omgevingsvergunning kappen van bomen op diverse locaties",
@@ -4210,6 +4314,23 @@
    "prio": false,
    "tijd": "16-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-539903.html": {
+   "titel": "Gemeente Asten - verleende omgevingsvergunning, Berken 7 5724AN Ommel",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539903.html",
+   "tekst": "het bouwen van een schuur",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-539612.html": {
    "titel": "Gemeente Asten - verleende omgevingsvergunning, Zeilhoekweg 1 5725RP Heusden",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539612.html",
@@ -4222,7 +4343,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -4244,6 +4365,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-540583.html": {
+   "titel": "Aanvraag omgevingsvergunning Amarant 2 te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-540583.html",
+   "tekst": "Oprichten van een bijgebouw Amarant 2",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-530299.html": {
    "titel": "Verordening straatnamen en huisnummers gemeente Someren 2026",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-530299.html",
@@ -4260,6 +4398,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-540591.html": {
+   "titel": "Aanvraag omgevingsvergunning Kerkendijk 44 te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-540591.html",
+   "tekst": "Kappen van drie bomen Kerkendijk 44",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-540572.html": {
+   "titel": "Aanvraag omgevingsvergunning Heikantstraat ong (nabij 2) te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-540572.html",
+   "tekst": "Oprichten van een recreatiewoning Heikantstraat ong (nabij 2)",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-540604.html": {
+   "titel": "Verlenen omgevingsvergunning Molenbrugweg 17 te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-540604.html",
+   "tekst": "Afwijken bestemming tijdelijk legaliseren verbouw Molenbrugweg 17",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-531830.html": {
    "titel": "Verlenen omgevingsvergunning Speelheuvelstraat 5 te Someren",
@@ -4295,6 +4484,23 @@
    "prio": false,
    "tijd": "16-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-540954.html": {
+   "titel": "Beleidsregel Opiumwet 13b gemeente Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-540954.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-530333.html": {
    "titel": "Nadere regels straatnamen en huisnummers gemeente Someren 2026",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-530333.html",
@@ -4312,12 +4518,12 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108646095/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
    "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646095/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
    "tekst": "",
-   "datum": "2026-11-19T08:19:02+00:00",
-   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "datum": "2026-11-19T08:25:11+00:00",
+   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4327,7 +4533,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "19-11 09:19"
+   "tijd": "19-11 09:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108646012/opknapbeurt-verandert-internationale-bushalte-van-somber-visitekaartje-in-fijn-startpunt.html": {
    "titel": "Opknapbeurt verandert internationale bushalte van `somber visitekaartje` in fijn startpunt",
@@ -4341,7 +4547,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:13"
@@ -4560,22 +4766,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 07:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645544/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
-   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645544/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:49:05+00:00",
-   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108642000/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk.html": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
@@ -4871,7 +5061,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 09:08"
@@ -5215,6 +5405,71 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-537983.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Rivierensingel te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-537983.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-538201.html": {
+   "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Icarusstraat te Helmond",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538201.html",
+   "tekst": "",
+   "datum": "2026-11-19T00:00:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
+   "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
+   "tekst": "",
+   "datum": "2026-11-19T08:19:02+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645544/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
+   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645544/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:49:05+00:00",
+   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html": {
    "titel": "Waarom PSV gelooft dat de stadionuitbreiding haalbaar is: `Anders missen we een hele generatie supporters`",
@@ -11216,7 +11471,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 37,
+   "aantal": 36,
    "fout": ""
   },
   "Peelbelang": {
@@ -11236,7 +11491,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -11296,27 +11551,27 @@
   },
   "Bekendmakingen Helmond": {
    "ok": true,
-   "aantal": 54,
+   "aantal": 56,
    "fout": ""
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 20,
    "fout": ""
   },
   "Bekendmakingen Asten": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 14,
    "fout": ""
   },
   "Bekendmakingen Someren": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 10,
    "fout": ""
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
