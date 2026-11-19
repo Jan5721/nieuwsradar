@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 10:59",
+ "bijgewerkt": "19-11-2026 11:15",
  "items": {
   "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
    "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
@@ -3496,6 +3496,23 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108646997/student-stuurt-beeld-van-gewapende-mannen-na-jarenlange-intimidatie-uitgeschreven-bij-universiteiten-in-tilburg-en-eindhoven.html": {
+   "titel": "Student stuurt beeld van gewapende mannen: na jarenlange intimidatie uitgeschreven bij universiteiten in Tilburg en Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646997/student-stuurt-beeld-van-gewapende-mannen-na-jarenlange-intimidatie-uitgeschreven-bij-universiteiten-in-tilburg-en-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T10:13:05+00:00",
+   "eerst_gezien": "2026-11-19T10:15:11.972679+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 11:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108646734/bloedende-man-21-aangehouden-op-eindhoven-centraal-blijkt-zichzelf-verwond-te-hebben.html": {
    "titel": "Bloedende man (21) aangehouden op Eindhoven Centraal: blijkt zichzelf verwond te hebben",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108646734/bloedende-man-21-aangehouden-op-eindhoven-centraal-blijkt-zichzelf-verwond-te-hebben.html",
@@ -3508,7 +3525,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:49"
@@ -3525,7 +3542,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:49"
@@ -3708,40 +3725,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
-   "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:25:11+00:00",
-   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645693/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html": {
-   "titel": "IVN Geldrop doet mee aan landelijke zoektocht naar winterbloei",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645693/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:21:38+00:00",
-   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:21"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108642000/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk.html": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
@@ -4008,6 +3991,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
+   "titel": "Man aangehouden na mogelijk steekincident in appartement",
+   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
+   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
+   "datum": "2026-11-18T18:09:03+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:09"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
+   "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
+   "tekst": "",
+   "datum": "2026-11-19T07:25:11+00:00",
+   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 08:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645693/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html": {
+   "titel": "IVN Geldrop doet mee aan landelijke zoektocht naar winterbloei",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645693/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html",
+   "tekst": "",
+   "datum": "2026-11-19T07:21:38+00:00",
+   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 08:21"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103607a2helmondrit137931": {
    "titel": "A2 Helmond Rit: 137931",
@@ -4348,23 +4382,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "18-11 16:16"
-  },
-  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
-   "titel": "Man aangehouden na mogelijk steekincident in appartement",
-   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
-   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
-   "datum": "2026-11-18T18:09:03+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 19:09"
   },
   "https://www.omroepbrabant.nl/nieuws/6033698/stroomstoring-in-someren": {
    "titel": "Stroomstoring in Someren",
@@ -9055,23 +9072,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#171126111309a2helmondrit137031": {
-   "titel": "A2 Helmond Rit: 137031",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#171126111309a2helmondrit137031",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-132)",
-   "datum": "2026-11-17T11:13:09+01:00",
-   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "17-11 11:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html": {
    "titel": "Wendy en Youri (19) nemen slagerij over: ´Vrienden vinden ons gek´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html",
@@ -11767,7 +11767,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -11787,7 +11787,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
