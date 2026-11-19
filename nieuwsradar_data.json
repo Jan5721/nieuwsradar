@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 02:39",
+ "bijgewerkt": "19-11-2026 02:55",
  "items": {
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -3119,7 +3119,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 02:30"
