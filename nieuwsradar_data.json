@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 02:23",
+ "bijgewerkt": "19-11-2026 02:39",
  "items": {
   "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -3106,6 +3106,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "12-11 07:37"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126023042a2helmondrit137789": {
+   "titel": "A2 Helmond Rit: 137789",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126023042a2helmondrit137789",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-19T02:30:42+01:00",
+   "eerst_gezien": "2026-11-19T01:39:06.666276+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "19-11 02:30"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126010012a2helmondrit137767": {
    "titel": "A2 Helmond Rit: 137767",
@@ -10002,7 +10019,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
