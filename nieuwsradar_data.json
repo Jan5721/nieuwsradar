@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 07:45",
+ "bijgewerkt": "19-11-2026 08:01",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64779/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
    "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
@@ -932,7 +932,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 07:39"
@@ -1040,6 +1040,23 @@
    "prio": false,
    "tijd": "18-11 11:30"
   },
+  "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/": {
+   "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: ‘Want die bestaan niet’",
+   "link": "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/",
+   "tekst": "De eerste bezoekers van het Kasteel van Sinterklaas in Helmond laten zich niet zomaar foppen. „Waarom is mijn tekening opgehaald, maar heb ik nog geen cadeau gehad?” De vraag komt van een kritische jongen met een groen pietenmutsje op.",
+   "datum": "2026-11-19T07:00:17+00:00",
+   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 08:00"
+  },
   "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/": {
    "titel": "Wethouder Deurne geeft les over zichtbaarheid in het verkeer",
    "link": "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/",
@@ -1125,23 +1142,6 @@
    "prio": false,
    "tijd": "18-11 12:58"
   },
-  "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/": {
-   "titel": "Afgelopen week 7 meldingen van de gemeente over onder meer bouw in Asten",
-   "link": "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/",
-   "tekst": "In de afgelopen week heeft de gemeente Asten in totaal zeven vergunningaanvragen verwerkt, waarvan zes voor Asten en één voor Heusden. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-18T10:03:43+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:03"
-  },
   "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/": {
    "titel": "Someren hijst vlag voor campagne tegen geweld tegen vrouwen",
    "link": "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/",
@@ -1159,23 +1159,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 14:39"
-  },
-  "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/": {
-   "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Someren",
-   "link": "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/",
-   "tekst": "In de afgelopen week heeft de gemeente Someren in totaal dertien vergunningaanvragen verwerkt, waarvan twaalf voor Someren en één voor Lierop. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-18T10:04:45+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:04"
   },
   "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
    "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
@@ -3426,6 +3409,73 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645550/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html": {
+   "titel": "Waarom PSV gelooft dat de stadionuitbreiding haalbaar is: `Anders missen we een hele generatie supporters`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645550/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:49:06+00:00",
+   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645548/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html": {
+   "titel": "Weet je nog' Deze `GTA`-streetart stond jarenlang op de muur in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645548/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:49:06+00:00",
+   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645546/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html": {
+   "titel": "Harmonie Phileutonia uit Eindhoven houdt familiekerstconcert met kerstmarkt in Nuenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645546/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:49:06+00:00",
+   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108645544/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
+   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645544/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-19T06:49:05+00:00",
+   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html": {
    "titel": "Waarom PSV gelooft dat de stadionuitbreiding haalbaar is: `Anders missen we een hele generatie supporters`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html",
@@ -3438,10 +3488,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:43"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html": {
    "titel": "Weet je nog' Deze `GTA`-streetart stond jarenlang op de muur in Eindhoven",
@@ -3455,10 +3504,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:43"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html": {
    "titel": "Harmonie Phileutonia uit Eindhoven houdt familiekerstconcert met kerstmarkt in Nuenen",
@@ -3472,10 +3520,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:43"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
    "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
@@ -3489,7 +3536,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3658,57 +3705,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 22:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640533/david-tegen-goliath-om-naam-juwelier-stockx-vecht-met-miljardenbedrijf-stockx-in-de-rechtbank.html": {
-   "titel": "David tegen Goliath om naam: juwelier Stockx vecht met miljardenbedrijf StockX in de rechtbank",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640533/david-tegen-goliath-om-naam-juwelier-stockx-vecht-met-miljardenbedrijf-stockx-in-de-rechtbank.html",
-   "tekst": "",
-   "datum": "2026-11-18T20:43:34+00:00",
-   "eerst_gezien": "2026-11-18T20:49:59.853384+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 21:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640532/zilveren-draaginsigne-voor-mark-van-schaijk.html": {
-   "titel": "Zilveren draaginsigne voor Mark van Schaijk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640532/zilveren-draaginsigne-voor-mark-van-schaijk.html",
-   "tekst": "",
-   "datum": "2026-11-18T20:43:34+00:00",
-   "eerst_gezien": "2026-11-18T20:49:59.853384+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 21:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640424/bloedende-man-21-aangehouden-na-mogelijk-mishandelen-ns-medewerker-bij-eindhoven-centraal.html": {
-   "titel": "Bloedende man (21) aangehouden na mogelijk mishandelen NS-medewerker bij Eindhoven Centraal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640424/bloedende-man-21-aangehouden-na-mogelijk-mishandelen-ns-medewerker-bij-eindhoven-centraal.html",
-   "tekst": "",
-   "datum": "2026-11-18T20:21:31+00:00",
-   "eerst_gezien": "2026-11-18T20:33:53.008253+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 21:21"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -3975,6 +3971,108 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
+   "titel": "Man aangehouden na mogelijk steekincident in appartement",
+   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
+   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
+   "datum": "2026-11-18T18:09:03+00:00",
+   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 19:09"
+  },
+  "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/": {
+   "titel": "Afgelopen week 7 meldingen van de gemeente over onder meer bouw in Asten",
+   "link": "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/",
+   "tekst": "In de afgelopen week heeft de gemeente Asten in totaal zeven vergunningaanvragen verwerkt, waarvan zes voor Asten en één voor Heusden. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-18T10:03:43+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:03"
+  },
+  "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/": {
+   "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Someren",
+   "link": "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/",
+   "tekst": "In de afgelopen week heeft de gemeente Someren in totaal dertien vergunningaanvragen verwerkt, waarvan twaalf voor Someren en één voor Lierop. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-18T10:04:45+00:00",
+   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 11:04"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108640533/david-tegen-goliath-om-naam-juwelier-stockx-vecht-met-miljardenbedrijf-stockx-in-de-rechtbank.html": {
+   "titel": "David tegen Goliath om naam: juwelier Stockx vecht met miljardenbedrijf StockX in de rechtbank",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640533/david-tegen-goliath-om-naam-juwelier-stockx-vecht-met-miljardenbedrijf-stockx-in-de-rechtbank.html",
+   "tekst": "",
+   "datum": "2026-11-18T20:43:34+00:00",
+   "eerst_gezien": "2026-11-18T20:49:59.853384+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 21:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108640532/zilveren-draaginsigne-voor-mark-van-schaijk.html": {
+   "titel": "Zilveren draaginsigne voor Mark van Schaijk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640532/zilveren-draaginsigne-voor-mark-van-schaijk.html",
+   "tekst": "",
+   "datum": "2026-11-18T20:43:34+00:00",
+   "eerst_gezien": "2026-11-18T20:49:59.853384+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 21:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108640424/bloedende-man-21-aangehouden-na-mogelijk-mishandelen-ns-medewerker-bij-eindhoven-centraal.html": {
+   "titel": "Bloedende man (21) aangehouden na mogelijk mishandelen NS-medewerker bij Eindhoven Centraal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640424/bloedende-man-21-aangehouden-na-mogelijk-mishandelen-ns-medewerker-bij-eindhoven-centraal.html",
+   "tekst": "",
+   "datum": "2026-11-18T20:21:31+00:00",
+   "eerst_gezien": "2026-11-18T20:33:53.008253+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "18-11 21:21"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126072813a1helenaveenrit137826": {
    "titel": "A1 Helenaveen Rit: 137826",
@@ -4298,23 +4396,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 11:20"
-  },
-  "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/": {
-   "titel": "Man aangehouden na mogelijk steekincident in appartement",
-   "link": "https://112brabant.nl/2026/11/18/man-aangehouden-na-mogelijk-steekincident-in-appartement/",
-   "tekst": "HELMOND – Aan het Zuideinde in Helmond is woensdagavond een man aangehouden in verband met een mogelijk steekincident. Het incident zou zich hebben afgespeeld in een van de appartementen. Wat er precies is gebeurd, is nog onduidelijk. De politie doet onderzoek. Voor zover bekend …",
-   "datum": "2026-11-18T18:09:03+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 19:09"
   },
   "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/": {
    "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
@@ -10003,17 +10084,17 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -10083,7 +10164,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -10103,7 +10184,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
