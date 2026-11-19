@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "19-11-2026 23:09",
+ "bijgewerkt": "19-11-2026 23:25",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -4228,6 +4228,105 @@
    "prio": false,
    "tijd": "13-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108653187/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne.html": {
+   "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108653187/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne.html",
+   "tekst": "De Fiscale Inlichtingen - en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk...",
+   "datum": "2026-11-19T22:17:06+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108653024/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html": {
+   "titel": "Bijna alle internationals terug bij FC Dordrecht voor duel met Helmond Sport",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108653024/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:16:03+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 23:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652977/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
+   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652977/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:15:03+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 23:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652974/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652974/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:15:02+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652972/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
+   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652972/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:15:02+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652756/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652756/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:12:02+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html": {
    "titel": "87-jarige fietser belandt in rolstoel na aanrijding in Son en Breugel, automobiliste (55) vecht tegen tranen in rechtszaal",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html",
@@ -4392,89 +4491,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
-   "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:43:16+00:00",
-   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 20:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651601/fietser-zwaargewond-nadat-automobilist-andere-auto-achtervolgt-en-crasht-in-eindhoven.html": {
-   "titel": "Fietser zwaargewond nadat automobilist andere auto achtervolgt en crasht in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651601/fietser-zwaargewond-nadat-automobilist-andere-auto-achtervolgt-en-crasht-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:43:16+00:00",
-   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 20:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651542/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
-   "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651542/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:31:04+00:00",
-   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651536/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651536/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:29:06+00:00",
-   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
-   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:43:15+00:00",
-   "eerst_gezien": "2026-11-19T16:45:04.272127+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:43"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html",
@@ -4572,22 +4588,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:20:03+00:00",
-   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
    "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
@@ -4603,40 +4603,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html": {
-   "titel": "Bronsgieterij Royal Eijsbouts, Asten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108584077/bronsgieterij-royal-eijsbouts-asten.html",
-   "tekst": "Een gebroken bronzen beeld van een kunstenaar maakte dat ik op zoek moest naar een bronsgieterij, maar waar zijn die en wat is dan een goede...",
-   "datum": "2026-11-12T22:24:04+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:24"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html": {
-   "titel": "Speciaal plan Snack Products voor eigen huisvesting positief ontvangen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108582863/speciaal-plan-snack-products-voor-eigen-huisvesting-positief-ontvangen.html",
-   "tekst": "Komkommerteler Snack Products heeft plannen voor een eigen huisvestingslocatie in Heusden. Er moeten 192 eigen medewerkers gehuisvest...",
-   "datum": "2026-11-12T22:09:47+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "12-11 23:09"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108632920/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
@@ -5215,6 +5181,105 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
+   "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:43:16+00:00",
+   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 20:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651601/fietser-zwaargewond-nadat-automobilist-andere-auto-achtervolgt-en-crasht-in-eindhoven.html": {
+   "titel": "Fietser zwaargewond nadat automobilist andere auto achtervolgt en crasht in Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651601/fietser-zwaargewond-nadat-automobilist-andere-auto-achtervolgt-en-crasht-in-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:43:16+00:00",
+   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 20:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651542/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
+   "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651542/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:31:04+00:00",
+   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651536/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651536/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T19:29:06+00:00",
+   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
+   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
+   "tekst": "",
+   "datum": "2026-11-19T16:43:15+00:00",
+   "eerst_gezien": "2026-11-19T16:45:04.272127+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 17:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
+   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
+   "tekst": "",
+   "datum": "2026-11-18T09:20:03+00:00",
+   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126072813a1helenaveenrit137826": {
    "titel": "A1 Helenaveen Rit: 137826",
@@ -13446,17 +13511,17 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 6,
    "fout": ""
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 1,
    "fout": ""
   },
   "Drimble Someren": {
