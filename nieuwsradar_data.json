@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "20-11-2026 15:46",
+ "bijgewerkt": "20-11-2026 16:03",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64811/bandeville-keert-terug-naar-deurne": {
+   "titel": "Bandeville keert terug naar Deurne met optreden in het Cultuurcentrum",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64811/bandeville-keert-terug-naar-deurne",
+   "tekst": "DEURNE - De band Bandeville staat zondag 22 november om 15.30 uur opnieuw op het podium van het Cultuurcentrum in Deurne. Na het optreden van vorig jaar keert de zesmansformatie terug met de nieuwe show 'Love And Emotion'. Naast nummers van de Amerikaanse singer-songwriter Willy …",
+   "datum": "2026-11-20T15:54:18+01:00",
+   "eerst_gezien": "2026-11-20T15:02:30.676186+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 15:54"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64806/ontmoetingsmaaltijd-brengt-culturen-samen-in-deurne": {
    "titel": "Ontmoetingsmaaltijd brengt culturen samen in Deurne",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64806/ontmoetingsmaaltijd-brengt-culturen-samen-in-deurne",
@@ -1402,7 +1419,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond": {
    "titel": "Ruim honderd processen-verbaal tijdens verkeerscontrole in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond",
-   "tekst": "zaterdag Bij een verkeerscontrole die donderdag plaatsvond op de Helmondsingel in Helmond zijn 101 processen-verbaal uitgeschreven. Dat maakte de politie vrijdagnacht bekend. Een vreemdeling werd aangehouden omdat die geen …",
+   "tekst": "14 november 2026 Bij een verkeerscontrole die donderdag plaatsvond op de Helmondsingel in Helmond zijn 101 processen-verbaal uitgeschreven. Dat maakte de politie vrijdagnacht bekend. Een vreemdeling werd aangehouden omdat die geen …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1571,7 +1588,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis": {
    "titel": "Drie auto's botsen op elkaar in Deurne, één gewonde naar ziekenhuis",
    "link": "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis",
-   "tekst": "",
+   "tekst": "VIDEO",
    "datum": "2026-11-20T12:05:53.839896+00:00",
    "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4526,6 +4543,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
+   "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html",
+   "tekst": "",
+   "datum": "2026-11-20T14:55:05+00:00",
+   "eerst_gezien": "2026-11-20T15:02:30.676186+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 15:55"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
@@ -5088,7 +5122,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 15:44"
@@ -5105,7 +5139,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 15:38"
@@ -15045,7 +15079,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 35,
    "fout": ""
   },
   "Peelbelang": {
@@ -15145,7 +15179,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
