@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 09:53",
+ "bijgewerkt": "20-11-2026 10:09",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -869,6 +869,40 @@
    "prio": false,
    "tijd": "13-11 11:42"
   },
+  "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/": {
+   "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
+   "link": "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/",
+   "tekst": "Wil je jezelf eens goed in de watten leggen door een mooie designertas, nieuwe schoenen of een perfecte feestoutfit te kopen? Dan is een dagje naar een outletcentrum waar je hoge kortingen krijgt een goed idee. Check hier wat het dichtstbijzijnde shopwalhalla vanuit Helmond is.",
+   "datum": "2026-11-20T09:00:00+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 10:00"
+  },
+  "https://www.ed.nl/asten/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel~a62db72e/": {
+   "titel": "Sancta Maria brengt nieuwe kerstvoorstelling met muziek en toneel in Ommel",
+   "link": "https://www.ed.nl/asten/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel~a62db72e/",
+   "tekst": "Muziekvereniging Sancta Maria uit Ommel brengt een nieuwe kerstvoorstelling met muziek, zang en toneel. Zaterdag 12 december begint de voorstelling om 20.00 uur in gemeenschapshuis De Kluis in Ommel, de zaal gaat open om 19.30 uur.",
+   "datum": "2026-11-20T08:57:44+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:57"
+  },
   "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/": {
    "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
    "link": "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/",
@@ -978,7 +1012,7 @@
    "tekst": "Bandeville geeft een concert in Cultuurcentrum Deurne met muziek van en rond Willy DeVille. Zondag 22 november begint het optreden om 15.30 uur.",
    "datum": "2026-11-19T08:37:06+00:00",
    "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
-   "bron": "ED Deurne",
+   "bron": "ED Asten",
    "gemeenten": [
     "Deurne"
    ],
@@ -1512,7 +1546,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 09:52"
@@ -1529,7 +1563,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 09:52"
@@ -2077,7 +2111,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 09:52"
@@ -2094,7 +2128,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 09:52"
@@ -4509,6 +4543,104 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657488/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html": {
+   "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657488/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:07:21+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657487/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html": {
+   "titel": "De bus heeft in Eindhoven prioriteit, maar alleen als het goed uitkomt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657487/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:07:21+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 10:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657427/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel.html": {
+   "titel": "Sancta Maria brengt nieuwe kerstvoorstelling met muziek en toneel in Ommel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657427/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:01:05+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657426/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html": {
+   "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657426/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:01:04+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657425/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html": {
+   "titel": "De bus heeft in Eindhoven prioriteit, maar alleen als het goed uitkomt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657425/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:01:04+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657341/achtervolging-tussen-twee-autos-eindigt-in-ernstig-ongeluk-met-fietser-bestuurder-mogelijk-onder-invloed.html": {
+   "titel": "Achtervolging tussen twee auto`s eindigt in ernstig ongeluk met fietser: bestuurder mogelijk onder invloed",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657341/achtervolging-tussen-twee-autos-eindigt-in-ernstig-ongeluk-met-fietser-bestuurder-mogelijk-onder-invloed.html",
+   "tekst": "",
+   "datum": "2026-11-20T08:55:05+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:55"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html": {
    "titel": "Achtervolging tussen twee auto´s eindigt met aanrijding fietser in Eindhoven, ernstig ongeluk",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html",
@@ -4521,7 +4653,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 09:49"
@@ -4691,46 +4823,13 @@
    "prio": false,
    "tijd": "20-11 06:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656213/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
-   "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656213/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
-   "tekst": "",
-   "datum": "2026-11-20T05:43:14+00:00",
-   "eerst_gezien": "2026-11-20T05:56:06.456605+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 06:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656091/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad.html": {
-   "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656091/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad.html",
-   "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal...",
-   "datum": "2026-11-20T05:17:03+00:00",
-   "eerst_gezien": "2026-11-20T05:24:06.308961+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
    "tekst": "",
    "datum": "2026-11-19T23:42:09+00:00",
    "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
-   "bron": "Drimble Helmond",
+   "bron": "Drimble Deurne",
    "gemeenten": [
     "Helmond"
    ],
@@ -4740,22 +4839,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 00:42"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108655648/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655648/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T23:42:08+00:00",
-   "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108653187/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne.html": {
    "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
@@ -5022,6 +5105,23 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126095648a1helmondrit138421": {
+   "titel": "A1 Helmond Rit: 138421",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126095648a1helmondrit138421",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T09:56:48+01:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 09:56"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126093838a1lieroprit138403": {
    "titel": "A1 Lierop Rit: 138403",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126093838a1lieroprit138403",
@@ -5034,7 +5134,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 09:38"
@@ -5497,6 +5597,55 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 13:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656213/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
+   "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656213/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
+   "tekst": "",
+   "datum": "2026-11-20T05:43:14+00:00",
+   "eerst_gezien": "2026-11-20T05:56:06.456605+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 06:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656091/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad.html": {
+   "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656091/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad.html",
+   "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal...",
+   "datum": "2026-11-20T05:17:03+00:00",
+   "eerst_gezien": "2026-11-20T05:24:06.308961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108655648/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655648/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T23:42:08+00:00",
+   "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -9339,23 +9488,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "18-11 10:09"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398": {
-   "titel": "A1 Helmond Rit: 137398",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126095843a1helmondrit137398",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T09:58:43+01:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "18-11 09:58"
   },
   "https://www.omroepbrabant.nl/nieuws/6033604/stroomstoring-in-deurne-herstel-verwacht-rond-tien-uur": {
    "titel": "Stroomstoring in Deurne, herstel verwacht rond tien uur",
@@ -14243,17 +14375,17 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 7,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "ED Someren": {
@@ -14328,12 +14460,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "Drimble Asten": {
@@ -14348,7 +14480,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
