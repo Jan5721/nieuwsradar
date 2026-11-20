@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "20-11-2026 16:51",
+ "bijgewerkt": "20-11-2026 17:07",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne": {
+   "titel": "Fietser gewond bij botsing met auto op de Maassingel in Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne",
+   "tekst": "DEURNE - Een fietser is vrijdagmiddag gewond geraakt bij een aanrijding met een auto op de Maassingel in Deurne. Het ongeval gebeurde rond 16.35 uur.",
+   "datum": "2026-11-20T17:00:00+01:00",
+   "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:00"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64811/bandeville-keert-terug-naar-deurne": {
    "titel": "Bandeville keert terug naar Deurne met optreden in het Cultuurcentrum",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64811/bandeville-keert-terug-naar-deurne",
@@ -580,23 +597,6 @@
    "prio": false,
    "tijd": "14-11 10:58"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64647/zie-ginds": {
-   "titel": "Zie ginds",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64647/zie-ginds",
-   "tekst": "Omdat al direct na de grote vakantie de pepernoten in de schappen van de supermarkten liggen wordt het onderhand wel eens tijd dat de Goedheiligman koers zet naar ons koude kikkerlandje. Komende zaterdag arriveert hij in Grave waar dit jaar de stoomboot aanmeert. Vanaf afgelopen …",
-   "datum": "2026-11-13T17:00:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 17:00"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden",
@@ -1125,12 +1125,12 @@
    "prio": false,
    "tijd": "20-11 11:16"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035605/bazen-filmen-zieke-kapster-in-sportschool-maar-mogen-haar-niet-ontslaan": {
-   "titel": "Bazen filmen zieke kapster in sportschool, maar mogen haar niet ontslaan",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035605/bazen-filmen-zieke-kapster-in-sportschool-maar-mogen-haar-niet-ontslaan",
+  "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag": {
+   "titel": "Zieke kapster heeft eigen bedrijf en geeft sportles, baas wil ontslag",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag",
    "tekst": "",
-   "datum": "2026-11-20T15:50:59.803692+00:00",
-   "eerst_gezien": "2026-11-20T15:50:59.803692+00:00",
+   "datum": "2026-11-20T16:07:17.746385+00:00",
+   "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
    "gemeenten": [
     "Helmond"
@@ -1140,7 +1140,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 16:50"
+   "tijd": "20-11 17:07"
   },
   "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
    "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
@@ -2256,7 +2256,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind": {
    "titel": "Prins Koen I en Prinses Karlijn leiden carnaval in Someren-Eind",
    "link": "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind",
-   "tekst": "zaterdag Koen Wijnen en Karlijn Swinkels zijn uitgeroepen tot het 69e Prinsenpaar van Carnavalsvereniging De Plattevonder in Someren-Eind.",
+   "tekst": "14 november 2026 Koen Wijnen en Karlijn Swinkels zijn uitgeroepen tot het 69e Prinsenpaar van Carnavalsvereniging De Plattevonder in Someren-Eind.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4560,6 +4560,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108661147/dordrecht-hoopt-strijdvaardigheid-tegen-heracles-om-te-zetten-in-punten-bij-helmond-sport.html": {
+   "titel": "Dordrecht hoopt strijdvaardigheid tegen Heracles om te zetten in punten bij Helmond Sport",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661147/dordrecht-hoopt-strijdvaardigheid-tegen-heracles-om-te-zetten-in-punten-bij-helmond-sport.html",
+   "tekst": "",
+   "datum": "2026-11-20T16:04:07+00:00",
+   "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:04"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108661057/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren.html": {
    "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: `Je hebt verleende rechten te respecteren`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108661057/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren.html",
@@ -4572,7 +4589,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4762,23 +4779,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 13:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108659235/ze-wist-als-kind-al-wat-ze-wilde-worden-nu-viert-thea-een-bijzonder-jubileum-in-het-onderwijs.html": {
-   "titel": "Ze wist als kind al wat ze wilde worden; nu viert Thea een bijzonder jubileum in het onderwijs",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659235/ze-wist-als-kind-al-wat-ze-wilde-worden-nu-viert-thea-een-bijzonder-jubileum-in-het-onderwijs.html",
-   "tekst": "",
-   "datum": "2026-11-20T12:19:02+00:00",
-   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 13:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
    "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
@@ -5074,7 +5074,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 16:36"
@@ -5605,6 +5605,40 @@
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 00:46"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035605/bazen-filmen-zieke-kapster-in-sportschool-maar-mogen-haar-niet-ontslaan": {
+   "titel": "Bazen filmen zieke kapster in sportschool, maar mogen haar niet ontslaan",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035605/bazen-filmen-zieke-kapster-in-sportschool-maar-mogen-haar-niet-ontslaan",
+   "tekst": "",
+   "datum": "2026-11-20T15:50:59.803692+00:00",
+   "eerst_gezien": "2026-11-20T15:50:59.803692+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 16:50"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108659235/ze-wist-als-kind-al-wat-ze-wilde-worden-nu-viert-thea-een-bijzonder-jubileum-in-het-onderwijs.html": {
+   "titel": "Ze wist als kind al wat ze wilde worden; nu viert Thea een bijzonder jubileum in het onderwijs",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659235/ze-wist-als-kind-al-wat-ze-wilde-worden-nu-viert-thea-een-bijzonder-jubileum-in-het-onderwijs.html",
+   "tekst": "",
+   "datum": "2026-11-20T12:19:02+00:00",
+   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 13:19"
   },
   "https://www.omroepbrabant.nl/nieuws/6034573/twee-autos-botsen-op-kruising-in-helmond-kinderen-ongedeerd": {
    "titel": "Twee auto’s botsen op kruising in Helmond, kinderen ongedeerd",
