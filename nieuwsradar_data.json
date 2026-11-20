@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 01:02",
+ "bijgewerkt": "20-11-2026 01:18",
  "items": {
   "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -2641,7 +2641,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2658,7 +2658,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2674,7 +2674,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2690,7 +2690,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2706,7 +2706,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2722,7 +2722,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2739,7 +2739,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2756,7 +2756,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2773,7 +2773,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2789,7 +2789,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2806,7 +2806,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2822,7 +2822,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2839,7 +2839,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
@@ -2856,7 +2856,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2872,7 +2872,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3993,7 +3993,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -4010,7 +4010,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 00:46"
