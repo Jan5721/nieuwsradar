@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 02:07",
+ "bijgewerkt": "20-11-2026 02:23",
  "items": {
   "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -1485,6 +1485,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -3964,39 +3981,22 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
-  "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
-   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
-   "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
-   "tekst": "HELMOND – De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer woonwagens aan de Rivierensingel en Helmondsingel en een bedrijfspand aan de 1e Tussendijk zijn doorzocht. De invallen maken deel uit …",
-   "datum": "2026-11-19T13:25:55+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "112Brabant",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126015745a2helmondrit138304": {
+   "titel": "A2 Helmond Rit: 138304",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126015745a2helmondrit138304",
+   "tekst": "Ambulance 22-112 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T01:57:45+01:00",
+   "eerst_gezien": "2026-11-20T01:22:38.282028+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "112-nieuws",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "19-11 14:25"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
+   "tijd": "20-11 01:57"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126010004a2helmondrit138300": {
    "titel": "A2 Helmond Rit: 138300",
@@ -4473,6 +4473,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 08:31"
+  },
+  "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
+   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
+   "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
+   "tekst": "HELMOND – De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer woonwagens aan de Rivierensingel en Helmondsingel en een bedrijfspand aan de 1e Tussendijk zijn doorzocht. De invallen maken deel uit …",
+   "datum": "2026-11-19T13:25:55+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:25"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083100a2somerenrit137853": {
    "titel": "A2 Someren Rit: 137853",
@@ -13647,9 +13664,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal server error"
+   "ok": true,
+   "aantal": 1,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -13708,7 +13725,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
