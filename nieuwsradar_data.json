@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 17:56",
+ "bijgewerkt": "20-11-2026 18:12",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne": {
    "titel": "Fietser gewond bij botsing met auto op de Maassingel in Deurne",
@@ -1073,24 +1073,6 @@
    "prio": false,
    "tijd": "19-11 19:30"
   },
-  "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
-   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
-   "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
-   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. „Er ligt een kwetsbaar natuurgebied in de buurt.”",
-   "datum": "2026-11-19T16:00:00+00:00",
-   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:00"
-  },
   "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
    "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
    "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
@@ -1141,6 +1123,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
+  },
+  "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
+   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
+   "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
+   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. „Er ligt een kwetsbaar natuurgebied in de buurt.”",
+   "datum": "2026-11-19T16:00:00+00:00",
+   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Helmond",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 17:00"
   },
   "https://www.ed.nl/someren/jeugdzorg-in-someren-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-6-3-miljoen-euro-uit~a951066f/": {
    "titel": "Jeugdzorg in Someren: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 6,3 miljoen euro uit",
@@ -4640,7 +4640,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5112,6 +5112,40 @@
    "prio": false,
    "tijd": "14-11 15:11"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126181135a2astenrit138655": {
+   "titel": "A2 Asten Rit: 138655",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126181135a2astenrit138655",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T18:11:35+01:00",
+   "eerst_gezien": "2026-11-20T17:11:40.631622+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 18:11"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126180803a2helmondrit138652": {
+   "titel": "A2 Helmond Rit: 138652",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126180803a2helmondrit138652",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-20T18:08:03+01:00",
+   "eerst_gezien": "2026-11-20T17:11:40.631622+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 18:08"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126174046a2somerenrit138642": {
    "titel": "A2 Someren Rit: 138642",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126174046a2somerenrit138642",
@@ -5124,7 +5158,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 17:40"
@@ -9003,23 +9037,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126180443steekpartijzuidende5701mghelmond": {
-   "titel": "Steekpartij Zuidende 5701MG Helmond",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126180443steekpartijzuidende5701mghelmond",
-   "tekst": "Politie Oost-Brabant (Persvoorlichter) · Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-18T18:04:43+01:00",
-   "eerst_gezien": "2026-11-18T17:19:36.524027+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 18:04"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647920/door-coen-verdween-de-geschiedenis-over-de-vliegramp-in-strijp-niet-in-de-papierversnipperaar-ik-las-niets-ik-kopieerde.html": {
    "titel": "Door Coen verdween de geschiedenis over de vliegramp in Strijp niet in de papierversnipperaar: `Ik las niets, ik kopieerde...",
@@ -15430,7 +15447,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -15440,7 +15457,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "ED Someren": {
@@ -15535,7 +15552,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
