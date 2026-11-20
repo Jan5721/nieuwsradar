@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 00:05",
+ "bijgewerkt": "21-11-2026 00:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -4730,6 +4730,24 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
+   "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html",
+   "tekst": "",
+   "datum": "2026-11-20T23:13:02+00:00",
+   "eerst_gezien": "2026-11-20T23:21:15.306681+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten",
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 00:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
    "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
@@ -5029,39 +5047,22 @@
    "prio": false,
    "tijd": "20-11 20:28"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662449/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html": {
-   "titel": "Een half uur voordat de koper komt, is foodtruck van Adriana in Woensel ineens verdwenen: `Is die al weg'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662449/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:13:10+00:00",
-   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666035/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666035/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
    "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
-   "datum": "2026-11-20T22:48:01+00:00",
-   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "datum": "2026-11-20T23:11:03+00:00",
+   "eerst_gezien": "2026-11-20T23:21:15.306681+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 23:48"
+   "tijd": "21-11 00:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666010/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken.html": {
    "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
@@ -5257,39 +5258,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
-   "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html",
-   "tekst": "De FIOD heeft op donderdag 19 november 2026 meerdere aanhoudingen en doorzoekingen verricht in drie strafrechtelijke onderzoeken. Drie...",
-   "datum": "2026-11-20T10:27:01+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:27"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
-   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:13:09+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108666595/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
    "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108666595/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html",
@@ -5302,7 +5270,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5318,10 +5286,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 00:04"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664147/a67-dicht-na-botsing-met-meerdere-voertuigen-bij-liessel.html": {
    "titel": "A67 dicht na botsing met meerdere voertuigen bij Liessel",
@@ -6084,6 +6051,73 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662449/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html": {
+   "titel": "Een half uur voordat de koper komt, is foodtruck van Adriana in Woensel ineens verdwenen: `Is die al weg'`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662449/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:13:10+00:00",
+   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666035/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666035/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T22:48:01+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 23:48"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
+   "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html",
+   "tekst": "De FIOD heeft op donderdag 19 november 2026 meerdere aanhoudingen en doorzoekingen verricht in drie strafrechtelijke onderzoeken. Drie...",
+   "datum": "2026-11-20T10:27:01+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:27"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
+   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:13:09+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html": {
    "titel": "FC Dordrecht dichtbij vroege openingstreffer: De Bie raakt de paal",
@@ -16755,7 +16789,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Asten": {
