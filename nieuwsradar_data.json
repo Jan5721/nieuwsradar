@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 10:41",
+ "bijgewerkt": "20-11-2026 10:57",
  "items": {
   "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/": {
    "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
@@ -184,7 +184,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 10:41"
@@ -1209,7 +1209,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 10:41"
@@ -4185,6 +4185,23 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126105040a1helmondrit138450": {
+   "titel": "A1 Helmond Rit: 138450",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126105040a1helmondrit138450",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T10:50:40+01:00",
+   "eerst_gezien": "2026-11-20T09:57:22.990389+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 10:50"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126102527a2helmondrit138441": {
    "titel": "A2 Helmond Rit: 138441",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126102527a2helmondrit138441",
@@ -4197,7 +4214,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 10:25"
@@ -5239,23 +5256,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 13:03"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64641/benefietavond-levert-5-540-euro-op-voor-villa-pardoes": {
-   "titel": "Benefietavond levert 5.540 euro op voor Villa Pardoes",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64641/benefietavond-levert-5-540-euro-op-voor-villa-pardoes",
-   "tekst": "SINT JOZEFPAROCHIE - De benefietavond voor Villa Pardoes heeft 5.540,44 euro opgebracht. De organisatie overhandigde dinsdag de cheque aan de stichting. Het evenement in het Hofke van Marijke trok eind september ongeveer 330 bezoekers. De opbrengst is bedoeld om gezinnen met een …",
-   "datum": "2026-11-13T10:45:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 10:45"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad": {
    "titel": "College opteert definitief voor nieuw zwembad",
@@ -14513,7 +14513,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
