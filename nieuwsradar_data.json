@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 06:24",
+ "bijgewerkt": "20-11-2026 06:40",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -955,23 +955,6 @@
    "prio": false,
    "tijd": "19-11 10:00"
   },
-  "https://www.ed.nl/helmond/beauty-geek-nieuw-seizoen-helmond~add3d8ad/": {
-   "titel": "Looks of brains? Deze Helmonder doet mee aan Beauty and the geek",
-   "link": "https://www.ed.nl/helmond/beauty-geek-nieuw-seizoen-helmond~add3d8ad/",
-   "tekst": "De een valt als een blok voor uiterlijke kenmerken, de ander kijkt juist naar de innerlijke schoonheid van iemand. Maar wat als je nou altijd wordt beoordeeld op enkel je uiterlijk of je slimheid? Dan doe je mee aan Beauty and the geek en zoek je uit of looks en brains ook ook …",
-   "datum": "2026-11-19T09:00:00+00:00",
-   "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:00"
-  },
   "https://www.ed.nl/deurne/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne~a0c6f3b5/": {
    "titel": "Bandeville eert Willy DeVille met concert in Cultuurcentrum Deurne",
    "link": "https://www.ed.nl/deurne/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne~a0c6f3b5/",
@@ -1035,28 +1018,10 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 06:00"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne": {
-   "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne",
-   "tekst": "De Fiscale inlichtingen- en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk is of er ook mensen zijn opgepakt. Een woordvoerder van de FIOD gaat donderdag niet in op vragen over waar het onderzoek mee te maken heeft. Het …",
-   "datum": "2026-11-19T14:45:00+00:00",
-   "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne",
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "19-11 15:45"
+   "tijd": "20-11 06:00"
   },
   "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond": {
    "titel": "Twee gewonden bij botsing in Helmond",
@@ -1074,6 +1039,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 17:45"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne": {
+   "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne",
+   "tekst": "De Fiscale inlichtingen- en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk is of er ook mensen zijn opgepakt. VIDEO",
+   "datum": "2026-11-19T15:08:13.866338+00:00",
+   "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 16:08"
   },
   "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond": {
    "titel": "Extra woning en samengevoegde winkels aan Heistraat in Helmond",
@@ -4321,6 +4304,23 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
+   "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
+   "tekst": "",
+   "datum": "2026-11-20T05:31:04+00:00",
+   "eerst_gezien": "2026-11-20T05:40:06.832296+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 06:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108656091/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad.html": {
    "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108656091/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad.html",
@@ -4333,7 +4333,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4582,23 +4582,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651695/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html": {
-   "titel": "Margriet (65) neemt na 42 jaar afscheid van Kafee Kix op Stratumseind: `Ik ben wel toe aan mijn pensioen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651695/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:01:05+00:00",
-   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 21:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -5426,6 +5409,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/helmond/beauty-geek-nieuw-seizoen-helmond~add3d8ad/": {
+   "titel": "Looks of brains? Deze Helmonder doet mee aan Beauty and the geek",
+   "link": "https://www.ed.nl/helmond/beauty-geek-nieuw-seizoen-helmond~add3d8ad/",
+   "tekst": "De een valt als een blok voor uiterlijke kenmerken, de ander kijkt juist naar de innerlijke schoonheid van iemand. Maar wat als je nou altijd wordt beoordeeld op enkel je uiterlijk of je slimheid? Dan doe je mee aan Beauty and the geek en zoek je uit of looks en brains ook ook …",
+   "datum": "2026-11-19T09:00:00+00:00",
+   "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 10:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651695/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html": {
+   "titel": "Margriet (65) neemt na 42 jaar afscheid van Kafee Kix op Stratumseind: `Ik ben wel toe aan mijn pensioen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651695/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:01:05+00:00",
+   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 21:01"
   },
   "https://www.omroepbrabant.nl/nieuws/6034467/professionals-in-helmond-bijeen-voor-veiligheid-en-verkeer": {
    "titel": "Professionals in Helmond bijeen voor veiligheid en verkeer",
@@ -13738,7 +13755,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 5,
    "fout": ""
   },
   "ED Deurne": {
@@ -13758,12 +13775,12 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
