@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 12:02",
+ "bijgewerkt": "20-11-2026 12:18",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64802/liessel-en-john-elbers-nemen-na-drie-seizoenen-afscheid": {
    "titel": "RKSV Liessel en John Elbers nemen na drie seizoenen afscheid",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 12:00"
@@ -916,7 +916,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:00"
@@ -1092,12 +1092,12 @@
    "prio": false,
    "tijd": "20-11 06:00"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
-   "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
-   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. Volgens de FIOD gebruikten de verdachten vermoedelijk valse facturen. Op sommige daarvan stonden zelfs namen van mensen die al overleden waren. Bij invallen in onder meer …",
+  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak": {
+   "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak",
+   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. De FIOD vermoedt dat de verdachten valse facturen gebruikten. Op sommige daarvan stonden zelfs namen van mensen die al overleden waren. Bij invallen in onder meer Helmond en …",
    "datum": "2026-11-20T10:16:48+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
@@ -1108,23 +1108,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:16"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak": {
-   "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak",
-   "tekst": "VIDEO",
-   "datum": "2026-11-20T11:01:37.627577+00:00",
-   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 12:01"
   },
   "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
    "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
@@ -4556,7 +4539,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4572,7 +4555,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:49"
@@ -5105,6 +5088,23 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
+   "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
+   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. Volgens de FIOD gebruikten de verdachten vermoedelijk valse facturen. Op sommige daarvan stonden zelfs namen van mensen die al overleden waren. Bij invallen in onder meer …",
+   "datum": "2026-11-20T10:16:48+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:16"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn": {
    "titel": "Ongeval wegvervoer letsel N270 - Helmondsingel 22,4 Deurne",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn",
@@ -5117,7 +5117,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 11:56"
@@ -5134,7 +5134,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 11:55"
@@ -5151,7 +5151,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 11:54"
@@ -5168,7 +5168,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 11:52"
@@ -14750,7 +14750,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 28,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -14830,7 +14830,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
