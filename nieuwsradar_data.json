@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 16:03",
+ "bijgewerkt": "20-11-2026 16:19",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64811/bandeville-keert-terug-naar-deurne": {
    "titel": "Bandeville keert terug naar Deurne met optreden in het Cultuurcentrum",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 15:54"
@@ -1063,7 +1063,7 @@
    "tekst": "Ze wachten al jaren om de eerste steen te leggen, de bouwers van woningen aan de zuidkant van Vlierden. Maar mogelijke overlast van blaffende honden blijft vooralsnog een sta-in-de-weg. De Raad van State is nu aan zet.",
    "datum": "2026-11-19T14:30:00+00:00",
    "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Deurne"
    ],
@@ -4543,12 +4543,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
-   "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108660819/hvv-helmond-twee-wedstrijden-uit-de-competitie-gehaald-de-precieze-reden-is-mij-ook-onbekend.html": {
+   "titel": "HVV Helmond twee wedstrijden uit de competitie gehaald: `De precieze reden is mij ook onbekend`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660819/hvv-helmond-twee-wedstrijden-uit-de-competitie-gehaald-de-precieze-reden-is-mij-ook-onbekend.html",
    "tekst": "",
-   "datum": "2026-11-20T14:55:05+00:00",
-   "eerst_gezien": "2026-11-20T15:02:30.676186+00:00",
+   "datum": "2026-11-20T15:15:04+00:00",
+   "eerst_gezien": "2026-11-20T15:18:38.054953+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4558,7 +4558,24 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 15:55"
+   "tijd": "20-11 16:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660693/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
+   "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660693/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html",
+   "tekst": "",
+   "datum": "2026-11-20T15:01:05+00:00",
+   "eerst_gezien": "2026-11-20T15:18:38.054953+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 16:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
@@ -4793,23 +4810,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658374/olympisch-zwemmer-nyls-korstanje-zingt-zo-lang-mogelijk-mee-met-bill-withers-voor-copd-campagne.html": {
-   "titel": "Olympisch zwemmer Nyls Korstanje zingt zo lang mogelijk mee met Bill Withers voor COPD-campagne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658374/olympisch-zwemmer-nyls-korstanje-zingt-zo-lang-mogelijk-mee-met-bill-withers-voor-copd-campagne.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:49:08+00:00",
-   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
    "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
@@ -5109,6 +5109,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126161837a1helmondrit138614": {
+   "titel": "A1 Helmond Rit: 138614",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126161837a1helmondrit138614",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-20T16:18:37+01:00",
+   "eerst_gezien": "2026-11-20T15:18:38.054953+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 16:18"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126154424a2helmondrit138606": {
    "titel": "A2 Helmond Rit: 138606",
@@ -5585,6 +5602,40 @@
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 00:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
+   "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html",
+   "tekst": "",
+   "datum": "2026-11-20T14:55:05+00:00",
+   "eerst_gezien": "2026-11-20T15:02:30.676186+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 15:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658374/olympisch-zwemmer-nyls-korstanje-zingt-zo-lang-mogelijk-mee-met-bill-withers-voor-copd-campagne.html": {
+   "titel": "Olympisch zwemmer Nyls Korstanje zingt zo lang mogelijk mee met Bill Withers voor COPD-campagne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658374/olympisch-zwemmer-nyls-korstanje-zingt-zo-lang-mogelijk-mee-met-bill-withers-voor-copd-campagne.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:49:08+00:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108660045/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
@@ -8986,23 +9037,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126161608a1deurnerit137602": {
-   "titel": "A1 Deurne Rit: 137602",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126161608a1deurnerit137602",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T16:16:08+01:00",
-   "eerst_gezien": "2026-11-18T15:24:48.952258+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "18-11 16:16"
   },
   "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/": {
    "titel": "Wethouder Deurne geeft les over zichtbaarheid in het verkeer",
@@ -15094,12 +15128,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "ED Asten": {
@@ -15199,7 +15233,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
