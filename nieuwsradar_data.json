@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 08:00",
+ "bijgewerkt": "20-11-2026 08:16",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -580,6 +580,23 @@
    "prio": false,
    "tijd": "13-11 08:30"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad": {
+   "titel": "College opteert definitief voor nieuw zwembad",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad",
+   "tekst": "ASTEN - Niet renoveren, maar een compleet nieuw zwembad. Dat is de inzet van het college van B en W. Asten zou daarmee weer vijftig jaar vooruit moeten kunnen.",
+   "datum": "2026-11-20T08:06:00+01:00",
+   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 08:06"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64794/in-beeld-prinsenbal-bij-de-peelvrujters": {
    "titel": "In beeld: Prinsenbal bij De Peelvrujters",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64794/in-beeld-prinsenbal-bij-de-peelvrujters",
@@ -989,19 +1006,19 @@
    "prio": false,
    "tijd": "19-11 09:37"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad": {
-   "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad",
+  "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
+   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
    "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad eindelijk helemaal klaar en kun je binnen veertig minuten …",
    "datum": "2026-11-20T05:00:00+00:00",
-   "eerst_gezien": "2026-11-20T05:24:06.308961+00:00",
+   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 06:00"
@@ -4782,6 +4799,23 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126080338a2helmondrit138357": {
+   "titel": "A2 Helmond Rit: 138357",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126080338a2helmondrit138357",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T08:03:38+01:00",
+   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 08:03"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126043437a2helmondrit138326": {
    "titel": "A2 Helmond Rit: 138326",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126043437a2helmondrit138326",
@@ -5291,6 +5325,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 10:34"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad": {
+   "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad",
+   "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad eindelijk helemaal klaar en kun je binnen veertig minuten …",
+   "datum": "2026-11-20T05:00:00+00:00",
+   "eerst_gezien": "2026-11-20T05:24:06.308961+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 06:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126100436a2astenrit137905": {
    "titel": "A2 Asten Rit: 137905",
@@ -13943,7 +13994,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -14058,7 +14109,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
