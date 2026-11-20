@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 12:34",
+ "bijgewerkt": "20-11-2026 12:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64802/liessel-en-john-elbers-nemen-na-drie-seizoenen-afscheid": {
    "titel": "RKSV Liessel en John Elbers nemen na drie seizoenen afscheid",
@@ -592,7 +592,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 12:19"
@@ -4527,6 +4527,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658962/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html": {
+   "titel": "NVWA haalt 200 runderen weg bij Brabantse boer: dieren konden zich verwonden in stal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658962/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html",
+   "tekst": "",
+   "datum": "2026-11-20T11:43:13+00:00",
+   "eerst_gezien": "2026-11-20T11:49:49.099734+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 12:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658904/live-kelderkraker-op-de-braak-helmond-sport-ontvangt-fc-dordrecht.html": {
+   "titel": "LIVE | Kelderkraker op De Braak: Helmond Sport ontvangt FC Dordrecht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658904/live-kelderkraker-op-de-braak-helmond-sport-ontvangt-fc-dordrecht.html",
+   "tekst": "",
+   "datum": "2026-11-20T11:36:06+00:00",
+   "eerst_gezien": "2026-11-20T11:49:49.099734+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 12:36"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108658873/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html": {
    "titel": "NVWA haalt 200 runderen weg bij Brabantse boer: dieren konden zich verwonden in stal",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108658873/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html",
@@ -4539,10 +4573,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 12:31"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658499/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk.html": {
    "titel": "Splinternieuw Mariabeeld bij kerk in Ommel maakt veel los, alleen de houdbaarheid is zorgelijk",
@@ -4787,40 +4820,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657341/achtervolging-tussen-twee-autos-eindigt-in-ernstig-ongeluk-met-fietser-bestuurder-mogelijk-onder-invloed.html": {
-   "titel": "Achtervolging tussen twee auto`s eindigt in ernstig ongeluk met fietser: bestuurder mogelijk onder invloed",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657341/achtervolging-tussen-twee-autos-eindigt-in-ernstig-ongeluk-met-fietser-bestuurder-mogelijk-onder-invloed.html",
-   "tekst": "",
-   "datum": "2026-11-20T08:55:05+00:00",
-   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html": {
-   "titel": "Achtervolging tussen twee auto´s eindigt met aanrijding fietser in Eindhoven, ernstig ongeluk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html",
-   "tekst": "",
-   "datum": "2026-11-20T08:49:07+00:00",
-   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
@@ -5100,7 +5099,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 12:04"
@@ -5614,6 +5613,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 15:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657341/achtervolging-tussen-twee-autos-eindigt-in-ernstig-ongeluk-met-fietser-bestuurder-mogelijk-onder-invloed.html": {
+   "titel": "Achtervolging tussen twee auto`s eindigt in ernstig ongeluk met fietser: bestuurder mogelijk onder invloed",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657341/achtervolging-tussen-twee-autos-eindigt-in-ernstig-ongeluk-met-fietser-bestuurder-mogelijk-onder-invloed.html",
+   "tekst": "",
+   "datum": "2026-11-20T08:55:05+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html": {
+   "titel": "Achtervolging tussen twee auto´s eindigt met aanrijding fietser in Eindhoven, ernstig ongeluk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html",
+   "tekst": "",
+   "datum": "2026-11-20T08:49:07+00:00",
+   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:49"
   },
   "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
    "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
