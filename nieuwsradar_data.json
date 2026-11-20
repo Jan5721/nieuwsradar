@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 14:26",
+ "bijgewerkt": "20-11-2026 14:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64806/ontmoetingsmaaltijd-brengt-culturen-samen-in-deurne": {
    "titel": "Ontmoetingsmaaltijd brengt culturen samen in Deurne",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 14:21"
@@ -4555,7 +4555,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 14:19"
@@ -5092,6 +5092,23 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126143845a2helmondrit138581": {
+   "titel": "A2 Helmond Rit: 138581",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126143845a2helmondrit138581",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T14:38:45+01:00",
+   "eerst_gezien": "2026-11-20T13:42:14.898233+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 14:38"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126142556a2helmondrit138570": {
    "titel": "A2 Helmond Rit: 138570",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126142556a2helmondrit138570",
@@ -5104,7 +5121,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 14:25"
@@ -9255,40 +9272,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 08:13"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143146a2helmondrit137552": {
-   "titel": "A2 Helmond Rit: 137552",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143146a2helmondrit137552",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T14:31:46+01:00",
-   "eerst_gezien": "2026-11-18T13:47:16.936299+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 14:31"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143058a1helmondrit137551": {
-   "titel": "A1 Helmond Rit: 137551",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126143058a1helmondrit137551",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T14:30:58+01:00",
-   "eerst_gezien": "2026-11-18T13:31:15.869521+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "18-11 14:30"
   },
   "https://www.ed.nl/asten/mantelzorgers-in-asten-maken-decoratie-tijdens-creatieve-mantel-uit-dag~a535803b/": {
    "titel": "Mantelzorgers in Asten maken decoratie tijdens creatieve mantel-uit-dag",
@@ -15081,7 +15064,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 26,
    "fout": ""
   },
   "112Brabant": {
