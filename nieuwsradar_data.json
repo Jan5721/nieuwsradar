@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 17:07",
+ "bijgewerkt": "20-11-2026 17:24",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne": {
    "titel": "Fietser gewond bij botsing met auto op de Maassingel in Deurne",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:00"
@@ -1137,7 +1137,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:07"
@@ -4572,7 +4572,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:04"
@@ -5061,6 +5061,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 15:11"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126172057a2helmondrit138634": {
+   "titel": "A2 Helmond Rit: 138634",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126172057a2helmondrit138634",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-20T17:20:57+01:00",
+   "eerst_gezien": "2026-11-20T16:23:24.025070+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 17:20"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126163603ongevalwegvervoerletselmaassingeldeurne": {
    "titel": "Ongeval wegvervoer letsel Maassingel Deurne",
@@ -15401,7 +15418,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
