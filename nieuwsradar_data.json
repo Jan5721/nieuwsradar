@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 15:14",
+ "bijgewerkt": "20-11-2026 15:30",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64806/ontmoetingsmaaltijd-brengt-culturen-samen-in-deurne": {
    "titel": "Ontmoetingsmaaltijd brengt culturen samen in Deurne",
@@ -4538,7 +4538,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 15:01"
@@ -5075,6 +5075,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597": {
+   "titel": "A2 Deurne Rit: 138597",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T15:23:52+01:00",
+   "eerst_gezien": "2026-11-20T14:30:08.685524+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 15:23"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152254a2astenrit138594": {
+   "titel": "A2 Asten Rit: 138594",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152254a2astenrit138594",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T15:22:54+01:00",
+   "eerst_gezien": "2026-11-20T14:30:08.685524+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 15:22"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126143845a2helmondrit138581": {
    "titel": "A2 Helmond Rit: 138581",
@@ -15097,7 +15131,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 26,
    "fout": ""
   },
   "112Brabant": {
