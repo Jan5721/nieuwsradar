@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 15:30",
+ "bijgewerkt": "20-11-2026 15:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64806/ontmoetingsmaaltijd-brengt-culturen-samen-in-deurne": {
    "titel": "Ontmoetingsmaaltijd brengt culturen samen in Deurne",
@@ -5076,6 +5076,40 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126154424a2helmondrit138606": {
+   "titel": "A2 Helmond Rit: 138606",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126154424a2helmondrit138606",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T15:44:24+01:00",
+   "eerst_gezien": "2026-11-20T14:46:18.454646+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 15:44"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126153828a1helmondrit138604": {
+   "titel": "A1 Helmond Rit: 138604",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126153828a1helmondrit138604",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T15:38:28+01:00",
+   "eerst_gezien": "2026-11-20T14:46:18.454646+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 15:38"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597": {
    "titel": "A2 Deurne Rit: 138597",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597",
@@ -5088,7 +5122,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 15:23"
@@ -5105,7 +5139,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 15:22"
@@ -15131,7 +15165,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 26,
+   "aantal": 28,
    "fout": ""
   },
   "112Brabant": {
