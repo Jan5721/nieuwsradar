@@ -1,20 +1,19 @@
 {
- "bijgewerkt": "20-11-2026 20:36",
+ "bijgewerkt": "20-11-2026 20:52",
  "items": {
-  "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/": {
-   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
-   "link": "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/",
+  "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-2-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/": {
+   "titel": "De molen van Mari van Dijk is na 2 jaar stilstand weer een stap dichter bij draaiende wieken",
+   "link": "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-2-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/",
    "tekst": "Molenaar Mari van Dijk is er klaar voor. Het hekwerk van de wieken van Holten’s Molen in Deurne is al verwijderd. Maandag (als het weer meezit) zijn de roeden aan de beurt, de twee lange stalen balken die het wiekenkruis vormen.",
-   "datum": "2026-11-20T19:00:08+00:00",
-   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
+   "datum": "2026-11-20T19:00:00+00:00",
+   "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
-    "Deurne",
-    "Helmond"
+    "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:00"
@@ -276,12 +275,12 @@
    "prio": false,
    "tijd": "20-11 17:29"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-onder-rook": {
-   "titel": "Grote brand in klaslokaal van basisschool in Deurne, school onder rook",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-onder-rook",
+  "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-vol-rook": {
+   "titel": "Grote brand in klaslokaal van basisschool in Deurne, school vol rook",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-vol-rook",
    "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond brand uitgebroken. De school aan de Margrietstraat staat vol rook. De brandweer kreeg rond half acht melding van de brand en is met meerdere eenheden aanwezig. Het vuur zorgt voor een flinke rookontwikkeling …",
    "datum": "2026-11-20T19:10:00+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Deurne"
@@ -1620,7 +1619,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 21:16"
@@ -3762,6 +3761,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html": {
+   "titel": "LIVE | 3-0 (!) na 27 minuten: Helmond Sport kent droomstart in kelderkraker tegen FC Dordrecht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:36:07+00:00",
+   "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:36"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662566/drama-voor-fc-dordrecht-in-helmond-binnen-half-uur-op-3-0-achterstand.html": {
    "titel": "Drama voor FC Dordrecht in Helmond: binnen half uur op 3-0 achterstand",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662566/drama-voor-fc-dordrecht-in-helmond-binnen-half-uur-op-3-0-achterstand.html",
@@ -3774,7 +3790,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:34"
@@ -3791,7 +3807,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:28"
@@ -4029,23 +4045,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660937/oud-topvoetballer-uit-duitsland-opent-kebabzaak-in-centrum-eindhoven.html": {
-   "titel": "Oud-topvoetballer uit Duitsland opent kebabzaak in centrum Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660937/oud-topvoetballer-uit-duitsland-opent-kebabzaak-in-centrum-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-20T15:31:03+00:00",
-   "eerst_gezien": "2026-11-20T15:34:50.104351+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 16:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662439/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
    "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
@@ -4773,6 +4772,75 @@
    "prio": true,
    "tijd": "20-11 09:38"
   },
+  "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
+   "titel": "Grote brand bij basisschool, veel rook komt vrij",
+   "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
+   "tekst": "DEURNE – Bij een basisschool in Deurne is brand uitgebroken. Meerdere brandweervoertuigen zijn aanwezig om de grote brand te bestrijden. Bij de brand komt veel rook vrij, die ook in de omgeving zichtbaar is.",
+   "datum": "2026-11-20T19:35:02+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:35"
+  },
+  "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/": {
+   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
+   "link": "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/",
+   "tekst": "Molenaar Mari van Dijk is er klaar voor. Het hekwerk van de wieken van Holten’s Molen in Deurne is al verwijderd. Maandag (als het weer meezit) zijn de roeden aan de beurt, de twee lange stalen balken die het wiekenkruis vormen.",
+   "datum": "2026-11-20T19:00:08+00:00",
+   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-onder-rook": {
+   "titel": "Grote brand in klaslokaal van basisschool in Deurne, school onder rook",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-onder-rook",
+   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond brand uitgebroken. De school aan de Margrietstraat staat vol rook. De brandweer kreeg rond half acht melding van de brand en is met meerdere eenheden aanwezig. Het vuur zorgt voor een flinke rookontwikkeling …",
+   "datum": "2026-11-20T19:10:00+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:10"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660937/oud-topvoetballer-uit-duitsland-opent-kebabzaak-in-centrum-eindhoven.html": {
+   "titel": "Oud-topvoetballer uit Duitsland opent kebabzaak in centrum Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660937/oud-topvoetballer-uit-duitsland-opent-kebabzaak-in-centrum-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-20T15:31:03+00:00",
+   "eerst_gezien": "2026-11-20T15:34:50.104351+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 16:31"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126092834ongevalwegvervoerletsela50rehelmond7954teindhove": {
    "titel": "Ongeval wegvervoer letsel A50 Re - Helmond 7 95,4 t Eindhoven",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126092834ongevalwegvervoerletsela50rehelmond7954teindhove",
@@ -4789,23 +4857,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 09:28"
-  },
-  "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
-   "titel": "Grote brand bij basisschool, veel rook komt vrij",
-   "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
-   "tekst": "DEURNE – Bij een basisschool in Deurne is brand uitgebroken. Meerdere brandweervoertuigen zijn aanwezig om de grote brand te bestrijden. Bij de brand komt veel rook vrij, die ook in de omgeving zichtbaar is.",
-   "datum": "2026-11-20T19:35:02+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:35"
   },
   "https://www.omroepbrabant.nl/nieuws/6033601/in-deurne-gevonden-oehoe-is-vermiste-coco-baasje-krijgt-hem-opgezet-terug": {
    "titel": "In Deurne gevonden oehoe is vermiste Coco, baasje krijgt hem opgezet terug",
@@ -15941,7 +15992,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 28,
    "fout": ""
   },
   "112Brabant": {
