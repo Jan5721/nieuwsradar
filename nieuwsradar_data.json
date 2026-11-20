@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 09:37",
+ "bijgewerkt": "20-11-2026 09:53",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -890,7 +890,7 @@
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
    "link": "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/",
    "tekst": "Toen Nienke Brouwer zeven was, wilde ze vuilnisman worden. „Ik kreeg een prikker en een grijper. Met mijn vriendje ging ik de buurt opruimen.” Die fascinatie voor afval en opruimen bleef. Brouwer werd opruimcoach. Ze opent nu een zaak in Helmond.",
-   "datum": "2026-11-19T19:00:58+00:00",
+   "datum": "2026-11-19T19:00:00+00:00",
    "eerst_gezien": "2026-11-19T19:11:32.171421+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -1500,10 +1500,44 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne": {
+   "titel": "Vergunning verleend voor het kappen van een boom aan de Energiestraat in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne",
+   "tekst": "",
+   "datum": "2026-11-20T08:52:45.581364+00:00",
+   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:52"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035534/vergunning-verleend-voor-bedrijfsverzamelgebouw-in-liessel": {
+   "titel": "Vergunning verleend voor bedrijfsverzamelgebouw in Liessel",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035534/vergunning-verleend-voor-bedrijfsverzamelgebouw-in-liessel",
+   "tekst": "De gemeente Deurne heeft een vergunning verleend voor de bouw van een bedrijfsverzamelgebouw aan de Snoertsebaan 15a in Liessel. Het besluit is op 18 november 2026 genomen.",
+   "datum": "2026-11-20T08:52:45.581364+00:00",
+   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:52"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne": {
    "titel": "Vergunning voor nieuwe kozijnen in zijgevel in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne",
-   "tekst": "",
+   "tekst": "De gemeente Deurne heeft een vergunning verleend voor het plaatsen van twee kozijnen in de zijgevel van een woning aan de Korhoender.",
    "datum": "2026-11-19T08:21:25.517896+00:00",
    "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1520,7 +1554,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne": {
    "titel": "Tijdelijke woonunit voor twee jaar aan Belgerenseweg in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne",
-   "tekst": "De gemeente Deurne heeft toestemming gegeven voor het plaatsen van een tijdelijke woonunit aan de Belgerenseweg. De woonunit mag maximaal twee jaar blijven staan.",
+   "tekst": "woensdag De gemeente Deurne heeft toestemming gegeven voor het plaatsen van een tijdelijke woonunit aan de Belgerenseweg. De woonunit mag maximaal twee jaar blijven staan.",
    "datum": "2026-11-18T09:10:50.054002+00:00",
    "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1537,7 +1571,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035219/vergunning-verleend-voor-woningbouw-in-liessel": {
    "titel": "Vergunning verleend voor woningbouw in Liessel",
    "link": "https://www.omroepbrabant.nl/nieuws/6035219/vergunning-verleend-voor-woningbouw-in-liessel",
-   "tekst": "De gemeente Deurne heeft een vergunning verleend voor de bouw van een woning op Loon 58 b in Liessel. Het besluit is op 16 november 2026 genomen.",
+   "tekst": "woensdag De gemeente Deurne heeft een vergunning verleend voor de bouw van een woning op Loon 58 b in Liessel. Het besluit is op 16 november 2026 genomen.",
    "datum": "2026-11-18T09:10:50.054002+00:00",
    "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -2031,15 +2065,50 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035546/nieuwe-laadplekken-voor-elektrische-autos-in-someren-en-lierop": {
+   "titel": "Nieuwe laadplekken voor elektrische auto's in Someren en Lierop",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035546/nieuwe-laadplekken-voor-elektrische-autos-in-someren-en-lierop",
+   "tekst": "",
+   "datum": "2026-11-20T08:52:45.581364+00:00",
+   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:52"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035545/individuele-gehandicaptenparkeerplaats-aangewezen-aan-hunze-in-someren": {
+   "titel": "Individuele gehandicaptenparkeerplaats aangewezen aan Hunze in Someren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035545/individuele-gehandicaptenparkeerplaats-aangewezen-aan-hunze-in-someren",
+   "tekst": "De gemeente Someren heeft besloten een individuele gehandicaptenparkeerplaats aan te leggen aan de Hunze 4. De parkeerplaats wordt gereserveerd voor een bewoner met een beperking.",
+   "datum": "2026-11-20T08:52:45.581364+00:00",
+   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:52"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten": {
    "titel": "Valpreventie voor ouderen: bijeenkomst in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten",
-   "tekst": "",
+   "tekst": "Ouderen in Someren liepen de afgelopen vijf jaar 540 keer ernstig letsel op door een val. Op donderdag 26 november is er een informatiebijeenkomst over valpreventie in Asten.",
    "datum": "2026-11-17T13:40:49.884721+00:00",
    "eerst_gezien": "2026-11-17T13:40:49.884721+00:00",
    "bron": "Omroep Brabant lokaal Someren",
    "gemeenten": [
-    "Asten"
+    "Asten",
+    "Someren"
    ],
    "soort": "regionale omroep",
    "betaald": false,
@@ -2051,7 +2120,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035083/deurne-wint-nk-tegelwippen-in-brabantse-peeldorpen": {
    "titel": "Deurne wint NK Tegelwippen in Brabantse Peeldorpen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035083/deurne-wint-nk-tegelwippen-in-brabantse-peeldorpen",
-   "tekst": "Deurne heeft de poule Brabantse Peeldorpen gewonnen in het NK Tegelwippen. In de poule Brabantse Peeldorpen maakten 59.898 tegels plaats voor groen.",
+   "tekst": "dinsdag Deurne heeft de poule Brabantse Peeldorpen gewonnen in het NK Tegelwippen. In de poule Brabantse Peeldorpen maakten 59.898 tegels plaats voor groen.",
    "datum": "2026-11-17T11:47:09.942467+00:00",
    "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2068,7 +2137,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos": {
    "titel": "Bomen gekapt op Boksenberg voor sterker bos",
    "link": "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos",
-   "tekst": "Op de Boksenberg zijn afgelopen winter bomen gekapt. Hierdoor zijn open plekken ontstaan waar nieuwe bomen, struiken en planten kunnen groeien. De natuur krijgt deels de kans om zichzelf te herstellen, terwijl op andere plekken jonge …",
+   "tekst": "dinsdag Op de Boksenberg zijn afgelopen winter bomen gekapt. Hierdoor zijn open plekken ontstaan waar nieuwe bomen, struiken en planten kunnen groeien. De natuur krijgt deels de kans om zichzelf te herstellen, terwijl op andere plekken …",
    "datum": "2026-11-17T10:26:38.889108+00:00",
    "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2917,7 +2986,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -3756,7 +3825,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -3993,7 +4062,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -4265,7 +4334,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -4282,7 +4351,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -4316,7 +4385,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -4418,7 +4487,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -4435,10 +4504,27 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html": {
+   "titel": "Achtervolging tussen twee auto´s eindigt met aanrijding fietser in Eindhoven, ernstig ongeluk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html",
+   "tekst": "",
+   "datum": "2026-11-20T08:49:07+00:00",
+   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html": {
    "titel": "Drugs aangetroffen en twee aanhoudingen bij inval in Eindhovense kapsalon",
@@ -4452,7 +4538,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 09:25"
@@ -4661,22 +4747,6 @@
    "tekst": "",
    "datum": "2026-11-19T23:42:08+00:00",
    "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
-   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
-   "tekst": "",
-   "datum": "2026-11-19T22:42:09+00:00",
-   "eerst_gezien": "2026-11-19T22:57:03.168650+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4952,6 +5022,23 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126093838a1lieroprit138403": {
+   "titel": "A1 Lierop Rit: 138403",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126093838a1lieroprit138403",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T09:38:38+01:00",
+   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 09:38"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126092834ongevalwegvervoerletsela50rehelmond7954teindhove": {
    "titel": "Ongeval wegvervoer letsel A50 Re - Helmond 7 95,4 t Eindhoven",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126092834ongevalwegvervoerletsela50rehelmond7954teindhove",
@@ -4964,7 +5051,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 09:28"
@@ -5410,6 +5497,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 13:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
+   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:42:09+00:00",
+   "eerst_gezien": "2026-11-19T22:57:03.168650+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126114028a2somerenrit137980": {
    "titel": "A2 Someren Rit: 137980",
@@ -14170,7 +14273,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 23,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -14180,7 +14283,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 18,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -14245,7 +14348,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 28,
    "fout": ""
   },
   "112Brabant": {
