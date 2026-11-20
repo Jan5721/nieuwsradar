@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 14:42",
+ "bijgewerkt": "20-11-2026 14:58",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64806/ontmoetingsmaaltijd-brengt-culturen-samen-in-deurne": {
    "titel": "Ontmoetingsmaaltijd brengt culturen samen in Deurne",
@@ -4543,6 +4543,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660045/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
+   "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660045/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
+   "tekst": "",
+   "datum": "2026-11-20T13:55:06+00:00",
+   "eerst_gezien": "2026-11-20T13:58:13.264419+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 14:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660001/man-46-opgepakt-bij-inval-arrestatieteam-in-eindhoven-vanwege-bedreiging-met-mogelijk-vuurwapen.html": {
+   "titel": "Man (46) opgepakt bij inval arrestatieteam in Eindhoven vanwege bedreiging met mogelijk vuurwapen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660001/man-46-opgepakt-bij-inval-arrestatieteam-in-eindhoven-vanwege-bedreiging-met-mogelijk-vuurwapen.html",
+   "tekst": "",
+   "datum": "2026-11-20T13:49:05+00:00",
+   "eerst_gezien": "2026-11-20T13:58:13.264419+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 14:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108659737/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, maar dit weekend wordt droog en mogelijk zonnig",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108659737/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html",
@@ -4777,38 +4811,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:27"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html": {
-   "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:19:03+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html": {
-   "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:19:03+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
    "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
@@ -5104,7 +5106,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 14:38"
@@ -5499,6 +5501,38 @@
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 00:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html": {
+   "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:19:03+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html": {
+   "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:19:03+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126183806a1ommelrit138183": {
    "titel": "A1 Ommel Rit: 138183",
@@ -15064,7 +15098,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 26,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
