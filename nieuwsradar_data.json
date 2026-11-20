@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 19:32",
+ "bijgewerkt": "20-11-2026 19:48",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64812/verkansie": {
    "titel": "Verkansie",
@@ -4645,6 +4645,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html": {
+   "titel": "Nuijten pakt voor duel in Helmond terug op Dordtse basiself tegen NAC Breda; Sits terug in de selectie",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html",
+   "tekst": "",
+   "datum": "2026-11-20T18:40:24+00:00",
+   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 19:40"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662182/live-helmond-sport-maakt-opstelling-voor-kelderkraker-bekend-verrassende-naam-start-als-rechtsback.html": {
+   "titel": "LIVE | Helmond Sport maakt opstelling voor kelderkraker bekend: verrassende naam start als rechtsback",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662182/live-helmond-sport-maakt-opstelling-voor-kelderkraker-bekend-verrassende-naam-start-als-rechtsback.html",
+   "tekst": "",
+   "datum": "2026-11-20T18:36:07+00:00",
+   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 19:36"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662111/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html": {
    "titel": "Tim d`n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662111/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html",
@@ -4658,7 +4692,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 19:25"
@@ -4847,23 +4881,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 15:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660001/man-46-opgepakt-bij-inval-arrestatieteam-in-eindhoven-vanwege-bedreiging-met-mogelijk-vuurwapen.html": {
-   "titel": "Man (46) opgepakt bij inval arrestatieteam in Eindhoven vanwege bedreiging met mogelijk vuurwapen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660001/man-46-opgepakt-bij-inval-arrestatieteam-in-eindhoven-vanwege-bedreiging-met-mogelijk-vuurwapen.html",
-   "tekst": "",
-   "datum": "2026-11-20T13:49:05+00:00",
-   "eerst_gezien": "2026-11-20T13:58:13.264419+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 14:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
    "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
@@ -5146,6 +5163,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 15:11"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194629a2deurnerit138684": {
+   "titel": "A2 Deurne Rit: 138684",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194629a2deurnerit138684",
+   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
+   "datum": "2026-11-20T19:46:29+01:00",
+   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 19:46"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur": {
+   "titel": "P 1 BOB-02 BR onderwijs BS De Zeilberg Margrietstraat Deurne 223251",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-20T19:43:02+01:00",
+   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 19:43"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126183951a2astenrit138663": {
    "titel": "A2 Asten Rit: 138663",
@@ -5605,6 +5656,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 09:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660001/man-46-opgepakt-bij-inval-arrestatieteam-in-eindhoven-vanwege-bedreiging-met-mogelijk-vuurwapen.html": {
+   "titel": "Man (46) opgepakt bij inval arrestatieteam in Eindhoven vanwege bedreiging met mogelijk vuurwapen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660001/man-46-opgepakt-bij-inval-arrestatieteam-in-eindhoven-vanwege-bedreiging-met-mogelijk-vuurwapen.html",
+   "tekst": "",
+   "datum": "2026-11-20T13:49:05+00:00",
+   "eerst_gezien": "2026-11-20T13:58:13.264419+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 14:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126080338a2helmondrit138357": {
    "titel": "A2 Helmond Rit: 138357",
@@ -15635,7 +15703,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -15655,7 +15723,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
