@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 04:32",
+ "bijgewerkt": "20-11-2026 04:48",
  "items": {
   "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -3963,6 +3963,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126043437a2helmondrit138326": {
+   "titel": "A2 Helmond Rit: 138326",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126043437a2helmondrit138326",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-20T04:34:37+01:00",
+   "eerst_gezien": "2026-11-20T03:47:45.177117+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 04:34"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126032934a1somerenrit138316": {
    "titel": "A1 Someren Rit: 138316",
@@ -13793,7 +13810,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
