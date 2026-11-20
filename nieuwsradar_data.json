@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 14:58",
+ "bijgewerkt": "20-11-2026 15:14",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64806/ontmoetingsmaaltijd-brengt-culturen-samen-in-deurne": {
    "titel": "Ontmoetingsmaaltijd brengt culturen samen in Deurne",
@@ -579,23 +579,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 17:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64645/duofietsendeurne-blikt-terug-op-succesvol-seizoen": {
-   "titel": "DuoFietsenDeurne blikt terug op succesvol seizoen",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64645/duofietsendeurne-blikt-terug-op-succesvol-seizoen",
-   "tekst": "DEURNE - Stichting DuoFietsenDeurne heeft tijdens de jaarlijkse vrijwilligersavond teruggekeken op het afgelopen fietsseizoen. De stichting maakte 211 ritten, waarmee ruim 900 mensen een fietstocht door Deurne en omgeving konden maken.",
-   "datum": "2026-11-13T15:00:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 15:00"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
@@ -1436,7 +1419,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034765/explosie-verwoest-auto-op-oprit-bij-huis-in-helmond-buurt-schrikt-van-knal": {
    "titel": "Explosie verwoest auto op oprit bij huis in Helmond, buurt schrikt van knal",
    "link": "https://www.omroepbrabant.nl/nieuws/6034765/explosie-verwoest-auto-op-oprit-bij-huis-in-helmond-buurt-schrikt-van-knal",
-   "tekst": "VIDEO zaterdag Een geparkeerde auto is vrijdagnacht verwoest aan het Nemerlaerhof in Helmond. De politie gaat ervan uit dat de schade is veroorzaakt door een explosief. De auto stond op de oprit van een huis.",
+   "tekst": "VIDEO 14 november 2026 Een geparkeerde auto is vrijdagnacht verwoest aan het Nemerlaerhof in Helmond. De politie gaat ervan uit dat de schade is veroorzaakt door een explosief. De auto stond op de oprit van een huis.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4543,12 +4526,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660045/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660045/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
    "tekst": "",
-   "datum": "2026-11-20T13:55:06+00:00",
-   "eerst_gezien": "2026-11-20T13:58:13.264419+00:00",
+   "datum": "2026-11-20T14:01:04+00:00",
+   "eerst_gezien": "2026-11-20T14:14:08.119981+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4558,7 +4541,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 14:55"
+   "tijd": "20-11 15:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108660001/man-46-opgepakt-bij-inval-arrestatieteam-in-eindhoven-vanwege-bedreiging-met-mogelijk-vuurwapen.html": {
    "titel": "Man (46) opgepakt bij inval arrestatieteam in Eindhoven vanwege bedreiging met mogelijk vuurwapen",
@@ -4572,7 +4555,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 14:49"
@@ -4800,10 +4783,9 @@
    "tekst": "De FIOD heeft op donderdag 19 november 2026 meerdere aanhoudingen en doorzoekingen verricht in drie strafrechtelijke onderzoeken. Drie...",
    "datum": "2026-11-20T10:27:01+00:00",
    "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Helmond",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Deurne",
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5501,6 +5483,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 00:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660045/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
+   "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660045/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
+   "tekst": "",
+   "datum": "2026-11-20T13:55:06+00:00",
+   "eerst_gezien": "2026-11-20T13:58:13.264419+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 14:55"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html": {
    "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet'",
@@ -14978,7 +14977,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 34,
    "fout": ""
   },
   "Peelbelang": {
@@ -15078,12 +15077,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "Drimble Asten": {
