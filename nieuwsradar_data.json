@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 23:17",
+ "bijgewerkt": "20-11-2026 23:33",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1227,12 +1227,12 @@
    "prio": false,
    "tijd": "20-11 17:29"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook": {
-   "titel": "Klaslokaal van basisschool in Deurne uitgebrand, school vol rook",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook",
+  "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken": {
+   "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken",
    "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond een grote brand uitgebroken. Het lokaal is volledig is uitgebrand. Het vuur ontstond nadat twee kinderen vuurwerk hadden afgestoken. Het gaat om kinderen onder de 12 jaar, zegt een politiewoordvoerder. De …",
    "datum": "2026-11-20T19:10:00+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Deurne"
@@ -1754,23 +1754,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken": {
-   "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken",
-   "tekst": "VIDEO",
-   "datum": "2026-11-20T22:16:50.486848+00:00",
-   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 23:16"
   },
   "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis": {
    "titel": "Drie auto's botsen op elkaar in Deurne, één gewonde naar ziekenhuis",
@@ -4696,6 +4679,38 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664429/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak.html": {
+   "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664429/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak.html",
+   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. De FIOD vermoedt dat de verdachten...",
+   "datum": "2026-11-20T22:17:06+00:00",
+   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664427/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar.html": {
+   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: ´Eindelijk klaar´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664427/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar.html",
+   "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal...",
+   "datum": "2026-11-20T22:17:06+00:00",
+   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html": {
    "titel": "FC Dordrecht zakt na afgang in Helmond naar bodem van de ranglijst",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html",
@@ -4708,7 +4723,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 23:16"
@@ -4980,35 +4995,53 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662333/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html": {
-   "titel": "Een half uur voordat de koper komt, is foodtruck van Adriana in Woensel ineens verdwenen: `Is die al weg'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662333/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:01:04+00:00",
-   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
-   "bron": "Drimble Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108665342/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665342/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T22:31:01+00:00",
+   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 23:31"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662332/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
-   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662332/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108664601/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html": {
+   "titel": "Brand in basisschool Deurne doordat kinderen vuurwerk afsteken: leslokalen en aula afgebrand",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664601/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html",
    "tekst": "",
-   "datum": "2026-11-20T19:01:04+00:00",
-   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
-   "bron": "Drimble Helmond",
+   "datum": "2026-11-20T22:20:01+00:00",
+   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 23:20"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664386/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook.html": {
+   "titel": "Klaslokaal van basisschool in Deurne uitgebrand, school vol rook",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664386/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook.html",
+   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond een grote brand uitgebroken. Het lokaal is volledig is uitgebrand....",
+   "datum": "2026-11-20T22:17:03+00:00",
+   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -5024,7 +5057,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5040,10 +5073,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 23:12"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664001/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html": {
    "titel": "Brand in basisschool Deurne doordat kinderen vuurwerk afsteken: leslokalen en aula afgebrand",
@@ -5057,10 +5089,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 23:12"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108663929/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
    "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
@@ -5074,7 +5105,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5144,56 +5175,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
-   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
-   "tekst": "",
-   "datum": "2026-11-19T23:42:09+00:00",
-   "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 00:42"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108653187/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne.html": {
-   "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108653187/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne.html",
-   "tekst": "De Fiscale Inlichtingen - en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk...",
-   "datum": "2026-11-19T22:17:06+00:00",
-   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond",
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108652977/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
-   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652977/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
-   "tekst": "",
-   "datum": "2026-11-19T22:15:03+00:00",
-   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108664147/a67-dicht-na-botsing-met-meerdere-voertuigen-bij-liessel.html": {
    "titel": "A67 dicht na botsing met meerdere voertuigen bij Liessel",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108664147/a67-dicht-na-botsing-met-meerdere-voertuigen-bij-liessel.html",
@@ -5206,7 +5187,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5238,7 +5219,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5372,7 +5353,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 23:13"
@@ -5390,7 +5371,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 23:03"
@@ -5407,7 +5388,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 23:02"
@@ -5955,6 +5936,105 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook": {
+   "titel": "Klaslokaal van basisschool in Deurne uitgebrand, school vol rook",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook",
+   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond een grote brand uitgebroken. Het lokaal is volledig is uitgebrand. Het vuur ontstond nadat twee kinderen vuurwerk hadden afgestoken. Het gaat om kinderen onder de 12 jaar, zegt een politiewoordvoerder. De …",
+   "datum": "2026-11-20T19:10:00+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:10"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662333/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html": {
+   "titel": "Een half uur voordat de koper komt, is foodtruck van Adriana in Woensel ineens verdwenen: `Is die al weg'`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662333/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:01:04+00:00",
+   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662332/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
+   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662332/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:01:04+00:00",
+   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
+   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
+   "tekst": "",
+   "datum": "2026-11-19T23:42:09+00:00",
+   "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 00:42"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108653187/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne.html": {
+   "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108653187/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne.html",
+   "tekst": "De Fiscale Inlichtingen - en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk...",
+   "datum": "2026-11-19T22:17:06+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Helmond",
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652977/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
+   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652977/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:15:03+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html": {
    "titel": "Nuijten pakt voor duel in Helmond terug op Dordtse basiself tegen NAC Breda; Sits terug in de selectie",
@@ -16485,7 +16565,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -16501,7 +16581,7 @@
   "Gemeente Helmond": {
    "ok": false,
    "aantal": 0,
-   "fout": "ParseError: no element found: line 2, column 0"
+   "fout": "HTTPError: HTTP Error 500: Internal server error"
   },
   "Gemeente Deurne": {
    "ok": true,
