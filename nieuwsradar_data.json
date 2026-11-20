@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 09:21",
+ "bijgewerkt": "20-11-2026 09:37",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -1351,7 +1351,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034751/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond half negen",
    "link": "https://www.omroepbrabant.nl/nieuws/6034751/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen",
-   "tekst": "vrijdag De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds gisteravond zonder stroom. De storing begon om half zeven en werd vannacht om vijf over half twaalf verholpen.",
+   "tekst": "13 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds gisteravond zonder stroom. De storing begon om half zeven en werd vannacht om vijf over half twaalf verholpen.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1367,7 +1367,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034750/auto-belandt-in-sloot-in-helmond-man-met-verwondingen-naar-ziekenhuis": {
    "titel": "Auto belandt in sloot in Helmond, man met verwondingen naar ziekenhuis",
    "link": "https://www.omroepbrabant.nl/nieuws/6034750/auto-belandt-in-sloot-in-helmond-man-met-verwondingen-naar-ziekenhuis",
-   "tekst": "VIDEO vrijdag Een auto is vrijdagavond van de weg geraakt en in een sloot beland aan de Lieshoutseweg in Helmond. Een oudere man die in de auto zat, kon pas worden bevrijd nadat de brandweer de auto uit de sloot had getrokken. Een vrouw …",
+   "tekst": "VIDEO 13 november 2026 Een auto is vrijdagavond van de weg geraakt en in een sloot beland aan de Lieshoutseweg in Helmond. Een oudere man die in de auto zat, kon pas worden bevrijd nadat de brandweer de auto uit de sloot had getrokken. Een …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -2905,6 +2905,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-543171.html": {
+   "titel": "Uitvoeringsbesluit Hondenkaart Helmond 2021",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543171.html",
+   "tekst": "",
+   "datum": "2026-11-20T00:00:00+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-538420.html": {
    "titel": "Verkeersbesluit voor het aanwijzen van twee parkeergelegenheden voor het opladen van elektrische voertuigen aan Wederhof te Helmond",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538420.html",
@@ -3727,6 +3744,23 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-542900.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Loon 49, 5757 AB in Liessel",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-542900.html",
+   "tekst": "het verbouwen van een woonhuis",
+   "datum": "2026-11-20T00:00:00+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-539290.html": {
    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Mijnenweg 10 5758AD Neerkant",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539290.html",
@@ -3891,7 +3925,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
@@ -3946,6 +3980,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-543346.html": {
+   "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Energiestraat ongenummerd",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543346.html",
+   "tekst": "voor het kappen van een boom op de Energiestraat in Deurne",
+   "datum": "2026-11-20T00:00:00+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-532430.html": {
    "titel": "Kennisgeving voornemen bruikleen van gemeentegrond",
@@ -4202,6 +4253,40 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-543608.html": {
+   "titel": "Verlengen beslistermijn aanvraag omgevingsvergunning Moorsel 3 en 3a te Lierop",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543608.html",
+   "tekst": "Uitbreiden accommodatie op inpandige verzwaarde verdiepingsvloer en vervangen dak boerderij Moorsel 3+3a",
+   "datum": "2026-11-20T00:00:00+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-543253.html": {
+   "titel": "Gemeente Someren – Aanwijzen individuele gehandicaptenparkeerplaats – Hunze in Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543253.html",
+   "tekst": "",
+   "datum": "2026-11-20T00:00:00+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-540583.html": {
    "titel": "Aanvraag omgevingsvergunning Amarant 2 te Someren",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-540583.html",
@@ -4218,6 +4303,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-543641.html": {
+   "titel": "Aanvraag omgevingsvergunning Oude Goorenweg 6 te Lierop",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543641.html",
+   "tekst": "Oprichten gebouw tbv huisvesten arbeidsmigranten Oude Goorenweg 6",
+   "datum": "2026-11-20T00:00:00+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-540591.html": {
    "titel": "Aanvraag omgevingsvergunning Kerkendijk 44 te Someren",
@@ -4303,6 +4405,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-543067.html": {
+   "titel": "Verlenen omgevingsvergunning Eikenpage ong te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543067.html",
+   "tekst": "Oprichten van een woonhuis Eikenpage ong",
+   "datum": "2026-11-20T00:00:00+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-543314.html": {
+   "titel": "Gemeente Someren – Aanwijzen parkeerplaatsen voor opladen elektrische voertuigen – Diverse locaties in Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543314.html",
+   "tekst": "",
+   "datum": "2026-11-20T00:00:00+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html": {
+   "titel": "Drugs aangetroffen en twee aanhoudingen bij inval in Eindhovense kapsalon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html",
+   "tekst": "",
+   "datum": "2026-11-20T08:25:10+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
    "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
@@ -4540,10 +4693,10 @@
    "tekst": "De Fiscale Inlichtingen - en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk...",
    "datum": "2026-11-19T22:17:06+00:00",
    "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Helmond",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Deurne",
-    "Helmond"
+    "Helmond",
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -4798,6 +4951,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126092834ongevalwegvervoerletsela50rehelmond7954teindhove": {
+   "titel": "Ongeval wegvervoer letsel A50 Re - Helmond 7 95,4 t Eindhoven",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126092834ongevalwegvervoerletsela50rehelmond7954teindhove",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-20T09:28:34+01:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 09:28"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126080338a2helmondrit138357": {
    "titel": "A2 Helmond Rit: 138357",
@@ -9083,23 +9253,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "18-11 09:58"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389": {
-   "titel": "A2 Helmond Rit: 137389",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126092858a2helmondrit137389",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-18T09:28:58+01:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 09:28"
   },
   "https://www.omroepbrabant.nl/nieuws/6033604/stroomstoring-in-deurne-herstel-verwacht-rond-tien-uur": {
    "titel": "Stroomstoring in Deurne, herstel verwacht rond tien uur",
@@ -14052,12 +14205,12 @@
   },
   "Bekendmakingen Helmond": {
    "ok": true,
-   "aantal": 72,
+   "aantal": 73,
    "fout": ""
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 19,
    "fout": ""
   },
   "Bekendmakingen Asten": {
@@ -14067,7 +14220,7 @@
   },
   "Bekendmakingen Someren": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 11,
    "fout": ""
   },
   "Drimble Helmond": {
@@ -14077,7 +14230,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 8,
    "fout": ""
   },
   "Drimble Asten": {
@@ -14092,7 +14245,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
