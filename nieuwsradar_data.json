@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 23:01",
+ "bijgewerkt": "20-11-2026 23:17",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1230,7 +1230,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook": {
    "titel": "Klaslokaal van basisschool in Deurne uitgebrand, school vol rook",
    "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook",
-   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond een grote brand uitgebroken. De veiligheidsregio meldt dat het lokaal volledig is uitgebrand. De school aan de Margrietstraat staat helemaal vol rook. Naast het uitgebrande klaslokaal woedde er ook brand in …",
+   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond een grote brand uitgebroken. Het lokaal is volledig is uitgebrand. Het vuur ontstond nadat twee kinderen vuurwerk hadden afgestoken. Het gaat om kinderen onder de 12 jaar, zegt een politiewoordvoerder. De …",
    "datum": "2026-11-20T19:10:00+00:00",
    "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
    "bron": "Omroep Brabant",
@@ -1754,6 +1754,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken": {
+   "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken",
+   "tekst": "VIDEO",
+   "datum": "2026-11-20T22:16:50.486848+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 23:16"
   },
   "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis": {
    "titel": "Drie auto's botsen op elkaar in Deurne, één gewonde naar ziekenhuis",
@@ -4679,6 +4696,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html": {
+   "titel": "FC Dordrecht zakt na afgang in Helmond naar bodem van de ranglijst",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:16:03+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 23:16"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108663222/heerlijke-avond-voor-helmond-sport-dat-in-kelderkraker-keihard-afrekent-met-concurrent-fc-dordrecht.html": {
    "titel": "Heerlijke avond voor Helmond Sport, dat in kelderkraker keihard afrekent met concurrent FC Dordrecht",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108663222/heerlijke-avond-voor-helmond-sport-dat-in-kelderkraker-keihard-afrekent-met-concurrent-fc-dordrecht.html",
@@ -4743,8 +4777,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:58"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662955/dordtse-afgang-compleet-in-helmond-5-1-achterstand-en-op-de-bodem-van-de-ranglijst.html": {
    "titel": "Dordtse afgang compleet in Helmond: 5-1 achterstand en op de bodem van de ranglijst",
@@ -4979,22 +5012,71 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html": {
-   "titel": "Nuijten pakt voor duel in Helmond terug op Dordtse basiself tegen NAC Breda; Sits terug in de selectie",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108664240/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
+   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664240/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
    "tekst": "",
-   "datum": "2026-11-20T18:40:24+00:00",
-   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
-   "bron": "Drimble Helmond",
+   "datum": "2026-11-20T22:15:04+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664006/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664006/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T22:12:04+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 19:40"
+   "tijd": "20-11 23:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664001/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html": {
+   "titel": "Brand in basisschool Deurne doordat kinderen vuurwerk afsteken: leslokalen en aula afgebrand",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664001/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:12:04+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 23:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108663929/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
+   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663929/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:11:04+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662676/grote-brand-bij-basisschool-veel-rook-komt-vrij.html": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
@@ -5112,36 +5194,19 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
-   "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html",
-   "tekst": "54 koppels stonden er aan de start van het Benelux Open 2026 in Deurne. Spanning tot de laatste pijlWat een ontknoping bij de Heren...",
-   "datum": "2026-11-19T11:16:02+00:00",
-   "eerst_gezien": "2026-11-19T11:19:37.599125+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:16"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646272/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne.html": {
-   "titel": "Bandeville eert Willy DeVille met concert in Cultuurcentrum Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646272/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108664147/a67-dicht-na-botsing-met-meerdere-voertuigen-bij-liessel.html": {
+   "titel": "A67 dicht na botsing met meerdere voertuigen bij Liessel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664147/a67-dicht-na-botsing-met-meerdere-voertuigen-bij-liessel.html",
    "tekst": "",
-   "datum": "2026-11-19T08:49:07+00:00",
-   "eerst_gezien": "2026-11-19T08:53:35.986872+00:00",
-   "bron": "Drimble Deurne",
+   "datum": "2026-11-20T22:12:11+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Asten",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -5161,19 +5226,19 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108664141/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664141/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
    "tekst": "",
-   "datum": "2026-11-20T20:29:05+00:00",
-   "eerst_gezien": "2026-11-20T20:40:30.755197+00:00",
+   "datum": "2026-11-20T22:12:11+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
    "bron": "Drimble Someren",
    "gemeenten": [
     "Someren"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -5294,6 +5359,58 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 23:12"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126231318p1bob01brwegvervoerovdbautogruttowegheusdenasten": {
+   "titel": "P 1 BOB-01 BR wegvervoer (OVD-B) (Auto) Gruttoweg Heusden Asten 225193",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126231318p1bob01brwegvervoerovdbautogruttowegheusdenasten",
+   "tekst": "Brandweer Brabant Zuid Oost (Persoonlijke code)",
+   "datum": "2026-11-20T23:13:18+01:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 23:13"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126230337posthelmondgraagophalencohindeurne": {
+   "titel": "post helmond graag ophalen COH in Deurne",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126230337posthelmondgraagophalencohindeurne",
+   "tekst": "Brandweer BrabantZuidOost (Onbekende code)",
+   "datum": "2026-11-20T23:03:37+01:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond",
+    "Deurne"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 23:03"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126230244a2helmondrit138749": {
+   "titel": "A2 Helmond Rit: 138749",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126230244a2helmondrit138749",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T23:02:44+01:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 23:02"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126224344a2deurnerit138746": {
    "titel": "A2 Deurne Rit: 138746",
@@ -5822,6 +5939,89 @@
    "prio": false,
    "tijd": "20-11 11:52"
   },
+  "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
+   "titel": "Grote brand bij basisschool, veel rook komt vrij",
+   "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
+   "tekst": "DEURNE – Bij een basisschool in Deurne is brand uitgebroken. Meerdere brandweervoertuigen zijn aanwezig om de grote brand te bestrijden. Bij de brand komt veel rook vrij, die ook in de omgeving zichtbaar is.",
+   "datum": "2026-11-20T21:28:17+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 22:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html": {
+   "titel": "Nuijten pakt voor duel in Helmond terug op Dordtse basiself tegen NAC Breda; Sits terug in de selectie",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html",
+   "tekst": "",
+   "datum": "2026-11-20T18:40:24+00:00",
+   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 19:40"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
+   "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html",
+   "tekst": "54 koppels stonden er aan de start van het Benelux Open 2026 in Deurne. Spanning tot de laatste pijlWat een ontknoping bij de Heren...",
+   "datum": "2026-11-19T11:16:02+00:00",
+   "eerst_gezien": "2026-11-19T11:19:37.599125+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 12:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108646272/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne.html": {
+   "titel": "Bandeville eert Willy DeVille met concert in Cultuurcentrum Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646272/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne.html",
+   "tekst": "",
+   "datum": "2026-11-19T08:49:07+00:00",
+   "eerst_gezien": "2026-11-19T08:53:35.986872+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
+   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
+   "tekst": "",
+   "datum": "2026-11-20T20:29:05+00:00",
+   "eerst_gezien": "2026-11-20T20:40:30.755197+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126105040a1helmondrit138450": {
    "titel": "A1 Helmond Rit: 138450",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126105040a1helmondrit138450",
@@ -5855,23 +6055,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 10:25"
-  },
-  "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
-   "titel": "Grote brand bij basisschool, veel rook komt vrij",
-   "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
-   "tekst": "DEURNE – Bij een basisschool in Deurne is brand uitgebroken. Meerdere brandweervoertuigen zijn aanwezig om de grote brand te bestrijden. Bij de brand komt veel rook vrij, die ook in de omgeving zichtbaar is.",
-   "datum": "2026-11-20T21:28:17+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 22:28"
   },
   "https://www.omroepbrabant.nl/nieuws/6034606/voet-verwen-dag-voor-dak-en-thuislozen": {
    "titel": "Voet-verwen-dag voor dak- en thuislozen",
@@ -16302,7 +16485,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -16362,12 +16545,12 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 11,
    "fout": ""
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "Drimble Someren": {
@@ -16377,7 +16560,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
