@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 11:30",
+ "bijgewerkt": "20-11-2026 11:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64799/deurnese-watervrienden-duiken-in-de-kleine-zeemeermin": {
    "titel": "Deurnese Watervrienden duiken in De Kleine Zeemeermin",
@@ -575,7 +575,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:25"
@@ -869,23 +869,6 @@
    "prio": false,
    "tijd": "13-11 12:50"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64634/rek-zeker-nog-niet-uit-aastese-dorpsquiz": {
-   "titel": "Rek zeker nog niet uit Aastese Dorpsquiz",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64634/rek-zeker-nog-niet-uit-aastese-dorpsquiz",
-   "tekst": "ASTEN - Na het eerste lustrum eerder dit jaar was de vraag: is er nog genoeg animo voor de Aastese Dorpsquiz? Het antwoord: jazeker! Nu 28 teams zich hebben ingeschreven is editie nummer zes officieel in de maak. \"We kunnen definitief verder met de voorbereidingen.\"",
-   "datum": "2026-11-13T11:42:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 11:42"
-  },
   "https://www.ed.nl/asten/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk~a2bd699a/": {
    "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
    "link": "https://www.ed.nl/asten/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk~a2bd699a/",
@@ -1064,7 +1047,7 @@
    "tekst": "Cadeaustress voor pakjesavond? Nergens voor nodig, want je scoort het allemaal bij de speelgoedwinkels in Helmond. Van bordspellen tot Lego en computergames: bij deze zaken kun je terecht voor sinterklaascadeaus.",
    "datum": "2026-11-19T09:00:46+00:00",
    "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "ED Deurne",
+   "bron": "ED Asten",
    "gemeenten": [
     "Helmond"
    ],
@@ -1095,19 +1078,19 @@
   "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
    "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
    "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
-   "tekst": "VIDEO",
-   "datum": "2026-11-20T10:29:29.214594+00:00",
+   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. Volgens de FIOD gebruikten de verdachten vermoedelijk valse facturen. Op sommige daarvan stonden zelfs namen van mensen die al overleden waren. Bij invallen in onder meer …",
+   "datum": "2026-11-20T10:16:48+00:00",
    "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
+   "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 11:29"
+   "tijd": "20-11 11:16"
   },
   "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
    "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
@@ -4557,7 +4540,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:27"
@@ -4574,7 +4557,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4590,7 +4573,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4606,7 +4589,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -9301,23 +9284,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:03"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462": {
-   "titel": "A2 Helmond Rit: 137462",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126113907a2helmondrit137462",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T11:39:07+01:00",
-   "eerst_gezien": "2026-11-18T10:47:48.985868+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 11:39"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
    "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
@@ -14597,7 +14563,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -14612,12 +14578,12 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "ED Someren": {
@@ -14627,12 +14593,12 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 28,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
