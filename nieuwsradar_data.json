@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 19:16",
+ "bijgewerkt": "20-11-2026 19:32",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64812/verkansie": {
    "titel": "Verkansie",
@@ -4645,6 +4645,24 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662111/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html": {
+   "titel": "Tim d`n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662111/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html",
+   "tekst": "",
+   "datum": "2026-11-20T18:25:05+00:00",
+   "eerst_gezien": "2026-11-20T18:32:02.956234+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 19:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108661958/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html": {
    "titel": "Zangeres Merol cancelt optreden in Eindhoven na `flinke val` van podium",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108661958/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html",
@@ -4657,7 +4675,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 19:01"
@@ -4846,23 +4864,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 14:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108659737/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html": {
-   "titel": "Het regende vier dagen lang `gigantisch veel`, maar dit weekend wordt droog en mogelijk zonnig",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659737/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html",
-   "tekst": "",
-   "datum": "2026-11-20T13:19:02+00:00",
-   "eerst_gezien": "2026-11-20T13:26:08.833097+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 14:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
    "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
@@ -5621,6 +5622,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 08:03"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108659737/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html": {
+   "titel": "Het regende vier dagen lang `gigantisch veel`, maar dit weekend wordt droog en mogelijk zonnig",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659737/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html",
+   "tekst": "",
+   "datum": "2026-11-20T13:19:02+00:00",
+   "eerst_gezien": "2026-11-20T13:26:08.833097+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 14:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html": {
    "titel": "Zangeres Merol cancelt optreden in Eindhoven na `flinke val` van podium",
