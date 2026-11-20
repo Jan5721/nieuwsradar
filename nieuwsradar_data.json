@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 11:13",
+ "bijgewerkt": "20-11-2026 11:30",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64799/deurnese-watervrienden-duiken-in-de-kleine-zeemeermin": {
    "titel": "Deurnese Watervrienden duiken in De Kleine Zeemeermin",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:12"
@@ -563,6 +563,23 @@
    "prio": false,
    "tijd": "13-11 13:03"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64800/kaartverkoop-vrienden-van-asten-live-van-start": {
+   "titel": "Kaartverkoop Vrienden van Asten Live van start",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64800/kaartverkoop-vrienden-van-asten-live-van-start",
+   "tekst": "ASTEN - De eerste editie in 2024 beviel méér dan goed. Daarom trekt Harmonie St. Cecilia volgend jaar opnieuw het muzikale evenement Vrienden van Asten Live uit de kast. Lezers die daarbij willen zijn, kunnen vanaf nu hun slag slaan.",
+   "datum": "2026-11-20T11:25:00+01:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:25"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad": {
    "titel": "College opteert definitief voor nieuw zwembad",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad",
@@ -881,7 +898,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:00"
@@ -899,7 +916,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:00"
@@ -916,7 +933,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 10:58"
@@ -1075,10 +1092,27 @@
    "prio": false,
    "tijd": "20-11 06:00"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
+   "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
+   "tekst": "VIDEO",
+   "datum": "2026-11-20T10:29:29.214594+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:29"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
    "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
    "link": "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken",
-   "tekst": "",
+   "tekst": "De gemeente Helmond heeft op 6 oktober 2026 een derde wijziging van het Uitvoeringsbesluit hondenkaart Helmond 2021 vastgesteld. Er zijn nieuwe gebieden aangewezen voor hondenuitlaatstroken, loslaatstroken en hondenverbodsgebieden. Ook …",
    "datum": "2026-11-20T09:41:06.319780+00:00",
    "eerst_gezien": "2026-11-20T09:41:06.319780+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1095,7 +1129,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond": {
    "titel": "Twee gewonden bij botsing in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond",
-   "tekst": "Bij een botsing tussen twee auto's aan de Deurneseweg in Helmond zijn donderdag twee mensen gewond geraakt. Ze zijn allebei naar het ziekenhuis gebracht.",
+   "tekst": "",
    "datum": "2026-11-19T16:45:04.272127+00:00",
    "eerst_gezien": "2026-11-19T16:45:04.272127+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1539,23 +1573,6 @@
    "titel": "Twee auto’s botsen op kruising in Helmond, kinderen ongedeerd",
    "link": "https://www.omroepbrabant.nl/nieuws/6034573/twee-autos-botsen-op-kruising-in-helmond-kinderen-ongedeerd",
    "tekst": "VIDEO 12 november 2026 Twee auto’s zijn donderdagmiddag op elkaar gebotst op een kruispunt in Helmond. Het ongeluk gebeurde op de kruising van de Engelseweg met de Floreffestraat.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034535/evenementen-fletcher-helmond-krijgen-groen-licht": {
-   "titel": "Evenementen Fletcher Helmond krijgen groen licht",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034535/evenementen-fletcher-helmond-krijgen-groen-licht",
-   "tekst": "12 november 2026 De gemeente Helmond heeft toestemming gegeven voor drie evenementen bij Fletcher Helmond. Deze vinden plaats op 17, 18 en 19 december aan de Scheepsboulevard 2.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4527,6 +4544,72 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
+   "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html",
+   "tekst": "De FIOD heeft op donderdag 19 november 2026 meerdere aanhoudingen en doorzoekingen verricht in drie strafrechtelijke onderzoeken. Drie...",
+   "datum": "2026-11-20T10:27:01+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:27"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html": {
+   "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:19:03+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html": {
+   "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:19:03+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
+   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:13:09+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108657924/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html": {
    "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108657924/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html",
@@ -4539,7 +4622,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4555,7 +4638,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4571,7 +4654,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4785,39 +4868,6 @@
    "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656366/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html": {
-   "titel": "Cliënt GGzE geeft toe dat hij medewerkers sloeg en schopte: `Daar moet je toch straf voor krijgen'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656366/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:19:03+00:00",
-   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
-   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:11:26+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -5579,6 +5629,56 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 14:22"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034535/evenementen-fletcher-helmond-krijgen-groen-licht": {
+   "titel": "Evenementen Fletcher Helmond krijgen groen licht",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034535/evenementen-fletcher-helmond-krijgen-groen-licht",
+   "tekst": "12 november 2026 De gemeente Helmond heeft toestemming gegeven voor drie evenementen bij Fletcher Helmond. Deze vinden plaats op 17, 18 en 19 december aan de Scheepsboulevard 2.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656366/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html": {
+   "titel": "Cliënt GGzE geeft toe dat hij medewerkers sloeg en schopte: `Daar moet je toch straf voor krijgen'`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656366/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:19:03+00:00",
+   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 07:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
+   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:11:26+00:00",
+   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126132446a2helmondrit138052": {
    "titel": "A2 Helmond Rit: 138052",
@@ -9469,40 +9569,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 21:21"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112122a1helmondrit137449": {
-   "titel": "A1 Helmond Rit: 137449",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112122a1helmondrit137449",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T11:21:22+01:00",
-   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "18-11 11:21"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112014a2somerenrit137448": {
-   "titel": "A2 Someren Rit: 137448",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126112014a2somerenrit137448",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T11:20:14+01:00",
-   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 11:20"
   },
   "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/": {
    "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
@@ -14531,7 +14597,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -14626,12 +14692,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 20,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 8,
    "fout": ""
   },
   "Drimble Asten": {
@@ -14646,7 +14712,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
