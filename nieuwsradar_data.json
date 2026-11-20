@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 06:40",
+ "bijgewerkt": "20-11-2026 06:56",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -944,7 +944,7 @@
    "tekst": "Cadeaustress voor pakjesavond? Nergens voor nodig, want je scoort het allemaal bij de speelgoedwinkels in Helmond. Van bordspellen tot Lego en computergames: bij deze zaken kun je terecht voor sinterklaascadeaus.",
    "datum": "2026-11-19T09:00:46+00:00",
    "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Helmond"
    ],
@@ -971,23 +971,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:37"
-  },
-  "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/": {
-   "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: ‘Want die bestaan niet’",
-   "link": "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/",
-   "tekst": "De eerste bezoekers van het Kasteel van Sinterklaas in Helmond laten zich niet zomaar foppen. „Waarom is mijn tekening opgehaald, maar heb ik nog geen cadeau gehad?” De vraag komt van een kritische jongen met een groen pietenmutsje op.",
-   "datum": "2026-11-19T07:00:00+00:00",
-   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:00"
   },
   "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/": {
    "titel": "Jan Paagman Sterrenwacht houdt publieksavond in Asten",
@@ -4304,12 +4287,12 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
-   "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108656223/hoogleraar-felienne-hermans-baalt-van-it-sector-ga-van-sociale-media-af-echt.html": {
+   "titel": "Hoogleraar Felienne Hermans baalt van IT-sector: `Ga van sociale media af. Echt!`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656223/hoogleraar-felienne-hermans-baalt-van-it-sector-ga-van-sociale-media-af-echt.html",
    "tekst": "",
-   "datum": "2026-11-20T05:31:04+00:00",
-   "eerst_gezien": "2026-11-20T05:40:06.832296+00:00",
+   "datum": "2026-11-20T05:49:07+00:00",
+   "eerst_gezien": "2026-11-20T05:56:06.456605+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4319,7 +4302,24 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 06:31"
+   "tijd": "20-11 06:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656213/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
+   "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656213/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
+   "tekst": "",
+   "datum": "2026-11-20T05:43:14+00:00",
+   "eerst_gezien": "2026-11-20T05:56:06.456605+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 06:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108656091/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad.html": {
    "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
@@ -4524,55 +4524,6 @@
    "tekst": "",
    "datum": "2026-11-19T20:19:02+00:00",
    "eerst_gezien": "2026-11-19T20:32:12.978827+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651790/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html": {
-   "titel": "Automobiliste (55) zag 87-jarige fietser over het hoofd in Son en Breugel: `Verschrikkelijk dat meneer nu in een rolstoel...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651790/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:13:05+00:00",
-   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 21:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651758/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651758/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:11:34+00:00",
-   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651740/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html": {
-   "titel": "Automobiliste (55) zag 87-jarige fietser over het hoofd in Son en Breugel: `Verschrikkelijk dat meneer nu in een rolstoel...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651740/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:07:22+00:00",
-   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5409,6 +5360,89 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/": {
+   "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: ‘Want die bestaan niet’",
+   "link": "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/",
+   "tekst": "De eerste bezoekers van het Kasteel van Sinterklaas in Helmond laten zich niet zomaar foppen. „Waarom is mijn tekening opgehaald, maar heb ik nog geen cadeau gehad?” De vraag komt van een kritische jongen met een groen pietenmutsje op.",
+   "datum": "2026-11-19T07:00:00+00:00",
+   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 08:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
+   "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
+   "tekst": "",
+   "datum": "2026-11-20T05:31:04+00:00",
+   "eerst_gezien": "2026-11-20T05:40:06.832296+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 06:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651790/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html": {
+   "titel": "Automobiliste (55) zag 87-jarige fietser over het hoofd in Son en Breugel: `Verschrikkelijk dat meneer nu in een rolstoel...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651790/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:13:05+00:00",
+   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 21:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651758/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651758/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:11:34+00:00",
+   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651740/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html": {
+   "titel": "Automobiliste (55) zag 87-jarige fietser over het hoofd in Son en Breugel: `Verschrikkelijk dat meneer nu in een rolstoel...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651740/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:07:22+00:00",
+   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/beauty-geek-nieuw-seizoen-helmond~add3d8ad/": {
    "titel": "Looks of brains? Deze Helmonder doet mee aan Beauty and the geek",
@@ -13755,7 +13789,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "ED Deurne": {
@@ -13840,7 +13874,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
