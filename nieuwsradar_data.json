@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 12:18",
+ "bijgewerkt": "20-11-2026 12:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64802/liessel-en-john-elbers-nemen-na-drie-seizoenen-afscheid": {
    "titel": "RKSV Liessel en John Elbers nemen na drie seizoenen afscheid",
@@ -580,6 +580,23 @@
    "prio": false,
    "tijd": "13-11 13:03"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
+   "titel": "In beeld: jeugdprinsenbal in Heusden",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden",
+   "tekst": "HEUSDEN - Ook voor de jeugd was zaterdag een spannende: wie zouden de nieuwe jeugdprins en -prinses worden?",
+   "datum": "2026-11-20T12:19:00+01:00",
+   "eerst_gezien": "2026-11-20T11:33:46.043576+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 12:19"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64800/kaartverkoop-vrienden-van-asten-live-van-start": {
    "titel": "Kaartverkoop Vrienden van Asten Live van start",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64800/kaartverkoop-vrienden-van-asten-live-van-start",
@@ -1057,23 +1074,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:30"
-  },
-  "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
-   "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
-   "link": "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/",
-   "tekst": "Cadeaustress voor pakjesavond? Nergens voor nodig, want je scoort het allemaal bij de speelgoedwinkels in Helmond. Van bordspellen tot Lego en computergames: bij deze zaken kun je terecht voor sinterklaascadeaus.",
-   "datum": "2026-11-19T09:00:46+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:00"
   },
   "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
@@ -4527,6 +4527,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658873/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html": {
+   "titel": "NVWA haalt 200 runderen weg bij Brabantse boer: dieren konden zich verwonden in stal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658873/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html",
+   "tekst": "",
+   "datum": "2026-11-20T11:31:03+00:00",
+   "eerst_gezien": "2026-11-20T11:33:46.043576+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 12:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108658499/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk.html": {
    "titel": "Splinternieuw Mariabeeld bij kerk in Ommel maakt veel los, alleen de houdbaarheid is zorgelijk",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108658499/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk.html",
@@ -4805,23 +4822,6 @@
    "prio": false,
    "tijd": "20-11 09:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html": {
-   "titel": "Drugs aangetroffen en twee aanhoudingen bij inval in Eindhovense kapsalon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html",
-   "tekst": "",
-   "datum": "2026-11-20T08:25:10+00:00",
-   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:25"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
@@ -5088,22 +5088,22 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
-   "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
-   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. Volgens de FIOD gebruikten de verdachten vermoedelijk valse facturen. Op sommige daarvan stonden zelfs namen van mensen die al overleden waren. Bij invallen in onder meer …",
-   "datum": "2026-11-20T10:16:48+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Omroep Brabant",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2": {
+   "titel": "P 2 BOB-03 Nacontrole (Auto) N270 - Helmondsingel 22,3 Deurne 225041",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-20T12:04:20+01:00",
+   "eerst_gezien": "2026-11-20T11:33:46.043576+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
-   "soort": "regionale omroep",
+   "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "20-11 11:16"
+   "tijd": "20-11 12:04"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn": {
    "titel": "Ongeval wegvervoer letsel N270 - Helmondsingel 22,4 Deurne",
@@ -5614,6 +5614,57 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 15:29"
+  },
+  "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
+   "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
+   "link": "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/",
+   "tekst": "Cadeaustress voor pakjesavond? Nergens voor nodig, want je scoort het allemaal bij de speelgoedwinkels in Helmond. Van bordspellen tot Lego en computergames: bij deze zaken kun je terecht voor sinterklaascadeaus.",
+   "datum": "2026-11-19T09:00:46+00:00",
+   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 10:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html": {
+   "titel": "Drugs aangetroffen en twee aanhoudingen bij inval in Eindhovense kapsalon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html",
+   "tekst": "",
+   "datum": "2026-11-20T08:25:10+00:00",
+   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 09:25"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
+   "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
+   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. Volgens de FIOD gebruikten de verdachten vermoedelijk valse facturen. Op sommige daarvan stonden zelfs namen van mensen die al overleden waren. Bij invallen in onder meer …",
+   "datum": "2026-11-20T10:16:48+00:00",
+   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:16"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126144632a1astenrit138093": {
    "titel": "A1 Asten Rit: 138093",
@@ -14715,7 +14766,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -14735,7 +14786,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "ED Someren": {
@@ -14830,7 +14881,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
