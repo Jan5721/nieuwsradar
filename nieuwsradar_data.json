@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 13:06",
+ "bijgewerkt": "20-11-2026 13:22",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64805/drie-autos-betrokken-bij-aanrijding-op-de-helmondsingel-in-deurne": {
    "titel": "Drie auto’s betrokken bij aanrijding op de Helmondsingel in Deurne",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 12:54"
@@ -1580,7 +1580,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 13:05"
@@ -4526,6 +4526,72 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108659247/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html": {
+   "titel": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: `Vind ik respectloos`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659247/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html",
+   "tekst": "",
+   "datum": "2026-11-20T12:21:26+00:00",
+   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 13:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108659235/ze-wist-als-kind-al-wat-ze-wilde-worden-nu-viert-thea-een-bijzonder-jubileum-in-het-onderwijs.html": {
+   "titel": "Ze wist als kind al wat ze wilde worden; nu viert Thea een bijzonder jubileum in het onderwijs",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659235/ze-wist-als-kind-al-wat-ze-wilde-worden-nu-viert-thea-een-bijzonder-jubileum-in-het-onderwijs.html",
+   "tekst": "",
+   "datum": "2026-11-20T12:19:02+00:00",
+   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 13:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108659233/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html": {
+   "titel": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: `Vind ik respectloos`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659233/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html",
+   "tekst": "",
+   "datum": "2026-11-20T12:19:02+00:00",
+   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108659115/ze-wist-als-kind-al-wat-ze-wilde-worden-nu-viert-thea-een-bijzonder-jubileum-in-het-onderwijs.html": {
+   "titel": "Ze wist als kind al wat ze wilde worden; nu viert Thea een bijzonder jubileum in het onderwijs",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659115/ze-wist-als-kind-al-wat-ze-wilde-worden-nu-viert-thea-een-bijzonder-jubileum-in-het-onderwijs.html",
+   "tekst": "",
+   "datum": "2026-11-20T12:07:19+00:00",
+   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108658962/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html": {
    "titel": "NVWA haalt 200 runderen weg bij Brabantse boer: dieren konden zich verwonden in stal",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108658962/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html",
@@ -4744,71 +4810,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108657488/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html",
    "tekst": "",
    "datum": "2026-11-20T09:07:21+00:00",
-   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657487/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html": {
-   "titel": "De bus heeft in Eindhoven prioriteit, maar alleen als het goed uitkomt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657487/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html",
-   "tekst": "",
-   "datum": "2026-11-20T09:07:21+00:00",
-   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 10:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657427/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel.html": {
-   "titel": "Sancta Maria brengt nieuwe kerstvoorstelling met muziek en toneel in Ommel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657427/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel.html",
-   "tekst": "",
-   "datum": "2026-11-20T09:01:05+00:00",
-   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657426/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html": {
-   "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657426/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T09:01:04+00:00",
-   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657425/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html": {
-   "titel": "De bus heeft in Eindhoven prioriteit, maar alleen als het goed uitkomt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657425/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html",
-   "tekst": "",
-   "datum": "2026-11-20T09:01:04+00:00",
    "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -5086,6 +5087,23 @@
    "prio": false,
    "tijd": "14-11 09:29"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126131320a1helmondrit138533": {
+   "titel": "A1 Helmond Rit: 138533",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126131320a1helmondrit138533",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T13:13:20+01:00",
+   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 13:13"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524": {
    "titel": "A1 Deurne Rit: 138524",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524",
@@ -5098,7 +5116,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 13:00"
@@ -5612,6 +5630,71 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 15:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657487/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html": {
+   "titel": "De bus heeft in Eindhoven prioriteit, maar alleen als het goed uitkomt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657487/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:07:21+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 10:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657427/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel.html": {
+   "titel": "Sancta Maria brengt nieuwe kerstvoorstelling met muziek en toneel in Ommel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657427/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:01:05+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657426/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html": {
+   "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657426/dagje-shoppen-dit-is-het-dichtstbijzijnde-outletcentrum-vanuit-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:01:04+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108657425/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html": {
+   "titel": "De bus heeft in Eindhoven prioriteit, maar alleen als het goed uitkomt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657425/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html",
+   "tekst": "",
+   "datum": "2026-11-20T09:01:04+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126152922a2astenrit138115": {
    "titel": "A2 Asten Rit: 138115",
@@ -14930,7 +15013,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
