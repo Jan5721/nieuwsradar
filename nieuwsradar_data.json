@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 19:00",
+ "bijgewerkt": "20-11-2026 19:16",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64812/verkansie": {
    "titel": "Verkansie",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 18:45"
@@ -4645,12 +4645,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108661958/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html": {
    "titel": "Zangeres Merol cancelt optreden in Eindhoven na `flinke val` van podium",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661958/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html",
    "tekst": "",
-   "datum": "2026-11-20T17:55:07+00:00",
-   "eerst_gezien": "2026-11-20T17:59:44.375891+00:00",
+   "datum": "2026-11-20T18:01:05+00:00",
+   "eerst_gezien": "2026-11-20T18:15:53.394299+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4660,7 +4660,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 18:55"
+   "tijd": "20-11 19:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108661913/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda.html": {
    "titel": "Nuijten pakt voor duel in Helmond terug op Dordtse basiself tegen NAC Breda",
@@ -4674,7 +4674,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 18:53"
@@ -5621,6 +5621,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 08:03"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html": {
+   "titel": "Zangeres Merol cancelt optreden in Eindhoven na `flinke val` van podium",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html",
+   "tekst": "",
+   "datum": "2026-11-20T17:55:07+00:00",
+   "eerst_gezien": "2026-11-20T17:59:44.375891+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 18:55"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108659555/arrestatieteam-valt-woning-in-eindhoven-binnen-vanwege-bedreiging-met-mogelijk-vuurwapen-rotterdammer-46-opgepakt.html": {
    "titel": "Arrestatieteam valt woning in Eindhoven binnen vanwege bedreiging met mogelijk vuurwapen: Rotterdammer (46) opgepakt",
