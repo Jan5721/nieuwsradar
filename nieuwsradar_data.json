@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 17:40",
+ "bijgewerkt": "20-11-2026 17:56",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne": {
    "titel": "Fietser gewond bij botsing met auto op de Maassingel in Deurne",
@@ -914,7 +914,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
@@ -1103,7 +1103,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
@@ -1137,7 +1137,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
@@ -1154,7 +1154,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
@@ -4628,12 +4628,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
    "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
    "tekst": "",
-   "datum": "2026-11-20T16:31:04+00:00",
-   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "datum": "2026-11-20T16:43:14+00:00",
+   "eerst_gezien": "2026-11-20T16:55:43.520647+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4829,23 +4829,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 13:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108659402/dhl-bakwagen-leeggeroofd-tussen-rosmalen-en-veghel-politie-zoekt-daders.html": {
-   "titel": "DHL-bakwagen leeggeroofd tussen Rosmalen en Veghel, politie zoekt daders",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659402/dhl-bakwagen-leeggeroofd-tussen-rosmalen-en-veghel-politie-zoekt-daders.html",
-   "tekst": "",
-   "datum": "2026-11-20T12:43:30+00:00",
-   "eerst_gezien": "2026-11-20T12:54:06.151676+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 13:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
    "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
@@ -5128,6 +5111,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 15:11"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126174046a2somerenrit138642": {
+   "titel": "A2 Someren Rit: 138642",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126174046a2somerenrit138642",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T17:40:46+01:00",
+   "eerst_gezien": "2026-11-20T16:55:43.520647+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 17:40"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126172057a2helmondrit138634": {
    "titel": "A2 Helmond Rit: 138634",
@@ -5689,6 +5689,39 @@
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 00:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
+   "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
+   "tekst": "",
+   "datum": "2026-11-20T16:31:04+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108659402/dhl-bakwagen-leeggeroofd-tussen-rosmalen-en-veghel-politie-zoekt-daders.html": {
+   "titel": "DHL-bakwagen leeggeroofd tussen Rosmalen en Veghel, politie zoekt daders",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659402/dhl-bakwagen-leeggeroofd-tussen-rosmalen-en-veghel-politie-zoekt-daders.html",
+   "tekst": "",
+   "datum": "2026-11-20T12:43:30+00:00",
+   "eerst_gezien": "2026-11-20T12:54:06.151676+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 13:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108659247/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html": {
    "titel": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: `Vind ik respectloos`",
@@ -15482,7 +15515,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -15502,7 +15535,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
