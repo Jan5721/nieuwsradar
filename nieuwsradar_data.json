@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "20-11-2026 12:50",
+ "bijgewerkt": "20-11-2026 13:06",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64805/drie-autos-betrokken-bij-aanrijding-op-de-helmondsingel-in-deurne": {
+   "titel": "Drie auto’s betrokken bij aanrijding op de Helmondsingel in Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64805/drie-autos-betrokken-bij-aanrijding-op-de-helmondsingel-in-deurne",
+   "tekst": "DEURNE - Bij een kop-staartbotsing op de Helmondsingel in Deurne zijn vrijdagmiddag drie auto's beschadigd geraakt. Een persoon is per ambulance naar het ziekenhuis gebracht.",
+   "datum": "2026-11-20T12:54:00+01:00",
+   "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 12:54"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64802/liessel-en-john-elbers-nemen-na-drie-seizoenen-afscheid": {
    "titel": "RKSV Liessel en John Elbers nemen na drie seizoenen afscheid",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64802/liessel-en-john-elbers-nemen-na-drie-seizoenen-afscheid",
@@ -563,23 +580,6 @@
    "prio": false,
    "tijd": "13-11 15:00"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64644/deurne-maakt-zich-op-voor-de-komst-van-sinterklaas": {
-   "titel": "Deurne maakt zich op voor de komst van Sinterklaas",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64644/deurne-maakt-zich-op-voor-de-komst-van-sinterklaas",
-   "tekst": "DEURNE - Sinterklaas brengt zondag 15 november samen met zijn Pieten een bezoek aan Deurne. De intocht op de Markt begint om 13.30 uur. Burgemeester Greet Buter verwelkomt de goedheiligman officieel.",
-   "datum": "2026-11-13T13:03:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 13:03"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden",
@@ -884,24 +884,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 10:17"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64642/plan-voor-open-bomenroute-door-asten-en-someren-samen-kunnen-": {
-   "titel": "Plan voor open bomenroute door Asten en Someren: ‘Samen kunnen we iets bijzonders realiseren’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64642/plan-voor-open-bomenroute-door-asten-en-someren-samen-kunnen-",
-   "tekst": "ASTEN/SOMEREN - \"Bedenk eens wat bomen voor ons betekenen\", zegt Peter van Rees. Hij is mede-initiatiefnemer van het plan voor een open bomenroute door de gemeenten Asten en Someren. De club is op zoek naar inwoners die een handje willen helpen. \"Samen kunnen we iets bijzonders …",
-   "datum": "2026-11-13T12:50:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 12:50"
   },
   "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/": {
    "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet?",
@@ -1586,10 +1568,27 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis": {
+   "titel": "Drie auto's botsen op elkaar in Deurne, één gewonde naar ziekenhuis",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis",
+   "tekst": "",
+   "datum": "2026-11-20T12:05:53.839896+00:00",
+   "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 13:05"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne": {
    "titel": "Vergunning verleend voor het kappen van een boom aan de Energiestraat in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne",
-   "tekst": "",
+   "tekst": "De gemeente Deurne heeft op 18 november 2026 een vergunning verleend voor het kappen van een boom aan de Energiestraat, op perceel E 3610.",
    "datum": "2026-11-20T08:52:45.581364+00:00",
    "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1623,7 +1622,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne": {
    "titel": "Vergunning voor nieuwe kozijnen in zijgevel in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne",
-   "tekst": "De gemeente Deurne heeft een vergunning verleend voor het plaatsen van twee kozijnen in de zijgevel van een woning aan de Korhoender.",
+   "tekst": "",
    "datum": "2026-11-19T08:21:25.517896+00:00",
    "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4539,7 +4538,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 12:43"
@@ -4556,7 +4555,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 12:36"
@@ -5086,6 +5085,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524": {
+   "titel": "A1 Deurne Rit: 138524",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T13:00:27+01:00",
+   "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 13:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2": {
    "titel": "P 2 BOB-03 Nacontrole (Auto) N270 - Helmondsingel 22,3 Deurne 225041",
@@ -14799,7 +14815,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -14839,7 +14855,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
