@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 23:49",
+ "bijgewerkt": "21-11-2026 00:05",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1332,7 +1332,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond": {
    "titel": "Twee gewonden bij botsing in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond",
-   "tekst": "",
+   "tekst": "donderdag Bij een botsing tussen twee auto's aan de Deurneseweg in Helmond zijn donderdag twee mensen gewond geraakt. Ze zijn allebei naar het ziekenhuis gebracht.",
    "datum": "2026-11-19T16:45:04.272127+00:00",
    "eerst_gezien": "2026-11-19T16:45:04.272127+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1349,7 +1349,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne": {
    "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne",
-   "tekst": "VIDEO",
+   "tekst": "VIDEO donderdag De Fiscale inlichtingen- en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk is of er ook mensen zijn opgepakt.",
    "datum": "2026-11-19T15:08:13.866338+00:00",
    "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1367,7 +1367,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond": {
    "titel": "Extra woning en samengevoegde winkels aan Heistraat in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond",
-   "tekst": "",
+   "tekst": "donderdag Er is toestemming gegeven voor het samenvoegen van winkels en het realiseren van een extra woning boven aan Heistraat 193 in Helmond.",
    "datum": "2026-11-19T09:09:47.831589+00:00",
    "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1809,7 +1809,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne": {
    "titel": "Vergunning voor nieuwe kozijnen in zijgevel in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne",
-   "tekst": "",
+   "tekst": "donderdag De gemeente Deurne heeft een vergunning verleend voor het plaatsen van twee kozijnen in de zijgevel van een woning aan de Korhoender.",
    "datum": "2026-11-19T08:21:25.517896+00:00",
    "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4742,7 +4742,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4758,7 +4758,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 23:43"
@@ -5058,7 +5058,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 23:48"
@@ -5075,7 +5075,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5091,7 +5091,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5107,7 +5107,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5123,7 +5123,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5289,6 +5289,39 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666595/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
+   "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666595/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html",
+   "tekst": "",
+   "datum": "2026-11-20T23:04:03+00:00",
+   "eerst_gezien": "2026-11-20T23:05:12.539931+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666594/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
+   "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666594/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html",
+   "tekst": "",
+   "datum": "2026-11-20T23:04:03+00:00",
+   "eerst_gezien": "2026-11-20T23:05:12.539931+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 00:04"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664147/a67-dicht-na-botsing-met-meerdere-voertuigen-bij-liessel.html": {
    "titel": "A67 dicht na botsing met meerdere voertuigen bij Liessel",
@@ -16727,7 +16760,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 4,
    "fout": ""
   },
   "Drimble Someren": {
