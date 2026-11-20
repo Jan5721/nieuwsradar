@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "20-11-2026 19:48",
+ "bijgewerkt": "20-11-2026 20:04",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
+   "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze",
+   "tekst": "ZEILBERG - Basisschool De Zeilberg aan de Margrietstraat in Deurne is vrijdagavond getroffen door brand. De brandweer werd rond 19.35 uur gealarmeerd en schaalde korte tijd later op naar zeer grote brand.",
+   "datum": "2026-11-20T20:03:00+01:00",
+   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:03"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64812/verkansie": {
    "titel": "Verkansie",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64812/verkansie",
@@ -919,6 +936,24 @@
    "prio": false,
    "tijd": "14-11 10:17"
   },
+  "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/": {
+   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
+   "link": "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/",
+   "tekst": "Molenaar Mari van Dijk is er klaar voor. Het hekwerk van de wieken van Holten’s Molen in Deurne is al verwijderd. Maandag (als het weer meezit) zijn de roeden aan de beurt, de twee lange stalen balken die het wiekenkruis vormen.",
+   "datum": "2026-11-20T19:00:08+00:00",
+   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:00"
+  },
   "https://www.ed.nl/helmond/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-50-6-miljoen-euro-uit~a53636d9/": {
    "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
    "link": "https://www.ed.nl/helmond/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-50-6-miljoen-euro-uit~a53636d9/",
@@ -1073,23 +1108,6 @@
    "prio": false,
    "tijd": "19-11 20:00"
   },
-  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/",
-   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
-   "datum": "2026-11-19T18:30:00+00:00",
-   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:30"
-  },
   "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
    "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
    "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
@@ -1106,6 +1124,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
+  },
+  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/",
+   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
+   "datum": "2026-11-19T18:30:00+00:00",
+   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 19:30"
   },
   "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/": {
    "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door ‘zware blaffers’",
@@ -4645,6 +4680,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662333/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html": {
+   "titel": "Een half uur voordat de koper komt, is foodtruck van Adriana in Woensel ineens verdwenen: `Is die al weg'`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662333/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:01:04+00:00",
+   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662332/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
+   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662332/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:01:04+00:00",
+   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html": {
    "titel": "Nuijten pakt voor duel in Helmond terug op Dordtse basiself tegen NAC Breda; Sits terug in de selectie",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html",
@@ -4657,7 +4726,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 19:40"
@@ -4674,7 +4743,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 19:36"
@@ -4865,23 +4934,6 @@
    "prio": false,
    "tijd": "20-11 16:01"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
-   "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
-   "tekst": "",
-   "datum": "2026-11-20T14:01:04+00:00",
-   "eerst_gezien": "2026-11-20T14:14:08.119981+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 15:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
    "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html",
@@ -5030,22 +5082,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636656/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
-   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636656/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:58:07+00:00",
-   "eerst_gezien": "2026-11-18T12:26:47.518200+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
    "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
@@ -5176,7 +5212,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 19:46"
@@ -5193,7 +5229,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 19:43"
@@ -5656,6 +5692,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 09:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
+   "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
+   "tekst": "",
+   "datum": "2026-11-20T14:01:04+00:00",
+   "eerst_gezien": "2026-11-20T14:14:08.119981+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 15:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108636656/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
+   "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636656/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
+   "tekst": "",
+   "datum": "2026-11-18T11:58:07+00:00",
+   "eerst_gezien": "2026-11-18T12:26:47.518200+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108660001/man-46-opgepakt-bij-inval-arrestatieteam-in-eindhoven-vanwege-bedreiging-met-mogelijk-vuurwapen.html": {
    "titel": "Man (46) opgepakt bij inval arrestatieteam in Eindhoven vanwege bedreiging met mogelijk vuurwapen",
@@ -15603,7 +15672,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 37,
    "fout": ""
   },
   "Peelbelang": {
@@ -15623,7 +15692,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -15703,12 +15772,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "Drimble Asten": {
