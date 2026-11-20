@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 00:21",
+ "bijgewerkt": "21-11-2026 00:37",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -4743,7 +4743,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:13"
@@ -5047,12 +5047,12 @@
    "prio": false,
    "tijd": "20-11 20:28"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
-   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
-   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
-   "datum": "2026-11-20T23:11:03+00:00",
-   "eerst_gezien": "2026-11-20T23:21:15.306681+00:00",
+  "https://drimble.nl/regio/noord-brabant/helmond/108666722/brand-in-basisschool-deurne-door-vuurwerk.html": {
+   "titel": "Brand in basisschool Deurne door vuurwerk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666722/brand-in-basisschool-deurne-door-vuurwerk.html",
+   "tekst": "Op een basisschool in het Brabantse dorp Deurne is vrijdagavond brand ontstaan. De politie gaat ervanuit dat de brand is ontstaan door...",
+   "datum": "2026-11-20T23:30:07+00:00",
+   "eerst_gezien": "2026-11-20T23:37:19.163189+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -5062,7 +5062,24 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "21-11 00:11"
+   "tijd": "21-11 00:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T23:30:05+00:00",
+   "eerst_gezien": "2026-11-20T23:37:19.163189+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 00:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666010/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken.html": {
    "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
@@ -6051,6 +6068,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T23:11:03+00:00",
+   "eerst_gezien": "2026-11-20T23:21:15.306681+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 00:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662449/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html": {
    "titel": "Een half uur voordat de koper komt, is foodtruck van Adriana in Woensel ineens verdwenen: `Is die al weg'`",
@@ -16789,7 +16823,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Asten": {
