@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "20-11-2026 11:46",
+ "bijgewerkt": "20-11-2026 12:02",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64802/liessel-en-john-elbers-nemen-na-drie-seizoenen-afscheid": {
+   "titel": "RKSV Liessel en John Elbers nemen na drie seizoenen afscheid",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64802/liessel-en-john-elbers-nemen-na-drie-seizoenen-afscheid",
+   "tekst": "LIESSEL - RKSV Liessel en hoofdtrainer John Elbers nemen na dit seizoen afscheid van elkaar. Dat hebben de voetbalclub en trainer in onderling overleg besloten. Elbers staat dan drie seizoenen aan het roer bij de Liesselse selectie.",
+   "datum": "2026-11-20T12:00:00+01:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 12:00"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64799/deurnese-watervrienden-duiken-in-de-kleine-zeemeermin": {
    "titel": "Deurnese Watervrienden duiken in De Kleine Zeemeermin",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64799/deurnese-watervrienden-duiken-in-de-kleine-zeemeermin",
@@ -869,23 +886,6 @@
    "prio": false,
    "tijd": "13-11 12:50"
   },
-  "https://www.ed.nl/asten/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk~a2bd699a/": {
-   "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
-   "link": "https://www.ed.nl/asten/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk~a2bd699a/",
-   "tekst": "Ommelnaren kunnen niet lang genieten van het splinternieuwe houten Mariabeeld bij de kerk. Dat vrezen de maker zelf en een houtkenner. „Het rot heel vlug weg.”",
-   "datum": "2026-11-20T10:00:15+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:00"
-  },
   "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/": {
    "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet?",
    "link": "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/",
@@ -900,6 +900,23 @@
    "soort": "regionale pers",
    "betaald": false,
    "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:00"
+  },
+  "https://www.ed.nl/asten/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk~a2bd699a/": {
+   "titel": "Splinternieuw Mariabeeld bij kerk in Ommel maakt veel los, alleen de houdbaarheid is zorgelijk",
+   "link": "https://www.ed.nl/asten/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk~a2bd699a/",
+   "tekst": "Ommelnaren kunnen niet lang genieten van het splinternieuwe houten Mariabeeld bij de kerk. Dat vrezen de maker zelf en een houtkenner. „Het rot heel vlug weg.”",
+   "datum": "2026-11-20T10:00:00+00:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:00"
@@ -1091,6 +1108,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:16"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak": {
+   "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak",
+   "tekst": "VIDEO",
+   "datum": "2026-11-20T11:01:37.627577+00:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 12:01"
   },
   "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
    "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
@@ -1864,23 +1898,6 @@
    "titel": "In Deurne gevonden oehoe is vermiste Coco, baasje krijgt hem opgezet terug",
    "link": "https://www.omroepbrabant.nl/nieuws/6033601/in-deurne-gevonden-oehoe-is-vermiste-coco-baasje-krijgt-hem-opgezet-terug",
    "tekst": "6 november 2026 De oehoe die vorige week veel bekijks trok op een dak in Deurne (en daarna dood werd gevonden), blijkt geen wilde vogel maar een ontsnapte uil. Het gaat om Coco van vijftien jaar, een oehoe die al bijna één jaar vermist …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6033877/kinderen-zetten-deurne-in-de-schijnwerpers-met-lichtprojecties": {
-   "titel": "Kinderen zetten Deurne in de schijnwerpers met lichtprojecties",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033877/kinderen-zetten-deurne-in-de-schijnwerpers-met-lichtprojecties",
-   "tekst": "6 november 2026 Kinderen uit Deurne hebben tekeningen gemaakt van plekken waar ze trots op zijn. Eind november en begin december worden deze levensgroot geprojecteerd in vijf dorpen van de gemeente.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4527,6 +4544,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658499/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk.html": {
+   "titel": "Splinternieuw Mariabeeld bij kerk in Ommel maakt veel los, alleen de houdbaarheid is zorgelijk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658499/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk.html",
+   "tekst": "",
+   "datum": "2026-11-20T11:01:05+00:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108658374/olympisch-zwemmer-nyls-korstanje-zingt-zo-lang-mogelijk-mee-met-bill-withers-voor-copd-campagne.html": {
+   "titel": "Olympisch zwemmer Nyls Korstanje zingt zo lang mogelijk mee met Bill Withers voor COPD-campagne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658374/olympisch-zwemmer-nyls-korstanje-zingt-zo-lang-mogelijk-mee-met-bill-withers-voor-copd-campagne.html",
+   "tekst": "",
+   "datum": "2026-11-20T10:49:08+00:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
    "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html",
@@ -4788,71 +4838,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 09:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
-   "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:43:12+00:00",
-   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656445/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656445/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:31:03+00:00",
-   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656444/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
-   "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656444/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:31:03+00:00",
-   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656434/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656434/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:29:06+00:00",
-   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
@@ -5119,6 +5104,74 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 09:29"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn": {
+   "titel": "Ongeval wegvervoer letsel N270 - Helmondsingel 22,4 Deurne",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-20T11:56:53+01:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 11:56"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115538a2deurnerit138486": {
+   "titel": "A2 Deurne Rit: 138486",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115538a2deurnerit138486",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T11:55:38+01:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 11:55"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115431ongevalwegvervoerletseln270helmondsingel223deurn": {
+   "titel": "Ongeval wegvervoer letsel N270 - Helmondsingel 22,3 Deurne",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115431ongevalwegvervoerletseln270helmondsingel223deurn",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-20T11:54:31+01:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 11:54"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115257ongevalwegvervoerletseln270helmondsingel224deurn": {
+   "titel": "Ongeval wegvervoer letsel N270 - Helmondsingel 22,4 Deurne",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115257ongevalwegvervoerletseln270helmondsingel224deurn",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-20T11:52:57+01:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 11:52"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126105040a1helmondrit138450": {
    "titel": "A1 Helmond Rit: 138450",
@@ -5578,6 +5631,105 @@
    "dagen": 2,
    "prio": true,
    "tijd": "19-11 14:46"
+  },
+  "https://www.ed.nl/asten/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk~a2bd699a/": {
+   "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
+   "link": "https://www.ed.nl/asten/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk~a2bd699a/",
+   "tekst": "Ommelnaren kunnen niet lang genieten van het splinternieuwe houten Mariabeeld bij de kerk. Dat vrezen de maker zelf en een houtkenner. „Het rot heel vlug weg.”",
+   "datum": "2026-11-20T10:00:15+00:00",
+   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033877/kinderen-zetten-deurne-in-de-schijnwerpers-met-lichtprojecties": {
+   "titel": "Kinderen zetten Deurne in de schijnwerpers met lichtprojecties",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033877/kinderen-zetten-deurne-in-de-schijnwerpers-met-lichtprojecties",
+   "tekst": "6 november 2026 Kinderen uit Deurne hebben tekeningen gemaakt van plekken waar ze trots op zijn. Eind november en begin december worden deze levensgroot geprojecteerd in vijf dorpen van de gemeente.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
+   "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:43:12+00:00",
+   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 07:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656445/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656445/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:31:03+00:00",
+   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656444/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
+   "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656444/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:31:03+00:00",
+   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656434/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656434/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:29:06+00:00",
+   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142329a1helmondrit138079": {
    "titel": "A1 Helmond Rit: 138079",
@@ -14558,7 +14710,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "Peelbelang": {
@@ -14598,12 +14750,12 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -14658,7 +14810,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -14678,7 +14830,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
