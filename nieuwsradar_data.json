@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 08:16",
+ "bijgewerkt": "20-11-2026 08:33",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -563,23 +563,6 @@
    "prio": false,
    "tijd": "13-11 10:45"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64633/sinterklaas-en-zijn-pieten-komen-zondag-op-bezoek-in-zeilberg": {
-   "titel": "Sinterklaas en zijn Pieten komen zondag op bezoek in Zeilberg",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64633/sinterklaas-en-zijn-pieten-komen-zondag-op-bezoek-in-zeilberg",
-   "tekst": "ZEILBERG - Sinterklaas brengt zondag 15 november een bezoek aan Zeilberg. Samen met zijn Pieten wordt hij om 14.15 uur opgehaald bij de molen. Vanaf daar gaat de stoet via de Legerweg, Jagerweg en Blasiusstraat naar gemeenschapshuis Den Draai.",
-   "datum": "2026-11-13T08:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "13-11 08:30"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad": {
    "titel": "College opteert definitief voor nieuw zwembad",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad",
@@ -592,7 +575,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 08:06"
@@ -1018,7 +1001,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 06:00"
@@ -4811,7 +4794,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 08:03"
@@ -13989,7 +13972,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
