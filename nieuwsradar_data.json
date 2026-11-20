@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 21:24",
+ "bijgewerkt": "20-11-2026 21:40",
  "items": {
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -13,7 +13,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 22:00"
@@ -304,7 +304,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:10"
@@ -1636,7 +1636,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 21:59"
@@ -3795,6 +3795,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662896/live-weinig-opwinding-in-tweede-helft-helmond-sport-nog-altijd-op-riante-voorsprong-tegen-dordrecht.html": {
+   "titel": "LIVE | Weinig opwinding in tweede helft: Helmond Sport nog altijd op riante voorsprong tegen Dordrecht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662896/live-weinig-opwinding-in-tweede-helft-helmond-sport-nog-altijd-op-riante-voorsprong-tegen-dordrecht.html",
+   "tekst": "",
+   "datum": "2026-11-20T20:36:07+00:00",
+   "eerst_gezien": "2026-11-20T20:40:30.755197+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:36"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662798/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662798/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
@@ -3807,7 +3824,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3823,7 +3840,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3839,7 +3856,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:52"
@@ -4080,22 +4097,6 @@
    "prio": false,
    "tijd": "20-11 18:19"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
-   "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
-   "tekst": "",
-   "datum": "2026-11-20T16:43:14+00:00",
-   "eerst_gezien": "2026-11-20T16:55:43.520647+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662676/grote-brand-bij-basisschool-veel-rook-komt-vrij.html": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662676/grote-brand-bij-basisschool-veel-rook-komt-vrij.html",
@@ -4108,7 +4109,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:59"
@@ -4261,12 +4262,12 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662799/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662799/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
    "tekst": "",
-   "datum": "2026-11-20T20:22:07+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "datum": "2026-11-20T20:29:05+00:00",
+   "eerst_gezien": "2026-11-20T20:40:30.755197+00:00",
    "bron": "Drimble Someren",
    "gemeenten": [
     "Someren"
@@ -4853,6 +4854,38 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:35"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
+   "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
+   "tekst": "",
+   "datum": "2026-11-20T16:43:14+00:00",
+   "eerst_gezien": "2026-11-20T16:55:43.520647+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662799/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
+   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662799/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
+   "tekst": "",
+   "datum": "2026-11-20T20:22:07+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-vol-rook": {
    "titel": "Grote brand in klaslokaal van basisschool in Deurne, school vol rook",
