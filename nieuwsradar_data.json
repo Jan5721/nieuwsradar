@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 18:12",
+ "bijgewerkt": "20-11-2026 18:28",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne": {
    "titel": "Fietser gewond bij botsing met auto op de Maassingel in Deurne",
@@ -4628,6 +4628,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108661728/brandweer-wil-leren-van-bijna-stadsbrand-in-eindhoven-bij-aankomst-is-er-altijd-veel-onduidelijk.html": {
+   "titel": "Brandweer wil leren van bijna-stadsbrand in Eindhoven: `Bij aankomst is er altijd veel onduidelijk`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661728/brandweer-wil-leren-van-bijna-stadsbrand-in-eindhoven-bij-aankomst-is-er-altijd-veel-onduidelijk.html",
+   "tekst": "",
+   "datum": "2026-11-20T17:19:03+00:00",
+   "eerst_gezien": "2026-11-20T17:27:54.343038+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 18:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
    "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
@@ -5124,7 +5141,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 18:11"
@@ -5141,7 +5158,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 18:08"
@@ -15532,7 +15549,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -15552,7 +15569,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
