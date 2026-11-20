@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 23:33",
+ "bijgewerkt": "20-11-2026 23:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -2559,6 +2559,57 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
    "link": "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid",
@@ -4679,6 +4730,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:45:04+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
+   "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:43:01+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 23:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108664429/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak.html": {
    "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108664429/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak.html",
@@ -4691,7 +4775,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4707,7 +4791,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4962,45 +5046,12 @@
    "prio": false,
    "tijd": "20-11 20:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html": {
-   "titel": "FC Dordrecht dichtbij vroege openingstreffer: De Bie raakt de paal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:10:04+00:00",
-   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:10"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662404/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
-   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662404/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:07:20+00:00",
-   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108665342/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108666035/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665342/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666035/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
    "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
-   "datum": "2026-11-20T22:31:01+00:00",
-   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "datum": "2026-11-20T22:48:01+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -5010,7 +5061,71 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 23:31"
+   "tijd": "20-11 23:48"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666010/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken.html": {
+   "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666010/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken.html",
+   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond een grote brand uitgebroken. Het lokaal is volledig is uitgebrand....",
+   "datum": "2026-11-20T22:47:06+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665834/de-molen-van-mari-van-dijk-is-na-2-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
+   "titel": "De molen van Mari van Dijk is na 2 jaar stilstand weer een stap dichter bij draaiende wieken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665834/de-molen-van-mari-van-dijk-is-na-2-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:42:25+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665740/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
+   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665740/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:42:02+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665455/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665455/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T22:35:03+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664601/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html": {
    "titel": "Brand in basisschool Deurne doordat kinderen vuurwerk afsteken: leslokalen en aula afgebrand",
@@ -5024,7 +5139,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 23:20"
@@ -5041,7 +5156,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5937,6 +6052,56 @@
    "prio": false,
    "tijd": "20-11 22:28"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html": {
+   "titel": "FC Dordrecht dichtbij vroege openingstreffer: De Bie raakt de paal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:10:04+00:00",
+   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:10"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662404/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
+   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662404/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:07:20+00:00",
+   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665342/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665342/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T22:31:01+00:00",
+   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 23:31"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook": {
    "titel": "Klaslokaal van basisschool in Deurne uitgebrand, school vol rook",
    "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook",
@@ -6169,57 +6334,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 19:36"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108661958/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html": {
    "titel": "Zangeres Merol cancelt optreden in Eindhoven na `flinke val` van podium",
@@ -9642,23 +9756,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#181126233251a2helmondrit137743": {
-   "titel": "A2 Helmond Rit: 137743",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#181126233251a2helmondrit137743",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-18T23:32:51+01:00",
-   "eerst_gezien": "2026-11-18T22:42:51.129095+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "18-11 23:32"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html": {
    "titel": "Twee aanhoudingen bij politie-inval in kapsalon in Eindhoven",
@@ -16579,9 +16676,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal server error"
+   "ok": true,
+   "aantal": 3,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -16625,7 +16722,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Asten": {
