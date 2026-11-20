@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 07:12",
+ "bijgewerkt": "20-11-2026 07:28",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -868,6 +868,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "13-11 11:42"
+  },
+  "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/",
+   "tekst": "De Duitse rockband Kadavar geeft een concert in De Cacaofabriek in Helmond. Donderdag 10 december staat de band daar met supportact Scott Hepple and The Sun Band.",
+   "datum": "2026-11-20T06:23:00+00:00",
+   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 07:23"
   },
   "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -4287,6 +4304,56 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:27:03+00:00",
+   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656366/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html": {
+   "titel": "Cliënt GGzE geeft toe dat hij medewerkers sloeg en schopte: `Daar moet je toch straf voor krijgen'`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656366/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:19:03+00:00",
+   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 07:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656365/snel-duidelijkheid-verwacht-over-doorgaan-bedrijventerrein-bolle-akker.html": {
+   "titel": "Snel duidelijkheid verwacht over doorgaan bedrijventerrein Bolle Akker",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656365/snel-duidelijkheid-verwacht-over-doorgaan-bedrijventerrein-bolle-akker.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:19:02+00:00",
+   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 07:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108656321/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html": {
    "titel": "Cliënt GGzE geeft toe dat hij medewerkers sloeg en schopte: `Daar moet je toch straf voor krijgen'`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108656321/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html",
@@ -4299,10 +4366,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:07"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108656320/snel-duidelijkheid-verwacht-over-doorgaan-bedrijventerrein-bolle-akker.html": {
    "titel": "Snel duidelijkheid verwacht over doorgaan bedrijventerrein Bolle Akker",
@@ -4316,10 +4382,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:07"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108656223/hoogleraar-felienne-hermans-baalt-van-it-sector-ga-van-sociale-media-af-echt.html": {
    "titel": "Hoogleraar Felienne Hermans baalt van IT-sector: `Ga van sociale media af. Echt!`",
@@ -4517,40 +4582,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html": {
-   "titel": "87-jarige fietser belandt in rolstoel na aanrijding in Son en Breugel, automobiliste (55) vecht tegen tranen in rechtszaal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html",
-   "tekst": "",
-   "datum": "2026-11-19T21:13:09+00:00",
-   "eerst_gezien": "2026-11-19T21:20:41.766776+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 22:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651871/ooit-runde-margriet-65-vier-cafes-na-42-jaar-verkoopt-ze-haar-levenswerk-op-stratumseind-ik-ben-mezelf-weleens-voorbijgegaan.html": {
-   "titel": "Ooit runde Margriet (65) vier cafés, na 42 jaar verkoopt ze haar levenswerk op Stratumseind: `Ik ben mezelf weleens voorbijgegaan`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651871/ooit-runde-margriet-65-vier-cafes-na-42-jaar-verkoopt-ze-haar-levenswerk-op-stratumseind-ik-ben-mezelf-weleens-voorbijgegaan.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:31:03+00:00",
-   "eerst_gezien": "2026-11-19T20:32:12.978827+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 21:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
    "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
@@ -5311,6 +5342,57 @@
    "prio": false,
    "tijd": "19-11 10:04"
   },
+  "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
+   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
+   "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
+   "tekst": "HELMOND – De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer woonwagens aan de Rivierensingel en Helmondsingel en een bedrijfspand aan de 1e Tussendijk zijn doorzocht. De invallen maken deel uit …",
+   "datum": "2026-11-19T13:25:55+00:00",
+   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html": {
+   "titel": "87-jarige fietser belandt in rolstoel na aanrijding in Son en Breugel, automobiliste (55) vecht tegen tranen in rechtszaal",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html",
+   "tekst": "",
+   "datum": "2026-11-19T21:13:09+00:00",
+   "eerst_gezien": "2026-11-19T21:20:41.766776+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 22:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108651871/ooit-runde-margriet-65-vier-cafes-na-42-jaar-verkoopt-ze-haar-levenswerk-op-stratumseind-ik-ben-mezelf-weleens-voorbijgegaan.html": {
+   "titel": "Ooit runde Margriet (65) vier cafés, na 42 jaar verkoopt ze haar levenswerk op Stratumseind: `Ik ben mezelf weleens voorbijgegaan`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651871/ooit-runde-margriet-65-vier-cafes-na-42-jaar-verkoopt-ze-haar-levenswerk-op-stratumseind-ik-ben-mezelf-weleens-voorbijgegaan.html",
+   "tekst": "",
+   "datum": "2026-11-19T20:31:03+00:00",
+   "eerst_gezien": "2026-11-19T20:32:12.978827+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 21:31"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#191126094523a2deurnerit137895": {
    "titel": "A2 Deurne Rit: 137895",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126094523a2deurnerit137895",
@@ -5344,23 +5426,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "19-11 09:40"
-  },
-  "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
-   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
-   "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
-   "tekst": "HELMOND – De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer woonwagens aan de Rivierensingel en Helmondsingel en een bedrijfspand aan de 1e Tussendijk zijn doorzocht. De invallen maken deel uit …",
-   "datum": "2026-11-19T13:25:55+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651808/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
@@ -13823,7 +13888,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 5,
    "fout": ""
   },
   "ED Deurne": {
@@ -13908,7 +13973,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -13928,7 +13993,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
