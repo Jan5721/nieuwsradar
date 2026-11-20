@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 17:24",
+ "bijgewerkt": "20-11-2026 17:40",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne": {
    "titel": "Fietser gewond bij botsing met auto op de Maassingel in Deurne",
@@ -902,6 +902,23 @@
    "prio": false,
    "tijd": "14-11 10:17"
   },
+  "https://www.ed.nl/helmond/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-50-6-miljoen-euro-uit~a53636d9/": {
+   "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
+   "link": "https://www.ed.nl/helmond/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-50-6-miljoen-euro-uit~a53636d9/",
+   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Helmond kreeg in de eerste helft van dit jaar 10 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 2415 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 50,6 miljoen euro uit aan …",
+   "datum": "2026-11-20T16:29:00+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:29"
+  },
   "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/": {
    "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: ‘Je hebt verleende rechten te respecteren’",
    "link": "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/",
@@ -1074,6 +1091,23 @@
    "prio": false,
    "tijd": "19-11 17:00"
   },
+  "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
+   "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
+   "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
+   "tekst": "In de eerste helft van dit jaar kregen 685 kinderen en jongeren tot 23 jaar in Deurne jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 10,2 miljoen euro uit aan jeugdzorg.",
+   "datum": "2026-11-20T16:29:00+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:29"
+  },
   "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/": {
    "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door ‘zware blaffers’",
    "link": "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/",
@@ -1090,6 +1124,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:30"
+  },
+  "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
+   "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
+   "link": "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/",
+   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Asten kreeg in de eerste helft van dit jaar 9 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 360 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 7,7 miljoen euro uit aan …",
+   "datum": "2026-11-20T16:29:00+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:29"
+  },
+  "https://www.ed.nl/someren/jeugdzorg-in-someren-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-6-3-miljoen-euro-uit~a951066f/": {
+   "titel": "Jeugdzorg in Someren: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 6,3 miljoen euro uit",
+   "link": "https://www.ed.nl/someren/jeugdzorg-in-someren-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-6-3-miljoen-euro-uit~a951066f/",
+   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Someren kreeg in de eerste helft van dit jaar 7 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 345 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 6,3 miljoen euro uit aan …",
+   "datum": "2026-11-20T16:29:00+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:29"
   },
   "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
@@ -4560,6 +4628,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
+   "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
+   "tekst": "",
+   "datum": "2026-11-20T16:31:04+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108661147/dordrecht-hoopt-strijdvaardigheid-tegen-heracles-om-te-zetten-in-punten-bij-helmond-sport.html": {
    "titel": "Dordrecht hoopt strijdvaardigheid tegen Heracles om te zetten in punten bij Helmond Sport",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108661147/dordrecht-hoopt-strijdvaardigheid-tegen-heracles-om-te-zetten-in-punten-bij-helmond-sport.html",
@@ -4762,23 +4846,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 13:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108659247/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html": {
-   "titel": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: `Vind ik respectloos`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659247/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html",
-   "tekst": "",
-   "datum": "2026-11-20T12:21:26+00:00",
-   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 13:21"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
    "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
@@ -5074,7 +5141,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 17:20"
@@ -5622,6 +5689,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 00:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108659247/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html": {
+   "titel": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: `Vind ik respectloos`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659247/peter-bosz-wil-niet-ingaan-op-vragen-over-mogelijke-komst-de-bruyne-vind-ik-respectloos.html",
+   "tekst": "",
+   "datum": "2026-11-20T12:21:26+00:00",
+   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 13:21"
   },
   "https://www.omroepbrabant.nl/nieuws/6035605/bazen-filmen-zieke-kapster-in-sportschool-maar-mogen-haar-niet-ontslaan": {
    "titel": "Bazen filmen zieke kapster in sportschool, maar mogen haar niet ontslaan",
@@ -15313,22 +15397,22 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant": {
