@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "20-11-2026 07:28",
+ "bijgewerkt": "20-11-2026 07:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64795/muzikaal-pronkstuk-met-bijzondere-geschiedenis-duikt-op-in-deurne": {
    "titel": "Muzikaal pronkstuk met bijzondere geschiedenis duikt op in Deurne",
@@ -881,7 +881,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 07:23"
@@ -988,23 +988,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:37"
-  },
-  "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/": {
-   "titel": "Jan Paagman Sterrenwacht houdt publieksavond in Asten",
-   "link": "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/",
-   "tekst": "De Jan Paagman Sterrenwacht in Asten houdt een publieksavond met rondleiding, presentatie, planetariumvoorstelling en bezoek aan de telescoop. Vrijdag 27 november begint het programma om 19.00 uur aan de Ostaderstraat 28.",
-   "datum": "2026-11-19T08:12:00+00:00",
-   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:12"
   },
   "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad": {
    "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
@@ -4304,12 +4287,61 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
+   "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html",
    "tekst": "",
-   "datum": "2026-11-20T06:27:03+00:00",
-   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "datum": "2026-11-20T06:43:12+00:00",
+   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 07:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656445/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656445/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:31:03+00:00",
+   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656444/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
+   "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656444/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:31:03+00:00",
+   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656434/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656434/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:29:06+00:00",
+   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4332,7 +4364,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 07:19"
@@ -4349,7 +4381,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 07:19"
@@ -4502,78 +4534,13 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108653024/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html": {
-   "titel": "Bijna alle internationals terug bij FC Dordrecht voor duel met Helmond Sport",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108653024/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html",
-   "tekst": "",
-   "datum": "2026-11-19T22:16:03+00:00",
-   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 23:16"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108652977/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
    "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108652977/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
    "tekst": "",
    "datum": "2026-11-19T22:15:03+00:00",
    "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108652974/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652974/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T22:15:02+00:00",
-   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108652972/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
-   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652972/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
-   "tekst": "",
-   "datum": "2026-11-19T22:15:02+00:00",
-   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108652756/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652756/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T22:12:02+00:00",
-   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Helmond",
+   "bron": "Drimble Deurne",
    "gemeenten": [
     "Helmond"
    ],
@@ -5358,6 +5325,104 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:25"
+  },
+  "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/": {
+   "titel": "Jan Paagman Sterrenwacht houdt publieksavond in Asten",
+   "link": "https://www.ed.nl/asten/jan-paagman-sterrenwacht-houdt-publieksavond-in-asten~a243a563/",
+   "tekst": "De Jan Paagman Sterrenwacht in Asten houdt een publieksavond met rondleiding, presentatie, planetariumvoorstelling en bezoek aan de telescoop. Vrijdag 27 november begint het programma om 19.00 uur aan de Ostaderstraat 28.",
+   "datum": "2026-11-19T08:12:00+00:00",
+   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 09:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T06:27:03+00:00",
+   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108653024/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html": {
+   "titel": "Bijna alle internationals terug bij FC Dordrecht voor duel met Helmond Sport",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108653024/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:16:03+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 23:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652974/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652974/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:15:02+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652972/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
+   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652972/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:15:02+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108652756/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652756/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
+   "tekst": "",
+   "datum": "2026-11-19T22:12:02+00:00",
+   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108652024/87-jarige-fietser-belandt-in-rolstoel-na-aanrijding-in-son-en-breugel-automobiliste-55-vecht-tegen-tranen-in-rechtszaal.html": {
    "titel": "87-jarige fietser belandt in rolstoel na aanrijding in Son en Breugel, automobiliste (55) vecht tegen tranen in rechtszaal",
@@ -13898,7 +13963,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "ED Someren": {
@@ -13973,12 +14038,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 7,
    "fout": ""
   },
   "Drimble Asten": {
