@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 08:23",
+ "bijgewerkt": "21-11-2026 08:39",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -953,19 +953,19 @@
    "prio": false,
    "tijd": "21-11 22:00"
   },
-  "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/": {
-   "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
-   "link": "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/",
+  "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/": {
+   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
+   "link": "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/",
    "tekst": "Woningbouwplannen genoeg in de regio, maar zonder stroom wordt een groot deel voorlopig niet gebouwd. In het Helmondse Nieuw Brandevoort en KnoopXL in Eindhoven gaan ze onderzoeken wat er wellicht toch kan door de plannen aan te passen.",
-   "datum": "2026-11-21T07:00:05+00:00",
-   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
+   "datum": "2026-11-21T07:00:00+00:00",
+   "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:00"
@@ -4724,7 +4724,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:13"
@@ -4741,7 +4741,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5237,7 +5237,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:11"
@@ -6052,12 +6052,12 @@
    "prio": false,
    "tijd": "20-11 14:25"
   },
-  "https://112brabant.nl/2026/11/21/auto-belandt-in-sloot-en-vliegt-in-brand/": {
+  "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
-   "link": "https://112brabant.nl/2026/11/21/auto-belandt-in-sloot-en-vliegt-in-brand/",
+   "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
    "tekst": "HEUSDEN - In Heusden bij Asten is een automobilist met zijn auto van de weg geraakt en in een sloot beland. De bestuurder wist zelfstandig uit het voertuig te komen en bleef ongedeerd. Enige tijd later vloog de auto in brand.",
-   "datum": "2026-11-21T07:08:02+00:00",
-   "eerst_gezien": "2026-11-21T07:22:38.992536+00:00",
+   "datum": "2026-11-21T07:35:57+00:00",
+   "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
    "bron": "112Brabant",
    "gemeenten": [
     "Asten"
@@ -6067,7 +6067,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "21-11 08:08"
+   "tijd": "21-11 08:35"
   },
   "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
@@ -6085,6 +6085,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/": {
+   "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
+   "link": "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/",
+   "tekst": "Woningbouwplannen genoeg in de regio, maar zonder stroom wordt een groot deel voorlopig niet gebouwd. In het Helmondse Nieuw Brandevoort en KnoopXL in Eindhoven gaan ze onderzoeken wat er wellicht toch kan door de plannen aan te passen.",
+   "datum": "2026-11-21T07:00:05+00:00",
+   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:00"
+  },
+  "https://112brabant.nl/2026/11/21/auto-belandt-in-sloot-en-vliegt-in-brand/": {
+   "titel": "Auto belandt in sloot en vliegt in brand",
+   "link": "https://112brabant.nl/2026/11/21/auto-belandt-in-sloot-en-vliegt-in-brand/",
+   "tekst": "HEUSDEN - In Heusden bij Asten is een automobilist met zijn auto van de weg geraakt en in een sloot beland. De bestuurder wist zelfstandig uit het voertuig te komen en bleef ongedeerd. Enige tijd later vloog de auto in brand.",
+   "datum": "2026-11-21T07:08:02+00:00",
+   "eerst_gezien": "2026-11-21T07:22:38.992536+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:08"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108663222/heerlijke-avond-voor-helmond-sport-dat-in-kelderkraker-keihard-afrekent-met-concurrent-fc-dordrecht.html": {
    "titel": "Heerlijke avond voor Helmond Sport, dat in kelderkraker keihard afrekent met concurrent FC Dordrecht",
@@ -9249,40 +9283,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083115ongevalwegvervoerletselburgemeesterroelslaanboer": {
-   "titel": "Ongeval wegvervoer letsel Burgemeester Roelslaan Boerenkamplaan Someren",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083115ongevalwegvervoerletselburgemeesterroelslaanboer",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-19T08:31:15+01:00",
-   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 08:31"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083100a2somerenrit137853": {
-   "titel": "A2 Someren Rit: 137853",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126083100a2somerenrit137853",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T08:31:00+01:00",
-   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 08:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651644/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html": {
    "titel": "Margriet (65) neemt na 42 jaar afscheid van Kafee Kix op Stratumseind: `Ik ben wel toe aan mijn pensioen`",
