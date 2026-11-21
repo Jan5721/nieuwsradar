@@ -1,11 +1,28 @@
 {
- "bijgewerkt": "21-11-2026 21:46",
+ "bijgewerkt": "21-11-2026 22:02",
  "items": {
+  "https://www.ed.nl/someren/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon~a90f4eefb/": {
+   "titel": "Tim d’n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
+   "link": "https://www.ed.nl/someren/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon~a90f4eefb/",
+   "tekst": "Carnavalsvereniging De Pompers uit Someren presenteert vol trots haar 42ste regent. Prins Tim d’n Urste heet in het dagelijks leven Tim van Dongen (34) en is getrouwd met prinses Manon (33).",
+   "datum": "2026-11-21T21:00:12+00:00",
+   "eerst_gezien": "2026-11-21T21:01:46.634053+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 22:00"
+  },
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
    "link": "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/",
    "tekst": "Het was al een publiek besluit, nu is het ook in de praktijk uitgevoerd. Inwoners van Someren die nieuwsgierig zijn naar alle documenten over het centrumplan kunnen die bekijken.",
-   "datum": "2026-11-20T20:24:23.036818+00:00",
+   "datum": "2026-11-21T21:00:00+00:00",
    "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -16,7 +33,7 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 21:24"
+   "tijd": "21-11 22:00"
   },
   "https://www.ed.nl/helmond/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn~a30094a4/": {
    "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
@@ -3845,6 +3862,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108672379/nuenen-breekt-met-slechte-reeks-en-wint-bij-wnc-waren-we-echt-naar-op-zoek.html": {
+   "titel": "Nuenen breekt met slechte reeks en wint bij WNC: `Waren we echt naar op zoek`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672379/nuenen-breekt-met-slechte-reeks-en-wint-bij-wnc-waren-we-echt-naar-op-zoek.html",
+   "tekst": "",
+   "datum": "2026-11-21T21:01:04+00:00",
+   "eerst_gezien": "2026-11-21T21:01:46.634053+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 22:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html": {
    "titel": "Heet van de Herdgang | Poll: `Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html",
@@ -4048,23 +4082,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 13:34"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108669440/na-lang-zoeken-vinden-turkse-vrouwen-een-plek-om-hun-geschiedenis-te-delen.html": {
-   "titel": "Na lang zoeken vinden Turkse vrouwen een plek om hun geschiedenis te delen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669440/na-lang-zoeken-vinden-turkse-vrouwen-een-plek-om-hun-geschiedenis-te-delen.html",
-   "tekst": "",
-   "datum": "2026-11-21T12:07:21+00:00",
-   "eerst_gezien": "2026-11-21T12:12:58.662266+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 13:07"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108671218/basisschool-maanden-dicht-na-verwoestende-vuurwerkbrand-veroorzaakt-door-jonge-kinderen-ouders-voeren-geen-lik-op-stukbeleid.html": {
    "titel": "Basisschool maanden dicht na verwoestende vuurwerkbrand veroorzaakt door jonge kinderen: ’Ouders voeren geen lik-op-stukbeleid...",
@@ -4537,8 +4554,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 19:25"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108661057/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren.html": {
    "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: `Je hebt verleende rechten te respecteren`",
@@ -4602,7 +4618,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 21:45"
@@ -5304,6 +5320,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 21:50"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108669440/na-lang-zoeken-vinden-turkse-vrouwen-een-plek-om-hun-geschiedenis-te-delen.html": {
+   "titel": "Na lang zoeken vinden Turkse vrouwen een plek om hun geschiedenis te delen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669440/na-lang-zoeken-vinden-turkse-vrouwen-een-plek-om-hun-geschiedenis-te-delen.html",
+   "tekst": "",
+   "datum": "2026-11-21T12:07:21+00:00",
+   "eerst_gezien": "2026-11-21T12:12:58.662266+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 13:07"
   },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -17994,7 +18027,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
