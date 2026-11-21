@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 15:21",
+ "bijgewerkt": "21-11-2026 15:37",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en": {
    "titel": "Rianne Baggermans-Filippini wordt nieuwe directeur Alfrink- en Peellandcollege",
@@ -5391,6 +5391,40 @@
    "prio": false,
    "tijd": "14-11 23:12"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022": {
+   "titel": "A2 Helmond Rit: 139022",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-21T15:32:24+01:00",
+   "eerst_gezien": "2026-11-21T14:37:20.783615+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 15:32"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126152307a1astenrit139015": {
+   "titel": "A1 Asten Rit: 139015",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126152307a1astenrit139015",
+   "tekst": "Ambulance 22-111 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T15:23:07+01:00",
+   "eerst_gezien": "2026-11-21T14:37:20.783615+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 15:23"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008": {
    "titel": "A2 Helmond Rit: 139008",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008",
@@ -5403,7 +5437,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 15:06"
@@ -8831,23 +8865,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126152922a2astenrit138115": {
-   "titel": "A2 Asten Rit: 138115",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126152922a2astenrit138115",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T15:29:22+01:00",
-   "eerst_gezien": "2026-11-19T14:33:28.927997+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 15:29"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108657341/achtervolging-tussen-twee-autos-eindigt-in-ernstig-ongeluk-met-fietser-bestuurder-mogelijk-onder-invloed.html": {
    "titel": "Achtervolging tussen twee auto`s eindigt in ernstig ongeluk met fietser: bestuurder mogelijk onder invloed",
@@ -17588,7 +17605,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
