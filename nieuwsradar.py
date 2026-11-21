@@ -299,16 +299,28 @@ def maak_pagina(cfg, items, bronstatus, laatst):
     status = "".join(
         f'<li class="{"ok" if s["ok"] else "fout"}">{html.escape(n)}: '
         f'{s["aantal"] if s["ok"] else html.escape(s["fout"])}</li>' for n, s in bronstatus.items())
-    knoppen_g = "".join(f'<button data-f="gem" data-v="{g}">{g}</button>' for g in gemeenten)
     verb = cfg["instellingen"].get("verborgen_onder_alles", [])
+    apart = cfg["instellingen"].get("alleen_via_eigen_knop", ["112 ambulance"])
     gewoon = [s for s in soorten if not any(s.startswith(x) for x in verb)]
     knoppen_s = "".join(f'<button data-f="soort" data-v="{html.escape(s)}">{html.escape(s)}</button>' for s in gewoon)
-    volg = ["brandweer", "ambulance", "politie", "overig"]
+    menu_g = ('<div class="menu" data-menu="gem"><button class="hoofd" data-leeg="Gemeenten">Gemeenten ▾</button><div class="lijst">'
+              '<button data-f="gem" data-v="" data-label="Gemeenten">Alle gemeenten</button>'
+              + "".join(f'<button data-f="gem" data-v="{g}" data-label="{g}">{g}</button>' for g in gemeenten)
+              + '</div></div>')
+    volg = ["brandweer", "politie", "overig", "ambulance"]
     s112 = sorted([s for s in soorten if s not in gewoon],
                   key=lambda s: volg.index(s.split(" ", 1)[-1]) if s.split(" ", 1)[-1] in volg else 9)
+    menu_112 = ""
     if s112:
-        knoppen_s += ('<span class="sep">112:</span><button data-f="soort" data-v="112*">alle 112</button>'
-                      + "".join(f'<button data-f="soort" data-v="{html.escape(s)}">{html.escape(s.split(" ", 1)[-1])}</button>' for s in s112))
+        menu_112 = ('<div class="menu" data-menu="112"><button class="hoofd" data-leeg="112">112 ▾</button><div class="lijst">'
+                    '<button data-f="soort" data-v="112*" data-label="112: alle">Alle 112 (zonder ambulance)</button>'
+                    + "".join(f'<button data-f="soort" data-v="{html.escape(s)}" data-label="112: {html.escape(s.split(" ", 1)[-1])}">'
+                              f'{html.escape(s.split(" ", 1)[-1].capitalize())}</button>' for s in s112)
+                    + '</div></div>')
+    ob = cfg["instellingen"].get("openbestuur", {g: f"https://openbestuur.nl/gemeente/{g.lower()}" for g in gemeenten})
+    menu_ob = ('<div class="menu" data-menu="ob"><button class="hoofd" data-leeg="OpenBestuur">OpenBestuur ▾</button><div class="lijst">'
+               + "".join(f'<a class="knop" href="{html.escape(u)}" target="_blank" rel="noopener">{html.escape(g)} ↗</a>' for g, u in ob.items())
+               + '</div></div>')
     n_nieuw = sum(1 for i in items if i.get("nieuw"))
     pagina = f"""<!DOCTYPE html>
 <html lang="nl"><head><meta charset="utf-8">
@@ -338,14 +350,15 @@ main{{max-width:1000px;margin:20px auto;padding:0 20px}}
 .g-helmond{{background:#1E5AA8}}.g-deurne{{background:#2E7D5B}}.g-asten{{background:#8A4FA3}}.g-someren{{background:#B85E12}}
 .prio{{background:#B3261E;color:#fff;padding:1px 6px;border-radius:8px;font-weight:700}}
 .sep{{color:#F6F3EC;font-size:13px;margin-left:10px;opacity:.8}}
+.menu{{position:relative;display:inline-block}}.menu .lijst{{display:none;position:absolute;top:110%;left:0;background:var(--ink);border:1px solid #9FB0C6;border-radius:10px;padding:6px;z-index:5;min-width:190px;flex-direction:column;gap:4px}}
+.menu.open .lijst{{display:flex}}.menu .lijst button{{text-align:left;border-radius:8px}}a.knop{{border:1px solid #9FB0C6;color:#F6F3EC;border-radius:8px;padding:4px 12px;font-size:13px;text-decoration:none;display:block}}a.knop:hover{{background:#F6F3EC;color:var(--ink)}}.menu .hoofd.gekozen{{background:#F6F3EC;color:var(--ink);border-color:#F6F3EC}}
 .nieuwlabel{{background:var(--orange);color:#fff;padding:1px 6px;border-radius:8px}}
 footer{{max-width:1000px;margin:30px auto;padding:0 20px 40px;font-size:12px;color:#6B7585}}
 footer li.fout{{color:#B3261E}}
 </style></head><body>
 <header><h1>{html.escape(inst['pagina_titel'])}</h1>
 <div class="sub">Bijgewerkt {html.escape(laatst)} · {len(items)} berichten van de afgelopen {inst['dagen_tonen']} dagen · <span class="nieuwlabel">{n_nieuw} nieuw</span> sinds de vorige ronde <button id="ververs" title="Nieuwste versie ophalen">↻ Ververs</button></div>
-<div class="balk"><button data-f="gem" data-v="" class="aan">Alle gemeenten</button>{knoppen_g}</div>
-<div class="balk"><button data-f="soort" data-v="" class="aan">Alle bronnen</button>{knoppen_s}
+<div class="balk">{menu_g}<button data-f="soort" data-v="" class="aan">Alle bronnen</button>{knoppen_s}{menu_112}{menu_ob}
 <button id="alleennieuw">Alleen nieuw</button><input id="zoek" placeholder="Zoeken in koppen…"></div></header>
 <main id="lijst">{''.join(rijen) or '<p>Nog geen berichten.</p>'}</main>
 <footer><b>Status bronnen</b> (aantal berichten bij de laatste ronde)<ul>{status}</ul>
@@ -356,12 +369,27 @@ document.getElementById('ververs').onclick=vers;
 setTimeout(vers,{int(inst.get('pagina_verversen_minuten', 15)) * 60000});
 const st={{gem:'',soort:'',nieuw:false,q:''}};
 const verborgen={json.dumps(cfg["instellingen"].get("verborgen_onder_alles", []))};
+const apart={json.dumps(apart)};
+function zichtbaarSoort(s){{
+ if(!st.soort) return !verborgen.some(v=>s.startsWith(v));
+ if(st.soort.endsWith('*')) return s.startsWith(st.soort.slice(0,-1))&&!apart.includes(s);
+ return s===st.soort;}}
 function pas(){{document.querySelectorAll('.item').forEach(e=>{{
- const ok=(!st.gem||e.dataset.gem.split(' ').includes(st.gem))&&(st.soort?(st.soort.endsWith('*')?e.dataset.soort.startsWith(st.soort.slice(0,-1)):e.dataset.soort===st.soort):!verborgen.some(v=>e.dataset.soort.startsWith(v)))
+ const ok=(!st.gem||e.dataset.gem.split(' ').includes(st.gem))&&zichtbaarSoort(e.dataset.soort)
  &&(!st.nieuw||e.classList.contains('nieuw'))&&(!st.q||e.textContent.toLowerCase().includes(st.q));
  e.style.display=ok?'':'none';}});}}
-document.querySelectorAll('button[data-f]').forEach(b=>b.onclick=()=>{{st[b.dataset.f]=b.dataset.v;
- document.querySelectorAll('button[data-f="'+b.dataset.f+'"]').forEach(x=>x.classList.toggle('aan',x===b));pas();}});
+function labels(){{document.querySelectorAll('.menu').forEach(m=>{{
+ const h=m.querySelector('.hoofd'); const k=m.querySelector('.lijst button.aan');
+ const gekozen=k&&k.dataset.v!=='';
+ h.textContent=(gekozen?k.dataset.label:h.dataset.leeg)+' ▾'; h.classList.toggle('gekozen',!!gekozen);}});}}
+document.querySelectorAll('.menu .hoofd').forEach(h=>h.onclick=ev=>{{ev.stopPropagation();
+ const m=h.parentElement; const was=m.classList.contains('open');
+ document.querySelectorAll('.menu').forEach(x=>x.classList.remove('open')); if(!was) m.classList.add('open');}});
+document.addEventListener('click',()=>document.querySelectorAll('.menu').forEach(x=>x.classList.remove('open')));
+document.querySelectorAll('button[data-f]').forEach(b=>b.onclick=ev=>{{ev.stopPropagation();st[b.dataset.f]=b.dataset.v;
+ document.querySelectorAll('button[data-f="'+b.dataset.f+'"]').forEach(x=>x.classList.toggle('aan',x===b));
+ document.querySelectorAll('.menu').forEach(x=>x.classList.remove('open')); labels(); pas();}});
+pas();
 document.getElementById('alleennieuw').onclick=e=>{{st.nieuw=!st.nieuw;e.target.classList.toggle('aan',st.nieuw);pas();}};
 document.getElementById('zoek').oninput=e=>{{st.q=e.target.value.toLowerCase();pas();}};
 </script></body></html>"""
