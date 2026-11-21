@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 21:30",
+ "bijgewerkt": "21-11-2026 21:46",
  "items": {
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -3857,7 +3857,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 21:19"
@@ -4589,6 +4589,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 23:55"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151": {
+   "titel": "A2 Deurne Rit: 139151",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T21:45:37+01:00",
+   "eerst_gezien": "2026-11-21T20:45:42.335461+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 21:45"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126205636a2liesselrit139137": {
    "titel": "A2 Liessel Rit: 139137",
@@ -18082,7 +18099,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 41,
+   "aantal": 42,
    "fout": ""
   },
   "112Brabant": {
