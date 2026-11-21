@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 09:27",
+ "bijgewerkt": "21-11-2026 09:43",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -953,6 +953,23 @@
    "prio": false,
    "tijd": "21-11 22:00"
   },
+  "https://www.ed.nl/helmond/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze~a3a6df16/": {
+   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze?",
+   "link": "https://www.ed.nl/helmond/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze~a3a6df16/",
+   "tekst": "Het zijn jonge mannen die op 4 augustus 1961 in Helmond in de bus stappen. De bestemming is Erlingen in Duitsland. Ze gaan daar werken in een zogenoemd ‘Bouworde-kamp’. Het betreft dertien jonge werknemers van Vlisco, oud-leerlingen van de C.M.S., zo staat bij de foto vermeld.",
+   "datum": "2026-11-21T08:30:05+00:00",
+   "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 09:30"
+  },
   "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/": {
    "titel": "Geen grote ego’s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
    "link": "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/",
@@ -965,7 +982,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:15"
@@ -1124,23 +1141,6 @@
    "prio": false,
    "tijd": "20-11 09:57"
   },
-  "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/",
-   "tekst": "De Duitse rockband Kadavar geeft een concert in De Cacaofabriek in Helmond. Donderdag 10 december staat de band daar met supportact Scott Hepple and The Sun Band.",
-   "datum": "2026-11-20T06:23:00+00:00",
-   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:23"
-  },
   "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
    "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
    "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
@@ -1157,6 +1157,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
+  },
+  "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/",
+   "tekst": "De Duitse rockband Kadavar geeft een concert in De Cacaofabriek in Helmond. Donderdag 10 december staat de band daar met supportact Scott Hepple and The Sun Band.",
+   "datum": "2026-11-20T06:23:00+00:00",
+   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 07:23"
   },
   "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
    "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
@@ -1226,6 +1243,23 @@
    "prio": false,
    "tijd": "21-11 06:31"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
+   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
+   "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad eindelijk helemaal klaar en kun je binnen veertig minuten …",
+   "datum": "2026-11-20T05:00:00+00:00",
+   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 06:00"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
    "link": "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht",
@@ -1293,23 +1327,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 10:41"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
-   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
-   "tekst": "",
-   "datum": "2026-11-20T07:16:17.232955+00:00",
-   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 08:16"
   },
   "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond": {
    "titel": "Twee gewonden bij botsing in Helmond",
@@ -2557,6 +2574,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -4678,6 +4746,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668319/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
+   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668319/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
+   "tekst": "",
+   "datum": "2026-11-21T08:41:10+00:00",
+   "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html": {
    "titel": "Geen grote ego`s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html",
@@ -4690,7 +4774,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4910,39 +4994,22 @@
    "prio": false,
    "tijd": "21-11 07:07"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html": {
-   "titel": "Hoe werkgevers wraak nemen op verwende ICT`ers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html",
-   "tekst": "",
-   "datum": "2026-11-21T04:49:02+00:00",
-   "eerst_gezien": "2026-11-21T04:58:09.639801+00:00",
-   "bron": "Drimble Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html": {
+   "titel": "Nieuwswekker: School in brand + Opgelicht met Pokémon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html",
+   "tekst": "Gooooooiemorgen! Tijd voor weekend! Het ideale moment om eens lekker de Nieuwswekker te lezen. Komt-ie! Het weer Zon en wolken wisselen...",
+   "datum": "2026-11-21T08:28:07+00:00",
+   "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "21-11 05:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666895/de-kattenmeppers-slaan-keihard-toe-met-treffers-samenvatting-helmond-sport-fc-dordrecht-video.html": {
-   "titel": "De KATTENMEPPERS slaan KEIHARD toe met TREFFERS | Samenvatting Helmond Sport - FC Dordrecht [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666895/de-kattenmeppers-slaan-keihard-toe-met-treffers-samenvatting-helmond-sport-fc-dordrecht-video.html",
-   "tekst": "De samenvatting van Helmond Sport - FC Dordrecht, een wedstrijd in speelronde 16 van de Keuken Kampioen Divisie, gespeeld op vrijdag...",
-   "datum": "2026-11-20T23:59:03+00:00",
-   "eerst_gezien": "2026-11-21T00:09:22.032038+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 00:59"
+   "tijd": "21-11 09:28"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html": {
    "titel": "Basisschool in brand nadat kinderen vuurwerk afsteken",
@@ -5161,22 +5228,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108664001/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html",
    "tekst": "",
    "datum": "2026-11-20T22:12:04+00:00",
-   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108663929/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
-   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663929/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-20T22:11:04+00:00",
    "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
@@ -6100,56 +6151,55 @@
    "prio": false,
    "tijd": "20-11 22:28"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html": {
+   "titel": "Hoe werkgevers wraak nemen op verwende ICT`ers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html",
+   "tekst": "",
+   "datum": "2026-11-21T04:49:02+00:00",
+   "eerst_gezien": "2026-11-21T04:58:09.639801+00:00",
+   "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "gemeente",
+   "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 21:59"
+   "tijd": "21-11 05:49"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108666895/de-kattenmeppers-slaan-keihard-toe-met-treffers-samenvatting-helmond-sport-fc-dordrecht-video.html": {
+   "titel": "De KATTENMEPPERS slaan KEIHARD toe met TREFFERS | Samenvatting Helmond Sport - FC Dordrecht [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666895/de-kattenmeppers-slaan-keihard-toe-met-treffers-samenvatting-helmond-sport-fc-dordrecht-video.html",
+   "tekst": "De samenvatting van Helmond Sport - FC Dordrecht, een wedstrijd in speelronde 16 van de Keuken Kampioen Divisie, gespeeld op vrijdag...",
+   "datum": "2026-11-20T23:59:03+00:00",
+   "eerst_gezien": "2026-11-21T00:09:22.032038+00:00",
+   "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "gemeente",
+   "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 21:16"
+   "tijd": "21-11 00:59"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108663929/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
+   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663929/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:11:04+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
-   "soort": "gemeente",
+   "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
    "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
@@ -7847,23 +7897,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html": {
-   "titel": "Vroeger liep Koen mee met `t Vaartje tijdens de carnaval, nu is hij prins van De Plattevonder",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108598306/vroeger-liep-koen-mee-met-t-vaartje-tijdens-de-carnaval-nu-is-hij-prins-van-de-plattevonder.html",
-   "tekst": "",
-   "datum": "2026-11-14T08:29:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 09:29"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108658962/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html": {
    "titel": "NVWA haalt 200 runderen weg bij Brabantse boer: dieren konden zich verwonden in stal",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108658962/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html",
@@ -9214,23 +9247,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 09:45"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126094021a1somerenrit137894": {
-   "titel": "A1 Someren Rit: 137894",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126094021a1somerenrit137894",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T09:40:21+01:00",
-   "eerst_gezien": "2026-11-19T08:53:35.986872+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "19-11 09:40"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651808/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
@@ -17222,7 +17238,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -17237,12 +17253,12 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -17261,9 +17277,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal server error"
+   "ok": true,
+   "aantal": 3,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -17302,7 +17318,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
