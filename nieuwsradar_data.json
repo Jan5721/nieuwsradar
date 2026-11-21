@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 23:22",
+ "bijgewerkt": "21-11-2026 23:38",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -4730,6 +4730,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108673876/een-straftraining-is-alleen-maar-voor-de-buhne.html": {
+   "titel": "Een straftraining is alleen maar voor de bühne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673876/een-straftraining-is-alleen-maar-voor-de-buhne.html",
+   "tekst": "Vanmorgen hoorde ik de trainer van FC Dordrecht, Paul Nuyten, met een strak gezicht voor de camera van ESPN vertellen dat zijn spelers...",
+   "datum": "2026-11-21T22:25:05+00:00",
+   "eerst_gezien": "2026-11-21T22:38:17.039441+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 23:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108673366/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs.html": {
    "titel": "Robine is prof net als haar vader en opa: ´Zijn allemaal even eigenwijs´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108673366/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs.html",
@@ -4742,7 +4759,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4758,7 +4775,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 23:16"
@@ -4775,7 +4792,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4791,7 +4808,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4807,7 +4824,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4948,22 +4965,6 @@
    "prio": false,
    "tijd": "21-11 18:53"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108670930/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik.html": {
-   "titel": "Door vuurwerk verwoeste basisschool in Deurne is zeker maanden buiten gebruik",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670930/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik.html",
-   "tekst": "",
-   "datum": "2026-11-21T16:49:07+00:00",
-   "eerst_gezien": "2026-11-21T17:01:33.603266+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108673353/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan.html": {
    "titel": "Hal en lokalen verwoest na schoolbrand: ´Vraag of school nog open kan´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108673353/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan.html",
@@ -4976,7 +4977,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4992,7 +4993,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5012,6 +5013,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 18:44"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108670930/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik.html": {
+   "titel": "Door vuurwerk verwoeste basisschool in Deurne is zeker maanden buiten gebruik",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670930/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik.html",
+   "tekst": "",
+   "datum": "2026-11-21T16:49:07+00:00",
+   "eerst_gezien": "2026-11-21T17:01:33.603266+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108670671/basisschool-in-brand-doordat-kinderen-vuurwerk-afsteken-video.html": {
    "titel": "Basisschool in brand doordat kinderen vuurwerk afsteken [video]",
@@ -5399,7 +5416,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -18296,7 +18313,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Asten": {
