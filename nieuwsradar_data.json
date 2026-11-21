@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 23:54",
+ "bijgewerkt": "22-11-2026 00:10",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -1281,7 +1281,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
    "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
    "link": "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken",
-   "tekst": "",
+   "tekst": "vrijdag De gemeente Helmond heeft op 6 oktober 2026 een derde wijziging van het Uitvoeringsbesluit hondenkaart Helmond 2021 vastgesteld. Er zijn nieuwe gebieden aangewezen voor hondenuitlaatstroken, loslaatstroken en hondenverbodsgebieden. …",
    "datum": "2026-11-20T09:41:06.319780+00:00",
    "eerst_gezien": "2026-11-20T09:41:06.319780+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1298,7 +1298,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
-   "tekst": "",
+   "tekst": "vrijdag Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad eindelijk …",
    "datum": "2026-11-20T07:16:17.232955+00:00",
    "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1741,7 +1741,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis": {
    "titel": "Drie auto's botsen op elkaar in Deurne, één gewonde naar ziekenhuis",
    "link": "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis",
-   "tekst": "VIDEO",
+   "tekst": "VIDEO vrijdag Bij een kop-staartbotsing op de Helmondsingel in Deurne zijn vrijdagmiddag drie auto's op elkaar gebotst. Eén persoon is met een ambulance naar het ziekenhuis gebracht.",
    "datum": "2026-11-20T12:05:53.839896+00:00",
    "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1758,7 +1758,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne": {
    "titel": "Vergunning verleend voor het kappen van een boom aan de Energiestraat in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne",
-   "tekst": "",
+   "tekst": "vrijdag De gemeente Deurne heeft op 18 november 2026 een vergunning verleend voor het kappen van een boom aan de Energiestraat, op perceel E 3610.",
    "datum": "2026-11-20T08:52:45.581364+00:00",
    "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1775,7 +1775,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035534/vergunning-verleend-voor-bedrijfsverzamelgebouw-in-liessel": {
    "titel": "Vergunning verleend voor bedrijfsverzamelgebouw in Liessel",
    "link": "https://www.omroepbrabant.nl/nieuws/6035534/vergunning-verleend-voor-bedrijfsverzamelgebouw-in-liessel",
-   "tekst": "",
+   "tekst": "vrijdag De gemeente Deurne heeft een vergunning verleend voor de bouw van een bedrijfsverzamelgebouw aan de Snoertsebaan 15a in Liessel. Het besluit is op 18 november 2026 genomen.",
    "datum": "2026-11-20T08:52:45.581364+00:00",
    "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4742,7 +4742,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 23:53"
@@ -4759,7 +4759,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4973,7 +4973,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 23:47"
@@ -4990,7 +4990,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
