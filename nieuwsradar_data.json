@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 03:34",
+ "bijgewerkt": "21-11-2026 03:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1623,7 +1623,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond": {
    "titel": "Ruim honderd processen-verbaal tijdens verkeerscontrole in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond",
-   "tekst": "zaterdag Bij een verkeerscontrole die donderdag plaatsvond op de Helmondsingel in Helmond zijn 101 processen-verbaal uitgeschreven. Dat maakte de politie vrijdagnacht bekend. Een vreemdeling werd aangehouden omdat die geen …",
+   "tekst": "14 november 2026 Bij een verkeerscontrole die donderdag plaatsvond op de Helmondsingel in Helmond zijn 101 processen-verbaal uitgeschreven. Dat maakte de politie vrijdagnacht bekend. Een vreemdeling werd aangehouden omdat die geen …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -5501,7 +5501,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 03:27"
