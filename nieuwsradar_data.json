@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 22:34",
+ "bijgewerkt": "21-11-2026 22:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -4730,6 +4730,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108672567/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-van-die-machtige-sprints-tien-te-weinig-dus.html": {
+   "titel": "Peter Bosz prikkelt Ruben van Bommel op weg naar Real Madrid: `Twee van die machtige sprints, tien te weinig dus`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672567/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-van-die-machtige-sprints-tien-te-weinig-dus.html",
+   "tekst": "",
+   "datum": "2026-11-21T21:49:07+00:00",
+   "eerst_gezien": "2026-11-21T21:49:46.315866+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 22:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108672468/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-sprints-tegen-nec-moeten-er-twaalf-zijn.html": {
    "titel": "Peter Bosz prikkelt Ruben van Bommel op weg naar Real Madrid: `Twee sprints tegen NEC' Moeten er twaalf zijn`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108672468/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-sprints-tegen-nec-moeten-er-twaalf-zijn.html",
@@ -4742,7 +4759,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 22:31"
@@ -4934,23 +4951,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 16:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108670369/gusto-040-pakt-uit-met-mediterrane-smaken-in-een-levendig-zonnig-decor.html": {
-   "titel": "Gusto-040 pakt uit met mediterrane smaken in een levendig, zonnig decor",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670369/gusto-040-pakt-uit-met-mediterrane-smaken-in-een-levendig-zonnig-decor.html",
-   "tekst": "",
-   "datum": "2026-11-21T15:07:22+00:00",
-   "eerst_gezien": "2026-11-21T15:09:22.593206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 16:07"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108671218/basisschool-maanden-dicht-na-verwoestende-vuurwerkbrand-veroorzaakt-door-jonge-kinderen-ouders-voeren-geen-lik-op-stukbeleid.html": {
    "titel": "Basisschool maanden dicht na verwoestende vuurwerkbrand veroorzaakt door jonge kinderen: ’Ouders voeren geen lik-op-stukbeleid...",
@@ -5453,7 +5453,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 22:31"
@@ -6172,6 +6172,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 21:50"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108670369/gusto-040-pakt-uit-met-mediterrane-smaken-in-een-levendig-zonnig-decor.html": {
+   "titel": "Gusto-040 pakt uit met mediterrane smaken in een levendig, zonnig decor",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670369/gusto-040-pakt-uit-met-mediterrane-smaken-in-een-levendig-zonnig-decor.html",
+   "tekst": "",
+   "datum": "2026-11-21T15:07:22+00:00",
+   "eerst_gezien": "2026-11-21T15:09:22.593206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 16:07"
   },
   "https://www.ed.nl/opinie/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven~a0593b4c/": {
    "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
