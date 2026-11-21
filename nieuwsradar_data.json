@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 13:29",
+ "bijgewerkt": "21-11-2026 13:45",
  "items": {
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -3828,6 +3828,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108669566/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html": {
+   "titel": "Afgang in Helmond onderstreept: FC Dordrecht is laatste en terug bij af",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669566/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html",
+   "tekst": "",
+   "datum": "2026-11-21T12:34:08+00:00",
+   "eerst_gezien": "2026-11-21T12:45:03.160413+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 13:34"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108669440/na-lang-zoeken-vinden-turkse-vrouwen-een-plek-om-hun-geschiedenis-te-delen.html": {
    "titel": "Na lang zoeken vinden Turkse vrouwen een plek om hun geschiedenis te delen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108669440/na-lang-zoeken-vinden-turkse-vrouwen-een-plek-om-hun-geschiedenis-te-delen.html",
@@ -3966,22 +3983,6 @@
    "tekst": "",
    "datum": "2026-11-21T09:13:09+00:00",
    "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
-   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
-   "tekst": "",
-   "datum": "2026-11-21T08:49:07+00:00",
-   "eerst_gezien": "2026-11-21T08:59:20.300288+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5085,23 +5086,6 @@
    "prio": false,
    "tijd": "20-11 17:20"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126163603ongevalwegvervoerletselmaassingeldeurne": {
-   "titel": "Ongeval wegvervoer letsel Maassingel Deurne",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126163603ongevalwegvervoerletselmaassingeldeurne",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-20T16:36:03+01:00",
-   "eerst_gezien": "2026-11-20T15:50:59.803692+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 16:36"
-  },
   "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
    "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
@@ -5135,6 +5119,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
+   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
+   "tekst": "",
+   "datum": "2026-11-21T08:49:07+00:00",
+   "eerst_gezien": "2026-11-21T08:59:20.300288+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126163603ongevalwegvervoerletselmaassingeldeurne": {
+   "titel": "Ongeval wegvervoer letsel Maassingel Deurne",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126163603ongevalwegvervoerletselmaassingeldeurne",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-20T16:36:03+01:00",
+   "eerst_gezien": "2026-11-20T15:50:59.803692+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 16:36"
   },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en": {
    "titel": "Rianne Baggermans-Filippini wordt nieuwe directeur Alfrink- en Peellandcollege",
@@ -5748,23 +5765,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 14:50"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64652/culinaire-capriolen": {
-   "titel": "Culinaire capriolen",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64652/culinaire-capriolen",
-   "tekst": "Ik kan best een band op mijn brommer leggen en een afdak timmeren dat een tijdje blijft staan lukt ook nog. Maar zet mij voor een fornuis en mijn beschaving valt binnen tien minuten terug naar het stenen tijdperk.Vandaag waag ik me aan risotto met truffel, zeekraal en gekonfijte …",
-   "datum": "2026-11-14T13:33:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 13:33"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
@@ -17588,7 +17588,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
