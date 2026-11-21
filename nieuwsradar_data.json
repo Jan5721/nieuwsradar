@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "21-11-2026 10:15",
+ "bijgewerkt": "21-11-2026 10:31",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64816/kanexo-wint-meerdere-prijzen-op-internationale-kanarieshow": {
+   "titel": "Kanexo wint meerdere prijzen op internationale kanarieshow",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64816/kanexo-wint-meerdere-prijzen-op-internationale-kanarieshow",
+   "tekst": "DEURNE - Kleurkanariekwekers Kevin Coolen en Hennie van Lieshout van Kanexo Deurne hebben meerdere prijzen gewonnen tijdens een internationale kleurkanarieshow in het Belgische Putte. Bij de tentoonstelling waren ruim 7.000 vogels te zien. De twee kwekers wisten zich met hun …",
+   "datum": "2026-11-21T10:26:00+01:00",
+   "eerst_gezien": "2026-11-21T09:31:26.039506+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 10:26"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze",
@@ -919,23 +936,6 @@
    "prio": false,
    "tijd": "14-11 12:49"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64648/la-fete-pronkt-weer-in-asten-een-toepasselijke-bestemming": {
-   "titel": "La Fête pronkt weer in Asten: ‘Een toepasselijke bestemming’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64648/la-fete-pronkt-weer-in-asten-een-toepasselijke-bestemming",
-   "tekst": "ASTEN - Hoe het schilderij ooit in Asten belandde? Ook maker Jan van den Berg weet het niet. Maar het kunstwerk La Fête pronkte twintig jaar lang in de trouwzaal in het gemeentehuis van Asten. De tijd liet echter haar sporen na, het beste was er intussen wel vanaf. Maar Van den …",
-   "datum": "2026-11-14T10:17:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 10:17"
-  },
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
    "link": "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/",
@@ -982,7 +982,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:15"
@@ -4758,7 +4758,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4975,6 +4975,23 @@
    "prio": false,
    "tijd": "21-11 07:49"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html": {
+   "titel": "Kinderen steken vuurwerk af, basisschool Deurne fikt af",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html",
+   "tekst": "Basisschool Zeilberg in Deurne blijft voorlopig dicht na een grote brand die vrijdagavond ontstond door iets dat eigenlijk sinds het verbod...",
+   "datum": "2026-11-21T09:30:06+00:00",
+   "eerst_gezien": "2026-11-21T09:31:26.039506+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 10:30"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668484/basisschool-in-deurne-voorlopig-dicht-na-grote-brand-door-vuurwerk.html": {
    "titel": "Basisschool in Deurne voorlopig dicht na grote brand door vuurwerk",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668484/basisschool-in-deurne-voorlopig-dicht-na-grote-brand-door-vuurwerk.html",
@@ -4987,7 +5004,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 10:10"
@@ -5194,22 +5211,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108664240/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
    "tekst": "",
    "datum": "2026-11-20T22:15:04+00:00",
-   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108664006/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
-   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664006/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
-   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
-   "datum": "2026-11-20T22:12:04+00:00",
    "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
@@ -5502,6 +5503,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 23:12"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898": {
+   "titel": "A2 Asten Rit: 138898",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T10:21:55+01:00",
+   "eerst_gezien": "2026-11-21T09:31:26.039506+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 10:21"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871": {
    "titel": "A1 Helmond Rit: 138871",
@@ -6115,6 +6133,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664006/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664006/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T22:12:04+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/": {
    "titel": "Geen grote ego’s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
@@ -17267,12 +17301,12 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 37,
+   "aantal": 38,
    "fout": ""
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -17387,7 +17421,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
