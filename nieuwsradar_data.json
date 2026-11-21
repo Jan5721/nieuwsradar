@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 08:39",
+ "bijgewerkt": "21-11-2026 08:55",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -965,7 +965,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:00"
@@ -4712,6 +4712,71 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
+   "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:49:07+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667992/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html": {
+   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667992/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:49:07+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
+   "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:49:07+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667988/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html": {
+   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667988/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:49:07+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108667847/bijzondere-kist-met-initialen-wdn-duikt-op-en-belandt-in-geldrops-weverijmuseum.html": {
    "titel": "Bijzondere kist met initialen WDN duikt op en belandt in Geldrops Weverijmuseum",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108667847/bijzondere-kist-met-initialen-wdn-duikt-op-en-belandt-in-geldrops-weverijmuseum.html",
@@ -4931,71 +4996,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
-   "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html",
-   "tekst": "",
-   "datum": "2026-11-20T22:43:01+00:00",
-   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
-   "bron": "Drimble Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html": {
+   "titel": "Basisschool in brand nadat kinderen vuurwerk afsteken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html",
+   "tekst": "Een basisschool in het Brabantse dorp Deurne stond vrijdagavond in brand. Het vuur was in twee klaslokalen en een zaal van basisschool...",
+   "datum": "2026-11-21T07:40:08+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Asten"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 23:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108664429/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak.html": {
-   "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664429/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak.html",
-   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. De FIOD vermoedt dat de verdachten...",
-   "datum": "2026-11-20T22:17:06+00:00",
-   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108664427/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar.html": {
-   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: ´Eindelijk klaar´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664427/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar.html",
-   "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal...",
-   "datum": "2026-11-20T22:17:06+00:00",
-   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html": {
-   "titel": "FC Dordrecht zakt na afgang in Helmond naar bodem van de ranglijst",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html",
-   "tekst": "",
-   "datum": "2026-11-20T22:16:03+00:00",
-   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 23:16"
+   "tijd": "21-11 08:40"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666821/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -5128,6 +5144,22 @@
    "prio": false,
    "tijd": "20-11 23:20"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664429/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak.html": {
+   "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664429/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak.html",
+   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. De FIOD vermoedt dat de verdachten...",
+   "datum": "2026-11-20T22:17:06+00:00",
+   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108664386/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook.html": {
    "titel": "Klaslokaal van basisschool in Deurne uitgebrand, school vol rook",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108664386/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook.html",
@@ -5208,23 +5240,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662676/grote-brand-bij-basisschool-veel-rook-komt-vrij.html": {
-   "titel": "Grote brand bij basisschool, veel rook komt vrij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662676/grote-brand-bij-basisschool-veel-rook-komt-vrij.html",
-   "tekst": "Bij een basisschool in Deurne is brand uitgebroken. Meerdere brandweervoertuigen zijn aanwezig om de grote brand te bestrijden. Bij de brand...",
-   "datum": "2026-11-20T19:59:05+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:59"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108667825/auto-belandt-in-sloot-en-vliegt-in-brand.html": {
    "titel": "Auto belandt in sloot en vliegt in brand",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108667825/auto-belandt-in-sloot-en-vliegt-in-brand.html",
@@ -5272,7 +5287,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 00:04"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666594/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
    "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
@@ -5280,6 +5296,22 @@
    "tekst": "",
    "datum": "2026-11-20T23:04:03+00:00",
    "eerst_gezien": "2026-11-20T23:05:12.539931+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
+   "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:43:01+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
    "bron": "Drimble Asten",
    "gemeenten": [
     "Asten"
@@ -6064,7 +6096,7 @@
    ],
    "soort": "112-nieuws",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:35"
@@ -6085,6 +6117,56 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664427/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar.html": {
+   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: ´Eindelijk klaar´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664427/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar.html",
+   "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal...",
+   "datum": "2026-11-20T22:17:06+00:00",
+   "eerst_gezien": "2026-11-20T22:32:45.056221+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html": {
+   "titel": "FC Dordrecht zakt na afgang in Helmond naar bodem van de ranglijst",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:16:03+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 23:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662676/grote-brand-bij-basisschool-veel-rook-komt-vrij.html": {
+   "titel": "Grote brand bij basisschool, veel rook komt vrij",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662676/grote-brand-bij-basisschool-veel-rook-komt-vrij.html",
+   "tekst": "Bij een basisschool in Deurne is brand uitgebroken. Meerdere brandweervoertuigen zijn aanwezig om de grote brand te bestrijden. Bij de brand...",
+   "datum": "2026-11-20T19:59:05+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:59"
   },
   "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/": {
    "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
@@ -17176,12 +17258,12 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 7,
    "fout": ""
   },
   "Drimble Someren": {
