@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 08:55",
+ "bijgewerkt": "21-11-2026 09:11",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1571,7 +1571,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het": {
    "titel": "Sinterklaasintocht in 2028 in Helmond? Deze politieke partij hoopt het",
    "link": "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het",
-   "tekst": "zaterdag Sinterklaas is pas net aangemeerd in Grave, maar een stuk verderop in de provincie wordt al druk gesolliciteerd naar de rol van gaststad voor de landelijke Sinterklaasintocht. Helder Helmond, de grootste partij in de gemeenteraad, …",
+   "tekst": "14 november 2026 Sinterklaas is pas net aangemeerd in Grave, maar een stuk verderop in de provincie wordt al druk gesolliciteerd naar de rol van gaststad voor de landelijke Sinterklaasintocht. Helder Helmond, de grootste partij in de …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4724,7 +4724,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:49"
@@ -4741,7 +4741,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4757,7 +4757,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4773,7 +4773,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5008,7 +5008,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:40"
@@ -5504,6 +5504,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 23:12"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871": {
+   "titel": "A1 Helmond Rit: 138871",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T09:11:04+01:00",
+   "eerst_gezien": "2026-11-21T08:10:48.075968+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 09:11"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126085921a1helmondrit138867": {
+   "titel": "A1 Helmond Rit: 138867",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126085921a1helmondrit138867",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-21T08:59:21+01:00",
+   "eerst_gezien": "2026-11-21T08:10:48.075968+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 08:59"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126071816a2helmondrit138851": {
    "titel": "A2 Helmond Rit: 138851",
@@ -6067,23 +6101,6 @@
    "prio": false,
    "tijd": "20-11 14:38"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126142556a2helmondrit138570": {
-   "titel": "A2 Helmond Rit: 138570",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126142556a2helmondrit138570",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T14:25:56+01:00",
-   "eerst_gezien": "2026-11-20T13:26:08.833097+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 14:25"
-  },
   "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
    "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
@@ -6117,6 +6134,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126142556a2helmondrit138570": {
+   "titel": "A2 Helmond Rit: 138570",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126142556a2helmondrit138570",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T14:25:56+01:00",
+   "eerst_gezien": "2026-11-20T13:26:08.833097+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 14:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664427/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar.html": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: ´Eindelijk klaar´",
@@ -9181,23 +9215,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126090809a2helmondrit137874": {
-   "titel": "A2 Helmond Rit: 137874",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126090809a2helmondrit137874",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T09:08:09+01:00",
-   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 09:08"
   },
   "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/": {
    "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: ‘Want die bestaan niet’",
@@ -17273,7 +17290,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
