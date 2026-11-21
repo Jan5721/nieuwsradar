@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 14:49",
+ "bijgewerkt": "21-11-2026 15:05",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en": {
    "titel": "Rianne Baggermans-Filippini wordt nieuwe directeur Alfrink- en Peellandcollege",
@@ -596,23 +596,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 17:12"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64653/arcades-korfbalsport-zet-jubilarissen-in-het-zonnetje": {
-   "titel": "Arcades Korfbalsport zet jubilarissen in het zonnetje",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64653/arcades-korfbalsport-zet-jubilarissen-in-het-zonnetje",
-   "tekst": "NEERKANT/LIESSEL/ZEILBERG - Tijdens de algemene ledenvergadering van Arcades Korfbalsport is aandacht besteed aan drie bijzondere jubilarissen. Nathalie Thielen, Colinda Roefs-Oosterveen en Truus van Lieshout werden gehuldigd vanwege hun 25-jarig lidmaatschap van de …",
-   "datum": "2026-11-14T14:50:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 14:50"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
@@ -5408,6 +5391,23 @@
    "prio": false,
    "tijd": "14-11 23:12"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003": {
+   "titel": "A0 Helmond Rit: 139003",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T14:50:04+01:00",
+   "eerst_gezien": "2026-11-21T14:05:15.466052+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 14:50"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126144040p1bob01reanimatiedahliastraathelmond223231": {
    "titel": "P 1 BOB-01 Reanimatie Dahliastraat Helmond 223231",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126144040p1bob01reanimatiedahliastraathelmond223231",
@@ -5420,7 +5420,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 14:40"
@@ -5953,6 +5953,23 @@
    "prio": false,
    "tijd": "20-11 18:39"
   },
+  "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
+   "titel": "Auto belandt in sloot en vliegt in brand",
+   "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
+   "tekst": "HEUSDEN - In Heusden bij Asten is een automobilist met zijn auto van de weg geraakt en in een sloot beland. De bestuurder wist zelfstandig uit het voertuig te komen en bleef ongedeerd. Enige tijd later vloog de auto in brand.",
+   "datum": "2026-11-21T07:35:57+00:00",
+   "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:35"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126181135a2astenrit138655": {
    "titel": "A2 Asten Rit: 138655",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126181135a2astenrit138655",
@@ -5986,23 +6003,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 18:08"
-  },
-  "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
-   "titel": "Auto belandt in sloot en vliegt in brand",
-   "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
-   "tekst": "HEUSDEN - In Heusden bij Asten is een automobilist met zijn auto van de weg geraakt en in een sloot beland. De bestuurder wist zelfstandig uit het voertuig te komen en bleef ongedeerd. Enige tijd later vloog de auto in brand.",
-   "datum": "2026-11-21T07:35:57+00:00",
-   "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:35"
   },
   "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
@@ -17468,7 +17468,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 35,
    "fout": ""
   },
   "Peelbelang": {
@@ -17588,7 +17588,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
