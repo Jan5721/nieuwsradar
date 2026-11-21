@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 11:36",
+ "bijgewerkt": "21-11-2026 11:52",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64816/kanexo-wint-meerdere-prijzen-op-internationale-kanarieshow": {
    "titel": "Kanexo wint meerdere prijzen op internationale kanarieshow",
@@ -940,15 +940,15 @@
    "titel": "In de winkel van Sint proef je de magie letterlijk en figuurlijk: ‘Papa werkt voor Sinterklaas’",
    "link": "https://www.ed.nl/helmond/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas~a6af1228/",
    "tekst": "Wanneer de 9-jarige Jasper Claessens voor het eerst door de poorten van het Kasteel van Sinterklaas in Helmond stapt, is hij meteen verknocht. Al zingend loopt hij de trappen op, met Piet aan de hand. Een dag zo magisch dat hij nooit meer naar huis wil gaan. En dat lukt.",
-   "datum": "2026-11-21T10:30:31+00:00",
+   "datum": "2026-11-21T10:30:00+00:00",
    "eerst_gezien": "2026-11-21T10:35:37.879478+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": true,
+   "betaald": false,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 11:30"
@@ -4746,6 +4746,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108669048/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html": {
+   "titel": "In de winkel van Sint proef je de magie letterlijk en figuurlijk: `Papa werkt voor Sinterklaas`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669048/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html",
+   "tekst": "",
+   "datum": "2026-11-21T10:49:07+00:00",
+   "eerst_gezien": "2026-11-21T10:51:39.494119+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668977/helmond-sport-uitblinker-van-den-eynden-haast-zich-na-5-1-zege-op-fc-dordrecht-naar-huis-hij-kan-elk-moment-vader-worden.html": {
+   "titel": "Helmond Sport-uitblinker Van den Eynden haast zich na 5-1-zege op FC Dordrecht naar huis: hij kan elk moment vader worden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668977/helmond-sport-uitblinker-van-den-eynden-haast-zich-na-5-1-zege-op-fc-dordrecht-naar-huis-hij-kan-elk-moment-vader-worden.html",
+   "tekst": "",
+   "datum": "2026-11-21T10:36:06+00:00",
+   "eerst_gezien": "2026-11-21T10:51:39.494119+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 11:36"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668952/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html": {
    "titel": "In de winkel van Sint proef je de magie letterlijk en figuurlijk: `Papa werkt voor Sinterklaas`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668952/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html",
@@ -4758,7 +4791,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4774,7 +4807,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 11:26"
@@ -4883,55 +4916,6 @@
    "tekst": "",
    "datum": "2026-11-21T08:21:29+00:00",
    "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
-   "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:49:07+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667992/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html": {
-   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667992/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:49:07+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
-   "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:49:07+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -6052,40 +6036,6 @@
    "prio": true,
    "tijd": "20-11 15:38"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597": {
-   "titel": "A2 Deurne Rit: 138597",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T15:23:52+01:00",
-   "eerst_gezien": "2026-11-20T14:30:08.685524+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 15:23"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152254a2astenrit138594": {
-   "titel": "A2 Asten Rit: 138594",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152254a2astenrit138594",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T15:22:54+01:00",
-   "eerst_gezien": "2026-11-20T14:30:08.685524+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 15:22"
-  },
   "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
    "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
@@ -6119,6 +6069,89 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
+   "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:49:07+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667992/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html": {
+   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667992/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:49:07+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
+   "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:49:07+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597": {
+   "titel": "A2 Deurne Rit: 138597",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T15:23:52+01:00",
+   "eerst_gezien": "2026-11-20T14:30:08.685524+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 15:23"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152254a2astenrit138594": {
+   "titel": "A2 Asten Rit: 138594",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152254a2astenrit138594",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T15:22:54+01:00",
+   "eerst_gezien": "2026-11-20T14:30:08.685524+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 15:22"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667988/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html": {
    "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
@@ -9181,57 +9214,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126114028a2somerenrit137980": {
-   "titel": "A2 Someren Rit: 137980",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126114028a2somerenrit137980",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T11:40:28+01:00",
-   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 11:40"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126113848a2helmondrit137974": {
-   "titel": "A2 Helmond Rit: 137974",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126113848a2helmondrit137974",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-19T11:38:48+01:00",
-   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 11:38"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126113601a2helmondrit137974": {
-   "titel": "A2 Helmond Rit: 137974",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126113601a2helmondrit137974",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T11:36:01+01:00",
-   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 11:36"
   },
   "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad": {
    "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
@@ -17469,7 +17451,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -17489,7 +17471,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
