@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 09:11",
+ "bijgewerkt": "21-11-2026 09:27",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -952,6 +952,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 22:00"
+  },
+  "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/": {
+   "titel": "Geen grote ego’s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
+   "link": "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/",
+   "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
+   "datum": "2026-11-21T08:15:01+00:00",
+   "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 09:15"
   },
   "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/": {
    "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
@@ -2540,57 +2557,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
   },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
@@ -4712,6 +4678,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html": {
+   "titel": "Geen grote ego`s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html",
+   "tekst": "",
+   "datum": "2026-11-21T08:21:29+00:00",
+   "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
    "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
@@ -4961,40 +4943,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:59"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
-   "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html",
-   "tekst": "",
-   "datum": "2026-11-20T23:13:02+00:00",
-   "eerst_gezien": "2026-11-20T23:21:15.306681+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 00:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T22:45:04+00:00",
-   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html": {
    "titel": "Basisschool in brand nadat kinderen vuurwerk afsteken",
@@ -5273,6 +5221,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
+   "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html",
+   "tekst": "",
+   "datum": "2026-11-20T23:13:02+00:00",
+   "eerst_gezien": "2026-11-20T23:21:15.306681+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 00:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108666595/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
    "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108666595/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html",
@@ -5517,7 +5482,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 09:11"
@@ -5534,7 +5499,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 08:59"
@@ -6134,6 +6099,73 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665925/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:45:04+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126142556a2helmondrit138570": {
    "titel": "A2 Helmond Rit: 138570",
@@ -17185,7 +17217,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 12,
    "fout": ""
   },
   "ED Deurne": {
@@ -17229,9 +17261,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 3,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 500: Internal server error"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -17270,7 +17302,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -17280,7 +17312,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 8,
    "fout": ""
   },
   "Drimble Someren": {
