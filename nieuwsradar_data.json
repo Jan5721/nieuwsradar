@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 09:59",
+ "bijgewerkt": "21-11-2026 10:15",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -970,19 +970,19 @@
    "prio": false,
    "tijd": "21-11 09:30"
   },
-  "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/": {
-   "titel": "Geen grote ego’s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
-   "link": "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/",
+  "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/": {
+   "titel": "Een halve baan als voorzitter? Stiphout Vooruit lost het gewoon op met z’n tweeën",
+   "link": "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/",
    "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
-   "datum": "2026-11-21T08:15:01+00:00",
-   "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
+   "datum": "2026-11-21T08:15:00+00:00",
+   "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:15"
@@ -1588,7 +1588,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt": {
    "titel": "Vuurwerk gegooid naar boa's in Helmond: 'Ouders kijk waar je kind uithangt'",
    "link": "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt",
-   "tekst": "zaterdag Jongeren hebben vrijdagavond vuurwerk en voorwerpen gegooid naar boa's bij Sportpark De Braak in Helmond. Dat meldt de politie in Helmond zaterdag. Een 15-jarige jongen is aangehouden omdat hij met vuurwerk zou hebben gegooid. Ook …",
+   "tekst": "14 november 2026 Jongeren hebben vrijdagavond vuurwerk en voorwerpen gegooid naar boa's bij Sportpark De Braak in Helmond. Dat meldt de politie in Helmond zaterdag. Een 15-jarige jongen is aangehouden omdat hij met vuurwerk zou hebben …",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4746,6 +4746,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html": {
+   "titel": "Een halve baan als voorzitter' Stiphout Vooruit lost het gewoon op met z`n tweeën",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html",
+   "tekst": "",
+   "datum": "2026-11-21T09:13:09+00:00",
+   "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
    "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
@@ -4758,7 +4774,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4774,7 +4790,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:49"
@@ -4959,22 +4975,22 @@
    "prio": false,
    "tijd": "21-11 07:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667702/met-psv-terug-naar-vertrouwde-grond-in-nijmegen-pech-zorgt-voor-enorm-contrast-tussen-sano-en-ouaissa.html": {
-   "titel": "Met PSV terug naar vertrouwde grond in Nijmegen: pech zorgt voor enorm contrast tussen Sano en Ouaissa",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667702/met-psv-terug-naar-vertrouwde-grond-in-nijmegen-pech-zorgt-voor-enorm-contrast-tussen-sano-en-ouaissa.html",
-   "tekst": "",
-   "datum": "2026-11-21T06:49:06+00:00",
-   "eerst_gezien": "2026-11-21T06:50:30.430823+00:00",
-   "bron": "Drimble Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108668484/basisschool-in-deurne-voorlopig-dicht-na-grote-brand-door-vuurwerk.html": {
+   "titel": "Basisschool in Deurne voorlopig dicht na grote brand door vuurwerk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668484/basisschool-in-deurne-voorlopig-dicht-na-grote-brand-door-vuurwerk.html",
+   "tekst": "Vuurwerk op het dak van basisschool Zeilberg in Deurne heeft vrijdagavond tot een enorme ravage geleid. Twee jonge kinderen staken...",
+   "datum": "2026-11-21T09:10:04+00:00",
+   "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "21-11 07:49"
+   "tijd": "21-11 10:10"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html": {
    "titel": "Nieuwswekker: School in brand + Opgelicht met Pokémon",
@@ -5193,22 +5209,6 @@
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108664006/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
    "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
-   "datum": "2026-11-20T22:12:04+00:00",
-   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108664001/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html": {
-   "titel": "Brand in basisschool Deurne doordat kinderen vuurwerk afsteken: leslokalen en aula afgebrand",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664001/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html",
-   "tekst": "",
    "datum": "2026-11-20T22:12:04+00:00",
    "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
    "bron": "Drimble Deurne",
@@ -6115,6 +6115,56 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/": {
+   "titel": "Geen grote ego’s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
+   "link": "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/",
+   "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
+   "datum": "2026-11-21T08:15:01+00:00",
+   "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 09:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667702/met-psv-terug-naar-vertrouwde-grond-in-nijmegen-pech-zorgt-voor-enorm-contrast-tussen-sano-en-ouaissa.html": {
+   "titel": "Met PSV terug naar vertrouwde grond in Nijmegen: pech zorgt voor enorm contrast tussen Sano en Ouaissa",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667702/met-psv-terug-naar-vertrouwde-grond-in-nijmegen-pech-zorgt-voor-enorm-contrast-tussen-sano-en-ouaissa.html",
+   "tekst": "",
+   "datum": "2026-11-21T06:49:06+00:00",
+   "eerst_gezien": "2026-11-21T06:50:30.430823+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664001/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html": {
+   "titel": "Brand in basisschool Deurne doordat kinderen vuurwerk afsteken: leslokalen en aula afgebrand",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664001/brand-in-basisschool-deurne-doordat-kinderen-vuurwerk-afsteken-leslokalen-en-aula-afgebrand.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:12:04+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667596/fc-dordrecht-verliest-met-5-1-in-helmond-en-staat-laatste-video.html": {
    "titel": "FC Dordrecht verliest met 5-1 in Helmond en staat laatste [video]",
@@ -9097,23 +9147,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 06:00"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126100436a2astenrit137905": {
-   "titel": "A2 Asten Rit: 137905",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126100436a2astenrit137905",
-   "tekst": "Ambulance 22-122 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T10:04:36+01:00",
-   "eerst_gezien": "2026-11-19T09:25:55.825908+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 10:04"
   },
   "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
    "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
