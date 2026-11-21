@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 15:53",
+ "bijgewerkt": "21-11-2026 16:09",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64810/erwin-martens-ontvangt-gouden-vos-van-scouting-nederland": {
    "titel": "Erwin Martens ontvangt Gouden Vos van Scouting Nederland",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 15:45"
@@ -1073,23 +1073,6 @@
    "prio": false,
    "tijd": "20-11 10:58"
   },
-  "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/": {
-   "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
-   "link": "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/",
-   "tekst": "Wil je jezelf eens goed in de watten leggen door een mooie designertas, nieuwe schoenen of een perfecte feestoutfit te kopen? Dan is een dagje naar een outletcentrum waar je hoge kortingen krijgt een goed idee. Check hier wat het dichtstbijzijnde shopwalhalla vanuit Helmond is.",
-   "datum": "2026-11-20T09:00:00+00:00",
-   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 10:00"
-  },
   "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
    "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
    "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
@@ -1123,23 +1106,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 09:57"
-  },
-  "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/",
-   "tekst": "De Duitse rockband Kadavar geeft een concert in De Cacaofabriek in Helmond. Donderdag 10 december staat de band daar met supportact Scott Hepple and The Sun Band.",
-   "datum": "2026-11-20T06:23:00+00:00",
-   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:23"
   },
   "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
    "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
@@ -4712,6 +4678,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108670369/gusto-040-pakt-uit-met-mediterrane-smaken-in-een-levendig-zonnig-decor.html": {
+   "titel": "Gusto-040 pakt uit met mediterrane smaken in een levendig, zonnig decor",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670369/gusto-040-pakt-uit-met-mediterrane-smaken-in-een-levendig-zonnig-decor.html",
+   "tekst": "",
+   "datum": "2026-11-21T15:07:22+00:00",
+   "eerst_gezien": "2026-11-21T15:09:22.593206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 16:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108670368/jorg-en-ingrid-openden-de-stadshuiskamer-je-kunt-hier-eten-wat-de-pot-schaft.html": {
+   "titel": "Jorg en Ingrid openden De Stadshuiskamer: `Je kunt hier eten wat de pot schaft`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670368/jorg-en-ingrid-openden-de-stadshuiskamer-je-kunt-hier-eten-wat-de-pot-schaft.html",
+   "tekst": "",
+   "datum": "2026-11-21T15:07:22+00:00",
+   "eerst_gezien": "2026-11-21T15:09:22.593206+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 16:07"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108669566/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html": {
    "titel": "Afgang in Helmond onderstreept: FC Dordrecht is laatste en terug bij af",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108669566/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html",
@@ -4860,22 +4860,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 10:36"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html": {
-   "titel": "Een halve baan als voorzitter' Stiphout Vooruit lost het gewoon op met z`n tweeën",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html",
-   "tekst": "",
-   "datum": "2026-11-21T09:13:09+00:00",
-   "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html": {
    "titel": "Kinderen steken vuurwerk af, basisschool Deurne fikt af",
@@ -5420,7 +5404,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 15:40"
@@ -6020,6 +6004,56 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:35"
+  },
+  "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/": {
+   "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
+   "link": "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/",
+   "tekst": "Wil je jezelf eens goed in de watten leggen door een mooie designertas, nieuwe schoenen of een perfecte feestoutfit te kopen? Dan is een dagje naar een outletcentrum waar je hoge kortingen krijgt een goed idee. Check hier wat het dichtstbijzijnde shopwalhalla vanuit Helmond is.",
+   "datum": "2026-11-20T09:00:00+00:00",
+   "eerst_gezien": "2026-11-20T09:08:48.623009+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 10:00"
+  },
+  "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/": {
+   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
+   "link": "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/",
+   "tekst": "De Duitse rockband Kadavar geeft een concert in De Cacaofabriek in Helmond. Donderdag 10 december staat de band daar met supportact Scott Hepple and The Sun Band.",
+   "datum": "2026-11-20T06:23:00+00:00",
+   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 07:23"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html": {
+   "titel": "Een halve baan als voorzitter' Stiphout Vooruit lost het gewoon op met z`n tweeën",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html",
+   "tekst": "",
+   "datum": "2026-11-21T09:13:09+00:00",
+   "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur": {
    "titel": "P 1 BOB-02 BR onderwijs BS De Zeilberg Margrietstraat Deurne 223251",
@@ -17517,12 +17551,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -17602,7 +17636,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "Drimble Deurne": {
