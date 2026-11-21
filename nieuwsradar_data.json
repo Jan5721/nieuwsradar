@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 05:42",
+ "bijgewerkt": "21-11-2026 05:58",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -4730,6 +4730,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html": {
+   "titel": "Hoe werkgevers wraak nemen op verwende ICT`ers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html",
+   "tekst": "",
+   "datum": "2026-11-21T04:49:02+00:00",
+   "eerst_gezien": "2026-11-21T04:58:09.639801+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 05:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108666895/de-kattenmeppers-slaan-keihard-toe-met-treffers-samenvatting-helmond-sport-fc-dordrecht-video.html": {
    "titel": "De KATTENMEPPERS slaan KEIHARD toe met TREFFERS | Samenvatting Helmond Sport - FC Dordrecht [video]",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108666895/de-kattenmeppers-slaan-keihard-toe-met-treffers-samenvatting-helmond-sport-fc-dordrecht-video.html",
@@ -5012,40 +5029,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:52"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html": {
-   "titel": "LIVE | 3-0 (!) na 27 minuten: Helmond Sport kent droomstart in kelderkraker tegen FC Dordrecht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:36:07+00:00",
-   "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:36"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662566/drama-voor-fc-dordrecht-in-helmond-binnen-half-uur-op-3-0-achterstand.html": {
-   "titel": "Drama voor FC Dordrecht in Helmond: binnen half uur op 3-0 achterstand",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662566/drama-voor-fc-dordrecht-in-helmond-binnen-half-uur-op-3-0-achterstand.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:34:08+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:34"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666821/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -6084,6 +6067,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html": {
+   "titel": "LIVE | 3-0 (!) na 27 minuten: Helmond Sport kent droomstart in kelderkraker tegen FC Dordrecht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:36:07+00:00",
+   "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:36"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662566/drama-voor-fc-dordrecht-in-helmond-binnen-half-uur-op-3-0-achterstand.html": {
+   "titel": "Drama voor FC Dordrecht in Helmond: binnen half uur op 3-0 achterstand",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662566/drama-voor-fc-dordrecht-in-helmond-binnen-half-uur-op-3-0-achterstand.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:34:08+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:34"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524": {
    "titel": "A1 Deurne Rit: 138524",
@@ -16918,7 +16935,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
