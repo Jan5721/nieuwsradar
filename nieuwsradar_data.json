@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 07:02",
+ "bijgewerkt": "21-11-2026 07:19",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1158,23 +1158,6 @@
    "prio": false,
    "tijd": "19-11 19:30"
   },
-  "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/": {
-   "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door ‘zware blaffers’",
-   "link": "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/",
-   "tekst": "Ze wachten al jaren om de eerste steen te leggen, de bouwers van woningen aan de zuidkant van Vlierden. Maar mogelijke overlast van blaffende honden blijft vooralsnog een sta-in-de-weg. De Raad van State is nu aan zet.",
-   "datum": "2026-11-19T14:30:00+00:00",
-   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 15:30"
-  },
   "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
    "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
    "link": "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/",
@@ -1191,24 +1174,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
-  },
-  "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
-   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
-   "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
-   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. „Er ligt een kwetsbaar natuurgebied in de buurt.”",
-   "datum": "2026-11-19T16:00:00+00:00",
-   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Helmond",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:00"
   },
   "https://www.ed.nl/someren/jeugdzorg-in-someren-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-6-3-miljoen-euro-uit~a951066f/": {
    "titel": "Jeugdzorg in Someren: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 6,3 miljoen euro uit",
@@ -1260,23 +1225,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 06:31"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
-   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
-   "tekst": "Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad eindelijk helemaal klaar en kun je binnen veertig minuten …",
-   "datum": "2026-11-20T05:00:00+00:00",
-   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 06:00"
   },
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
@@ -1345,6 +1293,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 10:41"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
+   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
+   "tekst": "",
+   "datum": "2026-11-20T07:16:17.232955+00:00",
+   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 08:16"
   },
   "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond": {
    "titel": "Twee gewonden bij botsing in Helmond",
@@ -4764,6 +4729,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667541/nederlanders-beleggen-een-recordbedrag-op-de-beurs-en-kiezen-massaal-voor-asml.html": {
+   "titel": "Nederlanders beleggen een recordbedrag op de beurs en kiezen massaal voor ASML",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667541/nederlanders-beleggen-een-recordbedrag-op-de-beurs-en-kiezen-massaal-voor-asml.html",
+   "tekst": "",
+   "datum": "2026-11-21T06:07:20+00:00",
+   "eerst_gezien": "2026-11-21T06:18:27.427731+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 07:07"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html": {
    "titel": "Hoe werkgevers wraak nemen op verwende ICT`ers",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html",
@@ -5046,23 +5028,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662647/nieuwe-dreun-voor-fc-dordt-dient-zich-aan-3-0-achter-bij-rust-in-helmond.html": {
-   "titel": "Nieuwe dreun voor FC Dordt dient zich aan: 3-0 achter bij rust in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662647/nieuwe-dreun-voor-fc-dordt-dient-zich-aan-3-0-achter-bij-rust-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:52:17+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:52"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666821/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -5505,6 +5470,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 23:12"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126071816a2helmondrit138851": {
+   "titel": "A2 Helmond Rit: 138851",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126071816a2helmondrit138851",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T07:18:16+01:00",
+   "eerst_gezien": "2026-11-21T06:18:27.427731+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 07:18"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126040659a2helmondrit138830": {
    "titel": "A2 Helmond Rit: 138830",
@@ -6084,6 +6066,58 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/": {
+   "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door ‘zware blaffers’",
+   "link": "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/",
+   "tekst": "Ze wachten al jaren om de eerste steen te leggen, de bouwers van woningen aan de zuidkant van Vlierden. Maar mogelijke overlast van blaffende honden blijft vooralsnog een sta-in-de-weg. De Raad van State is nu aan zet.",
+   "datum": "2026-11-19T14:30:00+00:00",
+   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 15:30"
+  },
+  "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
+   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
+   "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
+   "tekst": "Animal Rights wil de doorstart van een gesloten varkenshouderij met een berucht verleden in Lierop tegenhouden. „Er ligt een kwetsbaar natuurgebied in de buurt.”",
+   "datum": "2026-11-19T16:00:00+00:00",
+   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Helmond",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 17:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662647/nieuwe-dreun-voor-fc-dordt-dient-zich-aan-3-0-achter-bij-rust-in-helmond.html": {
+   "titel": "Nieuwe dreun voor FC Dordt dient zich aan: 3-0 achter bij rust in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662647/nieuwe-dreun-voor-fc-dordt-dient-zich-aan-3-0-achter-bij-rust-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-20T19:52:17+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:52"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126131320a1helmondrit138533": {
    "titel": "A1 Helmond Rit: 138533",
@@ -16872,12 +16906,12 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "ED Someren": {
@@ -16887,12 +16921,12 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -16972,7 +17006,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
