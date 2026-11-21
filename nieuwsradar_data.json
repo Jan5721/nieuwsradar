@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 07:35",
+ "bijgewerkt": "21-11-2026 07:51",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1141,23 +1141,6 @@
    "prio": false,
    "tijd": "19-11 20:00"
   },
-  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/",
-   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
-   "datum": "2026-11-19T18:30:00+00:00",
-   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:30"
-  },
   "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
    "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
    "link": "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/",
@@ -1221,7 +1204,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 06:31"
@@ -4729,6 +4712,41 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
+   "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
+   "tekst": "",
+   "datum": "2026-11-21T06:49:06+00:00",
+   "eerst_gezien": "2026-11-21T06:50:30.430823+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten",
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667702/met-psv-terug-naar-vertrouwde-grond-in-nijmegen-pech-zorgt-voor-enorm-contrast-tussen-sano-en-ouaissa.html": {
+   "titel": "Met PSV terug naar vertrouwde grond in Nijmegen: pech zorgt voor enorm contrast tussen Sano en Ouaissa",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667702/met-psv-terug-naar-vertrouwde-grond-in-nijmegen-pech-zorgt-voor-enorm-contrast-tussen-sano-en-ouaissa.html",
+   "tekst": "",
+   "datum": "2026-11-21T06:49:06+00:00",
+   "eerst_gezien": "2026-11-21T06:50:30.430823+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 07:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108667596/fc-dordrecht-verliest-met-5-1-in-helmond-en-staat-laatste-video.html": {
    "titel": "FC Dordrecht verliest met 5-1 in Helmond en staat laatste [video]",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108667596/fc-dordrecht-verliest-met-5-1-in-helmond-en-staat-laatste-video.html",
@@ -4741,7 +4759,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 07:22"
@@ -4758,7 +4776,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 07:21"
@@ -4979,57 +4997,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662955/dordtse-afgang-compleet-in-helmond-5-1-achterstand-en-op-de-bodem-van-de-ranglijst.html": {
-   "titel": "Dordtse afgang compleet in Helmond: 5-1 achterstand en op de bodem van de ranglijst",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662955/dordtse-afgang-compleet-in-helmond-5-1-achterstand-en-op-de-bodem-van-de-ranglijst.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:46:03+00:00",
-   "eerst_gezien": "2026-11-20T20:56:29.369028+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:46"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662920/toch-nog-dordtse-hoop-de-bie-doet-wat-terug-voor-virtuele-hekkensluiter.html": {
-   "titel": "Toch nog Dordtse hoop' De Bie doet wat terug voor virtuele hekkensluiter",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662920/toch-nog-dordtse-hoop-de-bie-doet-wat-terug-voor-virtuele-hekkensluiter.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:40:07+00:00",
-   "eerst_gezien": "2026-11-20T20:56:29.369028+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:40"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662896/live-weinig-opwinding-in-tweede-helft-helmond-sport-nog-altijd-op-riante-voorsprong-tegen-dordrecht.html": {
-   "titel": "LIVE | Weinig opwinding in tweede helft: Helmond Sport nog altijd op riante voorsprong tegen Dordrecht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662896/live-weinig-opwinding-in-tweede-helft-helmond-sport-nog-altijd-op-riante-voorsprong-tegen-dordrecht.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:36:07+00:00",
-   "eerst_gezien": "2026-11-20T20:40:30.755197+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:36"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666821/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -6068,6 +6035,74 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
+   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
+   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/",
+   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
+   "datum": "2026-11-19T18:30:00+00:00",
+   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 19:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662955/dordtse-afgang-compleet-in-helmond-5-1-achterstand-en-op-de-bodem-van-de-ranglijst.html": {
+   "titel": "Dordtse afgang compleet in Helmond: 5-1 achterstand en op de bodem van de ranglijst",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662955/dordtse-afgang-compleet-in-helmond-5-1-achterstand-en-op-de-bodem-van-de-ranglijst.html",
+   "tekst": "",
+   "datum": "2026-11-20T20:46:03+00:00",
+   "eerst_gezien": "2026-11-20T20:56:29.369028+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662920/toch-nog-dordtse-hoop-de-bie-doet-wat-terug-voor-virtuele-hekkensluiter.html": {
+   "titel": "Toch nog Dordtse hoop' De Bie doet wat terug voor virtuele hekkensluiter",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662920/toch-nog-dordtse-hoop-de-bie-doet-wat-terug-voor-virtuele-hekkensluiter.html",
+   "tekst": "",
+   "datum": "2026-11-20T20:40:07+00:00",
+   "eerst_gezien": "2026-11-20T20:56:29.369028+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:40"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662896/live-weinig-opwinding-in-tweede-helft-helmond-sport-nog-altijd-op-riante-voorsprong-tegen-dordrecht.html": {
+   "titel": "LIVE | Weinig opwinding in tweede helft: Helmond Sport nog altijd op riante voorsprong tegen Dordrecht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662896/live-weinig-opwinding-in-tweede-helft-helmond-sport-nog-altijd-op-riante-voorsprong-tegen-dordrecht.html",
+   "tekst": "",
+   "datum": "2026-11-20T20:36:07+00:00",
+   "eerst_gezien": "2026-11-20T20:40:30.755197+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:36"
   },
   "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1": {
    "titel": "Drie generaties profvoetbal, alle drie eigenwijs: 'Robine met stip op 1'",
@@ -16940,7 +16975,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -17020,7 +17055,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
