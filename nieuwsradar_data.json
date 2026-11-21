@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 13:45",
+ "bijgewerkt": "21-11-2026 14:01",
  "items": {
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -3840,7 +3840,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 13:34"
@@ -4523,6 +4523,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 23:12"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126135137a2helmondrit138978": {
+   "titel": "A2 Helmond Rit: 138978",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126135137a2helmondrit138978",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T13:51:37+01:00",
+   "eerst_gezien": "2026-11-21T13:01:02.944962+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 13:51"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950": {
    "titel": "A1 Helmond Rit: 138950",
@@ -17588,7 +17605,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
