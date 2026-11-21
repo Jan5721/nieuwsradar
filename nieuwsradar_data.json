@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 22:50",
+ "bijgewerkt": "21-11-2026 23:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -4742,7 +4742,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 22:49"
@@ -5440,6 +5440,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126225259a1helmondrit139163": {
+   "titel": "A1 Helmond Rit: 139163",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126225259a1helmondrit139163",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T22:52:59+01:00",
+   "eerst_gezien": "2026-11-21T22:05:50.828749+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 22:52"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126223123a1helmondrit139158": {
    "titel": "A1 Helmond Rit: 139158",
@@ -18201,7 +18218,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 43,
+   "aantal": 41,
    "fout": ""
   },
   "112Brabant": {
