@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 07:19",
+ "bijgewerkt": "21-11-2026 07:35",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1209,19 +1209,19 @@
    "prio": false,
    "tijd": "20-11 20:10"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1": {
-   "titel": "Drie generaties profvoetbal, alle drie eigenwijs: 'Robine met stip op 1'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1",
+  "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs": {
+   "titel": "Robine is prof net als haar vader en opa: 'Zijn allemaal even eigenwijs'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs",
    "tekst": "Haar opa Jos speelde voor MVV en Helmond Sport, vader Ramon (51) voor MVV en Robine (21) is de derde generatie Lacroix die het heeft geschopt tot het profvoetbal. En dat terwijl de huidige middenveldster van PSV in eerste instantie niet mocht gaan voetballen. De Valkenswaardse …",
    "datum": "2026-11-21T05:31:00+00:00",
-   "eerst_gezien": "2026-11-21T05:46:17.238314+00:00",
+   "eerst_gezien": "2026-11-21T06:34:32.644226+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 06:31"
@@ -4729,6 +4729,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667596/fc-dordrecht-verliest-met-5-1-in-helmond-en-staat-laatste-video.html": {
+   "titel": "FC Dordrecht verliest met 5-1 in Helmond en staat laatste [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667596/fc-dordrecht-verliest-met-5-1-in-helmond-en-staat-laatste-video.html",
+   "tekst": "Meer lezen' ð¥ï¸ www.rtvdordrecht.nl Welkom op het YouTube-kanaal van RTV Dordrecht en Streekomroep 56. Hier vind je al onze...",
+   "datum": "2026-11-21T06:22:10+00:00",
+   "eerst_gezien": "2026-11-21T06:34:32.644226+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 07:22"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667593/vlaamse-burgemeesters-snappen-het-niet-waarom-komen-nederlanders-wel-slapen-maar-werken-en-leven-ze-nog-steeds-over-de-grens.html": {
+   "titel": "Vlaamse burgemeesters snappen het niet: waarom komen Nederlanders wel slapen, maar werken en leven ze nog steeds over de grens'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667593/vlaamse-burgemeesters-snappen-het-niet-waarom-komen-nederlanders-wel-slapen-maar-werken-en-leven-ze-nog-steeds-over-de-grens.html",
+   "tekst": "",
+   "datum": "2026-11-21T06:21:29+00:00",
+   "eerst_gezien": "2026-11-21T06:34:32.644226+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 07:21"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108667541/nederlanders-beleggen-een-recordbedrag-op-de-beurs-en-kiezen-massaal-voor-asml.html": {
    "titel": "Nederlanders beleggen een recordbedrag op de beurs en kiezen massaal voor ASML",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108667541/nederlanders-beleggen-een-recordbedrag-op-de-beurs-en-kiezen-massaal-voor-asml.html",
@@ -4741,7 +4775,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 07:07"
@@ -4996,38 +5030,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 21:36"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662798/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
-   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662798/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:21:29+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662665/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw.html": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662665/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw.html",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de ´pilot-locaties...",
-   "datum": "2026-11-20T19:58:02+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666821/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -5483,7 +5485,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 07:18"
@@ -6066,6 +6068,55 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1": {
+   "titel": "Drie generaties profvoetbal, alle drie eigenwijs: 'Robine met stip op 1'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1",
+   "tekst": "Haar opa Jos speelde voor MVV en Helmond Sport, vader Ramon (51) voor MVV en Robine (21) is de derde generatie Lacroix die het heeft geschopt tot het profvoetbal. En dat terwijl de huidige middenveldster van PSV in eerste instantie niet mocht gaan voetballen. De Valkenswaardse …",
+   "datum": "2026-11-21T05:31:00+00:00",
+   "eerst_gezien": "2026-11-21T05:46:17.238314+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 06:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662798/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
+   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662798/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
+   "tekst": "",
+   "datum": "2026-11-20T20:21:29+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662665/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw.html": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662665/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw.html",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de ´pilot-locaties...",
+   "datum": "2026-11-20T19:58:02+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/": {
    "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door ‘zware blaffers’",
@@ -9212,23 +9263,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126072813a1helenaveenrit137826": {
-   "titel": "A1 Helenaveen Rit: 137826",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126072813a1helenaveenrit137826",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T07:28:13+01:00",
-   "eerst_gezien": "2026-11-19T06:29:06.655569+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "19-11 07:28"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
