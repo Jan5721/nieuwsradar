@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 19:54",
+ "bijgewerkt": "21-11-2026 20:10",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -902,6 +902,23 @@
    "prio": false,
    "tijd": "20-11 21:24"
   },
+  "https://www.ed.nl/helmond/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn~a30094a4/": {
+   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
+   "link": "https://www.ed.nl/helmond/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn~a30094a4/",
+   "tekst": "Naast het Kasteel van Sinterklaas kent Helmond een Sinterklaascircus. Ook dit jaar heeft organisator en circusbaas Robert Ronday hiervoor weer een gevarieerd programma samengesteld. Maar het zou wel eens de laatste keer kunnen zijn.",
+   "datum": "2026-11-21T19:01:01+00:00",
+   "eerst_gezien": "2026-11-21T19:09:38.490538+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 20:01"
+  },
   "https://www.ed.nl/deurne/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik~a9205304e/": {
    "titel": "Door vuurwerk verwoeste basisschool in Deurne is zeker maanden buiten gebruik",
    "link": "https://www.ed.nl/deurne/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik~a9205304e/",
@@ -1056,23 +1073,6 @@
    "prio": false,
    "tijd": "20-11 11:00"
   },
-  "https://www.ed.nl/asten/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk~a2bd699a/": {
-   "titel": "Splinternieuw Mariabeeld bij kerk in Ommel maakt veel los, alleen de houdbaarheid is zorgelijk",
-   "link": "https://www.ed.nl/asten/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk~a2bd699a/",
-   "tekst": "Ommelnaren kunnen niet lang genieten van het splinternieuwe houten Mariabeeld bij de kerk. Dat vrezen de maker zelf en een houtkenner. „Het rot heel vlug weg.”",
-   "datum": "2026-11-20T10:00:00+00:00",
-   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:00"
-  },
   "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
    "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
    "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
@@ -1089,6 +1089,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
+  },
+  "https://www.ed.nl/asten/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk~a2bd699a/": {
+   "titel": "Splinternieuw Mariabeeld bij kerk in Ommel maakt veel los, alleen de houdbaarheid is zorgelijk",
+   "link": "https://www.ed.nl/asten/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk~a2bd699a/",
+   "tekst": "Ommelnaren kunnen niet lang genieten van het splinternieuwe houten Mariabeeld bij de kerk. Dat vrezen de maker zelf en een houtkenner. „Het rot heel vlug weg.”",
+   "datum": "2026-11-20T10:00:00+00:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:00"
   },
   "https://www.ed.nl/opinie/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven~a0593b4c/": {
    "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
@@ -4712,6 +4729,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108671813/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html": {
+   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671813/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-21T19:04:20+00:00",
+   "eerst_gezien": "2026-11-21T19:09:38.490538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108671270/burgemeesters-maken-vuist-tegen-gendergerelateerd-geweld-verantwoordelijkheid-van-ons-allemaal.html": {
    "titel": "Burgemeesters maken vuist tegen gendergerelateerd geweld: ´Verantwoordelijkheid van ons allemaal´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108671270/burgemeesters-maken-vuist-tegen-gendergerelateerd-geweld-verantwoordelijkheid-van-ons-allemaal.html",
@@ -4906,22 +4939,6 @@
    "tekst": "",
    "datum": "2026-11-21T11:19:03+00:00",
    "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108669048/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html": {
-   "titel": "In de winkel van Sint proef je de magie letterlijk en figuurlijk: `Papa werkt voor Sinterklaas`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669048/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html",
-   "tekst": "",
-   "datum": "2026-11-21T10:49:07+00:00",
-   "eerst_gezien": "2026-11-21T10:51:39.494119+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5468,7 +5485,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 19:46"
@@ -6119,6 +6136,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 21:50"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108669048/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html": {
+   "titel": "In de winkel van Sint proef je de magie letterlijk en figuurlijk: `Papa werkt voor Sinterklaas`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669048/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html",
+   "tekst": "",
+   "datum": "2026-11-21T10:49:07+00:00",
+   "eerst_gezien": "2026-11-21T10:51:39.494119+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
@@ -17831,7 +17864,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
