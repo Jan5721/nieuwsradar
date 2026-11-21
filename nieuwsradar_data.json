@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 14:17",
+ "bijgewerkt": "21-11-2026 14:33",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en": {
    "titel": "Rianne Baggermans-Filippini wordt nieuwe directeur Alfrink- en Peellandcollege",
@@ -5420,7 +5420,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 14:08"
@@ -5970,23 +5970,6 @@
    "prio": false,
    "tijd": "20-11 18:08"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126174046a2somerenrit138642": {
-   "titel": "A2 Someren Rit: 138642",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126174046a2somerenrit138642",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T17:40:46+01:00",
-   "eerst_gezien": "2026-11-20T16:55:43.520647+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 17:40"
-  },
   "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
    "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
@@ -6020,6 +6003,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126174046a2somerenrit138642": {
+   "titel": "A2 Someren Rit: 138642",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126174046a2somerenrit138642",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T17:40:46+01:00",
+   "eerst_gezien": "2026-11-20T16:55:43.520647+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 17:40"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126172057a2helmondrit138634": {
    "titel": "A2 Helmond Rit: 138634",
@@ -9032,40 +9032,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142329a1helmondrit138079": {
-   "titel": "A1 Helmond Rit: 138079",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142329a1helmondrit138079",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T14:23:29+01:00",
-   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "19-11 14:23"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142253ongevalwegvervoerletselkorhoenderhofreigerlaanhe": {
-   "titel": "Ongeval wegvervoer letsel Korhoenderhof Reigerlaan Helmond",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126142253ongevalwegvervoerletselkorhoenderhofreigerlaanhe",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-19T14:22:53+01:00",
-   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 14:22"
   },
   "https://www.omroepbrabant.nl/nieuws/6034535/evenementen-fletcher-helmond-krijgen-groen-licht": {
    "titel": "Evenementen Fletcher Helmond krijgen groen licht",
@@ -17622,7 +17588,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
