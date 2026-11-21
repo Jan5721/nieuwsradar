@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 03:18",
+ "bijgewerkt": "21-11-2026 03:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -5488,6 +5488,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 23:12"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126032706a2helmondrit138824": {
+   "titel": "A2 Helmond Rit: 138824",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126032706a2helmondrit138824",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T03:27:06+01:00",
+   "eerst_gezien": "2026-11-21T02:33:51.158084+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 03:27"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126021436a2somerenrit138803": {
    "titel": "A2 Someren Rit: 138803",
@@ -16904,7 +16921,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
