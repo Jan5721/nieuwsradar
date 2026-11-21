@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 18:18",
+ "bijgewerkt": "21-11-2026 18:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64810/erwin-martens-ontvangt-gouden-vos-van-scouting-nederland": {
    "titel": "Erwin Martens ontvangt Gouden Vos van Scouting Nederland",
@@ -5378,6 +5378,23 @@
    "prio": false,
    "tijd": "14-11 23:12"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183300a2helmondrit139083": {
+   "titel": "A2 Helmond Rit: 139083",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183300a2helmondrit139083",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T18:33:00+01:00",
+   "eerst_gezien": "2026-11-21T17:33:27.783852+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 18:33"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126174142a1somerenrit139070": {
    "titel": "A1 Someren Rit: 139070",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126174142a1somerenrit139070",
@@ -8802,23 +8819,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 18:35"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126182410a1ommelrit138178": {
-   "titel": "A1 Ommel Rit: 138178",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126182410a1ommelrit138178",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T18:24:10+01:00",
-   "eerst_gezien": "2026-11-19T17:33:18.893012+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "19-11 18:24"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108659648/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, maar dit weekend wordt droog en mogelijk zonnig",
@@ -17721,7 +17721,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 37,
    "fout": ""
   },
   "112Brabant": {
