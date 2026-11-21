@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 02:30",
+ "bijgewerkt": "21-11-2026 02:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -6051,23 +6051,6 @@
    "prio": true,
    "tijd": "20-11 13:00"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2": {
-   "titel": "P 2 BOB-03 Nacontrole (Auto) N270 - Helmondsingel 22,3 Deurne 225041",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-20T12:04:20+01:00",
-   "eerst_gezien": "2026-11-20T11:33:46.043576+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 12:04"
-  },
   "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
    "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
@@ -6084,6 +6067,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2": {
+   "titel": "P 2 BOB-03 Nacontrole (Auto) N270 - Helmondsingel 22,3 Deurne 225041",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-20T12:04:20+01:00",
+   "eerst_gezien": "2026-11-20T11:33:46.043576+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 12:04"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn": {
    "titel": "Ongeval wegvervoer letsel N270 - Helmondsingel 22,4 Deurne",
@@ -9638,23 +9638,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 19:01"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126023042a2helmondrit137789": {
-   "titel": "A2 Helmond Rit: 137789",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126023042a2helmondrit137789",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T02:30:42+01:00",
-   "eerst_gezien": "2026-11-19T01:39:06.666276+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 02:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108649554/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html": {
    "titel": "Hek definitief op slot bij Voedselbos Eindhoven: `Ontzettend jammer, ik heb vier maanden m`n stinkende best gedaan`",
@@ -16938,7 +16921,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
