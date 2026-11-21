@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 10:31",
+ "bijgewerkt": "21-11-2026 10:48",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64816/kanexo-wint-meerdere-prijzen-op-internationale-kanarieshow": {
    "titel": "Kanexo wint meerdere prijzen op internationale kanarieshow",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 10:26"
@@ -970,19 +970,19 @@
    "prio": false,
    "tijd": "21-11 09:30"
   },
-  "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/": {
-   "titel": "Een halve baan als voorzitter? Stiphout Vooruit lost het gewoon op met z’n tweeën",
-   "link": "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/",
+  "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/": {
+   "titel": "Bij Stiphout Vooruit hebben ze nu twee voorzitters: ‘Vele handen maken licht werk’",
+   "link": "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/",
    "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
    "datum": "2026-11-21T08:15:00+00:00",
-   "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
+   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:15"
@@ -1209,23 +1209,6 @@
    "prio": false,
    "tijd": "20-11 17:29"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken": {
-   "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken",
-   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond brand uitgebroken. Het lokaal is volledig uitgebrand. Het vuur ontstond nadat twee kinderen vuurwerk hadden afgestoken. Het gaat om kinderen onder de 12 jaar, zegt een politiewoordvoerder. De politie heeft …",
-   "datum": "2026-11-20T19:10:00+00:00",
-   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:10"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs": {
    "titel": "Robine is prof net als haar vader en opa: 'Zijn allemaal even eigenwijs'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs",
@@ -1242,6 +1225,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 06:31"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken": {
+   "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken",
+   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond brand uitgebroken. Het lokaal is volledig uitgebrand. Het vuur ontstond nadat twee kinderen vuurwerk hadden afgestoken. Het gaat om kinderen onder de 12 jaar, zegt een politiewoordvoerder. De politie heeft …",
+   "datum": "2026-11-20T19:10:00+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 20:10"
   },
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
@@ -4746,6 +4746,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668655/twee-assists-en-een-belangrijke-zege-maar-voor-flor-van-den-eynden-is-veel-groter-geluk-in-aantocht-het-kan-elk-moment.html": {
+   "titel": "Twee assists en een belangrijke zege, maar voor Flor Van den Eynden is veel groter geluk in aantocht: `Het kan elk moment...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668655/twee-assists-en-een-belangrijke-zege-maar-voor-flor-van-den-eynden-is-veel-groter-geluk-in-aantocht-het-kan-elk-moment.html",
+   "tekst": "",
+   "datum": "2026-11-21T09:36:07+00:00",
+   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 10:36"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html": {
    "titel": "Een halve baan als voorzitter' Stiphout Vooruit lost het gewoon op met z`n tweeën",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html",
@@ -4957,24 +4974,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
-   "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
-   "tekst": "",
-   "datum": "2026-11-21T06:49:06+00:00",
-   "eerst_gezien": "2026-11-21T06:50:30.430823+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 07:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html": {
    "titel": "Kinderen steken vuurwerk af, basisschool Deurne fikt af",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html",
@@ -4987,7 +4986,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 10:30"
@@ -5247,13 +5246,15 @@
    "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
    "bron": "Drimble Asten",
    "gemeenten": [
-    "Asten"
+    "Asten",
+    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 07:52"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
    "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
@@ -5504,6 +5505,23 @@
    "prio": false,
    "tijd": "14-11 23:12"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905": {
+   "titel": "A1 Asten Rit: 138905",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T10:33:42+01:00",
+   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 10:33"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898": {
    "titel": "A2 Asten Rit: 138898",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898",
@@ -5516,7 +5534,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 10:21"
@@ -6133,6 +6151,41 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/": {
+   "titel": "Een halve baan als voorzitter? Stiphout Vooruit lost het gewoon op met z’n tweeën",
+   "link": "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/",
+   "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
+   "datum": "2026-11-21T08:15:00+00:00",
+   "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 09:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
+   "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
+   "tekst": "",
+   "datum": "2026-11-21T06:49:06+00:00",
+   "eerst_gezien": "2026-11-21T06:50:30.430823+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten",
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 07:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664006/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -9130,40 +9183,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "19-11 11:36"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103607a2helmondrit137931": {
-   "titel": "A2 Helmond Rit: 137931",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103607a2helmondrit137931",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T10:36:07+01:00",
-   "eerst_gezien": "2026-11-19T09:42:00.074244+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 10:36"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103420ongevalwegvervoerletselhoutsdonknoordhoutseparal": {
-   "titel": "Ongeval wegvervoer letsel Houtsdonk Noord Houtse Parallelweg Helmond",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126103420ongevalwegvervoerletselhoutsdonknoordhoutseparal",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-19T10:34:20+01:00",
-   "eerst_gezien": "2026-11-19T09:42:00.074244+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 10:34"
   },
   "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad": {
    "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
@@ -17421,7 +17440,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 36,
    "fout": ""
   },
   "112Brabant": {
