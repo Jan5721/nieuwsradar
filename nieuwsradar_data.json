@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "21-11-2026 15:37",
+ "bijgewerkt": "21-11-2026 15:53",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64810/erwin-martens-ontvangt-gouden-vos-van-scouting-nederland": {
+   "titel": "Erwin Martens ontvangt Gouden Vos van Scouting Nederland",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64810/erwin-martens-ontvangt-gouden-vos-van-scouting-nederland",
+   "tekst": "DEURNE - Erwin Martens heeft zondag 15 november de Gouden Vos ontvangen, een waarderingsteken van Scouting Nederland. Hij kreeg de onderscheiding tijdens de installatie van de jeugdleden van Scouting Deurne, op voordracht van het verenigingsbestuur.",
+   "datum": "2026-11-21T15:45:00+01:00",
+   "eerst_gezien": "2026-11-21T14:53:27.302206+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 15:45"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en": {
    "titel": "Rianne Baggermans-Filippini wordt nieuwe directeur Alfrink- en Peellandcollege",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en",
@@ -5391,6 +5408,23 @@
    "prio": false,
    "tijd": "14-11 23:12"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126154039a2helmondrit139027": {
+   "titel": "A2 Helmond Rit: 139027",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126154039a2helmondrit139027",
+   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T15:40:39+01:00",
+   "eerst_gezien": "2026-11-21T14:53:27.302206+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 15:40"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022": {
    "titel": "A2 Helmond Rit: 139022",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022",
@@ -5403,7 +5437,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 15:32"
@@ -5420,7 +5454,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 15:23"
@@ -5970,23 +6004,6 @@
    "prio": false,
    "tijd": "20-11 19:46"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur": {
-   "titel": "P 1 BOB-02 BR onderwijs BS De Zeilberg Margrietstraat Deurne 223251",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-20T19:43:02+01:00",
-   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 19:43"
-  },
   "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
    "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
@@ -6003,6 +6020,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:35"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur": {
+   "titel": "P 1 BOB-02 BR onderwijs BS De Zeilberg Margrietstraat Deurne 223251",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-20T19:43:02+01:00",
+   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 19:43"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126183951a2astenrit138663": {
    "titel": "A2 Asten Rit: 138663",
@@ -8783,23 +8817,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#191126155311a2deurnerit138129": {
-   "titel": "A2 Deurne Rit: 138129",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#191126155311a2deurnerit138129",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-19T15:53:11+01:00",
-   "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "19-11 15:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108657487/de-bus-heeft-in-eindhoven-prioriteit-maar-alleen-als-het-goed-uitkomt.html": {
    "titel": "De bus heeft in Eindhoven prioriteit, maar alleen als het goed uitkomt",
@@ -17485,7 +17502,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 36,
    "fout": ""
   },
   "Peelbelang": {
