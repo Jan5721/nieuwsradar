@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 01:09",
+ "bijgewerkt": "21-11-2026 01:26",
  "items": {
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -3807,7 +3807,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:59"
@@ -4124,7 +4124,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:53"
@@ -5116,23 +5116,6 @@
    "prio": false,
    "tijd": "20-11 11:56"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115538a2deurnerit138486": {
-   "titel": "A2 Deurne Rit: 138486",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115538a2deurnerit138486",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T11:55:38+01:00",
-   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 11:55"
-  },
   "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
    "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
@@ -5149,6 +5132,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115538a2deurnerit138486": {
+   "titel": "A2 Deurne Rit: 138486",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115538a2deurnerit138486",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T11:55:38+01:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 11:55"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662538/domper-voor-fc-dordrecht-helmond-sport-slaat-uit-eerste-kans-toe.html": {
    "titel": "Domper voor FC Dordrecht: Helmond Sport slaat uit eerste kans toe",
@@ -16904,7 +16904,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
