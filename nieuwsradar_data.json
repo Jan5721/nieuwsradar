@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 11:52",
+ "bijgewerkt": "21-11-2026 12:09",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64816/kanexo-wint-meerdere-prijzen-op-internationale-kanarieshow": {
    "titel": "Kanexo wint meerdere prijzen op internationale kanarieshow",
@@ -614,23 +614,6 @@
    "prio": false,
    "tijd": "14-11 13:33"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64650/kaartverkoop-jubileumconcert-deurnes-mannenkoor-goed-van-start": {
-   "titel": "Kaartverkoop jubileumconcert Deurnes Mannenkoor goed van start",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64650/kaartverkoop-jubileumconcert-deurnes-mannenkoor-goed-van-start",
-   "tekst": "DEURNE - De kaartverkoop voor het jubileum-slotconcert van het Deurnes Mannenkoor is voortvarend begonnen. Het optreden vindt plaats op zondag 22 november en vormt de afsluiting van de viering van het 50-jarig bestaan van het koor.",
-   "datum": "2026-11-14T11:57:13+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 11:57"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden",
@@ -936,19 +919,19 @@
    "prio": false,
    "tijd": "20-11 21:24"
   },
-  "https://www.ed.nl/helmond/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas~a6af1228/": {
-   "titel": "In de winkel van Sint proef je de magie letterlijk en figuurlijk: ‘Papa werkt voor Sinterklaas’",
-   "link": "https://www.ed.nl/helmond/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas~a6af1228/",
+  "https://www.ed.nl/helmond/bij-de-smulwinkel-in-helmond-draait-alles-om-magie-geur-van-speculaas-en-warme-chocolademelk~a6af1228/": {
+   "titel": "Bij de Smulwinkel in Helmond draait alles om magie, geur van speculaas en warme chocolademelk",
+   "link": "https://www.ed.nl/helmond/bij-de-smulwinkel-in-helmond-draait-alles-om-magie-geur-van-speculaas-en-warme-chocolademelk~a6af1228/",
    "tekst": "Wanneer de 9-jarige Jasper Claessens voor het eerst door de poorten van het Kasteel van Sinterklaas in Helmond stapt, is hij meteen verknocht. Al zingend loopt hij de trappen op, met Piet aan de hand. Een dag zo magisch dat hij nooit meer naar huis wil gaan. En dat lukt.",
    "datum": "2026-11-21T10:30:00+00:00",
-   "eerst_gezien": "2026-11-21T10:35:37.879478+00:00",
+   "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 11:30"
@@ -2625,40 +2608,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 10:12"
-  },
-  "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
-   "titel": "Verkeersveiligheid begint met zichtbaarheid",
-   "link": "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid",
-   "tekst": "",
-   "datum": "2026-11-16T00:00:00+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen": {
-   "titel": "Deurne wint NK Tegelwippen in de Brabantse Peeldorpen",
-   "link": "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen",
-   "tekst": "",
-   "datum": "2026-11-16T00:00:00+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 01:00"
   },
   "https://www.asten.nl/nieuws/artikel/blog-40-een-inkijkje-in-het-werkleven-van-de-burgemeester": {
    "titel": "Blog 40: Een inkijkje in het werkleven van de burgemeester",
@@ -4746,6 +4695,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108669144/bij-de-smulwinkel-in-helmond-draait-alles-om-magie-geur-van-speculaas-en-warme-chocolademelk.html": {
+   "titel": "Bij de Smulwinkel in Helmond draait alles om magie, geur van speculaas en warme chocolademelk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669144/bij-de-smulwinkel-in-helmond-draait-alles-om-magie-geur-van-speculaas-en-warme-chocolademelk.html",
+   "tekst": "",
+   "datum": "2026-11-21T11:07:20+00:00",
+   "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108669048/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html": {
    "titel": "In de winkel van Sint proef je de magie letterlijk en figuurlijk: `Papa werkt voor Sinterklaas`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108669048/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas.html",
@@ -4758,7 +4723,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4774,7 +4739,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 11:36"
@@ -4900,22 +4865,6 @@
    "tekst": "",
    "datum": "2026-11-21T08:41:10+00:00",
    "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html": {
-   "titel": "Geen grote ego`s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html",
-   "tekst": "",
-   "datum": "2026-11-21T08:21:29+00:00",
-   "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5456,6 +5405,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "14-11 23:12"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126120014a2helmondrit138938": {
+   "titel": "A2 Helmond Rit: 138938",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126120014a2helmondrit138938",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-21T12:00:14+01:00",
+   "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 12:00"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126115515a1helmondrit138935": {
+   "titel": "A1 Helmond Rit: 138935",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126115515a1helmondrit138935",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T11:55:15+01:00",
+   "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 11:55"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905": {
    "titel": "A1 Asten Rit: 138905",
@@ -6002,40 +5985,6 @@
    "prio": true,
    "tijd": "20-11 16:18"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126154424a2helmondrit138606": {
-   "titel": "A2 Helmond Rit: 138606",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126154424a2helmondrit138606",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T15:44:24+01:00",
-   "eerst_gezien": "2026-11-20T14:46:18.454646+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 15:44"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126153828a1helmondrit138604": {
-   "titel": "A1 Helmond Rit: 138604",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126153828a1helmondrit138604",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T15:38:28+01:00",
-   "eerst_gezien": "2026-11-20T14:46:18.454646+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 15:38"
-  },
   "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
    "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
@@ -6069,6 +6018,107 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.ed.nl/helmond/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas~a6af1228/": {
+   "titel": "In de winkel van Sint proef je de magie letterlijk en figuurlijk: ‘Papa werkt voor Sinterklaas’",
+   "link": "https://www.ed.nl/helmond/in-de-winkel-van-sint-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-sinterklaas~a6af1228/",
+   "tekst": "Wanneer de 9-jarige Jasper Claessens voor het eerst door de poorten van het Kasteel van Sinterklaas in Helmond stapt, is hij meteen verknocht. Al zingend loopt hij de trappen op, met Piet aan de hand. Een dag zo magisch dat hij nooit meer naar huis wil gaan. En dat lukt.",
+   "datum": "2026-11-21T10:30:00+00:00",
+   "eerst_gezien": "2026-11-21T10:35:37.879478+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 11:30"
+  },
+  "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
+   "titel": "Verkeersveiligheid begint met zichtbaarheid",
+   "link": "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid",
+   "tekst": "",
+   "datum": "2026-11-16T00:00:00+00:00",
+   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen": {
+   "titel": "Deurne wint NK Tegelwippen in de Brabantse Peeldorpen",
+   "link": "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen",
+   "tekst": "",
+   "datum": "2026-11-16T00:00:00+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html": {
+   "titel": "Geen grote ego`s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html",
+   "tekst": "",
+   "datum": "2026-11-21T08:21:29+00:00",
+   "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126154424a2helmondrit138606": {
+   "titel": "A2 Helmond Rit: 138606",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126154424a2helmondrit138606",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T15:44:24+01:00",
+   "eerst_gezien": "2026-11-20T14:46:18.454646+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 15:44"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126153828a1helmondrit138604": {
+   "titel": "A1 Helmond Rit: 138604",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126153828a1helmondrit138604",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T15:38:28+01:00",
+   "eerst_gezien": "2026-11-20T14:46:18.454646+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 15:38"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
    "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
@@ -17351,7 +17401,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 37,
+   "aantal": 36,
    "fout": ""
   },
   "Peelbelang": {
@@ -17415,9 +17465,9 @@
    "fout": ""
   },
   "Gemeente Deurne": {
-   "ok": true,
-   "aantal": 2,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   "Gemeente Asten": {
    "ok": true,
