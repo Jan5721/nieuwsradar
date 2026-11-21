@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 07:51",
+ "bijgewerkt": "21-11-2026 08:07",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -953,6 +953,23 @@
    "prio": false,
    "tijd": "21-11 22:00"
   },
+  "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/": {
+   "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
+   "link": "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/",
+   "tekst": "Woningbouwplannen genoeg in de regio, maar zonder stroom wordt een groot deel voorlopig niet gebouwd. In het Helmondse Nieuw Brandevoort en KnoopXL in Eindhoven gaan ze onderzoeken wat er wellicht toch kan door de plannen aan te passen.",
+   "datum": "2026-11-21T07:00:05+00:00",
+   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:00"
+  },
   "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-2-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/": {
    "titel": "De molen van Mari van Dijk is na 2 jaar stilstand weer een stap dichter bij draaiende wieken",
    "link": "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-2-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/",
@@ -1123,23 +1140,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
-  },
-  "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/": {
-   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
-   "link": "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/",
-   "tekst": "Toen Nienke Brouwer zeven was, wilde ze vuilnisman worden. „Ik kreeg een prikker en een grijper. Met mijn vriendje ging ik de buurt opruimen.” Die fascinatie voor afval en opruimen bleef. Brouwer werd opruimcoach. Ze opent nu een zaak in Helmond.",
-   "datum": "2026-11-19T19:00:00+00:00",
-   "eerst_gezien": "2026-11-19T19:11:32.171421+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 20:00"
   },
   "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
    "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
@@ -4712,6 +4712,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667762/bijzondere-kist-met-initialen-wdn-duikt-op-en-belandt-in-geldrops-weverijmuseum.html": {
+   "titel": "Bijzondere kist met initialen WDN duikt op en belandt in Geldrops Weverijmuseum",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667762/bijzondere-kist-met-initialen-wdn-duikt-op-en-belandt-in-geldrops-weverijmuseum.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:01:05+00:00",
+   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667759/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan.html": {
+   "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667759/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan.html",
+   "tekst": "",
+   "datum": "2026-11-21T07:01:05+00:00",
+   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
    "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
@@ -4725,7 +4758,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 07:49"
@@ -4742,7 +4775,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 07:49"
@@ -4965,38 +4998,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108663022/pitchavond-subsidie-street-culture-en-sports.html": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663022/pitchavond-subsidie-street-culture-en-sports.html",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers...",
-   "datum": "2026-11-20T20:58:05+00:00",
-   "eerst_gezien": "2026-11-20T21:12:40.528794+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108663017/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html": {
-   "titel": "FC Dordrecht zakt na afgang in Helmond naar bodem van de ranglijst",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663017/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:58:05+00:00",
-   "eerst_gezien": "2026-11-20T21:12:40.528794+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666821/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -5225,6 +5226,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:59"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667721/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
+   "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667721/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
+   "tekst": "",
+   "datum": "2026-11-21T06:52:17+00:00",
+   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666595/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
    "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
@@ -6035,6 +6052,55 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/": {
+   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
+   "link": "https://www.ed.nl/helmond/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen~adce253c/",
+   "tekst": "Toen Nienke Brouwer zeven was, wilde ze vuilnisman worden. „Ik kreeg een prikker en een grijper. Met mijn vriendje ging ik de buurt opruimen.” Die fascinatie voor afval en opruimen bleef. Brouwer werd opruimcoach. Ze opent nu een zaak in Helmond.",
+   "datum": "2026-11-19T19:00:00+00:00",
+   "eerst_gezien": "2026-11-19T19:11:32.171421+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "19-11 20:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108663022/pitchavond-subsidie-street-culture-en-sports.html": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663022/pitchavond-subsidie-street-culture-en-sports.html",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers...",
+   "datum": "2026-11-20T20:58:05+00:00",
+   "eerst_gezien": "2026-11-20T21:12:40.528794+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108663017/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html": {
+   "titel": "FC Dordrecht zakt na afgang in Helmond naar bodem van de ranglijst",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663017/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html",
+   "tekst": "",
+   "datum": "2026-11-20T20:58:05+00:00",
+   "eerst_gezien": "2026-11-20T21:12:40.528794+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
    "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
@@ -16970,12 +17036,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "ED Asten": {
@@ -17065,7 +17131,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 5,
    "fout": ""
   },
   "Drimble Someren": {
