@@ -319,7 +319,8 @@ def maak_pagina(cfg, items, bronstatus, laatst):
                     + '</div></div>')
     ob = cfg["instellingen"].get("openbestuur", {g: f"https://openbestuur.nl/gemeente/{g.lower()}" for g in gemeenten})
     menu_ob = ('<div class="menu" data-menu="ob"><button class="hoofd" data-leeg="OpenBestuur">OpenBestuur ▾</button><div class="lijst">'
-               + "".join(f'<a class="knop" href="{html.escape(u)}" target="_blank" rel="noopener">{html.escape(g)} ↗</a>' for g, u in ob.items())
+               + "".join(f'<a class="knop" href="{html.escape(u.rstrip("/"))}/{d}" target="_blank" rel="noopener">{html.escape(g)} – {d} ↗</a>'
+                         for g, u in ob.items() for d in ("vergaderingen", "besluiten"))
                + '</div></div>')
     n_nieuw = sum(1 for i in items if i.get("nieuw"))
     pagina = f"""<!DOCTYPE html>
@@ -447,6 +448,8 @@ def main():
                 sleutel = it["link"]
                 eerst = eerdere.get(sleutel, {}).get("eerst_gezien") or NU.isoformat()
                 d = it["datum"] or datum(eerst)
+                if d and d > NU + timedelta(minutes=10):  # tijd in de toekomst (bijv. geplande publicatie): gebruik moment van ophalen
+                    d = datum(eerst)
                 if d and d < NU - timedelta(days=bron_dagen):
                     continue
                 if sleutel in alle:  # zelfde link uit twee bronnen: gemeenten samenvoegen
@@ -471,6 +474,8 @@ def main():
     for k, v in eerdere.items():
         if k not in alle and datum(v.get("datum")) and datum(v["datum"]) >= NU - timedelta(days=int(v.get("dagen", dagen))):
             v = dict(v); v["nieuw"] = False
+            if datum(v["datum"]) > NU + timedelta(minutes=10) and v.get("eerst_gezien"):
+                v["datum"] = v["eerst_gezien"]
             alle[k] = v
 
     # dubbele koppen (bijv. Drimble verwijst naar hetzelfde bericht) samenvoegen
