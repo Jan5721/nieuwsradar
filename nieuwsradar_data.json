@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 01:26",
+ "bijgewerkt": "21-11-2026 01:58",
  "items": {
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -4554,6 +4554,23 @@
    "prio": false,
    "tijd": "14-11 23:12"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126013348a2helmondrit138791": {
+   "titel": "A2 Helmond Rit: 138791",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126013348a2helmondrit138791",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T01:33:48+01:00",
+   "eerst_gezien": "2026-11-21T00:57:37.718264+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 01:33"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126005008a1helmondrit138781": {
    "titel": "A1 Helmond Rit: 138781",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126005008a1helmondrit138781",
@@ -5099,23 +5116,6 @@
    "prio": false,
    "tijd": "20-11 12:04"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn": {
-   "titel": "Ongeval wegvervoer letsel N270 - Helmondsingel 22,4 Deurne",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-20T11:56:53+01:00",
-   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 11:56"
-  },
   "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
    "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
@@ -5132,6 +5132,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn": {
+   "titel": "Ongeval wegvervoer letsel N270 - Helmondsingel 22,4 Deurne",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115653ongevalwegvervoerletseln270helmondsingel224deurn",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-20T11:56:53+01:00",
+   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 11:56"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126115538a2deurnerit138486": {
    "titel": "A2 Deurne Rit: 138486",
