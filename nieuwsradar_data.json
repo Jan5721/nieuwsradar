@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 05:26",
+ "bijgewerkt": "21-11-2026 05:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -6068,23 +6068,6 @@
    "prio": true,
    "tijd": "20-11 13:13"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524": {
-   "titel": "A1 Deurne Rit: 138524",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T13:00:27+01:00",
-   "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 13:00"
-  },
   "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
    "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
@@ -6101,6 +6084,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 22:28"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524": {
+   "titel": "A1 Deurne Rit: 138524",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126130027a1deurnerit138524",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T13:00:27+01:00",
+   "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "20-11 13:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2": {
    "titel": "P 2 BOB-03 Nacontrole (Auto) N270 - Helmondsingel 22,3 Deurne 225041",
@@ -16938,7 +16938,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
