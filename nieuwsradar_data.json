@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 06:30",
+ "bijgewerkt": "21-11-2026 06:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
    "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
@@ -1244,6 +1244,23 @@
    "prio": false,
    "tijd": "20-11 20:10"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1": {
+   "titel": "Drie generaties profvoetbal, alle drie eigenwijs: 'Robine met stip op 1'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1",
+   "tekst": "Haar opa Jos speelde voor MVV en Helmond Sport, vader Ramon (51) voor MVV en Robine (21) is de derde generatie Lacroix die het heeft geschopt tot het profvoetbal. En dat terwijl de huidige middenveldster van PSV in eerste instantie niet mocht gaan voetballen. De Valkenswaardse …",
+   "datum": "2026-11-21T05:31:00+00:00",
+   "eerst_gezien": "2026-11-21T05:46:17.238314+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 06:31"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
@@ -2075,7 +2092,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 06:30"
@@ -16870,7 +16887,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
