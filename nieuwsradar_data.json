@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "21-11-2026 15:05",
+ "bijgewerkt": "21-11-2026 15:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en": {
    "titel": "Rianne Baggermans-Filippini wordt nieuwe directeur Alfrink- en Peellandcollege",
@@ -5391,6 +5391,23 @@
    "prio": false,
    "tijd": "14-11 23:12"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008": {
+   "titel": "A2 Helmond Rit: 139008",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008",
+   "tekst": "Ambulance 22-107 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T15:06:40+01:00",
+   "eerst_gezien": "2026-11-21T14:21:14.522956+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 15:06"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003": {
    "titel": "A0 Helmond Rit: 139003",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003",
@@ -5403,7 +5420,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 14:50"
@@ -5936,23 +5953,6 @@
    "prio": true,
    "tijd": "20-11 19:43"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126183951a2astenrit138663": {
-   "titel": "A2 Asten Rit: 138663",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126183951a2astenrit138663",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T18:39:51+01:00",
-   "eerst_gezien": "2026-11-20T17:43:50.910456+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 18:39"
-  },
   "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
    "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
@@ -5969,6 +5969,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 08:35"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126183951a2astenrit138663": {
+   "titel": "A2 Asten Rit: 138663",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126183951a2astenrit138663",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-20T18:39:51+01:00",
+   "eerst_gezien": "2026-11-20T17:43:50.910456+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "20-11 18:39"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126181135a2astenrit138655": {
    "titel": "A2 Asten Rit: 138655",
@@ -7710,23 +7727,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:04"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html": {
-   "titel": "Vroeger liep Koen mee met `t Vaartje, nu is hij prins van De Plattevonder",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108599955/vroeger-liep-koen-mee-met-t-vaartje-nu-is-hij-prins-van-de-plattevonder.html",
-   "tekst": "",
-   "datum": "2026-11-14T14:11:36+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "14-11 15:11"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126093838a1lieroprit138403": {
    "titel": "A1 Lierop Rit: 138403",
