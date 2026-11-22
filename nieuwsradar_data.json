@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 11:57",
+ "bijgewerkt": "22-11-2026 12:13",
  "items": {
   "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
@@ -188,23 +188,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:00"
-  },
-  "https://www.ed.nl/helmond/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-50-6-miljoen-euro-uit~a53636d9/": {
-   "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
-   "link": "https://www.ed.nl/helmond/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-50-6-miljoen-euro-uit~a53636d9/",
-   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Helmond kreeg in de eerste helft van dit jaar 10 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 2415 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 50,6 miljoen euro uit aan …",
-   "datum": "2026-11-20T16:29:00+00:00",
-   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 17:29"
   },
   "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
    "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
@@ -5245,6 +5228,23 @@
    "prio": true,
    "tijd": "21-11 11:55"
   },
+  "https://www.ed.nl/helmond/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-50-6-miljoen-euro-uit~a53636d9/": {
+   "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
+   "link": "https://www.ed.nl/helmond/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-50-6-miljoen-euro-uit~a53636d9/",
+   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Helmond kreeg in de eerste helft van dit jaar 10 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 2415 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 50,6 miljoen euro uit aan …",
+   "datum": "2026-11-20T16:29:00+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:29"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905": {
    "titel": "A1 Asten Rit: 138905",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905",
@@ -5971,23 +5971,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "15-11 12:30"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64658/niels-van-rijssel-zwaait-als-51ste-prins-van-de-dorstvlegels-": {
-   "titel": "Niels van Rijssel zwaait als 51ste Prins van de Dorstvlegels de scepter",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64658/niels-van-rijssel-zwaait-als-51ste-prins-van-de-dorstvlegels-",
-   "tekst": "VLIERDEN - Niels van Rijssel (22) is uitgeroepen tot de 51ste Prins van de Dorstvlegels. Tijdens de spelshow 'Zo Vader Zo Zoon' werd hij gepresenteerd als de nieuwe voorganger van Dorstvlegelland.",
-   "datum": "2026-11-15T12:00:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 12:00"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
@@ -8587,23 +8570,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "20-11 13:00"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2": {
-   "titel": "P 2 BOB-03 Nacontrole (Auto) N270 - Helmondsingel 22,3 Deurne 225041",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126120420p2bob03nacontroleauton270helmondsingel223deurne2",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-20T12:04:20+01:00",
-   "eerst_gezien": "2026-11-20T11:33:46.043576+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 12:04"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662538/domper-voor-fc-dordrecht-helmond-sport-slaat-uit-eerste-kans-toe.html": {
    "titel": "Domper voor FC Dordrecht: Helmond Sport slaat uit eerste kans toe",
@@ -18417,7 +18383,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
