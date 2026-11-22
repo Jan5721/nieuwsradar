@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "22-11-2026 13:34",
+ "bijgewerkt": "22-11-2026 13:50",
  "items": {
+  "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
+   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
+   "link": "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/",
+   "tekst": "Woonachtig in buurtschap ’t Kapelleke, maar tijdens het komende carnaval het gezicht van carnavalsvereniging De Keijepaol uit Someren-Heide: Ron Breukers (44) is samen met prinses Liesbeth de 63e regent.",
+   "datum": "2026-11-22T12:45:12+00:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 13:45"
+  },
   "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
    "link": "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/",
@@ -3811,6 +3828,71 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677692/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
+   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677692/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
+   "tekst": "",
+   "datum": "2026-11-22T12:49:07+00:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677690/met-bram-als-prins-luuk-liii-krijgt-ganzendonck-een-koninklijk-tintje.html": {
+   "titel": "Met Bram als Prins Luuk LIII krijgt Ganzendonck een koninklijk tintje",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677690/met-bram-als-prins-luuk-liii-krijgt-ganzendonck-een-koninklijk-tintje.html",
+   "tekst": "",
+   "datum": "2026-11-22T12:49:05+00:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 13:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677689/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
+   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677689/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
+   "tekst": "",
+   "datum": "2026-11-22T12:49:05+00:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677665/met-bram-als-prins-luuk-liii-krijgt-ganzendonck-een-koninklijk-tintje.html": {
+   "titel": "Met Bram als Prins Luuk LIII krijgt Ganzendonck een koninklijk tintje",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677665/met-bram-als-prins-luuk-liii-krijgt-ganzendonck-een-koninklijk-tintje.html",
+   "tekst": "",
+   "datum": "2026-11-22T12:43:20+00:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677332/honderd-sterren-voor-sinterklaas-die-in-kasteel-geldrop-en-heeze-heel-veel-kinderen-ontvangt.html": {
    "titel": "Honderd sterren voor Sinterklaas, die in Kasteel Geldrop en Heeze heel veel kinderen ontvangt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677332/honderd-sterren-voor-sinterklaas-die-in-kasteel-geldrop-en-heeze-heel-veel-kinderen-ontvangt.html",
@@ -4009,40 +4091,6 @@
    "prio": false,
    "tijd": "22-11 10:19"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
-   "titel": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk' Dit zegt het debat over vroegpensioen bij zwaar werk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html",
-   "tekst": "",
-   "datum": "2026-11-22T08:19:02+00:00",
-   "eerst_gezien": "2026-11-22T08:32:45.506160+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 09:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108675991/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html": {
-   "titel": "Van stress tot krom staan en zwaar tillen: wat maakt een baan zwaar genoeg voor vervroegd pensioen'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675991/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html",
-   "tekst": "",
-   "datum": "2026-11-22T07:13:25+00:00",
-   "eerst_gezien": "2026-11-22T07:27:46.404594+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 08:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html": {
    "titel": "VUURWERK veroorzaakt GROTE BRAND op BASISSCHOOL in DEURNE | Uitzending 21 november [video]",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html",
@@ -4055,7 +4103,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 13:28"
@@ -4651,37 +4699,39 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662111/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html": {
-   "titel": "Tim d`n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662111/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html",
-   "tekst": "",
-   "datum": "2026-11-20T18:25:05+00:00",
-   "eerst_gezien": "2026-11-20T18:32:02.956234+00:00",
-   "bron": "Drimble Someren",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134512ongevalwegvervoerletseluiverlaanhelmond": {
+   "titel": "Ongeval wegvervoer letsel Uiverlaan Helmond",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134512ongevalwegvervoerletseluiverlaanhelmond",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-22T13:45:12+01:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Someren"
+    "Helmond"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 politie",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 13:45"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108661057/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren.html": {
-   "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: `Je hebt verleende rechten te respecteren`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661057/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren.html",
-   "tekst": "",
-   "datum": "2026-11-20T15:49:05+00:00",
-   "eerst_gezien": "2026-11-20T15:50:59.803692+00:00",
-   "bron": "Drimble Someren",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134506a2helmondrit139378": {
+   "titel": "A2 Helmond Rit: 139378",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134506a2helmondrit139378",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T13:45:06+01:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Someren"
+    "Helmond"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 13:45"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126110450a1somerenrit139320": {
    "titel": "A1 Someren Rit: 139320",
@@ -5175,6 +5225,72 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 13:51"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
+   "titel": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk' Dit zegt het debat over vroegpensioen bij zwaar werk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html",
+   "tekst": "",
+   "datum": "2026-11-22T08:19:02+00:00",
+   "eerst_gezien": "2026-11-22T08:32:45.506160+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 09:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108675991/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html": {
+   "titel": "Van stress tot krom staan en zwaar tillen: wat maakt een baan zwaar genoeg voor vervroegd pensioen'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675991/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html",
+   "tekst": "",
+   "datum": "2026-11-22T07:13:25+00:00",
+   "eerst_gezien": "2026-11-22T07:27:46.404594+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 08:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108662111/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html": {
+   "titel": "Tim d`n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662111/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html",
+   "tekst": "",
+   "datum": "2026-11-20T18:25:05+00:00",
+   "eerst_gezien": "2026-11-20T18:32:02.956234+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108661057/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren.html": {
+   "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: `Je hebt verleende rechten te respecteren`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661057/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren.html",
+   "tekst": "",
+   "datum": "2026-11-20T15:49:05+00:00",
+   "eerst_gezien": "2026-11-20T15:50:59.803692+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666722/brand-in-basisschool-deurne-door-vuurwerk.html": {
    "titel": "Brand in basisschool Deurne door vuurwerk",
@@ -18398,7 +18514,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
@@ -18483,7 +18599,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18498,12 +18614,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 7,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
