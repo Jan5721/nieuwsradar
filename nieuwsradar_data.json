@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 18:55",
+ "bijgewerkt": "22-11-2026 19:11",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -1774,7 +1774,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen": {
    "titel": "Deurne wint NK Tegelwippen",
    "link": "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen",
-   "tekst": "maandag Deurne heeft de poule Brabantse Peeldorpen gewonnen in het NK Tegelwippen. In totaal zijn 22.262 tegels vervangen door groen, waarmee de gemeente boven Gemert-Bakel, Someren, Laarbeek en Asten eindigt.",
+   "tekst": "16 november 2026 Deurne heeft de poule Brabantse Peeldorpen gewonnen in het NK Tegelwippen. In totaal zijn 22.262 tegels vervangen door groen, waarmee de gemeente boven Gemert-Bakel, Someren, Laarbeek en Asten eindigt.",
    "datum": "2026-11-16T15:40:52.229622+00:00",
    "eerst_gezien": "2026-11-16T15:40:52.229622+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1793,7 +1793,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034898/martinetplein-in-deurne-krijgt-meer-groen-en-zitplekken": {
    "titel": "Martinetplein in Deurne krijgt meer groen en zitplekken",
    "link": "https://www.omroepbrabant.nl/nieuws/6034898/martinetplein-in-deurne-krijgt-meer-groen-en-zitplekken",
-   "tekst": "maandag De gemeente Deurne gaat het Martinetplein en de hoek De Wever - Torenstraat vernieuwen. Het plein krijgt meer groen, grotere plantvakken en nieuwe zitgelegenheden. Ook komen er kunstobjecten en wordt de inrichting aantrekkelijker …",
+   "tekst": "16 november 2026 De gemeente Deurne gaat het Martinetplein en de hoek De Wever - Torenstraat vernieuwen. Het plein krijgt meer groen, grotere plantvakken en nieuwe zitgelegenheden. Ook komen er kunstobjecten en wordt de inrichting …",
    "datum": "2026-11-16T15:24:37.551385+00:00",
    "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4589,7 +4589,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5433,6 +5433,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126185804a2deurnerit139482": {
+   "titel": "A2 Deurne Rit: 139482",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126185804a2deurnerit139482",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T18:58:04+01:00",
+   "eerst_gezien": "2026-11-22T18:10:37.263678+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 18:58"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126184406a1deurnerit139476": {
    "titel": "A1 Deurne Rit: 139476",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126184406a1deurnerit139476",
@@ -5445,7 +5462,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 18:44"
@@ -5904,7 +5921,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "15-11 23:42"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151": {
    "titel": "A2 Deurne Rit: 139151",
@@ -17646,23 +17664,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/asten/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor~a03033e36/": {
-   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
-   "link": "https://www.ed.nl/asten/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor~a03033e36/",
-   "tekst": "De elfde van de elfde is het startsein om carnaval met een pas gekozen prins een nieuw seizoen te beginnen. Carnavalsvereniging De Klot uit Asten doet het anders. In het Kwartier sluiten ze traditiegetrouw met vijf uitverkochte zittingsavonden het jaar af.",
-   "datum": "2026-11-15T18:01:00+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 19:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html": {
    "titel": "Junioravond in Geldrop staat in het teken van reuzenplaneten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html",
@@ -18832,7 +18833,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
