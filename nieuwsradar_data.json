@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 13:18",
+ "bijgewerkt": "22-11-2026 13:34",
  "items": {
   "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
@@ -178,7 +178,7 @@
    "tekst": "Molenaar Mari van Dijk is er klaar voor. Het hekwerk van de wieken van Holten’s Molen in Deurne is al verwijderd. Maandag (als het weer meezit) zijn de roeden aan de beurt, de twee lange stalen balken die het wiekenkruis vormen.",
    "datum": "2026-11-20T19:00:00+00:00",
    "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Deurne"
    ],
@@ -4043,6 +4043,23 @@
    "prio": false,
    "tijd": "22-11 08:13"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html": {
+   "titel": "VUURWERK veroorzaakt GROTE BRAND op BASISSCHOOL in DEURNE | Uitzending 21 november [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-22T12:28:17+00:00",
+   "eerst_gezien": "2026-11-22T12:33:44.010535+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 13:28"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html": {
    "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html",
@@ -4259,23 +4276,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:53"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666722/brand-in-basisschool-deurne-door-vuurwerk.html": {
-   "titel": "Brand in basisschool Deurne door vuurwerk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666722/brand-in-basisschool-deurne-door-vuurwerk.html",
-   "tekst": "Op een basisschool in het Brabantse dorp Deurne is vrijdagavond brand ontstaan. De politie gaat ervanuit dat de brand is ontstaan door...",
-   "datum": "2026-11-20T23:30:07+00:00",
-   "eerst_gezien": "2026-11-20T23:37:19.163189+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 00:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
    "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
@@ -5176,6 +5176,23 @@
    "prio": false,
    "tijd": "21-11 13:51"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666722/brand-in-basisschool-deurne-door-vuurwerk.html": {
+   "titel": "Brand in basisschool Deurne door vuurwerk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666722/brand-in-basisschool-deurne-door-vuurwerk.html",
+   "tekst": "Op een basisschool in het Brabantse dorp Deurne is vrijdagavond brand ontstaan. De politie gaat ervanuit dat de brand is ontstaan door...",
+   "datum": "2026-11-20T23:30:07+00:00",
+   "eerst_gezien": "2026-11-20T23:37:19.163189+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 00:30"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950": {
    "titel": "A1 Helmond Rit: 138950",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950",
@@ -6020,23 +6037,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "15-11 18:40"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64661/pieter-van-de-akker-69ste-prins-van-de-streupers": {
-   "titel": "Pieter van de Akker 69ste Prins van De Streupers",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64661/pieter-van-de-akker-69ste-prins-van-de-streupers",
-   "tekst": "DE RIPS - Pieter van de Akker (41) is uitgeroepen tot de 69ste Prins van carnavalsvereniging De Streupers. Als Prins Pieter d'n Eerste voert hij samen met zijn prinses Hanneke van de Akker het komende carnavalsseizoen de scepter over het Streupersrijk.",
-   "datum": "2026-11-15T13:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 13:30"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
@@ -18398,12 +18398,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
