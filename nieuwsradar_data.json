@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 11:09",
+ "bijgewerkt": "22-11-2026 11:25",
  "items": {
   "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
@@ -13,7 +13,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 11:00"
@@ -3845,12 +3845,45 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108676775/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108676840/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676775/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676840/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
    "tekst": "",
-   "datum": "2026-11-22T10:04:20+00:00",
-   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "datum": "2026-11-22T10:13:24+00:00",
+   "eerst_gezien": "2026-11-22T10:25:11.395674+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676839/we-zijn-niet-zomaar-chagrijnig-of-agressief-er-woedt-een-oeroude-strijd-in-ons.html": {
+   "titel": "We zijn niet zomaar chagrijnig of agressief: er woedt een oeroude strijd in ons",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676839/we-zijn-niet-zomaar-chagrijnig-of-agressief-er-woedt-een-oeroude-strijd-in-ons.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:13:24+00:00",
+   "eerst_gezien": "2026-11-22T10:25:11.395674+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 11:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676831/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676831/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:11:32+00:00",
+   "eerst_gezien": "2026-11-22T10:25:11.395674+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -3873,7 +3906,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 11:04"
@@ -3890,7 +3923,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3906,10 +3939,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 11:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html": {
    "titel": "Man (33) aangehouden na inbraak in Eindhoven, tweede verdachte ontsnapt",
@@ -3985,39 +4017,6 @@
    "tekst": "",
    "datum": "2026-11-22T06:29:06+00:00",
    "eerst_gezien": "2026-11-22T06:39:25.307947+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108674666/grootste-kinderspandoek-van-drenthe-wordt-bij-fc-emmen-onthuld.html": {
-   "titel": "Grootste kinderspandoek van Drenthe wordt bij FC Emmen onthuld",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108674666/grootste-kinderspandoek-van-drenthe-wordt-bij-fc-emmen-onthuld.html",
-   "tekst": "Tijdens de wedstrijd FC Emmen-Helmond Sport op 28 november wordt het grootste kinderspandoek van Drenthe onthuld. Het spandoek van 50 vierkante...",
-   "datum": "2026-11-21T22:53:06+00:00",
-   "eerst_gezien": "2026-11-21T22:54:05.653157+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 23:53"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108674405/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html": {
-   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108674405/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html",
-   "tekst": "",
-   "datum": "2026-11-21T22:42:07+00:00",
-   "eerst_gezien": "2026-11-21T22:54:05.653157+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4680,7 +4679,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 11:04"
@@ -5279,6 +5278,55 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 10:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676775/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676775/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:04:20+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108674666/grootste-kinderspandoek-van-drenthe-wordt-bij-fc-emmen-onthuld.html": {
+   "titel": "Grootste kinderspandoek van Drenthe wordt bij FC Emmen onthuld",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108674666/grootste-kinderspandoek-van-drenthe-wordt-bij-fc-emmen-onthuld.html",
+   "tekst": "Tijdens de wedstrijd FC Emmen-Helmond Sport op 28 november wordt het grootste kinderspandoek van Drenthe onthuld. Het spandoek van 50 vierkante...",
+   "datum": "2026-11-21T22:53:06+00:00",
+   "eerst_gezien": "2026-11-21T22:54:05.653157+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 23:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108674405/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html": {
+   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108674405/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-21T22:42:07+00:00",
+   "eerst_gezien": "2026-11-21T22:54:05.653157+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108673876/een-straftraining-is-alleen-maar-voor-de-buhne.html": {
    "titel": "Een straftraining is alleen maar voor de bühne",
