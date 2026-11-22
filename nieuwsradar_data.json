@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 13:02",
+ "bijgewerkt": "22-11-2026 13:18",
  "items": {
   "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
@@ -3823,7 +3823,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 12:49"
@@ -8568,23 +8568,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:52"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126131320a1helmondrit138533": {
-   "titel": "A1 Helmond Rit: 138533",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126131320a1helmondrit138533",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T13:13:20+01:00",
-   "eerst_gezien": "2026-11-20T12:22:01.355192+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 13:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html": {
    "titel": "LIVE | 3-0 (!) na 27 minuten: Helmond Sport kent droomstart in kelderkraker tegen FC Dordrecht",
@@ -18520,7 +18503,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
