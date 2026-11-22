@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 21:03",
+ "bijgewerkt": "22-11-2026 21:19",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -828,7 +828,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 21:00"
@@ -4611,6 +4611,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108680160/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html": {
+   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: `de kroeg in op zondagmiddag`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680160/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html",
+   "tekst": "",
+   "datum": "2026-11-22T20:13:25+00:00",
+   "eerst_gezien": "2026-11-22T20:18:59.414426+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html": {
    "titel": "Loek Sonnemans (30) springt in het diepe als componist: `Het voelt helemaal niet als werken`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html",
@@ -4624,7 +4640,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4845,22 +4861,6 @@
    "prio": false,
    "tijd": "22-11 14:01"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108677729/prins-oraculus-zwaait-scepter-over-het-narregat.html": {
-   "titel": "Prins Oraculus zwaait scepter over het Narregat",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677729/prins-oraculus-zwaait-scepter-over-het-narregat.html",
-   "tekst": "",
-   "datum": "2026-11-22T13:01:05+00:00",
-   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108679085/na-historische-nederlaag-voor-deurne-pakt-someren-de-koppositie-hadden-we-niet-verwacht.html": {
    "titel": "Na historische nederlaag voor Deurne pakt Someren de koppositie: `Hadden we niet verwacht`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108679085/na-historische-nederlaag-voor-deurne-pakt-someren-de-koppositie-hadden-we-niet-verwacht.html",
@@ -5078,23 +5078,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:28"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html": {
-   "titel": "Basisschool in brand nadat kinderen vuurwerk afsteken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html",
-   "tekst": "Een basisschool in het Brabantse dorp Deurne stond vrijdagavond in brand. Het vuur was in twee klaslokalen en een zaal van basisschool...",
-   "datum": "2026-11-21T07:40:08+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:40"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108679761/ramon-weren-nieuwe-prins-van-carnavalsvereniging-de-plekkers-in-asten.html": {
    "titel": "Ramon Weren nieuwe prins van carnavalsvereniging De Plekkers in Asten",
@@ -5828,6 +5811,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 00:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677729/prins-oraculus-zwaait-scepter-over-het-narregat.html": {
+   "titel": "Prins Oraculus zwaait scepter over het Narregat",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677729/prins-oraculus-zwaait-scepter-over-het-narregat.html",
+   "tekst": "",
+   "datum": "2026-11-22T13:01:05+00:00",
+   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html": {
+   "titel": "Basisschool in brand nadat kinderen vuurwerk afsteken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html",
+   "tekst": "Een basisschool in het Brabantse dorp Deurne stond vrijdagavond in brand. Het vuur was in twee klaslokalen en een zaal van basisschool...",
+   "datum": "2026-11-21T07:40:08+00:00",
+   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:40"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
    "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
@@ -15426,23 +15442,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html": {
-   "titel": "Ondanks het winnen van de eerste periode overheerst de kater bij Deurne: `Ik baal van het gelijke spel`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608705/ondanks-het-winnen-van-de-eerste-periode-overheerst-de-kater-bij-deurne-ik-baal-van-het-gelijke-spel.html",
-   "tekst": "",
-   "datum": "2026-11-15T20:15:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 21:15"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
    "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
@@ -18852,7 +18851,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Asten": {
