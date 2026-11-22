@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 02:35",
+ "bijgewerkt": "22-11-2026 02:51",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -9211,23 +9211,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 02:57"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126023935a1helmondrit138307": {
-   "titel": "A1 Helmond Rit: 138307",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126023935a1helmondrit138307",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-20T02:39:35+01:00",
-   "eerst_gezien": "2026-11-20T01:55:01.558697+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 02:39"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
    "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
