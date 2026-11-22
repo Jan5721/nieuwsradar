@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 06:19",
+ "bijgewerkt": "22-11-2026 06:35",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -5583,6 +5583,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126063149a2deurnerit139259": {
+   "titel": "A2 Deurne Rit: 139259",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126063149a2deurnerit139259",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T06:31:49+01:00",
+   "eerst_gezien": "2026-11-22T05:35:24.943363+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 06:31"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126015706a2astenrit139215": {
    "titel": "A2 Asten Rit: 139215",
