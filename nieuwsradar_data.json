@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "22-11-2026 18:23",
+ "bijgewerkt": "22-11-2026 18:39",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
+   "titel": "De mooiste lezersfoto’s van deze week",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week",
+   "tekst": "DEURNE - We ontvingen weer veel mooie foto's. Het is moeilijk kiezen welke inzending we wel publiceren en welke niet, want de ene foto is nog mooier dan de andere. Gelukkig kan onze redacteur moeilijke beslissingen maken en koos hij de volgende foto's. Blijf vooral op pad gaan! …",
+   "datum": "2026-11-22T18:30:00+01:00",
+   "eerst_gezien": "2026-11-22T17:38:33.710391+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 18:30"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64807/schaakvereniging-deurne-houdt-open-schaakavond-voor-senioren": {
    "titel": "Schaakvereniging Deurne houdt open schaakavond voor senioren",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64807/schaakvereniging-deurne-houdt-open-schaakavond-voor-senioren",
@@ -372,8 +389,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:30"
+   "prio": false
   },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64708/sinterklaas-komt-naar-sint-jozefparochie": {
    "titel": "Sinterklaas komt naar Sint Jozefparochie",
@@ -817,6 +833,23 @@
    "prio": false,
    "tijd": "16-11 09:51"
   },
+  "https://www.ed.nl/asten/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter~a7e46d58/": {
+   "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
+   "link": "https://www.ed.nl/asten/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter~a7e46d58/",
+   "tekst": "Ramon Weren is de 57ste prins van carnavalsvereniging De Plekkers in Asten. Hij is 43 jaar oud en woont met zijn vrouw Elske en hun kinderen, Veerle en Dex, aan de Voordeldonk in Asten.",
+   "datum": "2026-11-22T17:32:38+00:00",
+   "eerst_gezien": "2026-11-22T17:38:33.710391+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 18:32"
+  },
   "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/": {
    "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: ‘Zenuwachtiger dan voor mijn prinsenonthulling’",
    "link": "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/",
@@ -960,7 +993,7 @@
    "tekst": "Wanneer de 9-jarige Jasper Claessens voor het eerst door de poorten van het Kasteel van Sinterklaas in Helmond stapt, is hij meteen verknocht. Al zingend loopt hij de trappen op, met Piet aan de hand. Een dag zo magisch dat hij nooit meer naar huis wil gaan. En dat lukt.",
    "datum": "2026-11-21T10:30:00+00:00",
    "eerst_gezien": "2026-11-21T11:41:13.179728+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Helmond"
    ],
@@ -1055,23 +1088,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 20:30"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan": {
-   "titel": "Hal en lokalen verwoest na schoolbrand: 'Vraag of school nog open kan'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan",
-   "tekst": "Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden worden. Zaterdag kwamen ouders en kinderen een kijkje …",
-   "datum": "2026-11-21T16:04:00+00:00",
-   "eerst_gezien": "2026-11-21T16:13:39.683487+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 17:04"
   },
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
@@ -1583,6 +1599,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan": {
+   "titel": "Hal en lokalen verwoest na schoolbrand: 'Vraag of school nog open kan'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan",
+   "tekst": "Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden worden. Zaterdag …",
+   "datum": "2026-11-21T16:13:39.683487+00:00",
+   "eerst_gezien": "2026-11-21T16:13:39.683487+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 17:13"
   },
   "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken": {
    "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
@@ -5075,6 +5108,22 @@
    "prio": false,
    "tijd": "21-11 08:40"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108679341/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter.html": {
+   "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679341/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter.html",
+   "tekst": "",
+   "datum": "2026-11-22T17:34:04+00:00",
+   "eerst_gezien": "2026-11-22T17:38:33.710391+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
    "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html",
@@ -5316,22 +5365,6 @@
    "prio": false,
    "tijd": "20-11 23:12"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
-   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
-   "tekst": "",
-   "datum": "2026-11-15T22:42:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677824/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677824/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
@@ -5464,6 +5497,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126183539a2astenrit139472": {
+   "titel": "A2 Asten Rit: 139472",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126183539a2astenrit139472",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T18:35:39+01:00",
+   "eerst_gezien": "2026-11-22T17:38:33.710391+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 18:35"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126175314a2deurnerit139454": {
    "titel": "A2 Deurne Rit: 139454",
@@ -5821,6 +5871,22 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 22:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
+   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
+   "tekst": "",
+   "datum": "2026-11-15T22:42:08+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151": {
    "titel": "A2 Deurne Rit: 139151",
@@ -18645,7 +18711,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -18665,7 +18731,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -18680,7 +18746,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -18690,7 +18756,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 20,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18765,7 +18831,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
