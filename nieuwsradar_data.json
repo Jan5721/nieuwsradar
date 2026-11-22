@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 21:51",
+ "bijgewerkt": "22-11-2026 22:07",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4623,7 +4623,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 21:40"
@@ -5253,6 +5253,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:04"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html": {
+   "titel": "Stamboomcaf&é Someren nodigt ge&ïnteresseerden uit voor zoektocht naar familiegeschiedenis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html",
+   "tekst": "Mensen die interesse hebben in hun eigen verborgen verleden kunnen goed terecht bij het Somerense Stamboomcaf&é. De vrijwilligers...",
+   "datum": "2026-11-22T20:53:02+00:00",
+   "eerst_gezien": "2026-11-22T21:07:06.302619+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 21:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677824/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -7671,40 +7688,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 22:18"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126220013a2helmondrit138731": {
-   "titel": "A2 Helmond Rit: 138731",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126220013a2helmondrit138731",
-   "tekst": "Ambulance 22-120 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T22:00:13+01:00",
-   "eerst_gezien": "2026-11-20T21:12:40.528794+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 22:00"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126215328a1astenrit138727": {
-   "titel": "A1 Asten Rit: 138727",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126215328a1astenrit138727",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T21:53:28+01:00",
-   "eerst_gezien": "2026-11-20T20:56:29.369028+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 21:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108670369/gusto-040-pakt-uit-met-mediterrane-smaken-in-een-levendig-zonnig-decor.html": {
    "titel": "Gusto-040 pakt uit met mediterrane smaken in een levendig, zonnig decor",
@@ -18860,12 +18843,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
