@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 07:40",
+ "bijgewerkt": "22-11-2026 07:56",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -4730,6 +4730,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108675875/erik-meulendijks-65e-prins-van-de-spruwwejagers.html": {
+   "titel": "Erik Meulendijks 65e prins van De Spruwwejagers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675875/erik-meulendijks-65e-prins-van-de-spruwwejagers.html",
+   "tekst": "",
+   "datum": "2026-11-22T06:49:06+00:00",
+   "eerst_gezien": "2026-11-22T06:55:30.772595+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 07:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108675797/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem.html": {
    "titel": "Wáár komt die pakjesboot dan aan' Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108675797/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem.html",
@@ -4742,7 +4759,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4943,23 +4960,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 22:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html": {
-   "titel": "Heet van de Herdgang | Poll: `Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html",
-   "tekst": "",
-   "datum": "2026-11-21T20:19:03+00:00",
-   "eerst_gezien": "2026-11-21T20:29:45.597932+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 21:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html": {
    "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
@@ -6195,6 +6195,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 08:59"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html": {
+   "titel": "Heet van de Herdgang | Poll: `Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html",
+   "tekst": "",
+   "datum": "2026-11-21T20:19:03+00:00",
+   "eerst_gezien": "2026-11-21T20:29:45.597932+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 21:19"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126071816a2helmondrit138851": {
    "titel": "A2 Helmond Rit: 138851",
@@ -18459,7 +18476,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
