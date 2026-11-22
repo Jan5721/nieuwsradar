@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 15:26",
+ "bijgewerkt": "22-11-2026 15:41",
  "items": {
   "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/": {
    "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: ‘Zenuwachtiger dan voor mijn prinsenonthulling’",
@@ -4697,6 +4697,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126154003a1helmondrit139402": {
+   "titel": "A1 Helmond Rit: 139402",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126154003a1helmondrit139402",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T15:40:03+01:00",
+   "eerst_gezien": "2026-11-22T14:41:29.475236+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "22-11 15:40"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126143657a2helmondrit139386": {
    "titel": "A2 Helmond Rit: 139386",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126143657a2helmondrit139386",
@@ -8080,23 +8097,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 15:44"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126153828a1helmondrit138604": {
-   "titel": "A1 Helmond Rit: 138604",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126153828a1helmondrit138604",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T15:38:28+01:00",
-   "eerst_gezien": "2026-11-20T14:46:18.454646+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 15:38"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
    "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
