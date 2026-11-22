@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 08:12",
+ "bijgewerkt": "22-11-2026 08:28",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -4712,12 +4712,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108675922/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108675991/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html": {
    "titel": "Van stress tot krom staan en zwaar tillen: wat maakt een baan zwaar genoeg voor vervroegd pensioen'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675922/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675991/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html",
    "tekst": "",
-   "datum": "2026-11-22T07:01:05+00:00",
-   "eerst_gezien": "2026-11-22T07:11:40.061761+00:00",
+   "datum": "2026-11-22T07:13:25+00:00",
+   "eerst_gezien": "2026-11-22T07:27:46.404594+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4727,7 +4727,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "22-11 08:01"
+   "tijd": "22-11 08:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108675875/erik-meulendijks-65e-prins-van-de-spruwwejagers.html": {
    "titel": "Erik Meulendijks 65e prins van De Spruwwejagers",
@@ -4942,23 +4942,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108672379/nuenen-breekt-met-slechte-reeks-en-wint-bij-wnc-waren-we-echt-naar-op-zoek.html": {
-   "titel": "Nuenen breekt met slechte reeks en wint bij WNC: `Waren we echt naar op zoek`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672379/nuenen-breekt-met-slechte-reeks-en-wint-bij-wnc-waren-we-echt-naar-op-zoek.html",
-   "tekst": "",
-   "datum": "2026-11-21T21:01:04+00:00",
-   "eerst_gezien": "2026-11-21T21:01:46.634053+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 22:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html": {
    "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
@@ -6194,6 +6177,40 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 08:59"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108675922/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html": {
+   "titel": "Van stress tot krom staan en zwaar tillen: wat maakt een baan zwaar genoeg voor vervroegd pensioen'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675922/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html",
+   "tekst": "",
+   "datum": "2026-11-22T07:01:05+00:00",
+   "eerst_gezien": "2026-11-22T07:11:40.061761+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 08:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108672379/nuenen-breekt-met-slechte-reeks-en-wint-bij-wnc-waren-we-echt-naar-op-zoek.html": {
+   "titel": "Nuenen breekt met slechte reeks en wint bij WNC: `Waren we echt naar op zoek`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672379/nuenen-breekt-met-slechte-reeks-en-wint-bij-wnc-waren-we-echt-naar-op-zoek.html",
+   "tekst": "",
+   "datum": "2026-11-21T21:01:04+00:00",
+   "eerst_gezien": "2026-11-21T21:01:46.634053+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 22:01"
   },
   "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/": {
    "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet?",
@@ -18456,7 +18473,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
