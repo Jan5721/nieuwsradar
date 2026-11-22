@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 01:15",
+ "bijgewerkt": "22-11-2026 01:31",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -4961,6 +4961,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html": {
+   "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html",
+   "tekst": "De school in Deurne waar gisteravond een brand uitbrak blijft waarschijnlijk nog maanden dicht, zegt directeur Pleun van Genugten tegen...",
+   "datum": "2026-11-22T00:30:10+00:00",
+   "eerst_gezien": "2026-11-22T00:30:36.003392+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 01:30"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108674554/twee-kinderen-onder-de-12-veroorzaken-grote-brand-op-basisschool.html": {
    "titel": "Twee kinderen onder de 12 veroorzaken grote brand op basisschool",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108674554/twee-kinderen-onder-de-12-veroorzaken-grote-brand-op-basisschool.html",
@@ -5177,22 +5194,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
-   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
-   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
-   "datum": "2026-11-20T23:30:05+00:00",
-   "eerst_gezien": "2026-11-20T23:37:19.163189+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
    "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
@@ -6194,6 +6195,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 00:47"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
+   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-20T23:30:05+00:00",
+   "eerst_gezien": "2026-11-20T23:37:19.163189+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#201126231318p1bob01brwegvervoerovdbautogruttowegheusdenasten": {
    "titel": "P 1 BOB-01 BR wegvervoer (OVD-B) (Auto) Gruttoweg Heusden Asten 225193",
