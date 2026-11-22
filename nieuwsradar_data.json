@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 07:56",
+ "bijgewerkt": "22-11-2026 08:12",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -1106,24 +1106,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
-  },
-  "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/": {
-   "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet?",
-   "link": "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/",
-   "tekst": "Vier jaar lang stonden varkensstallen in het buitengebied van Lierop leeg, maar over een tijdje misschien niet meer. Het bedrijf Kovemi heeft plannen voor een doorstart van een gesloten varkenshouderij aan de Verhagenstraat.",
-   "datum": "2026-11-20T10:00:13+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:00"
   },
   "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
    "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
@@ -4730,6 +4712,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108675922/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html": {
+   "titel": "Van stress tot krom staan en zwaar tillen: wat maakt een baan zwaar genoeg voor vervroegd pensioen'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675922/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html",
+   "tekst": "",
+   "datum": "2026-11-22T07:01:05+00:00",
+   "eerst_gezien": "2026-11-22T07:11:40.061761+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 08:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108675875/erik-meulendijks-65e-prins-van-de-spruwwejagers.html": {
    "titel": "Erik Meulendijks 65e prins van De Spruwwejagers",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108675875/erik-meulendijks-65e-prins-van-de-spruwwejagers.html",
@@ -4742,7 +4741,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 07:49"
@@ -6195,6 +6194,24 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 08:59"
+  },
+  "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/": {
+   "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet?",
+   "link": "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/",
+   "tekst": "Vier jaar lang stonden varkensstallen in het buitengebied van Lierop leeg, maar over een tijdje misschien niet meer. Het bedrijf Kovemi heeft plannen voor een doorstart van een gesloten varkenshouderij aan de Verhagenstraat.",
+   "datum": "2026-11-20T10:00:13+00:00",
+   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 11:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html": {
    "titel": "Heet van de Herdgang | Poll: `Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven'",
@@ -9209,23 +9226,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 14:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126080338a2helmondrit138357": {
-   "titel": "A2 Helmond Rit: 138357",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126080338a2helmondrit138357",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T08:03:38+01:00",
-   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 08:03"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108659737/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, maar dit weekend wordt droog en mogelijk zonnig",
@@ -18376,7 +18376,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "ED Asten": {
@@ -18456,7 +18456,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
