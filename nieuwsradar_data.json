@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 21:19",
+ "bijgewerkt": "22-11-2026 21:35",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4611,12 +4611,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108680160/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html": {
    "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: `de kroeg in op zondagmiddag`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680160/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html",
    "tekst": "",
-   "datum": "2026-11-22T20:13:25+00:00",
-   "eerst_gezien": "2026-11-22T20:18:59.414426+00:00",
+   "datum": "2026-11-22T20:19:02+00:00",
+   "eerst_gezien": "2026-11-22T20:35:03.600142+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Deurne"
@@ -4844,23 +4844,6 @@
    "prio": false,
    "tijd": "22-11 14:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108677730/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
-   "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677730/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html",
-   "tekst": "",
-   "datum": "2026-11-22T13:01:05+00:00",
-   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 14:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108679085/na-historische-nederlaag-voor-deurne-pakt-someren-de-koppositie-hadden-we-niet-verwacht.html": {
    "titel": "Na historische nederlaag voor Deurne pakt Someren de koppositie: `Hadden we niet verwacht`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108679085/na-historische-nederlaag-voor-deurne-pakt-someren-de-koppositie-hadden-we-niet-verwacht.html",
@@ -5061,23 +5044,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 10:10"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html": {
-   "titel": "Nieuwswekker: School in brand + Opgelicht met Pokémon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html",
-   "tekst": "Gooooooiemorgen! Tijd voor weekend! Het ideale moment om eens lekker de Nieuwswekker te lezen. Komt-ie! Het weer Zon en wolken wisselen...",
-   "datum": "2026-11-21T08:28:07+00:00",
-   "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:28"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108679761/ramon-weren-nieuwe-prins-van-carnavalsvereniging-de-plekkers-in-asten.html": {
    "titel": "Ramon Weren nieuwe prins van carnavalsvereniging De Plekkers in Asten",
@@ -5777,6 +5743,56 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 01:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108680160/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html": {
+   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: `de kroeg in op zondagmiddag`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680160/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html",
+   "tekst": "",
+   "datum": "2026-11-22T20:13:25+00:00",
+   "eerst_gezien": "2026-11-22T20:18:59.414426+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677730/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
+   "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677730/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html",
+   "tekst": "",
+   "datum": "2026-11-22T13:01:05+00:00",
+   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 14:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html": {
+   "titel": "Nieuwswekker: School in brand + Opgelicht met Pokémon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html",
+   "tekst": "Gooooooiemorgen! Tijd voor weekend! Het ideale moment om eens lekker de Nieuwswekker te lezen. Komt-ie! Het weer Zon en wolken wisselen...",
+   "datum": "2026-11-21T08:28:07+00:00",
+   "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 09:28"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126002024a1vlierdenrit139189": {
    "titel": "A1 Vlierden Rit: 139189",
@@ -18846,12 +18862,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Asten": {
@@ -18866,7 +18882,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
