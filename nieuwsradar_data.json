@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 15:57",
+ "bijgewerkt": "22-11-2026 16:14",
  "items": {
   "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/": {
    "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: ‘Zenuwachtiger dan voor mijn prinsenonthulling’",
@@ -195,7 +195,7 @@
    "tekst": "Woningbouwplannen genoeg in de regio, maar zonder stroom wordt een groot deel voorlopig niet gebouwd. In het Helmondse Nieuw Brandevoort en KnoopXL in Eindhoven gaan ze onderzoeken wat er wellicht toch kan door de plannen aan te passen.",
    "datum": "2026-11-21T07:00:00+00:00",
    "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Helmond"
    ],
@@ -222,23 +222,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 20:00"
-  },
-  "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
-   "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
-   "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
-   "tekst": "In de eerste helft van dit jaar kregen 685 kinderen en jongeren tot 23 jaar in Deurne jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 10,2 miljoen euro uit aan jeugdzorg.",
-   "datum": "2026-11-20T16:29:00+00:00",
-   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 17:29"
   },
   "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten": {
    "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
@@ -4709,7 +4692,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 15:53"
@@ -5070,6 +5053,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 20:30"
+  },
+  "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
+   "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
+   "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
+   "tekst": "In de eerste helft van dit jaar kregen 685 kinderen en jongeren tot 23 jaar in Deurne jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 10,2 miljoen euro uit aan jeugdzorg.",
+   "datum": "2026-11-20T16:29:00+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:29"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126194610a2deurnerit139115": {
    "titel": "A2 Deurne Rit: 139115",
@@ -17961,23 +17961,6 @@
    "prio": false,
    "tijd": "16-11 17:07"
   },
-  "https://www.ed.nl/helmond/kijk-de-video-zo-kwam-sinterklaas-zondag-in-helmond-aan~a2ce3a64/": {
-   "titel": "Kijk de video: zo kwam Sinterklaas zondag in Helmond aan",
-   "link": "https://www.ed.nl/helmond/kijk-de-video-zo-kwam-sinterklaas-zondag-in-helmond-aan~a2ce3a64/",
-   "tekst": "Vol verwachting en met bonkende harten stonden heel wat Helmondertjes en hun (groot)ouders te wachten op Sinterklaas en zijn entourage. Het was wat frisjes, maar gelukkig zorgden Bart & Theo ervoor dat iedereen zich warm kon dansen en zingen. Kijk je mee?",
-   "datum": "2026-11-15T15:06:00+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 16:06"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html": {
    "titel": "Steffie (22) uit Veghel zorgt voor kippenvel in SBS-programma: `Dikke middelvinger naar al die mensen die jou gepest hebben`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html",
@@ -18594,7 +18577,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
@@ -18699,7 +18682,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
