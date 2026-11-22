@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 15:10",
+ "bijgewerkt": "22-11-2026 15:26",
  "items": {
   "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/": {
    "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: ‘Zenuwachtiger dan voor mijn prinsenonthulling’",
@@ -3806,7 +3806,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -8146,40 +8146,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597": {
-   "titel": "A2 Deurne Rit: 138597",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152352a2deurnerit138597",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T15:23:52+01:00",
-   "eerst_gezien": "2026-11-20T14:30:08.685524+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 15:23"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152254a2astenrit138594": {
-   "titel": "A2 Asten Rit: 138594",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126152254a2astenrit138594",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T15:22:54+01:00",
-   "eerst_gezien": "2026-11-20T14:30:08.685524+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 15:22"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667988/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html": {
    "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
@@ -18241,23 +18207,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/deurne/prins-niels-i-van-de-dorstvlegels~a7334209/": {
-   "titel": "Prins Niels I van de Dorstvlegels",
-   "link": "https://www.ed.nl/deurne/prins-niels-i-van-de-dorstvlegels~a7334209/",
-   "tekst": "Niels van Rijssel (22) is verkozen tot de 51e prins van de Dorstvlegels. Tijdens de gezellige spelshow ‘Zo Vader Zo Zoon’ werd hij onthuld als prins in Vlierden.",
-   "datum": "2026-11-15T14:17:37+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 15:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108615640/martin-76-had-net-15000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield.html": {
    "titel": "Martin (76) had net 15.000 lampjes gekocht voor de kerstrevue toen zijn hart er ineens mee ophield",
