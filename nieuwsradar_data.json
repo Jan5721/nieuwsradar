@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 13:50",
+ "bijgewerkt": "22-11-2026 14:06",
  "items": {
   "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -13,7 +13,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 13:45"
@@ -239,23 +239,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 16:30"
-  },
-  "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
-   "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
-   "link": "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/",
-   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Asten kreeg in de eerste helft van dit jaar 9 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 360 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 7,7 miljoen euro uit aan …",
-   "datum": "2026-11-20T16:29:00+00:00",
-   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 17:29"
   },
   "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten": {
    "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
@@ -3828,6 +3811,56 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677730/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
+   "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677730/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html",
+   "tekst": "",
+   "datum": "2026-11-22T13:01:05+00:00",
+   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 14:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677729/prins-oraculus-zwaait-scepter-over-het-narregat.html": {
+   "titel": "Prins Oraculus zwaait scepter over het Narregat",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677729/prins-oraculus-zwaait-scepter-over-het-narregat.html",
+   "tekst": "",
+   "datum": "2026-11-22T13:01:05+00:00",
+   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 14:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
+   "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html",
+   "tekst": "",
+   "datum": "2026-11-22T12:55:05+00:00",
+   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677692/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677692/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
@@ -3840,7 +3873,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3856,7 +3889,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 13:49"
@@ -3873,7 +3906,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3889,7 +3922,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4057,39 +4090,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108676748/we-zijn-niet-zomaar-chagrijnig-of-agressief-er-woedt-een-oeroude-strijd-in-ons.html": {
-   "titel": "We zijn niet zomaar chagrijnig of agressief: er woedt een oeroude strijd in ons",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676748/we-zijn-niet-zomaar-chagrijnig-of-agressief-er-woedt-een-oeroude-strijd-in-ons.html",
-   "tekst": "",
-   "datum": "2026-11-22T10:01:06+00:00",
-   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html": {
-   "titel": "Man (33) aangehouden na inbraak in Eindhoven, tweede verdachte ontsnapt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html",
-   "tekst": "",
-   "datum": "2026-11-22T09:19:02+00:00",
-   "eerst_gezien": "2026-11-22T09:20:44.025962+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 10:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html": {
    "titel": "VUURWERK veroorzaakt GROTE BRAND op BASISSCHOOL in DEURNE | Uitzending 21 november [video]",
@@ -4582,6 +4582,22 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
+   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
+   "tekst": "",
+   "datum": "2026-11-22T13:04:21+00:00",
+   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108675627/prins-tim-en-prinses-manon-gaan-voorop-bij-carnavalsvereniging-de-pompers.html": {
    "titel": "Prins Tim en prinses Manon gaan voorop bij carnavalsvereniging De Pompers",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108675627/prins-tim-en-prinses-manon-gaan-voorop-bij-carnavalsvereniging-de-pompers.html",
@@ -4711,7 +4727,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 13:45"
@@ -4728,7 +4744,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 13:45"
@@ -5191,6 +5207,56 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 14:40"
+  },
+  "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
+   "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
+   "link": "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/",
+   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Asten kreeg in de eerste helft van dit jaar 9 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 360 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 7,7 miljoen euro uit aan …",
+   "datum": "2026-11-20T16:29:00+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676748/we-zijn-niet-zomaar-chagrijnig-of-agressief-er-woedt-een-oeroude-strijd-in-ons.html": {
+   "titel": "We zijn niet zomaar chagrijnig of agressief: er woedt een oeroude strijd in ons",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676748/we-zijn-niet-zomaar-chagrijnig-of-agressief-er-woedt-een-oeroude-strijd-in-ons.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:01:06+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html": {
+   "titel": "Man (33) aangehouden na inbraak in Eindhoven, tweede verdachte ontsnapt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html",
+   "tekst": "",
+   "datum": "2026-11-22T09:19:02+00:00",
+   "eerst_gezien": "2026-11-22T09:20:44.025962+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 10:19"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126140833a2helmondrit138987": {
    "titel": "A2 Helmond Rit: 138987",
@@ -18524,7 +18590,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "ED Someren": {
@@ -18599,7 +18665,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18614,12 +18680,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 8,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
