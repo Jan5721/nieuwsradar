@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 10:05",
+ "bijgewerkt": "22-11-2026 10:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64819/museum-de-wieger-organiseert-kerstworkshops": {
    "titel": "Museum De Wieger organiseert kerstworkshops",
@@ -4678,6 +4678,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html": {
+   "titel": "Man (33) aangehouden na inbraak in Eindhoven, tweede verdachte ontsnapt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html",
+   "tekst": "",
+   "datum": "2026-11-22T09:19:02+00:00",
+   "eerst_gezien": "2026-11-22T09:20:44.025962+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 10:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
    "titel": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk' Dit zegt het debat over vroegpensioen bij zwaar werk",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html",
@@ -4859,39 +4876,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108673205/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html": {
-   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673205/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html",
-   "tekst": "",
-   "datum": "2026-11-21T22:15:02+00:00",
-   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108672567/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-van-die-machtige-sprints-tien-te-weinig-dus.html": {
-   "titel": "Peter Bosz prikkelt Ruben van Bommel op weg naar Real Madrid: `Twee van die machtige sprints, tien te weinig dus`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672567/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-van-die-machtige-sprints-tien-te-weinig-dus.html",
-   "tekst": "",
-   "datum": "2026-11-21T21:49:07+00:00",
-   "eerst_gezien": "2026-11-21T21:49:46.315866+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 22:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html": {
    "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
@@ -6110,6 +6094,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 10:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108673205/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html": {
+   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673205/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-21T22:15:02+00:00",
+   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108672567/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-van-die-machtige-sprints-tien-te-weinig-dus.html": {
+   "titel": "Peter Bosz prikkelt Ruben van Bommel op weg naar Real Madrid: `Twee van die machtige sprints, tien te weinig dus`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672567/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-van-die-machtige-sprints-tien-te-weinig-dus.html",
+   "tekst": "",
+   "datum": "2026-11-21T21:49:07+00:00",
+   "eerst_gezien": "2026-11-21T21:49:46.315866+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 22:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871": {
    "titel": "A1 Helmond Rit: 138871",
@@ -18490,7 +18507,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18510,7 +18527,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
