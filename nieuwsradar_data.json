@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "22-11-2026 10:53",
+ "bijgewerkt": "22-11-2026 11:09",
  "items": {
+  "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
+   "link": "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/",
+   "tekst": "Na haar vlucht uit Syrië wil de 33-jarige Siba Darwish dolgraag weer voor de klas staan. De voormalige onderwijsassistent moet daarvoor eerst de Nederlandse taal machtig worden. Daarom loopt ze nu alvast stage in Helmond. „Dit is de sleutel tot een mooie baan in Nederland.”",
+   "datum": "2026-11-22T10:00:17+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 11:00"
+  },
   "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/": {
    "titel": "Wáár komt die pakjesboot dan aan? Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
    "link": "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/",
@@ -189,23 +206,6 @@
    "prio": false,
    "tijd": "20-11 17:29"
   },
-  "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/": {
-   "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: ‘Je hebt verleende rechten te respecteren’",
-   "link": "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/",
-   "tekst": "De mogelijke terugkeer van varkens in al jaren leegstaande stallen in Lierop verdeelt de meningen. Sommigen zijn bezorgd om stikstof, anderen zien het probleem niet.",
-   "datum": "2026-11-20T15:30:44+00:00",
-   "eerst_gezien": "2026-11-20T15:34:50.104351+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 16:30"
-  },
   "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/": {
    "titel": "Jeugdzorg in Deurne: 685 jongeren kregen hulp, gemeente gaf vorig jaar minstens 10,2 miljoen euro uit",
    "link": "https://www.ed.nl/deurne/jeugdzorg-in-deurne-685-jongeren-kregen-hulp-gemeente-gaf-vorig-jaar-minstens-10-2-miljoen-euro-uit~a9c1ef08/",
@@ -222,6 +222,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
+  },
+  "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/": {
+   "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: ‘Je hebt verleende rechten te respecteren’",
+   "link": "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/",
+   "tekst": "De mogelijke terugkeer van varkens in al jaren leegstaande stallen in Lierop verdeelt de meningen. Sommigen zijn bezorgd om stikstof, anderen zien het probleem niet.",
+   "datum": "2026-11-20T15:30:44+00:00",
+   "eerst_gezien": "2026-11-20T15:34:50.104351+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 16:30"
   },
   "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
    "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
@@ -3828,6 +3845,72 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676775/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676775/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:04:20+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676769/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html": {
+   "titel": "Van revalidatie naar captain van Dordt en international van Suriname: Jaden Pinas beleeft een bijzonder jaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676769/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:04:08+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 11:04"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676760/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676760/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:03:04+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676748/we-zijn-niet-zomaar-chagrijnig-of-agressief-er-woedt-een-oeroude-strijd-in-ons.html": {
+   "titel": "We zijn niet zomaar chagrijnig of agressief: er woedt een oeroude strijd in ons",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676748/we-zijn-niet-zomaar-chagrijnig-of-agressief-er-woedt-een-oeroude-strijd-in-ons.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:01:06+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 11:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html": {
    "titel": "Man (33) aangehouden na inbraak in Eindhoven, tweede verdachte ontsnapt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108676558/man-33-aangehouden-na-inbraak-in-eindhoven-tweede-verdachte-ontsnapt.html",
@@ -3935,88 +4018,6 @@
    "tekst": "",
    "datum": "2026-11-21T22:42:07+00:00",
    "eerst_gezien": "2026-11-21T22:54:05.653157+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108673876/een-straftraining-is-alleen-maar-voor-de-buhne.html": {
-   "titel": "Een straftraining is alleen maar voor de bühne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673876/een-straftraining-is-alleen-maar-voor-de-buhne.html",
-   "tekst": "Vanmorgen hoorde ik de trainer van FC Dordrecht, Paul Nuyten, met een strak gezicht voor de camera van ESPN vertellen dat zijn spelers...",
-   "datum": "2026-11-21T22:25:05+00:00",
-   "eerst_gezien": "2026-11-21T22:38:17.039441+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 23:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108673366/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs.html": {
-   "titel": "Robine is prof net als haar vader en opa: ´Zijn allemaal even eigenwijs´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673366/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs.html",
-   "tekst": "Haar opa Jos speelde voor MVV en Helmond Sport, vader Ramon (51) voor MVV en Robine (21) is de derde generatie Lacroix die het heeft...",
-   "datum": "2026-11-21T22:17:05+00:00",
-   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108673288/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html": {
-   "titel": "Afgang in Helmond onderstreept: FC Dordrecht is laatste en terug bij af",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673288/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html",
-   "tekst": "",
-   "datum": "2026-11-21T22:16:03+00:00",
-   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 23:16"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108673217/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
-   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673217/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
-   "tekst": "",
-   "datum": "2026-11-21T22:15:03+00:00",
-   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108673213/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint.html": {
-   "titel": "In de winkel in het Kasteel van Sinterklaas proef je de magie letterlijk en figuurlijk: `Papa werkt voor de Sint`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673213/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint.html",
-   "tekst": "",
-   "datum": "2026-11-21T22:15:02+00:00",
-   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4667,6 +4668,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126110450a1somerenrit139320": {
+   "titel": "A1 Someren Rit: 139320",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126110450a1somerenrit139320",
+   "tekst": "Ambulance 22-121 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T11:04:50+01:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "22-11 11:04"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126102951a1somerenrit139309": {
    "titel": "A1 Someren Rit: 139309",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126102951a1somerenrit139309",
@@ -5261,6 +5279,88 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 10:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108673876/een-straftraining-is-alleen-maar-voor-de-buhne.html": {
+   "titel": "Een straftraining is alleen maar voor de bühne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673876/een-straftraining-is-alleen-maar-voor-de-buhne.html",
+   "tekst": "Vanmorgen hoorde ik de trainer van FC Dordrecht, Paul Nuyten, met een strak gezicht voor de camera van ESPN vertellen dat zijn spelers...",
+   "datum": "2026-11-21T22:25:05+00:00",
+   "eerst_gezien": "2026-11-21T22:38:17.039441+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 23:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108673366/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs.html": {
+   "titel": "Robine is prof net als haar vader en opa: ´Zijn allemaal even eigenwijs´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673366/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs.html",
+   "tekst": "Haar opa Jos speelde voor MVV en Helmond Sport, vader Ramon (51) voor MVV en Robine (21) is de derde generatie Lacroix die het heeft...",
+   "datum": "2026-11-21T22:17:05+00:00",
+   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108673288/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html": {
+   "titel": "Afgang in Helmond onderstreept: FC Dordrecht is laatste en terug bij af",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673288/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html",
+   "tekst": "",
+   "datum": "2026-11-21T22:16:03+00:00",
+   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 23:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108673217/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
+   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673217/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
+   "tekst": "",
+   "datum": "2026-11-21T22:15:03+00:00",
+   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108673213/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint.html": {
+   "titel": "In de winkel in het Kasteel van Sinterklaas proef je de magie letterlijk en figuurlijk: `Papa werkt voor de Sint`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673213/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint.html",
+   "tekst": "",
+   "datum": "2026-11-21T22:15:02+00:00",
+   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64819/museum-de-wieger-organiseert-kerstworkshops": {
    "titel": "Museum De Wieger organiseert kerstworkshops",
@@ -5857,23 +5957,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "15-11 11:30"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64656/bas-van-loon-70ste-prins-der-heikneuters": {
-   "titel": "Bas van Loon 70ste Prins der Heikneuters",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64656/bas-van-loon-70ste-prins-der-heikneuters",
-   "tekst": "SINT JOZEFPAROCHIE - Bas van Loon is zaterdagavond uitgeroepen tot de 70ste Prins der Heikneuters. In een volle residentie het Hofke van Marijke werd hij gepresenteerd als Prins Bas d'n Uurste. Hij voert tijdens carnaval de scepter over de Sint Jozefparochie.",
-   "datum": "2026-11-15T10:56:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 10:56"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
@@ -18393,7 +18476,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -18473,7 +18556,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18493,7 +18576,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 36,
    "fout": ""
   },
   "112Brabant": {
