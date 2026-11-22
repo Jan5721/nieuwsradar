@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 09:17",
+ "bijgewerkt": "22-11-2026 09:33",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64819/museum-de-wieger-organiseert-kerstworkshops": {
    "titel": "Museum De Wieger organiseert kerstworkshops",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 09:00"
@@ -2558,57 +2558,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
-  },
   "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
    "titel": "Verkeersveiligheid begint met zichtbaarheid",
    "link": "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid",
@@ -4729,12 +4678,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108676266/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
    "titel": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk' Dit zegt het debat over vroegpensioen bij zwaar werk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676266/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html",
    "tekst": "",
-   "datum": "2026-11-22T08:13:23+00:00",
-   "eerst_gezien": "2026-11-22T08:16:47.549483+00:00",
+   "datum": "2026-11-22T08:19:02+00:00",
+   "eerst_gezien": "2026-11-22T08:32:45.506160+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4744,7 +4693,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "22-11 09:13"
+   "tijd": "22-11 09:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108675991/van-stress-tot-krom-staan-en-zwaar-tillen-wat-maakt-een-baan-zwaar-genoeg-voor-vervroegd-pensioen.html": {
    "titel": "Van stress tot krom staan en zwaar tillen: wat maakt een baan zwaar genoeg voor vervroegd pensioen'",
@@ -4943,23 +4892,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 22:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108672468/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-sprints-tegen-nec-moeten-er-twaalf-zijn.html": {
-   "titel": "Peter Bosz prikkelt Ruben van Bommel op weg naar Real Madrid: `Twee sprints tegen NEC' Moeten er twaalf zijn`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672468/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-sprints-tegen-nec-moeten-er-twaalf-zijn.html",
-   "tekst": "",
-   "datum": "2026-11-21T21:31:03+00:00",
-   "eerst_gezien": "2026-11-21T21:33:50.802132+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 22:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html": {
    "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
@@ -6212,6 +6144,91 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 08:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
+   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
+   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
+   "datum": "2026-11-16T09:12:20+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 10:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676266/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
+   "titel": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk' Dit zegt het debat over vroegpensioen bij zwaar werk",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676266/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html",
+   "tekst": "",
+   "datum": "2026-11-22T08:13:23+00:00",
+   "eerst_gezien": "2026-11-22T08:16:47.549483+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 09:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108672468/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-sprints-tegen-nec-moeten-er-twaalf-zijn.html": {
+   "titel": "Peter Bosz prikkelt Ruben van Bommel op weg naar Real Madrid: `Twee sprints tegen NEC' Moeten er twaalf zijn`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108672468/peter-bosz-prikkelt-ruben-van-bommel-op-weg-naar-real-madrid-twee-sprints-tegen-nec-moeten-er-twaalf-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-21T21:31:03+00:00",
+   "eerst_gezien": "2026-11-21T21:33:50.802132+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 22:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108672426/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html": {
    "titel": "Tim d`n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
@@ -9127,23 +9144,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 16:31"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126092834ongevalwegvervoerletsela50rehelmond7954teindhove": {
-   "titel": "Ongeval wegvervoer letsel A50 Re - Helmond 7 95,4 t Eindhoven",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126092834ongevalwegvervoerletsela50rehelmond7954teindhove",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-20T09:28:34+01:00",
-   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 09:28"
   },
   "https://www.omroepbrabant.nl/nieuws/6033601/in-deurne-gevonden-oehoe-is-vermiste-coco-baasje-krijgt-hem-opgezet-terug": {
    "titel": "In Deurne gevonden oehoe is vermiste Coco, baasje krijgt hem opgezet terug",
@@ -18483,9 +18483,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 3,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -18524,7 +18524,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
