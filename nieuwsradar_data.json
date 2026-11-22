@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 20:47",
+ "bijgewerkt": "22-11-2026 21:03",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -816,6 +816,23 @@
    "prio": false,
    "tijd": "16-11 09:51"
   },
+  "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
+   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘de kroeg in op zondagmiddag’",
+   "link": "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/",
+   "tekst": "Zes cafés, zeven livebands. In Deurnese horecazaken rond de Markt klinken zondag meezingers, rocknummers, oude en nieuwe hits en Elvis-liedjes. Als je wil, kun je overal binnenlopen en van elk optreden iets meepikken.",
+   "datum": "2026-11-22T20:00:56+00:00",
+   "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 21:00"
+  },
   "https://www.ed.nl/asten/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken~ae1b5c36/": {
    "titel": "Loek Sonnemans (30) springt in het diepe als componist: ‘Het voelt helemaal niet als werken’",
    "link": "https://www.ed.nl/asten/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken~ae1b5c36/",
@@ -824,7 +841,8 @@
    "eerst_gezien": "2026-11-22T19:30:59.294161+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
-    "Asten"
+    "Asten",
+    "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
@@ -4593,6 +4611,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html": {
+   "titel": "Loek Sonnemans (30) springt in het diepe als componist: `Het voelt helemaal niet als werken`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html",
+   "tekst": "",
+   "datum": "2026-11-22T19:49:08+00:00",
+   "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten",
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108679434/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter.html": {
    "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108679434/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter.html",
@@ -4819,38 +4854,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
-   "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html",
-   "tekst": "",
-   "datum": "2026-11-22T12:55:05+00:00",
-   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108677692/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
-   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677692/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
-   "tekst": "",
-   "datum": "2026-11-22T12:49:07+00:00",
-   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5301,38 +5304,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:04"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666594/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
-   "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666594/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html",
-   "tekst": "",
-   "datum": "2026-11-20T23:04:03+00:00",
-   "eerst_gezien": "2026-11-20T23:05:12.539931+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
-   "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html",
-   "tekst": "",
-   "datum": "2026-11-20T22:43:01+00:00",
-   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677824/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -5857,6 +5828,70 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 00:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
+   "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html",
+   "tekst": "",
+   "datum": "2026-11-22T12:55:05+00:00",
+   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677692/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
+   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677692/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
+   "tekst": "",
+   "datum": "2026-11-22T12:49:07+00:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666594/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
+   "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666594/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html",
+   "tekst": "",
+   "datum": "2026-11-20T23:04:03+00:00",
+   "eerst_gezien": "2026-11-20T23:05:12.539931+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html": {
+   "titel": "A67 bij Asten weer open na ongeval met meerdere voertuigen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108665840/a67-bij-asten-weer-open-na-ongeval-met-meerdere-voertuigen.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:43:01+00:00",
+   "eerst_gezien": "2026-11-20T22:49:08.736649+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677690/met-bram-als-prins-luuk-liii-krijgt-ganzendonck-een-koninklijk-tintje.html": {
    "titel": "Met Bram als Prins Luuk LIII krijgt Ganzendonck een koninklijk tintje",
@@ -18727,7 +18762,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
@@ -18812,7 +18847,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18822,7 +18857,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Someren": {
