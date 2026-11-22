@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 14:38",
+ "bijgewerkt": "22-11-2026 15:10",
  "items": {
   "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/": {
    "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: ‘Zenuwachtiger dan voor mijn prinsenonthulling’",
@@ -13,7 +13,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 14:30"
@@ -273,23 +273,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 17:04"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs": {
-   "titel": "Robine is prof net als haar vader en opa: 'Zijn allemaal even eigenwijs'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs",
-   "tekst": "Haar opa Jos speelde voor MVV en Helmond Sport, vader Ramon (51) voor MVV en Robine (21) is de derde generatie Lacroix die het heeft geschopt tot het profvoetbal. En dat terwijl de huidige middenveldster van PSV in eerste instantie niet mocht gaan voetballen. De Valkenswaardse …",
-   "datum": "2026-11-21T05:31:00+00:00",
-   "eerst_gezien": "2026-11-21T06:34:32.644226+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 06:31"
   },
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
@@ -3811,6 +3794,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108678045/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling.html": {
+   "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: `Zenuwachtiger dan voor mijn prinsenonthulling`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108678045/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling.html",
+   "tekst": "",
+   "datum": "2026-11-22T13:49:07+00:00",
+   "eerst_gezien": "2026-11-22T14:09:38.259797+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677838/prins-oraculus-zwaait-scepter-over-het-narregat.html": {
    "titel": "Prins Oraculus zwaait scepter over het Narregat",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677838/prins-oraculus-zwaait-scepter-over-het-narregat.html",
@@ -4064,39 +4063,6 @@
    "tekst": "",
    "datum": "2026-11-22T10:11:32+00:00",
    "eerst_gezien": "2026-11-22T10:25:11.395674+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108676769/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html": {
-   "titel": "Van revalidatie naar captain van Dordt en international van Suriname: Jaden Pinas beleeft een bijzonder jaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676769/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html",
-   "tekst": "",
-   "datum": "2026-11-22T10:04:08+00:00",
-   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 11:04"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108676760/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
-   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676760/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
-   "tekst": "",
-   "datum": "2026-11-22T10:03:04+00:00",
-   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4743,7 +4709,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 14:36"
@@ -5138,6 +5104,56 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 17:41"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs": {
+   "titel": "Robine is prof net als haar vader en opa: 'Zijn allemaal even eigenwijs'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs",
+   "tekst": "Haar opa Jos speelde voor MVV en Helmond Sport, vader Ramon (51) voor MVV en Robine (21) is de derde generatie Lacroix die het heeft geschopt tot het profvoetbal. En dat terwijl de huidige middenveldster van PSV in eerste instantie niet mocht gaan voetballen. De Valkenswaardse …",
+   "datum": "2026-11-21T05:31:00+00:00",
+   "eerst_gezien": "2026-11-21T06:34:32.644226+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 06:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676769/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html": {
+   "titel": "Van revalidatie naar captain van Dordt en international van Suriname: Jaden Pinas beleeft een bijzonder jaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676769/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:04:08+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 11:04"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108676760/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108676760/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
+   "tekst": "",
+   "datum": "2026-11-22T10:03:04+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126163718a2helmondrit139054": {
    "titel": "A2 Helmond Rit: 139054",
@@ -8397,23 +8413,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 07:07"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126143845a2helmondrit138581": {
-   "titel": "A2 Helmond Rit: 138581",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126143845a2helmondrit138581",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T14:38:45+01:00",
-   "eerst_gezien": "2026-11-20T13:42:14.898233+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 14:38"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667331/hoe-werkgevers-wraak-nemen-op-verwende-icters.html": {
    "titel": "Hoe werkgevers wraak nemen op verwende ICT`ers",
@@ -18666,7 +18665,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -18731,7 +18730,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18751,7 +18750,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
