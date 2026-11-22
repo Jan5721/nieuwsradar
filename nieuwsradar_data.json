@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 03:23",
+ "bijgewerkt": "22-11-2026 03:39",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
    "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
@@ -4730,6 +4730,567 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126015706a2astenrit139215": {
+   "titel": "A2 Asten Rit: 139215",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126015706a2astenrit139215",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T01:57:06+01:00",
+   "eerst_gezien": "2026-11-22T01:02:58.192767+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 01:57"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126002024a1vlierdenrit139189": {
+   "titel": "A1 Vlierden Rit: 139189",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126002024a1vlierdenrit139189",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T00:20:24+01:00",
+   "eerst_gezien": "2026-11-21T23:26:05.034078+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "22-11 00:20"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126001339a2helmondrit139188": {
+   "titel": "A2 Helmond Rit: 139188",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126001339a2helmondrit139188",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T00:13:39+01:00",
+   "eerst_gezien": "2026-11-21T23:26:05.034078+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 00:13"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126225259a1helmondrit139163": {
+   "titel": "A1 Helmond Rit: 139163",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126225259a1helmondrit139163",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T22:52:59+01:00",
+   "eerst_gezien": "2026-11-21T22:05:50.828749+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 22:52"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126223123a1helmondrit139158": {
+   "titel": "A1 Helmond Rit: 139158",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126223123a1helmondrit139158",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-21T22:31:23+01:00",
+   "eerst_gezien": "2026-11-21T21:33:50.802132+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 22:31"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151": {
+   "titel": "A2 Deurne Rit: 139151",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T21:45:37+01:00",
+   "eerst_gezien": "2026-11-21T20:45:42.335461+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 21:45"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126205636a2liesselrit139137": {
+   "titel": "A2 Liessel Rit: 139137",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126205636a2liesselrit139137",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-21T20:56:36+01:00",
+   "eerst_gezien": "2026-11-21T19:57:46.543769+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 20:56"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126203050a1helmondrit139132": {
+   "titel": "A1 Helmond Rit: 139132",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126203050a1helmondrit139132",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T20:30:50+01:00",
+   "eerst_gezien": "2026-11-21T19:41:46.168150+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 20:30"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126194610a2deurnerit139115": {
+   "titel": "A2 Deurne Rit: 139115",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126194610a2deurnerit139115",
+   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T19:46:10+01:00",
+   "eerst_gezien": "2026-11-21T18:53:42.498084+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 19:46"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183459a2vwshelmondrit139087": {
+   "titel": "A2 VWS Helmond Rit: 139087",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183459a2vwshelmondrit139087",
+   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T18:34:59+01:00",
+   "eerst_gezien": "2026-11-21T17:49:30.587289+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 18:34"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183300a2helmondrit139083": {
+   "titel": "A2 Helmond Rit: 139083",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183300a2helmondrit139083",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T18:33:00+01:00",
+   "eerst_gezien": "2026-11-21T17:33:27.783852+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 18:33"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126174142a1somerenrit139070": {
+   "titel": "A1 Someren Rit: 139070",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126174142a1somerenrit139070",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T17:41:42+01:00",
+   "eerst_gezien": "2026-11-21T16:45:37.335833+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 17:41"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126163718a2helmondrit139054": {
+   "titel": "A2 Helmond Rit: 139054",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126163718a2helmondrit139054",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T16:37:18+01:00",
+   "eerst_gezien": "2026-11-21T15:41:18.295748+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 16:37"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126154039a2helmondrit139027": {
+   "titel": "A2 Helmond Rit: 139027",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126154039a2helmondrit139027",
+   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T15:40:39+01:00",
+   "eerst_gezien": "2026-11-21T14:53:27.302206+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 15:40"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022": {
+   "titel": "A2 Helmond Rit: 139022",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-21T15:32:24+01:00",
+   "eerst_gezien": "2026-11-21T14:37:20.783615+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 15:32"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126152307a1astenrit139015": {
+   "titel": "A1 Asten Rit: 139015",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126152307a1astenrit139015",
+   "tekst": "Ambulance 22-111 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T15:23:07+01:00",
+   "eerst_gezien": "2026-11-21T14:37:20.783615+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 15:23"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008": {
+   "titel": "A2 Helmond Rit: 139008",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008",
+   "tekst": "Ambulance 22-107 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T15:06:40+01:00",
+   "eerst_gezien": "2026-11-21T14:21:14.522956+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 15:06"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003": {
+   "titel": "A0 Helmond Rit: 139003",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T14:50:04+01:00",
+   "eerst_gezien": "2026-11-21T14:05:15.466052+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 14:50"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126144040p1bob01reanimatiedahliastraathelmond223231": {
+   "titel": "P 1 BOB-01 Reanimatie Dahliastraat Helmond 223231",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126144040p1bob01reanimatiedahliastraathelmond223231",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-21T14:40:40+01:00",
+   "eerst_gezien": "2026-11-21T13:49:22.746102+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 14:40"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126140833a2helmondrit138987": {
+   "titel": "A2 Helmond Rit: 138987",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126140833a2helmondrit138987",
+   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
+   "datum": "2026-11-21T14:08:33+01:00",
+   "eerst_gezien": "2026-11-21T13:17:12.070237+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 14:08"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126135137a2helmondrit138978": {
+   "titel": "A2 Helmond Rit: 138978",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126135137a2helmondrit138978",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T13:51:37+01:00",
+   "eerst_gezien": "2026-11-21T13:01:02.944962+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 13:51"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950": {
+   "titel": "A1 Helmond Rit: 138950",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950",
+   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T12:25:41+01:00",
+   "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 12:25"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126121457a1helmondrit138945": {
+   "titel": "A1 Helmond Rit: 138945",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126121457a1helmondrit138945",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T12:14:57+01:00",
+   "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 12:14"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126121325a2somerenrit138944": {
+   "titel": "A2 Someren Rit: 138944",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126121325a2somerenrit138944",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T12:13:25+01:00",
+   "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 12:13"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126120014a2helmondrit138938": {
+   "titel": "A2 Helmond Rit: 138938",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126120014a2helmondrit138938",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-21T12:00:14+01:00",
+   "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 12:00"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126115515a1helmondrit138935": {
+   "titel": "A1 Helmond Rit: 138935",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126115515a1helmondrit138935",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T11:55:15+01:00",
+   "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 11:55"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905": {
+   "titel": "A1 Asten Rit: 138905",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T10:33:42+01:00",
+   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 10:33"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898": {
+   "titel": "A2 Asten Rit: 138898",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T10:21:55+01:00",
+   "eerst_gezien": "2026-11-21T09:31:26.039506+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 10:21"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871": {
+   "titel": "A1 Helmond Rit: 138871",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T09:11:04+01:00",
+   "eerst_gezien": "2026-11-21T08:10:48.075968+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 09:11"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126085921a1helmondrit138867": {
+   "titel": "A1 Helmond Rit: 138867",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126085921a1helmondrit138867",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-21T08:59:21+01:00",
+   "eerst_gezien": "2026-11-21T08:10:48.075968+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "21-11 08:59"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126071816a2helmondrit138851": {
+   "titel": "A2 Helmond Rit: 138851",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126071816a2helmondrit138851",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T07:18:16+01:00",
+   "eerst_gezien": "2026-11-21T06:18:27.427731+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 07:18"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126040659a2helmondrit138830": {
+   "titel": "A2 Helmond Rit: 138830",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126040659a2helmondrit138830",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T04:06:59+01:00",
+   "eerst_gezien": "2026-11-21T03:05:50.450604+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 04:06"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126032706a2helmondrit138824": {
+   "titel": "A2 Helmond Rit: 138824",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126032706a2helmondrit138824",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-21T03:27:06+01:00",
+   "eerst_gezien": "2026-11-21T02:33:51.158084+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "21-11 03:27"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108674666/grootste-kinderspandoek-van-drenthe-wordt-bij-fc-emmen-onthuld.html": {
    "titel": "Grootste kinderspandoek van Drenthe wordt bij FC Emmen onthuld",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108674666/grootste-kinderspandoek-van-drenthe-wordt-bij-fc-emmen-onthuld.html",
@@ -5583,567 +6144,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126015706a2astenrit139215": {
-   "titel": "A2 Asten Rit: 139215",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126015706a2astenrit139215",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T01:57:06+01:00",
-   "eerst_gezien": "2026-11-22T01:02:58.192767+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 01:57"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126002024a1vlierdenrit139189": {
-   "titel": "A1 Vlierden Rit: 139189",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126002024a1vlierdenrit139189",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T00:20:24+01:00",
-   "eerst_gezien": "2026-11-21T23:26:05.034078+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "22-11 00:20"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126001339a2helmondrit139188": {
-   "titel": "A2 Helmond Rit: 139188",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126001339a2helmondrit139188",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T00:13:39+01:00",
-   "eerst_gezien": "2026-11-21T23:26:05.034078+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 00:13"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126225259a1helmondrit139163": {
-   "titel": "A1 Helmond Rit: 139163",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126225259a1helmondrit139163",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T22:52:59+01:00",
-   "eerst_gezien": "2026-11-21T22:05:50.828749+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 22:52"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126223123a1helmondrit139158": {
-   "titel": "A1 Helmond Rit: 139158",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126223123a1helmondrit139158",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-21T22:31:23+01:00",
-   "eerst_gezien": "2026-11-21T21:33:50.802132+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 22:31"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151": {
-   "titel": "A2 Deurne Rit: 139151",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T21:45:37+01:00",
-   "eerst_gezien": "2026-11-21T20:45:42.335461+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 21:45"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126205636a2liesselrit139137": {
-   "titel": "A2 Liessel Rit: 139137",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126205636a2liesselrit139137",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-21T20:56:36+01:00",
-   "eerst_gezien": "2026-11-21T19:57:46.543769+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 20:56"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126203050a1helmondrit139132": {
-   "titel": "A1 Helmond Rit: 139132",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126203050a1helmondrit139132",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T20:30:50+01:00",
-   "eerst_gezien": "2026-11-21T19:41:46.168150+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 20:30"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126194610a2deurnerit139115": {
-   "titel": "A2 Deurne Rit: 139115",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126194610a2deurnerit139115",
-   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T19:46:10+01:00",
-   "eerst_gezien": "2026-11-21T18:53:42.498084+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 19:46"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183459a2vwshelmondrit139087": {
-   "titel": "A2 VWS Helmond Rit: 139087",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183459a2vwshelmondrit139087",
-   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T18:34:59+01:00",
-   "eerst_gezien": "2026-11-21T17:49:30.587289+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 18:34"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183300a2helmondrit139083": {
-   "titel": "A2 Helmond Rit: 139083",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183300a2helmondrit139083",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T18:33:00+01:00",
-   "eerst_gezien": "2026-11-21T17:33:27.783852+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 18:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126174142a1somerenrit139070": {
-   "titel": "A1 Someren Rit: 139070",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126174142a1somerenrit139070",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T17:41:42+01:00",
-   "eerst_gezien": "2026-11-21T16:45:37.335833+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 17:41"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126163718a2helmondrit139054": {
-   "titel": "A2 Helmond Rit: 139054",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126163718a2helmondrit139054",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T16:37:18+01:00",
-   "eerst_gezien": "2026-11-21T15:41:18.295748+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 16:37"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126154039a2helmondrit139027": {
-   "titel": "A2 Helmond Rit: 139027",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126154039a2helmondrit139027",
-   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T15:40:39+01:00",
-   "eerst_gezien": "2026-11-21T14:53:27.302206+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 15:40"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022": {
-   "titel": "A2 Helmond Rit: 139022",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-21T15:32:24+01:00",
-   "eerst_gezien": "2026-11-21T14:37:20.783615+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 15:32"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126152307a1astenrit139015": {
-   "titel": "A1 Asten Rit: 139015",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126152307a1astenrit139015",
-   "tekst": "Ambulance 22-111 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T15:23:07+01:00",
-   "eerst_gezien": "2026-11-21T14:37:20.783615+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 15:23"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008": {
-   "titel": "A2 Helmond Rit: 139008",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008",
-   "tekst": "Ambulance 22-107 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T15:06:40+01:00",
-   "eerst_gezien": "2026-11-21T14:21:14.522956+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 15:06"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003": {
-   "titel": "A0 Helmond Rit: 139003",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T14:50:04+01:00",
-   "eerst_gezien": "2026-11-21T14:05:15.466052+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 14:50"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126144040p1bob01reanimatiedahliastraathelmond223231": {
-   "titel": "P 1 BOB-01 Reanimatie Dahliastraat Helmond 223231",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126144040p1bob01reanimatiedahliastraathelmond223231",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-21T14:40:40+01:00",
-   "eerst_gezien": "2026-11-21T13:49:22.746102+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 14:40"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126140833a2helmondrit138987": {
-   "titel": "A2 Helmond Rit: 138987",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126140833a2helmondrit138987",
-   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
-   "datum": "2026-11-21T14:08:33+01:00",
-   "eerst_gezien": "2026-11-21T13:17:12.070237+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 14:08"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126135137a2helmondrit138978": {
-   "titel": "A2 Helmond Rit: 138978",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126135137a2helmondrit138978",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T13:51:37+01:00",
-   "eerst_gezien": "2026-11-21T13:01:02.944962+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 13:51"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950": {
-   "titel": "A1 Helmond Rit: 138950",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950",
-   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T12:25:41+01:00",
-   "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 12:25"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126121457a1helmondrit138945": {
-   "titel": "A1 Helmond Rit: 138945",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126121457a1helmondrit138945",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T12:14:57+01:00",
-   "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 12:14"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126121325a2somerenrit138944": {
-   "titel": "A2 Someren Rit: 138944",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126121325a2somerenrit138944",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T12:13:25+01:00",
-   "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 12:13"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126120014a2helmondrit138938": {
-   "titel": "A2 Helmond Rit: 138938",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126120014a2helmondrit138938",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-21T12:00:14+01:00",
-   "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 12:00"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126115515a1helmondrit138935": {
-   "titel": "A1 Helmond Rit: 138935",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126115515a1helmondrit138935",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T11:55:15+01:00",
-   "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 11:55"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905": {
-   "titel": "A1 Asten Rit: 138905",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T10:33:42+01:00",
-   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 10:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898": {
-   "titel": "A2 Asten Rit: 138898",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T10:21:55+01:00",
-   "eerst_gezien": "2026-11-21T09:31:26.039506+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 10:21"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871": {
-   "titel": "A1 Helmond Rit: 138871",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T09:11:04+01:00",
-   "eerst_gezien": "2026-11-21T08:10:48.075968+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 09:11"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126085921a1helmondrit138867": {
-   "titel": "A1 Helmond Rit: 138867",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126085921a1helmondrit138867",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-21T08:59:21+01:00",
-   "eerst_gezien": "2026-11-21T08:10:48.075968+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 08:59"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126071816a2helmondrit138851": {
-   "titel": "A2 Helmond Rit: 138851",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126071816a2helmondrit138851",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T07:18:16+01:00",
-   "eerst_gezien": "2026-11-21T06:18:27.427731+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 07:18"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126040659a2helmondrit138830": {
-   "titel": "A2 Helmond Rit: 138830",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126040659a2helmondrit138830",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T04:06:59+01:00",
-   "eerst_gezien": "2026-11-21T03:05:50.450604+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 04:06"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126032706a2helmondrit138824": {
-   "titel": "A2 Helmond Rit: 138824",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126032706a2helmondrit138824",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T03:27:06+01:00",
-   "eerst_gezien": "2026-11-21T02:33:51.158084+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 03:27"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126021436a2somerenrit138803": {
    "titel": "A2 Someren Rit: 138803",
@@ -9143,23 +9143,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 04:34"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126032934a1somerenrit138316": {
-   "titel": "A1 Someren Rit: 138316",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126032934a1somerenrit138316",
-   "tekst": "Ambulance 22-121 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T03:29:34+01:00",
-   "eerst_gezien": "2026-11-20T02:43:12.181274+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 03:29"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
    "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
@@ -18321,24 +18304,24 @@
    "fout": ""
   },
   "Drimble Helmond": {
-   "ok": true,
-   "aantal": 14,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Deurne": {
-   "ok": true,
-   "aantal": 14,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Asten": {
-   "ok": true,
-   "aantal": 15,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "Drimble Someren": {
-   "ok": true,
-   "aantal": 8,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 403: Forbidden"
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
