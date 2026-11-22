@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 14:06",
+ "bijgewerkt": "22-11-2026 14:22",
  "items": {
   "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -3811,6 +3811,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677838/prins-oraculus-zwaait-scepter-over-het-narregat.html": {
+   "titel": "Prins Oraculus zwaait scepter over het Narregat",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677838/prins-oraculus-zwaait-scepter-over-het-narregat.html",
+   "tekst": "",
+   "datum": "2026-11-22T13:13:25+00:00",
+   "eerst_gezien": "2026-11-22T13:21:47.692116+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 14:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677730/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
    "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677730/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html",
@@ -3823,7 +3840,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 14:01"
@@ -3840,10 +3857,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 14:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
    "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
@@ -3857,7 +3873,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4582,12 +4598,12 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108677824/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677824/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
    "tekst": "",
-   "datum": "2026-11-22T13:04:21+00:00",
-   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "datum": "2026-11-22T13:11:22+00:00",
+   "eerst_gezien": "2026-11-22T13:21:47.692116+00:00",
    "bron": "Drimble Someren",
    "gemeenten": [
     "Someren"
@@ -4714,6 +4730,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126141524ongevalwegvervoerletselwillemprinzenpleinuiverla": {
+   "titel": "Ongeval wegvervoer letsel Willem Prinzenplein Uiverlaan Helmond",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126141524ongevalwegvervoerletselwillemprinzenpleinuiverla",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-22T14:15:24+01:00",
+   "eerst_gezien": "2026-11-22T13:21:47.692116+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 14:15"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134512ongevalwegvervoerletseluiverlaanhelmond": {
    "titel": "Ongeval wegvervoer letsel Uiverlaan Helmond",
@@ -5173,6 +5206,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 15:06"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
+   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html",
+   "tekst": "",
+   "datum": "2026-11-22T13:04:21+00:00",
+   "eerst_gezien": "2026-11-22T13:05:40.390685+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126145004a0helmondrit139003": {
    "titel": "A0 Helmond Rit: 139003",
@@ -18665,7 +18714,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18685,7 +18734,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 28,
    "fout": ""
   },
   "112Brabant": {
