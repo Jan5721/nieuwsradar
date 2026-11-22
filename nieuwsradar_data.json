@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 12:29",
+ "bijgewerkt": "22-11-2026 12:45",
  "items": {
   "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
@@ -232,23 +232,6 @@
    "bron": "ED Asten",
    "gemeenten": [
     "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 17:29"
-  },
-  "https://www.ed.nl/someren/jeugdzorg-in-someren-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-6-3-miljoen-euro-uit~a951066f/": {
-   "titel": "Jeugdzorg in Someren: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 6,3 miljoen euro uit",
-   "link": "https://www.ed.nl/someren/jeugdzorg-in-someren-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-6-3-miljoen-euro-uit~a951066f/",
-   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Someren kreeg in de eerste helft van dit jaar 7 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 345 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 6,3 miljoen euro uit aan …",
-   "datum": "2026-11-20T16:29:00+00:00",
-   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
    ],
    "soort": "regionale pers",
    "betaald": true,
@@ -3828,6 +3811,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677305/honderd-sterren-voor-sinterklaas-die-in-kasteel-geldrop-en-heeze-heel-veel-kinderen-ontvangt.html": {
+   "titel": "Honderd sterren voor Sinterklaas, die in Kasteel Geldrop en Heeze heel veel kinderen ontvangt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677305/honderd-sterren-voor-sinterklaas-die-in-kasteel-geldrop-en-heeze-heel-veel-kinderen-ontvangt.html",
+   "tekst": "",
+   "datum": "2026-11-22T11:43:29+00:00",
+   "eerst_gezien": "2026-11-22T11:45:23.611922+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 12:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677176/in-dit-veghelse-clubhuis-krijgt-iedereen-de-code-zodat-niemand-zich-buitengesloten-voelt-het-gaat-bij-ons-vooral-om-de-gezelligheid.html": {
    "titel": "In dit Veghelse clubhuis krijgt iedereen de code, zodat niemand zich buitengesloten voelt: `Het gaat bij ons vooral om de gezelligheid`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677176/in-dit-veghelse-clubhuis-krijgt-iedereen-de-code-zodat-niemand-zich-buitengesloten-voelt-het-gaat-bij-ons-vooral-om-de-gezelligheid.html",
@@ -3840,7 +3840,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 12:19"
@@ -3857,7 +3857,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 12:19"
@@ -3874,7 +3874,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3890,7 +3890,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5244,6 +5244,23 @@
    "prio": false,
    "tijd": "21-11 12:13"
   },
+  "https://www.ed.nl/someren/jeugdzorg-in-someren-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-6-3-miljoen-euro-uit~a951066f/": {
+   "titel": "Jeugdzorg in Someren: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 6,3 miljoen euro uit",
+   "link": "https://www.ed.nl/someren/jeugdzorg-in-someren-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-6-3-miljoen-euro-uit~a951066f/",
+   "tekst": "Van alle kinderen en jongeren tot 23 jaar in Someren kreeg in de eerste helft van dit jaar 7 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 345 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 6,3 miljoen euro uit aan …",
+   "datum": "2026-11-20T16:29:00+00:00",
+   "eerst_gezien": "2026-11-20T16:39:42.584833+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 17:29"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126120014a2helmondrit138938": {
    "titel": "A2 Helmond Rit: 138938",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126120014a2helmondrit138938",
@@ -6020,23 +6037,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "15-11 13:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64659/harm-van-de-mortel-nieuwe-prins-van-c-s-de-kei": {
-   "titel": "Harm van de Mortel nieuwe Prins van C.S. De Kei",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64659/harm-van-de-mortel-nieuwe-prins-van-c-s-de-kei",
-   "tekst": "LIESSEL - Harm van de Mortel (26) is zaterdag tijdens het KEI-festijn uitgeroepen tot Prins Harm d'n Uurste van C.S. De Kei. Hij gaat tijdens carnaval voorop in het feestgedruis in Liessel.",
-   "datum": "2026-11-15T12:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 12:30"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
@@ -18381,23 +18381,6 @@
    "prio": false,
    "tijd": "16-11 11:49"
   },
-  "https://112brabant.nl/2026/11/15/twee-autos-botsen-hard-kinderen-krijgen-knuffelbeer-van-agenten/": {
-   "titel": "Twee auto’s botsen hard, kinderen krijgen knuffelbeer van agenten",
-   "link": "https://112brabant.nl/2026/11/15/twee-autos-botsen-hard-kinderen-krijgen-knuffelbeer-van-agenten/",
-   "tekst": "HELMOND - Op de Maaslaan in Helmond heeft een aanrijding plaatsgevonden waarbij twee personenauto's betrokken waren. Beide voertuigen liepen hierbij aanzienlijke schade op. De inzittenden kwamen er relatief goed vanaf.",
-   "datum": "2026-11-15T11:45:02+00:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 12:45"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108614243/weggelopen-patient-vertrok-uit-ziekenhuis-in-dusseldorf-bleek-identiteit-van-eindhovenaar-te-misbruiken.html": {
    "titel": "Weggelopen patiënt vertrok uit ziekenhuis in Düsseldorf, bleek identiteit van Eindhovenaar te misbruiken",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108614243/weggelopen-patient-vertrok-uit-ziekenhuis-in-dusseldorf-bleek-identiteit-van-eindhovenaar-te-misbruiken.html",
@@ -18464,7 +18447,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -18534,7 +18517,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18554,7 +18537,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
