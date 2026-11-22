@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 22:07",
+ "bijgewerkt": "22-11-2026 22:23",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -5266,7 +5266,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 21:53"
@@ -7671,23 +7671,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "20-11 22:37"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126221808a2helmondrit138735": {
-   "titel": "A2 Helmond Rit: 138735",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126221808a2helmondrit138735",
-   "tekst": "Ambulance 22-120 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-20T22:18:08+01:00",
-   "eerst_gezien": "2026-11-20T21:28:45.717366+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 22:18"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108670369/gusto-040-pakt-uit-met-mediterrane-smaken-in-een-levendig-zonnig-decor.html": {
    "titel": "Gusto-040 pakt uit met mediterrane smaken in een levendig, zonnig decor",
@@ -18848,7 +18831,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
