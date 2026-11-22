@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 23:28",
+ "bijgewerkt": "22-11-2026 23:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4623,7 +4623,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4639,7 +4639,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4872,7 +4872,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -6106,23 +6106,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 22:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html": {
-   "titel": "De Klot sluit jubileumjaar af met flinke dosis Astense humor",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108610613/de-klot-sluit-jubileumjaar-af-met-flinke-dosis-astense-humor.html",
-   "tekst": "",
-   "datum": "2026-11-15T22:42:08+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 23:42"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#211126214537a2deurnerit139151": {
    "titel": "A2 Deurne Rit: 139151",
@@ -18793,7 +18776,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 20,
    "fout": ""
   },
   "112Brabant": {
