@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 11:25",
+ "bijgewerkt": "22-11-2026 11:41",
  "items": {
   "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
@@ -3857,7 +3857,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3873,7 +3873,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 11:13"
@@ -3890,7 +3890,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5988,23 +5988,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "15-11 12:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64657/jan-stevens-en-peppone-klaus-gaan-voorop-bij-de-pottenbakkers": {
-   "titel": "Jan Stevens en Peppone Klaus gaan voorop bij de Pottenbakkers",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64657/jan-stevens-en-peppone-klaus-gaan-voorop-bij-de-pottenbakkers",
-   "tekst": "ZEILBERG - Jan Stevens en Peppone Klaus zijn zaterdag 14 november uitgeroepen tot het nieuwe prinsenpaar van de Pottenbakkers. De presentatie vond plaats in zaal De Zwaan. Het paar wordt tijdens carnaval bijgestaan door adjudanten Mark en Frans.",
-   "datum": "2026-11-15T11:30:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 11:30"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
@@ -18624,7 +18607,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
