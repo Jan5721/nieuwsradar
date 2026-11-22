@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 17:02",
+ "bijgewerkt": "22-11-2026 17:18",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64807/schaakvereniging-deurne-houdt-open-schaakavond-voor-senioren": {
    "titel": "Schaakvereniging Deurne houdt open schaakavond voor senioren",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 15:50"
@@ -30,7 +30,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 11:45"
@@ -994,7 +994,7 @@
    "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
    "datum": "2026-11-21T08:15:00+00:00",
    "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Helmond"
    ],
@@ -18594,12 +18594,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
