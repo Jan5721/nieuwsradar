@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 19:43",
+ "bijgewerkt": "22-11-2026 19:59",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -5076,6 +5076,23 @@
    "prio": false,
    "tijd": "21-11 08:40"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108679761/ramon-weren-nieuwe-prins-van-carnavalsvereniging-de-plekkers-in-asten.html": {
+   "titel": "Ramon Weren nieuwe prins van carnavalsvereniging De Plekkers in Asten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679761/ramon-weren-nieuwe-prins-van-carnavalsvereniging-de-plekkers-in-asten.html",
+   "tekst": "De Plekkers heeft in de persoon van Ramon Weren een nieuwe prins gevonden. Het is de 57e prins in de geschiedenis van de Astense carnavalsvereniging....",
+   "datum": "2026-11-22T18:53:03+00:00",
+   "eerst_gezien": "2026-11-22T18:58:43.480856+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 19:53"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
    "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html",
@@ -5432,6 +5449,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126195637a2helmondrit139499": {
+   "titel": "A2 Helmond Rit: 139499",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126195637a2helmondrit139499",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T19:56:37+01:00",
+   "eerst_gezien": "2026-11-22T18:58:43.480856+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 19:56"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126185804a2deurnerit139482": {
    "titel": "A2 Deurne Rit: 139482",
@@ -7872,24 +7906,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html": {
-   "titel": "Swingend Someren nadert koploper Deurne: `Laten we vooral rustig blijven`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108608358/swingend-someren-nadert-koploper-deurne-laten-we-vooral-rustig-blijven.html",
-   "tekst": "",
-   "datum": "2026-11-15T18:45:03+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 19:45"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108666010/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken.html": {
    "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108666010/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken.html",
@@ -8101,23 +8117,6 @@
    "prio": false,
    "tijd": "21-11 10:36"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194629a2deurnerit138684": {
-   "titel": "A2 Deurne Rit: 138684",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194629a2deurnerit138684",
-   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
-   "datum": "2026-11-20T19:46:29+01:00",
-   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "20-11 19:46"
-  },
   "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/": {
    "titel": "Dagje shoppen: dit is het dichtstbijzijnde outletcentrum vanuit Helmond",
    "link": "https://www.ed.nl/helmond/fashion-outletcentrum-dicht-bij-helmond~a85e9399/",
@@ -8167,23 +8166,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur": {
-   "titel": "P 1 BOB-02 BR onderwijs BS De Zeilberg Margrietstraat Deurne 223251",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#201126194302p1bob02bronderwijsbsdezeilbergmargrietstraatdeur",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-20T19:43:02+01:00",
-   "eerst_gezien": "2026-11-20T18:48:13.705906+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "20-11 19:43"
   },
   "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
    "titel": "Grote brand bij basisschool, veel rook komt vrij",
@@ -18823,7 +18805,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Someren": {
@@ -18833,7 +18815,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
