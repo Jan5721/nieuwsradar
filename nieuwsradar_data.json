@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 23:44",
+ "bijgewerkt": "23-11-2026 00:01",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -2507,40 +2507,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 10:12"
-  },
-  "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
-   "titel": "Verkeersveiligheid begint met zichtbaarheid",
-   "link": "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid",
-   "tekst": "",
-   "datum": "2026-11-16T00:00:00+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen": {
-   "titel": "Deurne wint NK Tegelwippen in de Brabantse Peeldorpen",
-   "link": "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen",
-   "tekst": "",
-   "datum": "2026-11-16T00:00:00+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 01:00"
   },
   "https://www.asten.nl/nieuws/artikel/blog-40-een-inkijkje-in-het-werkleven-van-de-burgemeester": {
    "titel": "Blog 40: Een inkijkje in het werkleven van de burgemeester",
@@ -5758,6 +5724,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 06:31"
+  },
+  "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid": {
+   "titel": "Verkeersveiligheid begint met zichtbaarheid",
+   "link": "https://www.deurne.nl/nieuws/verkeersveiligheid-begint-met-zichtbaarheid",
+   "tekst": "",
+   "datum": "2026-11-16T00:00:00+00:00",
+   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen": {
+   "titel": "Deurne wint NK Tegelwippen in de Brabantse Peeldorpen",
+   "link": "https://www.deurne.nl/nieuws/deurne-wint-nk-tegelwippen",
+   "tekst": "",
+   "datum": "2026-11-16T00:00:00+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 01:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126015706a2astenrit139215": {
    "titel": "A2 Asten Rit: 139215",
@@ -18720,9 +18720,9 @@
    "fout": ""
   },
   "Gemeente Deurne": {
-   "ok": true,
-   "aantal": 2,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   "Gemeente Asten": {
    "ok": true,
