@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 17:51",
+ "bijgewerkt": "22-11-2026 18:07",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64807/schaakvereniging-deurne-houdt-open-schaakavond-voor-senioren": {
    "titel": "Schaakvereniging Deurne houdt open schaakavond voor senioren",
@@ -1034,7 +1034,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 17:38"
@@ -2405,23 +2405,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.omroepbrabant.nl/nieuws/6033998/extreem-veel-egels-in-de-wildopvang-ze-kunnen-geen-voedsel-vinden": {
-   "titel": "Extreem veel egels in de wildopvang: 'Ze kunnen geen voedsel vinden'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6033998/extreem-veel-egels-in-de-wildopvang-ze-kunnen-geen-voedsel-vinden",
-   "tekst": "8 november 2026 Het gaat niet goed met de egels in Nederland. Volgens Natuurmonumenten worden jaarlijks 135.000 egels doodgereden, maar de dieren hebben ook moeite om voedsel te vinden. Bij Stichting Wildopvang Someren in Lierop is het …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
   "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
    "titel": "Pitchavond subsidie Street Culture en Sports",
    "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
@@ -2574,23 +2557,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:07"
-  },
-  "https://www.asten.nl/nieuws/artikel/kunst-op-straat-in-asten": {
-   "titel": "Kunst op straat in Asten",
-   "link": "https://www.asten.nl/nieuws/artikel/kunst-op-straat-in-asten",
-   "tekst": "Wandel mee langs de kunst in Asten op 21 november 2026.",
-   "datum": "2026-11-16T17:03:52+00:00",
-   "eerst_gezien": "2026-11-16T17:21:46.617640+00:00",
-   "bron": "Gemeente Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 18:03"
   },
   "https://www.someren.nl/nieuws/artikel/stevig-blijven-staan-zodat-u-kunt-blijven-doen-wat-u-graag-doet": {
    "titel": "Stevig blijven staan, zodat u kunt blijven doen wat u graag doet!",
@@ -4605,7 +4571,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 17:49"
@@ -4622,7 +4588,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 17:49"
@@ -4887,7 +4853,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 17:45"
@@ -5499,6 +5465,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126175314a2deurnerit139454": {
+   "titel": "A2 Deurne Rit: 139454",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126175314a2deurnerit139454",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-22T17:53:14+01:00",
+   "eerst_gezien": "2026-11-22T17:06:30.494601+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "22-11 17:53"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126163346a1astenrit139428": {
    "titel": "A1 Asten Rit: 139428",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126163346a1astenrit139428",
@@ -5855,6 +5838,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 21:45"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6033998/extreem-veel-egels-in-de-wildopvang-ze-kunnen-geen-voedsel-vinden": {
+   "titel": "Extreem veel egels in de wildopvang: 'Ze kunnen geen voedsel vinden'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6033998/extreem-veel-egels-in-de-wildopvang-ze-kunnen-geen-voedsel-vinden",
+   "tekst": "8 november 2026 Het gaat niet goed met de egels in Nederland. Volgens Natuurmonumenten worden jaarlijks 135.000 egels doodgereden, maar de dieren hebben ook moeite om voedsel te vinden. Bij Stichting Wildopvang Someren in Lierop is het …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://www.asten.nl/nieuws/artikel/kunst-op-straat-in-asten": {
+   "titel": "Kunst op straat in Asten",
+   "link": "https://www.asten.nl/nieuws/artikel/kunst-op-straat-in-asten",
+   "tekst": "Wandel mee langs de kunst in Asten op 21 november 2026.",
+   "datum": "2026-11-16T17:03:52+00:00",
+   "eerst_gezien": "2026-11-16T17:21:46.617640+00:00",
+   "bron": "Gemeente Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 18:03"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677665/met-bram-als-prins-luuk-liii-krijgt-ganzendonck-een-koninklijk-tintje.html": {
    "titel": "Met Bram als Prins Luuk LIII krijgt Ganzendonck een koninklijk tintje",
@@ -17613,23 +17630,6 @@
    "prio": false,
    "tijd": "15-11 19:01"
   },
-  "https://www.ed.nl/helmond/jan-vriends-maakte-de-stripwereld-nog-gezelliger~ac377bb3/": {
-   "titel": "Jan Vriends maakte de stripwereld nog gezelliger",
-   "link": "https://www.ed.nl/helmond/jan-vriends-maakte-de-stripwereld-nog-gezelliger~ac377bb3/",
-   "tekst": "Als Stripmaker der Nederlanden zocht Helmonder Jan Vriends de samenwerking. De derde Stripmakersdagen, die afgelopen weekeinde in de Cacaofabriek gehouden werden, zijn daar een mooi voorbeeld van.",
-   "datum": "2026-11-15T17:00:43+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "15-11 18:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html": {
    "titel": "Junioravond in Geldrop staat in het teken van reuzenplaneten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html",
@@ -18734,7 +18734,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18749,7 +18749,7 @@
   },
   "Gemeente Asten": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "Gemeente Someren": {
@@ -18799,7 +18799,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
