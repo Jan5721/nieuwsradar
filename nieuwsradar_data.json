@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "22-11-2026 19:59",
+ "bijgewerkt": "22-11-2026 20:15",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -1740,7 +1740,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel": {
    "titel": "Nieuwbouwwoning mag gebouwd worden aan Buntseweg in Liessel",
    "link": "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel",
-   "tekst": "maandag De gemeente heeft een vergunning verleend voor het bouwen van een nieuwbouwwoning aan de Buntseweg in Liessel. Het besluit is op 12 november genomen.",
+   "tekst": "16 november 2026 De gemeente heeft een vergunning verleend voor het bouwen van een nieuwbouwwoning aan de Buntseweg in Liessel. Het besluit is op 12 november genomen.",
    "datum": "2026-11-16T15:24:37.551385+00:00",
    "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1757,7 +1757,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal": {
    "titel": "Reflection Day in Deurne: zichtbaarheid in verkeer centraal",
    "link": "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal",
-   "tekst": "maandag In Deurne heeft wethouder Wouter Bulten basisschoolleerlingen bewust gemaakt van het belang van zichtbaarheid in het verkeer. Dit gebeurde tijdens Reflection Day, een campagne die al tien jaar aandacht vraagt voor …",
+   "tekst": "16 november 2026 In Deurne heeft wethouder Wouter Bulten basisschoolleerlingen bewust gemaakt van het belang van zichtbaarheid in het verkeer. Dit gebeurde tijdens Reflection Day, een campagne die al tien jaar aandacht vraagt voor …",
    "datum": "2026-11-16T15:56:49.505092+00:00",
    "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1980,7 +1980,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming": {
    "titel": "Voormalige boerderij in Ommel krijgt nieuwe bestemming",
    "link": "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming",
-   "tekst": "maandag Een voormalige agrarische bedrijfslocatie in Ommel wordt herontwikkeld tot twee woningen. De gemeente Asten heeft hiervoor op 12 november een omgevingsvergunning verleend.",
+   "tekst": "16 november 2026 Een voormalige agrarische bedrijfslocatie in Ommel wordt herontwikkeld tot twee woningen. De gemeente Asten heeft hiervoor op 12 november een omgevingsvergunning verleend.",
    "datum": "2026-11-16T15:24:37.551385+00:00",
    "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2238,7 +2238,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind": {
    "titel": "Sinterklaas arriveert per boot in Someren-Eind",
    "link": "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind",
-   "tekst": "maandag Sinterklaas is per boot aangekomen in Someren-Eind en feestelijk onthaald.",
+   "tekst": "16 november 2026 Sinterklaas is per boot aangekomen in Someren-Eind en feestelijk onthaald.",
    "datum": "2026-11-16T15:56:49.505092+00:00",
    "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -5088,7 +5088,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 19:53"
@@ -5462,7 +5462,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 19:56"
