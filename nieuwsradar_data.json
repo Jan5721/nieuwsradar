@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 00:33",
+ "bijgewerkt": "23-11-2026 00:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -5431,7 +5431,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
@@ -7532,23 +7532,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 00:50"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126004719a2helmondrit138779": {
-   "titel": "A2 Helmond Rit: 138779",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126004719a2helmondrit138779",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T00:47:19+01:00",
-   "eerst_gezien": "2026-11-20T23:53:19.846277+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 00:47"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
