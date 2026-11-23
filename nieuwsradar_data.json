@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 19:19",
+ "bijgewerkt": "23-11-2026 19:35",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -1055,23 +1055,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 10:14"
-  },
-  "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
-   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
-   "link": "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/",
-   "tekst": "Woonachtig in buurtschap ’t Kapelleke, maar tijdens het komende carnaval het gezicht van carnavalsvereniging De Keijepaol uit Someren-Heide: Ron Breukers (44) is samen met prinses Liesbeth de 63e regent.",
-   "datum": "2026-11-22T12:45:00+00:00",
-   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 13:45"
   },
   "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
    "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
@@ -5944,6 +5927,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 03:31"
+  },
+  "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
+   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
+   "link": "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/",
+   "tekst": "Woonachtig in buurtschap ’t Kapelleke, maar tijdens het komende carnaval het gezicht van carnavalsvereniging De Keijepaol uit Someren-Heide: Ron Breukers (44) is samen met prinses Liesbeth de 63e regent.",
+   "datum": "2026-11-22T12:45:00+00:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 13:45"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126030508a2deurnerit139610": {
    "titel": "A2 Deurne Rit: 139610",
@@ -18472,7 +18472,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -18562,7 +18562,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
