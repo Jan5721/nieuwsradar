@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "23-11-2026 09:07",
+ "bijgewerkt": "23-11-2026 09:23",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64833/sv-deurne-lijdt-zure-en-onnodige-nederlaag-en-is-koppositie-kwijt": {
+   "titel": "SV Deurne lijdt zure en onnodige nederlaag en is koppositie kwijt",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64833/sv-deurne-lijdt-zure-en-onnodige-nederlaag-en-is-koppositie-kwijt",
+   "tekst": "DEURNE - Als koploper ging SV Deurne vanmiddag van start tegen middenmoter Limburgia en wat voor een start, want bij de eerste de beste aanval en na wat geknoei van de Limburgse doelman lag de bal na 2 minuten al in het netje! Het was Stefan van der Werf die uiteindelijk kon …",
+   "datum": "2026-11-23T09:08:00+01:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:08"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week",
@@ -816,6 +833,23 @@
    "prio": false,
    "tijd": "16-11 09:51"
   },
+  "https://www.ed.nl/eindhoven/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet~aa7da3a5/": {
+   "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
+   "link": "https://www.ed.nl/eindhoven/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet~aa7da3a5/",
+   "tekst": "Eindhoven staat bewust niet op de Brabantse PFAS-kaart die de provincie op 20 november naar buiten bracht. ‘We willen onnodige onrust voorkomen.’",
+   "datum": "2026-11-23T08:19:31+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:19"
+  },
   "https://www.ed.nl/helmond/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat~afea1dc2/": {
    "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
    "link": "https://www.ed.nl/helmond/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat~afea1dc2/",
@@ -1021,23 +1055,6 @@
    "prio": false,
    "tijd": "21-11 17:37"
   },
-  "https://www.ed.nl/helmond/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint~a6af1228/": {
-   "titel": "In de winkel in het Kasteel van Sinterklaas proef je de magie letterlijk en figuurlijk: ‘Papa werkt voor de Sint’",
-   "link": "https://www.ed.nl/helmond/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint~a6af1228/",
-   "tekst": "Wanneer de 9-jarige Jasper Claessens voor het eerst door de poorten van het Kasteel van Sinterklaas in Helmond stapt, is hij meteen verknocht. Al zingend loopt hij de trappen op, met Piet aan de hand. Een dag zo magisch dat hij nooit meer naar huis wil gaan. En dat lukt.",
-   "datum": "2026-11-21T10:30:00+00:00",
-   "eerst_gezien": "2026-11-21T11:41:13.179728+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 11:30"
-  },
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
    "link": "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/",
@@ -1089,10 +1106,44 @@
    "prio": false,
    "tijd": "20-11 22:44"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilotlocatie voor netbewuste nieuwbouw",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw",
+   "tekst": "Nieuw-Brandevoort in Helmond is aangewezen als pilotlocatie voor netbewuste nieuwbouw. Het Rijk wil hiermee ondanks netcongestie de bouw van 4.000 woningen mogelijk maken. De pilot is onderdeel van de crisisaanpak voor het stroomnet in …",
+   "datum": "2026-11-23T08:22:48.463393+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:22"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035637/helmond-houdt-pitchavond-voor-street-culture-en-sports": {
+   "titel": "Helmond houdt pitchavond voor Street Culture en Sports",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035637/helmond-houdt-pitchavond-voor-street-culture-en-sports",
+   "tekst": "De gemeente Helmond heeft op 19 november een pitchavond georganiseerd voor subsidieaanvragen binnen Street Culture en Sports. Negen deelnemers presenteerden hun ideeën aan een jury en kregen allemaal financiële steun voor hun projecten.",
+   "datum": "2026-11-23T08:22:48.463393+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:22"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag": {
    "titel": "Zieke kapster heeft eigen bedrijf en geeft sportles, baas wil ontslag",
    "link": "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag",
-   "tekst": "Een kapster meldt zich ziek, maar staat ondertussen sportlessen te geven in een sportschool. Haar bazen vertrouwen het niet, gaan zelf kijken en filmen de vrouw. Ook blijkt ze een eigen bedrijfje te hebben en zich op Instagram als …",
+   "tekst": "vrijdag Een kapster meldt zich ziek, maar staat ondertussen sportlessen te geven in een sportschool. Haar bazen vertrouwen het niet, gaan zelf kijken en filmen de vrouw. Ook blijkt ze een eigen bedrijfje te hebben en zich op Instagram als …",
    "datum": "2026-11-20T16:07:17.746385+00:00",
    "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1109,7 +1160,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak": {
    "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
    "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak",
-   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. De FIOD vermoedt dat de verdachten valse facturen gebruikten. Op sommige daarvan stonden zelfs namen van mensen die al overleden waren. …",
+   "tekst": "VIDEO vrijdag Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. De FIOD vermoedt dat de verdachten valse facturen gebruikten. Op sommige daarvan stonden zelfs namen van mensen die al …",
    "datum": "2026-11-20T11:01:37.627577+00:00",
    "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1549,40 +1600,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034439/frederique-is-topsporter-maar-kan-niet-zonder-haar-werk-in-de-zorg": {
-   "titel": "Frederique is topsporter maar kan niet zonder haar werk in de zorg",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034439/frederique-is-topsporter-maar-kan-niet-zonder-haar-werk-in-de-zorg",
-   "tekst": "13 november 2026 Als topsporter moet je egoïstisch zijn, dat weet Frederique van Hoof. De 25-jarige Helmondse paratafeltennisster draait al jaren mee in de wereldtop en stopt ziel en zaligheid in haar sport. Een fulltime sportcarrière wil …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034299/deze-lichtkunstenaars-willen-de-werknemers-van-vlisco-in-helmond-eren": {
-   "titel": "Deze lichtkunstenaars willen de werknemers van Vlisco in Helmond eren",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034299/deze-lichtkunstenaars-willen-de-werknemers-van-vlisco-in-helmond-eren",
-   "tekst": "VIDEO 12 november 2026 Hij is lang, hij is kaal en hij is de bekendste muur van Helmond: de muur van textielfabriek Vlisco, vlak achter het kasteel van Helmond. Ideaal voor een indrukwekkende projectie voor lichtfestival GLOW. Makers Mark …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen": {
    "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen",
@@ -1650,6 +1667,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 23:16"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035623/informatieve-bijeenkomst-over-zorg-in-laatste-levensfase": {
+   "titel": "Informatieve bijeenkomst over zorg in laatste levensfase",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035623/informatieve-bijeenkomst-over-zorg-in-laatste-levensfase",
+   "tekst": "vrijdag Op maandag 23 november 2026 vindt in Deurne een bijeenkomst plaats over palliatieve en terminale zorg. Mantelzorgers, vrijwilligers en andere geïnteresseerden krijgen informatie over de mogelijkheden in de laatste levensfase. De …",
+   "datum": "2026-11-23T08:22:48.463393+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:22"
   },
   "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis": {
    "titel": "Drie auto's botsen op elkaar in Deurne, één gewonde naar ziekenhuis",
@@ -3930,6 +3964,23 @@
    "prio": false,
    "tijd": "18-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-545895.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Bruggenseweg 13 5752SC Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-545895.html",
+   "tekst": "het gedeeltelijk slopen van een boerderij en herbouw",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-538622.html": {
    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit (BOPA) voor het plaatsen van een tijdelijke woonunit voor maximaal 2 jaar aan de Belgerenseweg, kadastraat bekend gemeent",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-538622.html",
@@ -4010,6 +4061,23 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-544557.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Bosven 18 5751NK Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-544557.html",
+   "tekst": "het realiseren van een dakkapel voorzijde van de woning",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
    "nieuw": true,
    "dagen": 7,
    "prio": false,
@@ -4027,7 +4095,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4044,7 +4112,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4134,12 +4202,63 @@
    "prio": false,
    "tijd": "18-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-544890.html": {
+   "titel": "Gemeente Asten - aanvraag omgevingsvergunning, Kennisstraat 5 5724AP Ommel",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-544890.html",
+   "tekst": "het bouwen van een constructiewerkplaats",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-545166.html": {
+   "titel": "Gemeente Asten - verleende omgevingsvergunning, Polderweg 26 5721JG Asten",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-545166.html",
+   "tekst": "het verbreden van de inrit en verzoek verplaatsen lichtmast (door gemeente)",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-542901.html": {
    "titel": "Regeling privaatrechtelijke vergoedingen gemeente Asten 2027",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-542901.html",
    "tekst": "",
    "datum": "2026-11-23T00:00:00+00:00",
    "eerst_gezien": "2026-11-23T08:06:42.264605+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-546139.html": {
+   "titel": "Gemeente Asten - intrekken aanvraag omgevingsvergunning, Jan van der Diesduncstraat 10 5721VM Asten",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-546139.html",
+   "tekst": "het plaatsen van een dakkapel op dakvlak aan voorzijde van de woning",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Bekendmakingen Asten",
    "gemeenten": [
     "Asten"
@@ -4423,6 +4542,40 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-544621.html": {
+   "titel": "Ingetrokken aanvraag omgevingsvergunning Lambertusstraat ong (tegenover Torenplein) te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-544621.html",
+   "tekst": "Uitvoeren werkzaamheden aan telecominfrastructuur Lambertusstraat",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-544451.html": {
+   "titel": "Aanvraag omgevingsvergunning Eindje 9 te Lierop",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-544451.html",
+   "tekst": "Kappen van 20 bomen Eindje 9",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-540954.html": {
    "titel": "Beleidsregel Opiumwet 13b gemeente Someren",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-540954.html",
@@ -4474,12 +4627,28 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108684467/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html": {
-   "titel": "Drukte bij pakketpunten, maar levert het iets op' `Het is veel werk voor weinig`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684467/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108684606/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
+   "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684606/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html",
    "tekst": "",
-   "datum": "2026-11-23T08:01:04+00:00",
-   "eerst_gezien": "2026-11-23T08:06:42.264605+00:00",
+   "datum": "2026-11-23T08:21:02+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684554/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html": {
+   "titel": "Drukte bij pakketpunten, maar levert het iets op' `Het is veel werk voor weinig`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684554/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html",
+   "tekst": "",
+   "datum": "2026-11-23T08:13:25+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4489,7 +4658,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 09:01"
+   "tijd": "23-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108684406/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html": {
    "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
@@ -5482,6 +5651,74 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 14:15"
+  },
+  "https://www.ed.nl/helmond/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint~a6af1228/": {
+   "titel": "In de winkel in het Kasteel van Sinterklaas proef je de magie letterlijk en figuurlijk: ‘Papa werkt voor de Sint’",
+   "link": "https://www.ed.nl/helmond/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint~a6af1228/",
+   "tekst": "Wanneer de 9-jarige Jasper Claessens voor het eerst door de poorten van het Kasteel van Sinterklaas in Helmond stapt, is hij meteen verknocht. Al zingend loopt hij de trappen op, met Piet aan de hand. Een dag zo magisch dat hij nooit meer naar huis wil gaan. En dat lukt.",
+   "datum": "2026-11-21T10:30:00+00:00",
+   "eerst_gezien": "2026-11-21T11:41:13.179728+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 11:30"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034439/frederique-is-topsporter-maar-kan-niet-zonder-haar-werk-in-de-zorg": {
+   "titel": "Frederique is topsporter maar kan niet zonder haar werk in de zorg",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034439/frederique-is-topsporter-maar-kan-niet-zonder-haar-werk-in-de-zorg",
+   "tekst": "13 november 2026 Als topsporter moet je egoïstisch zijn, dat weet Frederique van Hoof. De 25-jarige Helmondse paratafeltennisster draait al jaren mee in de wereldtop en stopt ziel en zaligheid in haar sport. Een fulltime sportcarrière wil …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034299/deze-lichtkunstenaars-willen-de-werknemers-van-vlisco-in-helmond-eren": {
+   "titel": "Deze lichtkunstenaars willen de werknemers van Vlisco in Helmond eren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034299/deze-lichtkunstenaars-willen-de-werknemers-van-vlisco-in-helmond-eren",
+   "tekst": "VIDEO 12 november 2026 Hij is lang, hij is kaal en hij is de bekendste muur van Helmond: de muur van textielfabriek Vlisco, vlak achter het kasteel van Helmond. Ideaal voor een indrukwekkende projectie voor lichtfestival GLOW. Makers Mark …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684467/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html": {
+   "titel": "Drukte bij pakketpunten, maar levert het iets op' `Het is veel werk voor weinig`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684467/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html",
+   "tekst": "",
+   "datum": "2026-11-23T08:01:04+00:00",
+   "eerst_gezien": "2026-11-23T08:06:42.264605+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:01"
   },
   "https://www.ed.nl/helmond/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze~a3a6df16/": {
    "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze?",
@@ -7421,23 +7658,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 22:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871": {
-   "titel": "A1 Helmond Rit: 138871",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126091104a1helmondrit138871",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T09:11:04+01:00",
-   "eerst_gezien": "2026-11-21T08:10:48.075968+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 09:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108676266/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
    "titel": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk' Dit zegt het debat over vroegpensioen bij zwaar werk",
@@ -18696,7 +18916,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -18711,12 +18931,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -18741,7 +18961,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 23,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18781,22 +19001,22 @@
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 18,
    "fout": ""
   },
   "Bekendmakingen Asten": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 14,
    "fout": ""
   },
   "Bekendmakingen Someren": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "Drimble Deurne": {
