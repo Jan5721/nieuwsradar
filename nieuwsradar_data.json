@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 16:38",
+ "bijgewerkt": "23-11-2026 16:54",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -834,6 +834,23 @@
    "prio": false,
    "tijd": "17-11 09:07"
   },
+  "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/": {
+   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: ‘Avond om de vriendschap te vieren’",
+   "link": "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/",
+   "tekst": "Vlierden vormt op 27 november het muzikale middelpunt van de Peelregio. Vrienden van de Peel Live brengt muzikanten en muziekliefhebbers in alle toonsoorten samen rond twee podia. Hoe gaat dat feest klinken?",
+   "datum": "2026-11-23T15:40:50+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:40"
+  },
   "https://www.ed.nl/helmond/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond~ace664e3/": {
    "titel": "Voorstelling Circle of Life van The Diamond Baritones komt naar Helmond",
    "link": "https://www.ed.nl/helmond/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond~ace664e3/",
@@ -851,19 +868,19 @@
    "prio": false,
    "tijd": "23-11 16:05"
   },
-  "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder~a63f92cb/": {
-   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus ruim drie miljoen duurder",
-   "link": "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder~a63f92cb/",
+  "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/": {
+   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus 3 drie miljoen duurder",
+   "link": "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/",
    "tekst": "Het samenvoegen van drie scholen, de kinderopvang en het wijkhuis in de Helmondse wijk Rijpelberg valt fors duurder uit dan gedacht. Er is 31,6 miljoen euro nodig voor dit complex, ruim 3 miljoen meer dan eerder gepland.",
-   "datum": "2026-11-23T15:00:23+00:00",
-   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
+   "datum": "2026-11-23T15:00:00+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:00"
@@ -1020,23 +1037,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 13:45"
-  },
-  "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
-   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
-   "link": "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/",
-   "tekst": "Na haar vlucht uit Syrië wil de 33-jarige Siba Darwish dolgraag weer voor de klas staan. De voormalige onderwijsassistent moet daarvoor eerst de Nederlandse taal machtig worden. Daarom loopt ze nu alvast stage in Helmond. „Dit is de sleutel tot een mooie baan in Nederland.”",
-   "datum": "2026-11-22T10:00:17+00:00",
-   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 11:00"
   },
   "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/": {
    "titel": "Puur Sangh geeft jubileumconcert in Lierop",
@@ -1856,6 +1856,23 @@
    "prio": false,
    "tijd": "17-11 19:50"
   },
+  "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel": {
+   "titel": "Nieuwbouwwoning mag gebouwd worden aan Buntseweg in Liessel",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel",
+   "tekst": "16 november 2026 De gemeente heeft een vergunning verleend voor het bouwen van een nieuwbouwwoning aan de Buntseweg in Liessel. Het besluit is op 12 november genomen.",
+   "datum": "2026-11-23T15:54:07.137893+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:54"
+  },
   "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal": {
    "titel": "Reflection Day in Deurne: zichtbaarheid in verkeer centraal",
    "link": "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal",
@@ -1873,24 +1890,22 @@
    "prio": false,
    "tijd": "16-11 16:56"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen": {
-   "titel": "Deurne wint NK Tegelwippen",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen",
-   "tekst": "16 november 2026 Deurne heeft de poule Brabantse Peeldorpen gewonnen in het NK Tegelwippen. In totaal zijn 22.262 tegels vervangen door groen, waarmee de gemeente boven Gemert-Bakel, Someren, Laarbeek en Asten eindigt.",
-   "datum": "2026-11-16T15:40:52.229622+00:00",
-   "eerst_gezien": "2026-11-16T15:40:52.229622+00:00",
+  "https://www.omroepbrabant.nl/nieuws/6034898/martinetplein-in-deurne-krijgt-meer-groen-en-zitplekken": {
+   "titel": "Martinetplein in Deurne krijgt meer groen en zitplekken",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034898/martinetplein-in-deurne-krijgt-meer-groen-en-zitplekken",
+   "tekst": "16 november 2026 De gemeente Deurne gaat het Martinetplein en de hoek De Wever - Torenstraat vernieuwen. Het plein krijgt meer groen, grotere plantvakken en nieuwe zitgelegenheden. Ook komen er kunstobjecten en wordt de inrichting …",
+   "datum": "2026-11-23T15:54:07.137893+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
    "gemeenten": [
-    "Deurne",
-    "Asten",
-    "Someren"
+    "Deurne"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "16-11 16:40"
+   "tijd": "23-11 16:54"
   },
   "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning": {
    "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
@@ -2044,6 +2059,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 14:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming": {
+   "titel": "Voormalige boerderij in Ommel krijgt nieuwe bestemming",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming",
+   "tekst": "16 november 2026 Een voormalige agrarische bedrijfslocatie in Ommel wordt herontwikkeld tot twee woningen. De gemeente Asten heeft hiervoor op 12 november een omgevingsvergunning verleend.",
+   "datum": "2026-11-23T15:54:07.137893+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:54"
   },
   "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne": {
    "titel": "Vispassage gepland in Asten en Deurne",
@@ -4645,6 +4677,71 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html": {
+   "titel": "Verkeer op randweg N2 met nieuwe afslag voortaan sneller op A2",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:49:07+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688440/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren.html": {
+   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: `Avond om de vriendschap te vieren`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688440/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:49:07+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688439/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html": {
+   "titel": "Verkeer op randweg N2 met nieuwe afslag voortaan sneller op A2",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688439/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:49:06+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688438/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren.html": {
+   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: `Avond om de vriendschap te vieren`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688438/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:49:06+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108688308/ruim-430-lopers-over-de-finish-bij-succesvolle-molenvencross-in-helmond-uitslagen.html": {
    "titel": "Ruim 430 lopers over de finish bij succesvolle Molenvencross in Helmond (uitslagen)",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108688308/ruim-430-lopers-over-de-finish-bij-succesvolle-molenvencross-in-helmond-uitslagen.html",
@@ -4657,7 +4754,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:33"
@@ -4674,7 +4771,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:31"
@@ -4691,7 +4788,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:25"
@@ -4708,7 +4805,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4876,40 +4973,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 14:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108687193/bijzondere-onderscheiding-voor-lieshoutse-gildeman-toon-gevers.html": {
-   "titel": "Bijzondere onderscheiding voor Lieshoutse gildeman Toon Gevers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687193/bijzondere-onderscheiding-voor-lieshoutse-gildeman-toon-gevers.html",
-   "tekst": "",
-   "datum": "2026-11-23T13:19:03+00:00",
-   "eerst_gezien": "2026-11-23T13:29:25.749674+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 14:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108686907/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html": {
-   "titel": "Maak gezondheid structureel onderdeel van het onderwijs",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686907/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html",
-   "tekst": "",
-   "datum": "2026-11-23T12:43:19+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html": {
    "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
@@ -5519,6 +5582,23 @@
    "prio": false,
    "tijd": "21-11 18:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126165132a1helmondrit139946": {
+   "titel": "A1 Helmond Rit: 139946",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126165132a1helmondrit139946",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T16:51:32+01:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "23-11 16:51"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126160620a2deurnerit139921": {
    "titel": "A2 Deurne Rit: 139921",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126160620a2deurnerit139921",
@@ -5807,6 +5887,74 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
+  },
+  "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder~a63f92cb/": {
+   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus ruim drie miljoen duurder",
+   "link": "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder~a63f92cb/",
+   "tekst": "Het samenvoegen van drie scholen, de kinderopvang en het wijkhuis in de Helmondse wijk Rijpelberg valt fors duurder uit dan gedacht. Er is 31,6 miljoen euro nodig voor dit complex, ruim 3 miljoen meer dan eerder gepland.",
+   "datum": "2026-11-23T15:00:23+00:00",
+   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:00"
+  },
+  "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
+   "link": "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/",
+   "tekst": "Na haar vlucht uit Syrië wil de 33-jarige Siba Darwish dolgraag weer voor de klas staan. De voormalige onderwijsassistent moet daarvoor eerst de Nederlandse taal machtig worden. Daarom loopt ze nu alvast stage in Helmond. „Dit is de sleutel tot een mooie baan in Nederland.”",
+   "datum": "2026-11-22T10:00:17+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 11:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687193/bijzondere-onderscheiding-voor-lieshoutse-gildeman-toon-gevers.html": {
+   "titel": "Bijzondere onderscheiding voor Lieshoutse gildeman Toon Gevers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687193/bijzondere-onderscheiding-voor-lieshoutse-gildeman-toon-gevers.html",
+   "tekst": "",
+   "datum": "2026-11-23T13:19:03+00:00",
+   "eerst_gezien": "2026-11-23T13:29:25.749674+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 14:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686907/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html": {
+   "titel": "Maak gezondheid structureel onderdeel van het onderwijs",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686907/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html",
+   "tekst": "",
+   "datum": "2026-11-23T12:43:19+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686677/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html": {
    "titel": "Ton Verhoeven (59) redt kerken van de ondergang uit pure verliefdheid: `Zoiets mag toch nooit verdwijnen`",
@@ -18217,89 +18365,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616711/vijftal-op-de-vuist-in-centrum-eindhoven-bezoekers-glow-opgeschrikt-duo-17-en-23-uit-schijndel-aangehouden.html": {
-   "titel": "Vijftal op de vuist in centrum Eindhoven: bezoekers Glow opgeschrikt, duo (17 en 23) uit Schijndel aangehouden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616711/vijftal-op-de-vuist-in-centrum-eindhoven-bezoekers-glow-opgeschrikt-duo-17-en-23-uit-schijndel-aangehouden.html",
-   "tekst": "",
-   "datum": "2026-11-16T15:49:06+00:00",
-   "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616708/voormalig-supermarkt-topman-boer-krijgt-sleutelpositie-bij-philips.html": {
-   "titel": "Voormalig supermarkt-topman Boer krijgt sleutelpositie bij Philips",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616708/voormalig-supermarkt-topman-boer-krijgt-sleutelpositie-bij-philips.html",
-   "tekst": "",
-   "datum": "2026-11-16T15:49:05+00:00",
-   "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616707/eindhovenaar-26-die-met-kruisboog-op-katten-schoot-hoeft-niet-terug-de-cel-in.html": {
-   "titel": "Eindhovenaar (26) die met kruisboog op katten schoot, hoeft niet terug de cel in",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616707/eindhovenaar-26-die-met-kruisboog-op-katten-schoot-hoeft-niet-terug-de-cel-in.html",
-   "tekst": "",
-   "datum": "2026-11-16T15:49:05+00:00",
-   "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616669/voormalig-supermarkt-topman-boer-krijgt-sleutelpositie-bij-philips.html": {
-   "titel": "Voormalig supermarkt-topman Boer krijgt sleutelpositie bij Philips",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616669/voormalig-supermarkt-topman-boer-krijgt-sleutelpositie-bij-philips.html",
-   "tekst": "",
-   "datum": "2026-11-16T15:43:16+00:00",
-   "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616668/eindhovenaar-26-die-met-kruisboog-op-katten-schoot-hoeft-niet-terug-de-cel-in.html": {
-   "titel": "Eindhovenaar (26) die met kruisboog op katten schoot, hoeft niet terug de cel in",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616668/eindhovenaar-26-die-met-kruisboog-op-katten-schoot-hoeft-niet-terug-de-cel-in.html",
-   "tekst": "",
-   "datum": "2026-11-16T15:43:16+00:00",
-   "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html": {
    "titel": "Nog even nagloeien: dit was Glow 2026 in Eindhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html",
@@ -18336,12 +18401,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -18366,12 +18431,12 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 21,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 12,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -18421,7 +18486,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18441,7 +18506,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "112Brabant": {
