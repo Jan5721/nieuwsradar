@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 12:21",
+ "bijgewerkt": "23-11-2026 12:37",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64838/spv-en-william-van-moorsel-gaan-na-drie-seizoenen-uit-elkaar": {
    "titel": "SPV en William van Moorsel gaan na drie seizoenen uit elkaar",
@@ -816,18 +816,18 @@
    "prio": false,
    "tijd": "16-11 13:25"
   },
-  "https://www.ed.nl/deurne/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven~a79a84e7/": {
-   "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
-   "link": "https://www.ed.nl/deurne/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven~a79a84e7/",
-   "tekst": "De deels door brand verwoeste Basisschool Zeilberg hoopt de lessen over een week op een andere plek in Deurne te hervatten.",
-   "datum": "2026-11-23T10:16:57+00:00",
-   "eerst_gezien": "2026-11-23T10:32:09.086424+00:00",
+  "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/": {
+   "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
+   "link": "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/",
+   "tekst": "De deels door brand verwoeste Basisschool Zeilberg hoopt de lessen over een week op een andere plek in Deurne te hervatten. Vanochtend zijn de circa 300 getroffen leerlingen en hun ouders in een besloten bijeenkomst bijgepraat.",
+   "datum": "2026-11-23T10:16:00+00:00",
+   "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "regionale pers",
-   "betaald": false,
+   "betaald": true,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
@@ -1021,23 +1021,6 @@
    "prio": false,
    "tijd": "21-11 20:01"
   },
-  "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/": {
-   "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
-   "link": "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/",
-   "tekst": "De deels door brand verwoeste Basisschool Zeilberg hoopt de lessen over een week op een andere plek in Deurne te hervatten. Vanochtend zijn de circa 300 getroffen leerlingen en hun ouders in een besloten bijeenkomst bijgepraat.",
-   "datum": "2026-11-23T10:16:00+00:00",
-   "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 11:16"
-  },
   "https://www.ed.nl/asten/ivn-asten-someren-houdt-presentatie-over-bouwende-dieren-in-asten~a5bcfed9/": {
    "titel": "IVN Asten-Someren houdt presentatie over bouwende dieren in Asten",
    "link": "https://www.ed.nl/asten/ivn-asten-someren-houdt-presentatie-over-bouwende-dieren-in-asten~a5bcfed9/",
@@ -1055,19 +1038,19 @@
    "prio": false,
    "tijd": "23-11 10:14"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
-   "titel": "Problemen op het spoor rond Eindhoven door seinstoring",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
+  "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
+   "titel": "Nog urenlang problemen op het spoor rond Eindhoven door seinstoring",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
    "tekst": "Een seinstoring veroorzaakt sinds maandagochtend problemen op het spoor rond Eindhoven. Zo rijden er tot kwart over drie geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen dan gebruikelijk. Vanwege de …",
    "datum": "2026-11-23T05:52:00+00:00",
-   "eerst_gezien": "2026-11-23T06:14:06.244530+00:00",
+   "eerst_gezien": "2026-11-23T11:36:49.345189+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 06:52"
@@ -1954,7 +1937,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 12:20"
@@ -4593,6 +4576,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html": {
+   "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html",
+   "tekst": "",
+   "datum": "2026-11-23T11:31:03+00:00",
+   "eerst_gezien": "2026-11-23T11:36:49.345189+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108686286/door-staking-is-het-afzien-voor-chauffeurs-en-reizigers-we-staan-letterlijk-en-figuurlijk-in-de-kou.html": {
    "titel": "Door staking is het afzien voor chauffeurs en reizigers: `We staan letterlijk en figuurlijk in de kou`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108686286/door-staking-is-het-afzien-voor-chauffeurs-en-reizigers-we-staan-letterlijk-en-figuurlijk-in-de-kou.html",
@@ -4605,7 +4604,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 12:19"
@@ -4770,7 +4769,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 12:11"
@@ -4956,23 +4955,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671218/basisschool-maanden-dicht-na-verwoestende-vuurwerkbrand-veroorzaakt-door-jonge-kinderen-ouders-voeren-geen-lik-op-stukbeleid.html": {
-   "titel": "Basisschool maanden dicht na verwoestende vuurwerkbrand veroorzaakt door jonge kinderen: ’Ouders voeren geen lik-op-stukbeleid...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671218/basisschool-maanden-dicht-na-verwoestende-vuurwerkbrand-veroorzaakt-door-jonge-kinderen-ouders-voeren-geen-lik-op-stukbeleid.html",
-   "tekst": "",
-   "datum": "2026-11-21T17:44:01+00:00",
-   "eerst_gezien": "2026-11-21T17:49:30.587289+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:44"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html": {
    "titel": "Loek Sonnemans (30) springt in het diepe als componist: `Het voelt helemaal niet als werken`",
@@ -5671,6 +5653,57 @@
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 15:40"
+  },
+  "https://www.ed.nl/deurne/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven~a79a84e7/": {
+   "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
+   "link": "https://www.ed.nl/deurne/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven~a79a84e7/",
+   "tekst": "De deels door brand verwoeste Basisschool Zeilberg hoopt de lessen over een week op een andere plek in Deurne te hervatten.",
+   "datum": "2026-11-23T10:16:57+00:00",
+   "eerst_gezien": "2026-11-23T10:32:09.086424+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 11:16"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
+   "titel": "Problemen op het spoor rond Eindhoven door seinstoring",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
+   "tekst": "Een seinstoring veroorzaakt sinds maandagochtend problemen op het spoor rond Eindhoven. Zo rijden er tot kwart over drie geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen dan gebruikelijk. Vanwege de …",
+   "datum": "2026-11-23T05:52:00+00:00",
+   "eerst_gezien": "2026-11-23T06:14:06.244530+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 06:52"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108671218/basisschool-maanden-dicht-na-verwoestende-vuurwerkbrand-veroorzaakt-door-jonge-kinderen-ouders-voeren-geen-lik-op-stukbeleid.html": {
+   "titel": "Basisschool maanden dicht na verwoestende vuurwerkbrand veroorzaakt door jonge kinderen: ’Ouders voeren geen lik-op-stukbeleid...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671218/basisschool-maanden-dicht-na-verwoestende-vuurwerkbrand-veroorzaakt-door-jonge-kinderen-ouders-voeren-geen-lik-op-stukbeleid.html",
+   "tekst": "",
+   "datum": "2026-11-21T17:44:01+00:00",
+   "eerst_gezien": "2026-11-21T17:49:30.587289+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 18:44"
   },
   "https://www.ed.nl/deurne/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik~a9205304e/": {
    "titel": "Door vuurwerk verwoeste basisschool in Deurne is zeker maanden buiten gebruik",
@@ -7677,23 +7710,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:30"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950": {
-   "titel": "A1 Helmond Rit: 138950",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126122541a1helmondrit138950",
-   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T12:25:41+01:00",
-   "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 12:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677305/honderd-sterren-voor-sinterklaas-die-in-kasteel-geldrop-en-heeze-heel-veel-kinderen-ontvangt.html": {
    "titel": "Honderd sterren voor Sinterklaas, die in Kasteel Geldrop en Heeze heel veel kinderen ontvangt",
@@ -19041,7 +19057,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "ED Someren": {
@@ -19116,12 +19132,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Asten": {
