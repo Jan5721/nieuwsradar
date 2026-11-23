@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 19:35",
+ "bijgewerkt": "23-11-2026 19:51",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -4730,6 +4730,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108689801/een-zomer-zonder-festival-wish-wat-nu-je-gaat-nu-wel-op-zoek-naar-iets-nieuws.html": {
+   "titel": "Een zomer zonder festival Wish: wat nu' `Je gaat nu wel op zoek naar iets nieuws`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108689801/een-zomer-zonder-festival-wish-wat-nu-je-gaat-nu-wel-op-zoek-naar-iets-nieuws.html",
+   "tekst": "",
+   "datum": "2026-11-23T18:49:05+00:00",
+   "eerst_gezien": "2026-11-23T18:50:48.823283+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 19:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108689487/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-op-willem-van-der-willigen-70-in-lieshout-maar-nu-wijst-zij-alleen.html": {
    "titel": "Bill C. en Sharona de J. stonden samen terecht voor moord op Willem van der Willigen (70) in Lieshout, maar nu wijst zij alleen...",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108689487/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-op-willem-van-der-willigen-70-in-lieshout-maar-nu-wijst-zij-alleen.html",
@@ -4963,39 +4980,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html": {
-   "titel": "Verkeer op randweg N2 met nieuwe afslag voortaan sneller op A2",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html",
-   "tekst": "",
-   "datum": "2026-11-23T15:49:07+00:00",
-   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 16:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108688440/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren.html": {
-   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: `Avond om de vriendschap te vieren`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688440/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren.html",
-   "tekst": "",
-   "datum": "2026-11-23T15:49:07+00:00",
-   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html": {
    "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
@@ -5927,6 +5911,39 @@
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 03:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html": {
+   "titel": "Verkeer op randweg N2 met nieuwe afslag voortaan sneller op A2",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:49:07+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688440/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren.html": {
+   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: `Avond om de vriendschap te vieren`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688440/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:49:07+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -8316,23 +8333,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126194610a2deurnerit139115": {
-   "titel": "A2 Deurne Rit: 139115",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126194610a2deurnerit139115",
-   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T19:46:10+01:00",
-   "eerst_gezien": "2026-11-21T18:53:42.498084+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 19:46"
   },
   "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs": {
    "titel": "Robine is prof net als haar vader en opa: 'Zijn allemaal even eigenwijs'",
@@ -18403,40 +18403,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108617950/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html": {
-   "titel": "Steffie (22) uit Veghel zorgt voor kippenvel in SBS-programma: `Dikke middelvinger naar al die mensen die jou gepest hebben`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108617950/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html",
-   "tekst": "",
-   "datum": "2026-11-16T18:49:05+00:00",
-   "eerst_gezien": "2026-11-16T19:18:13.545949+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 19:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html": {
-   "titel": "Steffie (22) uit Veghel zorgt voor kippenvel in SBS-programma: `Dikke middelvinger naar al die mensen die jou gepest hebben`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html",
-   "tekst": "",
-   "datum": "2026-11-16T18:43:16+00:00",
-   "eerst_gezien": "2026-11-16T18:45:03.800250+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 19:43"
   }
  },
  "bronnen": {
@@ -18542,7 +18508,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
