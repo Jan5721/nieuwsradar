@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 15:50",
+ "bijgewerkt": "23-11-2026 16:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -561,23 +561,6 @@
    "prio": false,
    "tijd": "16-11 18:31"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne": {
-   "titel": "In beeld: Sinterklaas bezoekt Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64687/in-beeld-sinterklaas-bezoekt-deurne",
-   "tekst": "DEURNE - Sinterklaas heeft zondag 15 november samen met zijn Pieten een bezoek gebracht aan Deurne. Op de Markt werd de goedheiligman ontvangen door burgemeester Greet Buter. Kinderen en hun ouders kwamen kijken naar de intocht en het programma met optredens van de Pietenschool …",
-   "datum": "2026-11-16T16:03:00+01:00",
-   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:03"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64848/automobilist-belandt-in-sloot-in-heusden": {
    "titel": "Automobilist belandt in sloot in Heusden",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64848/automobilist-belandt-in-sloot-in-heusden",
@@ -851,10 +834,27 @@
    "prio": false,
    "tijd": "16-11 16:09"
   },
+  "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder~a63f92cb/": {
+   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus ruim drie miljoen duurder",
+   "link": "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder~a63f92cb/",
+   "tekst": "Het samenvoegen van drie scholen, de kinderopvang en het wijkhuis in de Helmondse wijk Rijpelberg valt fors duurder uit dan gedacht. Er is 31,6 miljoen euro nodig voor dit complex, ruim 3 miljoen meer dan eerder gepland.",
+   "datum": "2026-11-23T15:00:23+00:00",
+   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:00"
+  },
   "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/": {
    "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
    "link": "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/",
-   "tekst": "De deels door brand verwoeste Basisschool Zeilberg hoopt de lessen over een week op een andere plek in Deurne te hervatten. Vanochtend zijn de circa 300 getroffen leerlingen en hun ouders in een besloten bijeenkomst bijgepraat.",
+   "tekst": "De deels door brand verwoeste basisschool Zeilberg hoopt de lessen over een week op een andere plek in Deurne te hervatten. Maandagochtend zijn de circa driehonderd getroffen leerlingen en hun ouders in een besloten bijeenkomst bijgepraat.",
    "datum": "2026-11-23T10:16:00+00:00",
    "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
    "bron": "ED Helmond",
@@ -1021,23 +1021,6 @@
    "prio": false,
    "tijd": "22-11 11:00"
   },
-  "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/": {
-   "titel": "Wáár komt die pakjesboot dan aan? Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
-   "link": "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/",
-   "tekst": "De kans dat de landelijke intocht van Sinterklaas over twee jaar in Helmond plaatsvindt, is klein. Helmond heeft zich al meerdere keren bij de NTR aangemeld als kandidaat, maar heeft één groot nadeel: de stoomboot kan onmogelijk aanmeren in het centrum.",
-   "datum": "2026-11-22T06:13:00+00:00",
-   "eerst_gezien": "2026-11-22T06:23:31.197578+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 07:13"
-  },
   "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/": {
    "titel": "Puur Sangh geeft jubileumconcert in Lierop",
    "link": "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/",
@@ -1051,7 +1034,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 15:46"
@@ -4696,6 +4679,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html": {
+   "titel": "Korale en Muzikale geven kerstconcert in Aarle-Rixtel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:01:05+00:00",
+   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html": {
    "titel": "Pand in Eindhoven ontruimd door rook bij dakwerkzaamheden",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html",
@@ -4708,7 +4708,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 15:43"
@@ -4881,22 +4881,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108685743/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html": {
-   "titel": "Oud-Eindhovenaren runnen eigenzinnig miniresort in Ardennen: `De aflevering van Ik Vertrek zou hier heel saai zijn`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685743/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html",
-   "tekst": "",
-   "datum": "2026-11-23T10:43:30+00:00",
-   "eerst_gezien": "2026-11-23T10:48:19.948462+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html": {
    "titel": "Shockvriezer koelt met hoge capaciteit sauzen razendsnel terug",
@@ -5490,6 +5474,40 @@
    "prio": false,
    "tijd": "21-11 18:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126160620a2deurnerit139921": {
+   "titel": "A2 Deurne Rit: 139921",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126160620a2deurnerit139921",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T16:06:20+01:00",
+   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "23-11 16:06"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126155048a2somerenrit139915": {
+   "titel": "A2 Someren Rit: 139915",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126155048a2somerenrit139915",
+   "tekst": "Ambulance 22-121 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T15:50:48+01:00",
+   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "23-11 15:50"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126154948a2astenrit139914": {
    "titel": "A2 Asten Rit: 139914",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126154948a2astenrit139914",
@@ -5502,7 +5520,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 15:49"
@@ -5744,6 +5762,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
+  },
+  "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/": {
+   "titel": "Wáár komt die pakjesboot dan aan? Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
+   "link": "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/",
+   "tekst": "De kans dat de landelijke intocht van Sinterklaas over twee jaar in Helmond plaatsvindt, is klein. Helmond heeft zich al meerdere keren bij de NTR aangemeld als kandidaat, maar heeft één groot nadeel: de stoomboot kan onmogelijk aanmeren in het centrum.",
+   "datum": "2026-11-22T06:13:00+00:00",
+   "eerst_gezien": "2026-11-22T06:23:31.197578+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 07:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685743/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html": {
+   "titel": "Oud-Eindhovenaren runnen eigenzinnig miniresort in Ardennen: `De aflevering van Ik Vertrek zou hier heel saai zijn`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685743/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:43:30+00:00",
+   "eerst_gezien": "2026-11-23T10:48:19.948462+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108685742/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html": {
    "titel": "Mary Fiers komt met actieboek voor iedereen die bij de overheid werkt: `Hang deze wet boven je bed`",
@@ -18190,7 +18241,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -18205,12 +18256,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -18310,7 +18361,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 17,
    "fout": ""
   },
   "112Brabant": {
