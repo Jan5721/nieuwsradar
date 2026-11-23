@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 15:18",
+ "bijgewerkt": "23-11-2026 15:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -2540,6 +2540,40 @@
    "prio": false,
    "tijd": "20-11 21:16"
   },
+  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
+   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
+   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
+   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
+   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
   "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
    "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
    "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
@@ -4644,12 +4678,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108687530/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108687577/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html": {
    "titel": "Kleinzoon van PSV-legende poeiert op heerlijke wijze raak: bekijk hier de beelden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687530/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687577/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html",
    "tekst": "",
-   "datum": "2026-11-23T14:13:25+00:00",
-   "eerst_gezien": "2026-11-23T14:17:25.895785+00:00",
+   "datum": "2026-11-23T14:19:03+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4659,7 +4693,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 15:13"
+   "tijd": "23-11 15:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
    "titel": "Grotere rol voor buurthuizen tegen eenzaamheid; wat is er nodig'",
@@ -4838,22 +4872,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108685602/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html": {
-   "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685602/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html",
-   "tekst": "",
-   "datum": "2026-11-23T10:25:11+00:00",
-   "eerst_gezien": "2026-11-23T10:32:09.086424+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5690,6 +5708,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687530/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html": {
+   "titel": "Kleinzoon van PSV-legende poeiert op heerlijke wijze raak: bekijk hier de beelden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687530/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html",
+   "tekst": "",
+   "datum": "2026-11-23T14:13:25+00:00",
+   "eerst_gezien": "2026-11-23T14:17:25.895785+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685602/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html": {
+   "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685602/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:25:11+00:00",
+   "eerst_gezien": "2026-11-23T10:32:09.086424+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126195637a2helmondrit139499": {
    "titel": "A2 Helmond Rit: 139499",
@@ -7665,23 +7716,6 @@
    "prio": false,
    "tijd": "21-11 15:40"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022": {
-   "titel": "A2 Helmond Rit: 139022",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126153224a2helmondrit139022",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-21T15:32:24+01:00",
-   "eerst_gezien": "2026-11-21T14:37:20.783615+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 15:32"
-  },
   "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/": {
    "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: ‘Je hebt verleende rechten te respecteren’",
    "link": "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/",
@@ -7698,23 +7732,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 16:30"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126152307a1astenrit139015": {
-   "titel": "A1 Asten Rit: 139015",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126152307a1astenrit139015",
-   "tekst": "Ambulance 22-111 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T15:23:07+01:00",
-   "eerst_gezien": "2026-11-21T14:37:20.783615+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 15:23"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -18203,7 +18220,7 @@
   },
   "Gemeente Deurne": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 3,
    "fout": ""
   },
   "Gemeente Asten": {
@@ -18238,7 +18255,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
