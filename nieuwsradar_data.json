@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 10:12",
+ "bijgewerkt": "23-11-2026 10:28",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64833/sv-deurne-lijdt-zure-en-onnodige-nederlaag-en-is-koppositie-kwijt": {
    "titel": "SV Deurne lijdt zure en onnodige nederlaag en is koppositie kwijt",
@@ -562,6 +562,23 @@
    "prio": false,
    "tijd": "16-11 12:00"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64836/ramon-weren-57e-prins-van-de-plekkers": {
+   "titel": "Ramon Weren 57e prins van De Plekkers",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64836/ramon-weren-57e-prins-van-de-plekkers",
+   "tekst": "ASTEN - Carnavalsvereniging De Plekkers uit Asten is een hoogheid rijker. Zondag werd Ramon Weren als 57e prins gepresenteerd.",
+   "datum": "2026-11-23T10:23:00+01:00",
+   "eerst_gezien": "2026-11-23T09:27:54.852556+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 10:23"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
    "titel": "In beeld: jeugdprinsenbal in Heusden",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden",
@@ -868,10 +885,10 @@
    "tijd": "23-11 07:28"
   },
   "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
-   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘de kroeg in op zondagmiddag’",
+   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘De kroeg in op zondagmiddag’",
    "link": "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/",
    "tekst": "Zes cafés, zeven livebands. In Deurnese horecazaken rond de Markt klinken zondag meezingers, rocknummers, oude en nieuwe hits en Elvis-liedjes. Als je wil, kun je overal binnenlopen en van elk optreden iets meepikken.",
-   "datum": "2026-11-22T20:00:56+00:00",
+   "datum": "2026-11-22T20:00:00+00:00",
    "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -1037,6 +1054,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 17:37"
+  },
+  "https://www.ed.nl/asten/ivn-asten-someren-houdt-presentatie-over-bouwende-dieren-in-asten~a5bcfed9/": {
+   "titel": "IVN Asten-Someren houdt presentatie over bouwende dieren in Asten",
+   "link": "https://www.ed.nl/asten/ivn-asten-someren-houdt-presentatie-over-bouwende-dieren-in-asten~a5bcfed9/",
+   "tekst": "Ontwerper en architect Alwin de Lang geeft bij IVN Asten-Someren een presentatie over dieren die bouwen. Donderdag 26 november spreekt hij vanaf 20.00 uur in verenigingsgebouw de Stulp aan de Ostaderstraat 30 in Asten.",
+   "datum": "2026-11-23T09:14:46+00:00",
+   "eerst_gezien": "2026-11-23T09:27:54.852556+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 10:14"
   },
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -1595,7 +1629,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 10:11"
@@ -2556,23 +2590,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 21:16"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout": {
-   "titel": "Geslaagde oefening noodsteunpunt in Mierlo-Hout",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/geslaagde-oefening-noodsteunpunt-in-mierlo-hout",
-   "tekst": "Hoe blijf je met elkaar verbonden als stroom, internet en telefonie langdurig uitvallen? Dat was het uitgangspunt van de oefening met het noodsteunpunt in Mierlo-Hout op 12 november. Tijdens de oefening werkten we samen met inwoners, vrijwilligers en lokale organisaties aan een …",
-   "datum": "2026-11-16T09:12:20+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 10:12"
   },
   "https://www.asten.nl/nieuws/artikel/blog-40-een-inkijkje-in-het-werkleven-van-de-burgemeester": {
    "titel": "Blog 40: Een inkijkje in het werkleven van de burgemeester",
@@ -5415,6 +5432,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126101649a2helmondrit139757": {
+   "titel": "A2 Helmond Rit: 139757",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126101649a2helmondrit139757",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T10:16:49+01:00",
+   "eerst_gezien": "2026-11-23T09:27:54.852556+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "23-11 10:16"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126100025a2helmondrit139743": {
    "titel": "A2 Helmond Rit: 139743",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126100025a2helmondrit139743",
@@ -5427,7 +5461,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 10:00"
@@ -7578,23 +7612,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 10:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898": {
-   "titel": "A2 Asten Rit: 138898",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126102155a2astenrit138898",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T10:21:55+01:00",
-   "eerst_gezien": "2026-11-21T09:31:26.039506+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 10:21"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108676775/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
@@ -19022,7 +19039,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -19042,7 +19059,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "ED Someren": {
@@ -19077,7 +19094,7 @@
   },
   "Gemeente Helmond": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "Gemeente Deurne": {
@@ -19137,7 +19154,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "112Brabant": {
