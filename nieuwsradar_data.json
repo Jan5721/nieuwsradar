@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 15:01",
+ "bijgewerkt": "23-11-2026 15:18",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -590,7 +590,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 14:55"
@@ -1067,7 +1067,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 14:44"
@@ -4644,6 +4644,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687530/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html": {
+   "titel": "Kleinzoon van PSV-legende poeiert op heerlijke wijze raak: bekijk hier de beelden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687530/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html",
+   "tekst": "",
+   "datum": "2026-11-23T14:13:25+00:00",
+   "eerst_gezien": "2026-11-23T14:17:25.895785+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
    "titel": "Grotere rol voor buurthuizen tegen eenzaamheid; wat is er nodig'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html",
@@ -5296,7 +5313,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 14:53"
@@ -7698,23 +7715,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 15:23"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008": {
-   "titel": "A2 Helmond Rit: 139008",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126150640a2helmondrit139008",
-   "tekst": "Ambulance 22-107 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T15:06:40+01:00",
-   "eerst_gezien": "2026-11-21T14:21:14.522956+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 15:06"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -16778,23 +16778,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/": {
-   "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
-   "link": "https://www.ed.nl/helmond/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond~aed278b4/",
-   "tekst": "IVN Helmond houdt een natuur- en cultuurwandeling langs de Goorloop, de Schootense Loop en de Stiphoutse Loop. Woensdag 25 november begint de wandeling om 10.00 uur op de parkeerplaats naast het kerkhof aan de Hortsedijk in Helmond.",
-   "datum": "2026-11-16T14:01:47+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 15:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html": {
    "titel": "Markante Deurnese villa zit straks vol senioren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html",
@@ -17586,7 +17569,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "16-11 23:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108619662/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html": {
    "titel": "Hallo Sint! Check hier de foto`s van de sinterklaasintocht 2026 in Helmond.",
@@ -18149,22 +18133,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 17:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108615856/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond.html": {
-   "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108615856/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-16T14:13:05+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -18270,7 +18238,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18290,7 +18258,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "112Brabant": {
