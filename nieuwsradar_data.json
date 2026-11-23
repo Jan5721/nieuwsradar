@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 14:13",
+ "bijgewerkt": "23-11-2026 14:29",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -4610,6 +4610,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687226/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
+   "titel": "Grotere rol voor buurthuizen tegen eenzaamheid; wat is er nodig'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687226/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html",
+   "tekst": "",
+   "datum": "2026-11-23T13:25:12+00:00",
+   "eerst_gezien": "2026-11-23T13:29:25.749674+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687193/bijzondere-onderscheiding-voor-lieshoutse-gildeman-toon-gevers.html": {
+   "titel": "Bijzondere onderscheiding voor Lieshoutse gildeman Toon Gevers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687193/bijzondere-onderscheiding-voor-lieshoutse-gildeman-toon-gevers.html",
+   "tekst": "",
+   "datum": "2026-11-23T13:19:03+00:00",
+   "eerst_gezien": "2026-11-23T13:29:25.749674+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 14:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108686907/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html": {
    "titel": "Maak gezondheid structureel onderdeel van het onderwijs",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108686907/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html",
@@ -4792,22 +4826,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 11:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
-   "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html",
-   "tekst": "",
-   "datum": "2026-11-23T08:31:03+00:00",
-   "eerst_gezien": "2026-11-23T08:38:52.887265+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html": {
    "titel": "Shockvriezer koelt met hoge capaciteit sauzen razendsnel terug",
@@ -5400,6 +5418,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126142217a1helmondrit139876": {
+   "titel": "A1 Helmond Rit: 139876",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126142217a1helmondrit139876",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T14:22:17+01:00",
+   "eerst_gezien": "2026-11-23T13:29:25.749674+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "23-11 14:22"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126140048a1helmondrit139863": {
    "titel": "A1 Helmond Rit: 139863",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126140048a1helmondrit139863",
@@ -5412,7 +5447,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 14:00"
@@ -5705,6 +5740,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 17:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
+   "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html",
+   "tekst": "",
+   "datum": "2026-11-23T08:31:03+00:00",
+   "eerst_gezien": "2026-11-23T08:38:52.887265+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126163346a1astenrit139428": {
    "titel": "A1 Asten Rit: 139428",
@@ -18218,7 +18269,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
