@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 07:46",
+ "bijgewerkt": "23-11-2026 08:02",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -858,8 +858,7 @@
    "eerst_gezien": "2026-11-22T19:30:59.294161+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
-    "Asten",
-    "Helmond"
+    "Asten"
    ],
    "soort": "regionale pers",
    "betaald": true,
@@ -876,8 +875,7 @@
    "eerst_gezien": "2026-11-22T17:38:33.710391+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
-    "Asten",
-    "Helmond"
+    "Asten"
    ],
    "soort": "regionale pers",
    "betaald": false,
@@ -1056,23 +1054,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:15"
-  },
-  "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/": {
-   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
-   "link": "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/",
-   "tekst": "Woningbouwplannen genoeg in de regio, maar zonder stroom wordt een groot deel voorlopig niet gebouwd. In het Helmondse Nieuw Brandevoort en KnoopXL in Eindhoven gaan ze onderzoeken wat er wellicht toch kan door de plannen aan te passen.",
-   "datum": "2026-11-21T07:00:00+00:00",
-   "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:00"
   },
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -1826,7 +1807,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal": {
    "titel": "Reflection Day in Deurne: zichtbaarheid in verkeer centraal",
    "link": "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal",
-   "tekst": "maandag In Deurne heeft wethouder Wouter Bulten basisschoolleerlingen bewust gemaakt van het belang van zichtbaarheid in het verkeer. Dit gebeurde tijdens Reflection Day, een campagne die al tien jaar aandacht vraagt voor …",
+   "tekst": "16 november 2026 In Deurne heeft wethouder Wouter Bulten basisschoolleerlingen bewust gemaakt van het belang van zichtbaarheid in het verkeer. Dit gebeurde tijdens Reflection Day, een campagne die al tien jaar aandacht vraagt voor …",
    "datum": "2026-11-16T15:56:49.505092+00:00",
    "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -2049,7 +2030,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming": {
    "titel": "Voormalige boerderij in Ommel krijgt nieuwe bestemming",
    "link": "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming",
-   "tekst": "maandag Een voormalige agrarische bedrijfslocatie in Ommel wordt herontwikkeld tot twee woningen. De gemeente Asten heeft hiervoor op 12 november een omgevingsvergunning verleend.",
+   "tekst": "16 november 2026 Een voormalige agrarische bedrijfslocatie in Ommel wordt herontwikkeld tot twee woningen. De gemeente Asten heeft hiervoor op 12 november een omgevingsvergunning verleend.",
    "datum": "2026-11-16T15:24:37.551385+00:00",
    "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2307,7 +2288,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind": {
    "titel": "Sinterklaas arriveert per boot in Someren-Eind",
    "link": "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind",
-   "tekst": "maandag Sinterklaas is per boot aangekomen in Someren-Eind en feestelijk onthaald.",
+   "tekst": "16 november 2026 Sinterklaas is per boot aangekomen in Someren-Eind en feestelijk onthaald.",
    "datum": "2026-11-16T15:56:49.505092+00:00",
    "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4442,12 +4423,29 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108684027/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
-   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684027/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108684123/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html": {
+   "titel": "Eindhoven begint met noodplan voor inwoners: in deze wijken komen de eerste steunpunten waar buurt terecht kan bij calamiteiten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684123/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html",
    "tekst": "",
-   "datum": "2026-11-23T06:45:18+00:00",
-   "eerst_gezien": "2026-11-23T06:46:10.044318+00:00",
+   "datum": "2026-11-23T07:01:04+00:00",
+   "eerst_gezien": "2026-11-23T07:02:13.644410+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 08:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684098/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684098/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "Treinen van en naar Eindhoven Centraal hebben tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor rijden er tot ongeveer...",
+   "datum": "2026-11-23T06:55:03+00:00",
+   "eerst_gezien": "2026-11-23T07:02:13.644410+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4533,40 +4531,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html": {
-   "titel": "Loek Sonnemans (30) springt in het diepe als componist: `Het voelt helemaal niet als werken`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html",
-   "tekst": "",
-   "datum": "2026-11-22T19:49:08+00:00",
-   "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108679434/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter.html": {
-   "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679434/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter.html",
-   "tekst": "",
-   "datum": "2026-11-22T17:49:05+00:00",
-   "eerst_gezien": "2026-11-22T17:54:34.463589+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten",
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -4774,6 +4738,22 @@
    "prio": false,
    "tijd": "21-11 10:30"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html": {
+   "titel": "Loek Sonnemans (30) springt in het diepe als componist: `Het voelt helemaal niet als werken`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html",
+   "tekst": "",
+   "datum": "2026-11-22T19:49:08+00:00",
+   "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108679761/ramon-weren-nieuwe-prins-van-carnavalsvereniging-de-plekkers-in-asten.html": {
    "titel": "Ramon Weren nieuwe prins van carnavalsvereniging De Plekkers in Asten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108679761/ramon-weren-nieuwe-prins-van-carnavalsvereniging-de-plekkers-in-asten.html",
@@ -4790,6 +4770,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 19:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108679434/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter.html": {
+   "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679434/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter.html",
+   "tekst": "",
+   "datum": "2026-11-22T17:49:05+00:00",
+   "eerst_gezien": "2026-11-22T17:54:34.463589+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
    "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
@@ -5404,6 +5400,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 13:45"
+  },
+  "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/": {
+   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
+   "link": "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/",
+   "tekst": "Woningbouwplannen genoeg in de regio, maar zonder stroom wordt een groot deel voorlopig niet gebouwd. In het Helmondse Nieuw Brandevoort en KnoopXL in Eindhoven gaan ze onderzoeken wat er wellicht toch kan door de plannen aan te passen.",
+   "datum": "2026-11-21T07:00:00+00:00",
+   "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 08:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684027/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684027/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "",
+   "datum": "2026-11-23T06:45:18+00:00",
+   "eerst_gezien": "2026-11-23T06:46:10.044318+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108683877/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
@@ -18488,7 +18517,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -18568,7 +18597,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 7,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18578,7 +18607,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Someren": {
