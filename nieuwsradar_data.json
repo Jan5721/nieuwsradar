@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 19:03",
+ "bijgewerkt": "23-11-2026 19:19",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -2099,7 +2099,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers": {
    "titel": "Alzheimer Café Peelland: steun voor mantelzorgers",
    "link": "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers",
-   "tekst": "dinsdag In Asten vindt dinsdagavond 1 december een bijeenkomst plaats voor mantelzorgers van mensen met dementie. Het Alzheimer Café Peelland richt zich op het omgaan met overbelasting en het organiseren van hulp.",
+   "tekst": "17 november 2026 In Asten vindt dinsdagavond 1 december een bijeenkomst plaats voor mantelzorgers van mensen met dementie. Het Alzheimer Café Peelland richt zich op het omgaan met overbelasting en het organiseren van hulp.",
    "datum": "2026-11-17T13:57:17.916721+00:00",
    "eerst_gezien": "2026-11-17T13:57:17.916721+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -4759,7 +4759,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 18:49"
@@ -18420,23 +18420,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 19:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108617762/dode-man-gevonden-in-eindhoven-politie-doet-onderzoek.html": {
-   "titel": "Dode man gevonden in Eindhoven, politie doet onderzoek",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108617762/dode-man-gevonden-in-eindhoven-politie-doet-onderzoek.html",
-   "tekst": "",
-   "datum": "2026-11-16T18:13:11+00:00",
-   "eerst_gezien": "2026-11-16T18:28:39.497244+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 19:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html": {
    "titel": "Steffie (22) uit Veghel zorgt voor kippenvel in SBS-programma: `Dikke middelvinger naar al die mensen die jou gepest hebben`",
