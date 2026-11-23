@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 13:09",
+ "bijgewerkt": "23-11-2026 13:25",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64838/spv-en-william-van-moorsel-gaan-na-drie-seizoenen-uit-elkaar": {
    "titel": "SPV en William van Moorsel gaan na drie seizoenen uit elkaar",
@@ -561,6 +561,23 @@
    "prio": false,
    "tijd": "16-11 16:03"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64840/problematiek-vol-stroomnet-nog-nijpender-asten-grijpt-mis-bij": {
+   "titel": "Problematiek vol stroomnet nóg nijpender: Asten grijpt mis bij woningbouwplannen",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64840/problematiek-vol-stroomnet-nog-nijpender-asten-grijpt-mis-bij",
+   "tekst": "REGIO - De woningbouw in de Metropoolregio Eindhoven dreigt in het slop te raken. Het overvolle stroomnet maakt dat het gros van de nieuwe plannen op een wachtlijst belandt. De problematiek rondom netcongestie blijkt namelijk nóg nijpender dan eerder gedacht. Gemeenten zoals …",
+   "datum": "2026-11-23T13:09:07+01:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:09"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64836/ramon-weren-57e-prins-van-de-plekkers": {
    "titel": "Ramon Weren 57e prins van De Plekkers",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64836/ramon-weren-57e-prins-van-de-plekkers",
@@ -1038,19 +1055,19 @@
    "prio": false,
    "tijd": "23-11 10:14"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
-   "titel": "Nog urenlang problemen op het spoor rond Eindhoven door seinstoring",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
-   "tekst": "Een seinstoring veroorzaakt sinds maandagochtend problemen op het spoor rond Eindhoven. Zo rijden er tot kwart over drie geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend minder treinen dan gebruikelijk. …",
+  "https://www.omroepbrabant.nl/nieuws/6035733/urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
+   "titel": "Urenlang problemen op het spoor rond Eindhoven door seinstoring",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
+   "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
    "datum": "2026-11-23T05:52:00+00:00",
-   "eerst_gezien": "2026-11-23T11:36:49.345189+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 06:52"
@@ -2488,6 +2505,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 21:16"
+  },
+  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
+   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
+   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
   },
   "https://www.asten.nl/nieuws/artikel/blog-40-een-inkijkje-in-het-werkleven-van-de-burgemeester": {
    "titel": "Blog 40: Een inkijkje in het werkleven van de burgemeester",
@@ -4576,12 +4610,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108686571/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108686677/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html": {
    "titel": "Ton Verhoeven (59) redt kerken van de ondergang uit pure verliefdheid: `Zoiets mag toch nooit verdwijnen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686571/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686677/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html",
    "tekst": "",
-   "datum": "2026-11-23T12:01:05+00:00",
-   "eerst_gezien": "2026-11-23T12:08:59.061563+00:00",
+   "datum": "2026-11-23T12:13:25+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4591,7 +4625,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 13:01"
+   "tijd": "23-11 13:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html": {
    "titel": "Gemeente reikt jeugdlintjes uit aan jonge Helmonders",
@@ -5671,6 +5705,40 @@
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 15:40"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
+   "titel": "Nog urenlang problemen op het spoor rond Eindhoven door seinstoring",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
+   "tekst": "Een seinstoring veroorzaakt sinds maandagochtend problemen op het spoor rond Eindhoven. Zo rijden er tot kwart over drie geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend minder treinen dan gebruikelijk. …",
+   "datum": "2026-11-23T05:52:00+00:00",
+   "eerst_gezien": "2026-11-23T11:36:49.345189+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 06:52"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686571/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html": {
+   "titel": "Ton Verhoeven (59) redt kerken van de ondergang uit pure verliefdheid: `Zoiets mag toch nooit verdwijnen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686571/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html",
+   "tekst": "",
+   "datum": "2026-11-23T12:01:05+00:00",
+   "eerst_gezien": "2026-11-23T12:08:59.061563+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108684554/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html": {
    "titel": "Drukte bij pakketpunten, maar levert het iets op' `Het is veel werk voor weinig`",
@@ -17736,23 +17804,6 @@
    "prio": false,
    "tijd": "17-11 11:43"
   },
-  "https://www.ed.nl/someren/fietsfilmavond-the-big-bike-film-night-komt-naar-someren~a8159073/": {
-   "titel": "Fietsfilmavond The Big Bike Film Night komt naar Someren",
-   "link": "https://www.ed.nl/someren/fietsfilmavond-the-big-bike-film-night-komt-naar-someren~a8159073/",
-   "tekst": "The Big Bike Film Night komt met een nieuw filmprogramma naar Theater De Ruchte in Someren. Dinsdag 1 december begint de voorstelling om 19.00 uur en duurt deze tot 21.30 uur.",
-   "datum": "2026-11-16T12:22:17+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:22"
-  },
   "https://www.omroepbrabant.nl/nieuws/6033896/expositie-oudroze-te-zien-in-helmond": {
    "titel": "Expositie OudRoze te zien in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6033896/expositie-oudroze-te-zien-in-helmond",
@@ -17853,23 +17904,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/helmond/heb-jij-pip-of-josje-gezien-deze-twee-huisdieren-worden-in-helmond-vermist~a076beba/": {
-   "titel": "Heb jij Pip of Josje gezien? Deze twee huisdieren worden in Helmond vermist",
-   "link": "https://www.ed.nl/helmond/heb-jij-pip-of-josje-gezien-deze-twee-huisdieren-worden-in-helmond-vermist~a076beba/",
-   "tekst": "Afgelopen week raakten in Helmond twee huisdieren vermist die we hier op een rij zetten. Wie heeft Pip of Josje gezien?",
-   "datum": "2026-11-16T12:10:55+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:10"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108623936/liesselse-smederij-mcm-groeide-onder-directeur-pim-verder-uit-we-zijn-nog-steeds-een-familiebedrijf.html": {
    "titel": "Liesselse smederij MCM groeide onder directeur Pim verder uit: `We zijn nog steeds een familiebedrijf`",
@@ -18879,54 +18913,6 @@
    "prio": false,
    "tijd": "16-11 13:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108615004/heb-jij-pip-of-josje-gezien-deze-twee-huisdieren-worden-in-helmond-vermist.html": {
-   "titel": "Heb jij Pip of Josje gezien' Deze twee huisdieren worden in Helmond vermist",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108615004/heb-jij-pip-of-josje-gezien-deze-twee-huisdieren-worden-in-helmond-vermist.html",
-   "tekst": "",
-   "datum": "2026-11-16T12:13:09+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108615001/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij.html": {
-   "titel": "Gratis kerstmarkt in Helmond voor minima: Samantha`s hondjes lopen er nu ook kerstig bij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108615001/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij.html",
-   "tekst": "",
-   "datum": "2026-11-16T12:13:05+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108615000/heb-jij-pip-of-josje-gezien-deze-twee-huisdieren-worden-in-helmond-vermist.html": {
-   "titel": "Heb jij Pip of Josje gezien' Deze twee huisdieren worden in Helmond vermist",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108615000/heb-jij-pip-of-josje-gezien-deze-twee-huisdieren-worden-in-helmond-vermist.html",
-   "tekst": "",
-   "datum": "2026-11-16T12:13:05+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://www.omroepbrabant.nl/nieuws/6033392/deurne-geeft-groen-licht-voor-bouw-van-52-parkappartementen": {
    "titel": "Deurne geeft groen licht voor bouw van 52 parkappartementen",
    "link": "https://www.omroepbrabant.nl/nieuws/6033392/deurne-geeft-groen-licht-voor-bouw-van-52-parkappartementen",
@@ -18943,22 +18929,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108614988/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij.html": {
-   "titel": "Gratis kerstmarkt in Helmond voor minima: Samantha`s hondjes lopen er nu ook kerstig bij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108614988/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij.html",
-   "tekst": "",
-   "datum": "2026-11-16T12:11:29+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://www.omroepbrabant.nl/nieuws/6033391/deurne-wil-grond-uitlenen-voor-uitbreiding-schoolplein": {
    "titel": "Deurne wil grond uitlenen voor uitbreiding schoolplein",
@@ -19038,7 +19008,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -19098,7 +19068,7 @@
   },
   "Gemeente Deurne": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "Gemeente Asten": {
