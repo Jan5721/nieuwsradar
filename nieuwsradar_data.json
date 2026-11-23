@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 08:18",
+ "bijgewerkt": "23-11-2026 08:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -816,6 +816,23 @@
    "prio": false,
    "tijd": "16-11 09:51"
   },
+  "https://www.ed.nl/helmond/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat~afea1dc2/": {
+   "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
+   "link": "https://www.ed.nl/helmond/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat~afea1dc2/",
+   "tekst": "En al weer een kapper die honderd jaar bestaat. Dit keer gaat het om Vullings in de Heistraat. Ronald Vullings is de derde generatie die hier aan het roer staat. Ik ga nu hem eens knippen en scheren.",
+   "datum": "2026-11-23T07:30:15+00:00",
+   "eerst_gezien": "2026-11-23T07:34:24.132363+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 08:30"
+  },
   "https://www.ed.nl/eindhoven/treinverkeer-eindhoven-ontregeld-door-seinstoring~ae1fbb95/": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
    "link": "https://www.ed.nl/eindhoven/treinverkeer-eindhoven-ontregeld-door-seinstoring~ae1fbb95/",
@@ -993,7 +1010,7 @@
    "tekst": "Basisschool Zeilberg in Deurne blijft vermoedelijk minstens maandenlang gesloten. Het hele schoolgebouw is fors beschadigd door vuur, rook en roet. De brand werd vrijdagavond veroorzaakt door vuurwerk. Voor de ruim 250 leerlingen wordt komende week naar een tijdelijk onderkomen …",
    "datum": "2026-11-21T16:37:00+00:00",
    "eerst_gezien": "2026-11-21T16:45:37.335833+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Deurne"
    ],
@@ -1037,23 +1054,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:30"
-  },
-  "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/": {
-   "titel": "Bij Stiphout Vooruit hebben ze nu twee voorzitters: ‘Vele handen maken licht werk’",
-   "link": "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/",
-   "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
-   "datum": "2026-11-21T08:15:00+00:00",
-   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:15"
   },
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -4423,6 +4423,38 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684323/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684323/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "Treinen van en naar Eindhoven Centraal hebben tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor rijden er tot ongeveer...",
+   "datum": "2026-11-23T07:33:06+00:00",
+   "eerst_gezien": "2026-11-23T07:34:24.132363+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684318/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html": {
+   "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684318/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html",
+   "tekst": "",
+   "datum": "2026-11-23T07:33:02+00:00",
+   "eerst_gezien": "2026-11-23T07:34:24.132363+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108684213/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html": {
    "titel": "Eindhoven begint met noodplan voor inwoners: in deze wijken komen de eerste steunpunten waar buurt terecht kan bij calamiteiten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108684213/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html",
@@ -4435,7 +4467,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 08:13"
@@ -4452,7 +4484,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4504,38 +4536,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 07:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108681087/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem.html": {
-   "titel": "Wáár komt die pakjesboot dan aan' Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108681087/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem.html",
-   "tekst": "",
-   "datum": "2026-11-22T22:15:04+00:00",
-   "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108681078/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
-   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108681078/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
-   "tekst": "",
-   "datum": "2026-11-22T22:15:03+00:00",
-   "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html": {
    "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
@@ -5144,6 +5144,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126082744a2helmondrit139681": {
+   "titel": "A2 Helmond Rit: 139681",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126082744a2helmondrit139681",
+   "tekst": "Ambulance 22-107 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T08:27:44+01:00",
+   "eerst_gezien": "2026-11-23T07:34:24.132363+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "23-11 08:27"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126082401a1helmondrit139680": {
+   "titel": "A1 Helmond Rit: 139680",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126082401a1helmondrit139680",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T08:24:01+01:00",
+   "eerst_gezien": "2026-11-23T07:34:24.132363+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "23-11 08:24"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126045227a2deurnerit139632": {
    "titel": "A2 Deurne Rit: 139632",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126045227a2deurnerit139632",
@@ -5415,6 +5449,55 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 13:45"
+  },
+  "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/": {
+   "titel": "Bij Stiphout Vooruit hebben ze nu twee voorzitters: ‘Vele handen maken licht werk’",
+   "link": "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/",
+   "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
+   "datum": "2026-11-21T08:15:00+00:00",
+   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 09:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108681087/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem.html": {
+   "titel": "Wáár komt die pakjesboot dan aan' Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108681087/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem.html",
+   "tekst": "",
+   "datum": "2026-11-22T22:15:04+00:00",
+   "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108681078/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108681078/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html",
+   "tekst": "",
+   "datum": "2026-11-22T22:15:03+00:00",
+   "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108680262/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html": {
    "titel": "Van revalidatie naar captain van Dordt en international van Suriname: Jaden Pinas beleeft een bijzonder jaar",
@@ -18649,7 +18732,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 18,
    "fout": ""
   },
   "112Brabant": {
