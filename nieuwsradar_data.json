@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 00:40",
+ "bijgewerkt": "24-11-2026 00:56",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -4713,19 +4713,19 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108693316/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108693316/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
    "tekst": "",
-   "datum": "2026-11-23T22:45:04+00:00",
-   "eerst_gezien": "2026-11-23T22:51:53.212475+00:00",
+   "datum": "2026-11-23T23:54:06+00:00",
+   "eerst_gezien": "2026-11-23T23:55:45.840167+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -5533,6 +5533,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126004519a2helmondrit140071": {
+   "titel": "A2 Helmond Rit: 140071",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126004519a2helmondrit140071",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-24T00:45:19+01:00",
+   "eerst_gezien": "2026-11-23T23:55:45.840167+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 00:45"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126000918a2helmondrit140064": {
    "titel": "A2 Helmond Rit: 140064",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126000918a2helmondrit140064",
@@ -5872,6 +5889,22 @@
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 08:24"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108693316/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108693316/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "",
+   "datum": "2026-11-23T22:45:04+00:00",
+   "eerst_gezien": "2026-11-23T22:51:53.212475+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108689487/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-op-willem-van-der-willigen-70-in-lieshout-maar-nu-wijst-zij-alleen.html": {
    "titel": "Bill C. en Sharona de J. stonden samen terecht voor moord op Willem van der Willigen (70) in Lieshout, maar nu wijst zij alleen...",
@@ -18573,7 +18606,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
