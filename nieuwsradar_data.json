@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 10:44",
+ "bijgewerkt": "23-11-2026 11:00",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64833/sv-deurne-lijdt-zure-en-onnodige-nederlaag-en-is-koppositie-kwijt": {
    "titel": "SV Deurne lijdt zure en onnodige nederlaag en is koppositie kwijt",
@@ -832,23 +832,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/eindhoven/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet~aa7da3a5/": {
-   "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
-   "link": "https://www.ed.nl/eindhoven/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet~aa7da3a5/",
-   "tekst": "Eindhoven staat bewust niet op de Brabantse PFAS-kaart die de provincie op 20 november naar buiten bracht. ‘We willen onnodige onrust voorkomen.’",
-   "datum": "2026-11-23T08:19:31+00:00",
-   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 09:19"
   },
   "https://www.ed.nl/helmond/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat~afea1dc2/": {
    "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
@@ -4661,6 +4644,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685372/eindhoven-staat-bewust-niet-op-de-brabantse-pfas-kaart-we-willen-onnodige-onrust-voorkomen.html": {
+   "titel": "Eindhoven staat bewust niet op de Brabantse PFAS-kaart: `We willen onnodige onrust voorkomen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685372/eindhoven-staat-bewust-niet-op-de-brabantse-pfas-kaart-we-willen-onnodige-onrust-voorkomen.html",
+   "tekst": "",
+   "datum": "2026-11-23T09:55:04+00:00",
+   "eerst_gezien": "2026-11-23T09:59:54.344421+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 10:55"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
    "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html",
@@ -4819,7 +4819,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 10:35"
@@ -5415,6 +5415,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126105158a1helmondrit139779": {
+   "titel": "A1 Helmond Rit: 139779",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126105158a1helmondrit139779",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T10:51:58+01:00",
+   "eerst_gezien": "2026-11-23T09:59:54.344421+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "23-11 10:51"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126104650a1deurnerit139776": {
+   "titel": "A1 Deurne Rit: 139776",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126104650a1deurnerit139776",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T10:46:50+01:00",
+   "eerst_gezien": "2026-11-23T09:59:54.344421+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "23-11 10:46"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126101649a2helmondrit139757": {
    "titel": "A2 Helmond Rit: 139757",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126101649a2helmondrit139757",
@@ -5703,6 +5737,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 14:36"
+  },
+  "https://www.ed.nl/eindhoven/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet~aa7da3a5/": {
+   "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
+   "link": "https://www.ed.nl/eindhoven/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet~aa7da3a5/",
+   "tekst": "Eindhoven staat bewust niet op de Brabantse PFAS-kaart die de provincie op 20 november naar buiten bracht. ‘We willen onnodige onrust voorkomen.’",
+   "datum": "2026-11-23T08:19:31+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:19"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126141524ongevalwegvervoerletselwillemprinzenpleinuiverla": {
    "titel": "Ongeval wegvervoer letsel Willem Prinzenplein Uiverlaan Helmond",
@@ -19049,7 +19100,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -19134,7 +19185,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19154,7 +19205,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
