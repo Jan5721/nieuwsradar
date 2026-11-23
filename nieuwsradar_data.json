@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 10:28",
+ "bijgewerkt": "23-11-2026 10:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64833/sv-deurne-lijdt-zure-en-onnodige-nederlaag-en-is-koppositie-kwijt": {
    "titel": "SV Deurne lijdt zure en onnodige nederlaag en is koppositie kwijt",
@@ -574,7 +574,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 10:23"
@@ -1067,7 +1067,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 10:14"
@@ -1997,23 +1997,6 @@
    "titel": "Vergunning voor deur in gevel Torteltuin in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6034082/vergunning-voor-deur-in-gevel-torteltuin-in-deurne",
    "tekst": "9 november 2026 De gemeente Deurne heeft een vergunning verleend voor het aanpassen van een raam in de gevel naar een buitendeur op locatie Torteltuin 2.",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034034/ehbo-vereniging-deurne-ontvangt-koninklijke-erepenning": {
-   "titel": "EHBO-vereniging Deurne ontvangt Koninklijke Erepenning",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034034/ehbo-vereniging-deurne-ontvangt-koninklijke-erepenning",
-   "tekst": "9 november 2026 Burgemeester Greet Buter heeft de Koninklijke Erepenning uitgereikt aan EHBO-vereniging Deurne. Dit gebeurde tijdens het 75-jarig jubileumfeest van de vereniging in het Gerardushuis.",
    "datum": "2026-11-16T12:39:00.571451+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4824,6 +4807,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685220/vogelexcursie-wintergasten-in-de-deurnsche-peel.html": {
+   "titel": "Vogelexcursie - wintergasten in de Deurnsche Peel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685220/vogelexcursie-wintergasten-in-de-deurnsche-peel.html",
+   "tekst": "23 november 2026 - De Deurnsche Peel is een belangrijk vogelgebied. In de winter is de Deurnsche Peel de favoriete overwinterplek voor...",
+   "datum": "2026-11-23T09:35:07+00:00",
+   "eerst_gezien": "2026-11-23T09:43:55.447469+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 10:35"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html": {
    "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html",
@@ -5022,23 +5022,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 17:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html": {
-   "titel": "Kinderen steken vuurwerk af, basisschool Deurne fikt af",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html",
-   "tekst": "Basisschool Zeilberg in Deurne blijft voorlopig dicht na een grote brand die vrijdagavond ontstond door iets dat eigenlijk sinds het verbod...",
-   "datum": "2026-11-21T09:30:06+00:00",
-   "eerst_gezien": "2026-11-21T09:31:26.039506+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 10:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108680025/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken.html": {
    "titel": "Loek Sonnemans (30) springt in het diepe als componist: `Het voelt helemaal niet als werken`",
@@ -5444,7 +5427,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 10:16"
@@ -5737,6 +5720,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 14:15"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034034/ehbo-vereniging-deurne-ontvangt-koninklijke-erepenning": {
+   "titel": "EHBO-vereniging Deurne ontvangt Koninklijke Erepenning",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034034/ehbo-vereniging-deurne-ontvangt-koninklijke-erepenning",
+   "tekst": "9 november 2026 Burgemeester Greet Buter heeft de Koninklijke Erepenning uitgereikt aan EHBO-vereniging Deurne. Dit gebeurde tijdens het 75-jarig jubileumfeest van de vereniging in het Gerardushuis.",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html": {
+   "titel": "Kinderen steken vuurwerk af, basisschool Deurne fikt af",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html",
+   "tekst": "Basisschool Zeilberg in Deurne blijft voorlopig dicht na een grote brand die vrijdagavond ontstond door iets dat eigenlijk sinds het verbod...",
+   "datum": "2026-11-21T09:30:06+00:00",
+   "eerst_gezien": "2026-11-21T09:31:26.039506+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 10:30"
   },
   "https://www.omroepbrabant.nl/nieuws/6034694/twee-mensen-naar-ziekenhuis-na-botsing-met-autos-in-helmond": {
    "titel": "Twee mensen naar ziekenhuis na botsing met auto's in Helmond",
@@ -7595,23 +7612,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 17:29"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905": {
-   "titel": "A1 Asten Rit: 138905",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126103342a1astenrit138905",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T10:33:42+01:00",
-   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 10:33"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108676775/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie.html": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: `Lesgeven is mijn grote passie`",
@@ -19079,7 +19079,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 23,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
