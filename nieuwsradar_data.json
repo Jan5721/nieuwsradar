@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 16:54",
+ "bijgewerkt": "23-11-2026 17:10",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -846,7 +846,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:40"
@@ -880,7 +880,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:00"
@@ -1618,6 +1618,23 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035850/eerste-projectie-ons-dorp-in-de-schijnwerpers-in-vlierden": {
+   "titel": "Eerste projectie 'Ons dorp in de schijnwerpers' in Vlierden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035850/eerste-projectie-ons-dorp-in-de-schijnwerpers-in-vlierden",
+   "tekst": "",
+   "datum": "2026-11-23T16:10:11.320091+00:00",
+   "eerst_gezien": "2026-11-23T16:10:11.320091+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:10"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier": {
    "titel": "Deurne verdeelt subsidies vanaf 2029 op nieuwe manier",
    "link": "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier",
@@ -1638,7 +1655,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035779/teammanager-publiekszaken-deurne-krijgt-mandaat-voor-huwelijksbesluiten": {
    "titel": "Teammanager Publiekszaken Deurne krijgt mandaat voor huwelijksbesluiten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035779/teammanager-publiekszaken-deurne-krijgt-mandaat-voor-huwelijksbesluiten",
-   "tekst": "De gemeente Deurne heeft besloten dat de teammanager Publiekszaken voortaan namens het college mag beslissen over huwelijksverzoeken en het openen van de burgerlijke stand buiten normale tijden. Het besluit is op 15 oktober 2026 genomen.",
+   "tekst": "",
    "datum": "2026-11-23T09:11:11.213761+00:00",
    "eerst_gezien": "2026-11-23T09:11:11.213761+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1868,27 +1885,29 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:54"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal": {
-   "titel": "Reflection Day in Deurne: zichtbaarheid in verkeer centraal",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal",
-   "tekst": "16 november 2026 In Deurne heeft wethouder Wouter Bulten basisschoolleerlingen bewust gemaakt van het belang van zichtbaarheid in het verkeer. Dit gebeurde tijdens Reflection Day, een campagne die al tien jaar aandacht vraagt voor …",
-   "datum": "2026-11-16T15:56:49.505092+00:00",
-   "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
+  "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen": {
+   "titel": "Deurne wint NK Tegelwippen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen",
+   "tekst": "16 november 2026 Deurne heeft de poule Brabantse Peeldorpen gewonnen in het NK Tegelwippen. In totaal zijn 22.262 tegels vervangen door groen, waarmee de gemeente boven Gemert-Bakel, Someren, Laarbeek en Asten eindigt.",
+   "datum": "2026-11-23T16:10:11.320091+00:00",
+   "eerst_gezien": "2026-11-23T16:10:11.320091+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
    "gemeenten": [
-    "Deurne"
+    "Deurne",
+    "Asten",
+    "Someren"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "16-11 16:56"
+   "tijd": "23-11 17:10"
   },
   "https://www.omroepbrabant.nl/nieuws/6034898/martinetplein-in-deurne-krijgt-meer-groen-en-zitplekken": {
    "titel": "Martinetplein in Deurne krijgt meer groen en zitplekken",
@@ -1902,7 +1921,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:54"
@@ -2072,7 +2091,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:54"
@@ -2287,7 +2306,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos": {
    "titel": "Bomen gekapt op Boksenberg voor sterker bos",
    "link": "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos",
-   "tekst": "dinsdag Op de Boksenberg zijn afgelopen winter bomen gekapt. Hierdoor zijn open plekken ontstaan waar nieuwe bomen, struiken en planten kunnen groeien. De natuur krijgt deels de kans om zichzelf te herstellen, terwijl op andere plekken …",
+   "tekst": "17 november 2026 Op de Boksenberg zijn afgelopen winter bomen gekapt. Hierdoor zijn open plekken ontstaan waar nieuwe bomen, struiken en planten kunnen groeien. De natuur krijgt deels de kans om zichzelf te herstellen, terwijl op andere …",
    "datum": "2026-11-17T10:26:38.889108+00:00",
    "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2304,7 +2323,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035041/someren-start-campagne-tegen-geweld-tegen-vrouwen": {
    "titel": "Someren start campagne tegen geweld tegen vrouwen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035041/someren-start-campagne-tegen-geweld-tegen-vrouwen",
-   "tekst": "dinsdag Someren doet mee aan de campagne Orange the World. Burgemeester Dilia Blok en wethouder Daniël van Schijndel hijsen op woensdag 25 november een speciale vlag bij het gemeentehuis. De campagne vraagt aandacht voor geweld tegen …",
+   "tekst": "17 november 2026 Someren doet mee aan de campagne Orange the World. Burgemeester Dilia Blok en wethouder Daniël van Schijndel hijsen op woensdag 25 november een speciale vlag bij het gemeentehuis. De campagne vraagt aandacht voor geweld …",
    "datum": "2026-11-17T10:10:38.579736+00:00",
    "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2317,23 +2336,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 11:10"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind": {
-   "titel": "Sinterklaas arriveert per boot in Someren-Eind",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind",
-   "tekst": "16 november 2026 Sinterklaas is per boot aangekomen in Someren-Eind en feestelijk onthaald.",
-   "datum": "2026-11-16T15:56:49.505092+00:00",
-   "eerst_gezien": "2026-11-16T15:56:49.505092+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:56"
   },
   "https://www.omroepbrabant.nl/nieuws/6034876/prachtparenmiddag-voor-bruidsparen-in-someren": {
    "titel": "Prachtparenmiddag voor bruidsparen in Someren",
@@ -4677,6 +4679,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688522/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html": {
+   "titel": "LIVE | PSV-trainer Bosz en verdediger Dest blikken vooruit op Champions League-kraker bij Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688522/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-23T16:01:05+00:00",
+   "eerst_gezien": "2026-11-23T16:10:11.320091+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html": {
    "titel": "Verkeer op randweg N2 met nieuwe afslag voortaan sneller op A2",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html",
@@ -4689,7 +4708,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:49"
@@ -4706,7 +4725,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4722,7 +4741,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4738,7 +4757,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5594,7 +5613,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 16:51"
@@ -16681,23 +16700,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/": {
-   "titel": "Hallo Sint! Check hier de foto’s van de sinterklaasintocht 2026 in Helmond.",
-   "link": "https://www.ed.nl/helmond/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond~a4cfb15c/",
-   "tekst": "Vrolijke en gespannen snoetjes, pepernoten, dansjes en vooral veel gezelligheid: kleine en grote Helmonders stonden zondag 15 november klaar om Sinterklaas en zijn pieten een warm welkom te geven. Ben jij gespot? Bekijk hier de foto’s van de sinterklaasintocht 2026 in Helmond.",
-   "datum": "2026-11-16T16:00:16+00:00",
-   "eerst_gezien": "2026-11-16T16:12:53.350055+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 17:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108633836/eindhovense-pro-wethouder-samir-toub-door-het-stof-oppositie-wil-onderzoek-naar-belangenverstrengeling.html": {
    "titel": "Eindhovense PRO-wethouder Samir Toub door het stof, oppositie wil onderzoek naar belangenverstrengeling",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108633836/eindhovense-pro-wethouder-samir-toub-door-het-stof-oppositie-wil-onderzoek-naar-belangenverstrengeling.html",
@@ -17950,7 +17952,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "16-11 23:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108619654/twee-19-jarigen-nemen-109-jaar-oude-slagerij-hagelaar-in-helmond-over.html": {
    "titel": "Twee 19-jarigen nemen 109 jaar oude Slagerij Hagelaar in Helmond over",
@@ -18267,23 +18270,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616875/woonbedrijf-zet-extra-in-op-leefbaarheid-alleen-bouwen-en-huurders-zoeken-is-niet-meer-genoeg.html": {
-   "titel": "Woonbedrijf zet extra in op leefbaarheid: `Alleen bouwen en huurders zoeken is niet meer genoeg`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616875/woonbedrijf-zet-extra-in-op-leefbaarheid-alleen-bouwen-en-huurders-zoeken-is-niet-meer-genoeg.html",
-   "tekst": "",
-   "datum": "2026-11-16T16:07:27+00:00",
-   "eerst_gezien": "2026-11-16T16:12:53.350055+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 17:07"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html": {
    "titel": "Steffie (22) uit Veghel zorgt voor kippenvel in SBS-programma: `Dikke middelvinger naar al die mensen die jou gepest hebben`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html",
@@ -18300,70 +18286,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 19:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616856/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html": {
-   "titel": "Hallo Sint! Check hier de foto`s van de sinterklaasintocht 2026 in Helmond.",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616856/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-16T16:05:24+00:00",
-   "eerst_gezien": "2026-11-16T16:12:53.350055+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616804/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html": {
-   "titel": "Laarbeek wil met Senzer door voor groenonderhoud, maar het moet wel beter werk leveren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616804/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html",
-   "tekst": "",
-   "datum": "2026-11-16T16:01:05+00:00",
-   "eerst_gezien": "2026-11-16T16:12:53.350055+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616803/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html": {
-   "titel": "Hallo Sint! Check hier de foto`s van de sinterklaasintocht 2026 in Helmond.",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616803/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-16T16:01:05+00:00",
-   "eerst_gezien": "2026-11-16T16:12:53.350055+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616802/woonbedrijf-zet-extra-in-op-leefbaarheid-alleen-bouwen-en-huurders-zoeken-is-niet-meer-genoeg.html": {
-   "titel": "Woonbedrijf zet extra in op leefbaarheid: `Alleen bouwen en huurders zoeken is niet meer genoeg`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616802/woonbedrijf-zet-extra-in-op-leefbaarheid-alleen-bouwen-en-huurders-zoeken-is-niet-meer-genoeg.html",
-   "tekst": "",
-   "datum": "2026-11-16T16:01:05+00:00",
-   "eerst_gezien": "2026-11-16T16:12:53.350055+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html": {
    "titel": "Nog even nagloeien: dit was Glow 2026 in Eindhoven",
@@ -18431,7 +18353,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18441,7 +18363,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18486,7 +18408,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Drimble Deurne": {
