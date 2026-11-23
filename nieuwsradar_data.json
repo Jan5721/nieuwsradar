@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 11:32",
+ "bijgewerkt": "23-11-2026 11:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64838/spv-en-william-van-moorsel-gaan-na-drie-seizoenen-uit-elkaar": {
    "titel": "SPV en William van Moorsel gaan na drie seizoenen uit elkaar",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 11:21"
@@ -862,7 +862,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 11:16"
@@ -4610,6 +4610,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685743/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html": {
+   "titel": "Oud-Eindhovenaren runnen eigenzinnig miniresort in Ardennen: `De aflevering van Ik Vertrek zou hier heel saai zijn`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685743/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:43:30+00:00",
+   "eerst_gezien": "2026-11-23T10:48:19.948462+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 11:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685742/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html": {
+   "titel": "Mary Fiers komt met actieboek voor iedereen die bij de overheid werkt: `Hang deze wet boven je bed`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685742/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:43:29+00:00",
+   "eerst_gezien": "2026-11-23T10:48:19.948462+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 11:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108685602/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html": {
    "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108685602/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html",
@@ -4622,7 +4656,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4741,38 +4775,6 @@
    "prio": false,
    "tijd": "23-11 08:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108684167/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
-   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684167/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
-   "tekst": "Treinen van en naar Eindhoven Centraal hebben tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor rijden er tot ongeveer...",
-   "datum": "2026-11-23T07:06:04+00:00",
-   "eerst_gezien": "2026-11-23T07:18:13.831301+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108684123/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html": {
-   "titel": "Eindhoven begint met noodplan voor inwoners: in deze wijken komen de eerste steunpunten waar buurt terecht kan bij calamiteiten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684123/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html",
-   "tekst": "",
-   "datum": "2026-11-23T07:01:04+00:00",
-   "eerst_gezien": "2026-11-23T07:02:13.644410+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108685632/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html": {
    "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108685632/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html",
@@ -4785,7 +4787,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5685,6 +5687,38 @@
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 15:40"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684167/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684167/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "Treinen van en naar Eindhoven Centraal hebben tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor rijden er tot ongeveer...",
+   "datum": "2026-11-23T07:06:04+00:00",
+   "eerst_gezien": "2026-11-23T07:18:13.831301+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684123/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html": {
+   "titel": "Eindhoven begint met noodplan voor inwoners: in deze wijken komen de eerste steunpunten waar buurt terecht kan bij calamiteiten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684123/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html",
+   "tekst": "",
+   "datum": "2026-11-23T07:01:04+00:00",
+   "eerst_gezien": "2026-11-23T07:02:13.644410+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/someren/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt~adf5d16b/": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -19120,22 +19154,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108614243/weggelopen-patient-vertrok-uit-ziekenhuis-in-dusseldorf-bleek-identiteit-van-eindhovenaar-te-misbruiken.html",
    "tekst": "",
    "datum": "2026-11-16T10:49:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108614194/als-marechal-desmet-81-binnenkwam-werd-het-gezellig.html": {
-   "titel": "Als Maréchal Desmet (81) binnenkwam, werd het gezellig",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108614194/als-marechal-desmet-81-binnenkwam-werd-het-gezellig.html",
-   "tekst": "",
-   "datum": "2026-11-16T10:43:16+00:00",
    "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
