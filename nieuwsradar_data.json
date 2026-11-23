@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 13:41",
+ "bijgewerkt": "23-11-2026 13:57",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:29"
@@ -591,7 +591,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:30"
@@ -1016,7 +1016,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:27"
@@ -1073,19 +1073,19 @@
    "prio": false,
    "tijd": "23-11 10:14"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035733/urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
-   "titel": "Urenlang problemen op het spoor rond Eindhoven door seinstoring",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035733/urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
+  "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven": {
+   "titel": "Seinstoring zorgde urenlang voor problemen op spoor rond Eindhoven",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven",
    "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
    "datum": "2026-11-23T05:52:00+00:00",
-   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 06:52"
@@ -1449,6 +1449,158 @@
    "prio": false,
    "tijd": "17-11 11:10"
   },
+  "https://www.omroepbrabant.nl/nieuws/6034845/twee-autos-zwaar-beschadigd-bij-botsing-in-helmond": {
+   "titel": "Twee auto’s zwaar beschadigd bij botsing in Helmond",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034845/twee-autos-zwaar-beschadigd-bij-botsing-in-helmond",
+   "tekst": "15 november 2026 Twee auto's zijn zondagochtend op elkaar gebotst in de Maaslaan in Helmond. Beide auto’s liepen veel schade op.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034836/helmond-sport-verliest-met-6-1-van-almere-city-fc": {
+   "titel": "Helmond Sport verliest met 6-1 van Almere City FC",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034836/helmond-sport-verliest-met-6-1-van-almere-city-fc",
+   "tekst": "15 november 2026 Helmond Sport heeft zaterdagavond met 6-1 verloren van Almere City FC. De ploeg uit Helmond stond bij rust al met 3-0 achter in het Yanmar Stadion en kon het tij niet meer keren. Mauro Lenaerts scoorde in de slotfase, maar …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt": {
+   "titel": "Vuurwerk gegooid naar boa's in Helmond: 'Ouders kijk waar je kind uithangt'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt",
+   "tekst": "14 november 2026 Jongeren hebben vrijdagavond vuurwerk en voorwerpen gegooid naar boa's bij Sportpark De Braak in Helmond. Dat meldt de politie in Helmond zaterdag. Een 15-jarige jongen is aangehouden omdat hij met vuurwerk zou hebben …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het": {
+   "titel": "Sinterklaasintocht in 2028 in Helmond? Deze politieke partij hoopt het",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het",
+   "tekst": "14 november 2026 Sinterklaas is pas net aangemeerd in Grave, maar een stuk verderop in de provincie wordt al druk gesolliciteerd naar de rol van gaststad voor de landelijke Sinterklaasintocht. Helder Helmond, de grootste partij in de …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond": {
+   "titel": "Ruim honderd processen-verbaal tijdens verkeerscontrole in Helmond",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond",
+   "tekst": "14 november 2026 Bij een verkeerscontrole die donderdag plaatsvond op de Helmondsingel in Helmond zijn 101 processen-verbaal uitgeschreven. Dat maakte de politie vrijdagnacht bekend. Een vreemdeling werd aangehouden omdat die geen …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034765/explosie-verwoest-auto-op-oprit-bij-huis-in-helmond-buurt-schrikt-van-knal": {
+   "titel": "Explosie verwoest auto op oprit bij huis in Helmond, buurt schrikt van knal",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034765/explosie-verwoest-auto-op-oprit-bij-huis-in-helmond-buurt-schrikt-van-knal",
+   "tekst": "VIDEO 14 november 2026 Een geparkeerde auto is vrijdagnacht verwoest aan het Nemerlaerhof in Helmond. De politie gaat ervan uit dat de schade is veroorzaakt door een explosief. De auto stond op de oprit van een huis.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034762/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-acht": {
+   "titel": "Stroomstoring in Helmond: herstel verwacht rond kwart over acht",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034762/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-acht",
+   "tekst": "14 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 100 adressen zaten sinds vanochtend vroeg zonder stroom. De storing begon rond vier uur en was verholpen om kwart voor zes.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034751/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen": {
+   "titel": "Stroomstoring in Helmond: herstel verwacht rond half negen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034751/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen",
+   "tekst": "13 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds gisteravond zonder stroom. De storing begon om half zeven en werd vannacht om vijf over half twaalf verholpen.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034750/auto-belandt-in-sloot-in-helmond-man-met-verwondingen-naar-ziekenhuis": {
+   "titel": "Auto belandt in sloot in Helmond, man met verwondingen naar ziekenhuis",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034750/auto-belandt-in-sloot-in-helmond-man-met-verwondingen-naar-ziekenhuis",
+   "tekst": "VIDEO 13 november 2026 Een auto is vrijdagavond van de weg geraakt en in een sloot beland aan de Lieshoutseweg in Helmond. Een oudere man die in de auto zat, kon pas worden bevrijd nadat de brandweer de auto uit de sloot had getrokken. Een …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035779/teammanager-publiekszaken-deurne-krijgt-mandaat-voor-huwelijksbesluiten": {
    "titel": "Teammanager Publiekszaken Deurne krijgt mandaat voor huwelijksbesluiten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035779/teammanager-publiekszaken-deurne-krijgt-mandaat-voor-huwelijksbesluiten",
@@ -1740,6 +1892,74 @@
    "prio": false,
    "tijd": "16-11 16:24"
   },
+  "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning": {
+   "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning",
+   "tekst": "12 november 2026 De gemeente Deurne heeft toestemming gegeven voor een evenement op de Bivakweg. Het besluit werd op 10 november genomen en de vergunning is verleend.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne": {
+   "titel": "Gehandicaptenparkeerplaats ingesteld bij Kolgans 33 in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne",
+   "tekst": "11 november 2026 De gemeente Deurne heeft een gehandicaptenparkeerplaats toegewezen bij Kolgans 33. Het gaat om een plek die gekoppeld is aan het kenteken van de auto van de aanvrager.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034358/vergunning-verleend-voor-woningen-aan-peelraand-in-deurne": {
+   "titel": "Vergunning verleend voor woningen aan Peelraand in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034358/vergunning-verleend-voor-woningen-aan-peelraand-in-deurne",
+   "tekst": "11 november 2026 De gemeente Deurne heeft besloten dat de woningen aan Peelraand 14 en 16 mogen worden verschoven. De omgevingsvergunning is op 4 november verleend.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034211/woning-op-nastreek-in-deurne-krijgt-verbouwvergunning": {
+   "titel": "Woning op Nastreek in Deurne krijgt verbouwvergunning",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034211/woning-op-nastreek-in-deurne-krijgt-verbouwvergunning",
+   "tekst": "10 november 2026 De gemeente Deurne heeft een vergunning verleend voor het verbouwen van een woning aan de Nastreek.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035821/stroomstoring-treft-minder-dan-25-adressen-in-heusden": {
    "titel": "Stroomstoring treft minder dan 25 adressen in Heusden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035821/stroomstoring-treft-minder-dan-25-adressen-in-heusden",
@@ -1841,6 +2061,110 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 16:24"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne": {
+   "titel": "Vispassage gepland in Asten en Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne",
+   "tekst": "13 november 2026 De gemeenten Asten en Deurne hebben een vergunning verleend voor het aanleggen van een vispassage. Het gaat om percelen die kadastraal bekend zijn in beide plaatsen.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Deurne",
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast": {
+   "titel": "Wegversmalling Meijelseweg in Heusden wordt aangepast",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast",
+   "tekst": "12 november 2026 De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034530/nieuwe-luifel-en-scheidingswand-bij-gebouw-in-asten": {
+   "titel": "Nieuwe luifel en scheidingswand bij gebouw in Asten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034530/nieuwe-luifel-en-scheidingswand-bij-gebouw-in-asten",
+   "tekst": "12 november 2026 Bij een pand aan de Nobisweg in Asten is een vergunning verleend voor het plaatsen van een nieuwe luifel en scheidingswand aan de achterzijde.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034410/gemeenten-asten-en-someren-werken-samen-aan-asielopvang": {
+   "titel": "Gemeenten Asten en Someren werken samen aan asielopvang",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034410/gemeenten-asten-en-someren-werken-samen-aan-asielopvang",
+   "tekst": "11 november 2026 De gemeenten Asten en Someren gaan samenwerken bij de opvang van asielzoekers. In Asten wordt een tijdelijke opvanglocatie voor maximaal 204 asielzoekers aan de Kanaalweg ingericht, die nog dit jaar in gebruik wordt …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034409/gratis-bijeenkomst-over-valpreventie-in-asten": {
+   "titel": "Gratis bijeenkomst over valpreventie in Asten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034409/gratis-bijeenkomst-over-valpreventie-in-asten",
+   "tekst": "11 november 2026 Gemeente Asten organiseert op donderdag 26 november een gratis bijeenkomst over valpreventie voor inwoners van 65 jaar en ouder. De bijeenkomst vindt plaats in gemeenschapshuis ’t Kwartier en duurt van half drie tot half …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden": {
+   "titel": "Lezing over heggen en hagen in Asten-Heusden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden",
+   "tekst": "10 november 2026 Op donderdag 3 december vindt in gemeenschapshuis Hart van Heuze in Asten-Heusden een lezing plaats over aanleg en beheer van heggen en hagen. Het programma begint om acht uur ’s avonds en staat in het teken van …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
   },
   "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december": {
    "titel": "Dorpsoverleg Lierop bespreekt toekomst op 3 december",
@@ -1995,6 +2319,176 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 16:56"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034876/prachtparenmiddag-voor-bruidsparen-in-someren": {
+   "titel": "Prachtparenmiddag voor bruidsparen in Someren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034876/prachtparenmiddag-voor-bruidsparen-in-someren",
+   "tekst": "16 november 2026 In theater De Ruchte in Someren hebben 68 bruidsparen deelgenomen aan een feestelijke middag vol muziek en dans.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind": {
+   "titel": "Prins Koen I en Prinses Karlijn leiden carnaval in Someren-Eind",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind",
+   "tekst": "14 november 2026 Koen Wijnen en Karlijn Swinkels zijn uitgeroepen tot het 69e Prinsenpaar van Carnavalsvereniging De Plattevonder in Someren-Eind.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034675/someren-verbiedt-eigen-straatnaamborden-en-huisnummerborden": {
+   "titel": "Someren verbiedt eigen straatnaamborden en huisnummerborden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034675/someren-verbiedt-eigen-straatnaamborden-en-huisnummerborden",
+   "tekst": "13 november 2026 De gemeente Someren heeft besloten dat eigen straatnaamborden en huisnummerborden niet langer mogen worden opgehangen zonder toestemming van het college. Vanaf de inwerkingtreding van de nieuwe regels mogen borden niet …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034619/huiskamerproject-de-einder-bestaat-twintig-jaar": {
+   "titel": "Huiskamerproject De Einder bestaat twintig jaar",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034619/huiskamerproject-de-einder-bestaat-twintig-jaar",
+   "tekst": "12 november 2026 Het huiskamerproject De Einder in Someren-Eind bestaat twintig jaar. Het initiatief begon in 2006 met vijftien deelnemers en is uitgegroeid tot een vertrouwde ontmoetingsplek. De bijeenkomsten worden vanaf het nieuwe jaar …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034577/nieuw-vorstenpaar-geinstalleerd-bij-cv-de-plattevonder": {
+   "titel": "Nieuw vorstenpaar geïnstalleerd bij CV de Plattevonder",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034577/nieuw-vorstenpaar-geinstalleerd-bij-cv-de-plattevonder",
+   "tekst": "12 november 2026 CV de Plattevonder heeft vrijdag 6 november afscheid genomen van Vorst Ruud en Vorstin Dieuwer. Het nieuwe vorstenpaar, Vorst Rob en Vorstin Nicole, is geïnstalleerd. Ook zijn er wijzigingen in de Raad van Elf en het …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034445/grip-wagen-komt-naar-someren-voor-laatste-inzamelronde": {
+   "titel": "GRIP-wagen komt naar Someren voor laatste inzamelronde",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034445/grip-wagen-komt-naar-someren-voor-laatste-inzamelronde",
+   "tekst": "11 november 2026 Op donderdag 19 en vrijdag 20 november staat de GRIP-wagen in Someren. Inwoners kunnen gratis kapotte en overbodige spullen inleveren. Het is de laatste inzamelronde van dit jaar.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034408/gemeenten-asten-en-someren-werken-samen-aan-asielopvang": {
+   "titel": "Gemeenten Asten en Someren werken samen aan asielopvang",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034408/gemeenten-asten-en-someren-werken-samen-aan-asielopvang",
+   "tekst": "11 november 2026 De gemeenten Asten en Someren gaan samenwerken bij de opvang van asielzoekers. Asten opent een tijdelijke locatie aan de Kanaalweg voor maximaal 204 asielzoekers. De opvang richt zich op gezinnen en alleenstaanden. De …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034406/prinsenbal-cv-de-plattevonder-onthult-nieuwe-prins-en-prinses": {
+   "titel": "Prinsenbal CV De Plattevonder onthult nieuwe prins en prinses",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034406/prinsenbal-cv-de-plattevonder-onthult-nieuwe-prins-en-prinses",
+   "tekst": "11 november 2026 Op vrijdag 13 november organiseert CV De Plattevonder haar prinsenbal in Someren. Tijdens deze avond, die om acht uur ’s avonds begint, wordt de nieuwe prins en prinses van de vereniging bekendgemaakt.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034317/erica-en-wilhelmien-benoemd-tot-erelid-turnvereniging-someren": {
+   "titel": "Erica en Wilhelmien benoemd tot erelid turnvereniging Someren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034317/erica-en-wilhelmien-benoemd-tot-erelid-turnvereniging-someren",
+   "tekst": "11 november 2026 Erica van den Boogaart en Wilhelmien Verdeuzeldonk zijn benoemd tot erelid van Turnvereniging Someren. Dit gebeurde afgelopen zondag tijdens een grote uitvoering in Someren-Eind.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034279/dorpsraden-in-someren-versterken-leefbaarheid": {
+   "titel": "Dorpsraden in Someren versterken leefbaarheid",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034279/dorpsraden-in-someren-versterken-leefbaarheid",
+   "tekst": "10 november 2026 In Someren zetten drie dorpsraden zich in voor de leefbaarheid van hun dorpen. De dorpsraden vormen een belangrijke schakel tussen inwoners en de gemeente.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
   },
   "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
    "titel": "Pitchavond subsidie Street Culture en Sports",
@@ -4134,12 +4628,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108686827/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108686907/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html": {
    "titel": "Maak gezondheid structureel onderdeel van het onderwijs",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686827/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686907/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html",
    "tekst": "",
-   "datum": "2026-11-23T12:31:04+00:00",
-   "eerst_gezien": "2026-11-23T12:40:55.800956+00:00",
+   "datum": "2026-11-23T12:43:19+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4149,7 +4643,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 13:31"
+   "tijd": "23-11 13:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686677/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html": {
    "titel": "Ton Verhoeven (59) redt kerken van de ondergang uit pure verliefdheid: `Zoiets mag toch nooit verdwijnen`",
@@ -4924,6 +5418,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126134637a2helmondrit139855": {
+   "titel": "A2 Helmond Rit: 139855",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126134637a2helmondrit139855",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T13:46:37+01:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "23-11 13:46"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126124027a2helmondrit139829": {
    "titel": "A2 Helmond Rit: 139829",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126124027a2helmondrit139829",
@@ -5229,6 +5740,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 15:53"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035733/urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
+   "titel": "Urenlang problemen op het spoor rond Eindhoven door seinstoring",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
+   "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
+   "datum": "2026-11-23T05:52:00+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 06:52"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686827/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html": {
+   "titel": "Maak gezondheid structureel onderdeel van het onderwijs",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686827/maak-gezondheid-structureel-onderdeel-van-het-onderwijs.html",
+   "tekst": "",
+   "datum": "2026-11-23T12:31:04+00:00",
+   "eerst_gezien": "2026-11-23T12:40:55.800956+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:31"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126154003a1helmondrit139402": {
    "titel": "A1 Helmond Rit: 139402",
@@ -7151,23 +7696,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 14:08"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126135137a2helmondrit138978": {
-   "titel": "A2 Helmond Rit: 138978",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126135137a2helmondrit138978",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T13:51:37+01:00",
-   "eerst_gezien": "2026-11-21T13:01:02.944962+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 13:51"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
    "titel": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk' Dit zegt het debat over vroegpensioen bij zwaar werk",
@@ -17585,23 +18113,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108615238/claudia-48-kampte-zeven-jaar-met-een-schuldgevoel-vanwege-vroeggeboortes-je-rouwt-om-iets-wat-er-niet-is-geweest.html": {
-   "titel": "Claudia (48) kampte zeven jaar met een schuldgevoel vanwege vroeggeboortes: `Je rouwt om iets wat er niet is geweest`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108615238/claudia-48-kampte-zeven-jaar-met-een-schuldgevoel-vanwege-vroeggeboortes-je-rouwt-om-iets-wat-er-niet-is-geweest.html",
-   "tekst": "",
-   "datum": "2026-11-16T12:49:07+00:00",
-   "eerst_gezien": "2026-11-16T12:52:17.816000+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:49"
   }
  },
  "bronnen": {
@@ -17647,22 +18158,22 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 21,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 12,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 19,
    "fout": ""
   },
   "Gemeente Helmond": {
