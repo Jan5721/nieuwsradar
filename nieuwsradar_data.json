@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 08:34",
+ "bijgewerkt": "23-11-2026 08:51",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -828,7 +828,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 08:30"
@@ -4423,6 +4423,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684406/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html": {
+   "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684406/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html",
+   "tekst": "",
+   "datum": "2026-11-23T07:49:07+00:00",
+   "eerst_gezien": "2026-11-23T07:50:27.466994+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108684323/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108684323/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
@@ -4435,7 +4451,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4451,7 +4467,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4519,23 +4535,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108683859/eindhoven-snel-aan-de-slag-met-noodsteunpunten-om-inwoners-en-stad-klaar-te-maken-voor-calamiteiten.html": {
-   "titel": "Eindhoven snel aan de slag met noodsteunpunten om inwoners en stad klaar te maken voor calamiteiten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108683859/eindhoven-snel-aan-de-slag-met-noodsteunpunten-om-inwoners-en-stad-klaar-te-maken-voor-calamiteiten.html",
-   "tekst": "",
-   "datum": "2026-11-23T06:19:03+00:00",
-   "eerst_gezien": "2026-11-23T06:30:08.813262+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 07:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html": {
    "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
@@ -5156,7 +5155,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 08:27"
@@ -5173,7 +5172,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 08:24"
@@ -5449,6 +5448,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 13:45"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108683859/eindhoven-snel-aan-de-slag-met-noodsteunpunten-om-inwoners-en-stad-klaar-te-maken-voor-calamiteiten.html": {
+   "titel": "Eindhoven snel aan de slag met noodsteunpunten om inwoners en stad klaar te maken voor calamiteiten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108683859/eindhoven-snel-aan-de-slag-met-noodsteunpunten-om-inwoners-en-stad-klaar-te-maken-voor-calamiteiten.html",
+   "tekst": "",
+   "datum": "2026-11-23T06:19:03+00:00",
+   "eerst_gezien": "2026-11-23T06:30:08.813262+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 07:19"
   },
   "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/": {
    "titel": "Bij Stiphout Vooruit hebben ze nu twee voorzitters: ‘Vele handen maken licht werk’",
