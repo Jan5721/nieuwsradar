@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 09:55",
+ "bijgewerkt": "23-11-2026 10:12",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64833/sv-deurne-lijdt-zure-en-onnodige-nederlaag-en-is-koppositie-kwijt": {
    "titel": "SV Deurne lijdt zure en onnodige nederlaag en is koppositie kwijt",
@@ -1084,7 +1084,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:54"
@@ -1583,10 +1583,27 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035779/teammanager-publiekszaken-deurne-krijgt-mandaat-voor-huwelijksbesluiten": {
+   "titel": "Teammanager Publiekszaken Deurne krijgt mandaat voor huwelijksbesluiten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035779/teammanager-publiekszaken-deurne-krijgt-mandaat-voor-huwelijksbesluiten",
+   "tekst": "",
+   "datum": "2026-11-23T09:11:11.213761+00:00",
+   "eerst_gezien": "2026-11-23T09:11:11.213761+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 10:11"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen": {
    "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen",
-   "tekst": "",
+   "tekst": "Het schoolbestuur van basisschool De Zeilberg in Deurne staat voor een enorme klus. Bestuurder Mischa Kleukers moet onderdak vinden voor 300 leerlingen nadat zijn school vrijdagavond deels afbrandde. Twee kinderen hadden er vuurwerk …",
    "datum": "2026-11-22T16:50:23.749146+00:00",
    "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1620,7 +1637,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan": {
    "titel": "Hal en lokalen verwoest na schoolbrand: 'Vraag of school nog open kan'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan",
-   "tekst": "Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden worden. Zaterdag …",
+   "tekst": "zaterdag Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden worden. …",
    "datum": "2026-11-21T16:13:39.683487+00:00",
    "eerst_gezien": "2026-11-21T16:13:39.683487+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -5259,7 +5276,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:53"
@@ -5397,6 +5414,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126100025a2helmondrit139743": {
+   "titel": "A2 Helmond Rit: 139743",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126100025a2helmondrit139743",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T10:00:25+01:00",
+   "eerst_gezien": "2026-11-23T09:11:11.213761+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "23-11 10:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126082744a2helmondrit139681": {
    "titel": "A2 Helmond Rit: 139681",
@@ -19028,7 +19062,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 24,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -19103,7 +19137,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "112Brabant": {
