@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 15:34",
+ "bijgewerkt": "23-11-2026 15:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -1037,6 +1037,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 07:13"
+  },
+  "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/": {
+   "titel": "Puur Sangh geeft jubileumconcert in Lierop",
+   "link": "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/",
+   "tekst": "Puur Sangh Asten viert het 60-jarig jubileum met een kerstconcert in Lierop. Zondag 13 december treedt het koor om 15.00 uur op in de Koepelkerk.",
+   "datum": "2026-11-23T14:46:00+00:00",
+   "eerst_gezien": "2026-11-23T14:49:32.629524+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:46"
   },
   "https://www.ed.nl/asten/ivn-asten-someren-houdt-presentatie-over-bouwende-dieren-in-asten~a5bcfed9/": {
    "titel": "IVN Asten-Someren houdt presentatie over bouwende dieren in Asten",
@@ -2552,7 +2570,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -2569,7 +2587,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4678,6 +4696,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html": {
+   "titel": "Pand in Eindhoven ontruimd door rook bij dakwerkzaamheden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html",
+   "tekst": "",
+   "datum": "2026-11-23T14:43:19+00:00",
+   "eerst_gezien": "2026-11-23T14:49:32.629524+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108687577/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html": {
    "titel": "Kleinzoon van PSV-legende poeiert op heerlijke wijze raak: bekijk hier de beelden",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108687577/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html",
@@ -4690,7 +4725,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 15:19"
@@ -4852,22 +4887,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108685743/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html",
    "tekst": "",
    "datum": "2026-11-23T10:43:30+00:00",
-   "eerst_gezien": "2026-11-23T10:48:19.948462+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108685742/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html": {
-   "titel": "Mary Fiers komt met actieboek voor iedereen die bij de overheid werkt: `Hang deze wet boven je bed`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685742/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html",
-   "tekst": "",
-   "datum": "2026-11-23T10:43:29+00:00",
    "eerst_gezien": "2026-11-23T10:48:19.948462+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -5471,6 +5490,23 @@
    "prio": false,
    "tijd": "21-11 18:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126154948a2astenrit139914": {
+   "titel": "A2 Asten Rit: 139914",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126154948a2astenrit139914",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T15:49:48+01:00",
+   "eerst_gezien": "2026-11-23T14:49:32.629524+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "23-11 15:49"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126142217a1helmondrit139876": {
    "titel": "A1 Helmond Rit: 139876",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126142217a1helmondrit139876",
@@ -5708,6 +5744,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685742/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html": {
+   "titel": "Mary Fiers komt met actieboek voor iedereen die bij de overheid werkt: `Hang deze wet boven je bed`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685742/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:43:29+00:00",
+   "eerst_gezien": "2026-11-23T10:48:19.948462+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108687530/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html": {
    "titel": "Kleinzoon van PSV-legende poeiert op heerlijke wijze raak: bekijk hier de beelden",
@@ -7698,23 +7750,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 16:37"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126154039a2helmondrit139027": {
-   "titel": "A2 Helmond Rit: 139027",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126154039a2helmondrit139027",
-   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T15:40:39+01:00",
-   "eerst_gezien": "2026-11-21T14:53:27.302206+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 15:40"
   },
   "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/": {
    "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: ‘Je hebt verleende rechten te respecteren’",
@@ -18180,7 +18215,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "ED Someren": {
@@ -18275,7 +18310,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "112Brabant": {
