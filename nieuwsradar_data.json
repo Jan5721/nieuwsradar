@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 09:23",
+ "bijgewerkt": "23-11-2026 09:39",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64833/sv-deurne-lijdt-zure-en-onnodige-nederlaag-en-is-koppositie-kwijt": {
    "titel": "SV Deurne lijdt zure en onnodige nederlaag en is koppositie kwijt",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:08"
@@ -845,7 +845,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:19"
@@ -1075,7 +1075,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
    "titel": "Problemen op het spoor rond Eindhoven door seinstoring",
    "link": "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
-   "tekst": "Een seinstoring veroorzaakt maandagochtend problemen op het spoor rond Eindhoven. Er rijden er tot ongeveer halfelf 's ochtends geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen dan gebruikelijk. Vanwege de …",
+   "tekst": "Een seinstoring veroorzaakt maandagochtend problemen op het spoor rond Eindhoven. Zo rijden er tot ongeveer halfelf 's ochtends geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen dan gebruikelijk. Vanwege de …",
    "datum": "2026-11-23T05:52:00+00:00",
    "eerst_gezien": "2026-11-23T06:14:06.244530+00:00",
    "bron": "Omroep Brabant",
@@ -1118,7 +1118,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:22"
@@ -1135,7 +1135,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:22"
@@ -1680,7 +1680,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:22"
@@ -1993,10 +1993,27 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035763/vergunning-voor-bredere-inrit-en-verplaatsen-lichtmast-in-asten": {
+   "titel": "Vergunning voor bredere inrit en verplaatsen lichtmast in Asten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035763/vergunning-voor-bredere-inrit-en-verplaatsen-lichtmast-in-asten",
+   "tekst": "",
+   "datum": "2026-11-23T08:38:52.887265+00:00",
+   "eerst_gezien": "2026-11-23T08:38:52.887265+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:38"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035651/hybride-auto-belandt-in-sloot-en-vat-vlam-in-asten-heusden": {
    "titel": "Hybride auto belandt in sloot en vat vlam in Asten-Heusden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035651/hybride-auto-belandt-in-sloot-en-vat-vlam-in-asten-heusden",
-   "tekst": "",
+   "tekst": "Een automobilist is vrijdagavond met zijn auto van de weg geraakt in Asten-Heusden en in een sloot beland. De bestuurder kon zelf uit de auto komen. Hij was niet gewond.",
    "datum": "2026-11-21T05:30:13.778422+00:00",
    "eerst_gezien": "2026-11-21T05:30:13.778422+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2030,7 +2047,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers": {
    "titel": "Alzheimer Café Peelland: steun voor mantelzorgers",
    "link": "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers",
-   "tekst": "In Asten vindt dinsdagavond 1 december een bijeenkomst plaats voor mantelzorgers van mensen met dementie. Het Alzheimer Café Peelland richt zich op het omgaan met overbelasting en het organiseren van hulp.",
+   "tekst": "dinsdag In Asten vindt dinsdagavond 1 december een bijeenkomst plaats voor mantelzorgers van mensen met dementie. Het Alzheimer Café Peelland richt zich op het omgaan met overbelasting en het organiseren van hulp.",
    "datum": "2026-11-17T13:57:17.916721+00:00",
    "eerst_gezien": "2026-11-17T13:57:17.916721+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2182,10 +2199,27 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december": {
+   "titel": "Dorpsoverleg Lierop bespreekt toekomst op 3 december",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december",
+   "tekst": "",
+   "datum": "2026-11-23T08:38:52.887265+00:00",
+   "eerst_gezien": "2026-11-23T08:38:52.887265+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:38"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035546/nieuwe-laadplekken-voor-elektrische-autos-in-someren-en-lierop": {
    "titel": "Nieuwe laadplekken voor elektrische auto's in Someren en Lierop",
    "link": "https://www.omroepbrabant.nl/nieuws/6035546/nieuwe-laadplekken-voor-elektrische-autos-in-someren-en-lierop",
-   "tekst": "",
+   "tekst": "De gemeente Someren heeft elf locaties aangewezen voor parkeerplaatsen met laadpalen voor elektrische voertuigen. Het gaat om plekken in Someren en Lierop, waaronder Opper, Loovebaan en Gildeplein.",
    "datum": "2026-11-20T08:52:45.581364+00:00",
    "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2219,7 +2253,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035486/jeugdprinsenbal-cv-de-plattevonder-zondag-in-de-einder": {
    "titel": "Jeugdprinsenbal CV De Plattevonder zondag in De Einder",
    "link": "https://www.omroepbrabant.nl/nieuws/6035486/jeugdprinsenbal-cv-de-plattevonder-zondag-in-de-einder",
-   "tekst": "Zondagmiddag wordt in De Einder het Jeugdprinsenbal van CV De Plattevonder gehouden. Tijdens het evenement worden de nieuwe jeugdhoogheden en de jeugdraad onthuld. Ook wordt afscheid genomen van de huidige Jeugdprinses en Jeugdvorstin.",
+   "tekst": "donderdag Zondagmiddag wordt in De Einder het Jeugdprinsenbal van CV De Plattevonder gehouden. Tijdens het evenement worden de nieuwe jeugdhoogheden en de jeugdraad onthuld. Ook wordt afscheid genomen van de huidige Jeugdprinses en …",
    "datum": "2026-11-20T09:41:06.319780+00:00",
    "eerst_gezien": "2026-11-20T09:41:06.319780+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -3976,7 +4010,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4078,7 +4112,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4214,7 +4248,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4231,7 +4265,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4265,7 +4299,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4554,7 +4588,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4571,7 +4605,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
@@ -4627,12 +4661,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108684606/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
    "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684606/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html",
    "tekst": "",
-   "datum": "2026-11-23T08:21:02+00:00",
-   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "datum": "2026-11-23T08:31:03+00:00",
+   "eerst_gezien": "2026-11-23T08:38:52.887265+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4655,7 +4689,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:13"
@@ -5651,6 +5685,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 14:15"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684606/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
+   "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684606/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html",
+   "tekst": "",
+   "datum": "2026-11-23T08:21:02+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint~a6af1228/": {
    "titel": "In de winkel in het Kasteel van Sinterklaas proef je de magie letterlijk en figuurlijk: ‘Papa werkt voor de Sint’",
@@ -18966,12 +19016,12 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 12,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Gemeente Helmond": {
