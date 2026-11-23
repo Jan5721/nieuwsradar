@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 14:29",
+ "bijgewerkt": "23-11-2026 14:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -834,23 +834,6 @@
    "prio": false,
    "tijd": "16-11 16:09"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64681/in-beeld-sinterklaas-feestelijk-ontvangen-in-asten": {
-   "titel": "In beeld: Sinterklaas feestelijk ontvangen in Asten",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64681/in-beeld-sinterklaas-feestelijk-ontvangen-in-asten",
-   "tekst": "ASTEN - Een beetje kou wist de hoopvolle verwachtingen zondag niet te temperen. En dus liep Asten uit voor de ontvangst van Sinterklaas en diens gevolg.",
-   "datum": "2026-11-16T14:35:00+01:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 14:35"
-  },
   "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/": {
    "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
    "link": "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/",
@@ -888,7 +871,7 @@
   "https://www.ed.nl/eindhoven/treinverkeer-eindhoven-ontregeld-door-seinstoring~ae1fbb95/": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
    "link": "https://www.ed.nl/eindhoven/treinverkeer-eindhoven-ontregeld-door-seinstoring~ae1fbb95/",
-   "tekst": "Treinen van en naar Eindhoven Centraal hebben tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor rijden er tot ongeveer 08.45 uur geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen, aldus …",
+   "tekst": "Treinen van en naar Eindhoven Centraal hadden tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor reden er tot ongeveer 08.45 uur geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen, aldus …",
    "datum": "2026-11-23T06:28:00+00:00",
    "eerst_gezien": "2026-11-23T06:30:08.813262+00:00",
    "bron": "ED Helmond",
@@ -974,7 +957,7 @@
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
    "link": "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/",
    "tekst": "Woonachtig in buurtschap ’t Kapelleke, maar tijdens het komende carnaval het gezicht van carnavalsvereniging De Keijepaol uit Someren-Heide: Ron Breukers (44) is samen met prinses Liesbeth de 63e regent.",
-   "datum": "2026-11-22T12:45:12+00:00",
+   "datum": "2026-11-22T12:45:00+00:00",
    "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -1583,10 +1566,27 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier": {
+   "titel": "Deurne verdeelt subsidies vanaf 2029 op nieuwe manier",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier",
+   "tekst": "",
+   "datum": "2026-11-23T13:45:27.684425+00:00",
+   "eerst_gezien": "2026-11-23T13:45:27.684425+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 14:45"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035779/teammanager-publiekszaken-deurne-krijgt-mandaat-voor-huwelijksbesluiten": {
    "titel": "Teammanager Publiekszaken Deurne krijgt mandaat voor huwelijksbesluiten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035779/teammanager-publiekszaken-deurne-krijgt-mandaat-voor-huwelijksbesluiten",
-   "tekst": "",
+   "tekst": "De gemeente Deurne heeft besloten dat de teammanager Publiekszaken voortaan namens het college mag beslissen over huwelijksverzoeken en het openen van de burgerlijke stand buiten normale tijden. Het besluit is op 15 oktober 2026 genomen.",
    "datum": "2026-11-23T09:11:11.213761+00:00",
    "eerst_gezien": "2026-11-23T09:11:11.213761+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1620,7 +1620,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten": {
    "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten",
-   "tekst": "Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat gebeurt er …",
+   "tekst": "zaterdag Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat …",
    "datum": "2026-11-21T19:57:46.543769+00:00",
    "eerst_gezien": "2026-11-21T19:57:46.543769+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4610,12 +4610,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108687226/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
    "titel": "Grotere rol voor buurthuizen tegen eenzaamheid; wat is er nodig'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687226/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html",
    "tekst": "",
-   "datum": "2026-11-23T13:25:12+00:00",
-   "eerst_gezien": "2026-11-23T13:29:25.749674+00:00",
+   "datum": "2026-11-23T13:31:03+00:00",
+   "eerst_gezien": "2026-11-23T13:45:27.684425+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4625,7 +4625,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 14:25"
+   "tijd": "23-11 14:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108687193/bijzondere-onderscheiding-voor-lieshoutse-gildeman-toon-gevers.html": {
    "titel": "Bijzondere onderscheiding voor Lieshoutse gildeman Toon Gevers",
@@ -4639,7 +4639,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 14:19"
@@ -4809,23 +4809,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108685408/eindhoven-staat-bewust-niet-op-de-brabantse-pfas-kaart-we-willen-onnodige-onrust-voorkomen.html": {
-   "titel": "Eindhoven staat bewust niet op de Brabantse PFAS-kaart: `We willen onnodige onrust voorkomen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685408/eindhoven-staat-bewust-niet-op-de-brabantse-pfas-kaart-we-willen-onnodige-onrust-voorkomen.html",
-   "tekst": "",
-   "datum": "2026-11-23T10:01:04+00:00",
-   "eerst_gezien": "2026-11-23T10:16:02.306917+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 11:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html": {
    "titel": "Shockvriezer koelt met hoge capaciteit sauzen razendsnel terug",
@@ -5430,7 +5413,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 14:22"
@@ -5740,6 +5723,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 17:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687226/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
+   "titel": "Grotere rol voor buurthuizen tegen eenzaamheid; wat is er nodig'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687226/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html",
+   "tekst": "",
+   "datum": "2026-11-23T13:25:12+00:00",
+   "eerst_gezien": "2026-11-23T13:29:25.749674+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 14:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685408/eindhoven-staat-bewust-niet-op-de-brabantse-pfas-kaart-we-willen-onnodige-onrust-voorkomen.html": {
+   "titel": "Eindhoven staat bewust niet op de Brabantse PFAS-kaart: `We willen onnodige onrust voorkomen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685408/eindhoven-staat-bewust-niet-op-de-brabantse-pfas-kaart-we-willen-onnodige-onrust-voorkomen.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:01:04+00:00",
+   "eerst_gezien": "2026-11-23T10:16:02.306917+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 11:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108684666/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
    "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
@@ -7680,23 +7697,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "21-11 14:50"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126144040p1bob01reanimatiedahliastraathelmond223231": {
-   "titel": "P 1 BOB-01 Reanimatie Dahliastraat Helmond 223231",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126144040p1bob01reanimatiedahliastraathelmond223231",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-21T14:40:40+01:00",
-   "eerst_gezien": "2026-11-21T13:49:22.746102+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 14:40"
   },
   "https://www.ed.nl/asten/jeugdzorg-in-asten-9-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-7-7-miljoen-euro-uit~a29b4f7a/": {
    "titel": "Jeugdzorg in Asten: 9 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 7,7 miljoen euro uit",
@@ -16842,23 +16842,6 @@
    "prio": false,
    "tijd": "17-11 14:13"
   },
-  "https://www.ed.nl/helmond/martin-76-had-net-15-000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield~a4fed415/": {
-   "titel": "Martin (76) had net 15.000 lampjes gekocht voor de kerstrevue toen zijn hart er ineens mee ophield",
-   "link": "https://www.ed.nl/helmond/martin-76-had-net-15-000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield~a4fed415/",
-   "tekst": "Zaterdagochtend kocht Martin Martens nog 15.000 lampjes voor de kerstrevue van zijn toneelgroep. De Helmonder was net in zijn wagen gestapt toen zijn hart er ineens mee ophield. Hij overleed in het ziekenhuis, 76 jaar oud. Veel Helmondse clubs zijn in rouw.",
-   "datum": "2026-11-16T13:30:00+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 14:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
@@ -18148,22 +18131,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108615640/martin-76-had-net-15000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield.html": {
-   "titel": "Martin (76) had net 15.000 lampjes gekocht voor de kerstrevue toen zijn hart er ineens mee ophield",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108615640/martin-76-had-net-15000-lampjes-gekocht-voor-de-kerstrevue-toen-zijn-hart-er-ineens-mee-ophield.html",
-   "tekst": "",
-   "datum": "2026-11-16T13:43:18+00:00",
-   "eerst_gezien": "2026-11-16T14:50:40.965797+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -18174,7 +18141,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18214,7 +18181,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18269,7 +18236,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
