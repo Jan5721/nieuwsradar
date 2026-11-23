@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 16:22",
+ "bijgewerkt": "23-11-2026 16:38",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -573,7 +573,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:13"
@@ -846,7 +846,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:05"
@@ -987,23 +987,6 @@
    "prio": false,
    "tijd": "22-11 14:30"
   },
-  "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
-   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
-   "link": "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/",
-   "tekst": "Woonachtig in buurtschap ’t Kapelleke, maar tijdens het komende carnaval het gezicht van carnavalsvereniging De Keijepaol uit Someren-Heide: Ron Breukers (44) is samen met prinses Liesbeth de 63e regent.",
-   "datum": "2026-11-22T12:45:00+00:00",
-   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 13:45"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
    "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
@@ -1020,6 +1003,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:27"
+  },
+  "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
+   "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
+   "link": "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/",
+   "tekst": "Woonachtig in buurtschap ’t Kapelleke, maar tijdens het komende carnaval het gezicht van carnavalsvereniging De Keijepaol uit Someren-Heide: Ron Breukers (44) is samen met prinses Liesbeth de 63e regent.",
+   "datum": "2026-11-22T12:45:00+00:00",
+   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 13:45"
   },
   "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
    "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
@@ -1856,23 +1856,6 @@
    "prio": false,
    "tijd": "17-11 19:50"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel": {
-   "titel": "Nieuwbouwwoning mag gebouwd worden aan Buntseweg in Liessel",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel",
-   "tekst": "16 november 2026 De gemeente heeft een vergunning verleend voor het bouwen van een nieuwbouwwoning aan de Buntseweg in Liessel. Het besluit is op 12 november genomen.",
-   "datum": "2026-11-16T15:24:37.551385+00:00",
-   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:24"
-  },
   "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal": {
    "titel": "Reflection Day in Deurne: zichtbaarheid in verkeer centraal",
    "link": "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal",
@@ -1908,23 +1891,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 16:40"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034898/martinetplein-in-deurne-krijgt-meer-groen-en-zitplekken": {
-   "titel": "Martinetplein in Deurne krijgt meer groen en zitplekken",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034898/martinetplein-in-deurne-krijgt-meer-groen-en-zitplekken",
-   "tekst": "16 november 2026 De gemeente Deurne gaat het Martinetplein en de hoek De Wever - Torenstraat vernieuwen. Het plein krijgt meer groen, grotere plantvakken en nieuwe zitgelegenheden. Ook komen er kunstobjecten en wordt de inrichting …",
-   "datum": "2026-11-16T15:24:37.551385+00:00",
-   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:24"
   },
   "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning": {
    "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
@@ -2078,23 +2044,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 14:57"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming": {
-   "titel": "Voormalige boerderij in Ommel krijgt nieuwe bestemming",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming",
-   "tekst": "16 november 2026 Een voormalige agrarische bedrijfslocatie in Ommel wordt herontwikkeld tot twee woningen. De gemeente Asten heeft hiervoor op 12 november een omgevingsvergunning verleend.",
-   "datum": "2026-11-16T15:24:37.551385+00:00",
-   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:24"
   },
   "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne": {
    "titel": "Vispassage gepland in Asten en Deurne",
@@ -4696,6 +4645,73 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688308/ruim-430-lopers-over-de-finish-bij-succesvolle-molenvencross-in-helmond-uitslagen.html": {
+   "titel": "Ruim 430 lopers over de finish bij succesvolle Molenvencross in Helmond (uitslagen)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688308/ruim-430-lopers-over-de-finish-bij-succesvolle-molenvencross-in-helmond-uitslagen.html",
+   "tekst": "Archiefbeeld Dieleman Media Helmond, 22 november 2026 - De Molenvencross was zondag een groot succes. In totaal kwamen 433 atleten...",
+   "datum": "2026-11-23T15:33:04+00:00",
+   "eerst_gezien": "2026-11-23T15:37:44.921891+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:33"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688287/man-27-uit-eindhoven-die-voor-miljoen-aan-cocaine-in-zijn-bus-had-liggen-krijgt-fors-lagere-straf.html": {
+   "titel": "Man (27) uit Eindhoven die voor miljoen aan cocaïne in zijn bus had liggen, krijgt fors lagere straf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688287/man-27-uit-eindhoven-die-voor-miljoen-aan-cocaine-in-zijn-bus-had-liggen-krijgt-fors-lagere-straf.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:31:03+00:00",
+   "eerst_gezien": "2026-11-23T15:37:44.921891+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688230/kinderdagverblijf-in-eindhoven-ontruimd-door-rook-in-gebouw-zon-vijftig-kinderen-opgevangen-bij-politie.html": {
+   "titel": "Kinderdagverblijf in Eindhoven ontruimd door rook in gebouw: zo`n vijftig kinderen opgevangen bij politie",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688230/kinderdagverblijf-in-eindhoven-ontruimd-door-rook-in-gebouw-zon-vijftig-kinderen-opgevangen-bij-politie.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:25:11+00:00",
+   "eerst_gezien": "2026-11-23T15:37:44.921891+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688228/man-27-uit-eindhoven-die-voor-miljoen-aan-cocaine-in-zijn-bus-had-liggen-krijgt-fors-lagere-straf.html": {
+   "titel": "Man (27) uit Eindhoven die voor miljoen aan cocaïne in zijn bus had liggen, krijgt fors lagere straf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688228/man-27-uit-eindhoven-die-voor-miljoen-aan-cocaine-in-zijn-bus-had-liggen-krijgt-fors-lagere-straf.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:25:11+00:00",
+   "eerst_gezien": "2026-11-23T15:37:44.921891+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108688158/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder.html": {
    "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus ruim drie miljoen duurder",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108688158/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder.html",
@@ -4708,7 +4724,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4724,7 +4740,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4740,7 +4756,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:19"
@@ -4757,7 +4773,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:13"
@@ -4774,7 +4790,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4790,7 +4806,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4894,40 +4910,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108686677/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html": {
-   "titel": "Ton Verhoeven (59) redt kerken van de ondergang uit pure verliefdheid: `Zoiets mag toch nooit verdwijnen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686677/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html",
-   "tekst": "",
-   "datum": "2026-11-23T12:13:25+00:00",
-   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html": {
-   "titel": "Gemeente reikt jeugdlintjes uit aan jonge Helmonders",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html",
-   "tekst": "",
-   "datum": "2026-11-23T11:49:06+00:00",
-   "eerst_gezien": "2026-11-23T11:52:54.111934+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 12:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html": {
    "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
@@ -5825,6 +5807,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686677/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html": {
+   "titel": "Ton Verhoeven (59) redt kerken van de ondergang uit pure verliefdheid: `Zoiets mag toch nooit verdwijnen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686677/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html",
+   "tekst": "",
+   "datum": "2026-11-23T12:13:25+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html": {
+   "titel": "Gemeente reikt jeugdlintjes uit aan jonge Helmonders",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html",
+   "tekst": "",
+   "datum": "2026-11-23T11:49:06+00:00",
+   "eerst_gezien": "2026-11-23T11:52:54.111934+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 12:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686286/door-staking-is-het-afzien-voor-chauffeurs-en-reizigers-we-staan-letterlijk-en-figuurlijk-in-de-kou.html": {
    "titel": "Door staking is het afzien voor chauffeurs en reizigers: `We staan letterlijk en figuurlijk in de kou`",
@@ -7898,23 +7914,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126163718a2helmondrit139054": {
-   "titel": "A2 Helmond Rit: 139054",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126163718a2helmondrit139054",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T16:37:18+01:00",
-   "eerst_gezien": "2026-11-21T15:41:18.295748+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 16:37"
   },
   "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/": {
    "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: ‘Je hebt verleende rechten te respecteren’",
@@ -18301,22 +18300,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616514/vijftal-op-de-vuist-in-centrum-eindhoven-bezoekers-glow-opgeschrikt-duo-17-en-23-uit-schijndel-aangehouden.html": {
-   "titel": "Vijftal op de vuist in centrum Eindhoven: bezoekers Glow opgeschrikt, duo (17 en 23) uit Schijndel aangehouden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616514/vijftal-op-de-vuist-in-centrum-eindhoven-bezoekers-glow-opgeschrikt-duo-17-en-23-uit-schijndel-aangehouden.html",
-   "tekst": "",
-   "datum": "2026-11-16T15:25:13+00:00",
-   "eerst_gezien": "2026-11-16T15:40:52.229622+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html": {
    "titel": "Nog even nagloeien: dit was Glow 2026 in Eindhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html",
@@ -18353,12 +18336,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -18383,12 +18366,12 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 20,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -18438,7 +18421,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
