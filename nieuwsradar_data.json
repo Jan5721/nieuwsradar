@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 20:23",
+ "bijgewerkt": "23-11-2026 20:39",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -1401,7 +1401,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen": {
    "titel": "Stroomstoring in Helmond, herstel verwacht rond half negen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen",
-   "tekst": "dinsdag De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds vanmiddag zonder stroom. De storing begon om kwart over vier en eindigde om tien uur vanavond.",
+   "tekst": "17 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds vanmiddag zonder stroom. De storing begon om kwart over vier en eindigde om tien uur vanavond.",
    "datum": "2026-11-17T15:51:24.334830+00:00",
    "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -2540,6 +2540,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
   },
   "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
    "titel": "Brand basisschool Zeilberg",
@@ -4708,7 +4742,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 20:19"
@@ -5861,40 +5895,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 04:52"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108688659/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html": {
    "titel": "LIVE | PSV-trainer Bosz en verdediger Dest blikken vooruit op Champions League-kraker bij Real Madrid",
@@ -8285,23 +8285,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 20:56"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126203050a1helmondrit139132": {
-   "titel": "A1 Helmond Rit: 139132",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126203050a1helmondrit139132",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T20:30:50+01:00",
-   "eerst_gezien": "2026-11-21T19:41:46.168150+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 20:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108678570/heet-van-de-herdgang-zeg-kovar-oei-oei-oei-geef-hem-eens-een-loei.html": {
    "titel": "Heet van de Herdgang | `Zeg Kovar: oei, oei, oei: geef hem eens een loei!`",
@@ -18487,9 +18470,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "ParseError: no element found: line 2, column 0"
+   "ok": true,
+   "aantal": 2,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
