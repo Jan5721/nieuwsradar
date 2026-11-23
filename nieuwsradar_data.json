@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 22:48",
+ "bijgewerkt": "23-11-2026 23:04",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -8234,23 +8234,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 23:12"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126225259a1helmondrit139163": {
-   "titel": "A1 Helmond Rit: 139163",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126225259a1helmondrit139163",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T22:52:59+01:00",
-   "eerst_gezien": "2026-11-21T22:05:50.828749+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 22:52"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677665/met-bram-als-prins-luuk-liii-krijgt-ganzendonck-een-koninklijk-tintje.html": {
    "titel": "Met Bram als Prins Luuk LIII krijgt Ganzendonck een koninklijk tintje",
@@ -18613,7 +18596,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
