@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 05:54",
+ "bijgewerkt": "23-11-2026 06:10",
  "items": {
   "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
    "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘de kroeg in op zondagmiddag’",
@@ -275,23 +275,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 17:38"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten": {
-   "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten",
-   "tekst": "Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat gebeurt er eigenlijk als een kind onder de 12 …",
-   "datum": "2026-11-21T19:30:00+00:00",
-   "eerst_gezien": "2026-11-21T19:57:46.543769+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 20:30"
   },
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
@@ -803,6 +786,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 13:39"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten": {
+   "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten",
+   "tekst": "Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat gebeurt er …",
+   "datum": "2026-11-21T19:57:46.543769+00:00",
+   "eerst_gezien": "2026-11-21T19:57:46.543769+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 20:57"
   },
   "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan": {
    "titel": "Hal en lokalen verwoest na schoolbrand: 'Vraag of school nog open kan'",
@@ -18454,7 +18454,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -18464,7 +18464,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 21,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
