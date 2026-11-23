@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 18:30",
+ "bijgewerkt": "23-11-2026 18:47",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -560,23 +560,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "16-11 21:45"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64695/heropening-en-open-dag-kledingbank-t-hart-in-deurne": {
-   "titel": "Heropening en open dag Kledingbank ’t Hart in Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64695/heropening-en-open-dag-kledingbank-t-hart-in-deurne",
-   "tekst": "DEURNE - Na een kleine verbouwing en een flinke opknapbeurt opent de Kledingbank van 't Hart op zondag 22 november weer officieel haar deuren. Voor klanten is de winkel alweer enige weken open. Er wordt momenteel nog gewerkt aan de laatste details.",
-   "datum": "2026-11-16T18:31:00+01:00",
-   "eerst_gezien": "2026-11-16T18:12:11.310413+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 18:31"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64851/in-beeld-zo-werd-prins-ramon-weren-bij-de-plekkers-onthuld": {
    "titel": "In beeld: zó werd prins Ramon Weren bij De Plekkers onthuld",
@@ -1635,10 +1618,27 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035859/veel-verdriet-en-vragen-na-grote-schoolbrand-in-deurne": {
+   "titel": "Veel verdriet en vragen na grote schoolbrand in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035859/veel-verdriet-en-vragen-na-grote-schoolbrand-in-deurne",
+   "tekst": "BRABANT",
+   "datum": "2026-11-23T17:46:25.842672+00:00",
+   "eerst_gezien": "2026-11-23T17:46:25.842672+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 18:46"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035850/eerste-projectie-ons-dorp-in-de-schijnwerpers-in-vlierden": {
    "titel": "Eerste projectie 'Ons dorp in de schijnwerpers' in Vlierden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035850/eerste-projectie-ons-dorp-in-de-schijnwerpers-in-vlierden",
-   "tekst": "",
+   "tekst": "Woensdagavond 25 november start het project 'Ons dorp in de schijnwerpers' in Vlierden. Om 18.30 uur wordt de eerste lichtprojectie op de Sint Willibrorduskerk onthuld. Burgemeester en kinderen geven samen het startsein.",
    "datum": "2026-11-23T16:10:11.320091+00:00",
    "eerst_gezien": "2026-11-23T16:10:11.320091+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1655,7 +1655,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier": {
    "titel": "Deurne verdeelt subsidies vanaf 2029 op nieuwe manier",
    "link": "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier",
-   "tekst": "De gemeente Deurne gaat vanaf 1 januari 2029 subsidies voor professionele organisaties anders verdelen. Volgens een uitspraak van de Raad van State moeten deze schaarse subsidies eerlijk worden verdeeld. De overgang naar het nieuwe beleid …",
+   "tekst": "",
    "datum": "2026-11-23T13:45:27.684425+00:00",
    "eerst_gezien": "2026-11-23T13:45:27.684425+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4747,12 +4747,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108689303/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-maar-nu-wijst-zij-alleen-naar-hem.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108689343/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-maar-nu-wijst-zij-alleen-naar-hem.html": {
    "titel": "Bill C. en Sharona de J. stonden samen terecht voor moord, maar nu wijst zij alleen naar hem",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108689303/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-maar-nu-wijst-zij-alleen-naar-hem.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108689343/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-maar-nu-wijst-zij-alleen-naar-hem.html",
    "tekst": "",
-   "datum": "2026-11-23T17:25:14+00:00",
-   "eerst_gezien": "2026-11-23T17:30:18.404844+00:00",
+   "datum": "2026-11-23T17:31:03+00:00",
+   "eerst_gezien": "2026-11-23T17:46:25.842672+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4762,7 +4762,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 18:25"
+   "tijd": "23-11 18:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108689241/dit-zeiden-psv-trainer-bosz-en-verdediger-dest-op-de-persconferentie-richting-real-madrid-uit.html": {
    "titel": "Dit zeiden PSV-trainer Bosz en verdediger Dest op de persconferentie richting Real Madrid-uit",
@@ -5028,23 +5028,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108688308/ruim-430-lopers-over-de-finish-bij-succesvolle-molenvencross-in-helmond-uitslagen.html": {
-   "titel": "Ruim 430 lopers over de finish bij succesvolle Molenvencross in Helmond (uitslagen)",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688308/ruim-430-lopers-over-de-finish-bij-succesvolle-molenvencross-in-helmond-uitslagen.html",
-   "tekst": "Archiefbeeld Dieleman Media Helmond, 22 november 2026 - De Molenvencross was zondag een groot succes. In totaal kwamen 433 atleten...",
-   "datum": "2026-11-23T15:33:04+00:00",
-   "eerst_gezien": "2026-11-23T15:37:44.921891+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 16:33"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html": {
    "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
@@ -5666,7 +5649,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 18:28"
@@ -5683,7 +5666,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 18:24"
@@ -5993,6 +5976,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 03:05"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108689303/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-maar-nu-wijst-zij-alleen-naar-hem.html": {
+   "titel": "Bill C. en Sharona de J. stonden samen terecht voor moord, maar nu wijst zij alleen naar hem",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108689303/bill-c-en-sharona-de-j-stonden-samen-terecht-voor-moord-maar-nu-wijst-zij-alleen-naar-hem.html",
+   "tekst": "",
+   "datum": "2026-11-23T17:25:14+00:00",
+   "eerst_gezien": "2026-11-23T17:30:18.404844+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 18:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688308/ruim-430-lopers-over-de-finish-bij-succesvolle-molenvencross-in-helmond-uitslagen.html": {
+   "titel": "Ruim 430 lopers over de finish bij succesvolle Molenvencross in Helmond (uitslagen)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688308/ruim-430-lopers-over-de-finish-bij-succesvolle-molenvencross-in-helmond-uitslagen.html",
+   "tekst": "Archiefbeeld Dieleman Media Helmond, 22 november 2026 - De Molenvencross was zondag een groot succes. In totaal kwamen 433 atleten...",
+   "datum": "2026-11-23T15:33:04+00:00",
+   "eerst_gezien": "2026-11-23T15:37:44.921891+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:33"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108688287/man-27-uit-eindhoven-die-voor-miljoen-aan-cocaine-in-zijn-bus-had-liggen-krijgt-fors-lagere-straf.html": {
    "titel": "Man (27) uit Eindhoven die voor miljoen aan cocaïne in zijn bus had liggen, krijgt fors lagere straf",
@@ -8299,40 +8316,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 19:46"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183459a2vwshelmondrit139087": {
-   "titel": "A2 VWS Helmond Rit: 139087",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183459a2vwshelmondrit139087",
-   "tekst": "Ambulance 22-103 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T18:34:59+01:00",
-   "eerst_gezien": "2026-11-21T17:49:30.587289+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 18:34"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183300a2helmondrit139083": {
-   "titel": "A2 Helmond Rit: 139083",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126183300a2helmondrit139083",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T18:33:00+01:00",
-   "eerst_gezien": "2026-11-21T17:33:27.783852+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 18:33"
   },
   "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs": {
    "titel": "Robine is prof net als haar vader en opa: 'Zijn allemaal even eigenwijs'",
@@ -18476,7 +18459,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -18521,7 +18504,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 24,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18576,7 +18559,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
