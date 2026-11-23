@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 23:20",
+ "bijgewerkt": "23-11-2026 23:36",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -4725,7 +4725,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 23:18"
@@ -4742,7 +4742,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4758,7 +4758,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4959,7 +4959,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5399,7 +5399,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -18351,23 +18351,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 08:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108620660/vc-wik-h1-onderuit-in-helmond.html": {
-   "titel": "VC WIK H1 onderuit in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108620660/vc-wik-h1-onderuit-in-helmond.html",
-   "tekst": "VoV, 16-11-2026. 13:41 uur. Afgelopen zaterdag 14 november heeft de hoofdmacht van VC WIK met 3-1 verloren van VC Polaris in Helmond....",
-   "datum": "2026-11-16T22:30:08+00:00",
-   "eerst_gezien": "2026-11-16T22:34:53.716312+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 23:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108622931/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html": {
    "titel": "Zijn illegale zakken naast de afvalcontainer asociaal, of is er meer aan de hand'",
