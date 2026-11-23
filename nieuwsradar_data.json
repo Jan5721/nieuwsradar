@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 08:02",
+ "bijgewerkt": "23-11-2026 08:18",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -1075,7 +1075,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
    "titel": "Problemen op het spoor rond Eindhoven door seinstoring",
    "link": "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
-   "tekst": "Een seinstoring veroorzaakt maandagochtend problemen op het spoor rond Eindhoven. Er rijden er tot ongeveer kwart over negen 's ochtends geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen dan gebruikelijk. …",
+   "tekst": "Een seinstoring veroorzaakt maandagochtend problemen op het spoor rond Eindhoven. Er rijden er tot ongeveer halfelf 's ochtends geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen dan gebruikelijk. Vanwege de …",
    "datum": "2026-11-23T05:52:00+00:00",
    "eerst_gezien": "2026-11-23T06:14:06.244530+00:00",
    "bron": "Omroep Brabant",
@@ -1088,23 +1088,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 06:52"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen": {
-   "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen",
-   "tekst": "Het schoolbestuur van basisschool De Zeilberg in Deurne staat voor een enorme klus. Bestuurder Mischa Kleukers moet onderdak vinden voor 300 leerlingen nadat zijn school vrijdagavond deels afbrandde. Twee kinderen hadden er vuurwerk afgestoken. De vraag of het om leerlingen van …",
-   "datum": "2026-11-22T16:38:00+00:00",
-   "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 17:38"
   },
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
@@ -1617,6 +1600,23 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen": {
+   "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen",
+   "tekst": "",
+   "datum": "2026-11-22T16:50:23.749146+00:00",
+   "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 17:50"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten": {
    "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten",
@@ -1790,7 +1790,7 @@
   "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel": {
    "titel": "Nieuwbouwwoning mag gebouwd worden aan Buntseweg in Liessel",
    "link": "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel",
-   "tekst": "maandag De gemeente heeft een vergunning verleend voor het bouwen van een nieuwbouwwoning aan de Buntseweg in Liessel. Het besluit is op 12 november genomen.",
+   "tekst": "16 november 2026 De gemeente heeft een vergunning verleend voor het bouwen van een nieuwbouwwoning aan de Buntseweg in Liessel. Het besluit is op 12 november genomen.",
    "datum": "2026-11-16T15:24:37.551385+00:00",
    "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4423,6 +4423,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684213/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html": {
+   "titel": "Eindhoven begint met noodplan voor inwoners: in deze wijken komen de eerste steunpunten waar buurt terecht kan bij calamiteiten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684213/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html",
+   "tekst": "",
+   "datum": "2026-11-23T07:13:25+00:00",
+   "eerst_gezien": "2026-11-23T07:18:13.831301+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 08:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684167/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684167/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "Treinen van en naar Eindhoven Centraal hebben tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor rijden er tot ongeveer...",
+   "datum": "2026-11-23T07:06:04+00:00",
+   "eerst_gezien": "2026-11-23T07:18:13.831301+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108684123/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html": {
    "titel": "Eindhoven begint met noodplan voor inwoners: in deze wijken komen de eerste steunpunten waar buurt terecht kan bij calamiteiten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108684123/eindhoven-begint-met-noodplan-voor-inwoners-in-deze-wijken-komen-de-eerste-steunpunten-waar-buurt-terecht-kan-bij-calamiteiten.html",
@@ -4435,10 +4468,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 08:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108684098/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
@@ -4452,7 +4484,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4505,30 +4537,13 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108680262/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html": {
-   "titel": "Van revalidatie naar captain van Dordt en international van Suriname: Jaden Pinas beleeft een bijzonder jaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680262/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html",
-   "tekst": "",
-   "datum": "2026-11-22T20:40:30+00:00",
-   "eerst_gezien": "2026-11-22T20:51:11.475078+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 21:40"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html": {
-   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: `de kroeg in op zondagmiddag`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html",
-   "tekst": "",
-   "datum": "2026-11-22T20:19:02+00:00",
-   "eerst_gezien": "2026-11-22T20:35:03.600142+00:00",
-   "bron": "Drimble Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html": {
+   "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html",
+   "tekst": "Het schoolbestuur van basisschool De Zeilberg in Deurne staat voor een enorme klus. Bestuurder Mischa Kleukers moet onderdak vinden...",
+   "datum": "2026-11-22T22:17:05+00:00",
+   "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
    ],
@@ -4538,12 +4553,12 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html": {
-   "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html",
-   "tekst": "Het schoolbestuur van basisschool De Zeilberg in Deurne staat voor een enorme klus. Bestuurder Mischa Kleukers moet onderdak vinden...",
-   "datum": "2026-11-22T22:17:05+00:00",
-   "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
+  "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html": {
+   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: `de kroeg in op zondagmiddag`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html",
+   "tekst": "",
+   "datum": "2026-11-22T20:19:02+00:00",
+   "eerst_gezien": "2026-11-22T20:35:03.600142+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -5400,6 +5415,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 13:45"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108680262/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html": {
+   "titel": "Van revalidatie naar captain van Dordt en international van Suriname: Jaden Pinas beleeft een bijzonder jaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680262/van-revalidatie-naar-captain-van-dordt-en-international-van-suriname-jaden-pinas-beleeft-een-bijzonder-jaar.html",
+   "tekst": "",
+   "datum": "2026-11-22T20:40:30+00:00",
+   "eerst_gezien": "2026-11-22T20:51:11.475078+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 21:40"
   },
   "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/": {
    "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
@@ -18532,7 +18564,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -18542,7 +18574,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18602,7 +18634,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Asten": {
