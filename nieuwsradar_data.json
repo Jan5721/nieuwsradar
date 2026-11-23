@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 17:10",
+ "bijgewerkt": "23-11-2026 17:26",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -987,23 +987,6 @@
    "prio": false,
    "tijd": "22-11 18:32"
   },
-  "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/": {
-   "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: ‘Zenuwachtiger dan voor mijn prinsenonthulling’",
-   "link": "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/",
-   "tekst": "Bijna zeshonderd mensen genoten dit weekend van Het verhaal van Vlierden in ’t Huis. Een theatershow voor en door Vlierdenaren met verhalen uit de laatste honderd jaar, die volgens de makers verteld moeten blijven worden.",
-   "datum": "2026-11-22T13:30:50+00:00",
-   "eerst_gezien": "2026-11-22T13:37:48.078339+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 14:30"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
    "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
@@ -1020,6 +1003,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:27"
+  },
+  "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/": {
+   "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: ‘Zenuwachtiger dan voor mijn prinsenonthulling’",
+   "link": "https://www.ed.nl/deurne/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling~a8450579/",
+   "tekst": "Bijna zeshonderd mensen genoten dit weekend van Het verhaal van Vlierden in ’t Huis. Een theatershow voor en door Vlierdenaren met verhalen uit de laatste honderd jaar, die volgens de makers verteld moeten blijven worden.",
+   "datum": "2026-11-22T13:30:50+00:00",
+   "eerst_gezien": "2026-11-22T13:37:48.078339+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 14:30"
   },
   "https://www.ed.nl/someren/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide~a6e94256/": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -1630,7 +1630,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:10"
@@ -1890,6 +1890,23 @@
    "prio": false,
    "tijd": "23-11 16:54"
   },
+  "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal": {
+   "titel": "Reflection Day in Deurne: zichtbaarheid in verkeer centraal",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034941/reflection-day-in-deurne-zichtbaarheid-in-verkeer-centraal",
+   "tekst": "16 november 2026 In Deurne heeft wethouder Wouter Bulten basisschoolleerlingen bewust gemaakt van het belang van zichtbaarheid in het verkeer. Dit gebeurde tijdens Reflection Day, een campagne die al tien jaar aandacht vraagt voor …",
+   "datum": "2026-11-23T16:26:14.860464+00:00",
+   "eerst_gezien": "2026-11-23T16:26:14.860464+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:26"
+  },
   "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen": {
    "titel": "Deurne wint NK Tegelwippen",
    "link": "https://www.omroepbrabant.nl/nieuws/6034899/deurne-wint-nk-tegelwippen",
@@ -1904,7 +1921,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:10"
@@ -2336,6 +2353,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 11:10"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind": {
+   "titel": "Sinterklaas arriveert per boot in Someren-Eind",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind",
+   "tekst": "16 november 2026 Sinterklaas is per boot aangekomen in Someren-Eind en feestelijk onthaald.",
+   "datum": "2026-11-23T16:26:14.860464+00:00",
+   "eerst_gezien": "2026-11-23T16:26:14.860464+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:26"
   },
   "https://www.omroepbrabant.nl/nieuws/6034876/prachtparenmiddag-voor-bruidsparen-in-someren": {
    "titel": "Prachtparenmiddag voor bruidsparen in Someren",
@@ -4679,12 +4713,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108688522/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html": {
-   "titel": "LIVE | PSV-trainer Bosz en verdediger Dest blikken vooruit op Champions League-kraker bij Real Madrid",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688522/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108688715/bob-en-henja-wilden-na-het-weekend-niet-meer-terug-naar-eindhoven-nu-runnen-ze-al-25-jaar-een-resort-zonder-personeel-in-de-ardennen.html": {
+   "titel": "Bob en Henja wilden na het weekend niet meer terug naar Eindhoven, nu runnen ze al 25 jaar een resort zonder personeel in de Ardennen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688715/bob-en-henja-wilden-na-het-weekend-niet-meer-terug-naar-eindhoven-nu-runnen-ze-al-25-jaar-een-resort-zonder-personeel-in-de-ardennen.html",
    "tekst": "",
-   "datum": "2026-11-23T16:01:05+00:00",
-   "eerst_gezien": "2026-11-23T16:10:11.320091+00:00",
+   "datum": "2026-11-23T16:19:03+00:00",
+   "eerst_gezien": "2026-11-23T16:26:14.860464+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4694,7 +4728,58 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 17:01"
+   "tijd": "23-11 17:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688713/rijkswaterstaat-opent-nieuwe-afslag-bij-knooppunt-leenderheide-en-laat-verkeer-voortaan-beter-doorstromen.html": {
+   "titel": "Rijkswaterstaat opent nieuwe afslag bij knooppunt Leenderheide en laat verkeer voortaan beter doorstromen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688713/rijkswaterstaat-opent-nieuwe-afslag-bij-knooppunt-leenderheide-en-laat-verkeer-voortaan-beter-doorstromen.html",
+   "tekst": "",
+   "datum": "2026-11-23T16:19:03+00:00",
+   "eerst_gezien": "2026-11-23T16:26:14.860464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688660/rijkswaterstaat-opent-nieuwe-afslag-bij-leenderheide-en-laat-verkeer-voortaan-beter-doorstromen.html": {
+   "titel": "Rijkswaterstaat opent nieuwe afslag bij Leenderheide en laat verkeer voortaan beter doorstromen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688660/rijkswaterstaat-opent-nieuwe-afslag-bij-leenderheide-en-laat-verkeer-voortaan-beter-doorstromen.html",
+   "tekst": "",
+   "datum": "2026-11-23T16:13:25+00:00",
+   "eerst_gezien": "2026-11-23T16:26:14.860464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688659/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html": {
+   "titel": "LIVE | PSV-trainer Bosz en verdediger Dest blikken vooruit op Champions League-kraker bij Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688659/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-23T16:13:25+00:00",
+   "eerst_gezien": "2026-11-23T16:26:14.860464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html": {
    "titel": "Verkeer op randweg N2 met nieuwe afslag voortaan sneller op A2",
@@ -4941,57 +5026,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html": {
-   "titel": "Pand in Eindhoven ontruimd door rook bij dakwerkzaamheden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html",
-   "tekst": "",
-   "datum": "2026-11-23T14:43:19+00:00",
-   "eerst_gezien": "2026-11-23T14:49:32.629524+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 15:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108687577/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html": {
-   "titel": "Kleinzoon van PSV-legende poeiert op heerlijke wijze raak: bekijk hier de beelden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687577/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html",
-   "tekst": "",
-   "datum": "2026-11-23T14:19:03+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 15:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
-   "titel": "Grotere rol voor buurthuizen tegen eenzaamheid; wat is er nodig'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html",
-   "tekst": "",
-   "datum": "2026-11-23T13:31:03+00:00",
-   "eerst_gezien": "2026-11-23T13:45:27.684425+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 14:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html": {
    "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
@@ -5906,6 +5940,74 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688522/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html": {
+   "titel": "LIVE | PSV-trainer Bosz en verdediger Dest blikken vooruit op Champions League-kraker bij Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688522/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-23T16:01:05+00:00",
+   "eerst_gezien": "2026-11-23T16:10:11.320091+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html": {
+   "titel": "Pand in Eindhoven ontruimd door rook bij dakwerkzaamheden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html",
+   "tekst": "",
+   "datum": "2026-11-23T14:43:19+00:00",
+   "eerst_gezien": "2026-11-23T14:49:32.629524+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687577/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html": {
+   "titel": "Kleinzoon van PSV-legende poeiert op heerlijke wijze raak: bekijk hier de beelden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687577/kleinzoon-van-psv-legende-poeiert-op-heerlijke-wijze-raak-bekijk-hier-de-beelden.html",
+   "tekst": "",
+   "datum": "2026-11-23T14:19:03+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
+   "titel": "Grotere rol voor buurthuizen tegen eenzaamheid; wat is er nodig'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687277/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html",
+   "tekst": "",
+   "datum": "2026-11-23T13:31:03+00:00",
+   "eerst_gezien": "2026-11-23T13:45:27.684425+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 14:31"
   },
   "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder~a63f92cb/": {
    "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus ruim drie miljoen duurder",
@@ -18237,39 +18339,6 @@
    "prio": false,
    "tijd": "16-11 17:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616915/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html": {
-   "titel": "Laarbeek wil met Senzer door voor groenonderhoud, maar het moet wel beter werk leveren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616915/laarbeek-wil-met-senzer-door-voor-groenonderhoud-maar-het-moet-wel-beter-werk-leveren.html",
-   "tekst": "",
-   "datum": "2026-11-16T16:13:11+00:00",
-   "eerst_gezien": "2026-11-16T16:28:55.792526+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 17:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616914/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html": {
-   "titel": "Hallo Sint! Check hier de foto`s van de sinterklaasintocht 2026 in Helmond.",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616914/hallo-sint-check-hier-de-fotos-van-de-sinterklaasintocht-2026-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-16T16:13:11+00:00",
-   "eerst_gezien": "2026-11-16T16:28:55.792526+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html": {
    "titel": "Steffie (22) uit Veghel zorgt voor kippenvel in SBS-programma: `Dikke middelvinger naar al die mensen die jou gepest hebben`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108617924/steffie-22-uit-veghel-zorgt-voor-kippenvel-in-sbs-programma-dikke-middelvinger-naar-al-die-mensen-die-jou-gepest-hebben.html",
@@ -18323,12 +18392,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -18353,7 +18422,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 23,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18363,7 +18432,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Gemeente Helmond": {
