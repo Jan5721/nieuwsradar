@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 17:26",
+ "bijgewerkt": "23-11-2026 17:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -1452,7 +1452,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond half drie",
    "link": "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie",
-   "tekst": "dinsdag De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds half elf vanochtend zonder stroom. De storing duurde tot elf uur zevenenveertig.",
+   "tekst": "17 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds half elf vanochtend zonder stroom. De storing duurde tot elf uur zevenenveertig.",
    "datum": "2026-11-17T10:10:38.579736+00:00",
    "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1902,7 +1902,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:26"
@@ -2366,7 +2366,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:26"
@@ -4713,6 +4713,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688837/mist-boven-eindhoven-airport-vluchten-wijken-uit.html": {
+   "titel": "Mist boven Eindhoven Airport: vluchten wijken uit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688837/mist-boven-eindhoven-airport-vluchten-wijken-uit.html",
+   "tekst": "",
+   "datum": "2026-11-23T16:31:03+00:00",
+   "eerst_gezien": "2026-11-23T16:42:16.975539+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 17:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108688715/bob-en-henja-wilden-na-het-weekend-niet-meer-terug-naar-eindhoven-nu-runnen-ze-al-25-jaar-een-resort-zonder-personeel-in-de-ardennen.html": {
    "titel": "Bob en Henja wilden na het weekend niet meer terug naar Eindhoven, nu runnen ze al 25 jaar een resort zonder personeel in de Ardennen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108688715/bob-en-henja-wilden-na-het-weekend-niet-meer-terug-naar-eindhoven-nu-runnen-ze-al-25-jaar-een-resort-zonder-personeel-in-de-ardennen.html",
@@ -4725,7 +4742,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:19"
@@ -4742,7 +4759,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:19"
@@ -4759,7 +4776,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:13"
@@ -4776,7 +4793,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:13"
@@ -5001,22 +5018,6 @@
    "tekst": "",
    "datum": "2026-11-23T15:13:26+00:00",
    "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html": {
-   "titel": "Korale en Muzikale geven kerstconcert in Aarle-Rixtel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html",
-   "tekst": "",
-   "datum": "2026-11-23T15:01:05+00:00",
-   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5940,6 +5941,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html": {
+   "titel": "Korale en Muzikale geven kerstconcert in Aarle-Rixtel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:01:05+00:00",
+   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108688522/live-psv-trainer-bosz-en-verdediger-dest-blikken-vooruit-op-champions-league-kraker-bij-real-madrid.html": {
    "titel": "LIVE | PSV-trainer Bosz en verdediger Dest blikken vooruit op Champions League-kraker bij Real Madrid",
@@ -8116,23 +8133,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 18:33"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126174142a1somerenrit139070": {
-   "titel": "A1 Someren Rit: 139070",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126174142a1somerenrit139070",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T17:41:42+01:00",
-   "eerst_gezien": "2026-11-21T16:45:37.335833+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "21-11 17:41"
   },
   "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs": {
    "titel": "Robine is prof net als haar vader en opa: 'Zijn allemaal even eigenwijs'",
