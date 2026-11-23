@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 16:06",
+ "bijgewerkt": "23-11-2026 16:22",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -561,6 +561,23 @@
    "prio": false,
    "tijd": "16-11 18:31"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64851/in-beeld-zo-werd-prins-ramon-weren-bij-de-plekkers-onthuld": {
+   "titel": "In beeld: zó werd prins Ramon Weren bij De Plekkers onthuld",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64851/in-beeld-zo-werd-prins-ramon-weren-bij-de-plekkers-onthuld",
+   "tekst": "ASTEN - Altijd een spektakel op zich: de onthulling van een prins. Bij De Plekkers in Asten was het afgelopen weekend niet anders.",
+   "datum": "2026-11-23T16:13:00+01:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:13"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64848/automobilist-belandt-in-sloot-in-heusden": {
    "titel": "Automobilist belandt in sloot in Heusden",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64848/automobilist-belandt-in-sloot-in-heusden",
@@ -817,22 +834,22 @@
    "prio": false,
    "tijd": "17-11 09:07"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64688/in-beeld-de-klot-trapt-carnaval-af-met-premiere-zittingsavond": {
-   "titel": "In beeld: De Klot trapt carnaval af met première zittingsavond",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64688/in-beeld-de-klot-trapt-carnaval-af-met-premiere-zittingsavond",
-   "tekst": "ASTEN - Traditiegetrouw trapte carnavalsstichting De Klot op de elfde van de elfde het nieuwe seizoen af. In gemeenschapshuis 't Kwartier vond de première van de zittingsavond plaats.",
-   "datum": "2026-11-16T16:09:00+01:00",
-   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
-   "bron": "Peelbelang",
+  "https://www.ed.nl/helmond/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond~ace664e3/": {
+   "titel": "Voorstelling Circle of Life van The Diamond Baritones komt naar Helmond",
+   "link": "https://www.ed.nl/helmond/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond~ace664e3/",
+   "tekst": "The Diamond Baritones treden met de voorstelling Circle of Life op in Theater het Speelhuis in Helmond. Zondag 20 december begint de show om 15.00 uur in de theaterzaal en eindigt naar verwachting om 17.00 uur.",
+   "datum": "2026-11-23T15:05:15+00:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "ED Helmond",
    "gemeenten": [
-    "Asten"
+    "Helmond"
    ],
-   "soort": "lokale pers",
+   "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "16-11 16:09"
+   "tijd": "23-11 16:05"
   },
   "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder~a63f92cb/": {
    "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus ruim drie miljoen duurder",
@@ -846,7 +863,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:00"
@@ -4679,6 +4696,104 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688158/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder.html": {
+   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus ruim drie miljoen duurder",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688158/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:19:03+00:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688157/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond.html": {
+   "titel": "Voorstelling Circle of Life van The Diamond Baritones komt naar Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688157/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:19:03+00:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688156/fors-lagere-straf-voor-man-27-die-voor-miljoen-aan-cocaine-in-zijn-bus-had-liggen.html": {
+   "titel": "Fors lagere straf voor man (27) die voor miljoen aan cocaïne in zijn bus had liggen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688156/fors-lagere-straf-voor-man-27-die-voor-miljoen-aan-cocaine-in-zijn-bus-had-liggen.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:19:03+00:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688110/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html": {
+   "titel": "Korale en Muzikale geven kerstconcert in Aarle-Rixtel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688110/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:13:26+00:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688108/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder.html": {
+   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus ruim drie miljoen duurder",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688108/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-ruim-drie-miljoen-duurder.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:13:26+00:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108688107/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond.html": {
+   "titel": "Voorstelling Circle of Life van The Diamond Baritones komt naar Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108688107/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-23T15:13:26+00:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html": {
    "titel": "Korale en Muzikale geven kerstconcert in Aarle-Rixtel",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html",
@@ -4691,10 +4806,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 16:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108687704/pand-in-eindhoven-ontruimd-door-rook-bij-dakwerkzaamheden.html": {
    "titel": "Pand in Eindhoven ontruimd door rook bij dakwerkzaamheden",
@@ -4821,7 +4935,7 @@
    "tekst": "",
    "datum": "2026-11-23T11:31:03+00:00",
    "eerst_gezien": "2026-11-23T11:36:49.345189+00:00",
-   "bron": "Drimble Helmond",
+   "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
    ],
@@ -4830,57 +4944,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108686286/door-staking-is-het-afzien-voor-chauffeurs-en-reizigers-we-staan-letterlijk-en-figuurlijk-in-de-kou.html": {
-   "titel": "Door staking is het afzien voor chauffeurs en reizigers: `We staan letterlijk en figuurlijk in de kou`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686286/door-staking-is-het-afzien-voor-chauffeurs-en-reizigers-we-staan-letterlijk-en-figuurlijk-in-de-kou.html",
-   "tekst": "",
-   "datum": "2026-11-23T11:19:02+00:00",
-   "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 12:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108685821/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html": {
-   "titel": "Oud-Eindhovenaren runnen eigenzinnig miniresort in Ardennen: `De aflevering van Ik Vertrek zou hier heel saai zijn`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685821/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html",
-   "tekst": "",
-   "datum": "2026-11-23T10:49:05+00:00",
-   "eerst_gezien": "2026-11-23T11:04:51.622233+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108685819/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html": {
-   "titel": "Mary Fiers komt met actieboek voor iedereen die bij de overheid werkt: `Hang deze wet boven je bed`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685819/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html",
-   "tekst": "",
-   "datum": "2026-11-23T10:49:05+00:00",
-   "eerst_gezien": "2026-11-23T11:04:51.622233+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 11:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html": {
    "titel": "Shockvriezer koelt met hoge capaciteit sauzen razendsnel terug",
@@ -5486,7 +5549,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 16:06"
@@ -5503,7 +5566,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 15:50"
@@ -5762,6 +5825,57 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 00:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686286/door-staking-is-het-afzien-voor-chauffeurs-en-reizigers-we-staan-letterlijk-en-figuurlijk-in-de-kou.html": {
+   "titel": "Door staking is het afzien voor chauffeurs en reizigers: `We staan letterlijk en figuurlijk in de kou`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686286/door-staking-is-het-afzien-voor-chauffeurs-en-reizigers-we-staan-letterlijk-en-figuurlijk-in-de-kou.html",
+   "tekst": "",
+   "datum": "2026-11-23T11:19:02+00:00",
+   "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 12:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685821/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html": {
+   "titel": "Oud-Eindhovenaren runnen eigenzinnig miniresort in Ardennen: `De aflevering van Ik Vertrek zou hier heel saai zijn`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685821/oud-eindhovenaren-runnen-eigenzinnig-miniresort-in-ardennen-de-aflevering-van-ik-vertrek-zou-hier-heel-saai-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:49:05+00:00",
+   "eerst_gezien": "2026-11-23T11:04:51.622233+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685819/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html": {
+   "titel": "Mary Fiers komt met actieboek voor iedereen die bij de overheid werkt: `Hang deze wet boven je bed`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685819/mary-fiers-komt-met-actieboek-voor-iedereen-die-bij-de-overheid-werkt-hang-deze-wet-boven-je-bed.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:49:05+00:00",
+   "eerst_gezien": "2026-11-23T11:04:51.622233+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 11:49"
   },
   "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/": {
    "titel": "Wáár komt die pakjesboot dan aan? Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
@@ -18203,23 +18317,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108616335/oprichter-cafe-altstadt-in-eindhoven-overleden-bart-kon-mopperen-maar-altijd-met-een-knipoog.html": {
-   "titel": "Oprichter café Altstadt in Eindhoven overleden: `Bart kon mopperen, maar altijd met een knipoog`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108616335/oprichter-cafe-altstadt-in-eindhoven-overleden-bart-kon-mopperen-maar-altijd-met-een-knipoog.html",
-   "tekst": "",
-   "datum": "2026-11-16T15:07:24+00:00",
-   "eerst_gezien": "2026-11-16T15:24:37.551385+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 16:07"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html": {
    "titel": "Nog even nagloeien: dit was Glow 2026 in Eindhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108617179/nog-even-nagloeien-dit-was-glow-2026-in-eindhoven.html",
@@ -18256,7 +18353,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -18341,12 +18438,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Asten": {
