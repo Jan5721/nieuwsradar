@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 12:37",
+ "bijgewerkt": "23-11-2026 12:53",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64838/spv-en-william-van-moorsel-gaan-na-drie-seizoenen-uit-elkaar": {
    "titel": "SPV en William van Moorsel gaan na drie seizoenen uit elkaar",
@@ -1050,7 +1050,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 06:52"
@@ -4576,6 +4576,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html": {
+   "titel": "Gemeente reikt jeugdlintjes uit aan jonge Helmonders",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html",
+   "tekst": "",
+   "datum": "2026-11-23T11:49:06+00:00",
+   "eerst_gezien": "2026-11-23T11:52:54.111934+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 12:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html": {
    "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108686389/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen.html",
@@ -4588,7 +4605,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4740,22 +4757,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108684406/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html": {
-   "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684406/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html",
-   "tekst": "",
-   "datum": "2026-11-23T07:49:07+00:00",
-   "eerst_gezien": "2026-11-23T07:50:27.466994+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html": {
    "titel": "Shockvriezer koelt met hoge capaciteit sauzen razendsnel terug",
@@ -5348,6 +5349,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126124027a2helmondrit139829": {
+   "titel": "A2 Helmond Rit: 139829",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126124027a2helmondrit139829",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T12:40:27+01:00",
+   "eerst_gezien": "2026-11-23T11:52:54.111934+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "23-11 12:40"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126105158a1helmondrit139779": {
    "titel": "A1 Helmond Rit: 139779",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126105158a1helmondrit139779",
@@ -5653,6 +5671,22 @@
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 15:40"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684406/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html": {
+   "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684406/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html",
+   "tekst": "",
+   "datum": "2026-11-23T07:49:07+00:00",
+   "eerst_gezien": "2026-11-23T07:50:27.466994+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/deurne/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven~a79a84e7/": {
    "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
@@ -18959,23 +18993,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108614834/ellen-35-uit-gemert-nam-meerdere-keren-afscheid-van-dochter-yara-dan-ga-je-echt-door-een-hel.html": {
-   "titel": "Ellen (35) uit Gemert nam meerdere keren afscheid van dochter Yara: `Dan ga je echt door een hel`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108614834/ellen-35-uit-gemert-nam-meerdere-keren-afscheid-van-dochter-yara-dan-ga-je-echt-door-een-hel.html",
-   "tekst": "",
-   "datum": "2026-11-16T11:49:06+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 12:49"
-  },
   "https://www.omroepbrabant.nl/nieuws/6033390/gemeente-deurne-geeft-toestemming-voor-maatwerkvoorschriften-spoortunnel": {
    "titel": "Gemeente Deurne geeft toestemming voor maatwerkvoorschriften spoortunnel",
    "link": "https://www.omroepbrabant.nl/nieuws/6033390/gemeente-deurne-geeft-toestemming-voor-maatwerkvoorschriften-spoortunnel",
@@ -19152,7 +19169,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
