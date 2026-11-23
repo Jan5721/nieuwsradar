@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 13:57",
+ "bijgewerkt": "23-11-2026 14:13",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64841/frans-en-yvonne-verhees-boerenbruidspaar-van-zeilberg": {
    "titel": "Frans en Yvonne Verhees boerenbruidspaar van Zeilberg",
@@ -987,23 +987,6 @@
    "prio": false,
    "tijd": "22-11 13:45"
   },
-  "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
-   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
-   "link": "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/",
-   "tekst": "Na haar vlucht uit Syrië wil de 33-jarige Siba Darwish dolgraag weer voor de klas staan. De voormalige onderwijsassistent moet daarvoor eerst de Nederlandse taal machtig worden. Daarom loopt ze nu alvast stage in Helmond. „Dit is de sleutel tot een mooie baan in Nederland.”",
-   "datum": "2026-11-22T10:00:17+00:00",
-   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 11:00"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
    "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
@@ -1021,6 +1004,23 @@
    "prio": false,
    "tijd": "23-11 13:27"
   },
+  "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/": {
+   "titel": "Siba (33) staat in Helmond weer voor de klas, na jaren van onzekerheid: ‘Lesgeven is mijn grote passie’",
+   "link": "https://www.ed.nl/helmond/siba-33-staat-in-helmond-weer-voor-de-klas-na-jaren-van-onzekerheid-lesgeven-is-mijn-grote-passie~a7342cba/",
+   "tekst": "Na haar vlucht uit Syrië wil de 33-jarige Siba Darwish dolgraag weer voor de klas staan. De voormalige onderwijsassistent moet daarvoor eerst de Nederlandse taal machtig worden. Daarom loopt ze nu alvast stage in Helmond. „Dit is de sleutel tot een mooie baan in Nederland.”",
+   "datum": "2026-11-22T10:00:17+00:00",
+   "eerst_gezien": "2026-11-22T10:09:05.201538+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 11:00"
+  },
   "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/": {
    "titel": "Wáár komt die pakjesboot dan aan? Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
    "link": "https://www.ed.nl/helmond/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem~afa6f96b/",
@@ -1037,24 +1037,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 07:13"
-  },
-  "https://www.ed.nl/someren/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon~a90f4eefb/": {
-   "titel": "Tim d’n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
-   "link": "https://www.ed.nl/someren/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon~a90f4eefb/",
-   "tekst": "Carnavalsvereniging De Pompers uit Someren presenteert vol trots haar 42ste regent. Prins Tim d’n Urste heet in het dagelijks leven Tim van Dongen (34) en is getrouwd met prinses Manon (33).",
-   "datum": "2026-11-21T21:00:12+00:00",
-   "eerst_gezien": "2026-11-21T21:01:46.634053+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 22:00"
   },
   "https://www.ed.nl/asten/ivn-asten-someren-houdt-presentatie-over-bouwende-dieren-in-asten~a5bcfed9/": {
    "titel": "IVN Asten-Someren houdt presentatie over bouwende dieren in Asten",
@@ -1085,7 +1067,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 06:52"
@@ -1461,7 +1443,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1478,7 +1460,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1495,7 +1477,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1512,7 +1494,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1529,7 +1511,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1546,7 +1528,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1563,7 +1545,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1580,7 +1562,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -1596,7 +1578,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1904,7 +1886,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1921,7 +1903,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1938,7 +1920,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -1955,7 +1937,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2075,7 +2057,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2092,7 +2074,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2109,7 +2091,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2127,7 +2109,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2144,7 +2126,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2161,7 +2143,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2332,7 +2314,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2349,7 +2331,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2366,7 +2348,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2383,7 +2365,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2400,7 +2382,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2417,7 +2399,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2435,7 +2417,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -2451,7 +2433,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2468,7 +2450,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -2485,7 +2467,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
@@ -4640,7 +4622,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:43"
@@ -5418,6 +5400,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126140048a1helmondrit139863": {
+   "titel": "A1 Helmond Rit: 139863",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126140048a1helmondrit139863",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-23T14:00:48+01:00",
+   "eerst_gezien": "2026-11-23T13:13:28.051708+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "23-11 14:00"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126134637a2helmondrit139855": {
    "titel": "A2 Helmond Rit: 139855",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126134637a2helmondrit139855",
@@ -5430,7 +5429,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 13:46"
@@ -5723,6 +5722,24 @@
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 16:33"
+  },
+  "https://www.ed.nl/someren/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon~a90f4eefb/": {
+   "titel": "Tim d’n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
+   "link": "https://www.ed.nl/someren/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon~a90f4eefb/",
+   "tekst": "Carnavalsvereniging De Pompers uit Someren presenteert vol trots haar 42ste regent. Prins Tim d’n Urste heet in het dagelijks leven Tim van Dongen (34) en is getrouwd met prinses Manon (33).",
+   "datum": "2026-11-21T21:00:12+00:00",
+   "eerst_gezien": "2026-11-21T21:01:46.634053+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 22:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#221126155357a2helmondrit139406": {
    "titel": "A2 Helmond Rit: 139406",
@@ -7679,23 +7696,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 10:19"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126140833a2helmondrit138987": {
-   "titel": "A2 Helmond Rit: 138987",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126140833a2helmondrit138987",
-   "tekst": "MKA Brabant-Zuidoost (OvD-G 805)",
-   "datum": "2026-11-21T14:08:33+01:00",
-   "eerst_gezien": "2026-11-21T13:17:12.070237+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 14:08"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108676288/zware-nacht-en-ploegendiensten-of-ook-stress-en-tijdsdruk-dit-zegt-het-debat-over-vroegpensioen-bij-zwaar-werk.html": {
    "titel": "Zware nacht- en ploegendiensten of ook stress en tijdsdruk' Dit zegt het debat over vroegpensioen bij zwaar werk",
@@ -18133,7 +18133,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 8,
    "fout": ""
   },
   "ED Deurne": {
