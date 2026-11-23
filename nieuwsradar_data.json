@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 09:39",
+ "bijgewerkt": "23-11-2026 09:55",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64833/sv-deurne-lijdt-zure-en-onnodige-nederlaag-en-is-koppositie-kwijt": {
    "titel": "SV Deurne lijdt zure en onnodige nederlaag en is koppositie kwijt",
@@ -816,23 +816,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.peelbelangonline.nl/nieuws/sport/64667/efficient-nwc-pakt-belangrijke-punten-in-eersel": {
-   "titel": "Efficiënt NWC pakt belangrijke punten in Eersel",
-   "link": "https://www.peelbelangonline.nl/nieuws/sport/64667/efficient-nwc-pakt-belangrijke-punten-in-eersel",
-   "tekst": "EERSEL - NWC rekende zondagmiddag in de tweede helft af met nummer dertien EFC. Het team van trainer Peter Verstappen sprong goed om met de kansen en boekte een belangrijke 0-3 zege op sportpark De Dieprijt.",
-   "datum": "2026-11-16T09:51:00+01:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 09:51"
-  },
   "https://www.ed.nl/eindhoven/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet~aa7da3a5/": {
    "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
    "link": "https://www.ed.nl/eindhoven/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet~aa7da3a5/",
@@ -1089,10 +1072,27 @@
    "prio": false,
    "tijd": "23-11 06:52"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035731/elkerliek-ziekenhuis-biedt-snellere-hulp-bij-slaapapneu": {
+   "titel": "Elkerliek Ziekenhuis biedt snellere hulp bij slaapapneu",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035731/elkerliek-ziekenhuis-biedt-snellere-hulp-bij-slaapapneu",
+   "tekst": "",
+   "datum": "2026-11-23T08:54:58.427314+00:00",
+   "eerst_gezien": "2026-11-23T08:54:58.427314+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:54"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
    "link": "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht",
-   "tekst": "",
+   "tekst": "Helmond Sport heeft vrijdagavond FC Dordrecht met 5-1 verslagen in het MySteel Stadion. De ploeg uit Helmond leidde bij rust al met 3-0 dankzij treffers van Bajrami, Van der Velde en Essakkati. In de tweede helft maakten Lenaerts en Ludwig …",
    "datum": "2026-11-20T21:44:49.212861+00:00",
    "eerst_gezien": "2026-11-20T21:44:49.212861+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1126,7 +1126,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035637/helmond-houdt-pitchavond-voor-street-culture-en-sports": {
    "titel": "Helmond houdt pitchavond voor Street Culture en Sports",
    "link": "https://www.omroepbrabant.nl/nieuws/6035637/helmond-houdt-pitchavond-voor-street-culture-en-sports",
-   "tekst": "De gemeente Helmond heeft op 19 november een pitchavond georganiseerd voor subsidieaanvragen binnen Street Culture en Sports. Negen deelnemers presenteerden hun ideeën aan een jury en kregen allemaal financiële steun voor hun projecten.",
+   "tekst": "vrijdag De gemeente Helmond heeft op 19 november een pitchavond georganiseerd voor subsidieaanvragen binnen Street Culture en Sports. Negen deelnemers presenteerden hun ideeën aan een jury en kregen allemaal financiële steun voor hun …",
    "datum": "2026-11-23T08:22:48.463393+00:00",
    "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1583,23 +1583,6 @@
    "prio": false,
    "tijd": "16-11 13:39"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034694/twee-mensen-naar-ziekenhuis-na-botsing-met-autos-in-helmond": {
-   "titel": "Twee mensen naar ziekenhuis na botsing met auto's in Helmond",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034694/twee-mensen-naar-ziekenhuis-na-botsing-met-autos-in-helmond",
-   "tekst": "13 november 2026 Twee auto's zijn vrijdagochtend op elkaar gebotst in Helmond. Het ongeluk gebeurde op de kruising van de Wethouder Ebbelaan en de Bakelsedijk. Twee mensen zijn met de ambulance naar het ziekenhuis gebracht. Over de aard …",
-   "datum": "2026-11-16T12:39:00.571451+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:39"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen": {
    "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035720/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen",
@@ -2005,7 +1988,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:38"
@@ -2211,7 +2194,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:38"
@@ -4673,7 +4656,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5264,6 +5247,23 @@
    "prio": false,
    "tijd": "21-11 00:04"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684838/fotos-bridgeclub-someren-eind-viert-twintigjarig-bestaan-zeven-mensen-vanaf-dag-een-lid.html": {
+   "titel": "[FOTO´S] Bridgeclub Someren-Eind viert twintigjarig bestaan; zeven mensen vanaf dag &é&én lid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684838/fotos-bridgeclub-someren-eind-viert-twintigjarig-bestaan-zeven-mensen-vanaf-dag-een-lid.html",
+   "tekst": "Bridgeclub Someren-Eind (BCSE´06) vierde vorige week haar twintigjarig jubileum en zette enkele leden in het zonnetje. Het ging om een zevental...",
+   "datum": "2026-11-23T08:53:02+00:00",
+   "eerst_gezien": "2026-11-23T08:54:58.427314+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:53"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html": {
    "titel": "Stamboomcaf&é Someren nodigt ge&ïnteresseerden uit voor zoektocht naar familiegeschiedenis",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html",
@@ -5388,22 +5388,6 @@
    "tekst": "",
    "datum": "2026-11-20T23:42:11+00:00",
    "eerst_gezien": "2026-11-20T23:53:19.846277+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108664141/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
-   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664141/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
-   "tekst": "",
-   "datum": "2026-11-20T22:12:11+00:00",
-   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
    "bron": "Drimble Someren",
    "gemeenten": [
     "Someren"
@@ -5685,6 +5669,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 14:15"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034694/twee-mensen-naar-ziekenhuis-na-botsing-met-autos-in-helmond": {
+   "titel": "Twee mensen naar ziekenhuis na botsing met auto's in Helmond",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034694/twee-mensen-naar-ziekenhuis-na-botsing-met-autos-in-helmond",
+   "tekst": "13 november 2026 Twee auto's zijn vrijdagochtend op elkaar gebotst in Helmond. Het ongeluk gebeurde op de kruising van de Wethouder Ebbelaan en de Bakelsedijk. Twee mensen zijn met de ambulance naar het ziekenhuis gebracht. Over de aard …",
+   "datum": "2026-11-16T12:39:00.571451+00:00",
+   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "16-11 13:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108664141/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
+   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108664141/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
+   "tekst": "",
+   "datum": "2026-11-20T22:12:11+00:00",
+   "eerst_gezien": "2026-11-20T22:16:50.486848+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108684606/dit-is-waarom-eindhoven-niet-op-de-brabantse-pfas-kaart-staat-en-helmond-ook-niet.html": {
    "titel": "Dit is waarom Eindhoven niet op de Brabantse PFAS-kaart staat (en Helmond ook niet)",
@@ -18971,7 +18988,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
