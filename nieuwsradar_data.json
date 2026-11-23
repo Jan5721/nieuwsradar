@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 12:53",
+ "bijgewerkt": "23-11-2026 13:09",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64838/spv-en-william-van-moorsel-gaan-na-drie-seizoenen-uit-elkaar": {
    "titel": "SPV en William van Moorsel gaan na drie seizoenen uit elkaar",
@@ -1041,7 +1041,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
    "titel": "Nog urenlang problemen op het spoor rond Eindhoven door seinstoring",
    "link": "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
-   "tekst": "Een seinstoring veroorzaakt sinds maandagochtend problemen op het spoor rond Eindhoven. Zo rijden er tot kwart over drie geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen dan gebruikelijk. Vanwege de …",
+   "tekst": "Een seinstoring veroorzaakt sinds maandagochtend problemen op het spoor rond Eindhoven. Zo rijden er tot kwart over drie geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend minder treinen dan gebruikelijk. …",
    "datum": "2026-11-23T05:52:00+00:00",
    "eerst_gezien": "2026-11-23T11:36:49.345189+00:00",
    "bron": "Omroep Brabant",
@@ -4576,6 +4576,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686571/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html": {
+   "titel": "Ton Verhoeven (59) redt kerken van de ondergang uit pure verliefdheid: `Zoiets mag toch nooit verdwijnen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686571/ton-verhoeven-59-redt-kerken-van-de-ondergang-uit-pure-verliefdheid-zoiets-mag-toch-nooit-verdwijnen.html",
+   "tekst": "",
+   "datum": "2026-11-23T12:01:05+00:00",
+   "eerst_gezien": "2026-11-23T12:08:59.061563+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html": {
    "titel": "Gemeente reikt jeugdlintjes uit aan jonge Helmonders",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108686516/gemeente-reikt-jeugdlintjes-uit-aan-jonge-helmonders.html",
@@ -4588,7 +4605,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 12:49"
@@ -4740,23 +4757,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108684554/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html": {
-   "titel": "Drukte bij pakketpunten, maar levert het iets op' `Het is veel werk voor weinig`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684554/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html",
-   "tekst": "",
-   "datum": "2026-11-23T08:13:25+00:00",
-   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html": {
    "titel": "Shockvriezer koelt met hoge capaciteit sauzen razendsnel terug",
@@ -5361,7 +5361,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 12:40"
@@ -5671,6 +5671,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 15:40"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108684554/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html": {
+   "titel": "Drukte bij pakketpunten, maar levert het iets op' `Het is veel werk voor weinig`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684554/drukte-bij-pakketpunten-maar-levert-het-iets-op-het-is-veel-werk-voor-weinig.html",
+   "tekst": "",
+   "datum": "2026-11-23T08:13:25+00:00",
+   "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108684406/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html": {
    "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
@@ -17719,23 +17736,6 @@
    "prio": false,
    "tijd": "17-11 11:43"
   },
-  "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/": {
-   "titel": "Gratis kerstmarkt in Helmond voor minima: Samantha’s hondjes lopen er nu ook kerstig bij",
-   "link": "https://www.ed.nl/helmond/gratis-kerstmarkt-in-helmond-voor-minima-samanthas-hondjes-lopen-er-nu-ook-kerstig-bij~a0436518/",
-   "tekst": "Elk jaar houdt welzijnsstichting BeBizzy in Helmond een gratis kerstmarkt voor mensen met een kleinere beurs. Iemand als Samantha Zijtveld is blij dat ze met wat nieuwe spullen weer een keer echt kerst kan vieren. En haar hondjes Mila en Kiki doen ook gezellig mee.",
-   "datum": "2026-11-16T12:00:16+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:00"
-  },
   "https://www.ed.nl/someren/fietsfilmavond-the-big-bike-film-night-komt-naar-someren~a8159073/": {
    "titel": "Fietsfilmavond The Big Bike Film Night komt naar Someren",
    "link": "https://www.ed.nl/someren/fietsfilmavond-the-big-bike-film-night-komt-naar-someren~a8159073/",
@@ -18249,7 +18249,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "16-11 23:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108619672/natuur-en-cultuurwandeling-voert-langs-drie-beken-in-helmond.html": {
    "titel": "Natuur- en cultuurwandeling voert langs drie beken in Helmond",
@@ -18958,23 +18959,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108614914/in-eindhoven-trekken-controleurs-vuilniszakken-open-op-zoek-naar-adressen-en-dat-kost-afvaldumpers-208-euro.html": {
-   "titel": "In Eindhoven trekken controleurs vuilniszakken open op zoek naar adressen, en dat kost afvaldumpers 208 euro",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108614914/in-eindhoven-trekken-controleurs-vuilniszakken-open-op-zoek-naar-adressen-en-dat-kost-afvaldumpers-208-euro.html",
-   "tekst": "",
-   "datum": "2026-11-16T12:01:04+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 13:01"
   },
   "https://www.omroepbrabant.nl/nieuws/6033391/deurne-wil-grond-uitlenen-voor-uitbreiding-schoolplein": {
    "titel": "Deurne wil grond uitlenen voor uitbreiding schoolplein",
