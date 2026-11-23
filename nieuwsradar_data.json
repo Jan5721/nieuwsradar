@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 02:09",
+ "bijgewerkt": "23-11-2026 02:25",
  "items": {
   "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
    "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘de kroeg in op zondagmiddag’",
@@ -7278,23 +7278,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "21-11 03:27"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#211126021436a2somerenrit138803": {
-   "titel": "A2 Someren Rit: 138803",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#211126021436a2somerenrit138803",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-21T02:14:36+01:00",
-   "eerst_gezien": "2026-11-21T01:13:55.999798+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "21-11 02:14"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -18539,7 +18522,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "112Brabant": {
