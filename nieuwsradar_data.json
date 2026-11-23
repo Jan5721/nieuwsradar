@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "23-11-2026 07:30",
+ "bijgewerkt": "23-11-2026 07:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64817/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -828,7 +828,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 07:28"
@@ -4442,12 +4442,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108683877/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108684027/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108683877/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
-   "tekst": "Treinen van en naar Eindhoven Centraal hebben tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor rijden er tot ongeveer...",
-   "datum": "2026-11-23T06:22:09+00:00",
-   "eerst_gezien": "2026-11-23T06:30:08.813262+00:00",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108684027/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "",
+   "datum": "2026-11-23T06:45:18+00:00",
+   "eerst_gezien": "2026-11-23T06:46:10.044318+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4470,7 +4470,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 07:19"
@@ -4566,122 +4566,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Asten",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108679096/mats-16-en-noor-15-krijgen-een-jeugdlintje-een-inspiratie-voor-andere-jongeren.html": {
-   "titel": "Mats (16) en Noor (15) krijgen een jeugdlintje: `Een inspiratie voor andere jongeren`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679096/mats-16-en-noor-15-krijgen-een-jeugdlintje-een-inspiratie-voor-andere-jongeren.html",
-   "tekst": "",
-   "datum": "2026-11-22T16:49:07+00:00",
-   "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 17:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108679095/prinses-dolce-vita-dit-seizoen-voorop-bij-nuenense-raod-van-zatterdag.html": {
-   "titel": "Prinses Dolce Vita dit seizoen voorop bij Nuenense Raod van Zatterdag",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679095/prinses-dolce-vita-dit-seizoen-voorop-bij-nuenense-raod-van-zatterdag.html",
-   "tekst": "",
-   "datum": "2026-11-22T16:49:07+00:00",
-   "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 17:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108679015/mats-16-en-noor-15-krijgen-een-jeugdlintje-een-inspiratie-voor-andere-jongeren.html": {
-   "titel": "Mats (16) en Noor (15) krijgen een jeugdlintje: `Een inspiratie voor andere jongeren`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679015/mats-16-en-noor-15-krijgen-een-jeugdlintje-een-inspiratie-voor-andere-jongeren.html",
-   "tekst": "",
-   "datum": "2026-11-22T16:31:04+00:00",
-   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108679014/prinses-dolce-vita-dit-seizoen-voorop-bij-nuenense-raod-van-zatterdag.html": {
-   "titel": "Prinses Dolce Vita dit seizoen voorop bij Nuenense Raod van Zatterdag",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679014/prinses-dolce-vita-dit-seizoen-voorop-bij-nuenense-raod-van-zatterdag.html",
-   "tekst": "",
-   "datum": "2026-11-22T16:31:04+00:00",
-   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108678974/codes-kraken-en-chocolademelk-maken-voor-sint-zo-ziet-het-nieuwe-sinterklaashuis-op-aquabest-eruit.html": {
-   "titel": "Codes kraken en chocolademelk maken voor Sint: zo ziet het nieuwe Sinterklaashuis op Aquabest eruit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108678974/codes-kraken-en-chocolademelk-maken-voor-sint-zo-ziet-het-nieuwe-sinterklaashuis-op-aquabest-eruit.html",
-   "tekst": "",
-   "datum": "2026-11-22T16:25:11+00:00",
-   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 17:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108678973/wat-een-verrassing-voor-mats-16-en-noor-15-die-beiden-een-jeugdlintje-krijgen.html": {
-   "titel": "Wat een verrassing voor Mats (16) en Noor (15), die beiden een jeugdlintje krijgen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108678973/wat-een-verrassing-voor-mats-16-en-noor-15-die-beiden-een-jeugdlintje-krijgen.html",
-   "tekst": "",
-   "datum": "2026-11-22T16:25:11+00:00",
-   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 17:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108678925/codes-kraken-en-chocolademelk-maken-voor-sint-zo-ziet-het-nieuwe-sinterklaashuis-op-aquabest-eruit.html": {
-   "titel": "Codes kraken en chocolademelk maken voor Sint: zo ziet het nieuwe Sinterklaashuis op Aquabest eruit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108678925/codes-kraken-en-chocolademelk-maken-voor-sint-zo-ziet-het-nieuwe-sinterklaashuis-op-aquabest-eruit.html",
-   "tekst": "",
-   "datum": "2026-11-22T16:19:02+00:00",
-   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
     "Helmond"
    ],
    "soort": "verzamelsite",
@@ -5520,6 +5404,138 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 13:45"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108683877/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108683877/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "Treinen van en naar Eindhoven Centraal hebben tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor rijden er tot ongeveer...",
+   "datum": "2026-11-23T06:22:09+00:00",
+   "eerst_gezien": "2026-11-23T06:30:08.813262+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108679096/mats-16-en-noor-15-krijgen-een-jeugdlintje-een-inspiratie-voor-andere-jongeren.html": {
+   "titel": "Mats (16) en Noor (15) krijgen een jeugdlintje: `Een inspiratie voor andere jongeren`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679096/mats-16-en-noor-15-krijgen-een-jeugdlintje-een-inspiratie-voor-andere-jongeren.html",
+   "tekst": "",
+   "datum": "2026-11-22T16:49:07+00:00",
+   "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 17:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108679095/prinses-dolce-vita-dit-seizoen-voorop-bij-nuenense-raod-van-zatterdag.html": {
+   "titel": "Prinses Dolce Vita dit seizoen voorop bij Nuenense Raod van Zatterdag",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679095/prinses-dolce-vita-dit-seizoen-voorop-bij-nuenense-raod-van-zatterdag.html",
+   "tekst": "",
+   "datum": "2026-11-22T16:49:07+00:00",
+   "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 17:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108679015/mats-16-en-noor-15-krijgen-een-jeugdlintje-een-inspiratie-voor-andere-jongeren.html": {
+   "titel": "Mats (16) en Noor (15) krijgen een jeugdlintje: `Een inspiratie voor andere jongeren`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679015/mats-16-en-noor-15-krijgen-een-jeugdlintje-een-inspiratie-voor-andere-jongeren.html",
+   "tekst": "",
+   "datum": "2026-11-22T16:31:04+00:00",
+   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108679014/prinses-dolce-vita-dit-seizoen-voorop-bij-nuenense-raod-van-zatterdag.html": {
+   "titel": "Prinses Dolce Vita dit seizoen voorop bij Nuenense Raod van Zatterdag",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679014/prinses-dolce-vita-dit-seizoen-voorop-bij-nuenense-raod-van-zatterdag.html",
+   "tekst": "",
+   "datum": "2026-11-22T16:31:04+00:00",
+   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108678974/codes-kraken-en-chocolademelk-maken-voor-sint-zo-ziet-het-nieuwe-sinterklaashuis-op-aquabest-eruit.html": {
+   "titel": "Codes kraken en chocolademelk maken voor Sint: zo ziet het nieuwe Sinterklaashuis op Aquabest eruit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108678974/codes-kraken-en-chocolademelk-maken-voor-sint-zo-ziet-het-nieuwe-sinterklaashuis-op-aquabest-eruit.html",
+   "tekst": "",
+   "datum": "2026-11-22T16:25:11+00:00",
+   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 17:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108678973/wat-een-verrassing-voor-mats-16-en-noor-15-die-beiden-een-jeugdlintje-krijgen.html": {
+   "titel": "Wat een verrassing voor Mats (16) en Noor (15), die beiden een jeugdlintje krijgen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108678973/wat-een-verrassing-voor-mats-16-en-noor-15-die-beiden-een-jeugdlintje-krijgen.html",
+   "tekst": "",
+   "datum": "2026-11-22T16:25:11+00:00",
+   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 17:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108678925/codes-kraken-en-chocolademelk-maken-voor-sint-zo-ziet-het-nieuwe-sinterklaashuis-op-aquabest-eruit.html": {
+   "titel": "Codes kraken en chocolademelk maken voor Sint: zo ziet het nieuwe Sinterklaashuis op Aquabest eruit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108678925/codes-kraken-en-chocolademelk-maken-voor-sint-zo-ziet-het-nieuwe-sinterklaashuis-op-aquabest-eruit.html",
+   "tekst": "",
+   "datum": "2026-11-22T16:19:02+00:00",
+   "eerst_gezien": "2026-11-22T16:34:13.025621+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108683841/eindhoven-snel-aan-de-slag-met-noodsteunpunten-om-inwoners-en-stad-klaar-te-maken-voor-calamiteiten.html": {
    "titel": "Eindhoven snel aan de slag met noodsteunpunten om inwoners en stad klaar te maken voor calamiteiten",
@@ -17700,23 +17716,6 @@
    "prio": false,
    "tijd": "16-11 19:13"
   },
-  "https://www.ed.nl/helmond/deze-week-in-helmond-hans-hoopt-op-tips-van-opruimcoach-nienke-en-bij-stiphout-vooruit-wordt-creatief-gedacht~a5846952/": {
-   "titel": "Deze week in Helmond: Hans hoopt op tips van opruimcoach Nienke en bij Stiphout Vooruit wordt creatief gedacht",
-   "link": "https://www.ed.nl/helmond/deze-week-in-helmond-hans-hoopt-op-tips-van-opruimcoach-nienke-en-bij-stiphout-vooruit-wordt-creatief-gedacht~a5846952/",
-   "tekst": "Deze week in Helmond:",
-   "datum": "2026-11-16T06:30:24+00:00",
-   "eerst_gezien": "2026-11-16T12:39:00.571451+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "16-11 07:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108617573/eerste-huurders-betrekken-hun-woning-in-pure-woontoren-negen-maanden-eerder-dan-gepland-klaar.html": {
    "titel": "Eerste huurders betrekken hun woning in Pure, woontoren negen maanden eerder dan gepland klaar",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108617573/eerste-huurders-betrekken-hun-woning-in-pure-woontoren-negen-maanden-eerder-dan-gepland-klaar.html",
@@ -18569,7 +18568,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 8,
    "fout": ""
   },
   "Drimble Deurne": {
