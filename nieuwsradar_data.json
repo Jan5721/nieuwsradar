@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 11:35",
+ "bijgewerkt": "24-11-2026 11:51",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64857/trainers-taekwon-do-academy-chon-ji-slagen-voor-dangraadexamen": {
    "titel": "Trainers Taekwon-Do Academy Chon-Ji slagen voor dangraadexamen",
@@ -527,6 +527,23 @@
    "prio": false,
    "tijd": "17-11 13:14"
   },
+  "https://www.peelbelangonline.nl/nieuws/sport/64868/bliksemstart-helpt-nwc-voorbij-avesteyn": {
+   "titel": "Bliksemstart helpt NWC voorbij Avesteyn",
+   "link": "https://www.peelbelangonline.nl/nieuws/sport/64868/bliksemstart-helpt-nwc-voorbij-avesteyn",
+   "tekst": "ASTEN - NWC rekende zondagmiddag volledig verdiend af met een tegenvallend Avesteyn. De oranjehemden kenden een vliegende start en leidden na zeven minuten al met 2-0 in een uitstekende eerste helft. Na rust speelde NWC het duel op zakelijke wijze uit en veranderde de score niet …",
+   "datum": "2026-11-24T11:35:00+01:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:35"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64839/herfstbockconcert-trekt-opnieuw-volle-zaal-dak-ging-eraf": {
    "titel": "Herfstbockconcert trekt opnieuw volle zaal: ‘Dak ging eraf’",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64839/herfstbockconcert-trekt-opnieuw-volle-zaal-dak-ging-eraf",
@@ -794,7 +811,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:25"
@@ -1409,7 +1426,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:35"
@@ -2235,6 +2252,23 @@
    "prio": false,
    "tijd": "17-11 12:47"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos": {
+   "titel": "Bomen gekapt op Boksenberg voor sterker bos",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos",
+   "tekst": "17 november 2026 Op de Boksenberg zijn afgelopen winter bomen gekapt. Hierdoor zijn open plekken ontstaan waar nieuwe bomen, struiken en planten kunnen groeien. De natuur krijgt deels de kans om zichzelf te herstellen, terwijl op andere …",
+   "datum": "2026-11-24T10:51:16.294013+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:51"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035041/someren-start-campagne-tegen-geweld-tegen-vrouwen": {
    "titel": "Someren start campagne tegen geweld tegen vrouwen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035041/someren-start-campagne-tegen-geweld-tegen-vrouwen",
@@ -2247,7 +2281,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:35"
@@ -4524,6 +4558,89 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696764/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html": {
+   "titel": "Tientallen beveiligers bij distributiecentrum in Eindhoven na blokkades in België",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696764/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:49:08+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696761/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-voor-dubbele-moorden-in-lieshout-en-amsterdam.html": {
+   "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill voor dubbele moorden in Lieshout en Amsterdam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696761/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-voor-dubbele-moorden-in-lieshout-en-amsterdam.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:49:08+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696758/hoe-mensen-met-dementie-toch-vrij-kunnen-bewegen-het-kompas-wijst-altijd-de-weg-naar-huis.html": {
+   "titel": "Hoe mensen met dementie toch vrij kunnen bewegen: Het Kompas wijst altijd de weg naar huis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696758/hoe-mensen-met-dementie-toch-vrij-kunnen-bewegen-het-kompas-wijst-altijd-de-weg-naar-huis.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:49:06+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696684/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond.html": {
+   "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696684/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:43:20+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696683/hoe-mensen-met-dementie-toch-vrij-kunnen-bewegen-het-kompas-wijst-altijd-de-weg-naar-huis.html": {
+   "titel": "Hoe mensen met dementie toch vrij kunnen bewegen: Het Kompas wijst altijd de weg naar huis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696683/hoe-mensen-met-dementie-toch-vrij-kunnen-bewegen-het-kompas-wijst-altijd-de-weg-naar-huis.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:43:20+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108696597/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond.html": {
    "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696597/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond.html",
@@ -4536,7 +4653,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4552,10 +4669,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:19"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696520/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html": {
    "titel": "Eerste sneeuwvlokken van dit winterseizoen gevallen in Brabant, later op de dag kans op natte sneeuw",
@@ -4569,7 +4685,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:19"
@@ -4586,7 +4702,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:19"
@@ -4739,88 +4855,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 10:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696075/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html": {
-   "titel": "Gewonde bij steekpartij in Eindhovense kliniek, verdachte na een uur aangehouden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696075/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html",
-   "tekst": "",
-   "datum": "2026-11-24T09:19:02+00:00",
-   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696029/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html": {
-   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696029/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html",
-   "tekst": "",
-   "datum": "2026-11-24T09:13:24+00:00",
-   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696027/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html": {
-   "titel": "Update: zo staat het ervoor met de Kasteel-Traverse",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696027/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html",
-   "tekst": "",
-   "datum": "2026-11-24T09:13:24+00:00",
-   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695807/vluchten-geannuleerd-op-eindhoven-airport-door-mist-vliegverkeer-inmiddels-weer-op-gang.html": {
-   "titel": "Vluchten geannuleerd op Eindhoven Airport door mist, vliegverkeer inmiddels weer op gang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695807/vluchten-geannuleerd-op-eindhoven-airport-door-mist-vliegverkeer-inmiddels-weer-op-gang.html",
-   "tekst": "",
-   "datum": "2026-11-24T08:49:08+00:00",
-   "eerst_gezien": "2026-11-24T08:59:08.273187+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 09:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695805/ups-zet-tientallen-beveiligers-in-rond-eindhovens-distributiecentrum-na-blokkades-in-belgie.html": {
-   "titel": "UPS zet tientallen beveiligers in rond Eindhovens distributiecentrum na blokkades in België",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695805/ups-zet-tientallen-beveiligers-in-rond-eindhovens-distributiecentrum-na-blokkades-in-belgie.html",
-   "tekst": "",
-   "datum": "2026-11-24T08:49:07+00:00",
-   "eerst_gezien": "2026-11-24T08:59:08.273187+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 09:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -5456,7 +5490,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 11:33"
@@ -5868,6 +5902,88 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 15:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696075/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html": {
+   "titel": "Gewonde bij steekpartij in Eindhovense kliniek, verdachte na een uur aangehouden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696075/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:19:02+00:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696029/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html": {
+   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696029/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:13:24+00:00",
+   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696027/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html": {
+   "titel": "Update: zo staat het ervoor met de Kasteel-Traverse",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696027/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:13:24+00:00",
+   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695807/vluchten-geannuleerd-op-eindhoven-airport-door-mist-vliegverkeer-inmiddels-weer-op-gang.html": {
+   "titel": "Vluchten geannuleerd op Eindhoven Airport door mist, vliegverkeer inmiddels weer op gang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695807/vluchten-geannuleerd-op-eindhoven-airport-door-mist-vliegverkeer-inmiddels-weer-op-gang.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:49:08+00:00",
+   "eerst_gezien": "2026-11-24T08:59:08.273187+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695805/ups-zet-tientallen-beveiligers-in-rond-eindhovens-distributiecentrum-na-blokkades-in-belgie.html": {
+   "titel": "UPS zet tientallen beveiligers in rond Eindhovens distributiecentrum na blokkades in België",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695805/ups-zet-tientallen-beveiligers-in-rond-eindhovens-distributiecentrum-na-blokkades-in-belgie.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:49:07+00:00",
+   "eerst_gezien": "2026-11-24T08:59:08.273187+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108695627/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html": {
    "titel": "Stroomhuis opent na grote brand pas in 2029 op de nieuwe locatie in Woensel",
@@ -17592,23 +17708,6 @@
    "prio": false,
    "tijd": "17-11 15:26"
   },
-  "https://www.ed.nl/asten/gerrit-vestjens-toont-natuurfotos-bij-ivn-asten-someren-in-asten~a44e7b93/": {
-   "titel": "Gerrit Vestjens toont natuurfoto’s bij IVN Asten-Someren in Asten",
-   "link": "https://www.ed.nl/asten/gerrit-vestjens-toont-natuurfotos-bij-ivn-asten-someren-in-asten~a44e7b93/",
-   "tekst": "Natuurfotograaf Gerrit Vestjens geeft bij IVN Asten-Someren een presentatie over zijn werk. Vrijdag 20 november begint ‘Mijn reis als hobby natuurfotograaf’ om 20.00 uur in verenigingsgebouw de Stulp aan de Ostaderstraat 30 in Asten.",
-   "datum": "2026-11-17T10:40:00+00:00",
-   "eerst_gezien": "2026-11-17T10:43:02.931022+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 11:40"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html": {
    "titel": "Graaien maar: tiendaagse pop-up met verloren pakketten komt naar Eindhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html",
@@ -18729,40 +18828,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108624799/automobilist-rijdt-sloot-in-langs-broekdalerbaan-bij-beek-en-donk.html": {
-   "titel": "Automobilist rijdt sloot in langs Broekdalerbaan bij Beek en Donk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624799/automobilist-rijdt-sloot-in-langs-broekdalerbaan-bij-beek-en-donk.html",
-   "tekst": "",
-   "datum": "2026-11-17T10:43:23+00:00",
-   "eerst_gezien": "2026-11-17T10:59:06.828700+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 11:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108624798/man-50-uit-erp-aangehouden-voor-gewapende-overval-op-tankstation-in-veghel.html": {
-   "titel": "Man (50) uit Erp aangehouden voor gewapende overval op tankstation in Veghel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624798/man-50-uit-erp-aangehouden-voor-gewapende-overval-op-tankstation-in-veghel.html",
-   "tekst": "",
-   "datum": "2026-11-17T10:43:23+00:00",
-   "eerst_gezien": "2026-11-17T10:59:06.828700+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 11:43"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108626098/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html": {
    "titel": "Cateringbedrijf Maison van den Boer vertrekt na 120 jaar uit Veghel, `passende oplossing` gezocht voor medewerkers",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108626098/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html",
@@ -18789,7 +18854,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18839,7 +18904,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Gemeente Helmond": {
