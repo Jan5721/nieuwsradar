@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 23:08",
+ "bijgewerkt": "24-11-2026 23:25",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -2558,6 +2558,40 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
   "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
    "titel": "Brand basisschool Zeilberg",
    "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
@@ -4575,6 +4609,55 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html": {
+   "titel": "PSV maakt een helft lang indruk, maar wordt daarna overklast door supersterren van Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-24T22:19:01+00:00",
+   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 23:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108702286/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html": {
+   "titel": "Na veel getouwtrek: nu geen McDonald`s op deze plek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702286/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-24T22:15:05+00:00",
+   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108702259/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
+   "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702259/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
+   "tekst": "",
+   "datum": "2026-11-24T22:15:02+00:00",
+   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108701354/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html": {
    "titel": "PSV maakt een helft lang indruk, maar wordt daarna overklast door supersterren van Real Madrid",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108701354/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html",
@@ -4587,10 +4670,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 22:55"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108701337/live-pijnlijke-tweede-helft-voor-psv-vinicius-junior-schiet-real-madrid-op-5-1.html": {
    "titel": "LIVE | Pijnlijke tweede helft voor PSV: Viní­cius Júnior schiet Real Madrid op 5-1",
@@ -4725,40 +4807,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108700298/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html": {
-   "titel": "Nieuw pand op markante hoek in Geldrop klaar, met gevel die teruggrijpt op 1908",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700298/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html",
-   "tekst": "",
-   "datum": "2026-11-24T18:25:10+00:00",
-   "eerst_gezien": "2026-11-24T18:37:26.479152+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 19:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108700227/nieuw-leven-op-historische-textielplek-in-centrum-geldrop.html": {
-   "titel": "Nieuw leven op historische textielplek in centrum Geldrop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700227/nieuw-leven-op-historische-textielplek-in-centrum-geldrop.html",
-   "tekst": "",
-   "datum": "2026-11-24T18:13:26+00:00",
-   "eerst_gezien": "2026-11-24T18:21:12.572080+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 19:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
    "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
@@ -5738,6 +5786,40 @@
    "prio": false,
    "tijd": "24-11 09:28"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700298/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html": {
+   "titel": "Nieuw pand op markante hoek in Geldrop klaar, met gevel die teruggrijpt op 1908",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700298/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html",
+   "tekst": "",
+   "datum": "2026-11-24T18:25:10+00:00",
+   "eerst_gezien": "2026-11-24T18:37:26.479152+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 19:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700227/nieuw-leven-op-historische-textielplek-in-centrum-geldrop.html": {
+   "titel": "Nieuw leven op historische textielplek in centrum Geldrop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700227/nieuw-leven-op-historische-textielplek-in-centrum-geldrop.html",
+   "tekst": "",
+   "datum": "2026-11-24T18:13:26+00:00",
+   "eerst_gezien": "2026-11-24T18:21:12.572080+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 19:13"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126091058a2astenrit140164": {
    "titel": "A2 Asten Rit: 140164",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126091058a2astenrit140164",
@@ -5754,40 +5836,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 09:10"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108699869/nog-altijd-geen-groen-licht-voor-nieuwbouw-van-school-zesgehuchten-wijkplannen-schuiven-door.html": {
    "titel": "Nog altijd geen groen licht voor nieuwbouw van school Zesgehuchten, wijkplannen schuiven door",
@@ -18857,74 +18905,6 @@
    "prio": false,
    "tijd": "17-11 23:45"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html": {
-   "titel": "Wendy en Youri (19) nemen slagerij over: ´Vrienden vinden ons gek´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html",
-   "tekst": "Hun vrienden zijn vooral bezig met studeren, uitgaan en genieten van hun jeugd. Maar Wendy Veenhuis en Youri de Lepper, allebei 19 jaar,...",
-   "datum": "2026-11-17T22:17:05+00:00",
-   "eerst_gezien": "2026-11-17T22:22:28.891029+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 23:17"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108630652/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
-   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108630652/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T22:15:04+00:00",
-   "eerst_gezien": "2026-11-17T22:22:28.891029+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 23:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108630646/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar.html": {
-   "titel": "Het ED gaat undercover in het Kasteel van Sinterklaas: hoe krijgen ze het ieder jaar weer voor elkaar'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108630646/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar.html",
-   "tekst": "",
-   "datum": "2026-11-17T22:15:03+00:00",
-   "eerst_gezien": "2026-11-17T22:22:28.891029+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 23:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108630635/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108630635/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
-   "tekst": "",
-   "datum": "2026-11-17T22:15:02+00:00",
-   "eerst_gezien": "2026-11-17T22:22:28.891029+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 23:15"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
    "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
@@ -19020,9 +19000,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal server error"
+   "ok": true,
+   "aantal": 2,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -19061,7 +19041,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19081,7 +19061,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
