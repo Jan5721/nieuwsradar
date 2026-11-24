@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 03:04",
+ "bijgewerkt": "24-11-2026 03:20",
  "items": {
   "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/": {
    "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
@@ -4644,7 +4644,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 02:48"
