@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 00:29",
+ "bijgewerkt": "25-11-2026 00:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -5456,7 +5456,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 00:17"
@@ -8956,23 +8956,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126003210a2astenrit139574": {
-   "titel": "A2 Asten Rit: 139574",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126003210a2astenrit139574",
-   "tekst": "Ambulance 22-117 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T00:32:10+01:00",
-   "eerst_gezien": "2026-11-22T23:32:58.756423+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "23-11 00:32"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108687893/korale-en-muzikale-geven-kerstconcert-in-aarle-rixtel.html": {
    "titel": "Korale en Muzikale geven kerstconcert in Aarle-Rixtel",
