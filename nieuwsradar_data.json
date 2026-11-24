@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 06:31",
+ "bijgewerkt": "24-11-2026 06:47",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -953,23 +953,6 @@
    "prio": false,
    "tijd": "22-11 21:00"
   },
-  "https://www.ed.nl/asten/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken~ae1b5c36/": {
-   "titel": "Loek Sonnemans (30) springt in het diepe als componist: ‘Het voelt helemaal niet als werken’",
-   "link": "https://www.ed.nl/asten/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken~ae1b5c36/",
-   "tekst": "Astenaar Loek Sonnemans (30) timmert aan de weg als componist voor harmonie- en fanfareorkesten. Zijn eerste compositie, De Peelbrand, wordt al door meerdere verenigingen gespeeld en klinkt op 29 november ook op het festival voor opleidingsorkesten in Veldhoven.",
-   "datum": "2026-11-22T19:30:41+00:00",
-   "eerst_gezien": "2026-11-22T19:30:59.294161+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 20:30"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
    "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
@@ -986,6 +969,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:27"
+  },
+  "https://www.ed.nl/asten/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken~ae1b5c36/": {
+   "titel": "Loek Sonnemans (30) springt in het diepe als componist: ‘Het voelt helemaal niet als werken’",
+   "link": "https://www.ed.nl/asten/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken~ae1b5c36/",
+   "tekst": "Astenaar Loek Sonnemans (30) timmert aan de weg als componist voor harmonie- en fanfareorkesten. Zijn eerste compositie, De Peelbrand, wordt al door meerdere verenigingen gespeeld en klinkt op 29 november ook op het festival voor opleidingsorkesten in Veldhoven.",
+   "datum": "2026-11-22T19:30:41+00:00",
+   "eerst_gezien": "2026-11-22T19:30:59.294161+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 20:30"
   },
   "https://www.ed.nl/asten/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter~a7e46d58/": {
    "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
@@ -4628,6 +4628,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108694829/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html": {
+   "titel": "Na slepende rechtszaak trekt Ennatuurlijk eindelijk de portemonnee: klanten in Meerhoven krijgen aansluitkosten terug",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694829/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html",
+   "tekst": "",
+   "datum": "2026-11-24T05:43:15+00:00",
+   "eerst_gezien": "2026-11-24T05:47:11.444803+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 06:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
@@ -4858,23 +4875,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 20:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108689801/een-zomer-zonder-festival-wish-wat-nu-je-gaat-nu-wel-op-zoek-naar-iets-nieuws.html": {
-   "titel": "Een zomer zonder festival Wish: wat nu' `Je gaat nu wel op zoek naar iets nieuws`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108689801/een-zomer-zonder-festival-wish-wat-nu-je-gaat-nu-wel-op-zoek-naar-iets-nieuws.html",
-   "tekst": "",
-   "datum": "2026-11-23T18:49:05+00:00",
-   "eerst_gezien": "2026-11-23T18:50:48.823283+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 19:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108691807/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school.html": {
    "titel": "Schoolbrand raakt kinderen hard: ´Ik had het heel leuk op school´",
@@ -5838,6 +5838,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 08:24"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108689801/een-zomer-zonder-festival-wish-wat-nu-je-gaat-nu-wel-op-zoek-naar-iets-nieuws.html": {
+   "titel": "Een zomer zonder festival Wish: wat nu' `Je gaat nu wel op zoek naar iets nieuws`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108689801/een-zomer-zonder-festival-wish-wat-nu-je-gaat-nu-wel-op-zoek-naar-iets-nieuws.html",
+   "tekst": "",
+   "datum": "2026-11-23T18:49:05+00:00",
+   "eerst_gezien": "2026-11-23T18:50:48.823283+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 19:49"
   },
   "https://www.omroepbrabant.nl/nieuws/6034750/auto-belandt-in-sloot-in-helmond-man-met-verwondingen-naar-ziekenhuis": {
    "titel": "Auto belandt in sloot in Helmond, man met verwondingen naar ziekenhuis",
@@ -8047,23 +8064,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "22-11 07:00"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126063149a2deurnerit139259": {
-   "titel": "A2 Deurne Rit: 139259",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126063149a2deurnerit139259",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T06:31:49+01:00",
-   "eerst_gezien": "2026-11-22T05:35:24.943363+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 06:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108678045/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling.html": {
    "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: `Zenuwachtiger dan voor mijn prinsenonthulling`",
@@ -18382,22 +18382,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108622682/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond.html": {
-   "titel": "Wethouder Rieter helpt mee zichzelf raadsvragen te stellen over gewenste landelijke intocht van Sint in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622682/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T05:34:04+00:00",
-   "eerst_gezien": "2026-11-17T05:35:51.337503+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -18418,12 +18402,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 8,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
