@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 19:54",
+ "bijgewerkt": "24-11-2026 20:10",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1855,6 +1855,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:10"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers": {
+   "titel": "Thema-avond in Asten: steun voor mantelzorgers",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers",
+   "tekst": "17 november 2026 Op dinsdag 1 december organiseert Alzheimer Café Peelland een bijeenkomst in Asten over de uitdagingen van mantelzorgers bij dementie. De avond richt zich op het herkennen van overbelasting en het inschakelen van hulp.",
+   "datum": "2026-11-24T19:09:36.437296+00:00",
+   "eerst_gezien": "2026-11-24T19:09:36.437296+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 20:09"
   },
   "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel": {
    "titel": "Nieuwbouwwoning mag gebouwd worden aan Buntseweg in Liessel",
@@ -4575,6 +4592,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700513/live-psv-trainer-bosz-maakt-bekend-wie-mauro-junior-vervangt-tegen-real-madrid-bekijk-hier-de-hele-opstelling.html": {
+   "titel": "LIVE | PSV-trainer Bosz maakt bekend wie Mauro Júnior vervangt tegen Real Madrid: bekijk hier de hele opstelling",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700513/live-psv-trainer-bosz-maakt-bekend-wie-mauro-junior-vervangt-tegen-real-madrid-bekijk-hier-de-hele-opstelling.html",
+   "tekst": "",
+   "datum": "2026-11-24T19:01:05+00:00",
+   "eerst_gezien": "2026-11-24T19:09:36.437296+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 20:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html",
@@ -4587,7 +4621,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4747,38 +4781,6 @@
    "tekst": "",
    "datum": "2026-11-24T15:43:17+00:00",
    "eerst_gezien": "2026-11-24T15:56:02.861135+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html": {
-   "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html",
-   "tekst": "",
-   "datum": "2026-11-24T15:19:03+00:00",
-   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108698804/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html": {
-   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698804/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html",
-   "tekst": "",
-   "datum": "2026-11-24T15:13:25+00:00",
-   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5377,6 +5379,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126200222a2astenrit140443": {
+   "titel": "A2 Asten Rit: 140443",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126200222a2astenrit140443",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T20:02:22+01:00",
+   "eerst_gezien": "2026-11-24T19:09:36.437296+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 20:02"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426": {
    "titel": "A2 Helmond Rit: 140426",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426",
@@ -5750,6 +5769,38 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 08:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html": {
+   "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:19:03+00:00",
+   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698804/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html": {
+   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698804/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:13:25+00:00",
+   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108698551/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat.html": {
    "titel": "Werknemer viel van pallet op ruim 2 meter hoogte en stierf ter plekke: bedrijf uit Lierop ontkent dat het fout zat",
@@ -8909,23 +8960,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126195637a2helmondrit139499": {
-   "titel": "A2 Helmond Rit: 139499",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126195637a2helmondrit139499",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T19:56:37+01:00",
-   "eerst_gezien": "2026-11-22T18:58:43.480856+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 19:56"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666789/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren.html": {
    "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: `Je hebt verleende rechten te respecteren`",
@@ -18739,23 +18773,6 @@
    "prio": false,
    "tijd": "17-11 22:01"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628849/klare-taal-bokaal-voor-mmc-arts-joost-janssen.html": {
-   "titel": "Klare Taal Bokaal voor MMC-arts Joost Janssen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628849/klare-taal-bokaal-voor-mmc-arts-joost-janssen.html",
-   "tekst": "",
-   "datum": "2026-11-17T19:01:04+00:00",
-   "eerst_gezien": "2026-11-17T19:07:00.020273+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 20:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html": {
    "titel": "BouwInfraCampus in Mierlo op de schop",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html",
@@ -18821,7 +18838,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18876,7 +18893,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18896,7 +18913,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
