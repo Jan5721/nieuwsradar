@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 16:24",
+ "bijgewerkt": "24-11-2026 16:40",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -799,6 +799,23 @@
    "prio": false,
    "tijd": "18-11 10:11"
   },
+  "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/": {
+   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
+   "link": "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/",
+   "tekst": "De Damiaan jongerengroep houdt de derde editie van de Churchescape voor jongeren van 10 tot 25 jaar. Vrijdag 11 december is de activiteit in het jongerenhonk van de St. Trudokerk aan de Dorpsstraat 32 in Helmond.",
+   "datum": "2026-11-24T15:29:40+00:00",
+   "eerst_gezien": "2026-11-24T15:39:41.017033+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 16:29"
+  },
   "https://www.ed.nl/helmond/dutchie-shore-helmond-deelnemer~abc070d2/": {
    "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
    "link": "https://www.ed.nl/helmond/dutchie-shore-helmond-deelnemer~abc070d2/",
@@ -828,7 +845,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:26"
@@ -4626,6 +4643,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699042/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html": {
+   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699042/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:31:05+00:00",
+   "eerst_gezien": "2026-11-24T15:39:41.017033+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html": {
    "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html",
@@ -4638,7 +4671,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4654,7 +4687,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4827,22 +4860,6 @@
   "https://drimble.nl/regio/noord-brabant/helmond/108696888/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html": {
    "titel": "Eerste sneeuw van de winter gevallen in Brabant",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696888/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html",
-   "tekst": "",
-   "datum": "2026-11-24T11:01:05+00:00",
-   "eerst_gezien": "2026-11-24T11:07:16.408810+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696887/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html": {
-   "titel": "LIVE | Schitterend affiche: PSV maakt zich op voor Champions League-kraker bij Real Madrid",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696887/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html",
    "tekst": "",
    "datum": "2026-11-24T11:01:05+00:00",
    "eerst_gezien": "2026-11-24T11:07:16.408810+00:00",
@@ -5495,6 +5512,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126162824a2deurnerit140371": {
+   "titel": "A2 Deurne Rit: 140371",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126162824a2deurnerit140371",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T16:28:24+01:00",
+   "eerst_gezien": "2026-11-24T15:39:41.017033+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 16:28"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126161151a2helmondrit140360": {
    "titel": "A2 Helmond Rit: 140360",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126161151a2helmondrit140360",
@@ -5507,7 +5541,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 16:11"
@@ -5524,7 +5558,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 16:10"
@@ -5902,6 +5936,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 00:09"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696887/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html": {
+   "titel": "LIVE | Schitterend affiche: PSV maakt zich op voor Champions League-kraker bij Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696887/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-24T11:01:05+00:00",
+   "eerst_gezien": "2026-11-24T11:07:16.408810+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/": {
    "titel": "Stroomstoring op Brouwhuissedijk in Helmond op dit moment",
@@ -8708,23 +8758,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126163346a1astenrit139428": {
-   "titel": "A1 Asten Rit: 139428",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126163346a1astenrit139428",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T16:33:46+01:00",
-   "eerst_gezien": "2026-11-22T15:45:33.334958+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "22-11 16:33"
   },
   "https://www.ed.nl/someren/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon~a90f4eefb/": {
    "titel": "Tim d’n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
@@ -18854,7 +18887,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
@@ -18959,7 +18992,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
