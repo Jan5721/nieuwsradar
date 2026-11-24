@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 18:01",
+ "bijgewerkt": "24-11-2026 18:17",
  "items": {
   "https://www.ed.nl/deurne/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne~a78ca9a34/": {
    "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
@@ -238,24 +238,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 09:03"
-  },
-  "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/": {
-   "titel": "Puur Sangh geeft jubileumconcert in Lierop",
-   "link": "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/",
-   "tekst": "Puur Sangh Asten viert het 60-jarig jubileum met een kerstconcert in Lierop. Zondag 13 december treedt het koor om 15.00 uur op in de Koepelkerk.",
-   "datum": "2026-11-23T14:46:00+00:00",
-   "eerst_gezien": "2026-11-23T14:49:32.629524+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 15:46"
   },
   "https://www.ed.nl/someren/campagne-in-someren-wijst-ouders-op-signalen-van-criminaliteit-onder-jongeren~af3a4427/": {
    "titel": "Campagne in Someren wijst ouders op signalen van criminaliteit onder jongeren",
@@ -645,7 +627,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 18:00"
@@ -3828,6 +3810,57 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699843/nog-altijd-geen-groen-licht-voor-nieuwbouw-van-school-zesgehuchten-wijkplannen-schuiven-door.html": {
+   "titel": "Nog altijd geen groen licht voor nieuwbouw van school Zesgehuchten, wijkplannen schuiven door",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699843/nog-altijd-geen-groen-licht-voor-nieuwbouw-van-school-zesgehuchten-wijkplannen-schuiven-door.html",
+   "tekst": "",
+   "datum": "2026-11-24T17:13:26+00:00",
+   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 18:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699816/helmondse-juwelier-voert-rechtszaak-tegen-amerikaans-miljardenbedrijf-vanwege-de-naam.html": {
+   "titel": "Helmondse juwelier voert rechtszaak tegen Amerikaans miljardenbedrijf vanwege de naam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699816/helmondse-juwelier-voert-rechtszaak-tegen-amerikaans-miljardenbedrijf-vanwege-de-naam.html",
+   "tekst": "De Amerikaanse onderneming stelde dat de juwelier de merknaam te weinig écht heeft gebruikt De naam van een onderneming kan miljoenen...",
+   "datum": "2026-11-24T17:11:06+00:00",
+   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 18:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699710/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html": {
+   "titel": "Spektakelstuk in Spanje: PSV Onder 19 speelt gelijk tegen Real Madrid na prachtgoals Bro Hansen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699710/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html",
+   "tekst": "",
+   "datum": "2026-11-24T17:01:07+00:00",
+   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 18:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108699635/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html": {
    "titel": "Spektakelstuk in Spanje: PSV Onder-19 speelt gelijk tegen Real Madrid na prachtgoals Bro Hansen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108699635/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html",
@@ -3840,10 +3873,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 17:55"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108699604/live-slotfase-aangebroken-kan-psv-standhouden-en-de-3-3-in-madrid-over-de-streep-trekken.html": {
    "titel": "LIVE | Slotfase aangebroken: kan PSV standhouden en de 3-3 in Madrid over de streep trekken'",
@@ -3857,7 +3889,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 17:49"
@@ -3989,40 +4021,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108698129/senioren-in-nuenen-kunnen-vanaf-3-december-met-woon-en-zorgvragen-terecht-bij-nieuw-seniorenpunt.html": {
-   "titel": "Senioren in Nuenen kunnen vanaf 3 december met woon- en zorgvragen terecht bij nieuw SeniorenPunt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698129/senioren-in-nuenen-kunnen-vanaf-3-december-met-woon-en-zorgvragen-terecht-bij-nieuw-seniorenpunt.html",
-   "tekst": "",
-   "datum": "2026-11-24T13:49:08+00:00",
-   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 14:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108697933/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html": {
-   "titel": "De Molen van Milheeze wordt tijdelijk een pietenhuis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697933/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html",
-   "tekst": "",
-   "datum": "2026-11-24T13:19:02+00:00",
-   "eerst_gezien": "2026-11-24T13:31:51.403493+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 14:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -4612,6 +4610,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126180621a2deurnerit140399": {
+   "titel": "A2 Deurne Rit: 140399",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126180621a2deurnerit140399",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T18:06:21+01:00",
+   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 18:06"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388": {
    "titel": "A2 Helmond Rit: 140388",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388",
@@ -5002,6 +5017,58 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 07:13"
+  },
+  "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/": {
+   "titel": "Puur Sangh geeft jubileumconcert in Lierop",
+   "link": "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/",
+   "tekst": "Puur Sangh Asten viert het 60-jarig jubileum met een kerstconcert in Lierop. Zondag 13 december treedt het koor om 15.00 uur op in de Koepelkerk.",
+   "datum": "2026-11-23T14:46:00+00:00",
+   "eerst_gezien": "2026-11-23T14:49:32.629524+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698129/senioren-in-nuenen-kunnen-vanaf-3-december-met-woon-en-zorgvragen-terecht-bij-nieuw-seniorenpunt.html": {
+   "titel": "Senioren in Nuenen kunnen vanaf 3 december met woon- en zorgvragen terecht bij nieuw SeniorenPunt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698129/senioren-in-nuenen-kunnen-vanaf-3-december-met-woon-en-zorgvragen-terecht-bij-nieuw-seniorenpunt.html",
+   "tekst": "",
+   "datum": "2026-11-24T13:49:08+00:00",
+   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 14:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108697933/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html": {
+   "titel": "De Molen van Milheeze wordt tijdelijk een pietenhuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697933/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html",
+   "tekst": "",
+   "datum": "2026-11-24T13:19:02+00:00",
+   "eerst_gezien": "2026-11-24T13:31:51.403493+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 14:19"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126052646a1helmondrit140096": {
    "titel": "A1 Helmond Rit: 140096",
@@ -11137,7 +11204,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 00:12"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666010/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken.html": {
    "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
@@ -17618,23 +17686,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/": {
-   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
-   "link": "https://www.ed.nl/someren/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang~ac18a975/",
-   "tekst": "Het knettert – alweer – in de Somerense gemeenteraad. Terwijl belangrijke besluiten passeren, vliegen de verwijten tussen coalitie en oppositie over en weer.",
-   "datum": "2026-11-17T17:00:52+00:00",
-   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 18:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
    "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
@@ -18722,55 +18773,6 @@
    "prio": false,
    "tijd": "17-11 18:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html": {
-   "titel": "Eindhovense raad positief over nieuwe woontoren, al houdt het qua aantal parkeerplekken niet echt over",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628212/eindhovense-raad-positief-over-nieuwe-woontoren-al-houdt-het-qua-aantal-parkeerplekken-niet-echt-over.html",
-   "tekst": "",
-   "datum": "2026-11-17T17:13:10+00:00",
-   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 18:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
-   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628173/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
-   "tekst": "",
-   "datum": "2026-11-17T17:07:26+00:00",
-   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
-   "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
-   "tekst": "",
-   "datum": "2026-11-17T17:11:29+00:00",
-   "eerst_gezien": "2026-11-17T17:13:43.344173+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108628381/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html": {
    "titel": "Politie controleert auto op A67: bestuurder heeft foto van vervalste ID-kaart bij zich en test positief op cocaïne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108628381/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html",
@@ -18817,7 +18819,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Someren": {
@@ -18892,7 +18894,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18912,7 +18914,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
