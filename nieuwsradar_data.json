@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 14:48",
+ "bijgewerkt": "24-11-2026 15:04",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
@@ -799,6 +799,24 @@
    "prio": false,
    "tijd": "18-11 10:11"
   },
+  "https://www.ed.nl/someren/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen~a18cd145/": {
+   "titel": "Lierops bedrijf krijgt verwijt van ‘ernstige nalatigheid’ na dodelijke val schilder van palletwagen",
+   "link": "https://www.ed.nl/someren/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen~a18cd145/",
+   "tekst": "Een dodelijke val in Lierop tijdens schuren en schilderen van een container komt Rutom Cargo mogelijk op een boete van een ton te staan. Het OM verwijt het transportbedrijf ernstige nalatigheid.",
+   "datum": "2026-11-24T14:00:09+00:00",
+   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 15:00"
+  },
   "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/": {
    "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
    "link": "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/",
@@ -901,23 +919,6 @@
    "prio": false,
    "tijd": "23-11 16:05"
   },
-  "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/": {
-   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus 3 drie miljoen duurder",
-   "link": "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/",
-   "tekst": "Het samenvoegen van drie scholen, de kinderopvang en het wijkhuis in de Helmondse wijk Rijpelberg valt fors duurder uit dan gedacht. Er is 31,6 miljoen euro nodig voor dit complex, ruim 3 miljoen meer dan eerder gepland.",
-   "datum": "2026-11-23T15:00:00+00:00",
-   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 16:00"
-  },
   "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/": {
    "titel": "Kinderen geven in Vlierden startsein voor jubileumproject op Sint Willibrorduskerk",
    "link": "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/",
@@ -934,6 +935,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:50"
+  },
+  "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/": {
+   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus 3 drie miljoen duurder",
+   "link": "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/",
+   "tekst": "Het samenvoegen van drie scholen, de kinderopvang en het wijkhuis in de Helmondse wijk Rijpelberg valt fors duurder uit dan gedacht. Er is 31,6 miljoen euro nodig voor dit complex, ruim 3 miljoen meer dan eerder gepland.",
+   "datum": "2026-11-23T15:00:00+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:00"
   },
   "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
    "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
@@ -1037,23 +1055,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 07:32"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
-   "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
-   "tekst": "Ouders en kinderen zijn maandagochtend bijgepraat over de gevolgen van de brand in basisschool De Zeilberg in Deurne. Zo'n 500 gedupeerden kwamen naar Sociaal Cultureel Centrum Den Draai om te horen wat er de komende tijd gaat gebeuren. Veel is er nog niet duidelijk. Wel staat …",
-   "datum": "2026-11-23T13:44:00+00:00",
-   "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 14:44"
   },
   "https://www.omroepbrabant.nl/nieuws/6035910/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-een": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond kwart over één",
@@ -1601,6 +1602,23 @@
    "prio": false,
    "tijd": "23-11 17:10"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
+   "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
+   "tekst": "Ouders en kinderen zijn maandagochtend bijgepraat over de gevolgen van de brand in basisschool De Zeilberg in Deurne. Zo'n 500 gedupeerden kwamen naar Sociaal Cultureel Centrum Den Draai om te horen wat er de komende tijd gaat gebeuren. …",
+   "datum": "2026-11-23T14:01:27.103064+00:00",
+   "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:01"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier": {
    "titel": "Deurne verdeelt subsidies vanaf 2029 op nieuwe manier",
    "link": "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier",
@@ -2028,23 +2046,6 @@
    "prio": false,
    "tijd": "18-11 17:47"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers": {
-   "titel": "Alzheimer Café Peelland: steun voor mantelzorgers",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers",
-   "tekst": "17 november 2026 In Asten vindt dinsdagavond 1 december een bijeenkomst plaats voor mantelzorgers van mensen met dementie. Het Alzheimer Café Peelland richt zich op het omgaan met overbelasting en het organiseren van hulp.",
-   "datum": "2026-11-17T13:57:17.916721+00:00",
-   "eerst_gezien": "2026-11-17T13:57:17.916721+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:57"
-  },
   "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming": {
    "titel": "Voormalige boerderij in Ommel krijgt nieuwe bestemming",
    "link": "https://www.omroepbrabant.nl/nieuws/6034942/voormalige-boerderij-in-ommel-krijgt-nieuwe-bestemming",
@@ -2216,6 +2217,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 10:41"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten": {
+   "titel": "Valpreventie voor ouderen: bijeenkomst in Asten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten",
+   "tekst": "17 november 2026 Ouderen in Someren liepen de afgelopen vijf jaar 540 keer ernstig letsel op door een val. Op donderdag 26 november is er een informatiebijeenkomst over valpreventie in Asten.",
+   "datum": "2026-11-24T14:03:35.404816+00:00",
+   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 15:03"
   },
   "https://www.omroepbrabant.nl/nieuws/6035083/deurne-wint-nk-tegelwippen-in-brabantse-peeldorpen": {
    "titel": "Deurne wint NK Tegelwippen in Brabantse Peeldorpen",
@@ -4557,6 +4576,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698196/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html": {
+   "titel": "Lierops bedrijf krijgt verwijt van `ernstige nalatigheid` na dodelijke val schilder van palletwagen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698196/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html",
+   "tekst": "",
+   "datum": "2026-11-24T14:01:05+00:00",
+   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698129/senioren-in-nuenen-kunnen-vanaf-3-december-met-woon-en-zorgvragen-terecht-bij-nieuw-seniorenpunt.html": {
+   "titel": "Senioren in Nuenen kunnen vanaf 3 december met woon- en zorgvragen terecht bij nieuw SeniorenPunt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698129/senioren-in-nuenen-kunnen-vanaf-3-december-met-woon-en-zorgvragen-terecht-bij-nieuw-seniorenpunt.html",
+   "tekst": "",
+   "datum": "2026-11-24T13:49:08+00:00",
+   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 14:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108697933/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html": {
    "titel": "De Molen van Milheeze wordt tijdelijk een pietenhuis",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108697933/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html",
@@ -4788,56 +4840,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696522/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html": {
-   "titel": "Tientallen beveiligers bij distributiecentrum in Eindhoven na blokkades in België",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696522/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:19:03+00:00",
-   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696520/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html": {
-   "titel": "Eerste sneeuwvlokken van dit winterseizoen gevallen in Brabant, later op de dag kans op natte sneeuw",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696520/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:19:03+00:00",
-   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696518/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html": {
-   "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill na dubbele moorden Lieshout en Amsterdam",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696518/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:19:03+00:00",
-   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -5478,6 +5480,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126144822a2helmondrit140320": {
+   "titel": "A2 Helmond Rit: 140320",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126144822a2helmondrit140320",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T14:48:22+01:00",
+   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 14:48"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126123458a0deurnerit140277": {
    "titel": "A0 Deurne Rit: 140277",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126123458a0deurnerit140277",
@@ -5817,6 +5836,56 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 19:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696522/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html": {
+   "titel": "Tientallen beveiligers bij distributiecentrum in Eindhoven na blokkades in België",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696522/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:19:03+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696520/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html": {
+   "titel": "Eerste sneeuwvlokken van dit winterseizoen gevallen in Brabant, later op de dag kans op natte sneeuw",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696520/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:19:03+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696518/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html": {
+   "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill na dubbele moorden Lieshout en Amsterdam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696518/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:19:03+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:19"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126182839a2helmondrit139986": {
    "titel": "A2 Helmond Rit: 139986",
@@ -18752,7 +18821,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -18767,7 +18836,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -18777,17 +18846,17 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 24,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 10,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18832,7 +18901,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18852,7 +18921,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
