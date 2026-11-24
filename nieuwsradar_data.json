@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 08:07",
+ "bijgewerkt": "24-11-2026 08:23",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -829,7 +829,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 08:00"
@@ -2676,6 +2676,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:07"
+  },
+  "https://www.someren.nl/nieuws/artikel/bouwtekening-nu-eenvoudig-digitaal-opvragen": {
+   "titel": "Bouwtekening nu eenvoudig digitaal opvragen",
+   "link": "https://www.someren.nl/nieuws/artikel/bouwtekening-nu-eenvoudig-digitaal-opvragen",
+   "tekst": "Zoekt u een bouwtekening? Dan kunt u deze nu eenvoudig digitaal opvragen. In veel gevallen is dit gratis.",
+   "datum": "2026-11-24T07:07:57+00:00",
+   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
+   "bron": "Gemeente Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 08:07"
   },
   "https://www.someren.nl/nieuws/artikel/stevig-blijven-staan-zodat-u-kunt-blijven-doen-wat-u-graag-doet": {
    "titel": "Stevig blijven staan, zodat u kunt blijven doen wat u graag doet!",
@@ -4594,12 +4611,45 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695162/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108695259/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
    "titel": "Het blijft voorlopig bij één McDonald`s in Helmond: door stroomtekort geen Big Macs aan westzijde",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695162/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695259/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
    "tekst": "",
-   "datum": "2026-11-24T07:04:20+00:00",
-   "eerst_gezien": "2026-11-24T07:07:10.598221+00:00",
+   "datum": "2026-11-24T07:19:02+00:00",
+   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695244/walter-65-en-monique-59-weigeren-hun-waardigheid-in-te-leveren-voor-een-huis-het-is-de-gemeente-die-ons-dakloos-maakt.html": {
+   "titel": "Walter (65) en Monique (59) weigeren hun waardigheid in te leveren voor een huis: `Het is de gemeente die ons dakloos maakt`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695244/walter-65-en-monique-59-weigeren-hun-waardigheid-in-te-leveren-voor-een-huis-het-is-de-gemeente-die-ons-dakloos-maakt.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:13:24+00:00",
+   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 08:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695243/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
+   "titel": "Het blijft voorlopig bij één McDonald`s in Helmond: door stroomtekort geen Big Macs aan westzijde",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695243/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:13:24+00:00",
+   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4622,10 +4672,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 08:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108695090/opnieuw-vluchten-geannuleerd-op-eindhoven-airport-ondanks-verdwijnen-dichte-mist.html": {
    "titel": "Opnieuw vluchten geannuleerd op Eindhoven Airport, ondanks verdwijnen dichte mist",
@@ -4823,40 +4872,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108690377/man-slaat-fles-kapot-op-station-eindhoven-centraal-en-wordt-opgepakt.html": {
-   "titel": "Man slaat fles kapot op station Eindhoven Centraal en wordt opgepakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690377/man-slaat-fles-kapot-op-station-eindhoven-centraal-en-wordt-opgepakt.html",
-   "tekst": "",
-   "datum": "2026-11-23T20:49:08+00:00",
-   "eerst_gezien": "2026-11-23T20:59:51.461985+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 21:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108690374/de-paradox-van-psv-in-madrid-hoe-peter-bosz-risico-en-zekerheid-moet-combineren-voor-een-stunt-tegen-real.html": {
-   "titel": "De paradox van PSV in Madrid: hoe Peter Bosz risico én zekerheid moet combineren voor een stunt tegen Real",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690374/de-paradox-van-psv-in-madrid-hoe-peter-bosz-risico-en-zekerheid-moet-combineren-voor-een-stunt-tegen-real.html",
-   "tekst": "",
-   "datum": "2026-11-23T20:49:06+00:00",
-   "eerst_gezien": "2026-11-23T20:59:51.461985+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 21:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108691807/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school.html": {
    "titel": "Schoolbrand raakt kinderen hard: ´Ik had het heel leuk op school´",
@@ -5837,6 +5852,56 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 10:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695162/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
+   "titel": "Het blijft voorlopig bij één McDonald`s in Helmond: door stroomtekort geen Big Macs aan westzijde",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695162/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:04:20+00:00",
+   "eerst_gezien": "2026-11-24T07:07:10.598221+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108690377/man-slaat-fles-kapot-op-station-eindhoven-centraal-en-wordt-opgepakt.html": {
+   "titel": "Man slaat fles kapot op station Eindhoven Centraal en wordt opgepakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690377/man-slaat-fles-kapot-op-station-eindhoven-centraal-en-wordt-opgepakt.html",
+   "tekst": "",
+   "datum": "2026-11-23T20:49:08+00:00",
+   "eerst_gezien": "2026-11-23T20:59:51.461985+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 21:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108690374/de-paradox-van-psv-in-madrid-hoe-peter-bosz-risico-en-zekerheid-moet-combineren-voor-een-stunt-tegen-real.html": {
+   "titel": "De paradox van PSV in Madrid: hoe Peter Bosz risico én zekerheid moet combineren voor een stunt tegen Real",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690374/de-paradox-van-psv-in-madrid-hoe-peter-bosz-risico-en-zekerheid-moet-combineren-voor-een-stunt-tegen-real.html",
+   "tekst": "",
+   "datum": "2026-11-23T20:49:06+00:00",
+   "eerst_gezien": "2026-11-23T20:59:51.461985+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 21:49"
   },
   "https://www.ed.nl/asten/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter~a7e46d58/": {
    "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
@@ -18446,7 +18511,7 @@
   },
   "Gemeente Someren": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "Bekendmakingen Helmond": {
