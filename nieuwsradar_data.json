@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 13:27",
+ "bijgewerkt": "24-11-2026 13:43",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
@@ -799,23 +799,6 @@
    "prio": false,
    "tijd": "18-11 10:11"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans": {
-   "titel": "Asielopvanglocatie start met accu, aggregaat en watertank: ‘Aansluitingen volgen later’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64715/asielopvanglocatie-start-met-accu-aggregaat-en-watertank-aans",
-   "tekst": "ASTEN - Een béétje behelpen: de asielopvanglocatie aan de Kanaalweg in Asten moet komende maand al in bedrijf zijn, maar doet dat in eerste instantie zonder riool- en elektriciteitsaansluiting. \"Maar bewoners merken er niets van.\"",
-   "datum": "2026-11-17T13:34:00+01:00",
-   "eerst_gezien": "2026-11-17T12:35:52.716684+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:34"
-  },
   "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/": {
    "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
    "link": "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/",
@@ -1037,23 +1020,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 07:32"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
-   "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
-   "tekst": "Ouders en kinderen zijn maandagochtend bijgepraat over de gevolgen van de brand in basisschool De Zeilberg in Deurne. Zo'n 500 gedupeerden kwamen naar Sociaal Cultureel Centrum Den Draai om te horen wat er de komende tijd gaat gebeuren. Veel is er nog niet duidelijk. Wel staat …",
-   "datum": "2026-11-23T13:44:00+00:00",
-   "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 14:44"
   },
   "https://www.omroepbrabant.nl/nieuws/6035910/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-een": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond kwart over één",
@@ -1600,6 +1566,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:10"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
+   "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
+   "tekst": "Ouders en kinderen zijn maandagochtend bijgepraat over de gevolgen van de brand in basisschool De Zeilberg in Deurne. Zo'n 500 gedupeerden kwamen naar Sociaal Cultureel Centrum Den Draai om te horen wat er de komende tijd gaat gebeuren. …",
+   "datum": "2026-11-23T14:01:27.103064+00:00",
+   "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 15:01"
   },
   "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier": {
    "titel": "Deurne verdeelt subsidies vanaf 2029 op nieuwe manier",
@@ -18807,7 +18790,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18837,7 +18820,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -18847,7 +18830,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 24,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18922,7 +18905,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
