@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 20:26",
+ "bijgewerkt": "24-11-2026 20:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -765,6 +765,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:11"
+  },
+  "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/": {
+   "titel": "Max uit Helmond weet zeker dat dieren legaal zijn geïmporteerd: ‘Nu ben ik de gebeten hond’",
+   "link": "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/",
+   "tekst": "Handelt het Helmondse bedrijf By Max illegaal in de aan- en verkoop van opgezette dieren? Zelf geeft eigenaar Max Duymelinck aan alles volgens de regels te doen.",
+   "datum": "2026-11-24T19:30:46+00:00",
+   "eerst_gezien": "2026-11-24T19:41:52.108865+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 20:30"
   },
   "https://www.ed.nl/deurne/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders~ad75c7e4/": {
    "titel": "Miljoenen euro’s schade aan Deurnese basisschool: wordt dat verhaald op de ouders?",
@@ -4592,6 +4609,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700703/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
+   "titel": "Max uit Helmond weet zeker dat dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700703/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
+   "tekst": "",
+   "datum": "2026-11-24T19:34:08+00:00",
+   "eerst_gezien": "2026-11-24T19:41:52.108865+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108700513/live-psv-trainer-bosz-maakt-bekend-wie-mauro-junior-vervangt-tegen-real-madrid-bekijk-hier-de-hele-opstelling.html": {
    "titel": "LIVE | PSV-trainer Bosz maakt bekend wie Mauro Júnior vervangt tegen Real Madrid: bekijk hier de hele opstelling",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108700513/live-psv-trainer-bosz-maakt-bekend-wie-mauro-junior-vervangt-tegen-real-madrid-bekijk-hier-de-hele-opstelling.html",
@@ -4768,22 +4801,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108699135/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html": {
-   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699135/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-24T15:43:17+00:00",
-   "eerst_gezien": "2026-11-24T15:56:02.861135+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5769,6 +5786,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 08:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699135/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html": {
+   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699135/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:43:17+00:00",
+   "eerst_gezien": "2026-11-24T15:56:02.861135+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html": {
    "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
@@ -18808,7 +18841,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
