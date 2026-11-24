@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 02:48",
+ "bijgewerkt": "24-11-2026 03:04",
  "items": {
   "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/": {
    "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
@@ -4631,6 +4631,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126024849a1liesselrit140088": {
+   "titel": "A1 Liessel Rit: 140088",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126024849a1liesselrit140088",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T02:48:49+01:00",
+   "eerst_gezien": "2026-11-24T02:03:41.905304+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "24-11 02:48"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126004519a2helmondrit140071": {
    "titel": "A2 Helmond Rit: 140071",
@@ -18504,7 +18521,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
