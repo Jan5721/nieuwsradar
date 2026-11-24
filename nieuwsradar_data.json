@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 10:15",
+ "bijgewerkt": "24-11-2026 10:32",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64864/bekroonde-oostenrijkse-film-vier-minus-drei-te-zien-in-deurne": {
    "titel": "Bekroonde Oostenrijkse film Vier Minus Drei te zien in Deurne",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 09:37"
@@ -812,7 +812,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 10:00"
@@ -2711,25 +2711,6 @@
    "prio": false,
    "tijd": "17-11 13:02"
   },
-  "https://www.someren.nl/nieuws/artikel/bijna-60000-tegels-gewipt-in-de-brabantse-peeldorpen": {
-   "titel": "Bijna 60.000 tegels gewipt in de Brabantse Peeldorpen",
-   "link": "https://www.someren.nl/nieuws/artikel/bijna-60000-tegels-gewipt-in-de-brabantse-peeldorpen",
-   "tekst": "De eindstand van het NK Tegelwippen is bekend! De afgelopen maanden gingen Deurne, Gemert-Bakel, Someren, Laarbeek en Asten samen de uitdaging aan in de poule Brabantse Peeldorpen. En met resultaat: samen maakten de vijf gemeenten maar liefst 59.898 tegels plaats voor groen.",
-   "datum": "2026-11-17T09:22:52+00:00",
-   "eerst_gezien": "2026-11-17T09:38:45.270104+00:00",
-   "bron": "Gemeente Someren",
-   "gemeenten": [
-    "Deurne",
-    "Asten",
-    "Someren"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 10:22"
-  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-539809.html": {
    "titel": "Aanvraag vergunning voor het plaatsen van een airco aan van Diemenstraat 36 te Helmond",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-539809.html",
@@ -4594,6 +4575,72 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696131/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html": {
+   "titel": "Gewonde bij steekpartij in Eindhovense kliniek, verdachte na een uur aangehouden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696131/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:25:13+00:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 10:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696078/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html": {
+   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696078/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:19:03+00:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696076/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html": {
+   "titel": "Update: zo staat het ervoor met de Kasteel-Traverse",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696076/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:19:03+00:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 10:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696075/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html": {
+   "titel": "Gewonde bij steekpartij in Eindhovense kliniek, verdachte na een uur aangehouden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696075/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:19:02+00:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108696029/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html": {
    "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696029/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html",
@@ -4606,7 +4653,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4622,10 +4669,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 10:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108695807/vluchten-geannuleerd-op-eindhoven-airport-door-mist-vliegverkeer-inmiddels-weer-op-gang.html": {
    "titel": "Vluchten geannuleerd op Eindhoven Airport door mist, vliegverkeer inmiddels weer op gang",
@@ -4784,55 +4830,6 @@
    "tekst": "",
    "datum": "2026-11-24T07:34:07+00:00",
    "eerst_gezien": "2026-11-24T07:39:00.523003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695259/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
-   "titel": "Het blijft voorlopig bij één McDonald`s in Helmond: door stroomtekort geen Big Macs aan westzijde",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695259/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
-   "tekst": "",
-   "datum": "2026-11-24T07:19:02+00:00",
-   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695244/walter-65-en-monique-59-weigeren-hun-waardigheid-in-te-leveren-voor-een-huis-het-is-de-gemeente-die-ons-dakloos-maakt.html": {
-   "titel": "Walter (65) en Monique (59) weigeren hun waardigheid in te leveren voor een huis: `Het is de gemeente die ons dakloos maakt`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695244/walter-65-en-monique-59-weigeren-hun-waardigheid-in-te-leveren-voor-een-huis-het-is-de-gemeente-die-ons-dakloos-maakt.html",
-   "tekst": "",
-   "datum": "2026-11-24T07:13:24+00:00",
-   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 08:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695243/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
-   "titel": "Het blijft voorlopig bij één McDonald`s in Helmond: door stroomtekort geen Big Macs aan westzijde",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695243/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
-   "tekst": "",
-   "datum": "2026-11-24T07:13:24+00:00",
-   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5448,6 +5445,57 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102851a2helmondrit140214": {
+   "titel": "A2 Helmond Rit: 140214",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102851a2helmondrit140214",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T10:28:51+01:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 10:28"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102753a1deurnerit140213": {
+   "titel": "A1 Deurne Rit: 140213",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102753a1deurnerit140213",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T10:27:53+01:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "24-11 10:27"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102034a2deurnerit140207": {
+   "titel": "A2 Deurne Rit: 140207",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102034a2deurnerit140207",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T10:20:34+01:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 10:20"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126100850a2helmondrit140194": {
    "titel": "A2 Helmond Rit: 140194",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126100850a2helmondrit140194",
@@ -5460,7 +5508,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 10:08"
@@ -5821,6 +5869,55 @@
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 14:22"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695259/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
+   "titel": "Het blijft voorlopig bij één McDonald`s in Helmond: door stroomtekort geen Big Macs aan westzijde",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695259/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:19:02+00:00",
+   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695244/walter-65-en-monique-59-weigeren-hun-waardigheid-in-te-leveren-voor-een-huis-het-is-de-gemeente-die-ons-dakloos-maakt.html": {
+   "titel": "Walter (65) en Monique (59) weigeren hun waardigheid in te leveren voor een huis: `Het is de gemeente die ons dakloos maakt`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695244/walter-65-en-monique-59-weigeren-hun-waardigheid-in-te-leveren-voor-een-huis-het-is-de-gemeente-die-ons-dakloos-maakt.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:13:24+00:00",
+   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 08:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695243/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
+   "titel": "Het blijft voorlopig bij één McDonald`s in Helmond: door stroomtekort geen Big Macs aan westzijde",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695243/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:13:24+00:00",
+   "eerst_gezien": "2026-11-24T07:23:01.363744+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126140048a1helmondrit139863": {
    "titel": "A1 Helmond Rit: 139863",
@@ -8597,23 +8694,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 11:04"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126102951a1somerenrit139309": {
-   "titel": "A1 Someren Rit: 139309",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126102951a1somerenrit139309",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-22T10:29:51+01:00",
-   "eerst_gezien": "2026-11-22T09:36:46.634946+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "22-11 10:29"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108678045/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling.html": {
    "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: `Zenuwachtiger dan voor mijn prinsenonthulling`",
@@ -17562,23 +17642,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond~a023b4f6/": {
-   "titel": "Film over dementie gevolgd door gesprek met casemanagers in Helmond",
-   "link": "https://www.ed.nl/helmond/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond~a023b4f6/",
-   "tekst": "Dementievriendelijk Helmond en LEVgroep houden een filmavond over dementie met de film Supernova. Donderdag 26 november is de film om 19.30 uur te zien bij de Cacaofabriek in Helmond.",
-   "datum": "2026-11-17T09:17:00+00:00",
-   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 10:17"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
    "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
@@ -18536,22 +18599,6 @@
    "prio": false,
    "tijd": "17-11 11:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108624006/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond.html": {
-   "titel": "Film over dementie gevolgd door gesprek met casemanagers in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624006/film-over-dementie-gevolgd-door-gesprek-met-casemanagers-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T09:21:30+00:00",
-   "eerst_gezien": "2026-11-17T09:22:26.818747+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html": {
    "titel": "Pakistaanse Bushra (65) zoekt veiligheid in Nuenen, terwijl de angst om haar familie haar niet loslaat",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html",
@@ -18648,7 +18695,7 @@
   },
   "Gemeente Someren": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "Bekendmakingen Helmond": {
@@ -18673,7 +18720,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18693,7 +18740,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
