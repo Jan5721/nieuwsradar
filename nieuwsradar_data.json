@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 17:28",
+ "bijgewerkt": "24-11-2026 17:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -511,22 +511,6 @@
    "prio": false,
    "tijd": "17-11 19:15"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64711/de-mooiste-lezersfotos-van-deze-week": {
-   "titel": "De mooiste lezersfoto’s van deze week",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64711/de-mooiste-lezersfotos-van-deze-week",
-   "tekst": "DEURNE - We ontvingen weer veel mooie foto's. Het is moeilijk kiezen welke inzending we wel publiceren en welke niet, want de ene foto is nog mooier dan de andere. Gelukkig kan onze redacteur moeilijke beslissingen maken en koos hij de volgende foto's. Blijf vooral op pad gaan! …",
-   "datum": "2026-11-17T17:30:00+01:00",
-   "eerst_gezien": "2026-11-17T17:30:01.152387+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64872/in-beeld-feestelijke-prijsuitreiking-ondernemer-van-het-jaar-2026": {
    "titel": "In beeld: feestelijke prijsuitreiking Ondernemer van het Jaar 2026",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64872/in-beeld-feestelijke-prijsuitreiking-ondernemer-van-het-jaar-2026",
@@ -811,7 +795,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 17:18"
@@ -1002,23 +986,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:00"
-  },
-  "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
-   "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
-   "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
-   "tekst": "De gemeente Deurne past de verdeling van een deel van de jaarlijkse subsidies aan professionele organisaties aan. De nieuwe werkwijze gaat 1 januari 2029 in en geldt voor hulp en activiteiten voor inwoners.",
-   "datum": "2026-11-23T12:27:30+00:00",
-   "eerst_gezien": "2026-11-23T12:40:55.800956+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:27"
   },
   "https://www.ed.nl/asten/wandeling-in-asten-staat-in-teken-van-historie-van-polderse-bossen~a5f2b4e82/": {
    "titel": "Wandeling in Asten staat in teken van historie van Polderse Bossen",
@@ -1448,23 +1415,6 @@
    "prio": false,
    "tijd": "17-11 18:30"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035101/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek": {
-   "titel": "Wendy en Youri (19) nemen slagerij over: 'Vrienden vinden ons gek'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035101/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek",
-   "tekst": "VIDEO 17 november 2026 Hun vrienden zijn vooral bezig met studeren, uitgaan en genieten van hun jeugd. Maar Wendy Veenhuis en Youri de Lepper, allebei 19 jaar, hebben andere plannen. Het stel wordt de nieuwe eigenaar van Slagerij Hagelaar …",
-   "datum": "2026-11-17T16:40:52.693626+00:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:40"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen": {
    "titel": "Stroomstoring in Helmond, herstel verwacht rond half negen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen",
@@ -1477,7 +1427,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 17:28"
@@ -4643,12 +4593,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108699422/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
    "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699422/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html",
    "tekst": "",
-   "datum": "2026-11-24T16:25:14+00:00",
-   "eerst_gezien": "2026-11-24T16:28:12.443815+00:00",
+   "datum": "2026-11-24T16:31:04+00:00",
+   "eerst_gezien": "2026-11-24T16:44:12.258936+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Deurne"
@@ -5004,40 +4954,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 17:45"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html": {
-   "titel": "VUURWERK veroorzaakt GROTE BRAND op BASISSCHOOL in DEURNE | Uitzending 21 november [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html",
-   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
-   "datum": "2026-11-22T12:28:17+00:00",
-   "eerst_gezien": "2026-11-22T12:33:44.010535+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 13:28"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html": {
-   "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html",
-   "tekst": "De school in Deurne waar gisteravond een brand uitbrak blijft waarschijnlijk nog maanden dicht, zegt directeur Pleun van Genugten tegen...",
-   "datum": "2026-11-22T00:30:10+00:00",
-   "eerst_gezien": "2026-11-22T00:30:36.003392+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 01:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108689819/verslaggevers-siris-dinsdag-aanwezig-in-gemeenschapshuis-t-kwartier-in-asten-met-pop-up-redactie.html": {
    "titel": "Verslaggevers SIRIS dinsdag aanwezig in gemeenschapshuis ’t Kwartier in Asten met pop-up redactie",
@@ -5461,6 +5377,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388": {
+   "titel": "A2 Helmond Rit: 140388",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T17:37:52+01:00",
+   "eerst_gezien": "2026-11-24T16:44:12.258936+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 17:37"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126164113a2deurnerit140378": {
    "titel": "A2 Deurne Rit: 140378",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126164113a2deurnerit140378",
@@ -5868,6 +5801,73 @@
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 02:48"
+  },
+  "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
+   "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
+   "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
+   "tekst": "De gemeente Deurne past de verdeling van een deel van de jaarlijkse subsidies aan professionele organisaties aan. De nieuwe werkwijze gaat 1 januari 2029 in en geldt voor hulp en activiteiten voor inwoners.",
+   "datum": "2026-11-23T12:27:30+00:00",
+   "eerst_gezien": "2026-11-23T12:40:55.800956+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:27"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699422/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
+   "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699422/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html",
+   "tekst": "",
+   "datum": "2026-11-24T16:25:14+00:00",
+   "eerst_gezien": "2026-11-24T16:28:12.443815+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html": {
+   "titel": "VUURWERK veroorzaakt GROTE BRAND op BASISSCHOOL in DEURNE | Uitzending 21 november [video]",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108677572/vuurwerk-veroorzaakt-grote-brand-op-basisschool-in-deurne-uitzending-21-november-video.html",
+   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
+   "datum": "2026-11-22T12:28:17+00:00",
+   "eerst_gezien": "2026-11-22T12:33:44.010535+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 13:28"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html": {
+   "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108675278/door-brand-getroffen-school-deurne-waarschijnlijk-nog-maanden-dicht.html",
+   "tekst": "De school in Deurne waar gisteravond een brand uitbrak blijft waarschijnlijk nog maanden dicht, zegt directeur Pleun van Genugten tegen...",
+   "datum": "2026-11-22T00:30:10+00:00",
+   "eerst_gezien": "2026-11-22T00:30:36.003392+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 01:30"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126004519a2helmondrit140071": {
    "titel": "A2 Helmond Rit: 140071",
@@ -16270,23 +16270,6 @@
    "prio": false,
    "tijd": "19-11 07:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
-   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627765/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:29:06+00:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:29"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
    "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
@@ -18551,7 +18534,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 23:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108630652/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
    "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
@@ -18754,39 +18738,6 @@
    "prio": false,
    "tijd": "17-11 17:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627908/nieuwe-namen-maestro-veldhoven-bekend.html": {
-   "titel": "Nieuwe namen Maestro Veldhoven bekend",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627908/nieuwe-namen-maestro-veldhoven-bekend.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:43:15+00:00",
-   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627906/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html": {
-   "titel": "Van bioscoop tot museum: tijdens de Urban Trail Eindhoven ren je door gebouwen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627906/van-bioscoop-tot-museum-tijdens-de-urban-trail-eindhoven-ren-je-door-gebouwen.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:43:15+00:00",
-   "eerst_gezien": "2026-11-17T16:57:28.671262+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html": {
    "titel": "Coalitie en oppositie in Someren vliegen elkaar in de haren over begroting en asielopvang",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108628199/coalitie-en-oppositie-in-someren-vliegen-elkaar-in-de-haren-over-begroting-en-asielopvang.html",
@@ -18796,39 +18747,6 @@
    "bron": "Drimble Someren",
    "gemeenten": [
     "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627769/stroomstoring-op-brahmslaan-in-helmond-opgelost.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:31:04+00:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627768/nieuwe-namen-maestro-veldhoven-bekend.html": {
-   "titel": "Nieuwe namen Maestro Veldhoven bekend",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627768/nieuwe-namen-maestro-veldhoven-bekend.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:31:04+00:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -18857,7 +18775,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 30,
    "fout": ""
   },
   "Peelbelang": {
@@ -18877,7 +18795,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -18897,7 +18815,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18962,7 +18880,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 10,
    "fout": ""
   },
   "Drimble Asten": {
