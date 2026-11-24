@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 19:37",
+ "bijgewerkt": "24-11-2026 19:54",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -770,7 +770,7 @@
    "titel": "Miljoenen euro’s schade aan Deurnese basisschool: wordt dat verhaald op de ouders?",
    "link": "https://www.ed.nl/deurne/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders~ad75c7e4/",
    "tekst": "De twee 11-jarige kinderen die door vuurwerk af te steken het dak van basisschool Zeilberg in brand hebben gestoken, zijn daar zelf niet financieel aansprakelijk voor.",
-   "datum": "2026-11-24T18:30:04+00:00",
+   "datum": "2026-11-24T18:30:00+00:00",
    "eerst_gezien": "2026-11-24T18:37:26.479152+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -778,7 +778,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 19:30"
@@ -1855,23 +1855,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:10"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers": {
-   "titel": "Thema-avond in Asten: steun voor mantelzorgers",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers",
-   "tekst": "17 november 2026 Op dinsdag 1 december organiseert Alzheimer Café Peelland een bijeenkomst in Asten over de uitdagingen van mantelzorgers bij dementie. De avond richt zich op het herkennen van overbelasting en het inschakelen van hulp.",
-   "datum": "2026-11-17T18:50:55.839156+00:00",
-   "eerst_gezien": "2026-11-17T18:50:55.839156+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 19:50"
   },
   "https://www.omroepbrabant.nl/nieuws/6034958/nieuwbouwwoning-mag-gebouwd-worden-aan-buntseweg-in-liessel": {
    "titel": "Nieuwbouwwoning mag gebouwd worden aan Buntseweg in Liessel",
@@ -4592,6 +4575,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
+   "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html",
+   "tekst": "",
+   "datum": "2026-11-24T18:49:05+00:00",
+   "eerst_gezien": "2026-11-24T18:53:31.804133+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108700298/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html": {
    "titel": "Nieuw pand op markante hoek in Geldrop klaar, met gevel die teruggrijpt op 1908",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108700298/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html",
@@ -4604,7 +4603,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 19:25"
@@ -4790,22 +4789,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108698551/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat.html": {
-   "titel": "Werknemer viel van pallet op ruim 2 meter hoogte en stierf ter plekke: bedrijf uit Lierop ontkent dat het fout zat",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698551/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat.html",
-   "tekst": "",
-   "datum": "2026-11-24T14:49:07+00:00",
-   "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html",
@@ -4953,24 +4936,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108679085/na-historische-nederlaag-voor-deurne-pakt-someren-de-koppositie-hadden-we-niet-verwacht.html": {
-   "titel": "Na historische nederlaag voor Deurne pakt Someren de koppositie: `Hadden we niet verwacht`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679085/na-historische-nederlaag-voor-deurne-pakt-someren-de-koppositie-hadden-we-niet-verwacht.html",
-   "tekst": "",
-   "datum": "2026-11-22T16:45:03+00:00",
-   "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 17:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108689819/verslaggevers-siris-dinsdag-aanwezig-in-gemeenschapshuis-t-kwartier-in-asten-met-pop-up-redactie.html": {
    "titel": "Verslaggevers SIRIS dinsdag aanwezig in gemeenschapshuis ’t Kwartier in Asten met pop-up redactie",
@@ -5344,6 +5309,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 21:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108679085/na-historische-nederlaag-voor-deurne-pakt-someren-de-koppositie-hadden-we-niet-verwacht.html": {
+   "titel": "Na historische nederlaag voor Deurne pakt Someren de koppositie: `Hadden we niet verwacht`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108679085/na-historische-nederlaag-voor-deurne-pakt-someren-de-koppositie-hadden-we-niet-verwacht.html",
+   "tekst": "",
+   "datum": "2026-11-22T16:45:03+00:00",
+   "eerst_gezien": "2026-11-22T16:50:23.749146+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 17:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677824/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -5767,6 +5750,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 08:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698551/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat.html": {
+   "titel": "Werknemer viel van pallet op ruim 2 meter hoogte en stierf ter plekke: bedrijf uit Lierop ontkent dat het fout zat",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698551/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat.html",
+   "tekst": "",
+   "datum": "2026-11-24T14:49:07+00:00",
+   "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700266/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html": {
    "titel": "Nieuw pand op markante hoek in Geldrop klaar, met gevel die teruggrijpt op 1908",
@@ -18822,7 +18821,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 24,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18882,7 +18881,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "Drimble Asten": {
@@ -18892,7 +18891,7 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 12,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
