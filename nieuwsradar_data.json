@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 12:39",
+ "bijgewerkt": "24-11-2026 12:55",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 12:30"
@@ -2251,23 +2251,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 14:40"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035083/deurne-wint-nk-tegelwippen-in-brabantse-peeldorpen": {
-   "titel": "Deurne wint NK Tegelwippen in Brabantse Peeldorpen",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035083/deurne-wint-nk-tegelwippen-in-brabantse-peeldorpen",
-   "tekst": "17 november 2026 Deurne heeft de poule Brabantse Peeldorpen gewonnen in het NK Tegelwippen. In de poule Brabantse Peeldorpen maakten 59.898 tegels plaats voor groen.",
-   "datum": "2026-11-17T11:47:09.942467+00:00",
-   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 12:47"
   },
   "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos": {
    "titel": "Bomen gekapt op Boksenberg voor sterker bos",
@@ -4570,7 +4553,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 12:13"
@@ -4587,7 +4570,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 12:13"
@@ -5489,7 +5472,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 12:34"
@@ -5506,7 +5489,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 12:33"
@@ -17365,40 +17348,6 @@
    "prio": false,
    "tijd": "18-11 11:21"
   },
-  "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/": {
-   "titel": "Het ED gaat undercover in het Kasteel van Sinterklaas: hoe krijgen ze het ieder jaar weer voor elkaar?",
-   "link": "https://www.ed.nl/helmond/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar~abd86207/",
-   "tekst": "Helmond is er klaar voor. Nu de Goedheiligman veilig in Nederland is aangekomen, strijkt hij weer neer in het kasteel. Vanaf dinsdag 17 november kloppen er duizenden kinderen aan. Maar hoe krijgen de pieten dat toch iedere keer weer geregeld? We kijken tot begin december mee.",
-   "datum": "2026-11-17T11:45:00+00:00",
-   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 12:45"
-  },
-  "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/": {
-   "titel": "Willy Koppens uit Deurne krijgt Brabant Bokaal voor inzet voor cultuur",
-   "link": "https://www.ed.nl/deurne/willy-koppens-uit-deurne-krijgt-brabant-bokaal-voor-inzet-voor-cultuur~a90e60f6c/",
-   "tekst": "Willy Koppens uit Deurne heeft een Brabant Bokaal gekregen voor zijn inzet voor cultuur. Ook Rolf Vonk uit Veghel en het echtpaar Frens van den Biggelaar en Mia van de Wiel uit Den Dungen ontvingen de onderscheiding van het Cultuurfonds Noord-Brabant.",
-   "datum": "2026-11-17T11:42:28+00:00",
-   "eerst_gezien": "2026-11-17T11:47:09.942467+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 12:42"
-  },
   "https://www.ed.nl/someren/cabaretvoorstelling-poeha-speelt-begin-december-in-someren~ae191d75/": {
    "titel": "Cabaretvoorstelling Poeha speelt begin december in Someren",
    "link": "https://www.ed.nl/someren/cabaretvoorstelling-poeha-speelt-begin-december-in-someren~ae191d75/",
@@ -18234,7 +18183,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 23:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108630635/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
    "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
@@ -18955,7 +18905,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Gemeente Helmond": {
