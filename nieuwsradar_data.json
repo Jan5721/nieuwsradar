@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 05:28",
+ "bijgewerkt": "24-11-2026 05:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -1418,7 +1418,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond half drie",
    "link": "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie",
-   "tekst": "dinsdag De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds half elf vanochtend zonder stroom. De storing duurde tot elf uur zevenenveertig.",
+   "tekst": "17 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds half elf vanochtend zonder stroom. De storing duurde tot elf uur zevenenveertig.",
    "datum": "2026-11-17T10:10:38.579736+00:00",
    "eerst_gezien": "2026-11-17T10:10:38.579736+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -5460,7 +5460,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 05:26"
