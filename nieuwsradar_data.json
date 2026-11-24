@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 09:11",
+ "bijgewerkt": "24-11-2026 09:27",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -539,7 +539,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 09:08"
@@ -965,7 +965,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 09:03"
@@ -1005,6 +1005,40 @@
    "prio": false,
    "tijd": "23-11 10:14"
   },
+  "https://www.ed.nl/someren/campagne-in-someren-wijst-ouders-op-signalen-van-criminaliteit-onder-jongeren~af3a4427/": {
+   "titel": "Campagne in Someren wijst ouders op signalen van criminaliteit onder jongeren",
+   "link": "https://www.ed.nl/someren/campagne-in-someren-wijst-ouders-op-signalen-van-criminaliteit-onder-jongeren~af3a4427/",
+   "tekst": "De gemeente Someren vraagt aandacht voor signalen die kunnen wijzen op criminaliteit onder jongeren. De boodschap komt uit de campagne ‘Oog voor elkaar’ van Brabant op de radar.",
+   "datum": "2026-11-24T08:18:23+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:18"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035886/enorme-drukte-op-brabantse-snelwegen-in-ochtendspits-meerdere-lange-files": {
+   "titel": "Enorme drukte op Brabantse snelwegen in ochtendspits: meerdere lange files",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035886/enorme-drukte-op-brabantse-snelwegen-in-ochtendspits-meerdere-lange-files",
+   "tekst": "Het was dinsdagochtend ontzettend druk op de Brabantse snelwegen. Op de A16, A17, A58 en A67 stonden 's ochtends ellenlange files. Het hoogtepunt van de ochtendspits is inmiddels voorbij, meldt de ANWB rond negen uur. De langste file van de ochtend stond op de A67 tussen Asten …",
+   "datum": "2026-11-24T06:32:25+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 07:32"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
    "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
@@ -1021,23 +1055,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 14:44"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven": {
-   "titel": "Seinstoring zorgde urenlang voor problemen op spoor rond Eindhoven",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven",
-   "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
-   "datum": "2026-11-23T05:52:00+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 06:52"
   },
   "https://www.omroepbrabant.nl/nieuws/6035884/politie-zoekt-baasjes-van-loslopende-honden-in-helmond": {
    "titel": "Politie zoekt baasjes van loslopende honden in Helmond",
@@ -4594,6 +4611,73 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695627/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html": {
+   "titel": "Stroomhuis opent na grote brand pas in 2029 op de nieuwe locatie in Woensel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695627/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:25:11+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695625/steekpartij-in-eindhoven-slachtoffer-gewond.html": {
+   "titel": "Steekpar­tij in Eindhoven, slachtof­fer gewond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695625/steekpartij-in-eindhoven-slachtoffer-gewond.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:25:11+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695593/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html": {
+   "titel": "Stroomhuis opent na grote brand pas in 2029 op de nieuwe locatie in Woensel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695593/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:19:07+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695591/steekpartij-op-de-grote-beek-in-eindhoven-slachtoffer-gewond.html": {
+   "titel": "Steekpartij op de Grote Beek in Eindhoven, slachtoffer gewond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695591/steekpartij-op-de-grote-beek-in-eindhoven-slachtoffer-gewond.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:19:07+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108695452/gewonde-bij-steekpartij-in-eindhoven-politie-druk-bezig-met-aanhouding.html": {
    "titel": "Gewonde bij steekpartij in Eindhoven, politie druk bezig met aanhouding",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108695452/gewonde-bij-steekpartij-in-eindhoven-politie-druk-bezig-met-aanhouding.html",
@@ -4606,7 +4690,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 09:01"
@@ -4758,72 +4842,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 07:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108694956/na-jaren-van-ellende-dreigen-walter-65-en-monique-59-weer-op-straat-te-belanden-we-laten-ons-niet-wegjagen.html": {
-   "titel": "Na jaren van ellende dreigen Walter (65) en Monique (59) weer op straat te belanden: `We laten ons niet wegjagen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694956/na-jaren-van-ellende-dreigen-walter-65-en-monique-59-weer-op-straat-te-belanden-we-laten-ons-niet-wegjagen.html",
-   "tekst": "",
-   "datum": "2026-11-24T06:19:03+00:00",
-   "eerst_gezien": "2026-11-24T06:35:24.161178+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 07:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108694942/supermarktpuzzel-ah-en-nettorama-in-centrum-geldrop-nog-niet-gelegd.html": {
-   "titel": "Supermarktpuzzel AH en Nettorama in centrum Geldrop nog niet gelegd",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694942/supermarktpuzzel-ah-en-nettorama-in-centrum-geldrop-nog-niet-gelegd.html",
-   "tekst": "",
-   "datum": "2026-11-24T06:13:24+00:00",
-   "eerst_gezien": "2026-11-24T06:19:19.171476+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108694940/na-jaren-van-ellende-dreigen-walter-65-en-monique-59-weer-op-straat-te-belanden-we-laten-ons-niet-wegjagen.html": {
-   "titel": "Na jaren van ellende dreigen Walter (65) en Monique (59) weer op straat te belanden: `We laten ons niet wegjagen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694940/na-jaren-van-ellende-dreigen-walter-65-en-monique-59-weer-op-straat-te-belanden-we-laten-ons-niet-wegjagen.html",
-   "tekst": "",
-   "datum": "2026-11-24T06:13:24+00:00",
-   "eerst_gezien": "2026-11-24T06:19:19.171476+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108694840/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html": {
-   "titel": "Na slepende rechtszaak trekt Ennatuurlijk eindelijk de portemonnee: klanten in Meerhoven krijgen aansluitkosten terug",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694840/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html",
-   "tekst": "",
-   "datum": "2026-11-24T05:49:05+00:00",
-   "eerst_gezien": "2026-11-24T06:03:14.186343+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 06:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108691909/fiod-houdt-opnieuw-verdachten-aan-voor-vervalste-inkoopfacturen-katalysatoren.html": {
    "titel": "FIOD houdt opnieuw verdachten aan voor vervalste inkoopfacturen katalysatoren",
@@ -5442,7 +5460,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 09:10"
@@ -5803,6 +5821,89 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 12:40"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven": {
+   "titel": "Seinstoring zorgde urenlang voor problemen op spoor rond Eindhoven",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven",
+   "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
+   "datum": "2026-11-23T05:52:00+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 06:52"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108694956/na-jaren-van-ellende-dreigen-walter-65-en-monique-59-weer-op-straat-te-belanden-we-laten-ons-niet-wegjagen.html": {
+   "titel": "Na jaren van ellende dreigen Walter (65) en Monique (59) weer op straat te belanden: `We laten ons niet wegjagen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694956/na-jaren-van-ellende-dreigen-walter-65-en-monique-59-weer-op-straat-te-belanden-we-laten-ons-niet-wegjagen.html",
+   "tekst": "",
+   "datum": "2026-11-24T06:19:03+00:00",
+   "eerst_gezien": "2026-11-24T06:35:24.161178+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 07:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108694942/supermarktpuzzel-ah-en-nettorama-in-centrum-geldrop-nog-niet-gelegd.html": {
+   "titel": "Supermarktpuzzel AH en Nettorama in centrum Geldrop nog niet gelegd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694942/supermarktpuzzel-ah-en-nettorama-in-centrum-geldrop-nog-niet-gelegd.html",
+   "tekst": "",
+   "datum": "2026-11-24T06:13:24+00:00",
+   "eerst_gezien": "2026-11-24T06:19:19.171476+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108694940/na-jaren-van-ellende-dreigen-walter-65-en-monique-59-weer-op-straat-te-belanden-we-laten-ons-niet-wegjagen.html": {
+   "titel": "Na jaren van ellende dreigen Walter (65) en Monique (59) weer op straat te belanden: `We laten ons niet wegjagen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694940/na-jaren-van-ellende-dreigen-walter-65-en-monique-59-weer-op-straat-te-belanden-we-laten-ons-niet-wegjagen.html",
+   "tekst": "",
+   "datum": "2026-11-24T06:13:24+00:00",
+   "eerst_gezien": "2026-11-24T06:19:19.171476+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108694840/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html": {
+   "titel": "Na slepende rechtszaak trekt Ennatuurlijk eindelijk de portemonnee: klanten in Meerhoven krijgen aansluitkosten terug",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694840/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html",
+   "tekst": "",
+   "datum": "2026-11-24T05:49:05+00:00",
+   "eerst_gezien": "2026-11-24T06:03:14.186343+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 06:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126105158a1helmondrit139779": {
    "titel": "A1 Helmond Rit: 139779",
@@ -18350,23 +18451,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
-   "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623467/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:13:11+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html": {
    "titel": "Pakistaanse Bushra (65) zoekt veiligheid in Nuenen, terwijl de angst om haar familie haar niet loslaat",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html",
@@ -18418,7 +18502,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -18508,7 +18592,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
