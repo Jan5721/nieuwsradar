@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 20:10",
+ "bijgewerkt": "24-11-2026 20:26",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1868,7 +1868,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 20:09"
@@ -2099,7 +2099,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035289/bouw-en-exposeer-je-eigen-lego-dier-in-asten": {
    "titel": "Bouw en exposeer je eigen LEGO-dier in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035289/bouw-en-exposeer-je-eigen-lego-dier-in-asten",
-   "tekst": "woensdag LEGO-liefhebbers kunnen hun zelfgebouwde lievelingsdieren exposeren in Museum Klok & Peel in Asten. De bouwwerken worden tentoongesteld tijdens het evenement 'Museum in Wintersfeer'. Inzendingen kunnen op woensdag 16 december …",
+   "tekst": "18 november 2026 LEGO-liefhebbers kunnen hun zelfgebouwde lievelingsdieren exposeren in Museum Klok & Peel in Asten. De bouwwerken worden tentoongesteld tijdens het evenement 'Museum in Wintersfeer'. Inzendingen kunnen op woensdag 16 …",
    "datum": "2026-11-18T16:47:24.590015+00:00",
    "eerst_gezien": "2026-11-18T16:47:24.590015+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -4604,7 +4604,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 20:01"
@@ -5391,7 +5391,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 20:02"
