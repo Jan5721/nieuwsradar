@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 23:41",
+ "bijgewerkt": "24-11-2026 23:57",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -4609,6 +4609,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108703961/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
+   "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108703961/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
+   "tekst": "",
+   "datum": "2026-11-24T22:42:07+00:00",
+   "eerst_gezien": "2026-11-24T22:56:25.238982+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html": {
    "titel": "PSV maakt een helft lang indruk, maar wordt daarna overklast door supersterren van Real Madrid",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html",
@@ -4969,6 +4985,22 @@
    "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108704180/enorme-drukte-op-brabantse-snelwegen-in-ochtendspits-meerdere-lange-files.html": {
+   "titel": "Enorme drukte op Brabantse snelwegen in ochtendspits: meerdere lange files",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108704180/enorme-drukte-op-brabantse-snelwegen-in-ochtendspits-meerdere-lange-files.html",
+   "tekst": "Het was dinsdagochtend ontzettend druk op de Brabantse snelwegen. Op de A16, A17, A58 en A67 stonden ´s ochtends ellenlange files....",
+   "datum": "2026-11-24T22:47:07+00:00",
+   "eerst_gezien": "2026-11-24T22:56:25.238982+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -5424,7 +5456,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 23:38"
@@ -18905,23 +18937,6 @@
    "prio": false,
    "tijd": "18-11 07:01"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108632230/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html": {
-   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108632230/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen.html",
-   "tekst": "",
-   "datum": "2026-11-17T22:45:03+00:00",
-   "eerst_gezien": "2026-11-17T22:54:53.576751+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 23:45"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
    "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
@@ -19058,7 +19073,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19068,7 +19083,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Someren": {
