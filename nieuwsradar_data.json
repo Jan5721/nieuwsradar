@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 19:05",
+ "bijgewerkt": "24-11-2026 19:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -493,23 +493,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:43"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne": {
-   "titel": "Film Youri is deze week te zien in het Cultuurcentrum in Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64712/film-youri-is-deze-week-te-zien-in-het-cultuurcentrum-in-deurne",
-   "tekst": "DEURNE - De film Youri is woensdag 18 november om 19.30 uur te zien in het Cultuurcentrum in Deurne. Een extra vertoning is te zien op vrijdag 20 november om 10.30 uur. Kaartjes zijn verkrijgbaar via ccdeurne.nl.",
-   "datum": "2026-11-17T19:15:00+01:00",
-   "eerst_gezien": "2026-11-17T18:18:31.203049+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 19:15"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64872/in-beeld-feestelijke-prijsuitreiking-ondernemer-van-het-jaar-2026": {
    "titel": "In beeld: feestelijke prijsuitreiking Ondernemer van het Jaar 2026",
@@ -4592,6 +4575,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700266/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html": {
+   "titel": "Nieuw pand op markante hoek in Geldrop klaar, met gevel die teruggrijpt op 1908",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700266/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html",
+   "tekst": "",
+   "datum": "2026-11-24T18:19:02+00:00",
+   "eerst_gezien": "2026-11-24T18:21:12.572080+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 19:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700227/nieuw-leven-op-historische-textielplek-in-centrum-geldrop.html": {
+   "titel": "Nieuw leven op historische textielplek in centrum Geldrop",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700227/nieuw-leven-op-historische-textielplek-in-centrum-geldrop.html",
+   "tekst": "",
+   "datum": "2026-11-24T18:13:26+00:00",
+   "eerst_gezien": "2026-11-24T18:21:12.572080+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 19:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108699869/nog-altijd-geen-groen-licht-voor-nieuwbouw-van-school-zesgehuchten-wijkplannen-schuiven-door.html": {
    "titel": "Nog altijd geen groen licht voor nieuwbouw van school Zesgehuchten, wijkplannen schuiven door",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108699869/nog-altijd-geen-groen-licht-voor-nieuwbouw-van-school-zesgehuchten-wijkplannen-schuiven-door.html",
@@ -4765,38 +4782,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108698400/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment.html": {
-   "titel": "Stroomstoring op Brouwhuissedijk in Helmond op dit moment",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698400/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment.html",
-   "tekst": "",
-   "datum": "2026-11-24T14:31:03+00:00",
-   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108698281/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html": {
-   "titel": "Lierops bedrijf krijgt verwijt van `ernstige nalatigheid` na dodelijke val schilder van palletwagen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698281/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html",
-   "tekst": "",
-   "datum": "2026-11-24T14:13:25+00:00",
-   "eerst_gezien": "2026-11-24T14:19:29.267343+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5404,7 +5389,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 18:54"
@@ -5782,6 +5767,38 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 07:24"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698400/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment.html": {
+   "titel": "Stroomstoring op Brouwhuissedijk in Helmond op dit moment",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698400/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment.html",
+   "tekst": "",
+   "datum": "2026-11-24T14:31:03+00:00",
+   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698281/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html": {
+   "titel": "Lierops bedrijf krijgt verwijt van `ernstige nalatigheid` na dodelijke val schilder van palletwagen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698281/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html",
+   "tekst": "",
+   "datum": "2026-11-24T14:13:25+00:00",
+   "eerst_gezien": "2026-11-24T14:19:29.267343+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126071936a2helmondrit140112": {
    "titel": "A2 Helmond Rit: 140112",
@@ -18721,29 +18738,12 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html": {
-   "titel": "Eindhovenaar verdacht van verkoop gestolen spullen met 2 miljoen aan opbrengst",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108628590/eindhovenaar-verdacht-van-verkoop-gestolen-spullen-met-2-miljoen-aan-opbrengst.html",
-   "tekst": "",
-   "datum": "2026-11-17T18:13:05+00:00",
-   "eerst_gezien": "2026-11-17T18:18:31.203049+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 19:13"
   }
  },
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Peelbelang": {
