@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 15:20",
+ "bijgewerkt": "24-11-2026 15:36",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
@@ -510,23 +510,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64708/sinterklaas-komt-naar-sint-jozefparochie": {
-   "titel": "Sinterklaas komt naar Sint Jozefparochie",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64708/sinterklaas-komt-naar-sint-jozefparochie",
-   "tekst": "SINT JOZEFPAROCHIE - Sinterklaas brengt zondag 22 november een bezoek aan Sint Jozefparochie. Samen met zijn Pieten maakt hij zijn intocht in de wijk. In gemeenschapshuis het Hofke van Marijke vindt van 15.15 tot 16.45 uur een feestelijk programma plaats.",
-   "datum": "2026-11-17T15:30:00+01:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 15:30"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64872/in-beeld-feestelijke-prijsuitreiking-ondernemer-van-het-jaar-2026": {
    "titel": "In beeld: feestelijke prijsuitreiking Ondernemer van het Jaar 2026",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64872/in-beeld-feestelijke-prijsuitreiking-ondernemer-van-het-jaar-2026",
@@ -799,20 +782,36 @@
    "prio": false,
    "tijd": "18-11 10:11"
   },
-  "https://www.ed.nl/someren/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen~a18cd145/": {
-   "titel": "Lierops bedrijf krijgt verwijt van ‘ernstige nalatigheid’ na dodelijke val schilder van palletwagen",
-   "link": "https://www.ed.nl/someren/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen~a18cd145/",
-   "tekst": "Een dodelijke val in Lierop tijdens schuren en schilderen van een container komt Rutom Cargo mogelijk op een boete van een ton te staan. Het OM verwijt het transportbedrijf ernstige nalatigheid.",
-   "datum": "2026-11-24T14:00:00+00:00",
-   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
+  "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/": {
+   "titel": "Stroomstoring op Brouwhuissedijk in Helmond op dit moment",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/",
+   "tekst": "In Helmond zijn op dit moment enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brouwhuissedijk zonder stroom.",
+   "datum": "2026-11-24T14:26:42+00:00",
+   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
-    "Helmond",
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 15:26"
+  },
+  "https://www.ed.nl/someren/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat~a18cd145/": {
+   "titel": "Werknemer viel van pallet op ruim 2 meter hoogte en stierf ter plekke: bedrijf uit Lierop ontkent dat het fout zat",
+   "link": "https://www.ed.nl/someren/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat~a18cd145/",
+   "tekst": "Een dodelijke val in Lierop tijdens schuren en schilderen van een container komt Rutom Cargo mogelijk op een boete van een ton te staan. Het OM verwijt het transportbedrijf ernstige nalatigheid.",
+   "datum": "2026-11-24T14:00:00+00:00",
+   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
     "Someren"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:00"
@@ -901,23 +900,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:40"
-  },
-  "https://www.ed.nl/helmond/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond~ace664e3/": {
-   "titel": "Voorstelling Circle of Life van The Diamond Baritones komt naar Helmond",
-   "link": "https://www.ed.nl/helmond/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond~ace664e3/",
-   "tekst": "The Diamond Baritones treden met de voorstelling Circle of Life op in Theater het Speelhuis in Helmond. Zondag 20 december begint de show om 15.00 uur in de theaterzaal en eindigt naar verwachting om 17.00 uur.",
-   "datum": "2026-11-23T15:05:15+00:00",
-   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 16:05"
   },
   "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/": {
    "titel": "Kinderen geven in Vlierden startsein voor jubileumproject op Sint Willibrorduskerk",
@@ -2058,7 +2040,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:19"
@@ -2660,40 +2642,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 15:39"
-  },
-  "https://www.asten.nl/nieuws/artikel/grip-wagen-in-asten-2": {
-   "titel": "GRIP wagen in Asten",
-   "link": "https://www.asten.nl/nieuws/artikel/grip-wagen-in-asten-2",
-   "tekst": "Deze week is de GRIP-wagen in Asten en Heusden. Volgende week in Ommel.",
-   "datum": "2026-11-17T14:34:32+00:00",
-   "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
-   "bron": "Gemeente Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 15:34"
-  },
-  "https://www.asten.nl/nieuws/artikel/iets-melden-over-uw-woon-en-leefomgeving-gaat-nog-makkelijker": {
-   "titel": "Iets melden over uw woon- en leefomgeving gaat nog makkelijker",
-   "link": "https://www.asten.nl/nieuws/artikel/iets-melden-over-uw-woon-en-leefomgeving-gaat-nog-makkelijker",
-   "tekst": "Download gratis de BuitenBeterApp en zie of iets al gemeld is en wat de status is.",
-   "datum": "2026-11-17T14:29:34+00:00",
-   "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
-   "bron": "Gemeente Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 15:29"
   },
   "https://www.someren.nl/nieuws/artikel/oog-voor-signalen-van-criminaliteit-onder-jongeren": {
    "titel": "Oog voor signalen van criminaliteit onder jongeren",
@@ -4593,6 +4541,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698400/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment.html": {
+   "titel": "Stroomstoring op Brouwhuissedijk in Helmond op dit moment",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698400/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment.html",
+   "tekst": "",
+   "datum": "2026-11-24T14:31:03+00:00",
+   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108698281/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html": {
    "titel": "Lierops bedrijf krijgt verwijt van `ernstige nalatigheid` na dodelijke val schilder van palletwagen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108698281/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html",
@@ -4605,7 +4569,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4813,22 +4777,6 @@
   "https://drimble.nl/regio/noord-brabant/helmond/108696684/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond.html": {
    "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696684/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:43:20+00:00",
-   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696683/hoe-mensen-met-dementie-toch-vrij-kunnen-bewegen-het-kompas-wijst-altijd-de-weg-naar-huis.html": {
-   "titel": "Hoe mensen met dementie toch vrij kunnen bewegen: Het Kompas wijst altijd de weg naar huis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696683/hoe-mensen-met-dementie-toch-vrij-kunnen-bewegen-het-kompas-wijst-altijd-de-weg-naar-huis.html",
    "tekst": "",
    "datum": "2026-11-24T10:43:20+00:00",
    "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
@@ -5481,6 +5429,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126153303a1helmondrit140341": {
+   "titel": "A1 Helmond Rit: 140341",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126153303a1helmondrit140341",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-24T15:33:03+01:00",
+   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "24-11 15:33"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126144822a2helmondrit140320": {
    "titel": "A2 Helmond Rit: 140320",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126144822a2helmondrit140320",
@@ -5820,6 +5785,57 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 22:27"
+  },
+  "https://www.ed.nl/someren/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen~a18cd145/": {
+   "titel": "Lierops bedrijf krijgt verwijt van ‘ernstige nalatigheid’ na dodelijke val schilder van palletwagen",
+   "link": "https://www.ed.nl/someren/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen~a18cd145/",
+   "tekst": "Een dodelijke val in Lierop tijdens schuren en schilderen van een container komt Rutom Cargo mogelijk op een boete van een ton te staan. Het OM verwijt het transportbedrijf ernstige nalatigheid.",
+   "datum": "2026-11-24T14:00:00+00:00",
+   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 15:00"
+  },
+  "https://www.ed.nl/helmond/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond~ace664e3/": {
+   "titel": "Voorstelling Circle of Life van The Diamond Baritones komt naar Helmond",
+   "link": "https://www.ed.nl/helmond/voorstelling-circle-of-life-van-the-diamond-baritones-komt-naar-helmond~ace664e3/",
+   "tekst": "The Diamond Baritones treden met de voorstelling Circle of Life op in Theater het Speelhuis in Helmond. Zondag 20 december begint de show om 15.00 uur in de theaterzaal en eindigt naar verwachting om 17.00 uur.",
+   "datum": "2026-11-23T15:05:15+00:00",
+   "eerst_gezien": "2026-11-23T15:21:42.973372+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:05"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696683/hoe-mensen-met-dementie-toch-vrij-kunnen-bewegen-het-kompas-wijst-altijd-de-weg-naar-huis.html": {
+   "titel": "Hoe mensen met dementie toch vrij kunnen bewegen: Het Kompas wijst altijd de weg naar huis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696683/hoe-mensen-met-dementie-toch-vrij-kunnen-bewegen-het-kompas-wijst-altijd-de-weg-naar-huis.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:43:20+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108698196/lierops-bedrijf-krijgt-verwijt-van-ernstige-nalatigheid-na-dodelijke-val-schilder-van-palletwagen.html": {
    "titel": "Lierops bedrijf krijgt verwijt van `ernstige nalatigheid` na dodelijke val schilder van palletwagen",
@@ -17891,23 +17907,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-opgelost~a178219b/": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond opgelost",
-   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-opgelost~a178219b/",
-   "tekst": "In Helmond zijn dinsdag enkele tientallen huishoudens getroffen door een stroomstoring. Als gevolg hiervan zat de Brahmslaan bijna drie uur zonder stroom.",
-   "datum": "2026-11-17T14:26:49+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 15:26"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html": {
    "titel": "Graaien maar: tiendaagse pop-up met verloren pakketten komt naar Eindhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html",
@@ -18549,7 +18548,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 17:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627768/nieuwe-namen-maestro-veldhoven-bekend.html": {
    "titel": "Nieuwe namen Maestro Veldhoven bekend",
@@ -18731,22 +18731,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626747/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang.html",
-   "tekst": "",
-   "datum": "2026-11-17T14:31:03+00:00",
-   "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
@@ -18779,23 +18763,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 16:00"
-  },
-  "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/": {
-   "titel": "Stroomstoring op Brahmslaan in Helmond aan de gang",
-   "link": "https://www.ed.nl/helmond/stroomstoring-op-brahmslaan-in-helmond-aan-de-gang~a178219b/",
-   "tekst": "In Helmond zijn momenteel enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brahmslaan al ruim een uur zonder stroom.",
-   "datum": "2026-11-17T14:26:49+00:00",
-   "eerst_gezien": "2026-11-17T14:29:34.161659+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 15:26"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
@@ -18834,7 +18801,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 30,
    "fout": ""
   },
   "Peelbelang": {
@@ -18904,7 +18871,7 @@
   },
   "Gemeente Asten": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 4,
    "fout": ""
   },
   "Gemeente Someren": {
@@ -18954,7 +18921,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
