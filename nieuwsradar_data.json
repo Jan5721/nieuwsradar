@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 16:07",
+ "bijgewerkt": "24-11-2026 16:24",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:58"
@@ -811,24 +811,24 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 16:00"
   },
-  "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/": {
-   "titel": "Stroomstoring op Brouwhuissedijk in Helmond op dit moment",
-   "link": "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/",
-   "tekst": "In Helmond zijn op dit moment enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brouwhuissedijk zonder stroom.",
+  "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost~af7d26d3/": {
+   "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost~af7d26d3/",
+   "tekst": "In Helmond zijn dinsdag enkele tientallen huishoudens getroffen door een stroomstoring. Als gevolg hiervan zat de Brouwhuissedijk bijna een half uur zonder stroom.",
    "datum": "2026-11-24T14:26:42+00:00",
-   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:26"
@@ -1460,7 +1460,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 16:07"
@@ -1596,7 +1596,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 16:07"
@@ -4626,12 +4626,28 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108698680/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html": {
-   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698680/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html": {
+   "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698862/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost.html",
    "tekst": "",
-   "datum": "2026-11-24T15:01:05+00:00",
-   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "datum": "2026-11-24T15:19:03+00:00",
+   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698804/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html": {
+   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698804/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:13:25+00:00",
+   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4839,40 +4855,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696764/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html": {
-   "titel": "Tientallen beveiligers bij distributiecentrum in Eindhoven na blokkades in België",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696764/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:49:08+00:00",
-   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696761/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-voor-dubbele-moorden-in-lieshout-en-amsterdam.html": {
-   "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill voor dubbele moorden in Lieshout en Amsterdam",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696761/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-voor-dubbele-moorden-in-lieshout-en-amsterdam.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:49:08+00:00",
-   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -5513,6 +5495,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126161151a2helmondrit140360": {
+   "titel": "A2 Helmond Rit: 140360",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126161151a2helmondrit140360",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T16:11:51+01:00",
+   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 16:11"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126161023a1somerenrit140359": {
+   "titel": "A1 Someren Rit: 140359",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126161023a1somerenrit140359",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T16:10:23+01:00",
+   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "24-11 16:10"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126160610a1somerenrit140357": {
    "titel": "A1 Someren Rit: 140357",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126160610a1somerenrit140357",
@@ -5525,7 +5541,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 16:06"
@@ -5886,6 +5902,73 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 00:09"
+  },
+  "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/": {
+   "titel": "Stroomstoring op Brouwhuissedijk in Helmond op dit moment",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/",
+   "tekst": "In Helmond zijn op dit moment enkele tientallen huishoudens getroffen door een stroomstoring. Hierdoor zit de Brouwhuissedijk zonder stroom.",
+   "datum": "2026-11-24T14:26:42+00:00",
+   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 15:26"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698680/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html": {
+   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698680/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:01:05+00:00",
+   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696764/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html": {
+   "titel": "Tientallen beveiligers bij distributiecentrum in Eindhoven na blokkades in België",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696764/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:49:08+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696761/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-voor-dubbele-moorden-in-lieshout-en-amsterdam.html": {
+   "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill voor dubbele moorden in Lieshout en Amsterdam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696761/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-voor-dubbele-moorden-in-lieshout-en-amsterdam.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:49:08+00:00",
+   "eerst_gezien": "2026-11-24T10:51:16.294013+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:49"
   },
   "https://www.omroepbrabant.nl/nieuws/6034762/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-acht": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond kwart over acht",
@@ -17683,23 +17766,6 @@
    "prio": false,
    "tijd": "18-11 11:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627164/markante-deurnese-villa-zit-straks-vol-senioren.html": {
-   "titel": "Markante Deurnese villa zit straks vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627164/markante-deurnese-villa-zit-straks-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:13:05+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
@@ -18737,87 +18803,6 @@
    "prio": false,
    "tijd": "17-11 18:43"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627163/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html": {
-   "titel": "Klapstuk van jubileumjaar Böhmische Freunde: concert in drie muziekstijlen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627163/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:13:05+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627159/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:13:05+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html": {
-   "titel": "Markante Deurnese villa zit straks vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627114/markante-deurnese-villa-zit-straks-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html": {
-   "titel": "Klapstuk van jubileumjaar Böhmische Freunde: concert in drie muziekstijlen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627113/klapstuk-van-jubileumjaar-bohmische-freunde-concert-in-drie-muziekstijlen.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627111/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:07:21+00:00",
-   "eerst_gezien": "2026-11-17T15:18:24.288828+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
@@ -18954,7 +18939,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18974,7 +18959,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
