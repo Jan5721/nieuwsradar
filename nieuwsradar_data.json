@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 07:51",
+ "bijgewerkt": "24-11-2026 08:07",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -817,6 +817,23 @@
    "prio": false,
    "tijd": "17-11 09:07"
   },
+  "https://www.ed.nl/helmond/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde~abf7bd0b/": {
+   "titel": "Het blijft voorlopig bij één McDonald’s in Helmond: door stroomtekort geen Big Macs aan westzijde",
+   "link": "https://www.ed.nl/helmond/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde~abf7bd0b/",
+   "tekst": "De bezwaren van de buurt zijn verworpen, maar er komt voorlopig toch geen McDonald’s aan de Steenovenweg in Helmond. Er is nog steeds onvoldoende stroom beschikbaar op die plek om Big Macs en frites te bakken.",
+   "datum": "2026-11-24T07:00:00+00:00",
+   "eerst_gezien": "2026-11-24T07:07:10.598221+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 08:00"
+  },
   "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/": {
    "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
    "link": "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/",
@@ -919,23 +936,6 @@
    "prio": false,
    "tijd": "23-11 08:30"
   },
-  "https://www.ed.nl/eindhoven/treinverkeer-eindhoven-ontregeld-door-seinstoring~ae1fbb95/": {
-   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
-   "link": "https://www.ed.nl/eindhoven/treinverkeer-eindhoven-ontregeld-door-seinstoring~ae1fbb95/",
-   "tekst": "Treinen van en naar Eindhoven Centraal hadden tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor reden er tot ongeveer 08.45 uur geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen, aldus …",
-   "datum": "2026-11-23T06:28:00+00:00",
-   "eerst_gezien": "2026-11-23T06:30:08.813262+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 07:28"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
    "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
@@ -952,6 +952,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:27"
+  },
+  "https://www.ed.nl/eindhoven/treinverkeer-eindhoven-ontregeld-door-seinstoring~ae1fbb95/": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://www.ed.nl/eindhoven/treinverkeer-eindhoven-ontregeld-door-seinstoring~ae1fbb95/",
+   "tekst": "Treinen van en naar Eindhoven Centraal hadden tijdens de ochtendspits maandag te kampen met een seinstoring. Daardoor reden er tot ongeveer 08.45 uur geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen, aldus …",
+   "datum": "2026-11-23T06:28:00+00:00",
+   "eerst_gezien": "2026-11-23T06:30:08.813262+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 07:28"
   },
   "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
    "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘De kroeg in op zondagmiddag’",
@@ -986,23 +1003,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 20:30"
-  },
-  "https://www.ed.nl/asten/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter~a7e46d58/": {
-   "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
-   "link": "https://www.ed.nl/asten/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter~a7e46d58/",
-   "tekst": "Ramon Weren is de 57ste prins van carnavalsvereniging De Plekkers in Asten. Hij is 43 jaar oud en woont met zijn vrouw Elske en hun kinderen, Veerle en Dex, aan de Voordeldonk in Asten.",
-   "datum": "2026-11-22T17:32:38+00:00",
-   "eerst_gezien": "2026-11-22T17:38:33.710391+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 18:32"
   },
   "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/": {
    "titel": "Puur Sangh geeft jubileumconcert in Lierop",
@@ -1401,7 +1401,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035112/stroomstoring-treft-helmond-minder-dan-100-adressen": {
    "titel": "Stroomstoring treft Helmond: minder dan 100 adressen",
    "link": "https://www.omroepbrabant.nl/nieuws/6035112/stroomstoring-treft-helmond-minder-dan-100-adressen",
-   "tekst": "dinsdag De stroomstoring in Helmond is opgelost. Minder dan 100 adressen zaten sinds kwart voor twee vanmiddag zonder stroom. De storing werd verholpen om kwart voor vijf.",
+   "tekst": "17 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 100 adressen zaten sinds kwart voor twee vanmiddag zonder stroom. De storing werd verholpen om kwart voor vijf.",
    "datum": "2026-11-17T14:45:54.125468+00:00",
    "eerst_gezien": "2026-11-17T14:45:54.125468+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -2729,23 +2729,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 08:55"
-  },
-  "https://www.someren.nl/nieuws/artikel/someren-kleurt-oranje-tegen-geweld-tegen-vrouwen": {
-   "titel": "Someren kleurt oranje tegen geweld tegen vrouwen",
-   "link": "https://www.someren.nl/nieuws/artikel/someren-kleurt-oranje-tegen-geweld-tegen-vrouwen",
-   "tekst": "Op woensdag 25 november start in Someren de jaarlijkse campagne Orange the World. Met deze wereldwijde actie wordt aandacht gevraagd voor geweld tegen vrouwen en meisjes. De campagne loopt van 25 november, de Internationale Dag tegen Geweld tegen Vrouwen, tot 10 december, de …",
-   "datum": "2026-11-17T07:04:09+00:00",
-   "eerst_gezien": "2026-11-17T08:01:21.527676+00:00",
-   "bron": "Gemeente Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 08:04"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-539809.html": {
    "titel": "Aanvraag vergunning voor het plaatsen van een airco aan van Diemenstraat 36 te Helmond",
@@ -4611,6 +4594,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695162/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html": {
+   "titel": "Het blijft voorlopig bij één McDonald`s in Helmond: door stroomtekort geen Big Macs aan westzijde",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695162/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:04:20+00:00",
+   "eerst_gezien": "2026-11-24T07:07:10.598221+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695140/walter-65-en-monique-59-weigeren-hun-waardigheid-in-te-leveren-voor-een-huis-het-is-de-gemeente-die-ons-dakloos-maakt.html": {
+   "titel": "Walter (65) en Monique (59) weigeren hun waardigheid in te leveren voor een huis: `Het is de gemeente die ons dakloos maakt`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695140/walter-65-en-monique-59-weigeren-hun-waardigheid-in-te-leveren-voor-een-huis-het-is-de-gemeente-die-ons-dakloos-maakt.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:01:05+00:00",
+   "eerst_gezien": "2026-11-24T07:07:10.598221+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 08:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108695090/opnieuw-vluchten-geannuleerd-op-eindhoven-airport-ondanks-verdwijnen-dichte-mist.html": {
    "titel": "Opnieuw vluchten geannuleerd op Eindhoven Airport, ondanks verdwijnen dichte mist",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108695090/opnieuw-vluchten-geannuleerd-op-eindhoven-airport-ondanks-verdwijnen-dichte-mist.html",
@@ -4623,7 +4639,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 07:49"
@@ -4841,55 +4857,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 21:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108690373/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren.html": {
-   "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690373/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren.html",
-   "tekst": "",
-   "datum": "2026-11-23T20:49:06+00:00",
-   "eerst_gezien": "2026-11-23T20:59:51.461985+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108690356/de-paradox-van-psv-in-madrid-hoe-peter-bosz-risico-en-zekerheid-moet-combineren-voor-een-stunt-tegen-real.html": {
-   "titel": "De paradox van PSV in Madrid: hoe Peter Bosz risico én zekerheid moet combineren voor een stunt tegen Real",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690356/de-paradox-van-psv-in-madrid-hoe-peter-bosz-risico-en-zekerheid-moet-combineren-voor-een-stunt-tegen-real.html",
-   "tekst": "",
-   "datum": "2026-11-23T20:43:24+00:00",
-   "eerst_gezien": "2026-11-23T20:43:39.389668+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108690312/man-slaat-fles-kapot-op-station-eindhoven-en-wordt-opgepakt.html": {
-   "titel": "Man slaat fles kapot op station Eindhoven en wordt opgepakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690312/man-slaat-fles-kapot-op-station-eindhoven-en-wordt-opgepakt.html",
-   "tekst": "",
-   "datum": "2026-11-23T20:31:03+00:00",
-   "eerst_gezien": "2026-11-23T20:43:39.389668+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 21:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108691807/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school.html": {
    "titel": "Schoolbrand raakt kinderen hard: ´Ik had het heel leuk op school´",
@@ -5870,6 +5837,72 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 10:00"
+  },
+  "https://www.ed.nl/asten/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter~a7e46d58/": {
+   "titel": "De Plekkers hebben een zingende prins: Ramon Weren zwaait de scepter",
+   "link": "https://www.ed.nl/asten/de-plekkers-hebben-een-zingende-prins-ramon-weren-zwaait-de-scepter~a7e46d58/",
+   "tekst": "Ramon Weren is de 57ste prins van carnavalsvereniging De Plekkers in Asten. Hij is 43 jaar oud en woont met zijn vrouw Elske en hun kinderen, Veerle en Dex, aan de Voordeldonk in Asten.",
+   "datum": "2026-11-22T17:32:38+00:00",
+   "eerst_gezien": "2026-11-22T17:38:33.710391+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 18:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108690373/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren.html": {
+   "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690373/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren.html",
+   "tekst": "",
+   "datum": "2026-11-23T20:49:06+00:00",
+   "eerst_gezien": "2026-11-23T20:59:51.461985+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108690356/de-paradox-van-psv-in-madrid-hoe-peter-bosz-risico-en-zekerheid-moet-combineren-voor-een-stunt-tegen-real.html": {
+   "titel": "De paradox van PSV in Madrid: hoe Peter Bosz risico én zekerheid moet combineren voor een stunt tegen Real",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690356/de-paradox-van-psv-in-madrid-hoe-peter-bosz-risico-en-zekerheid-moet-combineren-voor-een-stunt-tegen-real.html",
+   "tekst": "",
+   "datum": "2026-11-23T20:43:24+00:00",
+   "eerst_gezien": "2026-11-23T20:43:39.389668+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108690312/man-slaat-fles-kapot-op-station-eindhoven-en-wordt-opgepakt.html": {
+   "titel": "Man slaat fles kapot op station Eindhoven en wordt opgepakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690312/man-slaat-fles-kapot-op-station-eindhoven-en-wordt-opgepakt.html",
+   "tekst": "",
+   "datum": "2026-11-23T20:31:03+00:00",
+   "eerst_gezien": "2026-11-23T20:43:39.389668+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 21:31"
   },
   "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven": {
    "titel": "Seinstoring zorgde urenlang voor problemen op spoor rond Eindhoven",
@@ -18413,7 +18446,7 @@
   },
   "Gemeente Someren": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "Bekendmakingen Helmond": {
@@ -18438,7 +18471,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
