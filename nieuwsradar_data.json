@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 11:19",
+ "bijgewerkt": "24-11-2026 11:35",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64857/trainers-taekwon-do-academy-chon-ji-slagen-voor-dangraadexamen": {
    "titel": "Trainers Taekwon-Do Academy Chon-Ji slagen voor dangraadexamen",
@@ -527,23 +527,6 @@
    "prio": false,
    "tijd": "17-11 13:14"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd": {
-   "titel": "Lezing over vogeltrek bij De Ossenbeemd",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64710/lezing-over-vogeltrek-bij-de-ossenbeemd",
-   "tekst": "DEURNE - Vogelwerkgroep De Kulert houdt maandag 23 november een lezing over vogeltrek bij De Ossenbeemd in Deurne. Gastspreker Gerard Compiet vertelt van 20.00 tot 22.00 uur over de jaarlijkse verplaatsingen van vogels. De inloop begint om 19.45 uur.",
-   "datum": "2026-11-17T11:25:00+01:00",
-   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 11:25"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64839/herfstbockconcert-trekt-opnieuw-volle-zaal-dak-ging-eraf": {
    "titel": "Herfstbockconcert trekt opnieuw volle zaal: ‘Dak ging eraf’",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64839/herfstbockconcert-trekt-opnieuw-volle-zaal-dak-ging-eraf",
@@ -799,6 +782,23 @@
    "prio": false,
    "tijd": "17-11 13:34"
   },
+  "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/": {
+   "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
+   "link": "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/",
+   "tekst": "Kelly Boermans geeft in Helmond een gratis lezing over testamenten, levenstestamenten en keuzes rond nalatenschap. Maandag 30 november is de bijeenkomst om 13.00 uur in Zalencentrum de Smed aan de St. Trudostraat 40.",
+   "datum": "2026-11-24T10:25:42+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:25"
+  },
   "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/": {
    "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
    "link": "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/",
@@ -1033,7 +1033,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:19"
@@ -1396,6 +1396,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 15:45"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie": {
+   "titel": "Stroomstoring in Helmond: herstel verwacht rond half drie",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie",
+   "tekst": "17 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds half elf vanochtend zonder stroom. De storing duurde tot elf uur zevenenveertig.",
+   "datum": "2026-11-24T10:35:18.745886+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:35"
   },
   "https://www.omroepbrabant.nl/nieuws/6034845/twee-autos-zwaar-beschadigd-bij-botsing-in-helmond": {
    "titel": "Twee auto’s zwaar beschadigd bij botsing in Helmond",
@@ -2218,22 +2235,22 @@
    "prio": false,
    "tijd": "17-11 12:47"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos": {
-   "titel": "Bomen gekapt op Boksenberg voor sterker bos",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035042/bomen-gekapt-op-boksenberg-voor-sterker-bos",
-   "tekst": "17 november 2026 Op de Boksenberg zijn afgelopen winter bomen gekapt. Hierdoor zijn open plekken ontstaan waar nieuwe bomen, struiken en planten kunnen groeien. De natuur krijgt deels de kans om zichzelf te herstellen, terwijl op andere …",
-   "datum": "2026-11-17T10:26:38.889108+00:00",
-   "eerst_gezien": "2026-11-17T10:26:38.889108+00:00",
+  "https://www.omroepbrabant.nl/nieuws/6035041/someren-start-campagne-tegen-geweld-tegen-vrouwen": {
+   "titel": "Someren start campagne tegen geweld tegen vrouwen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035041/someren-start-campagne-tegen-geweld-tegen-vrouwen",
+   "tekst": "17 november 2026 Someren doet mee aan de campagne Orange the World. Burgemeester Dilia Blok en wethouder Daniël van Schijndel hijsen op woensdag 25 november een speciale vlag bij het gemeentehuis. De campagne vraagt aandacht voor geweld …",
+   "datum": "2026-11-24T10:35:18.745886+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
    "bron": "Omroep Brabant lokaal Someren",
    "gemeenten": [
     "Someren"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "17-11 11:26"
+   "tijd": "24-11 11:35"
   },
   "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind": {
    "titel": "Sinterklaas arriveert per boot in Someren-Eind",
@@ -4507,6 +4524,73 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696597/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond.html": {
+   "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696597/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:31:03+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696522/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html": {
+   "titel": "Tientallen beveiligers bij distributiecentrum in Eindhoven na blokkades in België",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696522/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:19:03+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696520/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html": {
+   "titel": "Eerste sneeuwvlokken van dit winterseizoen gevallen in Brabant, later op de dag kans op natte sneeuw",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696520/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:19:03+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696518/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html": {
+   "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill na dubbele moorden Lieshout en Amsterdam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696518/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:19:03+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108696485/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html": {
    "titel": "Brugklassers Sondervick College lopen bijna 4000 euro bij elkaar voor Vekemansfonds",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696485/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html",
@@ -4519,7 +4603,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:13"
@@ -4536,10 +4620,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696482/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html": {
    "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill na dubbele moorden Lieshout en Amsterdam",
@@ -4553,10 +4636,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696365/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html": {
    "titel": "Brugklassers Sondervick College lopen bijna 4000 euro bij elkaar voor Vekemansfonds",
@@ -4740,73 +4822,6 @@
    "prio": false,
    "tijd": "24-11 09:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695627/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html": {
-   "titel": "Stroomhuis opent na grote brand pas in 2029 op de nieuwe locatie in Woensel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695627/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html",
-   "tekst": "",
-   "datum": "2026-11-24T08:25:11+00:00",
-   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 09:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695625/steekpartij-in-eindhoven-slachtoffer-gewond.html": {
-   "titel": "Steekpar­tij in Eindhoven, slachtof­fer gewond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695625/steekpartij-in-eindhoven-slachtoffer-gewond.html",
-   "tekst": "",
-   "datum": "2026-11-24T08:25:11+00:00",
-   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 09:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695593/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html": {
-   "titel": "Stroomhuis opent na grote brand pas in 2029 op de nieuwe locatie in Woensel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695593/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html",
-   "tekst": "",
-   "datum": "2026-11-24T08:19:07+00:00",
-   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695591/steekpartij-op-de-grote-beek-in-eindhoven-slachtoffer-gewond.html": {
-   "titel": "Steekpartij op de Grote Beek in Eindhoven, slachtoffer gewond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695591/steekpartij-op-de-grote-beek-in-eindhoven-slachtoffer-gewond.html",
-   "tekst": "",
-   "datum": "2026-11-24T08:19:07+00:00",
-   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 09:19"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html",
@@ -4819,7 +4834,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:18"
@@ -5429,6 +5444,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126113302a1deurnerit140246": {
+   "titel": "A1 Deurne Rit: 140246",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126113302a1deurnerit140246",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T11:33:02+01:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "24-11 11:33"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102851a2helmondrit140214": {
    "titel": "A2 Helmond Rit: 140214",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102851a2helmondrit140214",
@@ -5836,6 +5868,73 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 15:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695627/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html": {
+   "titel": "Stroomhuis opent na grote brand pas in 2029 op de nieuwe locatie in Woensel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695627/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:25:11+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695625/steekpartij-in-eindhoven-slachtoffer-gewond.html": {
+   "titel": "Steekpar­tij in Eindhoven, slachtof­fer gewond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695625/steekpartij-in-eindhoven-slachtoffer-gewond.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:25:11+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695593/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html": {
+   "titel": "Stroomhuis opent na grote brand pas in 2029 op de nieuwe locatie in Woensel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695593/stroomhuis-opent-na-grote-brand-pas-in-2029-op-de-nieuwe-locatie-in-woensel.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:19:07+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695591/steekpartij-op-de-grote-beek-in-eindhoven-slachtoffer-gewond.html": {
+   "titel": "Steekpartij op de Grote Beek in Eindhoven, slachtoffer gewond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695591/steekpartij-op-de-grote-beek-in-eindhoven-slachtoffer-gewond.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:19:07+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:19"
   },
   "https://www.ed.nl/helmond/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat~afea1dc2/": {
    "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
@@ -18685,7 +18784,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 31,
    "fout": ""
   },
   "Peelbelang": {
@@ -18700,7 +18799,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 7,
    "fout": ""
   },
   "ED Deurne": {
@@ -18725,7 +18824,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18805,7 +18904,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
