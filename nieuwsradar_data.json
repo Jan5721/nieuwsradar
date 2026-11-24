@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 06:15",
+ "bijgewerkt": "24-11-2026 06:31",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -1085,7 +1085,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 06:15"
@@ -17081,23 +17081,6 @@
    "prio": false,
    "tijd": "17-11 10:17"
   },
-  "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/": {
-   "titel": "Intocht van Sinterklaas leidt tot opmerkelijke gang van zaken in Helmond: wethouder helpt mee zichzelf raadsvragen te stellen",
-   "link": "https://www.ed.nl/helmond/intocht-van-sinterklaas-leidt-tot-opmerkelijke-gang-van-zaken-in-helmond-wethouder-helpt-mee-zichzelf-raadsvragen-te-stellen~a9261b29/",
-   "tekst": "De landelijke intocht van Sinterklaas leidt tot een politiek opmerkelijke gang van zaken in Helmond. Cultuurwethouder Martijn Rieter heeft zelf bijgedragen aan zes raadsvragen namens zijn partij Helder Helmond. Die moet hij dus binnen enkele weken zelf ook beantwoorden.",
-   "datum": "2026-11-17T05:30:00+00:00",
-   "eerst_gezien": "2026-11-17T06:24:36.344556+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 06:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
    "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
@@ -17226,7 +17209,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 23:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108630842/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek.html": {
    "titel": "Wendy en Youri (19) nemen slagerij over: ´Vrienden vinden ons gek´",
@@ -18346,7 +18330,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 06:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html": {
    "titel": "Junioravond in Geldrop staat in het teken van reuzenplaneten",
@@ -18397,23 +18382,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/helmond/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond~a9261b29/": {
-   "titel": "Wethouder Rieter helpt mee zichzelf raadsvragen te stellen over gewenste landelijke intocht van Sint in Helmond",
-   "link": "https://www.ed.nl/helmond/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond~a9261b29/",
-   "tekst": "De landelijke intocht van Sinterklaas leidt tot een politiek opmerkelijke gang van zaken in Helmond. Cultuurwethouder Martijn Rieter heeft zelf bijgedragen aan zes raadsvragen namens zijn partij Helder Helmond. Die moet hij dus binnen enkele weken zelf ook beantwoorden.",
-   "datum": "2026-11-17T05:30:24+00:00",
-   "eerst_gezien": "2026-11-17T05:35:51.337503+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 06:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108622682/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond.html": {
    "titel": "Wethouder Rieter helpt mee zichzelf raadsvragen te stellen over gewenste landelijke intocht van Sint in Helmond",
