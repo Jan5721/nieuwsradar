@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 00:12",
+ "bijgewerkt": "25-11-2026 00:29",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -4621,7 +4621,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5444,6 +5444,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126001754a2lieroprit140501": {
+   "titel": "A2 Lierop Rit: 140501",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126001754a2lieroprit140501",
+   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T00:17:54+01:00",
+   "eerst_gezien": "2026-11-24T23:28:30.445867+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 00:17"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126000549a1helmondrit140496": {
    "titel": "A1 Helmond Rit: 140496",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126000549a1helmondrit140496",
@@ -5456,7 +5473,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 00:05"
