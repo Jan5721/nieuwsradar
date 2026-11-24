@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 10:48",
+ "bijgewerkt": "24-11-2026 11:04",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64857/trainers-taekwon-do-academy-chon-ji-slagen-voor-dangraadexamen": {
    "titel": "Trainers Taekwon-Do Academy Chon-Ji slagen voor dangraadexamen",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 10:45"
@@ -4609,6 +4609,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696365/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html": {
+   "titel": "Brugklassers Sondervick College lopen bijna 4000 euro bij elkaar voor Vekemansfonds",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696365/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:01:05+00:00",
+   "eerst_gezien": "2026-11-24T10:03:28.872127+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696302/steekpartij-bij-ggze-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html": {
+   "titel": "Steekpartij bij GGzE in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696302/steekpartij-bij-ggze-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:49:07+00:00",
+   "eerst_gezien": "2026-11-24T10:03:28.872127+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 10:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108696190/steekpartij-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html": {
    "titel": "Steekpartij in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696190/steekpartij-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html",
@@ -4621,7 +4655,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 10:31"
@@ -4857,23 +4891,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108695393/nieuw-stroomhuis-opent-pas-in-2029-gemeente-vraagt-verzekeraar-om-uitstel.html": {
-   "titel": "Nieuw Stroomhuis opent pas in 2029, gemeente vraagt verzekeraar om uitstel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695393/nieuw-stroomhuis-opent-pas-in-2029-gemeente-vraagt-verzekeraar-om-uitstel.html",
-   "tekst": "",
-   "datum": "2026-11-24T07:49:06+00:00",
-   "eerst_gezien": "2026-11-24T07:55:02.739141+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 08:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108691909/fiod-houdt-opnieuw-verdachten-aan-voor-vervalste-inkoopfacturen-katalysatoren.html": {
    "titel": "FIOD houdt opnieuw verdachten aan voor vervalste inkoopfacturen katalysatoren",
@@ -5166,8 +5183,7 @@
    "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
    "bron": "Drimble Asten",
    "gemeenten": [
-    "Asten",
-    "Someren"
+    "Asten"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5330,6 +5346,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696322/dief-maakt-voor-meer-dan-2500-euro-aan-spullen-buit-in-somerense-kruidvat-politie-deelt-beelden.html": {
+   "titel": "Dief maakt voor meer dan 2.500 euro aan spullen buit in Somerense Kruidvat, politie deelt beelden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696322/dief-maakt-voor-meer-dan-2500-euro-aan-spullen-buit-in-somerense-kruidvat-politie-deelt-beelden.html",
+   "tekst": "Een dief heeft in mei dit jaar voor 2.545 euro aan cosmetica-artikelen gestolen bij de Kruidvat in Someren. De politie is een half...",
+   "datum": "2026-11-24T09:53:03+00:00",
+   "eerst_gezien": "2026-11-24T10:03:28.872127+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 10:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108695420/someren-schrikt-wakker-na-media-aandacht-varkensboerderij-verzoek-wordt-zo-spoedig-mogelijk-behandeld.html": {
    "titel": "Someren schrikt wakker na media-aandacht varkensboerderij: ‘Verzoek wordt zo spoedig mogelijk behandeld’",
@@ -5887,6 +5920,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 15:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695393/nieuw-stroomhuis-opent-pas-in-2029-gemeente-vraagt-verzekeraar-om-uitstel.html": {
+   "titel": "Nieuw Stroomhuis opent pas in 2029, gemeente vraagt verzekeraar om uitstel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695393/nieuw-stroomhuis-opent-pas-in-2029-gemeente-vraagt-verzekeraar-om-uitstel.html",
+   "tekst": "",
+   "datum": "2026-11-24T07:49:06+00:00",
+   "eerst_gezien": "2026-11-24T07:55:02.739141+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 08:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126142217a1helmondrit139876": {
    "titel": "A1 Helmond Rit: 139876",
@@ -18754,7 +18804,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18769,12 +18819,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
