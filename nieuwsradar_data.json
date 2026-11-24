@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 21:47",
+ "bijgewerkt": "24-11-2026 22:03",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1314,7 +1314,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
    "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
-   "tekst": "woensdag Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij.",
+   "tekst": "18 november 2026 Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij.",
    "datum": "2026-11-18T19:29:40.285438+00:00",
    "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -2591,6 +2591,74 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 21:16"
+  },
+  "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
+   "titel": "Brand basisschool Zeilberg",
+   "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
+   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
+   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
+   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
+   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
+   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
+   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
   },
   "https://www.asten.nl/nieuws/artikel/ontdek-museum-klok-peel": {
    "titel": "Ontdek Museum Klok & Peel",
@@ -4541,6 +4609,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108701088/live-psv-speelt-ijzersterk-tegen-real-madrid-kans-voor-mijnans-na-rake-penalty-perisic.html": {
+   "titel": "LIVE | PSV speelt ijzersterk tegen Real Madrid: kans voor Mijnans na rake penalty Perisic",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108701088/live-psv-speelt-ijzersterk-tegen-real-madrid-kans-voor-mijnans-na-rake-penalty-perisic.html",
+   "tekst": "",
+   "datum": "2026-11-24T20:49:09+00:00",
+   "eerst_gezien": "2026-11-24T21:03:24.023424+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 21:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108700998/live-penalty-voor-psv-na-een-overtreding-op-sven-mijnans.html": {
    "titel": "LIVE | Penalty voor PSV na een overtreding op Sven Mijnans!",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108700998/live-penalty-voor-psv-na-een-overtreding-op-sven-mijnans.html",
@@ -4553,7 +4638,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 21:31"
@@ -4708,39 +4793,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 18:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108699710/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html": {
-   "titel": "Spektakelstuk in Spanje: PSV Onder 19 speelt gelijk tegen Real Madrid na prachtgoals Bro Hansen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699710/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html",
-   "tekst": "",
-   "datum": "2026-11-24T17:01:07+00:00",
-   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 18:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108699635/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html": {
-   "titel": "Spektakelstuk in Spanje: PSV Onder-19 speelt gelijk tegen Real Madrid na prachtgoals Bro Hansen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699635/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html",
-   "tekst": "",
-   "datum": "2026-11-24T16:55:05+00:00",
-   "eerst_gezien": "2026-11-24T17:00:41.047590+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
    "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
@@ -5720,73 +5772,38 @@
    "prio": false,
    "tijd": "24-11 09:10"
   },
-  "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
-   "titel": "Brand basisschool Zeilberg",
-   "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
+  "https://drimble.nl/regio/noord-brabant/helmond/108699710/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html": {
+   "titel": "Spektakelstuk in Spanje: PSV Onder 19 speelt gelijk tegen Real Madrid na prachtgoals Bro Hansen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699710/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html",
    "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
-   "bron": "Gemeente Deurne",
+   "datum": "2026-11-24T17:01:07+00:00",
+   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
+   "bron": "Drimble Helmond",
    "gemeenten": [
-    "Deurne"
+    "Helmond"
    ],
-   "soort": "gemeente",
+   "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 01:00"
+   "tijd": "24-11 18:01"
   },
-  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
-   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
-   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
+  "https://drimble.nl/regio/noord-brabant/helmond/108699635/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html": {
+   "titel": "Spektakelstuk in Spanje: PSV Onder-19 speelt gelijk tegen Real Madrid na prachtgoals Bro Hansen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699635/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html",
    "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Gemeente Deurne",
+   "datum": "2026-11-24T16:55:05+00:00",
+   "eerst_gezien": "2026-11-24T17:00:41.047590+00:00",
+   "bron": "Drimble Helmond",
    "gemeenten": [
-    "Deurne"
+    "Helmond"
    ],
-   "soort": "gemeente",
+   "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
-   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
-   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
-   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
-   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108699604/live-slotfase-aangebroken-kan-psv-standhouden-en-de-3-3-in-madrid-over-de-streep-trekken.html": {
    "titel": "LIVE | Slotfase aangebroken: kan PSV standhouden en de 3-3 in Madrid over de streep trekken'",
@@ -18873,23 +18890,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108629463/rien-luijkx-klare-taal-bokaal-voor-mmc-arts-joost-janssen.html": {
-   "titel": "Rien Luijkx Klare Taal Bokaal voor MMC-arts Joost Janssen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108629463/rien-luijkx-klare-taal-bokaal-voor-mmc-arts-joost-janssen.html",
-   "tekst": "",
-   "datum": "2026-11-17T21:01:05+00:00",
-   "eerst_gezien": "2026-11-17T21:17:23.030804+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 22:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html": {
    "titel": "BouwInfraCampus in Mierlo op de schop",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html",
@@ -18974,9 +18974,9 @@
    "fout": ""
   },
   "Gemeente Deurne": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+   "ok": true,
+   "aantal": 4,
+   "fout": ""
   },
   "Gemeente Asten": {
    "ok": true,
@@ -19010,7 +19010,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "Drimble Deurne": {
