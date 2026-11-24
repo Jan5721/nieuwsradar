@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 14:00",
+ "bijgewerkt": "24-11-2026 14:16",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
@@ -1021,6 +1021,23 @@
    "prio": false,
    "tijd": "24-11 07:32"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
+   "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
+   "tekst": "Ouders en kinderen zijn maandagochtend bijgepraat over de gevolgen van de brand in basisschool De Zeilberg in Deurne. Zo'n 500 gedupeerden kwamen naar Sociaal Cultureel Centrum Den Draai om te horen wat er de komende tijd gaat gebeuren. Veel is er nog niet duidelijk. Wel staat …",
+   "datum": "2026-11-23T13:44:00+00:00",
+   "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 14:44"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035910/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-een": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond kwart over één",
    "link": "https://www.omroepbrabant.nl/nieuws/6035910/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-een",
@@ -1566,23 +1583,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:10"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
-   "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
-   "tekst": "Ouders en kinderen zijn maandagochtend bijgepraat over de gevolgen van de brand in basisschool De Zeilberg in Deurne. Zo'n 500 gedupeerden kwamen naar Sociaal Cultureel Centrum Den Draai om te horen wat er de komende tijd gaat gebeuren. …",
-   "datum": "2026-11-23T14:01:27.103064+00:00",
-   "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 15:01"
   },
   "https://www.omroepbrabant.nl/nieuws/6035833/deurne-verdeelt-subsidies-vanaf-2029-op-nieuwe-manier": {
    "titel": "Deurne verdeelt subsidies vanaf 2029 op nieuwe manier",
@@ -2575,6 +2575,40 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://www.asten.nl/nieuws/artikel/ontdek-museum-klok-peel": {
+   "titel": "Ontdek Museum Klok & Peel",
+   "link": "https://www.asten.nl/nieuws/artikel/ontdek-museum-klok-peel",
+   "tekst": "Gratis kaartjes voor gezinnen met een kleine portemonnee.",
+   "datum": "2026-11-24T13:02:55+00:00",
+   "eerst_gezien": "2026-11-24T13:15:59.187214+00:00",
+   "bron": "Gemeente Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 14:02"
+  },
+  "https://www.asten.nl/nieuws/artikel/kom-naar-het-gratis-energiespreekuur-bij-kluswijs-heusden": {
+   "titel": "Kom naar het gratis energiespreekuur bij KlusWijs Heusden",
+   "link": "https://www.asten.nl/nieuws/artikel/kom-naar-het-gratis-energiespreekuur-bij-kluswijs-heusden",
+   "tekst": "Laat € 1.800 niet liggen om te verduurzamen of energie te besparen.",
+   "datum": "2026-11-24T12:56:03+00:00",
+   "eerst_gezien": "2026-11-24T13:15:59.187214+00:00",
+   "bron": "Gemeente Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 13:56"
+  },
   "https://www.asten.nl/nieuws/artikel/licht-uit-tuinbouwkassen-lijkt-soms-feller-door-het-weer": {
    "titel": "Licht uit tuinbouwkassen lijkt soms feller door het weer",
    "link": "https://www.asten.nl/nieuws/artikel/licht-uit-tuinbouwkassen-lijkt-soms-feller-door-het-weer",
@@ -2587,7 +2621,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 13:46"
@@ -4541,6 +4575,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108697882/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html": {
+   "titel": "De Molen van Milheeze wordt tijdelijk een pietenhuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697882/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html",
+   "tekst": "",
+   "datum": "2026-11-24T13:13:25+00:00",
+   "eerst_gezien": "2026-11-24T13:15:59.187214+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 14:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108697705/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html": {
    "titel": "Eerste sneeuw van winterseizoen gevallen in Brabant",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108697705/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html",
@@ -4553,7 +4604,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 13:49"
@@ -4570,7 +4621,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 13:49"
@@ -4822,22 +4873,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696484/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html": {
-   "titel": "Eerste sneeuwvlokken van dit winterseizoen gevallen in Brabant, later op de dag kans op natte sneeuw",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696484/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:13:25+00:00",
-   "eerst_gezien": "2026-11-24T10:19:24.312645+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -5868,6 +5903,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 17:51"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696484/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html": {
+   "titel": "Eerste sneeuwvlokken van dit winterseizoen gevallen in Brabant, later op de dag kans op natte sneeuw",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696484/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:13:25+00:00",
+   "eerst_gezien": "2026-11-24T10:19:24.312645+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126165132a1helmondrit139946": {
    "titel": "A1 Helmond Rit: 139946",
@@ -8725,23 +8776,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:19"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126141524ongevalwegvervoerletselwillemprinzenpleinuiverla": {
-   "titel": "Ongeval wegvervoer letsel Willem Prinzenplein Uiverlaan Helmond",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126141524ongevalwegvervoerletselwillemprinzenpleinuiverla",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-22T14:15:24+01:00",
-   "eerst_gezien": "2026-11-22T13:21:47.692116+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 14:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108668625/kinderen-steken-vuurwerk-af-basisschool-deurne-fikt-af.html": {
    "titel": "Kinderen steken vuurwerk af, basisschool Deurne fikt af",
@@ -18612,23 +18646,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html": {
-   "titel": "Gemeenteraad buigt zich over volgende stap voor Begijnenhof, waar woontoren net onder de Catharinakerk uitkomt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626173/gemeenteraad-buigt-zich-over-volgende-stap-voor-begijnenhof-waar-woontoren-net-onder-de-catharinakerk-uitkomt.html",
-   "tekst": "",
-   "datum": "2026-11-17T13:13:10+00:00",
-   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
    "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
@@ -18644,40 +18661,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626166/jan-g-opnieuw-aangehouden-in-groot-onderzoek-naar-drugshandel-ook-zes-andere-arrestaties.html": {
-   "titel": "Jan G. opnieuw aangehouden in groot onderzoek naar drugshandel, ook zes andere arrestaties",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626166/jan-g-opnieuw-aangehouden-in-groot-onderzoek-naar-drugshandel-ook-zes-andere-arrestaties.html",
-   "tekst": "",
-   "datum": "2026-11-17T13:13:05+00:00",
-   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626163/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html": {
-   "titel": "Cateringbedrijf Maison van den Boer vertrekt na 120 jaar uit Veghel, `passende oplossing` gezocht voor medewerkers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626163/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html",
-   "tekst": "",
-   "datum": "2026-11-17T13:13:05+00:00",
-   "eerst_gezien": "2026-11-17T13:24:41.403650+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:13"
   },
   "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
@@ -18745,23 +18728,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 16:00"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108626098/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html": {
-   "titel": "Cateringbedrijf Maison van den Boer vertrekt na 120 jaar uit Veghel, `passende oplossing` gezocht voor medewerkers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108626098/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html",
-   "tekst": "",
-   "datum": "2026-11-17T13:07:27+00:00",
-   "eerst_gezien": "2026-11-17T13:08:22.070665+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 14:07"
   }
  },
  "bronnen": {
@@ -18802,7 +18768,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -18812,7 +18778,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 23,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18837,7 +18803,7 @@
   },
   "Gemeente Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 6,
    "fout": ""
   },
   "Gemeente Someren": {
@@ -18887,7 +18853,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
