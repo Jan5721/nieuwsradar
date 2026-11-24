@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 13:43",
+ "bijgewerkt": "24-11-2026 14:00",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
@@ -2575,6 +2575,23 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://www.asten.nl/nieuws/artikel/licht-uit-tuinbouwkassen-lijkt-soms-feller-door-het-weer": {
+   "titel": "Licht uit tuinbouwkassen lijkt soms feller door het weer",
+   "link": "https://www.asten.nl/nieuws/artikel/licht-uit-tuinbouwkassen-lijkt-soms-feller-door-het-weer",
+   "tekst": "Inwoners zien soms een opvallende lichtgloed boven tuinbouwkassen. Vooral bij bewolkt, mistig of vochtig weer kan het lijken alsof een kas meer licht uitstraalt dan normaal.",
+   "datum": "2026-11-24T12:46:59+00:00",
+   "eerst_gezien": "2026-11-24T12:59:32.396470+00:00",
+   "bron": "Gemeente Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 13:46"
+  },
   "https://www.asten.nl/nieuws/artikel/blog-40-een-inkijkje-in-het-werkleven-van-de-burgemeester": {
    "titel": "Blog 40: Een inkijkje in het werkleven van de burgemeester",
    "link": "https://www.asten.nl/nieuws/artikel/blog-40-een-inkijkje-in-het-werkleven-van-de-burgemeester",
@@ -4524,6 +4541,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108697705/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html": {
+   "titel": "Eerste sneeuw van winterseizoen gevallen in Brabant",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697705/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html",
+   "tekst": "",
+   "datum": "2026-11-24T12:49:07+00:00",
+   "eerst_gezien": "2026-11-24T12:59:32.396470+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 13:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108697701/enexis-bouwt-zonder-vergunning-verder-naast-molen-in-eerde-gemeente-wil-niet-direct-ingrijpen.html": {
+   "titel": "Enexis bouwt zonder vergunning verder naast molen in Eerde: gemeente wil niet direct ingrijpen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697701/enexis-bouwt-zonder-vergunning-verder-naast-molen-in-eerde-gemeente-wil-niet-direct-ingrijpen.html",
+   "tekst": "",
+   "datum": "2026-11-24T12:49:06+00:00",
+   "eerst_gezien": "2026-11-24T12:59:32.396470+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 13:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108697413/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html": {
    "titel": "Eerste sneeuw van winterseizoen gevallen in Brabant",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108697413/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html",
@@ -4538,8 +4589,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 13:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696980/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html": {
    "titel": "Eerste sneeuw van de winter gevallen in Brabant",
@@ -4788,55 +4838,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696482/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html": {
-   "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill na dubbele moorden Lieshout en Amsterdam",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696482/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:13:25+00:00",
-   "eerst_gezien": "2026-11-24T10:19:24.312645+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696365/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html": {
-   "titel": "Brugklassers Sondervick College lopen bijna 4000 euro bij elkaar voor Vekemansfonds",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696365/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:01:05+00:00",
-   "eerst_gezien": "2026-11-24T10:03:28.872127+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696302/steekpartij-bij-ggze-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html": {
-   "titel": "Steekpartij bij GGzE in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696302/steekpartij-bij-ggze-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html",
-   "tekst": "",
-   "datum": "2026-11-24T09:49:07+00:00",
-   "eerst_gezien": "2026-11-24T10:03:28.872127+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 10:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -5884,6 +5885,55 @@
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 16:51"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696482/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html": {
+   "titel": "Eis in hoger beroep 30 jaar en levenslang tegen Sharona en Bill na dubbele moorden Lieshout en Amsterdam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696482/eis-in-hoger-beroep-30-jaar-en-levenslang-tegen-sharona-en-bill-na-dubbele-moorden-lieshout-en-amsterdam.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:13:25+00:00",
+   "eerst_gezien": "2026-11-24T10:19:24.312645+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696365/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html": {
+   "titel": "Brugklassers Sondervick College lopen bijna 4000 euro bij elkaar voor Vekemansfonds",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696365/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:01:05+00:00",
+   "eerst_gezien": "2026-11-24T10:03:28.872127+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696302/steekpartij-bij-ggze-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html": {
+   "titel": "Steekpartij bij GGzE in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696302/steekpartij-bij-ggze-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:49:07+00:00",
+   "eerst_gezien": "2026-11-24T10:03:28.872127+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 10:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126160620a2deurnerit139921": {
    "titel": "A2 Deurne Rit: 139921",
@@ -8792,40 +8842,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:30"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134512ongevalwegvervoerletseluiverlaanhelmond": {
-   "titel": "Ongeval wegvervoer letsel Uiverlaan Helmond",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134512ongevalwegvervoerletseluiverlaanhelmond",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-22T13:45:12+01:00",
-   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 13:45"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134506a2helmondrit139378": {
-   "titel": "A2 Helmond Rit: 139378",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126134506a2helmondrit139378",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T13:45:06+01:00",
-   "eerst_gezien": "2026-11-22T12:49:48.821059+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 13:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108683859/eindhoven-snel-aan-de-slag-met-noodsteunpunten-om-inwoners-en-stad-klaar-te-maken-voor-calamiteiten.html": {
    "titel": "Eindhoven snel aan de slag met noodsteunpunten om inwoners en stad klaar te maken voor calamiteiten",
@@ -17315,23 +17331,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/asten/grip-wagen-komt-naar-asten-voor-kleine-hoeveelheden-afval~a78bd205/": {
-   "titel": "Grip-wagen komt naar Asten voor kleine hoeveelheden afval",
-   "link": "https://www.ed.nl/asten/grip-wagen-komt-naar-asten-voor-kleine-hoeveelheden-afval~a78bd205/",
-   "tekst": "De Grip-wagen staat deze week en volgende week in de gemeente Asten. Inwoners kunnen daar kleine hoeveelheden grondstoffen inleveren dicht bij huis.",
-   "datum": "2026-11-17T12:54:12+00:00",
-   "eerst_gezien": "2026-11-17T13:08:22.070665+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:54"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635996/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html": {
    "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635996/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html",
@@ -18714,23 +18713,6 @@
    "prio": false,
    "tijd": "17-11 15:26"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html": {
-   "titel": "Eindhovense raad beslist over bouwplan Begijnenhof, met veel betaalbare woningen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625977/eindhovense-raad-beslist-over-bouwplan-begijnenhof-met-veel-betaalbare-woningen.html",
-   "tekst": "",
-   "datum": "2026-11-17T12:49:05+00:00",
-   "eerst_gezien": "2026-11-17T12:52:05.988150+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
@@ -18855,7 +18837,7 @@
   },
   "Gemeente Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "Gemeente Someren": {
@@ -18885,7 +18867,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
