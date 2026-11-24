@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 21:30",
+ "bijgewerkt": "24-11-2026 21:47",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1331,7 +1331,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
    "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
    "link": "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad",
-   "tekst": "woensdag Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond woensdag op Instagram. De bewoner van het huis had na een eerste belletje direct de politie …",
+   "tekst": "18 november 2026 Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond woensdag op Instagram. De bewoner van het huis had na een eerste belletje direct de …",
    "datum": "2026-11-18T17:51:48.968760+00:00",
    "eerst_gezien": "2026-11-18T17:51:48.968760+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -2591,74 +2591,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 21:16"
-  },
-  "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
-   "titel": "Brand basisschool Zeilberg",
-   "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
-   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
-   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
-   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
-   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
-   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
-   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
   },
   "https://www.asten.nl/nieuws/artikel/ontdek-museum-klok-peel": {
    "titel": "Ontdek Museum Klok & Peel",
@@ -4609,6 +4541,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700998/live-penalty-voor-psv-na-een-overtreding-op-sven-mijnans.html": {
+   "titel": "LIVE | Penalty voor PSV na een overtreding op Sven Mijnans!",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700998/live-penalty-voor-psv-na-een-overtreding-op-sven-mijnans.html",
+   "tekst": "",
+   "datum": "2026-11-24T20:31:03+00:00",
+   "eerst_gezien": "2026-11-24T20:45:58.967245+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 21:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108700964/live-psv-ontsnapt-na-drie-goede-kansen-real-madrid-raakt-de-kruising-en-speelt-een-counter-slecht-uit.html": {
    "titel": "LIVE | PSV ontsnapt na drie goede kansen: Real Madrid raakt de kruising en speelt een counter slecht uit",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108700964/live-psv-ontsnapt-na-drie-goede-kansen-real-madrid-raakt-de-kruising-en-speelt-een-counter-slecht-uit.html",
@@ -4621,7 +4570,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 21:25"
@@ -4792,23 +4741,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108699604/live-slotfase-aangebroken-kan-psv-standhouden-en-de-3-3-in-madrid-over-de-streep-trekken.html": {
-   "titel": "LIVE | Slotfase aangebroken: kan PSV standhouden en de 3-3 in Madrid over de streep trekken'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699604/live-slotfase-aangebroken-kan-psv-standhouden-en-de-3-3-in-madrid-over-de-streep-trekken.html",
-   "tekst": "",
-   "datum": "2026-11-24T16:49:07+00:00",
-   "eerst_gezien": "2026-11-24T17:00:41.047590+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 17:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
    "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
@@ -5787,6 +5719,91 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 09:10"
+  },
+  "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
+   "titel": "Brand basisschool Zeilberg",
+   "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
+   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
+   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
+   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
+   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
+   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
+   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699604/live-slotfase-aangebroken-kan-psv-standhouden-en-de-3-3-in-madrid-over-de-streep-trekken.html": {
+   "titel": "LIVE | Slotfase aangebroken: kan PSV standhouden en de 3-3 in Madrid over de streep trekken'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699604/live-slotfase-aangebroken-kan-psv-standhouden-en-de-3-3-in-madrid-over-de-streep-trekken.html",
+   "tekst": "",
+   "datum": "2026-11-24T16:49:07+00:00",
+   "eerst_gezien": "2026-11-24T17:00:41.047590+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 17:49"
   },
   "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/": {
    "titel": "Max uit Helmond weet zeker dat dieren legaal zijn geïmporteerd: ‘Nu ben ik de gebeten hond’",
@@ -18957,9 +18974,9 @@
    "fout": ""
   },
   "Gemeente Deurne": {
-   "ok": true,
-   "aantal": 4,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   "Gemeente Asten": {
    "ok": true,
