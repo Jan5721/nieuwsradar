@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 07:35",
+ "bijgewerkt": "24-11-2026 07:51",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -1055,23 +1055,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 14:44"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven": {
-   "titel": "Seinstoring zorgde urenlang voor problemen op spoor rond Eindhoven",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven",
-   "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
-   "datum": "2026-11-23T05:52:00+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 06:52"
   },
   "https://www.omroepbrabant.nl/nieuws/6035884/politie-zoekt-baasjes-van-loslopende-honden-in-helmond": {
    "titel": "Politie zoekt baasjes van loslopende honden in Helmond",
@@ -4628,6 +4611,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695090/opnieuw-vluchten-geannuleerd-op-eindhoven-airport-ondanks-verdwijnen-dichte-mist.html": {
+   "titel": "Opnieuw vluchten geannuleerd op Eindhoven Airport, ondanks verdwijnen dichte mist",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695090/opnieuw-vluchten-geannuleerd-op-eindhoven-airport-ondanks-verdwijnen-dichte-mist.html",
+   "tekst": "",
+   "datum": "2026-11-24T06:49:08+00:00",
+   "eerst_gezien": "2026-11-24T06:51:21.660855+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 07:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108694958/supermarktpuzzel-ah-en-nettorama-in-centrum-geldrop-nog-niet-gelegd.html": {
    "titel": "Supermarktpuzzel AH en Nettorama in centrum Geldrop nog niet gelegd",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108694958/supermarktpuzzel-ah-en-nettorama-in-centrum-geldrop-nog-niet-gelegd.html",
@@ -4640,7 +4640,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 07:19"
@@ -4657,7 +4657,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 07:19"
@@ -4890,23 +4890,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 21:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108690129/vier-fans-blikken-terug-op-wish-outdoor-het-was-altijd-bijzonder-groot-gewoon-bij-ons-in-de-buurt.html": {
-   "titel": "Vier fans blikken terug op Wish Outdoor: `Het was altijd bijzonder groot, gewoon bij ons in de buurt`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690129/vier-fans-blikken-terug-op-wish-outdoor-het-was-altijd-bijzonder-groot-gewoon-bij-ons-in-de-buurt.html",
-   "tekst": "",
-   "datum": "2026-11-23T19:49:08+00:00",
-   "eerst_gezien": "2026-11-23T19:55:17.695041+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 20:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108691807/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school.html": {
    "titel": "Schoolbrand raakt kinderen hard: ´Ik had het heel leuk op school´",
@@ -5492,7 +5475,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 07:24"
@@ -5887,6 +5870,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 10:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven": {
+   "titel": "Seinstoring zorgde urenlang voor problemen op spoor rond Eindhoven",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven",
+   "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
+   "datum": "2026-11-23T05:52:00+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 06:52"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108690129/vier-fans-blikken-terug-op-wish-outdoor-het-was-altijd-bijzonder-groot-gewoon-bij-ons-in-de-buurt.html": {
+   "titel": "Vier fans blikken terug op Wish Outdoor: `Het was altijd bijzonder groot, gewoon bij ons in de buurt`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690129/vier-fans-blikken-terug-op-wish-outdoor-het-was-altijd-bijzonder-groot-gewoon-bij-ons-in-de-buurt.html",
+   "tekst": "",
+   "datum": "2026-11-23T19:49:08+00:00",
+   "eerst_gezien": "2026-11-23T19:55:17.695041+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 20:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108690127/spektakelgarantie-mourinho-houdt-het-netjes-richting-real-madrid-psv-op-een-steekje-onder-water-na.html": {
    "titel": "`Spektakelgarantie` Mourinho houdt het netjes richting Real Madrid - PSV (op één steekje onder water na)",
@@ -18283,23 +18300,6 @@
    "prio": false,
    "tijd": "17-11 08:31"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623023/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html": {
-   "titel": "Zijn illegale zakken naast de afvalcontainer asociaal, of is er meer aan de hand'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623023/zijn-illegale-zakken-naast-de-afvalcontainer-asociaal-of-is-er-meer-aan-de-hand.html",
-   "tekst": "",
-   "datum": "2026-11-17T06:43:15+00:00",
-   "eerst_gezien": "2026-11-17T06:57:00.409500+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 07:43"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html": {
    "titel": "Pakistaanse Bushra (65) zoekt veiligheid in Nuenen, terwijl de angst om haar familie haar niet loslaat",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html",
@@ -18373,7 +18373,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
