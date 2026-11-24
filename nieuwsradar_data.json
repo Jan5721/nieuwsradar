@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 13:11",
+ "bijgewerkt": "24-11-2026 13:27",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
@@ -527,23 +527,6 @@
    "prio": false,
    "tijd": "17-11 15:30"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe": {
-   "titel": "UWV: ‘Aantal mensen met psychische klachten neemt toe’",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64714/uwv-aantal-mensen-met-psychische-klachten-neemt-toe",
-   "tekst": "REGIO - Diverse sectoren in De Peel kampen nog altijd met grote personeelstekorten. 'De uitdaging zit steeds meer in het vinden van de juiste match tussen vraag en aanbod', aldus het UWV, dat tevens het aantal mensen met psychische klachten ziet groeien.",
-   "datum": "2026-11-17T13:14:00+01:00",
-   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:14"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64872/in-beeld-feestelijke-prijsuitreiking-ondernemer-van-het-jaar-2026": {
    "titel": "In beeld: feestelijke prijsuitreiking Ondernemer van het Jaar 2026",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64872/in-beeld-feestelijke-prijsuitreiking-ondernemer-van-het-jaar-2026",
@@ -556,7 +539,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 12:58"
@@ -2281,7 +2264,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 13:11"
@@ -4570,7 +4553,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 13:01"
@@ -5340,7 +5323,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 13:08"
@@ -18765,23 +18748,6 @@
    "prio": false,
    "tijd": "17-11 13:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html": {
-   "titel": "N397 bij Veldhoven nacht afgesloten voor onderhoud",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625680/n397-bij-veldhoven-nacht-afgesloten-voor-onderhoud.html",
-   "tekst": "",
-   "datum": "2026-11-17T12:13:05+00:00",
-   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 13:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
@@ -18791,22 +18757,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108625671/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar.html": {
-   "titel": "Het ED gaat undercover in het Kasteel van Sinterklaas: hoe krijgen ze het ieder jaar weer voor elkaar'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108625671/het-ed-gaat-undercover-in-het-kasteel-van-sinterklaas-hoe-krijgen-ze-het-ieder-jaar-weer-voor-elkaar.html",
-   "tekst": "",
-   "datum": "2026-11-17T12:11:50+00:00",
-   "eerst_gezien": "2026-11-17T12:19:39.777645+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -18852,7 +18802,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 31,
    "fout": ""
   },
   "Peelbelang": {
@@ -18972,7 +18922,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
