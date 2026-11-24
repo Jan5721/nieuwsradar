@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 22:36",
+ "bijgewerkt": "24-11-2026 22:52",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -4609,6 +4609,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108701337/live-pijnlijke-tweede-helft-voor-psv-vinicius-junior-schiet-real-madrid-op-5-1.html": {
+   "titel": "LIVE | Pijnlijke tweede helft voor PSV: Viní­cius Júnior schiet Real Madrid op 5-1",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108701337/live-pijnlijke-tweede-helft-voor-psv-vinicius-junior-schiet-real-madrid-op-5-1.html",
+   "tekst": "",
+   "datum": "2026-11-24T21:49:10+00:00",
+   "eerst_gezien": "2026-11-24T21:51:42.220144+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 22:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108701088/live-psv-speelt-ijzersterk-tegen-real-madrid-kans-voor-mijnans-na-rake-penalty-perisic.html": {
    "titel": "LIVE | PSV speelt ijzersterk tegen Real Madrid: kans voor Mijnans na rake penalty Perisic",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108701088/live-psv-speelt-ijzersterk-tegen-real-madrid-kans-voor-mijnans-na-rake-penalty-perisic.html",
@@ -4776,23 +4793,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 18:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108699816/helmondse-juwelier-voert-rechtszaak-tegen-amerikaans-miljardenbedrijf-vanwege-de-naam.html": {
-   "titel": "Helmondse juwelier voert rechtszaak tegen Amerikaans miljardenbedrijf vanwege de naam",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699816/helmondse-juwelier-voert-rechtszaak-tegen-amerikaans-miljardenbedrijf-vanwege-de-naam.html",
-   "tekst": "De Amerikaanse onderneming stelde dat de juwelier de merknaam te weinig écht heeft gebruikt De naam van een onderneming kan miljoenen...",
-   "datum": "2026-11-24T17:11:06+00:00",
-   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 18:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
    "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
@@ -5410,7 +5410,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 22:32"
@@ -5788,6 +5788,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 09:10"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699816/helmondse-juwelier-voert-rechtszaak-tegen-amerikaans-miljardenbedrijf-vanwege-de-naam.html": {
+   "titel": "Helmondse juwelier voert rechtszaak tegen Amerikaans miljardenbedrijf vanwege de naam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699816/helmondse-juwelier-voert-rechtszaak-tegen-amerikaans-miljardenbedrijf-vanwege-de-naam.html",
+   "tekst": "De Amerikaanse onderneming stelde dat de juwelier de merknaam te weinig écht heeft gebruikt De naam van een onderneming kan miljoenen...",
+   "datum": "2026-11-24T17:11:06+00:00",
+   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 18:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108699710/spektakelstuk-in-spanje-psv-onder-19-speelt-gelijk-tegen-real-madrid-na-prachtgoals-bro-hansen.html": {
    "titel": "Spektakelstuk in Spanje: PSV Onder 19 speelt gelijk tegen Real Madrid na prachtgoals Bro Hansen",
