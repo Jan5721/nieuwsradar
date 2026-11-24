@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "24-11-2026 15:51",
+ "bijgewerkt": "24-11-2026 16:07",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
+   "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia",
+   "tekst": "NEERKANT - Willem Mennen is de nieuwe voorzitter van VV Neerkandia. Hij volgt Henk Vollenberg op, die na zes jaar afscheid neemt van het voorzitterschap. Dat werd bekendgemaakt tijdens de jaarvergadering van de voetbalvereniging op donderdag 19 november. Daarnaast werd bekend …",
+   "datum": "2026-11-24T15:58:00+01:00",
+   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 15:58"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne",
@@ -782,6 +799,23 @@
    "prio": false,
    "tijd": "18-11 10:11"
   },
+  "https://www.ed.nl/helmond/dutchie-shore-helmond-deelnemer~abc070d2/": {
+   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
+   "link": "https://www.ed.nl/helmond/dutchie-shore-helmond-deelnemer~abc070d2/",
+   "tekst": "Ken jij Snooki, Mike 'the situation' Sorrentino, JWoww en Pauly D nog? Is het antwoord 'ja' en krijg je warme gevoelens bij alle drama die zich afspeelde in de MTV-realityserie Jersey Shore? Dan is er goed nieuws voor jou, want de Nederlandse versie komt op tv: Dutchie Shore .",
+   "datum": "2026-11-24T15:00:00+00:00",
+   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 16:00"
+  },
   "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/": {
    "titel": "Stroomstoring op Brouwhuissedijk in Helmond op dit moment",
    "link": "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-op-dit-moment~af7d26d3/",
@@ -1050,7 +1084,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:51"
@@ -1414,6 +1448,23 @@
    "prio": false,
    "tijd": "17-11 16:51"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035112/stroomstoring-treft-helmond-minder-dan-100-adressen": {
+   "titel": "Stroomstoring treft Helmond: minder dan 100 adressen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035112/stroomstoring-treft-helmond-minder-dan-100-adressen",
+   "tekst": "17 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 100 adressen zaten sinds kwart voor twee vanmiddag zonder stroom. De storing werd verholpen om kwart voor vijf.",
+   "datum": "2026-11-24T15:07:19.919318+00:00",
+   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 16:07"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond half drie",
    "link": "https://www.omroepbrabant.nl/nieuws/6035055/stroomstoring-in-helmond-herstel-verwacht-rond-half-drie",
@@ -1533,10 +1584,27 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035982/lekkage-in-wagnerstraat-deurne-mogelijk-geen-of-bruin-water": {
+   "titel": "Lekkage in Wagnerstraat Deurne: mogelijk geen of bruin water",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035982/lekkage-in-wagnerstraat-deurne-mogelijk-geen-of-bruin-water",
+   "tekst": "",
+   "datum": "2026-11-24T15:07:19.919318+00:00",
+   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 16:07"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035859/veel-verdriet-en-vragen-na-grote-schoolbrand-in-deurne": {
    "titel": "Veel verdriet en vragen na grote schoolbrand in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035859/veel-verdriet-en-vragen-na-grote-schoolbrand-in-deurne",
-   "tekst": "BRABANT",
+   "tekst": "Wat een gewone schooldag had moeten zijn, werd er eentje vol verdriet en vragen. Basisschool De Zeilberg in Deurne brandde vrijdag af. En dat hakt erin. Bij de school zelf, maar ook bij de leerlingen. Zij kwamen maandag samen om erover te …",
    "datum": "2026-11-23T17:46:25.842672+00:00",
    "eerst_gezien": "2026-11-23T17:46:25.842672+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1570,7 +1638,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
    "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
-   "tekst": "Ouders en kinderen zijn maandagochtend bijgepraat over de gevolgen van de brand in basisschool De Zeilberg in Deurne. Zo'n 500 gedupeerden kwamen naar Sociaal Cultureel Centrum Den Draai om te horen wat er de komende tijd gaat gebeuren. …",
+   "tekst": "VIDEO",
    "datum": "2026-11-23T14:01:27.103064+00:00",
    "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1955,7 +2023,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:51"
@@ -1972,7 +2040,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:51"
@@ -1989,7 +2057,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:51"
@@ -4558,6 +4626,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108698680/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html": {
+   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108698680/work-hard-play-hard-dit-helmondse-feestbeest-doet-mee-aan-dutchie-shore.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:01:05+00:00",
+   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108698551/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat.html": {
    "titel": "Werknemer viel van pallet op ruim 2 meter hoogte en stierf ter plekke: bedrijf uit Lierop ontkent dat het fout zat",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108698551/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat.html",
@@ -4570,7 +4654,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5429,6 +5513,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126160610a1somerenrit140357": {
+   "titel": "A1 Someren Rit: 140357",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126160610a1somerenrit140357",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T16:06:10+01:00",
+   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "24-11 16:06"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126154213a2deurnerit140347": {
    "titel": "A2 Deurne Rit: 140347",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126154213a2deurnerit140347",
@@ -5441,7 +5542,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 15:42"
@@ -8559,23 +8660,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 22:00"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126155357a2helmondrit139406": {
-   "titel": "A2 Helmond Rit: 139406",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126155357a2helmondrit139406",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T15:53:57+01:00",
-   "eerst_gezien": "2026-11-22T14:57:26.421731+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 15:53"
   },
   "https://www.omroepbrabant.nl/nieuws/6035733/urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
    "titel": "Urenlang problemen op het spoor rond Eindhoven door seinstoring",
@@ -15984,7 +16068,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 17:29"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
    "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
@@ -16599,7 +16684,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 17:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108639843/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html": {
    "titel": "Hamburgerketen zet mes in eigen vlees: zaken in Eindhoven en Den Bosch dicht",
@@ -17202,23 +17288,6 @@
    "prio": false,
    "tijd": "18-11 12:49"
   },
-  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/": {
-   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
-   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren~ac297560/",
-   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
-   "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
-  },
   "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/": {
    "titel": "BouwInfraCampus in Mierlo op de schop",
    "link": "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/",
@@ -17235,23 +17304,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 07:01"
-  },
-  "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/": {
-   "titel": "Het Kasteel van Sinterklaas in Helmond: dit is er allemaal te beleven",
-   "link": "https://www.ed.nl/helmond/het-kasteel-van-sinterklaas-in-helmond-dit-is-er-allemaal-te-beleven~a427c46a/",
-   "tekst": "Jaja, hij is er! Na een lange bootreis kwamen Sinterklaas en zijn pieten op zondag 15 november aan in Helmond. Omdat het gezelschap ergens moet slapen, heet het kasteel tot en met vrijdag 4 december het Kasteel van Sinterklaas.",
-   "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
    "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
@@ -17645,7 +17697,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 16:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -18366,7 +18419,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "17-11 23:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
    "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
@@ -18780,23 +18834,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://www.ed.nl/deurne/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten~ac297560/",
-   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
-   "datum": "2026-11-17T15:00:00+00:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
    "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
@@ -18812,29 +18849,12 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/deurne/markante-deurnese-villa-zit-straks-vol-senioren~ac297560/": {
-   "titel": "Markante Deurnese villa zit straks vol senioren",
-   "link": "https://www.ed.nl/deurne/markante-deurnese-villa-zit-straks-vol-senioren~ac297560/",
-   "tekst": "Villa Mariahof is een pand met historie: Boerenbond-oprichter Jan Hermans liet het bouwen in 1896 en schrijver Antoon Coolen schuilde er tijdens de oorlog. Over een tijdje krijgt die markante villa aan de Stationslaan in Deurne misschien nieuwe bewoners.",
-   "datum": "2026-11-17T15:00:28+00:00",
-   "eerst_gezien": "2026-11-17T15:02:11.362476+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:00"
   }
  },
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 31,
    "fout": ""
   },
   "Peelbelang": {
@@ -18849,7 +18869,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 8,
    "fout": ""
   },
   "ED Deurne": {
@@ -18874,12 +18894,12 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18934,7 +18954,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18954,7 +18974,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
