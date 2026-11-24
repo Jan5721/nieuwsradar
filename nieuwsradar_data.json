@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 14:16",
+ "bijgewerkt": "24-11-2026 14:32",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64871/pink-floyd-tributeband-endless-echoes-treedt-op-in-deurne": {
    "titel": "Pink Floyd-tributeband Endless Echoes treedt op in Deurne",
@@ -951,6 +951,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:27"
+  },
+  "https://www.ed.nl/asten/wandeling-in-asten-staat-in-teken-van-historie-van-polderse-bossen~a5f2b4e82/": {
+   "titel": "Wandeling in Asten staat in teken van historie van Polderse Bossen",
+   "link": "https://www.ed.nl/asten/wandeling-in-asten-staat-in-teken-van-historie-van-polderse-bossen~a5f2b4e82/",
+   "tekst": "IVN-Senioren Asten-Someren houdt een dinsdagmiddagwandeling door de Polderse Bossen en langs het kasteel van Asten. Dinsdag 8 december vertrekken deelnemers om 13.00 uur bij IVN-gebouw De Stulp aan de Ostaderstraat 30 in Asten.",
+   "datum": "2026-11-24T13:23:00+00:00",
+   "eerst_gezien": "2026-11-24T13:31:51.403493+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 14:23"
   },
   "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/": {
    "titel": "Midas winkelcentrum in Asten houdt workshop stapelkaars maken",
@@ -2132,23 +2149,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden": {
-   "titel": "Lezing over heggen en hagen in Asten-Heusden",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden",
-   "tekst": "10 november 2026 Op donderdag 3 december vindt in gemeenschapshuis Hart van Heuze in Asten-Heusden een lezing plaats over aanleg en beheer van heggen en hagen. Het programma begint om acht uur ’s avonds en staat in het teken van …",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december": {
    "titel": "Dorpsoverleg Lierop bespreekt toekomst op 3 december",
    "link": "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december",
@@ -2587,7 +2587,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 14:02"
@@ -2604,7 +2604,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 13:56"
@@ -4575,12 +4575,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108697882/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108697933/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html": {
    "titel": "De Molen van Milheeze wordt tijdelijk een pietenhuis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697882/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697933/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html",
    "tekst": "",
-   "datum": "2026-11-24T13:13:25+00:00",
-   "eerst_gezien": "2026-11-24T13:15:59.187214+00:00",
+   "datum": "2026-11-24T13:19:02+00:00",
+   "eerst_gezien": "2026-11-24T13:31:51.403493+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4590,7 +4590,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "24-11 14:13"
+   "tijd": "24-11 14:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108697705/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html": {
    "titel": "Eerste sneeuw van winterseizoen gevallen in Brabant",
@@ -4856,23 +4856,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696485/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html": {
-   "titel": "Brugklassers Sondervick College lopen bijna 4000 euro bij elkaar voor Vekemansfonds",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696485/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html",
-   "tekst": "",
-   "datum": "2026-11-24T10:13:25+00:00",
-   "eerst_gezien": "2026-11-24T10:19:24.312645+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -5903,6 +5886,57 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 17:51"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden": {
+   "titel": "Lezing over heggen en hagen in Asten-Heusden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden",
+   "tekst": "10 november 2026 Op donderdag 3 december vindt in gemeenschapshuis Hart van Heuze in Asten-Heusden een lezing plaats over aanleg en beheer van heggen en hagen. Het programma begint om acht uur ’s avonds en staat in het teken van …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108697882/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html": {
+   "titel": "De Molen van Milheeze wordt tijdelijk een pietenhuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697882/de-molen-van-milheeze-wordt-tijdelijk-een-pietenhuis.html",
+   "tekst": "",
+   "datum": "2026-11-24T13:13:25+00:00",
+   "eerst_gezien": "2026-11-24T13:15:59.187214+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 14:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696485/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html": {
+   "titel": "Brugklassers Sondervick College lopen bijna 4000 euro bij elkaar voor Vekemansfonds",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696485/brugklassers-sondervick-college-lopen-bijna-4000-euro-bij-elkaar-voor-vekemansfonds.html",
+   "tekst": "",
+   "datum": "2026-11-24T10:13:25+00:00",
+   "eerst_gezien": "2026-11-24T10:19:24.312645+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696484/eerste-sneeuwvlokken-van-dit-winterseizoen-gevallen-in-brabant-later-op-de-dag-kans-op-natte-sneeuw.html": {
    "titel": "Eerste sneeuwvlokken van dit winterseizoen gevallen in Brabant, later op de dag kans op natte sneeuw",
@@ -18758,7 +18792,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
@@ -18783,7 +18817,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -18833,7 +18867,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
