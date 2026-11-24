@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 08:55",
+ "bijgewerkt": "24-11-2026 09:11",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -527,6 +527,23 @@
    "prio": false,
    "tijd": "17-11 10:15"
   },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64839/herfstbockconcert-trekt-opnieuw-volle-zaal-dak-ging-eraf": {
+   "titel": "Herfstbockconcert trekt opnieuw volle zaal: ‘Dak ging eraf’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64839/herfstbockconcert-trekt-opnieuw-volle-zaal-dak-ging-eraf",
+   "tekst": "ASTEN - Dat het Herfstbockconcert van het Astens Mannenkoor nog altijd bijzonder in trek is, bewees de 19e editie afgelopen zondag. Zaal Jan van Hoek was wederom tot de laatste stoel toe gevuld. 'Het was een bijzonder geslaagde middag'",
+   "datum": "2026-11-24T09:08:00+01:00",
+   "eerst_gezien": "2026-11-24T08:11:03.648961+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:08"
+  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64851/in-beeld-zo-werd-prins-ramon-weren-bij-de-plekkers-onthuld": {
    "titel": "In beeld: zó werd prins Ramon Weren bij De Plekkers onthuld",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64851/in-beeld-zo-werd-prins-ramon-weren-bij-de-plekkers-onthuld",
@@ -783,23 +800,6 @@
    "prio": false,
    "tijd": "17-11 11:13"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64698/de-lezersfotos-van-de-week": {
-   "titel": "De mooiste lezersfoto’s van de week",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64698/de-lezersfotos-van-de-week",
-   "tekst": "ASTEN - Ook vorige week stroomde de mailbox weer vol met lezersfoto's. Op deze pagina een overzicht van de mooiste platen die binnenkwamen.",
-   "datum": "2026-11-17T09:07:00+01:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:07"
-  },
   "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/": {
    "titel": "Na veel getouwtrek: nu geen McDonald’s op deze plek in Helmond",
    "link": "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/",
@@ -953,22 +953,22 @@
    "prio": false,
    "tijd": "23-11 07:28"
   },
-  "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
-   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘De kroeg in op zondagmiddag’",
-   "link": "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/",
-   "tekst": "Zes cafés, zeven livebands. In Deurnese horecazaken rond de Markt klinken zondag meezingers, rocknummers, oude en nieuwe hits en Elvis-liedjes. Als je wil, kun je overal binnenlopen en van elk optreden iets meepikken.",
-   "datum": "2026-11-22T20:00:00+00:00",
-   "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
-   "bron": "ED Deurne",
+  "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/": {
+   "titel": "Midas winkelcentrum in Asten houdt workshop stapelkaars maken",
+   "link": "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/",
+   "tekst": "Midas winkelcentrum in Asten houdt tijdens de koopzondag een workshop stapelkaars maken. Zondag 29 november kunnen deelnemers op vier momenten meedoen in het winkelcentrum.",
+   "datum": "2026-11-24T08:03:59+00:00",
+   "eerst_gezien": "2026-11-24T08:11:03.648961+00:00",
+   "bron": "ED Asten",
    "gemeenten": [
-    "Deurne"
+    "Asten"
    ],
    "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
+   "betaald": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "22-11 21:00"
+   "tijd": "24-11 09:03"
   },
   "https://www.ed.nl/asten/puur-sangh-geeft-jubileumconcert-in-lierop~afc8ea65/": {
    "titel": "Puur Sangh geeft jubileumconcert in Lierop",
@@ -1005,23 +1005,6 @@
    "prio": false,
    "tijd": "23-11 10:14"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035886/enorme-drukte-op-brabantse-snelwegen-meerdere-lange-files": {
-   "titel": "Enorme drukte op Brabantse snelwegen: meerdere lange files",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035886/enorme-drukte-op-brabantse-snelwegen-meerdere-lange-files",
-   "tekst": "Er staan dinsdagochtend meerdere lange files op de Brabantse snelwegen. Zowel op de A67 als de A16 staan er rond kwart voor negen 's ochtends files die veel vertraging opleveren. Wel neemt de drukte langzaamaan af. Op de A67 tussen Asten en knooppunt Leenderheide was het rond …",
-   "datum": "2026-11-24T06:32:25+00:00",
-   "eerst_gezien": "2026-11-24T07:55:02.739141+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 07:32"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school": {
    "titel": "Schoolbrand raakt kinderen hard: 'Ik had het heel leuk op school'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035836/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school",
@@ -1038,6 +1021,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 14:44"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven": {
+   "titel": "Seinstoring zorgde urenlang voor problemen op spoor rond Eindhoven",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven",
+   "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
+   "datum": "2026-11-23T05:52:00+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 06:52"
   },
   "https://www.omroepbrabant.nl/nieuws/6035884/politie-zoekt-baasjes-van-loslopende-honden-in-helmond": {
    "titel": "Politie zoekt baasjes van loslopende honden in Helmond",
@@ -1350,7 +1350,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035101/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek": {
    "titel": "Wendy en Youri (19) nemen slagerij over: 'Vrienden vinden ons gek'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035101/wendy-en-youri-19-nemen-slagerij-over-vrienden-vinden-ons-gek",
-   "tekst": "VIDEO dinsdag Hun vrienden zijn vooral bezig met studeren, uitgaan en genieten van hun jeugd. Maar Wendy Veenhuis en Youri de Lepper, allebei 19 jaar, hebben andere plannen. Het stel wordt de nieuwe eigenaar van Slagerij Hagelaar in …",
+   "tekst": "VIDEO 17 november 2026 Hun vrienden zijn vooral bezig met studeren, uitgaan en genieten van hun jeugd. Maar Wendy Veenhuis en Youri de Lepper, allebei 19 jaar, hebben andere plannen. Het stel wordt de nieuwe eigenaar van Slagerij Hagelaar …",
    "datum": "2026-11-17T16:40:52.693626+00:00",
    "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1808,7 +1808,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers": {
    "titel": "Thema-avond in Asten: steun voor mantelzorgers",
    "link": "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers",
-   "tekst": "dinsdag Op dinsdag 1 december organiseert Alzheimer Café Peelland een bijeenkomst in Asten over de uitdagingen van mantelzorgers bij dementie. De avond richt zich op het herkennen van overbelasting en het inschakelen van hulp.",
+   "tekst": "17 november 2026 Op dinsdag 1 december organiseert Alzheimer Café Peelland een bijeenkomst in Asten over de uitdagingen van mantelzorgers bij dementie. De avond richt zich op het herkennen van overbelasting en het inschakelen van hulp.",
    "datum": "2026-11-17T18:50:55.839156+00:00",
    "eerst_gezien": "2026-11-17T18:50:55.839156+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -2729,23 +2729,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 10:22"
-  },
-  "https://www.someren.nl/nieuws/artikel/op-de-boksenberg-groeit-het-bos-van-de-toekomst": {
-   "titel": "Op de Boksenberg groeit het bos van de toekomst",
-   "link": "https://www.someren.nl/nieuws/artikel/op-de-boksenberg-groeit-het-bos-van-de-toekomst",
-   "tekst": "Afgelopen winter zijn op de Boksenberg bomen gekapt. Daardoor zijn open plekken in het bos ontstaan. Op deze plekken krijgen nieuwe bomen, struiken en planten de ruimte om te groeien.",
-   "datum": "2026-11-17T07:55:58+00:00",
-   "eerst_gezien": "2026-11-17T09:06:16.238804+00:00",
-   "bron": "Gemeente Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 08:55"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-539809.html": {
    "titel": "Aanvraag vergunning voor het plaatsen van een airco aan van Diemenstraat 36 te Helmond",
@@ -4611,6 +4594,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108695452/gewonde-bij-steekpartij-in-eindhoven-politie-druk-bezig-met-aanhouding.html": {
+   "titel": "Gewonde bij steekpartij in Eindhoven, politie druk bezig met aanhouding",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108695452/gewonde-bij-steekpartij-in-eindhoven-politie-druk-bezig-met-aanhouding.html",
+   "tekst": "",
+   "datum": "2026-11-24T08:01:04+00:00",
+   "eerst_gezien": "2026-11-24T08:11:03.648961+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108695395/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html": {
    "titel": "Na veel getouwtrek: nu geen McDonald`s op deze plek in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108695395/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html",
@@ -4623,7 +4623,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4639,7 +4639,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 08:49"
@@ -4824,22 +4824,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 06:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
-   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
-   "tekst": "",
-   "datum": "2026-11-23T23:54:06+00:00",
-   "eerst_gezien": "2026-11-23T23:55:45.840167+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108691909/fiod-houdt-opnieuw-verdachten-aan-voor-vervalste-inkoopfacturen-katalysatoren.html": {
    "titel": "FIOD houdt opnieuw verdachten aan voor vervalste inkoopfacturen katalysatoren",
@@ -5309,7 +5293,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 08:53"
@@ -5445,6 +5429,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126091058a2astenrit140164": {
+   "titel": "A2 Asten Rit: 140164",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126091058a2astenrit140164",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T09:10:58+01:00",
+   "eerst_gezien": "2026-11-24T08:11:03.648961+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 09:10"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126082502a2helmondrit140139": {
    "titel": "A2 Helmond Rit: 140139",
@@ -5820,6 +5821,56 @@
    "prio": true,
    "tijd": "23-11 10:51"
   },
+  "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
+   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘De kroeg in op zondagmiddag’",
+   "link": "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/",
+   "tekst": "Zes cafés, zeven livebands. In Deurnese horecazaken rond de Markt klinken zondag meezingers, rocknummers, oude en nieuwe hits en Elvis-liedjes. Als je wil, kun je overal binnenlopen en van elk optreden iets meepikken.",
+   "datum": "2026-11-22T20:00:00+00:00",
+   "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 21:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035886/enorme-drukte-op-brabantse-snelwegen-meerdere-lange-files": {
+   "titel": "Enorme drukte op Brabantse snelwegen: meerdere lange files",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035886/enorme-drukte-op-brabantse-snelwegen-meerdere-lange-files",
+   "tekst": "Er staan dinsdagochtend meerdere lange files op de Brabantse snelwegen. Zowel op de A67 als de A16 staan er rond kwart voor negen 's ochtends files die veel vertraging opleveren. Wel neemt de drukte langzaamaan af. Op de A67 tussen Asten en knooppunt Leenderheide was het rond …",
+   "datum": "2026-11-24T06:32:25+00:00",
+   "eerst_gezien": "2026-11-24T07:55:02.739141+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 07:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
+   "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
+   "tekst": "",
+   "datum": "2026-11-23T23:54:06+00:00",
+   "eerst_gezien": "2026-11-23T23:55:45.840167+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126104650a1deurnerit139776": {
    "titel": "A1 Deurne Rit: 139776",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126104650a1deurnerit139776",
@@ -6084,23 +6135,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 21:31"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven": {
-   "titel": "Seinstoring zorgde urenlang voor problemen op spoor rond Eindhoven",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035733/seinstoring-zorgde-urenlang-voor-problemen-op-spoor-rond-eindhoven",
-   "tekst": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem …",
-   "datum": "2026-11-23T05:52:00+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 06:52"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108690129/vier-fans-blikken-terug-op-wish-outdoor-het-was-altijd-bijzonder-groot-gewoon-bij-ons-in-de-buurt.html": {
    "titel": "Vier fans blikken terug op Wish Outdoor: `Het was altijd bijzonder groot, gewoon bij ons in de buurt`",
@@ -16997,23 +17031,6 @@
    "prio": false,
    "tijd": "18-11 10:07"
   },
-  "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/": {
-   "titel": "Gemeente Deurne werkt aan uitkijktoren en wandelpaden bij Peelvenen in Liessel",
-   "link": "https://www.ed.nl/deurne/gemeente-deurne-werkt-aan-uitkijktoren-en-wandelpaden-bij-peelvenen-in-liessel~a7f8c282/",
-   "tekst": "De gemeente Deurne werkt met de provincie Noord-Brabant, Waterschap Aa en Maas en Staatsbosbeheer aan het Belevingsplan Peelvenen. Het plan bestaat uit een uitkijktoren en wandelpaden bij de Peel, ter hoogte van de Eikenlaan en het Leegveld in Liessel.",
-   "datum": "2026-11-17T08:05:00+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:05"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
@@ -18350,71 +18367,6 @@
    "prio": false,
    "tijd": "17-11 09:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623416/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
-   "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623416/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:07:20+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 09:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623365/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html": {
-   "titel": "Ilona behandelt mensen met een eetstoornis: `Er wordt vaak gedacht aan gewicht, maar deze stoornis is niet altijd te zien`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623365/ilona-behandelt-mensen-met-een-eetstoornis-er-wordt-vaak-gedacht-aan-gewicht-maar-deze-stoornis-is-niet-altijd-te-zien.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:01:04+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623364/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html": {
-   "titel": "A Capella Christmas brengt kerstsfeer naar Kasteel Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623364/a-capella-christmas-brengt-kerstsfeer-naar-kasteel-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:01:04+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html": {
-   "titel": "Franse gitarist Claude Bourbon speelt blues in De Bunker in Gemert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108623362/franse-gitarist-claude-bourbon-speelt-blues-in-de-bunker-in-gemert.html",
-   "tekst": "",
-   "datum": "2026-11-17T08:01:04+00:00",
-   "eerst_gezien": "2026-11-17T08:17:43.974987+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html": {
    "titel": "Pakistaanse Bushra (65) zoekt veiligheid in Nuenen, terwijl de angst om haar familie haar niet loslaat",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108624431/pakistaanse-bushra-65-zoekt-veiligheid-in-nuenen-terwijl-de-angst-om-haar-familie-haar-niet-loslaat.html",
@@ -18456,12 +18408,12 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
@@ -18511,7 +18463,7 @@
   },
   "Gemeente Someren": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "Bekendmakingen Helmond": {
@@ -18556,7 +18508,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
