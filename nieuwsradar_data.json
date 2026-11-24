@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 21:14",
+ "bijgewerkt": "24-11-2026 21:30",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -778,7 +778,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 20:30"
@@ -4609,6 +4609,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700964/live-psv-ontsnapt-na-drie-goede-kansen-real-madrid-raakt-de-kruising-en-speelt-een-counter-slecht-uit.html": {
+   "titel": "LIVE | PSV ontsnapt na drie goede kansen: Real Madrid raakt de kruising en speelt een counter slecht uit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700964/live-psv-ontsnapt-na-drie-goede-kansen-real-madrid-raakt-de-kruising-en-speelt-een-counter-slecht-uit.html",
+   "tekst": "",
+   "datum": "2026-11-24T20:25:10+00:00",
+   "eerst_gezien": "2026-11-24T20:30:01.749507+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 21:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108700893/live-psv-krijgt-drie-goede-kansen-real-madrid-gevaarlijk-via-vinicius-junior.html": {
    "titel": "LIVE | PSV krijgt drie goede kansen, Real Madrid gevaarlijk via Viní­cius Júnior",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108700893/live-psv-krijgt-drie-goede-kansen-real-madrid-gevaarlijk-via-vinicius-junior.html",
@@ -4621,7 +4638,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 21:13"
@@ -4799,7 +4816,7 @@
    "tekst": "",
    "datum": "2026-11-24T16:31:04+00:00",
    "eerst_gezien": "2026-11-24T16:44:12.258936+00:00",
-   "bron": "Drimble Helmond",
+   "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
    ],
@@ -18981,7 +18998,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "Drimble Asten": {
