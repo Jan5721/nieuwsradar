@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 16:56",
+ "bijgewerkt": "24-11-2026 17:28",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -799,6 +799,23 @@
    "prio": false,
    "tijd": "18-11 10:11"
   },
+  "https://www.ed.nl/deurne/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne~a78ca9a34/": {
+   "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
+   "link": "https://www.ed.nl/deurne/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne~a78ca9a34/",
+   "tekst": "Bertus Borgers treedt met zijn nieuwe formatie Brabant Funk op in Cultuurcentrum Deurne. Vrijdag 27 november begint het concert om 20.30 uur en kaarten kosten 18 euro.",
+   "datum": "2026-11-24T16:18:00+00:00",
+   "eerst_gezien": "2026-11-24T16:28:12.443815+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 17:18"
+  },
   "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/": {
    "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
    "link": "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/",
@@ -862,7 +879,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:00"
@@ -935,23 +952,6 @@
    "prio": false,
    "tijd": "23-11 21:39"
   },
-  "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/": {
-   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: ‘Avond om de vriendschap te vieren’",
-   "link": "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/",
-   "tekst": "Vlierden vormt op 27 november het muzikale middelpunt van de Peelregio. Vrienden van de Peel Live brengt muzikanten en muziekliefhebbers in alle toonsoorten samen rond twee podia. Hoe gaat dat feest klinken?",
-   "datum": "2026-11-23T15:40:50+00:00",
-   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 16:40"
-  },
   "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/": {
    "titel": "Kinderen geven in Vlierden startsein voor jubileumproject op Sint Willibrorduskerk",
    "link": "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/",
@@ -968,6 +968,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:50"
+  },
+  "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/": {
+   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: ‘Avond om de vriendschap te vieren’",
+   "link": "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/",
+   "tekst": "Vlierden vormt op 27 november het muzikale middelpunt van de Peelregio. Vrienden van de Peel Live brengt muzikanten en muziekliefhebbers in alle toonsoorten samen rond twee podia. Hoe gaat dat feest klinken?",
+   "datum": "2026-11-23T15:40:50+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:40"
   },
   "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/": {
    "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus 3 drie miljoen duurder",
@@ -1383,7 +1400,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg": {
    "titel": "Helmond erkent woonbestemming aan Gerwenseweg",
    "link": "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg",
-   "tekst": "woensdag De gemeente Helmond heeft een woonbestemming erkend voor een pand aan de Gerwenseweg. Dit besluit volgt uit een omgevingsvergunning die eerder dit jaar werd aangevraagd.",
+   "tekst": "18 november 2026 De gemeente Helmond heeft een woonbestemming erkend voor een pand aan de Gerwenseweg. Dit besluit volgt uit een omgevingsvergunning die eerder dit jaar werd aangevraagd.",
    "datum": "2026-11-18T08:54:55.875632+00:00",
    "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1400,7 +1417,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035199/helmond-stelt-subsidieplafonds-voor-evenementen-in-2027-vast": {
    "titel": "Helmond stelt subsidieplafonds voor evenementen in 2027 vast",
    "link": "https://www.omroepbrabant.nl/nieuws/6035199/helmond-stelt-subsidieplafonds-voor-evenementen-in-2027-vast",
-   "tekst": "woensdag Burgemeester en wethouders van Helmond hebben het subsidieplafond voor evenementen in 2027 vastgesteld. In totaal is er vijfhonderdvierentachtigduizend euro beschikbaar.",
+   "tekst": "18 november 2026 Burgemeester en wethouders van Helmond hebben het subsidieplafond voor evenementen in 2027 vastgesteld. In totaal is er vijfhonderdvierentachtigduizend euro beschikbaar.",
    "datum": "2026-11-18T08:54:55.875632+00:00",
    "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1447,6 +1464,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 17:40"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen": {
+   "titel": "Stroomstoring in Helmond, herstel verwacht rond half negen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen",
+   "tekst": "17 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds vanmiddag zonder stroom. De storing begon om kwart over vier en eindigde om tien uur vanavond.",
+   "datum": "2026-11-24T16:28:12.443815+00:00",
+   "eerst_gezien": "2026-11-24T16:28:12.443815+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 17:28"
   },
   "https://www.omroepbrabant.nl/nieuws/6035112/stroomstoring-treft-helmond-minder-dan-100-adressen": {
    "titel": "Stroomstoring treft Helmond: minder dan 100 adressen",
@@ -1842,7 +1876,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne": {
    "titel": "Tijdelijke woonunit voor twee jaar aan Belgerenseweg in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne",
-   "tekst": "woensdag De gemeente Deurne heeft toestemming gegeven voor het plaatsen van een tijdelijke woonunit aan de Belgerenseweg. De woonunit mag maximaal twee jaar blijven staan.",
+   "tekst": "18 november 2026 De gemeente Deurne heeft toestemming gegeven voor het plaatsen van een tijdelijke woonunit aan de Belgerenseweg. De woonunit mag maximaal twee jaar blijven staan.",
    "datum": "2026-11-18T09:10:50.054002+00:00",
    "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1859,7 +1893,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035219/vergunning-verleend-voor-woningbouw-in-liessel": {
    "titel": "Vergunning verleend voor woningbouw in Liessel",
    "link": "https://www.omroepbrabant.nl/nieuws/6035219/vergunning-verleend-voor-woningbouw-in-liessel",
-   "tekst": "woensdag De gemeente Deurne heeft een vergunning verleend voor de bouw van een woning op Loon 58 b in Liessel. Het besluit is op 16 november 2026 genomen.",
+   "tekst": "18 november 2026 De gemeente Deurne heeft een vergunning verleend voor de bouw van een woning op Loon 58 b in Liessel. Het besluit is op 16 november 2026 genomen.",
    "datum": "2026-11-18T09:10:50.054002+00:00",
    "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4609,6 +4643,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699422/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
+   "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699422/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html",
+   "tekst": "",
+   "datum": "2026-11-24T16:25:14+00:00",
+   "eerst_gezien": "2026-11-24T16:28:12.443815+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108699179/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout.html": {
    "titel": "Geen reling, geen vangnet, geen verankering: werknemer valt van pallet en sterft, bedrijf uit Lierop ontkent fout",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108699179/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout.html",
@@ -4621,7 +4671,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4637,7 +4687,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4788,22 +4838,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 13:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108697413/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html": {
-   "titel": "Eerste sneeuw van winterseizoen gevallen in Brabant",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697413/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html",
-   "tekst": "",
-   "datum": "2026-11-24T12:01:05+00:00",
-   "eerst_gezien": "2026-11-24T12:11:30.877464+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -5004,23 +5038,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 01:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108674554/twee-kinderen-onder-de-12-veroorzaken-grote-brand-op-basisschool.html": {
-   "titel": "Twee kinderen onder de 12 veroorzaken grote brand op basisschool",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108674554/twee-kinderen-onder-de-12-veroorzaken-grote-brand-op-basisschool.html",
-   "tekst": "Twee kinderen jonger dan twaalf jaar hebben vrijdagavond een grote brand veroorzaakt op basisschool Zeilberg in het Brabantse Deurne....",
-   "datum": "2026-11-21T22:47:06+00:00",
-   "eerst_gezien": "2026-11-21T22:54:05.653157+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 23:47"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108689819/verslaggevers-siris-dinsdag-aanwezig-in-gemeenschapshuis-t-kwartier-in-asten-met-pop-up-redactie.html": {
    "titel": "Verslaggevers SIRIS dinsdag aanwezig in gemeenschapshuis ’t Kwartier in Asten met pop-up redactie",
@@ -5456,7 +5473,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 16:41"
@@ -5868,6 +5885,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 00:45"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108697413/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html": {
+   "titel": "Eerste sneeuw van winterseizoen gevallen in Brabant",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108697413/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html",
+   "tekst": "",
+   "datum": "2026-11-24T12:01:05+00:00",
+   "eerst_gezien": "2026-11-24T12:11:30.877464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108674554/twee-kinderen-onder-de-12-veroorzaken-grote-brand-op-basisschool.html": {
+   "titel": "Twee kinderen onder de 12 veroorzaken grote brand op basisschool",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108674554/twee-kinderen-onder-de-12-veroorzaken-grote-brand-op-basisschool.html",
+   "tekst": "Twee kinderen jonger dan twaalf jaar hebben vrijdagavond een grote brand veroorzaakt op basisschool Zeilberg in het Brabantse Deurne....",
+   "datum": "2026-11-21T22:47:06+00:00",
+   "eerst_gezien": "2026-11-21T22:54:05.653157+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 23:47"
   },
   "https://www.ed.nl/someren/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat~a18cd145/": {
    "titel": "Werknemer viel van pallet op ruim 2 meter hoogte en stierf ter plekke: bedrijf uit Lierop ontkent dat het fout zat",
@@ -16836,23 +16886,6 @@
    "prio": false,
    "tijd": "18-11 19:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627636/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:11:39+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:11"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108639843/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html": {
    "titel": "Hamburgerketen zet mes in eigen vlees: zaken in Eindhoven en Den Bosch dicht",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108639843/hamburgerketen-zet-mes-in-eigen-vlees-zaken-in-eindhoven-en-den-bosch-dicht.html",
@@ -18803,55 +18836,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627743/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
-   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627743/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:25:17+00:00",
-   "eerst_gezien": "2026-11-17T16:40:52.693626+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627667/jannes-b-22-acht-jaar-vast-voor-gewelddadige-overvallen-in-zijtaart-en-sint-oedenrode-kinderen-sliepen-in-woning.html": {
-   "titel": "Jannes B. (22) acht jaar vast voor gewelddadige overvallen in Zijtaart en Sint-Oedenrode, kinderen sliepen in woning",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627667/jannes-b-22-acht-jaar-vast-voor-gewelddadige-overvallen-in-zijtaart-en-sint-oedenrode-kinderen-sliepen-in-woning.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:13:11+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 17:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627505/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627505/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:01:05+00:00",
-   "eerst_gezien": "2026-11-17T16:07:36.374713+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108628381/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html": {
    "titel": "Politie controleert auto op A67: bestuurder heeft foto van vervalste ID-kaart bij zich en test positief op cocaïne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108628381/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html",
@@ -18868,22 +18852,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 18:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html": {
-   "titel": "Deurnese villa met opvallende toren zit straks ineens vol senioren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627715/deurnese-villa-met-opvallende-toren-zit-straks-ineens-vol-senioren.html",
-   "tekst": "",
-   "datum": "2026-11-17T16:19:02+00:00",
-   "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -18909,7 +18877,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -18929,7 +18897,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18994,7 +18962,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Asten": {
