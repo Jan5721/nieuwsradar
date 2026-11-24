@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 19:21",
+ "bijgewerkt": "24-11-2026 19:37",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -765,6 +765,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:11"
+  },
+  "https://www.ed.nl/deurne/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders~ad75c7e4/": {
+   "titel": "Miljoenen euro’s schade aan Deurnese basisschool: wordt dat verhaald op de ouders?",
+   "link": "https://www.ed.nl/deurne/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders~ad75c7e4/",
+   "tekst": "De twee 11-jarige kinderen die door vuurwerk af te steken het dak van basisschool Zeilberg in brand hebben gestoken, zijn daar zelf niet financieel aansprakelijk voor.",
+   "datum": "2026-11-24T18:30:04+00:00",
+   "eerst_gezien": "2026-11-24T18:37:26.479152+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 19:30"
   },
   "https://www.ed.nl/deurne/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne~a78ca9a34/": {
    "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
@@ -4575,12 +4592,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108700266/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108700298/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html": {
    "titel": "Nieuw pand op markante hoek in Geldrop klaar, met gevel die teruggrijpt op 1908",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700266/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700298/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html",
    "tekst": "",
-   "datum": "2026-11-24T18:19:02+00:00",
-   "eerst_gezien": "2026-11-24T18:21:12.572080+00:00",
+   "datum": "2026-11-24T18:25:10+00:00",
+   "eerst_gezien": "2026-11-24T18:37:26.479152+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4590,7 +4607,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "24-11 19:19"
+   "tijd": "24-11 19:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700227/nieuw-leven-op-historische-textielplek-in-centrum-geldrop.html": {
    "titel": "Nieuw leven op historische textielplek in centrum Geldrop",
@@ -4604,7 +4621,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 19:13"
@@ -5750,6 +5767,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 08:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700266/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html": {
+   "titel": "Nieuw pand op markante hoek in Geldrop klaar, met gevel die teruggrijpt op 1908",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700266/nieuw-pand-op-markante-hoek-in-geldrop-klaar-met-gevel-die-teruggrijpt-op-1908.html",
+   "tekst": "",
+   "datum": "2026-11-24T18:19:02+00:00",
+   "eerst_gezien": "2026-11-24T18:21:12.572080+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 19:19"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126072419a2helmondrit140116": {
    "titel": "A2 Helmond Rit: 140116",
@@ -18758,7 +18792,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -18863,7 +18897,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
