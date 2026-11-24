@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 06:47",
+ "bijgewerkt": "24-11-2026 07:03",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64855/zakelijk-sjvv-wint-eenvoudig-bij-koningslust": {
    "titel": "Zakelijk SJVV wint eenvoudig bij Koningslust",
@@ -936,23 +936,6 @@
    "prio": false,
    "tijd": "23-11 07:28"
   },
-  "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
-   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘De kroeg in op zondagmiddag’",
-   "link": "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/",
-   "tekst": "Zes cafés, zeven livebands. In Deurnese horecazaken rond de Markt klinken zondag meezingers, rocknummers, oude en nieuwe hits en Elvis-liedjes. Als je wil, kun je overal binnenlopen en van elk optreden iets meepikken.",
-   "datum": "2026-11-22T20:00:00+00:00",
-   "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 21:00"
-  },
   "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
    "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
@@ -969,6 +952,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:27"
+  },
+  "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
+   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘De kroeg in op zondagmiddag’",
+   "link": "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/",
+   "tekst": "Zes cafés, zeven livebands. In Deurnese horecazaken rond de Markt klinken zondag meezingers, rocknummers, oude en nieuwe hits en Elvis-liedjes. Als je wil, kun je overal binnenlopen en van elk optreden iets meepikken.",
+   "datum": "2026-11-22T20:00:00+00:00",
+   "eerst_gezien": "2026-11-22T20:02:58.652551+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 21:00"
   },
   "https://www.ed.nl/asten/loek-sonnemans-30-springt-in-het-diepe-als-componist-het-voelt-helemaal-niet-als-werken~ae1b5c36/": {
    "titel": "Loek Sonnemans (30) springt in het diepe als componist: ‘Het voelt helemaal niet als werken’",
@@ -2271,7 +2271,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten": {
    "titel": "Valpreventie voor ouderen: bijeenkomst in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten",
-   "tekst": "dinsdag Ouderen in Someren liepen de afgelopen vijf jaar 540 keer ernstig letsel op door een val. Op donderdag 26 november is er een informatiebijeenkomst over valpreventie in Asten.",
+   "tekst": "17 november 2026 Ouderen in Someren liepen de afgelopen vijf jaar 540 keer ernstig letsel op door een val. Op donderdag 26 november is er een informatiebijeenkomst over valpreventie in Asten.",
    "datum": "2026-11-17T13:40:49.884721+00:00",
    "eerst_gezien": "2026-11-17T13:40:49.884721+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4628,12 +4628,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108694829/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108694840/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html": {
    "titel": "Na slepende rechtszaak trekt Ennatuurlijk eindelijk de portemonnee: klanten in Meerhoven krijgen aansluitkosten terug",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694829/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694840/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html",
    "tekst": "",
-   "datum": "2026-11-24T05:43:15+00:00",
-   "eerst_gezien": "2026-11-24T05:47:11.444803+00:00",
+   "datum": "2026-11-24T05:49:05+00:00",
+   "eerst_gezien": "2026-11-24T06:03:14.186343+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4643,7 +4643,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "24-11 06:43"
+   "tijd": "24-11 06:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108694252/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
@@ -5821,6 +5821,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 08:27"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108694829/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html": {
+   "titel": "Na slepende rechtszaak trekt Ennatuurlijk eindelijk de portemonnee: klanten in Meerhoven krijgen aansluitkosten terug",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108694829/na-slepende-rechtszaak-trekt-ennatuurlijk-eindelijk-de-portemonnee-klanten-in-meerhoven-krijgen-aansluitkosten-terug.html",
+   "tekst": "",
+   "datum": "2026-11-24T05:43:15+00:00",
+   "eerst_gezien": "2026-11-24T05:47:11.444803+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 06:43"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#231126082401a1helmondrit139680": {
    "titel": "A1 Helmond Rit: 139680",
@@ -8047,23 +8064,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "22-11 07:13"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#221126070046a2astenrit139263": {
-   "titel": "A2 Asten Rit: 139263",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#221126070046a2astenrit139263",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-22T07:00:46+01:00",
-   "eerst_gezien": "2026-11-22T06:07:34.178054+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "22-11 07:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108678045/niels-22-beleeft-spannend-toneeldebuut-in-vlierden-zenuwachtiger-dan-voor-mijn-prinsenonthulling.html": {
    "titel": "Niels (22) beleeft spannend toneeldebuut in Vlierden: `Zenuwachtiger dan voor mijn prinsenonthulling`",
@@ -18316,23 +18316,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108622730/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond.html": {
-   "titel": "Wethouder Rieter helpt mee zichzelf raadsvragen te stellen over gewenste landelijke intocht van Sint in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108622730/wethouder-rieter-helpt-mee-zichzelf-raadsvragen-te-stellen-over-gewenste-landelijke-intocht-van-sint-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-17T05:49:06+00:00",
-   "eerst_gezien": "2026-11-17T05:51:56.006717+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 06:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html": {
    "titel": "Junioravond in Geldrop staat in het teken van reuzenplaneten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108623190/junioravond-in-geldrop-staat-in-het-teken-van-reuzenplaneten.html",
@@ -18402,12 +18385,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 7,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -18507,7 +18490,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
