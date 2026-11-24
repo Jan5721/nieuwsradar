@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 11:51",
+ "bijgewerkt": "24-11-2026 12:07",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64857/trainers-taekwon-do-academy-chon-ji-slagen-voor-dangraadexamen": {
    "titel": "Trainers Taekwon-Do Academy Chon-Ji slagen voor dangraadexamen",
@@ -539,7 +539,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:35"
@@ -918,6 +918,23 @@
    "prio": false,
    "tijd": "23-11 16:00"
   },
+  "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/": {
+   "titel": "Kinderen geven in Vlierden startsein voor jubileumproject op Sint Willibrorduskerk",
+   "link": "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/",
+   "tekst": "Gemeente Deurne begint in Vlierden met het project ‘Ons dorp in de schijnwerpers’. Woensdag 25 november verschijnt om 18.30 uur de eerste projectie op de Sint Willibrorduskerk aan de Pastoriestraat 22.",
+   "datum": "2026-11-24T10:50:59+00:00",
+   "eerst_gezien": "2026-11-24T11:07:16.408810+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:50"
+  },
   "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/": {
    "titel": "Gemeente Deurne verdeelt subsidies aan professionele organisaties vanaf 2029 anders",
    "link": "https://www.ed.nl/deurne/gemeente-deurne-verdeelt-subsidies-aan-professionele-organisaties-vanaf-2029-anders~ac29c3bf/",
@@ -934,23 +951,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:27"
-  },
-  "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/": {
-   "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
-   "link": "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/",
-   "tekst": "De deels door brand verwoeste basisschool Zeilberg hoopt de lessen over een week op een andere plek in Deurne te hervatten. Maandagochtend zijn de circa driehonderd getroffen leerlingen en hun ouders in een besloten bijeenkomst bijgepraat.",
-   "datum": "2026-11-23T10:16:00+00:00",
-   "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 11:16"
   },
   "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/": {
    "titel": "Midas winkelcentrum in Asten houdt workshop stapelkaars maken",
@@ -2264,7 +2264,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:51"
@@ -4558,6 +4558,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696888/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html": {
+   "titel": "Eerste sneeuw van de winter gevallen in Brabant",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696888/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html",
+   "tekst": "",
+   "datum": "2026-11-24T11:01:05+00:00",
+   "eerst_gezien": "2026-11-24T11:07:16.408810+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 12:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696887/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html": {
+   "titel": "LIVE | Schitterend affiche: PSV maakt zich op voor Champions League-kraker bij Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696887/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-24T11:01:05+00:00",
+   "eerst_gezien": "2026-11-24T11:07:16.408810+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 12:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108696764/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html": {
    "titel": "Tientallen beveiligers bij distributiecentrum in Eindhoven na blokkades in België",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108696764/tientallen-beveiligers-bij-distributiecentrum-in-eindhoven-na-blokkades-in-belgie.html",
@@ -4570,7 +4604,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:49"
@@ -4587,7 +4621,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:49"
@@ -4604,7 +4638,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:49"
@@ -4621,7 +4655,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4637,7 +4671,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4822,39 +4856,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 10:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696078/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html": {
-   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696078/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html",
-   "tekst": "",
-   "datum": "2026-11-24T09:19:03+00:00",
-   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696076/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html": {
-   "titel": "Update: zo staat het ervoor met de Kasteel-Traverse",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696076/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html",
-   "tekst": "",
-   "datum": "2026-11-24T09:19:03+00:00",
-   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 10:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -5902,6 +5903,56 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 15:49"
+  },
+  "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/": {
+   "titel": "Ouders en leerlingen deels afgebrande basisschool in Zeilberg bijgepraat: lof voor aanpak maar ook vragen",
+   "link": "https://www.ed.nl/deurne/ouders-en-leerlingen-deels-afgebrande-basisschool-in-zeilberg-bijgepraat-lof-voor-aanpak-maar-ook-vragen~a79a84e7/",
+   "tekst": "De deels door brand verwoeste basisschool Zeilberg hoopt de lessen over een week op een andere plek in Deurne te hervatten. Maandagochtend zijn de circa driehonderd getroffen leerlingen en hun ouders in een besloten bijeenkomst bijgepraat.",
+   "datum": "2026-11-23T10:16:00+00:00",
+   "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 11:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696078/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html": {
+   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696078/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:19:03+00:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696076/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html": {
+   "titel": "Update: zo staat het ervoor met de Kasteel-Traverse",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696076/update-zo-staat-het-ervoor-met-de-kasteel-traverse.html",
+   "tekst": "",
+   "datum": "2026-11-24T09:19:03+00:00",
+   "eerst_gezien": "2026-11-24T09:31:27.298566+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 10:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696075/gewonde-bij-steekpartij-in-eindhovense-kliniek-verdachte-na-een-uur-aangehouden.html": {
    "titel": "Gewonde bij steekpartij in Eindhovense kliniek, verdachte na een uur aangehouden",
@@ -18778,55 +18829,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 12:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108624971/na-zelfdoding-van-marcelle-24-blijven-haar-ouders-met-vragen-zitten-fouten-worden-verzwegen.html": {
-   "titel": "Na zelfdoding van Marcelle (24) blijven haar ouders met vragen zitten: `Fouten worden verzwegen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624971/na-zelfdoding-van-marcelle-24-blijven-haar-ouders-met-vragen-zitten-fouten-worden-verzwegen.html",
-   "tekst": "",
-   "datum": "2026-11-17T11:01:04+00:00",
-   "eerst_gezien": "2026-11-17T11:15:09.316881+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 12:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108624970/de-anijskrollen-vliegen-weer-over-de-toonbank-het-leeft-heel-erg.html": {
-   "titel": "De anijskrollen vliegen weer over de toonbank: `Het leeft heel erg`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624970/de-anijskrollen-vliegen-weer-over-de-toonbank-het-leeft-heel-erg.html",
-   "tekst": "",
-   "datum": "2026-11-17T11:01:04+00:00",
-   "eerst_gezien": "2026-11-17T11:15:09.316881+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108624912/na-zelfdoding-van-marcelle-24-blijven-haar-ouders-met-vragen-zitten-fouten-worden-verzwegen.html": {
-   "titel": "Na zelfdoding van Marcelle (24) blijven haar ouders met vragen zitten: `Fouten worden verzwegen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108624912/na-zelfdoding-van-marcelle-24-blijven-haar-ouders-met-vragen-zitten-fouten-worden-verzwegen.html",
-   "tekst": "",
-   "datum": "2026-11-17T10:55:05+00:00",
-   "eerst_gezien": "2026-11-17T10:59:06.828700+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108626098/cateringbedrijf-maison-van-den-boer-vertrekt-na-120-jaar-uit-veghel-passende-oplossing-gezocht-voor-medewerkers.html": {
    "titel": "Cateringbedrijf Maison van den Boer vertrekt na 120 jaar uit Veghel, `passende oplossing` gezocht voor medewerkers",
