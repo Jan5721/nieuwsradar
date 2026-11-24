@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "24-11-2026 16:40",
+ "bijgewerkt": "24-11-2026 16:56",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -811,7 +811,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 16:29"
@@ -850,19 +850,19 @@
    "prio": false,
    "tijd": "24-11 15:26"
   },
-  "https://www.ed.nl/someren/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat~a18cd145/": {
-   "titel": "Werknemer viel van pallet op ruim 2 meter hoogte en stierf ter plekke: bedrijf uit Lierop ontkent dat het fout zat",
-   "link": "https://www.ed.nl/someren/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat~a18cd145/",
+  "https://www.ed.nl/someren/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout~a18cd145/": {
+   "titel": "Geen reling, geen vangnet, geen verankering: werknemer valt van pallet en sterft, bedrijf uit Lierop ontkent fout",
+   "link": "https://www.ed.nl/someren/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout~a18cd145/",
    "tekst": "Een dodelijke val in Lierop tijdens schuren en schilderen van een container komt Rutom Cargo mogelijk op een boete van een ton te staan. Het OM verwijt het transportbedrijf ernstige nalatigheid.",
    "datum": "2026-11-24T14:00:00+00:00",
-   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "eerst_gezien": "2026-11-24T15:56:02.861135+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Someren"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:00"
@@ -1447,23 +1447,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "17-11 17:40"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen": {
-   "titel": "Stroomstoring in Helmond, herstel verwacht rond half negen",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035124/stroomstoring-in-helmond-herstel-verwacht-rond-half-negen",
-   "tekst": "17 november 2026 De stroomstoring in Helmond is opgelost. Minder dan 25 adressen zaten sinds vanmiddag zonder stroom. De storing begon om kwart over vier en eindigde om tien uur vanavond.",
-   "datum": "2026-11-17T15:51:24.334830+00:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:51"
   },
   "https://www.omroepbrabant.nl/nieuws/6035112/stroomstoring-treft-helmond-minder-dan-100-adressen": {
    "titel": "Stroomstoring treft Helmond: minder dan 100 adressen",
@@ -2562,23 +2545,6 @@
    "titel": "Erica en Wilhelmien benoemd tot erelid turnvereniging Someren",
    "link": "https://www.omroepbrabant.nl/nieuws/6034317/erica-en-wilhelmien-benoemd-tot-erelid-turnvereniging-someren",
    "tekst": "11 november 2026 Erica van den Boogaart en Wilhelmien Verdeuzeldonk zijn benoemd tot erelid van Turnvereniging Someren. Dit gebeurde afgelopen zondag tijdens een grote uitvoering in Someren-Eind.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034279/dorpsraden-in-someren-versterken-leefbaarheid": {
-   "titel": "Dorpsraden in Someren versterken leefbaarheid",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034279/dorpsraden-in-someren-versterken-leefbaarheid",
-   "tekst": "10 november 2026 In Someren zetten drie dorpsraden zich in voor de leefbaarheid van hun dorpen. De dorpsraden vormen een belangrijke schakel tussen inwoners en de gemeente.",
    "datum": "2026-11-23T12:57:19.109671+00:00",
    "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4643,12 +4609,28 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108699042/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html": {
-   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699042/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108699179/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout.html": {
+   "titel": "Geen reling, geen vangnet, geen verankering: werknemer valt van pallet en sterft, bedrijf uit Lierop ontkent fout",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699179/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout.html",
    "tekst": "",
-   "datum": "2026-11-24T15:31:05+00:00",
-   "eerst_gezien": "2026-11-24T15:39:41.017033+00:00",
+   "datum": "2026-11-24T15:49:07+00:00",
+   "eerst_gezien": "2026-11-24T15:56:02.861135+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699135/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html": {
+   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699135/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:43:17+00:00",
+   "eerst_gezien": "2026-11-24T15:56:02.861135+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4813,56 +4795,6 @@
    "tekst": "",
    "datum": "2026-11-24T12:01:05+00:00",
    "eerst_gezien": "2026-11-24T12:11:30.877464+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696980/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html": {
-   "titel": "Eerste sneeuw van de winter gevallen in Brabant",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696980/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html",
-   "tekst": "",
-   "datum": "2026-11-24T11:13:25+00:00",
-   "eerst_gezien": "2026-11-24T11:39:18.364901+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 12:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696979/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html": {
-   "titel": "LIVE | Schitterend affiche: PSV maakt zich op voor Champions League-kraker bij Real Madrid",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696979/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html",
-   "tekst": "",
-   "datum": "2026-11-24T11:13:25+00:00",
-   "eerst_gezien": "2026-11-24T11:39:18.364901+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 12:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108696888/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html": {
-   "titel": "Eerste sneeuw van de winter gevallen in Brabant",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696888/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html",
-   "tekst": "",
-   "datum": "2026-11-24T11:01:05+00:00",
-   "eerst_gezien": "2026-11-24T11:07:16.408810+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5512,6 +5444,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126164113a2deurnerit140378": {
+   "titel": "A2 Deurne Rit: 140378",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126164113a2deurnerit140378",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-24T16:41:13+01:00",
+   "eerst_gezien": "2026-11-24T15:56:02.861135+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 16:41"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126162824a2deurnerit140371": {
    "titel": "A2 Deurne Rit: 140371",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126162824a2deurnerit140371",
@@ -5524,7 +5473,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 16:28"
@@ -5919,6 +5868,106 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 00:45"
+  },
+  "https://www.ed.nl/someren/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat~a18cd145/": {
+   "titel": "Werknemer viel van pallet op ruim 2 meter hoogte en stierf ter plekke: bedrijf uit Lierop ontkent dat het fout zat",
+   "link": "https://www.ed.nl/someren/werknemer-viel-van-pallet-op-ruim-2-meter-hoogte-en-stierf-ter-plekke-bedrijf-uit-lierop-ontkent-dat-het-fout-zat~a18cd145/",
+   "tekst": "Een dodelijke val in Lierop tijdens schuren en schilderen van een container komt Rutom Cargo mogelijk op een boete van een ton te staan. Het OM verwijt het transportbedrijf ernstige nalatigheid.",
+   "datum": "2026-11-24T14:00:00+00:00",
+   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 15:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034279/dorpsraden-in-someren-versterken-leefbaarheid": {
+   "titel": "Dorpsraden in Someren versterken leefbaarheid",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034279/dorpsraden-in-someren-versterken-leefbaarheid",
+   "tekst": "10 november 2026 In Someren zetten drie dorpsraden zich in voor de leefbaarheid van hun dorpen. De dorpsraden vormen een belangrijke schakel tussen inwoners en de gemeente.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699042/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html": {
+   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699042/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-24T15:31:05+00:00",
+   "eerst_gezien": "2026-11-24T15:39:41.017033+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696980/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html": {
+   "titel": "Eerste sneeuw van de winter gevallen in Brabant",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696980/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html",
+   "tekst": "",
+   "datum": "2026-11-24T11:13:25+00:00",
+   "eerst_gezien": "2026-11-24T11:39:18.364901+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 12:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696979/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html": {
+   "titel": "LIVE | Schitterend affiche: PSV maakt zich op voor Champions League-kraker bij Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696979/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-24T11:13:25+00:00",
+   "eerst_gezien": "2026-11-24T11:39:18.364901+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 12:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108696888/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html": {
+   "titel": "Eerste sneeuw van de winter gevallen in Brabant",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108696888/eerste-sneeuw-van-de-winter-gevallen-in-brabant.html",
+   "tekst": "",
+   "datum": "2026-11-24T11:01:05+00:00",
+   "eerst_gezien": "2026-11-24T11:07:16.408810+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126000918a2helmondrit140064": {
    "titel": "A2 Helmond Rit: 140064",
@@ -6770,7 +6819,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "23-11 13:57"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108695452/gewonde-bij-steekpartij-in-eindhoven-politie-druk-bezig-met-aanhouding.html": {
    "titel": "Gewonde bij steekpartij in Eindhoven, politie druk bezig met aanhouding",
@@ -18802,23 +18852,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html": {
-   "titel": "Rechtbank legt hogere celstraf op voor woningovervallen Zijtaart en Sint-Oedenrode",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627408/rechtbank-legt-hogere-celstraf-op-voor-woningovervallen-zijtaart-en-sint-oedenrode.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:49:05+00:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "17-11 16:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108628381/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html": {
    "titel": "Politie controleert auto op A67: bestuurder heeft foto van vervalste ID-kaart bij zich en test positief op cocaïne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108628381/politie-controleert-auto-op-a67-bestuurder-heeft-foto-van-vervalste-id-kaart-bij-zich-en-test-positief-op-cocaine.html",
@@ -18842,22 +18875,6 @@
    "tekst": "",
    "datum": "2026-11-17T16:19:02+00:00",
    "eerst_gezien": "2026-11-17T16:24:03.086889+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html": {
-   "titel": "Deurnese villa met opvallende toren staat leeg, maar dit monument wil straks ineens vol senioren zitten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108627410/deurnese-villa-met-opvallende-toren-staat-leeg-maar-dit-monument-wil-straks-ineens-vol-senioren-zitten.html",
-   "tekst": "",
-   "datum": "2026-11-17T15:49:08+00:00",
-   "eerst_gezien": "2026-11-17T15:51:24.334830+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Deurne"
@@ -18912,7 +18929,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18927,7 +18944,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18972,7 +18989,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
