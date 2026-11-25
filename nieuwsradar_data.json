@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 11:58",
+ "bijgewerkt": "25-11-2026 12:14",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
    "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
@@ -750,21 +750,22 @@
    "prio": false,
    "tijd": "18-11 15:02"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64774/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v": {
-   "titel": "Orange the World: Peelregio kleurt oranje tegen geweld tegen vrouwen",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64774/orange-the-world-peelregio-kleurt-oranje-tegen-geweld-tegen-v",
-   "tekst": "DE PEEL - Soroptimistclub Helmond-Peelland neemt van 25 november tot en met 10 december deel aan 'Orange the World', de wereldwijde campagne tegen geweld tegen vrouwen en meisjes. In de Peelregio worden vlaggen gehesen en gebouwen oranje verlicht om aandacht te vragen voor dit …",
-   "datum": "2026-11-18T12:11:00+01:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "Peelbelang",
+  "https://www.ed.nl/helmond/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam~adfc0da4/": {
+   "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
+   "link": "https://www.ed.nl/helmond/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam~adfc0da4/",
+   "tekst": "De gemeente Helmond heeft rolstoeltennisser Niels Vink geëerd nadat hij in september een Calendar Slam behaalde. Om deze prestatie te eren overhandigde wethouder Martijn Rieter een kunstwerk van stadskunstenaar Ilse van Kraaij aan de Helmondse topsporter.",
+   "datum": "2026-11-25T11:05:53+00:00",
+   "eerst_gezien": "2026-11-25T11:14:11.610986+00:00",
+   "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "lokale pers",
+   "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "25-11 12:05"
   },
   "https://www.ed.nl/helmond/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol~a31cbaf8/": {
    "titel": "Connie Palmen komt naar Helmond en vertelt over haar ‘veertigjarige relatie’ met alcohol",
@@ -952,23 +953,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 15:00"
-  },
-  "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/": {
-   "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
-   "link": "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/",
-   "tekst": "Kelly Boermans geeft in Helmond een gratis lezing over testamenten, levenstestamenten en keuzes rond nalatenschap. Maandag 30 november is de bijeenkomst om 13.00 uur in Zalencentrum de Smed aan de St. Trudostraat 40.",
-   "datum": "2026-11-24T10:25:42+00:00",
-   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:25"
   },
   "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/": {
    "titel": "Afgelopen week 12 meldingen van de gemeente over onder meer bouw in Deurne",
@@ -4711,6 +4695,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108708149/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html": {
+   "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708149/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html",
+   "tekst": "",
+   "datum": "2026-11-25T11:13:25+00:00",
+   "eerst_gezien": "2026-11-25T11:14:11.610986+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
    "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html",
@@ -4723,7 +4723,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:49"
@@ -4740,7 +4740,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:49"
@@ -4957,23 +4957,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108706801/overrompeld-door-verbazingwekkend-psv-spaanse-media-onder-de-indruk-van-strijdplan-peter-bosz-in-eerste-helft.html": {
-   "titel": "`Overrompeld door verbazingwekkend PSV`: Spaanse media onder de indruk van strijdplan Peter Bosz in eerste helft",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706801/overrompeld-door-verbazingwekkend-psv-spaanse-media-onder-de-indruk-van-strijdplan-peter-bosz-in-eerste-helft.html",
-   "tekst": "",
-   "datum": "2026-11-25T08:49:09+00:00",
-   "eerst_gezien": "2026-11-25T08:49:40.194633+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 09:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html",
@@ -5167,7 +5150,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:53"
@@ -6154,6 +6137,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/": {
+   "titel": "Lezing over keuzes rond testament en nalatenschap in Helmond",
+   "link": "https://www.ed.nl/helmond/lezing-over-keuzes-rond-testament-en-nalatenschap-in-helmond~a951114f/",
+   "tekst": "Kelly Boermans geeft in Helmond een gratis lezing over testamenten, levenstestamenten en keuzes rond nalatenschap. Maandag 30 november is de bijeenkomst om 13.00 uur in Zalencentrum de Smed aan de St. Trudostraat 40.",
+   "datum": "2026-11-24T10:25:42+00:00",
+   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 11:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706801/overrompeld-door-verbazingwekkend-psv-spaanse-media-onder-de-indruk-van-strijdplan-peter-bosz-in-eerste-helft.html": {
+   "titel": "`Overrompeld door verbazingwekkend PSV`: Spaanse media onder de indruk van strijdplan Peter Bosz in eerste helft",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706801/overrompeld-door-verbazingwekkend-psv-spaanse-media-onder-de-indruk-van-strijdplan-peter-bosz-in-eerste-helft.html",
+   "tekst": "",
+   "datum": "2026-11-25T08:49:09+00:00",
+   "eerst_gezien": "2026-11-25T08:49:40.194633+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 09:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108706550/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
    "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
@@ -18753,72 +18770,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
-   "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636224/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:13:05+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636168/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html": {
-   "titel": "Gemert past bouwplan Textielkwartier aan, maar buurt vindt het nog steeds te massaal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636168/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:07:25+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 12:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636167/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html": {
-   "titel": "Sint Petruskerk in Eindhoven toont kerstgroepen en bijzondere collectie engeltjes",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636167/sint-petruskerk-in-eindhoven-toont-kerstgroepen-en-bijzondere-collectie-engeltjes.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:07:25+00:00",
-   "eerst_gezien": "2026-11-18T11:20:10.234961+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636117/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html": {
-   "titel": "Gemert past bouwplan Textielkwartier aan, maar buurt vindt het nog steeds te massaal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636117/gemert-past-bouwplan-textielkwartier-aan-maar-buurt-vindt-het-nog-steeds-te-massaal.html",
-   "tekst": "",
-   "datum": "2026-11-18T11:01:05+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html": {
    "titel": "Myriam bouwde jarenlang aan de kunstwereld in Veghel, nu neemt ze afscheid: `Het is weer tijd om zelf te creëren`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html",
@@ -18861,7 +18812,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
