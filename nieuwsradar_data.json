@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 00:09",
+ "bijgewerkt": "26-11-2026 00:25",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -4592,7 +4592,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4608,7 +4608,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 23:54"
@@ -5340,7 +5340,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5478,6 +5478,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126001822a2helmondrit140942": {
+   "titel": "A2 Helmond Rit: 140942",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126001822a2helmondrit140942",
+   "tekst": "Ambulance 22-121 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T00:18:22+01:00",
+   "eerst_gezien": "2026-11-25T23:24:29.512606+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 00:18"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126000336a1helmondrit140939": {
    "titel": "A1 Helmond Rit: 140939",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126000336a1helmondrit140939",
@@ -5490,7 +5507,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 00:03"
@@ -9338,23 +9355,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126000918a2helmondrit140064": {
-   "titel": "A2 Helmond Rit: 140064",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126000918a2helmondrit140064",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T00:09:18+01:00",
-   "eerst_gezien": "2026-11-23T23:23:50.280209+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 00:09"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696887/live-schitterend-affiche-psv-maakt-zich-op-voor-champions-league-kraker-bij-real-madrid.html": {
    "titel": "LIVE | Schitterend affiche: PSV maakt zich op voor Champions League-kraker bij Real Madrid",
@@ -18960,23 +18960,6 @@
    "prio": false,
    "tijd": "19-11 00:42"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108644097/explosief-gaat-af-bij-geparkeerde-auto-in-eindhoven-politie-doet-onderzoek.html": {
-   "titel": "Explosief gaat af bij geparkeerde auto in Eindhoven, politie doet onderzoek",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108644097/explosief-gaat-af-bij-geparkeerde-auto-in-eindhoven-politie-doet-onderzoek.html",
-   "tekst": "",
-   "datum": "2026-11-18T23:13:02+00:00",
-   "eerst_gezien": "2026-11-18T23:14:53.833906+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 00:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108645291/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html": {
    "titel": "Ombudsman TU/e ontkent betrokkenheid bij ontslagzaak, maar zat eerder als mediator wel degelijk aan tafel",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108645291/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html",
@@ -19118,7 +19101,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
