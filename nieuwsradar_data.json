@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 10:38",
+ "bijgewerkt": "25-11-2026 10:54",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1885,7 +1885,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:37"
@@ -1902,7 +1902,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:37"
@@ -2263,7 +2263,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:37"
@@ -2557,6 +2557,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T09:53:55.901824+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:53"
   },
   "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
    "titel": "Pitchavond subsidie Street Culture en Sports",
@@ -4609,6 +4626,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707388/voorpagina-met-fvd-foto-leidt-tot-verontwaardigde-reacties-van-lezers.html": {
+   "titel": "Voorpagina met FvD-foto leidt tot verontwaardigde reacties van lezers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707388/voorpagina-met-fvd-foto-leidt-tot-verontwaardigde-reacties-van-lezers.html",
+   "tekst": "",
+   "datum": "2026-11-25T09:49:11+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108707058/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html": {
    "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108707058/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html",
@@ -4782,38 +4816,6 @@
    "tekst": "In een container aan het Kasteelplein in Helmond is dinsdagnacht brand uitgebroken. De container met daarin een grote accu stond vlakbij...",
    "datum": "2026-11-25T05:17:04+00:00",
    "eerst_gezien": "2026-11-25T05:21:34.098671+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108705647/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html": {
-   "titel": "Alida werd slachtoffer van huiselijk geweld: `Schuld wordt nog te vaak bij de vrouw gelegd`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705647/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html",
-   "tekst": "",
-   "datum": "2026-11-25T05:13:02+00:00",
-   "eerst_gezien": "2026-11-25T05:21:34.098671+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108704717/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
-   "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108704717/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
-   "tekst": "",
-   "datum": "2026-11-24T22:59:16+00:00",
-   "eerst_gezien": "2026-11-24T23:12:26.196104+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5259,6 +5261,23 @@
    "prio": false,
    "tijd": "21-11 00:13"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707410/paard-fonq-van-somerense-amazone-rixt-van-der-horst-ontvangt-eretitel-delen-ze-niet-zomaar-uit.html": {
+   "titel": "Paard Fonq van Somerense amazone Rixt van der Horst ontvangt eretitel: ‘Delen ze niet zomaar uit’",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707410/paard-fonq-van-somerense-amazone-rixt-van-der-horst-ontvangt-eretitel-delen-ze-niet-zomaar-uit.html",
+   "tekst": "Para-dressuuramazone Rixt van der Horst is reuzetrots op haar Royal Fonq N.O.P.. Het Westfälisches Pferdestammbuch heeft het paard...",
+   "datum": "2026-11-25T09:53:04+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:53"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108697476/drie-peelbrouwerijen-samen-in-een-mysterybox.html": {
    "titel": "Drie Peelbrouwerijen samen in &é&én Mysterybox",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108697476/drie-peelbrouwerijen-samen-in-een-mysterybox.html",
@@ -5460,6 +5479,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126104348a2helmondrit140642": {
+   "titel": "A2 Helmond Rit: 140642",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126104348a2helmondrit140642",
+   "tekst": "Ambulance 22-107 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T10:43:48+01:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 10:43"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126103935a1helmondrit140639": {
+   "titel": "A1 Helmond Rit: 140639",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126103935a1helmondrit140639",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T10:39:35+01:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "25-11 10:39"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126102808a1deurnerit140635": {
    "titel": "A1 Deurne Rit: 140635",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126102808a1deurnerit140635",
@@ -5472,7 +5525,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 10:28"
@@ -5935,6 +5988,38 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108705647/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html": {
+   "titel": "Alida werd slachtoffer van huiselijk geweld: `Schuld wordt nog te vaak bij de vrouw gelegd`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705647/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html",
+   "tekst": "",
+   "datum": "2026-11-25T05:13:02+00:00",
+   "eerst_gezien": "2026-11-25T05:21:34.098671+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108704717/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
+   "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108704717/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
+   "tekst": "",
+   "datum": "2026-11-24T22:59:16+00:00",
+   "eerst_gezien": "2026-11-24T23:12:26.196104+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne": {
    "titel": "Gehandicaptenparkeerplaats ingesteld bij Kolgans 33 in Deurne",
@@ -8411,23 +8496,6 @@
    "prio": false,
    "tijd": "24-11 06:49"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126105158a1helmondrit139779": {
-   "titel": "A1 Helmond Rit: 139779",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126105158a1helmondrit139779",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T10:51:58+01:00",
-   "eerst_gezien": "2026-11-23T09:59:54.344421+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "23-11 10:51"
-  },
   "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/": {
    "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: ‘De kroeg in op zondagmiddag’",
    "link": "https://www.ed.nl/deurne/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag~af209b0d/",
@@ -8477,23 +8545,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126104650a1deurnerit139776": {
-   "titel": "A1 Deurne Rit: 139776",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126104650a1deurnerit139776",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T10:46:50+01:00",
-   "eerst_gezien": "2026-11-23T09:59:54.344421+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "23-11 10:46"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108693307/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html": {
    "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
@@ -18766,72 +18817,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
-   "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635375/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:49:09+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635373/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html": {
-   "titel": "Was 2026 voor jou een bijzonder jaar' Deel het met het ED",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635373/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:49:08+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635372/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html": {
-   "titel": "Bouw nieuw clubgebouw amateurs van FC Eindhoven begonnen, opening bij start nieuwe seizoen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635372/bouw-nieuw-clubgebouw-amateurs-van-fc-eindhoven-begonnen-opening-bij-start-nieuwe-seizoen.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:49:07+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635302/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html": {
-   "titel": "Was 2026 voor jou een bijzonder jaar' Deel het met het ED",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635302/was-2026-voor-jou-een-bijzonder-jaar-deel-het-met-het-ed.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:43:21+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://www.ed.nl/regionale-economie/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx~a5b0c477/": {
    "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
    "link": "https://www.ed.nl/regionale-economie/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx~a5b0c477/",
@@ -18929,7 +18914,7 @@
   },
   "Gemeente Helmond": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "Gemeente Deurne": {
@@ -18969,7 +18954,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18984,12 +18969,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
