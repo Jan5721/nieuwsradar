@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 13:50",
+ "bijgewerkt": "25-11-2026 14:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
    "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
@@ -1038,23 +1038,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 10:00"
-  },
-  "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/": {
-   "titel": "Na veel getouwtrek: nu geen McDonald’s op deze plek in Helmond",
-   "link": "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/",
-   "tekst": "De bezwaren van de buurt zijn verworpen, maar er komt voorlopig toch geen McDonald’s aan de Steenovenweg in Helmond. Er is nog steeds onvoldoende stroom beschikbaar op die plek om Big Macs en frites te bakken.",
-   "datum": "2026-11-24T07:00:00+00:00",
-   "eerst_gezien": "2026-11-24T07:39:00.523003+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 08:00"
   },
   "https://www.ed.nl/asten/afgelopen-week-2-meldingen-van-de-gemeente-over-vergunningen-in-asten~a6a04040/": {
    "titel": "Afgelopen week 2 meldingen van de gemeente over vergunningen in Asten",
@@ -5524,6 +5507,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126140006a1helmondrit140745": {
+   "titel": "A1 Helmond Rit: 140745",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126140006a1helmondrit140745",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-25T14:00:06+01:00",
+   "eerst_gezien": "2026-11-25T13:05:55.223920+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "25-11 14:00"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134805a1somerenrit140737": {
    "titel": "A1 Someren Rit: 140737",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134805a1somerenrit140737",
@@ -5536,7 +5536,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 13:48"
@@ -5553,7 +5553,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 13:45"
@@ -5570,7 +5570,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 13:40"
@@ -6017,6 +6017,40 @@
    "prio": false,
    "tijd": "24-11 16:28"
   },
+  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
+   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
+   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
+   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
+   "datum": "2026-11-25T06:57:04+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/": {
+   "titel": "Na veel getouwtrek: nu geen McDonald’s op deze plek in Helmond",
+   "link": "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/",
+   "tekst": "De bezwaren van de buurt zijn verworpen, maar er komt voorlopig toch geen McDonald’s aan de Steenovenweg in Helmond. Er is nog steeds onvoldoende stroom beschikbaar op die plek om Big Macs en frites te bakken.",
+   "datum": "2026-11-24T07:00:00+00:00",
+   "eerst_gezien": "2026-11-24T07:39:00.523003+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 08:00"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126161151a2helmondrit140360": {
    "titel": "A2 Helmond Rit: 140360",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126161151a2helmondrit140360",
@@ -6067,23 +6101,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 16:06"
-  },
-  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
-   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
-   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
-   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
-   "datum": "2026-11-25T06:57:04+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:57"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126154213a2deurnerit140347": {
    "titel": "A2 Deurne Rit: 140347",
@@ -8893,23 +8910,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126140048a1helmondrit139863": {
-   "titel": "A1 Helmond Rit: 139863",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126140048a1helmondrit139863",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T14:00:48+01:00",
-   "eerst_gezien": "2026-11-23T13:13:28.051708+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "23-11 14:00"
   },
   "https://www.omroepbrabant.nl/nieuws/6034211/woning-op-nastreek-in-deurne-krijgt-verbouwvergunning": {
    "titel": "Woning op Nastreek in Deurne krijgt verbouwvergunning",
@@ -18745,7 +18745,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -18845,7 +18845,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
