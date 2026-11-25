@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 20:40",
+ "bijgewerkt": "25-11-2026 20:56",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -781,7 +781,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:30"
@@ -1124,7 +1124,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:00"
@@ -1418,6 +1418,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:09"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
+   "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
+   "tekst": "18 november 2026 Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij.",
+   "datum": "2026-11-25T19:56:00.249713+00:00",
+   "eerst_gezien": "2026-11-25T19:56:00.249713+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:56"
   },
   "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
    "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
@@ -4512,6 +4529,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711833/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
+   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711833/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:43:19+00:00",
+   "eerst_gezien": "2026-11-25T19:56:00.249713+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
@@ -4524,7 +4557,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4540,7 +4573,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4556,7 +4589,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4572,7 +4605,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:25"
@@ -4790,23 +4823,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711233/topbestuurders-delen-lessen-over-leiderschap-met-nieuwe-generatie-ondernemers.html": {
-   "titel": "Topbestuurders delen lessen over leiderschap met nieuwe generatie ondernemers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711233/topbestuurders-delen-lessen-over-leiderschap-met-nieuwe-generatie-ondernemers.html",
-   "tekst": "",
-   "datum": "2026-11-25T18:01:06+00:00",
-   "eerst_gezien": "2026-11-25T18:03:26.379664+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 19:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -5431,6 +5447,23 @@
    "prio": false,
    "tijd": "22-11 21:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126204456a2helmondrit140893": {
+   "titel": "A2 Helmond Rit: 140893",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126204456a2helmondrit140893",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T20:44:56+01:00",
+   "eerst_gezien": "2026-11-25T19:56:00.249713+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 20:44"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126201125a2deurnerit140880": {
    "titel": "A2 Deurne Rit: 140880",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126201125a2deurnerit140880",
@@ -5974,6 +6007,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711233/topbestuurders-delen-lessen-over-leiderschap-met-nieuwe-generatie-ondernemers.html": {
+   "titel": "Topbestuurders delen lessen over leiderschap met nieuwe generatie ondernemers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711233/topbestuurders-delen-lessen-over-leiderschap-met-nieuwe-generatie-ondernemers.html",
+   "tekst": "",
+   "datum": "2026-11-25T18:01:06+00:00",
+   "eerst_gezien": "2026-11-25T18:03:26.379664+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 19:01"
   },
   "https://www.omroepbrabant.nl/nieuws/6036165/helmonder-40-drie-maanden-langer-vast-na-grote-brand-in-huis-in-bakel": {
    "titel": "Helmonder (40) drie maanden langer vast na grote brand in huis in Bakel",
@@ -18914,40 +18964,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640315/bebloed-slachtoffer-loopt-door-eindhoven-centraal-na-steekpartij.html": {
-   "titel": "Bebloed slachtoffer loopt door Eindhoven Centraal na steekpartij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640315/bebloed-slachtoffer-loopt-door-eindhoven-centraal-na-steekpartij.html",
-   "tekst": "",
-   "datum": "2026-11-18T19:55:06+00:00",
-   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640283/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html": {
-   "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640283/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html",
-   "tekst": "",
-   "datum": "2026-11-18T19:49:06+00:00",
-   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108640475/zilveren-draaginsigne-voor-mark-van-schaijk.html": {
    "titel": "Zilveren draaginsigne voor Mark van Schaijk",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108640475/zilveren-draaginsigne-voor-mark-van-schaijk.html",
@@ -18964,22 +18980,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 21:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640273/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html": {
-   "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640273/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html",
-   "tekst": "",
-   "datum": "2026-11-18T19:43:15+00:00",
-   "eerst_gezien": "2026-11-18T19:45:43.997801+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -19025,7 +19025,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -19105,7 +19105,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
