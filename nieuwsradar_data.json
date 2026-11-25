@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 07:26",
+ "bijgewerkt": "25-11-2026 07:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1003,6 +1003,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 16:40"
+  },
+  "https://www.ed.nl/asten/werkgroep-veldbiologie-houdt-winterwandeling-in-asten-heusden~ac5d2870/": {
+   "titel": "Werkgroep Veldbiologie houdt winterwandeling in Asten-Heusden",
+   "link": "https://www.ed.nl/asten/werkgroep-veldbiologie-houdt-winterwandeling-in-asten-heusden~ac5d2870/",
+   "tekst": "Leden van de werkgroep Veldbiologie maken een wandeling door De Peel. Dinsdag 22 december start de wandeling om 09.15 uur bij de Kokmeeuwenweg in Asten-Heusden.",
+   "datum": "2026-11-25T06:39:00+00:00",
+   "eerst_gezien": "2026-11-25T06:41:38.719048+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:39"
   },
   "https://www.ed.nl/asten/wandeling-in-asten-staat-in-teken-van-historie-van-polderse-bossen~a5f2b4e82/": {
    "titel": "Wandeling in Asten staat in teken van historie van Polderse Bossen",
@@ -4451,7 +4468,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:19"
@@ -5306,6 +5323,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561": {
+   "titel": "A2 Helmond Rit: 140561",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561",
+   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T07:37:46+01:00",
+   "eerst_gezien": "2026-11-25T06:41:38.719048+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 07:37"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126064206a1helmondrit140549": {
    "titel": "A1 Helmond Rit: 140549",
@@ -18835,39 +18869,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634017/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
-   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634017/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:31:04+00:00",
-   "eerst_gezien": "2026-11-18T06:44:04.724763+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
-   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:27:17+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -18898,7 +18899,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
@@ -18993,7 +18994,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
