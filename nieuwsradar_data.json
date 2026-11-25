@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 23:53",
+ "bijgewerkt": "26-11-2026 00:09",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -1183,7 +1183,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035975/stroomstoring-treft-helmond-minder-dan-100-adressen-zonder-stroom": {
    "titel": "Stroomstoring treft Helmond: minder dan 100 adressen zonder stroom",
    "link": "https://www.omroepbrabant.nl/nieuws/6035975/stroomstoring-treft-helmond-minder-dan-100-adressen-zonder-stroom",
-   "tekst": "",
+   "tekst": "dinsdag De stroomstoring in Helmond die vanmiddag minder dan 100 adressen trof, is opgelost. De storing begon rond drie uur en was binnen een half uur verholpen.",
    "datum": "2026-11-24T14:51:25.135845+00:00",
    "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1200,7 +1200,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035910/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-een": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond kwart over één",
    "link": "https://www.omroepbrabant.nl/nieuws/6035910/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-een",
-   "tekst": "",
+   "tekst": "dinsdag De stroomstoring in Helmond, die vanochtend begon, is door de netbeheerder ingetrokken. Het is niet duidelijk of en wanneer de storing is opgelost.",
    "datum": "2026-11-24T10:19:24.312645+00:00",
    "eerst_gezien": "2026-11-24T10:19:24.312645+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1217,7 +1217,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035884/politie-zoekt-baasjes-van-loslopende-honden-in-helmond": {
    "titel": "Politie zoekt baasjes van loslopende honden in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6035884/politie-zoekt-baasjes-van-loslopende-honden-in-helmond",
-   "tekst": "",
+   "tekst": "dinsdag Agenten van de politie Helmond zijn op zoek naar het baasje of de baasjes van twee loslopende honden. Die liepen rond elf uur op de rijbaan van de N270, vlakbij de kruising met de Raktweg.",
    "datum": "2026-11-24T05:15:20.517615+00:00",
    "eerst_gezien": "2026-11-24T05:15:20.517615+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4580,6 +4580,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:59:06+00:00",
+   "eerst_gezien": "2026-11-25T23:08:29.413501+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108715166/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html": {
+   "titel": "Tonpraoter Robert van Dijk uit Ammerzoden doet mee aan een van de bekendste toernooien van het land",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108715166/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:54:06+00:00",
+   "eerst_gezien": "2026-11-25T23:08:29.413501+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 23:54"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108714805/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
    "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108714805/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html",
@@ -4592,7 +4625,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4608,7 +4641,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4830,38 +4863,6 @@
    "tekst": "",
    "datum": "2026-11-25T19:13:24+00:00",
    "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711659/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
-   "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711659/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:13:24+00:00",
-   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711596/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
-   "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711596/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:04:20+00:00",
-   "eerst_gezien": "2026-11-25T19:07:42.735640+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5326,12 +5327,12 @@
    "prio": false,
    "tijd": "21-11 08:11"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108714731/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108715394/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html": {
    "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108714731/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108715394/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html",
    "tekst": "",
-   "datum": "2026-11-25T22:42:10+00:00",
-   "eerst_gezien": "2026-11-25T22:52:32.592196+00:00",
+   "datum": "2026-11-25T22:59:07+00:00",
+   "eerst_gezien": "2026-11-25T23:08:29.413501+00:00",
    "bron": "Drimble Someren",
    "gemeenten": [
     "Deurne",
@@ -5477,22 +5478,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108687381/sv-someren-pakt-koppositie-in-eerste-klasse-en-sv-ondo-weet-weer-wat-winnen-is.html": {
-   "titel": "SV Someren pakt koppositie in eerste klasse en SV ONDO weet weer wat winnen is",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687381/sv-someren-pakt-koppositie-in-eerste-klasse-en-sv-ondo-weet-weer-wat-winnen-is.html",
-   "tekst": "In Heusden kon afgelopen zondag eindelijk gejuicht worden. De ploeg van trainer Dennis Kluskens zette hoogvlieger SVSH met 1-4 opzij....",
-   "datum": "2026-11-23T13:53:02+00:00",
-   "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
-   "bron": "Drimble Someren",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126000336a1helmondrit140939": {
+   "titel": "A1 Helmond Rit: 140939",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126000336a1helmondrit140939",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T00:03:36+01:00",
+   "eerst_gezien": "2026-11-25T23:08:29.413501+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Someren"
+    "Helmond"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 14:53"
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "26-11 00:03"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126233002a2helmondrit140930": {
    "titel": "A2 Helmond Rit: 140930",
@@ -6054,6 +6055,72 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711659/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
+   "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711659/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:13:24+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711596/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
+   "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711596/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:04:20+00:00",
+   "eerst_gezien": "2026-11-25T19:07:42.735640+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108714731/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html": {
+   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108714731/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:42:10+00:00",
+   "eerst_gezien": "2026-11-25T22:52:32.592196+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108687381/sv-someren-pakt-koppositie-in-eerste-klasse-en-sv-ondo-weet-weer-wat-winnen-is.html": {
+   "titel": "SV Someren pakt koppositie in eerste klasse en SV ONDO weet weer wat winnen is",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108687381/sv-someren-pakt-koppositie-in-eerste-klasse-en-sv-ondo-weet-weer-wat-winnen-is.html",
+   "tekst": "In Heusden kon afgelopen zondag eindelijk gejuicht worden. De ploeg van trainer Dennis Kluskens zette hoogvlieger SVSH met 1-4 opzij....",
+   "datum": "2026-11-23T13:53:02+00:00",
+   "eerst_gezien": "2026-11-23T14:01:27.103064+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 14:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108684838/fotos-bridgeclub-someren-eind-viert-twintigjarig-bestaan-zeven-mensen-vanaf-dag-een-lid.html": {
    "titel": "[FOTO´S] Bridgeclub Someren-Eind viert twintigjarig bestaan; zeven mensen vanaf dag &é&én lid",
@@ -19046,12 +19113,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
