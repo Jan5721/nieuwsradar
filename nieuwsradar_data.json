@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 14:22",
+ "bijgewerkt": "25-11-2026 14:38",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
    "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
@@ -920,23 +920,6 @@
    "prio": false,
    "tijd": "24-11 16:00"
   },
-  "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost~af7d26d3/": {
-   "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
-   "link": "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost~af7d26d3/",
-   "tekst": "In Helmond zijn dinsdag enkele tientallen huishoudens getroffen door een stroomstoring. Als gevolg hiervan zat de Brouwhuissedijk bijna een half uur zonder stroom.",
-   "datum": "2026-11-24T14:26:42+00:00",
-   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 15:26"
-  },
   "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/": {
    "titel": "Afgelopen week 12 meldingen van de gemeente over onder meer bouw in Deurne",
    "link": "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/",
@@ -1005,22 +988,23 @@
    "prio": false,
    "tijd": "24-11 11:50"
   },
-  "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/": {
-   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
-   "link": "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/",
-   "tekst": "In een nieuw stripboek komt de bekendste kunstenaar van Helmond tot leven: Lucas Gassel van Helmont. Hij wordt geportretteerd als roodharig en zachtaardig, een man met ambities, verdriet en verlangens. Drieduizend Helmondse kinderen krijgen het boek cadeau.",
-   "datum": "2026-11-24T09:00:40+00:00",
-   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
-   "bron": "ED Deurne",
+  "https://www.ed.nl/someren/rijkswaterstaat-sluit-sluizen-bij-asten-en-someren-langer-voor-werkzaamheden~a592dd826/": {
+   "titel": "Rijkswaterstaat sluit sluizen bij Asten en Someren langer voor werkzaamheden",
+   "link": "https://www.ed.nl/someren/rijkswaterstaat-sluit-sluizen-bij-asten-en-someren-langer-voor-werkzaamheden~a592dd826/",
+   "tekst": "Rijkswaterstaat begint in 2027 met werkzaamheden aan sluis 10 bij Asten en sluis 12 bij Someren in de Zuid-Willemsvaart. Sluis 12 is dicht voor scheepvaart van 11 januari tot en met 7 mei 2027, sluis 10 van 17 mei tot en met 10 september 2027.",
+   "datum": "2026-11-25T13:27:02+00:00",
+   "eerst_gezien": "2026-11-25T13:37:48.435362+00:00",
+   "bron": "ED Asten",
    "gemeenten": [
-    "Helmond"
+    "Asten",
+    "Someren"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "24-11 10:00"
+   "tijd": "25-11 14:27"
   },
   "https://www.ed.nl/asten/afgelopen-week-2-meldingen-van-de-gemeente-over-vergunningen-in-asten~a6a04040/": {
    "titel": "Afgelopen week 2 meldingen van de gemeente over vergunningen in Asten",
@@ -4558,6 +4542,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709231/bijtanken-in-de-lucht-mislukt-militair-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html": {
+   "titel": "Bijtanken in de lucht mislukt: militair vliegtuig wijkt uit naar Eindhoven, brandweer rukt uit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709231/bijtanken-in-de-lucht-mislukt-militair-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html",
+   "tekst": "",
+   "datum": "2026-11-25T13:25:17+00:00",
+   "eerst_gezien": "2026-11-25T13:37:48.435362+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 14:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108709195/gemert-bakel-naarstig-op-zoek-naar-geld-voor-vernieuwen-sportcomplexen.html": {
    "titel": "Gemert-Bakel naarstig op zoek naar geld voor vernieuwen sportcomplexen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108709195/gemert-bakel-naarstig-op-zoek-naar-geld-voor-vernieuwen-sportcomplexen.html",
@@ -4570,7 +4571,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:19"
@@ -4587,7 +4588,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:19"
@@ -4604,7 +4605,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4820,22 +4821,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707625/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond.html": {
-   "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707625/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-25T10:19:03+00:00",
-   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -5492,6 +5477,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126142252a2helmondrit140753": {
+   "titel": "A2 Helmond Rit: 140753",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126142252a2helmondrit140753",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T14:22:52+01:00",
+   "eerst_gezien": "2026-11-25T13:37:48.435362+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 14:22"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126141421p2bob01dienstverleningdeuropenenamstelplantsoenh": {
    "titel": "P 2 BOB-01 Dienstverlening (deur openen) Amstelplantsoen Helmond 223231",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126141421p2bob01dienstverleningdeuropenenamstelplantsoenh",
@@ -5504,7 +5506,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 14:14"
@@ -5968,23 +5970,6 @@
    "prio": false,
    "tijd": "24-11 18:06"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388": {
-   "titel": "A2 Helmond Rit: 140388",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T17:37:52+01:00",
-   "eerst_gezien": "2026-11-24T16:44:12.258936+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 17:37"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -6001,6 +5986,73 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost~af7d26d3/": {
+   "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
+   "link": "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost~af7d26d3/",
+   "tekst": "In Helmond zijn dinsdag enkele tientallen huishoudens getroffen door een stroomstoring. Als gevolg hiervan zat de Brouwhuissedijk bijna een half uur zonder stroom.",
+   "datum": "2026-11-24T14:26:42+00:00",
+   "eerst_gezien": "2026-11-24T15:23:24.886662+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 15:26"
+  },
+  "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/": {
+   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
+   "link": "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/",
+   "tekst": "In een nieuw stripboek komt de bekendste kunstenaar van Helmond tot leven: Lucas Gassel van Helmont. Hij wordt geportretteerd als roodharig en zachtaardig, een man met ambities, verdriet en verlangens. Drieduizend Helmondse kinderen krijgen het boek cadeau.",
+   "datum": "2026-11-24T09:00:40+00:00",
+   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 10:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707625/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond.html": {
+   "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707625/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:19:03+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388": {
+   "titel": "A2 Helmond Rit: 140388",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T17:37:52+01:00",
+   "eerst_gezien": "2026-11-24T16:44:12.258936+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 17:37"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707624/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
    "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
@@ -8878,23 +8930,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 08:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126142217a1helmondrit139876": {
-   "titel": "A1 Helmond Rit: 139876",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126142217a1helmondrit139876",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T14:22:17+01:00",
-   "eerst_gezien": "2026-11-23T13:29:25.749674+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "23-11 14:22"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108695336/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html": {
    "titel": "Na veel getouwtrek: nu geen McDonald`s op deze plek in Helmond",
@@ -17256,23 +17291,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/": {
-   "titel": "Wethouder Deurne geeft les over zichtbaarheid in het verkeer",
-   "link": "https://www.ed.nl/deurne/wethouder-deurne-geeft-les-over-zichtbaarheid-in-het-verkeer~a5f9819e/",
-   "tekst": "Wethouder Wouter Bulten heeft leerlingen van basisschool De Bron in Deurne uitleg gegeven over zichtbaarheid in het verkeer. De presentatie was onderdeel van Reflection Day, een actie rond verkeersveiligheid in de donkere maanden.",
-   "datum": "2026-11-18T13:37:00+00:00",
-   "eerst_gezien": "2026-11-18T13:47:16.936299+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 14:37"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
    "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
@@ -18668,23 +18686,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108637305/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html": {
-   "titel": "Myriam bouwde jarenlang aan de kunstwereld in Veghel, nu neemt ze afscheid: `Het is weer tijd om zelf te creëren`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108637305/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html",
-   "tekst": "",
-   "datum": "2026-11-18T13:31:03+00:00",
-   "eerst_gezien": "2026-11-18T13:47:16.936299+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 14:31"
   }
  },
  "bronnen": {
@@ -18705,17 +18706,17 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Someren": {
