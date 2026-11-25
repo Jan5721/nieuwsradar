@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 14:38",
+ "bijgewerkt": "25-11-2026 14:54",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
    "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
@@ -1001,7 +1001,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:27"
@@ -1108,10 +1108,27 @@
    "prio": false,
    "tijd": "25-11 05:55"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036136/aangepaste-openingstijden-milieustraat-helmond-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat Helmond in december",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036136/aangepaste-openingstijden-milieustraat-helmond-in-december",
+   "tekst": "",
+   "datum": "2026-11-25T13:53:52.197331+00:00",
+   "eerst_gezien": "2026-11-25T13:53:52.197331+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 14:53"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036039/zakken-vol-joints-uit-autoraam-gegooid-in-helmond-man-aangehouden": {
    "titel": "Zakken vol joints uit autoraam gegooid in Helmond, man aangehouden",
    "link": "https://www.omroepbrabant.nl/nieuws/6036039/zakken-vol-joints-uit-autoraam-gegooid-in-helmond-man-aangehouden",
-   "tekst": "",
+   "tekst": "Een automobilist is dinsdagavond in Helmond aangehouden op verdenking van bezit en handel in softdrugs. Toen agenten de man wilden controleren, gooide hij al rijdend zakken met joints uit zijn autoraam.",
    "datum": "2026-11-25T05:53:33.253906+00:00",
    "eerst_gezien": "2026-11-25T05:53:33.253906+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1128,7 +1145,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035975/stroomstoring-treft-helmond-minder-dan-100-adressen-zonder-stroom": {
    "titel": "Stroomstoring treft Helmond: minder dan 100 adressen zonder stroom",
    "link": "https://www.omroepbrabant.nl/nieuws/6035975/stroomstoring-treft-helmond-minder-dan-100-adressen-zonder-stroom",
-   "tekst": "De stroomstoring in Helmond die vanmiddag minder dan 100 adressen trof, is opgelost. De storing begon rond drie uur en was binnen een half uur verholpen.",
+   "tekst": "",
    "datum": "2026-11-24T14:51:25.135845+00:00",
    "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1573,23 +1590,6 @@
    "titel": "Vuurwerk gegooid naar boa's in Helmond: 'Ouders kijk waar je kind uithangt'",
    "link": "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt",
    "tekst": "14 november 2026 Jongeren hebben vrijdagavond vuurwerk en voorwerpen gegooid naar boa's bij Sportpark De Braak in Helmond. Dat meldt de politie in Helmond zaterdag. Een 15-jarige jongen is aangehouden omdat hij met vuurwerk zou hebben …",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het": {
-   "titel": "Sinterklaasintocht in 2028 in Helmond? Deze politieke partij hoopt het",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het",
-   "tekst": "14 november 2026 Sinterklaas is pas net aangemeerd in Grave, maar een stuk verderop in de provincie wordt al druk gesolliciteerd naar de rol van gaststad voor de landelijke Sinterklaasintocht. Helder Helmond, de grootste partij in de …",
    "datum": "2026-11-23T12:57:19.109671+00:00",
    "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4542,6 +4542,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html": {
+   "titel": "Sportvissers mogen blijven hengelen in Eindhoven, maar de regels worden strenger",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html",
+   "tekst": "",
+   "datum": "2026-11-25T13:49:09+00:00",
+   "eerst_gezien": "2026-11-25T13:53:52.197331+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 14:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108709231/bijtanken-in-de-lucht-mislukt-militair-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html": {
    "titel": "Bijtanken in de lucht mislukt: militair vliegtuig wijkt uit naar Eindhoven, brandweer rukt uit",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108709231/bijtanken-in-de-lucht-mislukt-militair-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html",
@@ -4554,7 +4571,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:25"
@@ -4805,23 +4822,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707626/de-bouwkraan-draait-weer-asml-zet-alles-op-alles-om-stroom-aan-orders-bij-te-benen.html": {
-   "titel": "De bouwkraan draait weer: ASML zet alles op alles om stroom aan orders bij te benen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707626/de-bouwkraan-draait-weer-asml-zet-alles-op-alles-om-stroom-aan-orders-bij-te-benen.html",
-   "tekst": "",
-   "datum": "2026-11-25T10:19:03+00:00",
-   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:19"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html",
@@ -5002,6 +5002,24 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709333/langdurige-stremmingen-zuid-willemsvaart-in-2027-twee-sluizen-elk-zestien-weken-dicht.html": {
+   "titel": "Langdurige stremmingen Zuid-Willemsvaart in 2027: twee sluizen elk zestien weken dicht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709333/langdurige-stremmingen-zuid-willemsvaart-in-2027-twee-sluizen-elk-zestien-weken-dicht.html",
+   "tekst": "Rijkswaterstaat voert in 2027 omvangrijke werkzaamheden uit aan sluis 10 bij Asten en sluis 12 bij Someren in de Zuid-Willemsvaart....",
+   "datum": "2026-11-25T13:38:12+00:00",
+   "eerst_gezien": "2026-11-25T13:53:52.197331+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 14:38"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707882/gezinnen-met-laag-inkomen-kunnen-op-gratis-kaartjes-voor-museum-klok-peel-rekenen.html": {
    "titel": "Gezinnen met laag inkomen kunnen op gratis kaartjes voor Museum Klok & Peel rekenen",
@@ -5461,21 +5479,22 @@
    "prio": false,
    "tijd": "22-11 06:53"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108673145/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html": {
-   "titel": "Tim d`n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673145/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html",
-   "tekst": "",
-   "datum": "2026-11-21T22:12:11+00:00",
-   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
-   "bron": "Drimble Someren",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126143810a2helmondrit140764": {
+   "titel": "A2 Helmond Rit: 140764",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126143810a2helmondrit140764",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T14:38:10+01:00",
+   "eerst_gezien": "2026-11-25T13:53:52.197331+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Someren"
+    "Helmond"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 14:38"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126142252a2helmondrit140753": {
    "titel": "A2 Helmond Rit: 140753",
@@ -5489,7 +5508,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 14:22"
@@ -5986,6 +6005,56 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het": {
+   "titel": "Sinterklaasintocht in 2028 in Helmond? Deze politieke partij hoopt het",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het",
+   "tekst": "14 november 2026 Sinterklaas is pas net aangemeerd in Grave, maar een stuk verderop in de provincie wordt al druk gesolliciteerd naar de rol van gaststad voor de landelijke Sinterklaasintocht. Helder Helmond, de grootste partij in de …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707626/de-bouwkraan-draait-weer-asml-zet-alles-op-alles-om-stroom-aan-orders-bij-te-benen.html": {
+   "titel": "De bouwkraan draait weer: ASML zet alles op alles om stroom aan orders bij te benen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707626/de-bouwkraan-draait-weer-asml-zet-alles-op-alles-om-stroom-aan-orders-bij-te-benen.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:19:03+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108673145/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html": {
+   "titel": "Tim d`n Urste zwaait scepter over Somerens carnaval, samen met zijn prinses Manon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108673145/tim-dn-urste-zwaait-scepter-over-somerens-carnaval-samen-met-zijn-prinses-manon.html",
+   "tekst": "",
+   "datum": "2026-11-21T22:12:11+00:00",
+   "eerst_gezien": "2026-11-21T22:22:00.910847+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/stroomstoring-op-brouwhuissedijk-in-helmond-opgelost~af7d26d3/": {
    "titel": "Stroomstoring op Brouwhuissedijk in Helmond opgelost",
@@ -17507,24 +17576,6 @@
    "prio": false,
    "tijd": "19-11 09:13"
   },
-  "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/": {
-   "titel": "Someren hijst vlag voor campagne tegen geweld tegen vrouwen",
-   "link": "https://www.ed.nl/someren/someren-hijst-vlag-voor-campagne-tegen-geweld-tegen-vrouwen~af16cac1/",
-   "tekst": "De gemeente Someren doet mee aan de wereldwijde campagne Orange the World tegen geweld tegen vrouwen en meisjes. Woensdag 25 november hijsen burgemeester Dilia Blok, wethouder Daniël van Schijndel en Soroptimisten Helmond-Peel om 12.00 uur de vlag bij het gemeentehuis.",
-   "datum": "2026-11-18T13:39:07+00:00",
-   "eerst_gezien": "2026-11-18T13:47:16.936299+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Helmond",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 14:39"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
    "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
@@ -18801,17 +18852,17 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
