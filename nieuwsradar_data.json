@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 07:10",
+ "bijgewerkt": "25-11-2026 07:26",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -948,7 +948,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:01"
@@ -4439,6 +4439,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108705941/eindhovense-oppositie-krijgt-geen-steun-voor-onderzoek-naar-mogelijk-misbruik-van-subsidiegeld-bij-daklozenopvang.html": {
+   "titel": "Eindhovense oppositie krijgt geen steun voor onderzoek naar mogelijk misbruik van subsidiegeld bij daklozenopvang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705941/eindhovense-oppositie-krijgt-geen-steun-voor-onderzoek-naar-mogelijk-misbruik-van-subsidiegeld-bij-daklozenopvang.html",
+   "tekst": "",
+   "datum": "2026-11-25T06:19:02+00:00",
+   "eerst_gezien": "2026-11-25T06:25:40.770800+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108705783/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html": {
    "titel": "PSV implodeert na rust tegen Real Madrid: `We werden overlopen en toen was het klaar`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108705783/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html",
@@ -4653,39 +4670,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 21:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108700893/live-psv-krijgt-drie-goede-kansen-real-madrid-gevaarlijk-via-vinicius-junior.html": {
-   "titel": "LIVE | PSV krijgt drie goede kansen, Real Madrid gevaarlijk via Viní­cius Júnior",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700893/live-psv-krijgt-drie-goede-kansen-real-madrid-gevaarlijk-via-vinicius-junior.html",
-   "tekst": "",
-   "datum": "2026-11-24T20:13:26+00:00",
-   "eerst_gezien": "2026-11-24T20:13:56.171505+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 21:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108700810/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
-   "titel": "Max uit Helmond weet zeker dat dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700810/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
-   "tekst": "",
-   "datum": "2026-11-24T19:49:06+00:00",
-   "eerst_gezien": "2026-11-24T19:57:59.922867+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5713,6 +5697,39 @@
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 11:33"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700893/live-psv-krijgt-drie-goede-kansen-real-madrid-gevaarlijk-via-vinicius-junior.html": {
+   "titel": "LIVE | PSV krijgt drie goede kansen, Real Madrid gevaarlijk via Viní­cius Júnior",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700893/live-psv-krijgt-drie-goede-kansen-real-madrid-gevaarlijk-via-vinicius-junior.html",
+   "tekst": "",
+   "datum": "2026-11-24T20:13:26+00:00",
+   "eerst_gezien": "2026-11-24T20:13:56.171505+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 21:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700810/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
+   "titel": "Max uit Helmond weet zeker dat dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700810/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
+   "tekst": "",
+   "datum": "2026-11-24T19:49:06+00:00",
+   "eerst_gezien": "2026-11-24T19:57:59.922867+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126102851a2helmondrit140214": {
    "titel": "A2 Helmond Rit: 140214",
@@ -17519,23 +17536,6 @@
    "prio": false,
    "tijd": "18-11 20:30"
   },
-  "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/": {
-   "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
-   "link": "https://www.ed.nl/helmond/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond~a36cc7e0/",
-   "tekst": "Het Stedelijk Helmonds Seniorenkoor geeft een kerstconcert in de Bethlehemkerk in Helmond. Het concert is 13 december en begint om 14.30 uur, de kerk gaat om 14.15 uur open.",
-   "datum": "2026-11-18T06:22:00+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:22"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108640273/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html": {
    "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108640273/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html",
@@ -18850,73 +18850,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633926/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
-   "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633926/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:13:10+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
    "prio": false,
-   "tijd": "18-11 07:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633922/bouwinfracampus-in-mierlo-op-de-schop.html": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633922/bouwinfracampus-in-mierlo-op-de-schop.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:13:05+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
-   "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:13:05+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633906/bouwinfracampus-in-mierlo-op-de-schop.html": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633906/bouwinfracampus-in-mierlo-op-de-schop.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:11:24+00:00",
-   "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "tijd": "18-11 07:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
    "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
@@ -19038,7 +18973,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
