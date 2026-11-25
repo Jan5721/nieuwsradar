@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 09:18",
+ "bijgewerkt": "25-11-2026 09:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -493,6 +493,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 11:43"
+  },
+  "https://www.peelbelangonline.nl/nieuws/sport/64919/lucas-van-dijk-wint-namens-soo-bak-gi-twee-gouden-plakken": {
+   "titel": "Lucas van Dijk wint namens Soo Bak-Gi twee gouden plakken",
+   "link": "https://www.peelbelangonline.nl/nieuws/sport/64919/lucas-van-dijk-wint-namens-soo-bak-gi-twee-gouden-plakken",
+   "tekst": "ASTEN - Taekwondoschool Soo Bak-Gi reisde afgelopen weekend voor de laatste keer dit jaar af naar een toernooi. Een relatief kleine delegatie meldde zich bij Taekyon in Oss. Maar niet zonder resultaat.",
+   "datum": "2026-11-25T09:26:00+01:00",
+   "eerst_gezien": "2026-11-25T08:33:51.314311+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 09:26"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64872/in-beeld-feestelijke-prijsuitreiking-ondernemer-van-het-jaar-2026": {
    "titel": "In beeld: feestelijke prijsuitreiking Ondernemer van het Jaar 2026",
@@ -1067,7 +1084,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 09:10"
@@ -3992,6 +4009,23 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-549469.html": {
+   "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Sloe 1 5751ZZ Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-549469.html",
+   "tekst": "het plaatsen van een dakkapel",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:33:51.314311+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
    "nieuw": true,
    "dagen": 7,
    "prio": false,
@@ -4111,7 +4145,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
@@ -4145,7 +4179,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
@@ -4303,6 +4337,40 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-549391.html": {
+   "titel": "Kennisgeving melding mobiel breken bouw- en sloopafval Smulderslaan 46 te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-549391.html",
+   "tekst": "",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:33:51.314311+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-549157.html": {
+   "titel": "Verlenen omgevingsvergunning Tuinstraat 20 te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-549157.html",
+   "tekst": "Kappen van een boom Tuinstraat 20",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:33:51.314311+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-543608.html": {
    "titel": "Verlengen beslistermijn aanvraag omgevingsvergunning Moorsel 3 en 3a te Lierop",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543608.html",
@@ -4354,6 +4422,23 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-549166.html": {
+   "titel": "Verlenen omgevingsvergunning Laarstraat 5a te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-549166.html",
+   "tekst": "Oprichten van een loods (truckstalling) met kantoor Laarstraat 5a",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:33:51.314311+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-543641.html": {
    "titel": "Aanvraag omgevingsvergunning Oude Goorenweg 6 te Lierop",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543641.html",
@@ -4387,6 +4472,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-548809.html": {
+   "titel": "Subsidieregeling Isoleren Koopwoningen Gemeente Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-548809.html",
+   "tekst": "",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:33:51.314311+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-540572.html": {
    "titel": "Aanvraag omgevingsvergunning Heikantstraat ong (nabij 2) te Someren",
@@ -4438,6 +4540,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-548816.html": {
+   "titel": "Verordening voor het financiële beleid, financiële beheer en inrichting van de financiële organisatie gemeente Someren 2026",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-548816.html",
+   "tekst": "",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:33:51.314311+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-544451.html": {
    "titel": "Aanvraag omgevingsvergunning Eindje 9 te Lierop",
@@ -4519,7 +4638,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 09:13"
@@ -18906,23 +19025,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634639/eindhovens-kamerkoor-viert-75-jarig-jubileum-met-concert.html": {
-   "titel": "Eindhovens Kamerkoor viert 75-jarig jubileum met concert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634639/eindhovens-kamerkoor-viert-75-jarig-jubileum-met-concert.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:19:03+00:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:19"
-  },
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
    "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/",
@@ -18965,7 +19067,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -19045,7 +19147,7 @@
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Bekendmakingen Asten": {
@@ -19055,7 +19157,7 @@
   },
   "Bekendmakingen Someren": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Helmond": {
