@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 20:24",
+ "bijgewerkt": "25-11-2026 20:40",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -769,6 +769,23 @@
    "prio": false,
    "tijd": "19-11 10:42"
   },
+  "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/": {
+   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
+   "link": "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/",
+   "tekst": "Er zijn veel zorgen over de mogelijke doorstart van een al jaren leegstaand varkensbedrijf in Lierop. Toch hebben sommigen er geen problemen mee.",
+   "datum": "2026-11-25T19:30:10+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:30"
+  },
   "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: ‘Hier word je echt niet gelukkiger van’",
    "link": "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/",
@@ -781,7 +798,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:00"
@@ -1090,24 +1107,24 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:15"
   },
-  "https://www.omroepbrabant.nl/nieuws/6036165/helmonder-40-drie-maanden-langer-vast-na-grote-brand-in-huis-in-bakel": {
-   "titel": "Helmonder (40) drie maanden langer vast na grote brand in huis in Bakel",
-   "link": "https://www.omroepbrabant.nl/nieuws/6036165/helmonder-40-drie-maanden-langer-vast-na-grote-brand-in-huis-in-bakel",
+  "https://www.omroepbrabant.nl/nieuws/6036165/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast": {
+   "titel": "Grote brand in huis in Bakel: opgepakte man zit drie maanden langer vast",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036165/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast",
    "tekst": "De 40-jarige Helmonder die is opgepakt voor de grote brand in een huis in Bakel, blijft negentig dagen langer vastzitten. Dat heeft de rechter-commissaris woensdag besloten. Eerder werd zijn voorarrest al eens verlengd. De brand in het huis aan het Groenveld in Bakel brak op 9 …",
    "datum": "2026-11-25T19:00:00+00:00",
-   "eerst_gezien": "2026-11-25T19:07:42.735640+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:00"
@@ -1401,23 +1418,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:09"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
-   "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
-   "tekst": "18 november 2026 Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij.",
-   "datum": "2026-11-18T19:29:40.285438+00:00",
-   "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:29"
   },
   "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
    "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
@@ -2477,57 +2477,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
   },
   "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
    "titel": "Brand basisschool Zeilberg",
@@ -4563,6 +4512,71 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:31:03+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
+   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:31:03+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711721/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711721/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:28:03+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711708/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html": {
+   "titel": "`Waterhart` klopt nog steeds bij koning Willem-Alexander: humor maar ook kritische vragen bij bezoek aan Brabant Water",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711708/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:25:11+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108711688/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
    "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711688/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html",
@@ -4575,7 +4589,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:19"
@@ -4592,7 +4606,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:19"
@@ -4609,7 +4623,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4625,10 +4639,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 20:19"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711662/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html": {
    "titel": "Weekendtips: deze dingen doe je in Eindhoven (27 - 29 november)",
@@ -4642,7 +4655,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4658,7 +4671,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4674,7 +4687,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4794,57 +4807,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 19:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711121/vrouwelijke-ondernemers-en-studenten-inspireren-elkaar-wacht-niet-tot-je-je-er-klaar-voor-voelt-maar-zet-die-stap.html": {
-   "titel": "Vrouwelijke ondernemers en studenten inspireren elkaar: `Wacht niet tot je je er klaar voor voelt, maar zet die stap`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711121/vrouwelijke-ondernemers-en-studenten-inspireren-elkaar-wacht-niet-tot-je-je-er-klaar-voor-voelt-maar-zet-die-stap.html",
-   "tekst": "",
-   "datum": "2026-11-25T17:43:17+00:00",
-   "eerst_gezien": "2026-11-25T17:47:30.636829+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 18:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710747/betonnen-paddenstoel-in-eindhoven-wordt-gesloopt-en-herbouwd-stichting-overweegt-bezwaar.html": {
-   "titel": "Betonnen paddenstoel in Eindhoven wordt gesloopt en herbouwd, stichting overweegt bezwaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710747/betonnen-paddenstoel-in-eindhoven-wordt-gesloopt-en-herbouwd-stichting-overweegt-bezwaar.html",
-   "tekst": "",
-   "datum": "2026-11-25T16:49:09+00:00",
-   "eerst_gezien": "2026-11-25T16:59:03.197558+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 17:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710630/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html": {
-   "titel": "Man stak huisgenoot met stanleymes in het gezicht: strafeis van een jaar cel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710630/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html",
-   "tekst": "",
-   "datum": "2026-11-25T16:31:04+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 17:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -5481,7 +5443,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 20:11"
@@ -5996,23 +5958,6 @@
    "prio": false,
    "tijd": "25-11 02:09"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126001754a2lieroprit140501": {
-   "titel": "A2 Lierop Rit: 140501",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126001754a2lieroprit140501",
-   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T00:17:54+01:00",
-   "eerst_gezien": "2026-11-24T23:28:30.445867+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 00:17"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -6029,6 +5974,142 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036165/helmonder-40-drie-maanden-langer-vast-na-grote-brand-in-huis-in-bakel": {
+   "titel": "Helmonder (40) drie maanden langer vast na grote brand in huis in Bakel",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036165/helmonder-40-drie-maanden-langer-vast-na-grote-brand-in-huis-in-bakel",
+   "tekst": "De 40-jarige Helmonder die is opgepakt voor de grote brand in een huis in Bakel, blijft negentig dagen langer vastzitten. Dat heeft de rechter-commissaris woensdag besloten. Eerder werd zijn voorarrest al eens verlengd. De brand in het huis aan het Groenveld in Bakel brak op 9 …",
+   "datum": "2026-11-25T19:00:00+00:00",
+   "eerst_gezien": "2026-11-25T19:07:42.735640+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:00"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711121/vrouwelijke-ondernemers-en-studenten-inspireren-elkaar-wacht-niet-tot-je-je-er-klaar-voor-voelt-maar-zet-die-stap.html": {
+   "titel": "Vrouwelijke ondernemers en studenten inspireren elkaar: `Wacht niet tot je je er klaar voor voelt, maar zet die stap`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711121/vrouwelijke-ondernemers-en-studenten-inspireren-elkaar-wacht-niet-tot-je-je-er-klaar-voor-voelt-maar-zet-die-stap.html",
+   "tekst": "",
+   "datum": "2026-11-25T17:43:17+00:00",
+   "eerst_gezien": "2026-11-25T17:47:30.636829+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 18:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710747/betonnen-paddenstoel-in-eindhoven-wordt-gesloopt-en-herbouwd-stichting-overweegt-bezwaar.html": {
+   "titel": "Betonnen paddenstoel in Eindhoven wordt gesloopt en herbouwd, stichting overweegt bezwaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710747/betonnen-paddenstoel-in-eindhoven-wordt-gesloopt-en-herbouwd-stichting-overweegt-bezwaar.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:49:09+00:00",
+   "eerst_gezien": "2026-11-25T16:59:03.197558+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 17:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710630/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html": {
+   "titel": "Man stak huisgenoot met stanleymes in het gezicht: strafeis van een jaar cel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710630/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:31:04+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 17:31"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126001754a2lieroprit140501": {
+   "titel": "A2 Lierop Rit: 140501",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126001754a2lieroprit140501",
+   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T00:17:54+01:00",
+   "eerst_gezien": "2026-11-24T23:28:30.445867+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 00:17"
   },
   "https://www.ed.nl/helmond/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten~a77ab34c8/": {
    "titel": "‘Groundhog Day’ in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
@@ -16918,23 +16999,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/": {
-   "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
-   "link": "https://www.ed.nl/helmond/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde~a7001f70/",
-   "tekst": "De brieven aan ouders van overlastgevende fatbiketieners in Brandevoort lijken effect te hebben. De overlast nam de afgelopen drie weken fors af, blijkt uit meldingen bij de gemeente en politie. Toch blijft Helmonds burgemeester Sjoerd Potters voorzichtig: „Het is een …",
-   "datum": "2026-11-18T19:30:00+00:00",
-   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108650346/brabant-richt-zich-met-nieuwe-aanpak-op-grote-stikstofuitstoters.html": {
    "titel": "Brabant richt zich met nieuwe aanpak op grote stikstofuitstoters",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108650346/brabant-richt-zich-met-nieuwe-aanpak-op-grote-stikstofuitstoters.html",
@@ -18695,7 +18759,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 23:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640694/eindhovense-zangeres-kovacs-36-ligt-zeker-een-maand-in-ziekenhuis-door-problemen-tijdens-zwangerschap.html": {
    "titel": "Eindhovense zangeres Kovacs (36) ligt zeker een maand in ziekenhuis door problemen tijdens zwangerschap",
@@ -18796,7 +18861,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 21:21"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640392/gemert-bakel-moet-van-rechter-bewoners-en-bedrijven-scheiden-met-groenbuffer.html": {
    "titel": "Gemert-Bakel moet van rechter bewoners en bedrijven scheiden met groenbuffer",
@@ -18879,7 +18945,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 20:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640475/zilveren-draaginsigne-voor-mark-van-schaijk.html": {
    "titel": "Zilveren draaginsigne voor Mark van Schaijk",
@@ -18897,23 +18964,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 21:31"
-  },
-  "https://www.ed.nl/helmond/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders~a7001f70/": {
-   "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
-   "link": "https://www.ed.nl/helmond/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders~a7001f70/",
-   "tekst": "De brieven aan ouders van overlastgevende fatbiketieners in Brandevoort lijken effect te hebben. De overlast nam de afgelopen drie weken fors af, blijkt uit meldingen bij de gemeente en politie. Toch blijft Helmonds burgemeester Sjoerd Potters voorzichtig: „Het is een …",
-   "datum": "2026-11-18T19:30:45+00:00",
-   "eerst_gezien": "2026-11-18T19:45:43.997801+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640273/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders.html": {
    "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
@@ -18950,7 +19000,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -18975,7 +19025,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18994,9 +19044,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 3,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -19035,7 +19085,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19055,7 +19105,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
