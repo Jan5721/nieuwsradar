@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 13:18",
+ "bijgewerkt": "25-11-2026 13:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
    "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
@@ -762,7 +762,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 13:16"
@@ -4592,6 +4592,72 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108708798/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen.html": {
+   "titel": "De drukste weg van Helmond is weer deels open, met meer groen en minder asfalt en steen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708798/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen.html",
+   "tekst": "",
+   "datum": "2026-11-25T12:25:12+00:00",
+   "eerst_gezien": "2026-11-25T12:33:58.116771+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108708757/van-eindhovense-werkplaats-naar-zimbabwe-onverslijtbare-machines-van-van-kessel-krijgen-tweede-leven.html": {
+   "titel": "Van Eindhovense werkplaats naar Zimbabwe: `onverslijtbare` machines van Van Kessel krijgen tweede leven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708757/van-eindhovense-werkplaats-naar-zimbabwe-onverslijtbare-machines-van-van-kessel-krijgen-tweede-leven.html",
+   "tekst": "",
+   "datum": "2026-11-25T12:19:03+00:00",
+   "eerst_gezien": "2026-11-25T12:33:58.116771+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 13:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108708756/meierijstad-zet-mannenkapsalons-in-tegen-geweld-tegen-vrouwen-maar-expert-waarschuwt-een-flyer-op-zich-doet-niks.html": {
+   "titel": "Meierijstad zet mannenkapsalons in tegen geweld tegen vrouwen, maar expert waarschuwt: `Een flyer op zich doet niks`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708756/meierijstad-zet-mannenkapsalons-in-tegen-geweld-tegen-vrouwen-maar-expert-waarschuwt-een-flyer-op-zich-doet-niks.html",
+   "tekst": "",
+   "datum": "2026-11-25T12:19:03+00:00",
+   "eerst_gezien": "2026-11-25T12:33:58.116771+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 13:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108708754/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen.html": {
+   "titel": "De drukste weg van Helmond is weer deels open, met meer groen en minder asfalt en steen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708754/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen.html",
+   "tekst": "",
+   "datum": "2026-11-25T12:19:02+00:00",
+   "eerst_gezien": "2026-11-25T12:33:58.116771+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108708711/van-eindhovense-werkplaats-naar-zimbabwe-onverslijtbare-machines-van-van-kessel-krijgen-tweede-leven.html": {
    "titel": "Van Eindhovense werkplaats naar Zimbabwe: `onverslijtbare` machines van Van Kessel krijgen tweede leven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108708711/van-eindhovense-werkplaats-naar-zimbabwe-onverslijtbare-machines-van-van-kessel-krijgen-tweede-leven.html",
@@ -4604,10 +4670,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 13:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708710/meierijstad-zet-mannenkapsalons-in-tegen-geweld-tegen-vrouwen-maar-expert-waarschuwt-een-flyer-op-zich-doet-niks.html": {
    "titel": "Meierijstad zet mannenkapsalons in tegen geweld tegen vrouwen, maar expert waarschuwt: `Een flyer op zich doet niks`",
@@ -4621,10 +4686,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 13:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708217/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html": {
    "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
@@ -4805,73 +4869,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707456/hoogleraar-van-tue-over-doorbraak-in-167-jaar-oud-wiskundig-mysterie-dit-kan-hele-grote-gevolgen-hebben.html": {
-   "titel": "Hoogleraar van TU/e over doorbraak in 167 jaar oud wiskundig mysterie: `Dit kan hele grote gevolgen hebben`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707456/hoogleraar-van-tue-over-doorbraak-in-167-jaar-oud-wiskundig-mysterie-dit-kan-hele-grote-gevolgen-hebben.html",
-   "tekst": "",
-   "datum": "2026-11-25T10:01:05+00:00",
-   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707448/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html": {
-   "titel": "Tonpraoter Robert van Dijk uit Ammerzoden doet mee aan een van de bekendste toernooien van het land",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707448/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html",
-   "tekst": "",
-   "datum": "2026-11-25T09:58:08+00:00",
-   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 10:58"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707435/aangepaste-openingstijden-milieustraat-in-december.html": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707435/aangepaste-openingstijden-milieustraat-in-december.html",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat' Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T09:58:02+00:00",
-   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707388/voorpagina-met-fvd-foto-leidt-tot-verontwaardigde-reacties-van-lezers.html": {
-   "titel": "Voorpagina met FvD-foto leidt tot verontwaardigde reacties van lezers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707388/voorpagina-met-fvd-foto-leidt-tot-verontwaardigde-reacties-van-lezers.html",
-   "tekst": "",
-   "datum": "2026-11-25T09:49:11+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 10:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html",
@@ -4884,7 +4881,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 13:16"
@@ -6037,23 +6034,6 @@
    "prio": false,
    "tijd": "24-11 15:42"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126153303a1helmondrit140341": {
-   "titel": "A1 Helmond Rit: 140341",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126153303a1helmondrit140341",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-24T15:33:03+01:00",
-   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "24-11 15:33"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -6070,6 +6050,90 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707456/hoogleraar-van-tue-over-doorbraak-in-167-jaar-oud-wiskundig-mysterie-dit-kan-hele-grote-gevolgen-hebben.html": {
+   "titel": "Hoogleraar van TU/e over doorbraak in 167 jaar oud wiskundig mysterie: `Dit kan hele grote gevolgen hebben`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707456/hoogleraar-van-tue-over-doorbraak-in-167-jaar-oud-wiskundig-mysterie-dit-kan-hele-grote-gevolgen-hebben.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:01:05+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707448/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html": {
+   "titel": "Tonpraoter Robert van Dijk uit Ammerzoden doet mee aan een van de bekendste toernooien van het land",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707448/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html",
+   "tekst": "",
+   "datum": "2026-11-25T09:58:08+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:58"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707435/aangepaste-openingstijden-milieustraat-in-december.html": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707435/aangepaste-openingstijden-milieustraat-in-december.html",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat' Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T09:58:02+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707388/voorpagina-met-fvd-foto-leidt-tot-verontwaardigde-reacties-van-lezers.html": {
+   "titel": "Voorpagina met FvD-foto leidt tot verontwaardigde reacties van lezers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707388/voorpagina-met-fvd-foto-leidt-tot-verontwaardigde-reacties-van-lezers.html",
+   "tekst": "",
+   "datum": "2026-11-25T09:49:11+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:49"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126153303a1helmondrit140341": {
+   "titel": "A1 Helmond Rit: 140341",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126153303a1helmondrit140341",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-24T15:33:03+01:00",
+   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "24-11 15:33"
   },
   "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/": {
    "titel": "Midas winkelcentrum in Asten houdt workshop stapelkaars maken",
@@ -17273,23 +17337,6 @@
    "prio": false,
    "tijd": "18-11 19:09"
   },
-  "https://www.ed.nl/someren/straks-komen-hier-seniorenwoningen-maar-deze-plek-in-lierop-was-al-in-de-middeleeuwen-bewoond~aa8c6af8/": {
-   "titel": "Straks komen hier seniorenwoningen, maar deze plek in Lierop was al in de Middeleeuwen bewoond",
-   "link": "https://www.ed.nl/someren/straks-komen-hier-seniorenwoningen-maar-deze-plek-in-lierop-was-al-in-de-middeleeuwen-bewoond~aa8c6af8/",
-   "tekst": "Op de plek van café-zaal Van Oosterhout in Lierop worden twintig seniorenwoningen gebouwd. Maar in de volle Middeleeuwen, de elfde en twaalfde eeuw, woonden er ook al mensen.",
-   "datum": "2026-11-18T12:30:39+00:00",
-   "eerst_gezien": "2026-11-18T12:43:03.153734+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 13:30"
-  },
   "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/": {
    "titel": "Museum Klok & Peel in Asten toont LEGO-lievelingsdieren van kinderen",
    "link": "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/",
@@ -18637,7 +18684,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 13:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html": {
    "titel": "Myriam bouwde jarenlang aan de kunstwereld in Veghel, nu neemt ze afscheid: `Het is weer tijd om zelf te creëren`",
@@ -18780,7 +18828,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
