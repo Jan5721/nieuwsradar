@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 17:43",
+ "bijgewerkt": "25-11-2026 17:59",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64930/leerlingen-basisschool-zeilberg-krijgen-tijdelijk-les-in-someren": {
    "titel": "Leerlingen Basisschool Zeilberg krijgen tijdelijk les in Someren",
@@ -765,7 +765,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 17:17"
@@ -1020,7 +1020,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 16:53"
@@ -1434,6 +1434,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 18:51"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk": {
+   "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk",
+   "tekst": "VIDEO 18 november 2026 Zes elektriciens moeten de cel in voor een reeks oplichtingen. De rechtbank in Den Bosch oordeelde woensdag dat de mannen uit Helmond, Deurne en Eindhoven honderden slachtoffers hebben gemaakt. Ze deden zich voor als …",
+   "datum": "2026-11-25T16:59:03.197558+00:00",
+   "eerst_gezien": "2026-11-25T16:59:03.197558+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 17:59"
   },
   "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg": {
    "titel": "Helmond erkent woonbestemming aan Gerwenseweg",
@@ -2099,23 +2117,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 06:30"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035289/bouw-en-exposeer-je-eigen-lego-dier-in-asten": {
-   "titel": "Bouw en exposeer je eigen LEGO-dier in Asten",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035289/bouw-en-exposeer-je-eigen-lego-dier-in-asten",
-   "tekst": "18 november 2026 LEGO-liefhebbers kunnen hun zelfgebouwde lievelingsdieren exposeren in Museum Klok & Peel in Asten. De bouwwerken worden tentoongesteld tijdens het evenement 'Museum in Wintersfeer'. Inzendingen kunnen op woensdag 16 …",
-   "datum": "2026-11-18T16:47:24.590015+00:00",
-   "eerst_gezien": "2026-11-18T16:47:24.590015+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 17:47"
   },
   "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers": {
    "titel": "Alzheimer Café Peelland: steun voor mantelzorgers",
@@ -4544,6 +4545,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710747/betonnen-paddenstoel-in-eindhoven-wordt-gesloopt-en-herbouwd-stichting-overweegt-bezwaar.html": {
+   "titel": "Betonnen paddenstoel in Eindhoven wordt gesloopt en herbouwd, stichting overweegt bezwaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710747/betonnen-paddenstoel-in-eindhoven-wordt-gesloopt-en-herbouwd-stichting-overweegt-bezwaar.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:49:09+00:00",
+   "eerst_gezien": "2026-11-25T16:59:03.197558+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 17:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108710630/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html": {
    "titel": "Man stak huisgenoot met stanleymes in het gezicht: strafeis van een jaar cel",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108710630/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html",
@@ -4556,7 +4574,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 17:31"
@@ -4574,7 +4592,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4590,7 +4608,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4606,7 +4624,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 17:19"
@@ -4624,7 +4642,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4640,7 +4658,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4656,7 +4674,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 16:49"
@@ -4809,40 +4827,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108709195/gemert-bakel-naarstig-op-zoek-naar-geld-voor-vernieuwen-sportcomplexen.html": {
-   "titel": "Gemert-Bakel naarstig op zoek naar geld voor vernieuwen sportcomplexen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709195/gemert-bakel-naarstig-op-zoek-naar-geld-voor-vernieuwen-sportcomplexen.html",
-   "tekst": "",
-   "datum": "2026-11-25T13:19:02+00:00",
-   "eerst_gezien": "2026-11-25T13:21:46.161744+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 14:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108709194/bijtanken-in-de-lucht-mislukt-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html": {
-   "titel": "Bijtanken in de lucht mislukt: vliegtuig wijkt uit naar Eindhoven, brandweer rukt uit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709194/bijtanken-in-de-lucht-mislukt-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html",
-   "tekst": "",
-   "datum": "2026-11-25T13:19:02+00:00",
-   "eerst_gezien": "2026-11-25T13:21:46.161744+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 14:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -5312,7 +5296,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5513,7 +5497,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 16:51"
@@ -6061,6 +6045,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709195/gemert-bakel-naarstig-op-zoek-naar-geld-voor-vernieuwen-sportcomplexen.html": {
+   "titel": "Gemert-Bakel naarstig op zoek naar geld voor vernieuwen sportcomplexen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709195/gemert-bakel-naarstig-op-zoek-naar-geld-voor-vernieuwen-sportcomplexen.html",
+   "tekst": "",
+   "datum": "2026-11-25T13:19:02+00:00",
+   "eerst_gezien": "2026-11-25T13:21:46.161744+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 14:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709194/bijtanken-in-de-lucht-mislukt-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html": {
+   "titel": "Bijtanken in de lucht mislukt: vliegtuig wijkt uit naar Eindhoven, brandweer rukt uit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709194/bijtanken-in-de-lucht-mislukt-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html",
+   "tekst": "",
+   "datum": "2026-11-25T13:19:02+00:00",
+   "eerst_gezien": "2026-11-25T13:21:46.161744+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 14:19"
   },
   "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/": {
    "titel": "Kinderen geven in Vlierden startsein voor jubileumproject op Sint Willibrorduskerk",
@@ -8869,23 +8887,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 18:24"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126175126a2somerenrit139969": {
-   "titel": "A2 Someren Rit: 139969",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126175126a2somerenrit139969",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T17:51:26+01:00",
-   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "23-11 17:51"
   },
   "https://www.omroepbrabant.nl/nieuws/6034257/lezing-over-heggen-en-hagen-in-asten-heusden": {
    "titel": "Lezing over heggen en hagen in Asten-Heusden",
@@ -16813,23 +16814,6 @@
    "prio": false,
    "tijd": "19-11 17:00"
   },
-  "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/": {
-   "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
-   "link": "https://www.ed.nl/asten/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten~a9cddf50/",
-   "tekst": "Ommel is een kunstwerk rijker. Een dode beuk op het Kerkplein is door houtkunstenaar Roel van Wylick tot Mariabeeld omgetoverd.",
-   "datum": "2026-11-18T16:44:00+00:00",
-   "eerst_gezien": "2026-11-18T16:47:24.590015+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 17:44"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108649418/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid.html": {
    "titel": "Alleen `zware blaffers` vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108649418/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid.html",
@@ -18827,88 +18811,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639105/jonge-nepagent-op-heterdaad-aangehouden-in-woning-in-helmond-twee-medeverdachten-ook-opgepakt.html": {
-   "titel": "Jonge nepagent op heterdaad aangehouden in woning in Helmond, twee medeverdachten ook opgepakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639105/jonge-nepagent-op-heterdaad-aangehouden-in-woning-in-helmond-twee-medeverdachten-ook-opgepakt.html",
-   "tekst": "",
-   "datum": "2026-11-18T16:58:06+00:00",
-   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 17:58"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639048/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten.html": {
-   "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639048/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten.html",
-   "tekst": "",
-   "datum": "2026-11-18T16:49:07+00:00",
-   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639047/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html": {
-   "titel": "Eindhoven ontsnapt `bij toeval` aan stadsbrand in binnenstad, tip van agent voorkomt onbeheersbaar inferno",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639047/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html",
-   "tekst": "",
-   "datum": "2026-11-18T16:49:07+00:00",
-   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 17:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639045/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten.html": {
-   "titel": "Dode beuk in Ommel krijgt tweede leven als Mariabeeld: de top werd er in de oorlog nog uit geschoten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639045/dode-beuk-in-ommel-krijgt-tweede-leven-als-mariabeeld-de-top-werd-er-in-de-oorlog-nog-uit-geschoten.html",
-   "tekst": "",
-   "datum": "2026-11-18T16:49:06+00:00",
-   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639044/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html": {
-   "titel": "Eindhoven ontsnapt `bij toeval` aan stadsbrand in binnenstad, tip van agent voorkomt onbeheersbaar inferno",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639044/eindhoven-ontsnapt-bij-toeval-aan-stadsbrand-in-binnenstad-tip-van-agent-voorkomt-onbeheersbaar-inferno.html",
-   "tekst": "",
-   "datum": "2026-11-18T16:49:05+00:00",
-   "eerst_gezien": "2026-11-18T17:03:28.178435+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-politie-nog-op-zoek-naar-andere-man": {
    "titel": "Man gepakt na melding van steekpartij, politie nog op zoek naar andere man",
    "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-politie-nog-op-zoek-naar-andere-man",
@@ -18970,7 +18872,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18980,7 +18882,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 11,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -19030,7 +18932,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
