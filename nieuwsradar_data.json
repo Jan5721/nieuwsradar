@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 10:06",
+ "bijgewerkt": "25-11-2026 10:22",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -766,23 +766,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64772/grote-ontdekmiddag-voor-jong-en-oud-bij-museum-klok-peel": {
-   "titel": "‘Grote ontdekmiddag’ voor jong en oud bij Museum Klok & Peel",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64772/grote-ontdekmiddag-voor-jong-en-oud-bij-museum-klok-peel",
-   "tekst": "ASTEN - Museum Klok & Peel in Asten presenteert zondag een nieuwe activiteit: 'Bottenjager!, dé grote ontdekmiddag voor jonge en oude(re) speurneuzen'. Deze is gekoppeld aan de tentoonstelling 'Uitgeleefd! Beesten en botten uit Brabantse bodem'.",
-   "datum": "2026-11-18T10:11:00+01:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:11"
-  },
   "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/": {
    "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
    "link": "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/",
@@ -795,7 +778,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:00"
@@ -1448,6 +1431,40 @@
    "prio": false,
    "tijd": "18-11 17:14"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg": {
+   "titel": "Helmond erkent woonbestemming aan Gerwenseweg",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg",
+   "tekst": "18 november 2026 De gemeente Helmond heeft een woonbestemming erkend voor een pand aan de Gerwenseweg. Dit besluit volgt uit een omgevingsvergunning die eerder dit jaar werd aangevraagd.",
+   "datum": "2026-11-25T09:21:44.525299+00:00",
+   "eerst_gezien": "2026-11-25T09:21:44.525299+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:21"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035199/helmond-stelt-subsidieplafonds-voor-evenementen-in-2027-vast": {
+   "titel": "Helmond stelt subsidieplafonds voor evenementen in 2027 vast",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035199/helmond-stelt-subsidieplafonds-voor-evenementen-in-2027-vast",
+   "tekst": "18 november 2026 Burgemeester en wethouders van Helmond hebben het subsidieplafond voor evenementen in 2027 vastgesteld. In totaal is er vijfhonderdvierentachtigduizend euro beschikbaar.",
+   "datum": "2026-11-25T09:21:44.525299+00:00",
+   "eerst_gezien": "2026-11-25T09:21:44.525299+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:21"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035006/deze-slagerij-bestaat-al-109-jaar-nu-nemen-twee-19-jarigen-de-zaak-over": {
    "titel": "Deze slagerij bestaat al 109 jaar, nu nemen twee 19-jarigen de zaak over",
    "link": "https://www.omroepbrabant.nl/nieuws/6035006/deze-slagerij-bestaat-al-109-jaar-nu-nemen-twee-19-jarigen-de-zaak-over",
@@ -1856,40 +1873,6 @@
    "prio": false,
    "tijd": "19-11 09:21"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne": {
-   "titel": "Tijdelijke woonunit voor twee jaar aan Belgerenseweg in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne",
-   "tekst": "18 november 2026 De gemeente Deurne heeft toestemming gegeven voor het plaatsen van een tijdelijke woonunit aan de Belgerenseweg. De woonunit mag maximaal twee jaar blijven staan.",
-   "datum": "2026-11-18T09:10:50.054002+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:10"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035219/vergunning-verleend-voor-woningbouw-in-liessel": {
-   "titel": "Vergunning verleend voor woningbouw in Liessel",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035219/vergunning-verleend-voor-woningbouw-in-liessel",
-   "tekst": "18 november 2026 De gemeente Deurne heeft een vergunning verleend voor de bouw van een woning op Loon 58 b in Liessel. Het besluit is op 16 november 2026 genomen.",
-   "datum": "2026-11-18T09:10:50.054002+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:10"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers": {
    "titel": "Thema-avond in Asten: steun voor mantelzorgers",
    "link": "https://www.omroepbrabant.nl/nieuws/6035140/thema-avond-in-asten-steun-voor-mantelzorgers",
@@ -1981,40 +1964,6 @@
    "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
    "link": "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning",
    "tekst": "12 november 2026 De gemeente Deurne heeft toestemming gegeven voor een evenement op de Bivakweg. Het besluit werd op 10 november genomen en de vergunning is verleend.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne": {
-   "titel": "Gehandicaptenparkeerplaats ingesteld bij Kolgans 33 in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne",
-   "tekst": "11 november 2026 De gemeente Deurne heeft een gehandicaptenparkeerplaats toegewezen bij Kolgans 33. Het gaat om een plek die gekoppeld is aan het kenteken van de auto van de aanvrager.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034358/vergunning-verleend-voor-woningen-aan-peelraand-in-deurne": {
-   "titel": "Vergunning verleend voor woningen aan Peelraand in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034358/vergunning-verleend-voor-woningen-aan-peelraand-in-deurne",
-   "tekst": "11 november 2026 De gemeente Deurne heeft besloten dat de woningen aan Peelraand 14 en 16 mogen worden verschoven. De omgevingsvergunning is op 4 november verleend.",
    "datum": "2026-11-23T12:57:19.109671+00:00",
    "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4609,12 +4558,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108706896/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108707058/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html": {
    "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706896/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707058/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html",
    "tekst": "",
-   "datum": "2026-11-25T09:01:06+00:00",
-   "eerst_gezien": "2026-11-25T09:05:45.099349+00:00",
+   "datum": "2026-11-25T09:13:25+00:00",
+   "eerst_gezien": "2026-11-25T09:21:44.525299+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5460,6 +5409,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126101817a1helmondrit140631": {
+   "titel": "A1 Helmond Rit: 140631",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126101817a1helmondrit140631",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T10:18:17+01:00",
+   "eerst_gezien": "2026-11-25T09:21:44.525299+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "25-11 10:18"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126100507a2astenrit140622": {
    "titel": "A2 Asten Rit: 140622",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126100507a2astenrit140622",
@@ -5472,7 +5438,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 10:05"
@@ -5901,6 +5867,56 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne": {
+   "titel": "Gehandicaptenparkeerplaats ingesteld bij Kolgans 33 in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034359/gehandicaptenparkeerplaats-ingesteld-bij-kolgans-33-in-deurne",
+   "tekst": "11 november 2026 De gemeente Deurne heeft een gehandicaptenparkeerplaats toegewezen bij Kolgans 33. Het gaat om een plek die gekoppeld is aan het kenteken van de auto van de aanvrager.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034358/vergunning-verleend-voor-woningen-aan-peelraand-in-deurne": {
+   "titel": "Vergunning verleend voor woningen aan Peelraand in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034358/vergunning-verleend-voor-woningen-aan-peelraand-in-deurne",
+   "tekst": "11 november 2026 De gemeente Deurne heeft besloten dat de woningen aan Peelraand 14 en 16 mogen worden verschoven. De omgevingsvergunning is op 4 november verleend.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706896/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html": {
+   "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706896/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html",
+   "tekst": "",
+   "datum": "2026-11-25T09:01:06+00:00",
+   "eerst_gezien": "2026-11-25T09:05:45.099349+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html": {
    "titel": "PSV maakt een helft lang indruk, maar wordt daarna overklast door supersterren van Real Madrid",
@@ -8410,23 +8426,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "23-11 10:46"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126101649a2helmondrit139757": {
-   "titel": "A2 Helmond Rit: 139757",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126101649a2helmondrit139757",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T10:16:49+01:00",
-   "eerst_gezien": "2026-11-23T09:27:54.852556+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "23-11 10:16"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108693307/deze-week-in-helmond-stripboek-over-lucas-gassel-en-kapperszaak-die-al-honderd-jaar-teruggaat.html": {
    "titel": "Deze week in Helmond: stripboek over Lucas Gassel en kapperszaak die al honderd jaar teruggaat",
@@ -15059,23 +15058,6 @@
    "prio": false,
    "tijd": "19-11 17:43"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635115/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:20:03+00:00",
-   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:20"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
@@ -18782,71 +18764,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635075/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
-   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635075/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:13:10+00:00",
-   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635068/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635068/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:13:05+00:00",
-   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635058/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
-   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635058/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:11:29+00:00",
-   "eerst_gezien": "2026-11-18T09:26:56.466777+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635009/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html": {
-   "titel": "Geldropse Fabiën wil meer vrijwilligers aantrekken voor Nepal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635009/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:07:27+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:07"
-  },
   "https://www.ed.nl/regionale-economie/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx~a5b0c477/": {
    "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
    "link": "https://www.ed.nl/regionale-economie/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx~a5b0c477/",
@@ -18879,55 +18796,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635008/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html": {
-   "titel": "Graaien maar: tiendaagse pop-up met verloren pakketten komt naar Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635008/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:07:27+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635006/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:07:27+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:10:08+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -18938,7 +18806,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18973,12 +18841,12 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 21,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -19053,7 +18921,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 26,
    "fout": ""
   },
   "112Brabant": {
