@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 10:54",
+ "bijgewerkt": "25-11-2026 11:10",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -766,6 +766,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/": {
+   "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
+   "link": "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/",
+   "tekst": "In de afgelopen week heeft de gemeente Helmond in totaal 24 vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-25T10:01:49+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:01"
+  },
   "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/": {
    "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
    "link": "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/",
@@ -936,22 +953,22 @@
    "prio": false,
    "tijd": "24-11 11:25"
   },
-  "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/": {
-   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
-   "link": "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/",
-   "tekst": "In een nieuw stripboek komt de bekendste kunstenaar van Helmond tot leven: Lucas Gassel van Helmont. Hij wordt geportretteerd als roodharig en zachtaardig, een man met ambities, verdriet en verlangens. Drieduizend Helmondse kinderen krijgen het boek cadeau.",
-   "datum": "2026-11-24T09:00:40+00:00",
-   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
-   "bron": "ED Helmond",
+  "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/": {
+   "titel": "Afgelopen week 12 meldingen van de gemeente over onder meer bouw in Deurne",
+   "link": "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/",
+   "tekst": "In de afgelopen week heeft de gemeente Deurne in totaal twaalf vergunningaanvragen verwerkt, waarvan elf voor Deurne en één voor Liessel. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-25T10:02:02+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "ED Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "24-11 10:00"
+   "tijd": "25-11 11:02"
   },
   "https://www.ed.nl/deurne/bert-augustus-brengt-muzikanten-samen-voor-kerstconcert-in-deurne~ac297c34/": {
    "titel": "Bert Augustus brengt muzikanten samen voor kerstconcert in Deurne",
@@ -987,6 +1004,23 @@
    "prio": false,
    "tijd": "24-11 11:50"
   },
+  "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/": {
+   "titel": "In stripboek komt Helmondse schilder Lucas Gassel tot leven: een bescheiden man met groot talent",
+   "link": "https://www.ed.nl/helmond/in-stripboek-komt-helmondse-schilder-lucas-gassel-tot-leven-een-bescheiden-man-met-groot-talent~ae45586e/",
+   "tekst": "In een nieuw stripboek komt de bekendste kunstenaar van Helmond tot leven: Lucas Gassel van Helmont. Hij wordt geportretteerd als roodharig en zachtaardig, een man met ambities, verdriet en verlangens. Drieduizend Helmondse kinderen krijgen het boek cadeau.",
+   "datum": "2026-11-24T09:00:40+00:00",
+   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 10:00"
+  },
   "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/": {
    "titel": "Na veel getouwtrek: nu geen McDonald’s op deze plek in Helmond",
    "link": "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/",
@@ -1020,6 +1054,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 21:39"
+  },
+  "https://www.ed.nl/asten/afgelopen-week-2-meldingen-van-de-gemeente-over-vergunningen-in-asten~a6a04040/": {
+   "titel": "Afgelopen week 2 meldingen van de gemeente over vergunningen in Asten",
+   "link": "https://www.ed.nl/asten/afgelopen-week-2-meldingen-van-de-gemeente-over-vergunningen-in-asten~a6a04040/",
+   "tekst": "In de afgelopen week heeft de gemeente Asten in totaal twee vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-25T10:01:34+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:01"
   },
   "https://www.ed.nl/asten/werkgroep-veldbiologie-houdt-winterwandeling-in-asten-heusden~ac5d2870/": {
    "titel": "Werkgroep Veldbiologie houdt winterwandeling in Asten-Heusden",
@@ -1071,6 +1122,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 09:03"
+  },
+  "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/": {
+   "titel": "Afgelopen week 10 meldingen van de gemeente over onder meer bouw in Someren",
+   "link": "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/",
+   "tekst": "In de afgelopen week heeft de gemeente Someren in totaal tien vergunningaanvragen verwerkt, waarvanin ieder geval acht voor Someren en één voor Lierop. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-25T10:01:52+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:01"
   },
   "https://www.ed.nl/someren/kerstmarkt-bij-zorgboerderij-onder-ons-in-someren-kerststal-creaties-en-boerderijproducten~a80f58f09/": {
    "titel": "Kerstmarkt bij Zorgboerderij Onder Ons in Someren: kerststal, creaties en boerderijproducten",
@@ -2570,7 +2638,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:53"
@@ -4626,6 +4694,56 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707456/hoogleraar-van-tue-over-doorbraak-in-167-jaar-oud-wiskundig-mysterie-dit-kan-hele-grote-gevolgen-hebben.html": {
+   "titel": "Hoogleraar van TU/e over doorbraak in 167 jaar oud wiskundig mysterie: `Dit kan hele grote gevolgen hebben`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707456/hoogleraar-van-tue-over-doorbraak-in-167-jaar-oud-wiskundig-mysterie-dit-kan-hele-grote-gevolgen-hebben.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:01:05+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707448/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html": {
+   "titel": "Tonpraoter Robert van Dijk uit Ammerzoden doet mee aan een van de bekendste toernooien van het land",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707448/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html",
+   "tekst": "",
+   "datum": "2026-11-25T09:58:08+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:58"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707435/aangepaste-openingstijden-milieustraat-in-december.html": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707435/aangepaste-openingstijden-milieustraat-in-december.html",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat' Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T09:58:02+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108707388/voorpagina-met-fvd-foto-leidt-tot-verontwaardigde-reacties-van-lezers.html": {
    "titel": "Voorpagina met FvD-foto leidt tot verontwaardigde reacties van lezers",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108707388/voorpagina-met-fvd-foto-leidt-tot-verontwaardigde-reacties-van-lezers.html",
@@ -4638,7 +4756,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:49"
@@ -4792,39 +4910,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 06:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108705665/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html": {
-   "titel": "Alida werd slachtoffer van huiselijk geweld: `Schuld wordt nog te vaak bij de vrouw gelegd`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705665/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html",
-   "tekst": "",
-   "datum": "2026-11-25T05:19:02+00:00",
-   "eerst_gezien": "2026-11-25T05:21:34.098671+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 06:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108705658/brand-in-container-bij-kasteel-van-sinterklaas-in-helmond.html": {
-   "titel": "Brand in container bij Kasteel van Sinterklaas in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705658/brand-in-container-bij-kasteel-van-sinterklaas-in-helmond.html",
-   "tekst": "In een container aan het Kasteelplein in Helmond is dinsdagnacht brand uitgebroken. De container met daarin een grote accu stond vlakbij...",
-   "datum": "2026-11-25T05:17:04+00:00",
-   "eerst_gezien": "2026-11-25T05:21:34.098671+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5273,7 +5358,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:53"
@@ -5491,7 +5576,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 10:43"
@@ -5508,7 +5593,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 10:39"
@@ -5988,6 +6073,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108705665/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html": {
+   "titel": "Alida werd slachtoffer van huiselijk geweld: `Schuld wordt nog te vaak bij de vrouw gelegd`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705665/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html",
+   "tekst": "",
+   "datum": "2026-11-25T05:19:02+00:00",
+   "eerst_gezien": "2026-11-25T05:21:34.098671+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 06:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108705658/brand-in-container-bij-kasteel-van-sinterklaas-in-helmond.html": {
+   "titel": "Brand in container bij Kasteel van Sinterklaas in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705658/brand-in-container-bij-kasteel-van-sinterklaas-in-helmond.html",
+   "tekst": "In een container aan het Kasteelplein in Helmond is dinsdagnacht brand uitgebroken. De container met daarin een grote accu stond vlakbij...",
+   "datum": "2026-11-25T05:17:04+00:00",
+   "eerst_gezien": "2026-11-25T05:21:34.098671+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108705647/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html": {
    "titel": "Alida werd slachtoffer van huiselijk geweld: `Schuld wordt nog te vaak bij de vrouw gelegd`",
@@ -17340,23 +17458,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/": {
-   "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Deurne",
-   "link": "https://www.ed.nl/deurne/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~a4a81747/",
-   "tekst": "In de afgelopen week heeft de gemeente Deurne in totaal dertien vergunningaanvragen verwerkt, waarvanin ieder geval twaalf voor Deurne. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-18T10:03:26+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:03"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
    "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
@@ -17524,40 +17625,6 @@
    "prio": false,
    "tijd": "18-11 22:07"
   },
-  "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/": {
-   "titel": "Afgelopen week 7 meldingen van de gemeente over onder meer bouw in Asten",
-   "link": "https://www.ed.nl/asten/afgelopen-week-7-meldingen-van-de-gemeente-over-onder-meer-bouw-in-asten~aeec63b6/",
-   "tekst": "In de afgelopen week heeft de gemeente Asten in totaal zeven vergunningaanvragen verwerkt, waarvan zes voor Asten en één voor Heusden. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-18T10:03:43+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:03"
-  },
-  "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/": {
-   "titel": "Afgelopen week 13 meldingen van de gemeente over onder meer bouw in Someren",
-   "link": "https://www.ed.nl/someren/afgelopen-week-13-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~af40219e/",
-   "tekst": "In de afgelopen week heeft de gemeente Someren in totaal dertien vergunningaanvragen verwerkt, waarvan twaalf voor Someren en één voor Lierop. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-18T10:04:45+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:04"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108640533/david-tegen-goliath-om-naam-juwelier-stockx-vecht-met-miljardenbedrijf-stockx-in-de-rechtbank.html": {
    "titel": "David tegen Goliath om naam: juwelier Stockx vecht met miljardenbedrijf StockX in de rechtbank",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108640533/david-tegen-goliath-om-naam-juwelier-stockx-vecht-met-miljardenbedrijf-stockx-in-de-rechtbank.html",
@@ -17608,23 +17675,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 21:21"
-  },
-  "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/": {
-   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
-   "link": "https://www.ed.nl/helmond/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond~ac47404a/",
-   "tekst": "In de afgelopen week heeft de gemeente Helmond in totaal zestien vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-18T10:03:39+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:03"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
@@ -18783,39 +18833,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635525/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html": {
-   "titel": "Vocaal Ensemble Phoenix uit Veldhoven geeft kerstconcert in Middelbeers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635525/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:07:22+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
-   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635522/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:07:22+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 11:13"
   },
   "https://www.ed.nl/regionale-economie/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx~a5b0c477/": {
    "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
@@ -18874,17 +18893,17 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 6,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -18954,7 +18973,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
