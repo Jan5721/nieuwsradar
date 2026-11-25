@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 18:47",
+ "bijgewerkt": "25-11-2026 19:03",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64930/leerlingen-basisschool-zeilberg-krijgen-tijdelijk-les-in-someren": {
    "titel": "Leerlingen Basisschool Zeilberg krijgen tijdelijk les in Someren",
@@ -1417,23 +1417,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 20:29"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
-   "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad",
-   "tekst": "18 november 2026 Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond woensdag op Instagram. De bewoner van het huis had na een eerste belletje direct de …",
-   "datum": "2026-11-18T17:51:48.968760+00:00",
-   "eerst_gezien": "2026-11-18T17:51:48.968760+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 18:51"
   },
   "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
@@ -4562,6 +4545,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711233/topbestuurders-delen-lessen-over-leiderschap-met-nieuwe-generatie-ondernemers.html": {
+   "titel": "Topbestuurders delen lessen over leiderschap met nieuwe generatie ondernemers",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711233/topbestuurders-delen-lessen-over-leiderschap-met-nieuwe-generatie-ondernemers.html",
+   "tekst": "",
+   "datum": "2026-11-25T18:01:06+00:00",
+   "eerst_gezien": "2026-11-25T18:03:26.379664+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 19:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108711121/vrouwelijke-ondernemers-en-studenten-inspireren-elkaar-wacht-niet-tot-je-je-er-klaar-voor-voelt-maar-zet-die-stap.html": {
    "titel": "Vrouwelijke ondernemers en studenten inspireren elkaar: `Wacht niet tot je je er klaar voor voelt, maar zet die stap`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711121/vrouwelijke-ondernemers-en-studenten-inspireren-elkaar-wacht-niet-tot-je-je-er-klaar-voor-voelt-maar-zet-die-stap.html",
@@ -4574,7 +4574,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 18:43"
@@ -4827,23 +4827,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html": {
-   "titel": "Sportvissers mogen blijven hengelen in Eindhoven, maar de regels worden strenger",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html",
-   "tekst": "",
-   "datum": "2026-11-25T13:49:09+00:00",
-   "eerst_gezien": "2026-11-25T13:53:52.197331+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 14:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -5514,7 +5497,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 18:41"
@@ -5531,7 +5514,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 18:41"
@@ -6079,6 +6062,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html": {
+   "titel": "Sportvissers mogen blijven hengelen in Eindhoven, maar de regels worden strenger",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html",
+   "tekst": "",
+   "datum": "2026-11-25T13:49:09+00:00",
+   "eerst_gezien": "2026-11-25T13:53:52.197331+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 14:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108709231/bijtanken-in-de-lucht-mislukt-militair-vliegtuig-wijkt-uit-naar-eindhoven-brandweer-rukt-uit.html": {
    "titel": "Bijtanken in de lucht mislukt: militair vliegtuig wijkt uit naar Eindhoven, brandweer rukt uit",
@@ -18377,7 +18377,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 23:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108641987/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden.html": {
    "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
@@ -18796,23 +18797,6 @@
    "prio": false,
    "tijd": "18-11 19:04"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108639543/politie-krijgt-fatbike-losers-niet-te-pakken.html": {
-   "titel": "Politie krijgt fatbike losers niet te pakken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108639543/politie-krijgt-fatbike-losers-niet-te-pakken.html",
-   "tekst": "Politie rijd achter een paar fatbikers aan in Helmond. Politie roept stoppen nou losers maar politie legt het af.",
-   "datum": "2026-11-18T18:01:10+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 19:01"
-  },
   "https://www.ed.nl/helmond/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders~a7001f70/": {
    "titel": "Overlast door fatbiketieners in Brandevoort daalt na indringende gesprekken met ouders",
    "link": "https://www.ed.nl/helmond/overlast-door-fatbiketieners-in-brandevoort-daalt-na-indringende-gesprekken-met-ouders~a7001f70/",
@@ -18845,23 +18829,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-politie-nog-op-zoek-naar-andere-man": {
-   "titel": "Man gepakt na melding van steekpartij, politie nog op zoek naar andere man",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-politie-nog-op-zoek-naar-andere-man",
-   "tekst": "Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij, maar of er daadwerkelijk gestoken is, wordt nog onderzocht. De politie is nog op zoek naar een andere man. In …",
-   "datum": "2026-11-18T17:50:41+00:00",
-   "eerst_gezien": "2026-11-18T18:09:10.350714+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 18:50"
   }
  },
  "bronnen": {
@@ -18907,7 +18874,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 28,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
