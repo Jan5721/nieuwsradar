@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 21:12",
+ "bijgewerkt": "25-11-2026 21:28",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -4529,6 +4529,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108712011/willem-alexander-bezoekt-brabant-water-in-eindhoven-en-kan-het-niet-laten-om-af-en-toe-grap-te-maken.html": {
+   "titel": "Wil­lem-Alexander bezoekt Brabant Water in Eindhoven en kan het niet laten om af en toe grap te maken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108712011/willem-alexander-bezoekt-brabant-water-in-eindhoven-en-kan-het-niet-laten-om-af-en-toe-grap-te-maken.html",
+   "tekst": "",
+   "datum": "2026-11-25T20:25:11+00:00",
+   "eerst_gezien": "2026-11-25T20:28:12.110913+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 21:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108711833/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
    "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711833/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html",
@@ -4790,39 +4807,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 19:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711390/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html": {
-   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711390/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html",
-   "tekst": "",
-   "datum": "2026-11-25T18:25:10+00:00",
-   "eerst_gezien": "2026-11-25T18:35:45.732371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711389/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html": {
-   "titel": "Meer dan 250 vrouwen in het Parktheater, met één missie: meer topvrouwen in Brainport",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711389/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html",
-   "tekst": "",
-   "datum": "2026-11-25T18:25:10+00:00",
-   "eerst_gezien": "2026-11-25T18:35:45.732371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -5459,7 +5443,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 21:11"
@@ -6007,6 +5991,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711390/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html": {
+   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711390/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html",
+   "tekst": "",
+   "datum": "2026-11-25T18:25:10+00:00",
+   "eerst_gezien": "2026-11-25T18:35:45.732371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711389/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html": {
+   "titel": "Meer dan 250 vrouwen in het Parktheater, met één missie: meer topvrouwen in Brainport",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711389/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html",
+   "tekst": "",
+   "datum": "2026-11-25T18:25:10+00:00",
+   "eerst_gezien": "2026-11-25T18:35:45.732371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126020947a2helmondrit140522": {
    "titel": "A2 Helmond Rit: 140522",
@@ -18897,57 +18914,6 @@
    "prio": false,
    "tijd": "18-11 21:43"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640424/bloedende-man-21-aangehouden-na-mogelijk-mishandelen-ns-medewerker-bij-eindhoven-centraal.html": {
-   "titel": "Bloedende man (21) aangehouden na mogelijk mishandelen NS-medewerker bij Eindhoven Centraal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640424/bloedende-man-21-aangehouden-na-mogelijk-mishandelen-ns-medewerker-bij-eindhoven-centraal.html",
-   "tekst": "",
-   "datum": "2026-11-18T20:21:31+00:00",
-   "eerst_gezien": "2026-11-18T20:33:53.008253+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 21:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html": {
-   "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html",
-   "tekst": "",
-   "datum": "2026-11-18T20:21:31+00:00",
-   "eerst_gezien": "2026-11-18T20:33:53.008253+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 21:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640392/gemert-bakel-moet-van-rechter-bewoners-en-bedrijven-scheiden-met-groenbuffer.html": {
-   "titel": "Gemert-Bakel moet van rechter bewoners en bedrijven scheiden met groenbuffer",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640392/gemert-bakel-moet-van-rechter-bewoners-en-bedrijven-scheiden-met-groenbuffer.html",
-   "tekst": "",
-   "datum": "2026-11-18T20:13:05+00:00",
-   "eerst_gezien": "2026-11-18T20:17:52.316241+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 21:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108645291/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html": {
    "titel": "Ombudsman TU/e ontkent betrokkenheid bij ontslagzaak, maar zat eerder als mediator wel degelijk aan tafel",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108645291/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html",
@@ -19086,7 +19052,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
