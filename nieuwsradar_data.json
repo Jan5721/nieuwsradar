@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 11:42",
+ "bijgewerkt": "25-11-2026 11:58",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
    "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
@@ -493,23 +493,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 14:19"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64773/waterschapsbelasting-stijgt-opnieuw-in-2027": {
-   "titel": "Waterschapsbelasting stijgt opnieuw in 2027",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64773/waterschapsbelasting-stijgt-opnieuw-in-2027",
-   "tekst": "REGIO - Waterschap Aa en Maas investeert komend jaar ruim 300 miljoen euro in schoon, veilig en voldoende water. Om maatregelen tegen wateroverlast en droogte, de verbetering van de waterkwaliteit en de bescherming tegen hoogwater te bekostigen, gaat de waterschapsbelasting in …",
-   "datum": "2026-11-18T11:43:00+01:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:43"
   },
   "https://www.peelbelangonline.nl/nieuws/sport/64919/lucas-van-dijk-wint-namens-soo-bak-gi-twee-gouden-plakken": {
    "titel": "Lucas van Dijk wint namens Soo Bak-Gi twee gouden plakken",
@@ -4728,6 +4711,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
+   "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:49:08+00:00",
+   "eerst_gezien": "2026-11-25T10:58:13.394572+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707855/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html": {
+   "titel": "Camera`s tegen afvaldumpers' In Den Haag werkt het, maar Eindhoven wil er niet aan beginnen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707855/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:49:08+00:00",
+   "eerst_gezien": "2026-11-25T10:58:13.394572+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108707706/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
    "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108707706/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html",
@@ -4740,10 +4757,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:31"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707705/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html": {
    "titel": "Camera`s tegen afvaldumpers' In Den Haag werkt het, maar Eindhoven wil er niet aan beginnen",
@@ -4757,10 +4773,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:31"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707685/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
    "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
@@ -4774,7 +4789,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4959,23 +4974,6 @@
    "prio": false,
    "tijd": "25-11 09:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108706550/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
-   "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706550/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html",
-   "tekst": "",
-   "datum": "2026-11-25T08:13:24+00:00",
-   "eerst_gezien": "2026-11-25T08:17:49.346582+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 09:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html",
@@ -5155,6 +5153,24 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707882/gezinnen-met-laag-inkomen-kunnen-op-gratis-kaartjes-voor-museum-klok-peel-rekenen.html": {
+   "titel": "Gezinnen met laag inkomen kunnen op gratis kaartjes voor Museum Klok & Peel rekenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707882/gezinnen-met-laag-inkomen-kunnen-op-gratis-kaartjes-voor-museum-klok-peel-rekenen.html",
+   "tekst": "De gemeenten Asten en Someren maken het mogelijk dat gezinnen met een laag inkomen gratis toegang krijgen tot Museum Klok & Peel. Zij kunnen...",
+   "datum": "2026-11-25T10:53:03+00:00",
+   "eerst_gezien": "2026-11-25T10:58:13.394572+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108704180/enorme-drukte-op-brabantse-snelwegen-in-ochtendspits-meerdere-lange-files.html": {
    "titel": "Enorme drukte op Brabantse snelwegen in ochtendspits: meerdere lange files",
@@ -5393,23 +5409,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 07:52"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
-   "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html",
-   "tekst": "",
-   "datum": "2026-11-20T23:13:02+00:00",
-   "eerst_gezien": "2026-11-20T23:21:15.306681+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 00:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707410/paard-fonq-van-somerense-amazone-rixt-van-der-horst-ontvangt-eretitel-delen-ze-niet-zomaar-uit.html": {
    "titel": "Paard Fonq van Somerense amazone Rixt van der Horst ontvangt eretitel: ‘Delen ze niet zomaar uit’",
@@ -6155,6 +6154,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706550/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
+   "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706550/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html",
+   "tekst": "",
+   "datum": "2026-11-25T08:13:24+00:00",
+   "eerst_gezien": "2026-11-25T08:17:49.346582+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 09:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html": {
+   "titel": "Elektrische auto vliegt in brand nadat bestuurder in sloot belandt in Heusden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666637/elektrische-auto-vliegt-in-brand-nadat-bestuurder-in-sloot-belandt-in-heusden.html",
+   "tekst": "",
+   "datum": "2026-11-20T23:13:02+00:00",
+   "eerst_gezien": "2026-11-20T23:21:15.306681+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 00:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707669/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
    "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
@@ -18786,23 +18819,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636050/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html": {
-   "titel": "Van koelteplekken tot wadi`s: Eindhoven zet in op een stad die extreme hitte en regen aankan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636050/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:09+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html": {
    "titel": "Myriam bouwde jarenlang aan de kunstwereld in Veghel, nu neemt ze afscheid: `Het is weer tijd om zelf te creëren`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108637229/myriam-bouwde-jarenlang-aan-de-kunstwereld-in-veghel-nu-neemt-ze-afscheid-het-is-weer-tijd-om-zelf-te-creeren.html",
@@ -18819,72 +18835,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 14:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html": {
-   "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636048/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:09+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636047/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html": {
-   "titel": "Van koelteplekken tot wadi`s: Eindhoven zet in op een stad die extreme hitte en regen aankan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636047/van-koelteplekken-tot-wadis-eindhoven-zet-in-op-een-stad-die-extreme-hitte-en-regen-aankan.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636045/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html": {
-   "titel": "Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636045/helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:49:06+00:00",
-   "eerst_gezien": "2026-11-18T11:04:04.984656+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635996/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html": {
-   "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635996/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:43:26+00:00",
-   "eerst_gezien": "2026-11-18T10:47:48.985868+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
@@ -18906,7 +18856,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Peelbelang": {
@@ -19006,7 +18956,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
