@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 06:54",
+ "bijgewerkt": "25-11-2026 07:10",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -936,22 +936,22 @@
    "prio": false,
    "tijd": "24-11 08:00"
   },
-  "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/": {
-   "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
-   "link": "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/",
-   "tekst": "Een man heeft bij een Kruidvat-filiaal aan de Postelstraat in Someren voor 2545 euro aan cosmetica gestolen. De diefstal vond plaats op 17 mei 2026. Ruim zes maanden later is hij nog altijd niet opgepakt, dus besloot de politie beelden van de verdachte te delen.",
-   "datum": "2026-11-23T20:39:00+00:00",
-   "eerst_gezien": "2026-11-23T20:43:39.389668+00:00",
-   "bron": "ED Helmond",
+  "https://www.ed.nl/deurne/bert-augustus-brengt-muzikanten-samen-voor-kerstconcert-in-deurne~ac297c34/": {
+   "titel": "Bert Augustus brengt muzikanten samen voor kerstconcert in Deurne",
+   "link": "https://www.ed.nl/deurne/bert-augustus-brengt-muzikanten-samen-voor-kerstconcert-in-deurne~ac297c34/",
+   "tekst": "Bert Augustus en vrienden geven een afwisselend concert in kerstsfeer in Deurne. Vrijdag 18 december begint ‘Eeuwen geleden, nu en altijd’ om 16.00 uur in de Willibrorduskerk.",
+   "datum": "2026-11-25T06:01:00+00:00",
+   "eerst_gezien": "2026-11-25T06:09:38.207379+00:00",
+   "bron": "ED Deurne",
    "gemeenten": [
-    "Someren"
+    "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "23-11 21:39"
+   "tijd": "25-11 07:01"
   },
   "https://www.ed.nl/deurne/kinderen-geven-in-vlierden-startsein-voor-jubileumproject-op-sint-willibrorduskerk~a6f013d6/": {
    "titel": "Kinderen geven in Vlierden startsein voor jubileumproject op Sint Willibrorduskerk",
@@ -969,6 +969,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:50"
+  },
+  "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/": {
+   "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
+   "link": "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/",
+   "tekst": "Een man heeft bij een Kruidvat-filiaal aan de Postelstraat in Someren voor 2545 euro aan cosmetica gestolen. De diefstal vond plaats op 17 mei 2026. Ruim zes maanden later is hij nog altijd niet opgepakt, dus besloot de politie beelden van de verdachte te delen.",
+   "datum": "2026-11-23T20:39:00+00:00",
+   "eerst_gezien": "2026-11-23T20:43:39.389668+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 21:39"
   },
   "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/": {
    "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: ‘Avond om de vriendschap te vieren’",
@@ -1067,7 +1084,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 06:53"
@@ -4434,7 +4451,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 06:49"
@@ -5318,7 +5335,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 06:42"
@@ -17918,23 +17935,6 @@
    "prio": false,
    "tijd": "18-11 12:49"
   },
-  "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://www.ed.nl/geldrop-mierlo/bouwinfracampus-in-mierlo-op-de-schop~a68513b6/",
-   "tekst": "Met de sloop van de werkplaatsen van opleidingsbedrijf Bouwmensen Mierlo is dinsdag een begin gemaakt met de vernieuwing van BouwInfraCampus Helmond-De Peel. ‘Dit moet het bouwcentrum van de regio worden’.",
-   "datum": "2026-11-18T06:01:00+00:00",
-   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html": {
    "titel": "Brabant Bokalen voor vrijwilligers die zich inzetten voor erfgoed en natuur",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108636609/brabant-bokalen-voor-vrijwilligers-die-zich-inzetten-voor-erfgoed-en-natuur.html",
@@ -18883,7 +18883,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 07:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108633920/hoe-defensie-in-alle-stilte-werkt-aan-minder-herrie-rond-vliegbasis-eindhoven-oordoppen-heb-je-hier-niet-nodig.html": {
    "titel": "Hoe Defensie in alle stilte werkt aan minder herrie rond Vliegbasis Eindhoven: `Oordoppen heb je hier niet nodig`",
@@ -18917,45 +18918,12 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633836/eindhovense-pro-wethouder-samir-toub-door-het-stof-oppositie-wil-onderzoek-naar-belangenverstrengeling.html": {
-   "titel": "Eindhovense PRO-wethouder Samir Toub door het stof, oppositie wil onderzoek naar belangenverstrengeling",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633836/eindhovense-pro-wethouder-samir-toub-door-het-stof-oppositie-wil-onderzoek-naar-belangenverstrengeling.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:01:06+00:00",
-   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html": {
    "titel": "Seniorenkoor geeft gratis kerstconcert in Bethlehemkerk in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108633989/seniorenkoor-geeft-gratis-kerstconcert-in-bethlehemkerk-in-helmond.html",
    "tekst": "",
    "datum": "2026-11-18T06:27:17+00:00",
    "eerst_gezien": "2026-11-18T06:27:50.021206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html": {
-   "titel": "BouwInfraCampus in Mierlo op de schop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108633881/bouwinfracampus-in-mierlo-op-de-schop.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:07:27+00:00",
-   "eerst_gezien": "2026-11-18T06:11:31.827626+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -18985,12 +18953,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -19090,7 +19058,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
