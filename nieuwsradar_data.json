@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 13:02",
+ "bijgewerkt": "25-11-2026 13:18",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
    "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
@@ -750,6 +750,23 @@
    "prio": false,
    "tijd": "18-11 15:02"
   },
+  "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/": {
+   "titel": "De drukste weg van Helmond is weer deels open, met meer groen en minder asfalt en steen",
+   "link": "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/",
+   "tekst": "De drukste weg van Helmond is weer deels open. De eerste fase van de opknapbeurt van de Kasteel-Traverse zit erop. De gemeente verwacht dat de overlast in andere straten nu flink zal verminderen.",
+   "datum": "2026-11-25T12:16:00+00:00",
+   "eerst_gezien": "2026-11-25T12:18:00.453316+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 13:16"
+  },
   "https://www.ed.nl/helmond/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam~adfc0da4/": {
    "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
    "link": "https://www.ed.nl/helmond/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam~adfc0da4/",
@@ -1090,23 +1107,6 @@
    "prio": false,
    "tijd": "24-11 14:23"
   },
-  "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/": {
-   "titel": "Midas winkelcentrum in Asten houdt workshop stapelkaars maken",
-   "link": "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/",
-   "tekst": "Midas winkelcentrum in Asten houdt tijdens de koopzondag een workshop stapelkaars maken. Zondag 29 november kunnen deelnemers op vier momenten meedoen in het winkelcentrum.",
-   "datum": "2026-11-24T08:03:59+00:00",
-   "eerst_gezien": "2026-11-24T08:11:03.648961+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 09:03"
-  },
   "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/": {
    "titel": "Afgelopen week 10 meldingen van de gemeente over onder meer bouw in Someren",
    "link": "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/",
@@ -1140,23 +1140,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 09:10"
-  },
-  "https://www.ed.nl/someren/campagne-in-someren-wijst-ouders-op-signalen-van-criminaliteit-onder-jongeren~af3a4427/": {
-   "titel": "Campagne in Someren wijst ouders op signalen van criminaliteit onder jongeren",
-   "link": "https://www.ed.nl/someren/campagne-in-someren-wijst-ouders-op-signalen-van-criminaliteit-onder-jongeren~af3a4427/",
-   "tekst": "De gemeente Someren vraagt aandacht voor signalen die kunnen wijzen op criminaliteit onder jongeren. De boodschap komt uit de campagne ‘Oog voor elkaar’ van Brabant op de radar.",
-   "datum": "2026-11-24T08:18:23+00:00",
-   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 09:18"
   },
   "https://www.omroepbrabant.nl/nieuws/6036037/brand-in-container-bij-kasteel-van-sinterklaas-in-helmond": {
    "titel": "Brand in container bij Kasteel van Sinterklaas in Helmond",
@@ -4609,6 +4592,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108708711/van-eindhovense-werkplaats-naar-zimbabwe-onverslijtbare-machines-van-van-kessel-krijgen-tweede-leven.html": {
+   "titel": "Van Eindhovense werkplaats naar Zimbabwe: `onverslijtbare` machines van Van Kessel krijgen tweede leven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708711/van-eindhovense-werkplaats-naar-zimbabwe-onverslijtbare-machines-van-van-kessel-krijgen-tweede-leven.html",
+   "tekst": "",
+   "datum": "2026-11-25T12:13:25+00:00",
+   "eerst_gezien": "2026-11-25T12:18:00.453316+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 13:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108708710/meierijstad-zet-mannenkapsalons-in-tegen-geweld-tegen-vrouwen-maar-expert-waarschuwt-een-flyer-op-zich-doet-niks.html": {
+   "titel": "Meierijstad zet mannenkapsalons in tegen geweld tegen vrouwen, maar expert waarschuwt: `Een flyer op zich doet niks`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708710/meierijstad-zet-mannenkapsalons-in-tegen-geweld-tegen-vrouwen-maar-expert-waarschuwt-een-flyer-op-zich-doet-niks.html",
+   "tekst": "",
+   "datum": "2026-11-25T12:13:25+00:00",
+   "eerst_gezien": "2026-11-25T12:18:00.453316+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 13:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108708217/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html": {
    "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108708217/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html",
@@ -4855,21 +4872,22 @@
    "prio": false,
    "tijd": "25-11 10:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707058/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html": {
-   "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707058/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html",
-   "tekst": "",
-   "datum": "2026-11-25T09:13:25+00:00",
-   "eerst_gezien": "2026-11-25T09:21:44.525299+00:00",
-   "bron": "Drimble Helmond",
+  "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
+   "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html",
+   "tekst": "Evan van der Doelen en Tom Reniers hebben het Benelux Open 2026 voor herenkoppels gewonnen. Het duo trok in Deurne met 4-3 aan het langste...",
+   "datum": "2026-11-25T12:16:02+00:00",
+   "eerst_gezien": "2026-11-25T12:18:00.453316+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "25-11 13:16"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5025,22 +5043,6 @@
    "tekst": "Het schoolbestuur van basisschool De Zeilberg in Deurne staat voor een enorme klus. Bestuurder Mischa Kleukers moet onderdak vinden...",
    "datum": "2026-11-22T22:17:05+00:00",
    "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html": {
-   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: `de kroeg in op zondagmiddag`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html",
-   "tekst": "",
-   "datum": "2026-11-22T20:19:02+00:00",
-   "eerst_gezien": "2026-11-22T20:35:03.600142+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -6068,6 +6070,72 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/": {
+   "titel": "Midas winkelcentrum in Asten houdt workshop stapelkaars maken",
+   "link": "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/",
+   "tekst": "Midas winkelcentrum in Asten houdt tijdens de koopzondag een workshop stapelkaars maken. Zondag 29 november kunnen deelnemers op vier momenten meedoen in het winkelcentrum.",
+   "datum": "2026-11-24T08:03:59+00:00",
+   "eerst_gezien": "2026-11-24T08:11:03.648961+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:03"
+  },
+  "https://www.ed.nl/someren/campagne-in-someren-wijst-ouders-op-signalen-van-criminaliteit-onder-jongeren~af3a4427/": {
+   "titel": "Campagne in Someren wijst ouders op signalen van criminaliteit onder jongeren",
+   "link": "https://www.ed.nl/someren/campagne-in-someren-wijst-ouders-op-signalen-van-criminaliteit-onder-jongeren~af3a4427/",
+   "tekst": "De gemeente Someren vraagt aandacht voor signalen die kunnen wijzen op criminaliteit onder jongeren. De boodschap komt uit de campagne ‘Oog voor elkaar’ van Brabant op de radar.",
+   "datum": "2026-11-24T08:18:23+00:00",
+   "eerst_gezien": "2026-11-24T08:26:53.593893+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 09:18"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707058/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html": {
+   "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707058/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html",
+   "tekst": "",
+   "datum": "2026-11-25T09:13:25+00:00",
+   "eerst_gezien": "2026-11-25T09:21:44.525299+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html": {
+   "titel": "Deurnese horecabazen geven het nieuwe stappen een impuls: `de kroeg in op zondagmiddag`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680187/deurnese-horecabazen-geven-het-nieuwe-stappen-een-impuls-de-kroeg-in-op-zondagmiddag.html",
+   "tekst": "",
+   "datum": "2026-11-22T20:19:02+00:00",
+   "eerst_gezien": "2026-11-22T20:35:03.600142+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/": {
    "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
@@ -14204,23 +14272,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108636760/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
-   "tekst": "",
-   "datum": "2026-11-18T12:11:30+00:00",
-   "eerst_gezien": "2026-11-18T12:26:47.518200+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 13:11"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
@@ -18624,7 +18675,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "ED Deurne": {
@@ -18634,12 +18685,12 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -18709,7 +18760,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
