@@ -1,6 +1,24 @@
 {
- "bijgewerkt": "25-11-2026 16:31",
+ "bijgewerkt": "25-11-2026 16:47",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64930/leerlingen-basisschool-zeilberg-krijgen-tijdelijk-les-in-someren": {
+   "titel": "Leerlingen Basisschool Zeilberg krijgen tijdelijk les in Someren",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64930/leerlingen-basisschool-zeilberg-krijgen-tijdelijk-les-in-someren",
+   "tekst": "ZEILBERG - De leerlingen van Basisschool Zeilberg kunnen vanaf dinsdag 1 december weer naar school. Na de brand van vrijdagavond is voor alle leerlingen tijdelijke huisvesting gevonden aan de Kanaalstraat 38 in Someren. De gemeente Deurne regelt busvervoer om de kinderen naar …",
+   "datum": "2026-11-25T16:37:00+01:00",
+   "eerst_gezien": "2026-11-25T15:46:57.567137+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 16:37"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck": {
    "titel": "Nieuwe dienst Energiehuis Slim Wonen: de verwarmingscheck",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck",
@@ -2458,23 +2476,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034445/grip-wagen-komt-naar-someren-voor-laatste-inzamelronde": {
-   "titel": "GRIP-wagen komt naar Someren voor laatste inzamelronde",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034445/grip-wagen-komt-naar-someren-voor-laatste-inzamelronde",
-   "tekst": "11 november 2026 Op donderdag 19 en vrijdag 20 november staat de GRIP-wagen in Someren. Inwoners kunnen gratis kapotte en overbodige spullen inleveren. Het is de laatste inzamelronde van dit jaar.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
   "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
    "titel": "Aangepaste openingstijden milieustraat in december",
    "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
@@ -2657,7 +2658,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 16:18"
@@ -4560,6 +4561,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710162/anne-34-ging-op-zoek-naar-de-man-die-ze-als-kind-vals-aanwees-als-kinderlokker-dat-vliegtuigje-was-een-beetje-grotesk.html": {
+   "titel": "Anne (34) ging op zoek naar de man die ze als kind vals aanwees als kinderlokker: `Dat vliegtuigje was een beetje grotesk`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710162/anne-34-ging-op-zoek-naar-de-man-die-ze-als-kind-vals-aanwees-als-kinderlokker-dat-vliegtuigje-was-een-beetje-grotesk.html",
+   "tekst": "",
+   "datum": "2026-11-25T15:31:04+00:00",
+   "eerst_gezien": "2026-11-25T15:46:57.567137+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 16:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108710155/automobilist-belandt-met-auto-in-sloot.html": {
    "titel": "Automobilist belandt met auto in sloot",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108710155/automobilist-belandt-met-auto-in-sloot.html",
@@ -4572,7 +4590,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 16:29"
@@ -4847,22 +4865,6 @@
    "tekst": "",
    "datum": "2026-11-25T12:13:25+00:00",
    "eerst_gezien": "2026-11-25T12:18:00.453316+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108708217/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html": {
-   "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708217/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html",
-   "tekst": "",
-   "datum": "2026-11-25T11:19:02+00:00",
-   "eerst_gezien": "2026-11-25T11:30:11.285794+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5542,7 +5544,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 16:23"
@@ -6073,6 +6075,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034445/grip-wagen-komt-naar-someren-voor-laatste-inzamelronde": {
+   "titel": "GRIP-wagen komt naar Someren voor laatste inzamelronde",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034445/grip-wagen-komt-naar-someren-voor-laatste-inzamelronde",
+   "tekst": "11 november 2026 Op donderdag 19 en vrijdag 20 november staat de GRIP-wagen in Someren. Inwoners kunnen gratis kapotte en overbodige spullen inleveren. Het is de laatste inzamelronde van dit jaar.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108708217/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html": {
+   "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108708217/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam.html",
+   "tekst": "",
+   "datum": "2026-11-25T11:19:02+00:00",
+   "eerst_gezien": "2026-11-25T11:30:11.285794+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126200222a2astenrit140443": {
    "titel": "A2 Asten Rit: 140443",
@@ -18826,7 +18861,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Peelbelang": {
@@ -18881,7 +18916,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Gemeente Helmond": {
