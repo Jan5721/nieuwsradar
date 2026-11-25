@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 03:25",
+ "bijgewerkt": "25-11-2026 03:41",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -8556,23 +8556,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 18:53"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126033157a1helmondrit139616": {
-   "titel": "A1 Helmond Rit: 139616",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126033157a1helmondrit139616",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T03:31:57+01:00",
-   "eerst_gezien": "2026-11-23T02:45:22.231082+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "23-11 03:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html": {
    "titel": "Verkeer op randweg N2 met nieuwe afslag voortaan sneller op A2",
