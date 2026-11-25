@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 15:26",
+ "bijgewerkt": "25-11-2026 15:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck": {
    "titel": "Nieuwe dienst Energiehuis Slim Wonen: de verwarmingscheck",
@@ -746,7 +746,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 15:15"
@@ -4555,7 +4555,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4571,7 +4571,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 15:19"
@@ -4588,7 +4588,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4604,7 +4604,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 15:13"
@@ -4621,7 +4621,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5496,6 +5496,23 @@
    "prio": false,
    "tijd": "22-11 06:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126153021p2bob01dienstverleningtilassistentiewarandelaanh": {
+   "titel": "P 2 BOB-01 Dienstverlening (tilassistentie) Warandelaan Helmond 223231",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126153021p2bob01dienstverleningtilassistentiewarandelaanh",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-25T15:30:21+01:00",
+   "eerst_gezien": "2026-11-25T14:42:03.221560+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 15:30"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126150615p2bob01dienstverleningtilassistentiewarandelaanh": {
    "titel": "P 2 BOB-01 Dienstverlening (tilassistentie) Warandelaan Helmond 223231",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126150615p2bob01dienstverleningtilassistentiewarandelaanh",
@@ -5989,23 +6006,6 @@
    "prio": false,
    "tijd": "24-11 20:02"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426": {
-   "titel": "A2 Helmond Rit: 140426",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T18:54:56+01:00",
-   "eerst_gezien": "2026-11-24T18:05:12.301666+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 18:54"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -6022,6 +6022,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426": {
+   "titel": "A2 Helmond Rit: 140426",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T18:54:56+01:00",
+   "eerst_gezien": "2026-11-24T18:05:12.301666+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 18:54"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
    "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
@@ -17640,23 +17657,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 19:09"
-  },
-  "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/": {
-   "titel": "Museum Klok & Peel in Asten toont LEGO-lievelingsdieren van kinderen",
-   "link": "https://www.ed.nl/asten/museum-klok-en-peel-in-asten-toont-lego-lievelingsdieren-van-kinderen~a170159c/",
-   "tekst": "Museum Klok & Peel laat kinderen een eigen LEGO-lievelingsdier tentoonstellen tijdens Museum in Wintersfeer. LEGO-bouwers kunnen woensdag 16 december tussen 14.00 en 16.00 uur hun bouwwerk inleveren bij het museum.",
-   "datum": "2026-11-18T14:26:00+00:00",
-   "eerst_gezien": "2026-11-18T14:35:56.379287+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 15:26"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647254/door-coen-werd-het-rapport-over-de-vliegramp-in-strijp-niet-vernietigd-ruim-100-dagen-in-het-archief-met-2000-kopieen.html": {
    "titel": "Door Coen werd het rapport over de vliegramp in Strijp niet vernietigd: `Ruim 100 dagen in het archief met 2000 kopieën...",
