@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 22:49",
+ "bijgewerkt": "25-11-2026 23:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -1461,8 +1461,8 @@
    "eerst_gezien": "2026-11-25T16:59:03.197558+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
    "gemeenten": [
-    "Deurne",
-    "Helmond"
+    "Helmond",
+    "Deurne"
    ],
    "soort": "regionale omroep",
    "betaald": false,
@@ -4580,6 +4580,38 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108713382/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast.html": {
+   "titel": "Grote brand in huis in Bakel: opgepakte man zit drie maanden langer vast",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108713382/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast.html",
+   "tekst": "De 40-jarige Helmonder die is opgepakt voor de grote brand in een huis in Bakel, blijft negentig dagen langer vastzitten. Dat heeft...",
+   "datum": "2026-11-25T22:17:05+00:00",
+   "eerst_gezien": "2026-11-25T22:20:33.164731+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108713144/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108713144/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:15:02+00:00",
+   "eerst_gezien": "2026-11-25T22:20:33.164731+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108712011/willem-alexander-bezoekt-brabant-water-in-eindhoven-en-kan-het-niet-laten-om-af-en-toe-grap-te-maken.html": {
    "titel": "Wil­lem-Alexander bezoekt Brabant Water in Eindhoven en kan het niet laten om af en toe grap te maken",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108712011/willem-alexander-bezoekt-brabant-water-in-eindhoven-en-kan-het-niet-laten-om-af-en-toe-grap-te-maken.html",
@@ -4825,40 +4857,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711407/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html": {
-   "titel": "Meer dan 250 vrouwen in het Parktheater, met één missie: meer topvrouwen in Brainport",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711407/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html",
-   "tekst": "",
-   "datum": "2026-11-25T18:31:04+00:00",
-   "eerst_gezien": "2026-11-25T18:35:45.732371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 19:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711406/uw-e-mailadres-eindigend-op-onsbrabantnet-lijkt-te-komen-vervallen-bij-kpn.html": {
-   "titel": "Uw e-mailadres eindigend op @onsbrabantnet lijkt te komen vervallen bij KPN",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711406/uw-e-mailadres-eindigend-op-onsbrabantnet-lijkt-te-komen-vervallen-bij-kpn.html",
-   "tekst": "",
-   "datum": "2026-11-25T18:31:04+00:00",
-   "eerst_gezien": "2026-11-25T18:35:45.732371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 19:31"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html",
@@ -5037,6 +5035,23 @@
    "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108713379/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren.html": {
+   "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108713379/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren.html",
+   "tekst": "De sluizen 10 in Asten en 12 bij Someren-Eind gaan volgend jaar bijna vier maanden dicht om gerenoveerd te worden. Dat stond al op de planning,...",
+   "datum": "2026-11-25T22:17:04+00:00",
+   "eerst_gezien": "2026-11-25T22:20:33.164731+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -5296,24 +5311,6 @@
    "prio": false,
    "tijd": "21-11 08:11"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667721/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
-   "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667721/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
-   "tekst": "",
-   "datum": "2026-11-21T06:52:17+00:00",
-   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 07:52"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108710616/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html": {
    "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108710616/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html",
@@ -5465,22 +5462,22 @@
    "prio": false,
    "tijd": "23-11 09:53"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html": {
-   "titel": "Stamboomcaf&é Someren nodigt ge&ïnteresseerden uit voor zoektocht naar familiegeschiedenis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html",
-   "tekst": "Mensen die interesse hebben in hun eigen verborgen verleden kunnen goed terecht bij het Somerense Stamboomcaf&é. De vrijwilligers...",
-   "datum": "2026-11-22T20:53:02+00:00",
-   "eerst_gezien": "2026-11-22T21:07:06.302619+00:00",
-   "bron": "Drimble Someren",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126231620a2deurnerit140928": {
+   "titel": "A2 Deurne Rit: 140928",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126231620a2deurnerit140928",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T23:16:20+01:00",
+   "eerst_gezien": "2026-11-25T22:20:33.164731+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Someren"
+    "Deurne"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "22-11 21:53"
+   "tijd": "25-11 23:16"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126223406a2helmondrit140921": {
    "titel": "A2 Helmond Rit: 140921",
@@ -5494,7 +5491,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 22:34"
@@ -6025,6 +6022,75 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711407/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html": {
+   "titel": "Meer dan 250 vrouwen in het Parktheater, met één missie: meer topvrouwen in Brainport",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711407/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html",
+   "tekst": "",
+   "datum": "2026-11-25T18:31:04+00:00",
+   "eerst_gezien": "2026-11-25T18:35:45.732371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 19:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711406/uw-e-mailadres-eindigend-op-onsbrabantnet-lijkt-te-komen-vervallen-bij-kpn.html": {
+   "titel": "Uw e-mailadres eindigend op @onsbrabantnet lijkt te komen vervallen bij KPN",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711406/uw-e-mailadres-eindigend-op-onsbrabantnet-lijkt-te-komen-vervallen-bij-kpn.html",
+   "tekst": "",
+   "datum": "2026-11-25T18:31:04+00:00",
+   "eerst_gezien": "2026-11-25T18:35:45.732371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 19:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108667721/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
+   "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667721/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
+   "tekst": "",
+   "datum": "2026-11-21T06:52:17+00:00",
+   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten",
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 07:52"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html": {
+   "titel": "Stamboomcaf&é Someren nodigt ge&ïnteresseerden uit voor zoektocht naar familiegeschiedenis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html",
+   "tekst": "Mensen die interesse hebben in hun eigen verborgen verleden kunnen goed terecht bij het Somerense Stamboomcaf&é. De vrijwilligers...",
+   "datum": "2026-11-22T20:53:02+00:00",
+   "eerst_gezien": "2026-11-22T21:07:06.302619+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "22-11 21:53"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126023027p2bob01assambuafhijsenbrouwhuissedijkhelmond2232": {
    "titel": "P 2 BOB-01 Ass. Ambu (afhijsen) Brouwhuissedijk Helmond 223251 223231",
@@ -15414,23 +15480,6 @@
    "prio": false,
    "tijd": "20-11 16:01"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108642000/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk.html": {
-   "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108642000/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk.html",
-   "tekst": "Zes elektriciens moeten de cel in voor een reeks oplichtingen. De rechtbank in Den Bosch oordeelde woensdag dat de mannen uit Helmond,...",
-   "datum": "2026-11-18T22:17:06+00:00",
-   "eerst_gezien": "2026-11-18T22:26:37.839705+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 23:17"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html",
@@ -18812,40 +18861,6 @@
    "prio": false,
    "tijd": "18-11 23:45"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108641989/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad.html": {
-   "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108641989/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad.html",
-   "tekst": "Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond...",
-   "datum": "2026-11-18T22:17:05+00:00",
-   "eerst_gezien": "2026-11-18T22:26:37.839705+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 23:17"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108641987/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden.html": {
-   "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108641987/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden.html",
-   "tekst": "Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor...",
-   "datum": "2026-11-18T22:17:05+00:00",
-   "eerst_gezien": "2026-11-18T22:26:37.839705+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 23:17"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108645291/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html": {
    "titel": "Ombudsman TU/e ontkent betrokkenheid bij ontslagzaak, maar zat eerder als mediator wel degelijk aan tafel",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108645291/ombudsman-tue-ontkent-betrokkenheid-bij-ontslagzaak-maar-zat-eerder-als-mediator-wel-degelijk-aan-tafel.html",
@@ -18982,12 +18997,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
