@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "25-11-2026 11:10",
+ "bijgewerkt": "25-11-2026 11:26",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
+   "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne",
+   "tekst": "DEURNE - Muzikant Bertus Borgers komt vrijdag 27 november met zijn formatie Brabant Funk naar het Cultuurcentrum in Deurne. Het optreden staat in het teken van het nieuwe livealbum van de band, waarop opnamen staan van verschillende shows uit het afgelopen halfjaar.",
+   "datum": "2026-11-25T11:13:43+01:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:13"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia",
@@ -766,6 +783,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.ed.nl/helmond/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol~a31cbaf8/": {
+   "titel": "Connie Palmen komt naar Helmond en vertelt over haar ‘veertigjarige relatie’ met alcohol",
+   "link": "https://www.ed.nl/helmond/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol~a31cbaf8/",
+   "tekst": "Connie Palmen is in 2027 te gast bij het Literair Café Helmond. Verder staan op het programma Bert Natter, Nadia de Vries, Eva Posthuma de Boer, Joost Oomen en Karin Amatmoekrim. Het Literair Café bestaat 37 jaar.",
+   "datum": "2026-11-25T10:15:02+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:15"
+  },
   "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/": {
    "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
    "link": "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/",
@@ -778,7 +812,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:01"
@@ -965,7 +999,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:02"
@@ -1067,7 +1101,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:01"
@@ -1135,7 +1169,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:01"
@@ -2630,7 +2664,7 @@
    "titel": "Aangepaste openingstijden milieustraat in december",
    "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
    "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T09:53:55.901824+00:00",
+   "datum": "2026-11-25T10:20:02+00:00",
    "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
    "bron": "Gemeente Helmond",
    "gemeenten": [
@@ -2641,7 +2675,7 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "25-11 10:53"
+   "tijd": "25-11 11:20"
   },
   "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
    "titel": "Pitchavond subsidie Street Culture en Sports",
@@ -4694,6 +4728,103 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707669/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
+   "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707669/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:25:14+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707626/de-bouwkraan-draait-weer-asml-zet-alles-op-alles-om-stroom-aan-orders-bij-te-benen.html": {
+   "titel": "De bouwkraan draait weer: ASML zet alles op alles om stroom aan orders bij te benen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707626/de-bouwkraan-draait-weer-asml-zet-alles-op-alles-om-stroom-aan-orders-bij-te-benen.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:19:03+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707625/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond.html": {
+   "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707625/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:19:03+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707624/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
+   "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707624/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:19:03+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707586/de-bouwkraan-draait-weer-asml-zet-alles-op-alles-om-stroom-aan-orders-bij-te-benen.html": {
+   "titel": "De bouwkraan draait weer: ASML zet alles op alles om stroom aan orders bij te benen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707586/de-bouwkraan-draait-weer-asml-zet-alles-op-alles-om-stroom-aan-orders-bij-te-benen.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:13:26+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707585/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond.html": {
+   "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707585/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:13:25+00:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108707456/hoogleraar-van-tue-over-doorbraak-in-167-jaar-oud-wiskundig-mysterie-dit-kan-hele-grote-gevolgen-hebben.html": {
    "titel": "Hoogleraar van TU/e over doorbraak in 167 jaar oud wiskundig mysterie: `Dit kan hele grote gevolgen hebben`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108707456/hoogleraar-van-tue-over-doorbraak-in-167-jaar-oud-wiskundig-mysterie-dit-kan-hele-grote-gevolgen-hebben.html",
@@ -4706,7 +4837,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:01"
@@ -4723,7 +4854,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:58"
@@ -4740,7 +4871,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4843,73 +4974,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:59"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108706115/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
-   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706115/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-25T06:58:08+00:00",
-   "eerst_gezien": "2026-11-25T07:13:45.341069+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108706073/burgemeester-dijsselbloem-ziet-rechtsextremisme-in-eindhoven-toenemen-vooral-online.html": {
-   "titel": "Burgemeester Dijsselbloem ziet rechtsextremisme in Eindhoven toenemen, vooral online",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706073/burgemeester-dijsselbloem-ziet-rechtsextremisme-in-eindhoven-toenemen-vooral-online.html",
-   "tekst": "",
-   "datum": "2026-11-25T06:49:08+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108705941/eindhovense-oppositie-krijgt-geen-steun-voor-onderzoek-naar-mogelijk-misbruik-van-subsidiegeld-bij-daklozenopvang.html": {
-   "titel": "Eindhovense oppositie krijgt geen steun voor onderzoek naar mogelijk misbruik van subsidiegeld bij daklozenopvang",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705941/eindhovense-oppositie-krijgt-geen-steun-voor-onderzoek-naar-mogelijk-misbruik-van-subsidiegeld-bij-daklozenopvang.html",
-   "tekst": "",
-   "datum": "2026-11-25T06:19:02+00:00",
-   "eerst_gezien": "2026-11-25T06:25:40.770800+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108705783/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html": {
-   "titel": "PSV implodeert na rust tegen Real Madrid: `We werden overlopen en toen was het klaar`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705783/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html",
-   "tekst": "",
-   "datum": "2026-11-25T05:49:09+00:00",
-   "eerst_gezien": "2026-11-25T05:53:33.253906+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 06:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5564,6 +5628,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126112403a2helmondrit140662": {
+   "titel": "A2 Helmond Rit: 140662",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126112403a2helmondrit140662",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T11:24:03+01:00",
+   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 11:24"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126104348a2helmondrit140642": {
    "titel": "A2 Helmond Rit: 140642",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126104348a2helmondrit140642",
@@ -6073,6 +6154,73 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706115/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
+   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706115/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-25T06:58:08+00:00",
+   "eerst_gezien": "2026-11-25T07:13:45.341069+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706073/burgemeester-dijsselbloem-ziet-rechtsextremisme-in-eindhoven-toenemen-vooral-online.html": {
+   "titel": "Burgemeester Dijsselbloem ziet rechtsextremisme in Eindhoven toenemen, vooral online",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706073/burgemeester-dijsselbloem-ziet-rechtsextremisme-in-eindhoven-toenemen-vooral-online.html",
+   "tekst": "",
+   "datum": "2026-11-25T06:49:08+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108705941/eindhovense-oppositie-krijgt-geen-steun-voor-onderzoek-naar-mogelijk-misbruik-van-subsidiegeld-bij-daklozenopvang.html": {
+   "titel": "Eindhovense oppositie krijgt geen steun voor onderzoek naar mogelijk misbruik van subsidiegeld bij daklozenopvang",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705941/eindhovense-oppositie-krijgt-geen-steun-voor-onderzoek-naar-mogelijk-misbruik-van-subsidiegeld-bij-daklozenopvang.html",
+   "tekst": "",
+   "datum": "2026-11-25T06:19:02+00:00",
+   "eerst_gezien": "2026-11-25T06:25:40.770800+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108705783/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html": {
+   "titel": "PSV implodeert na rust tegen Real Madrid: `We werden overlopen en toen was het klaar`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705783/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-25T05:49:09+00:00",
+   "eerst_gezien": "2026-11-25T05:53:33.253906+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 06:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108705665/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html": {
    "titel": "Alida werd slachtoffer van huiselijk geweld: `Schuld wordt nog te vaak bij de vrouw gelegd`",
@@ -18703,106 +18851,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html": {
-   "titel": "Proef in Brabant: is parkeren én laden op één en dezelfde laadplek een goed idee'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635730/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:21:31+00:00",
-   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635708/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html": {
-   "titel": "Waarom buurthuizen in Veldhoven een grotere rol moeten krijgen in de wijk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635708/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:19:02+00:00",
-   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635705/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html": {
-   "titel": "Proef in Brabant: is parkeren én laden op één en dezelfde laadplek een goed idee'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635705/proef-in-brabant-is-parkeren-en-laden-op-een-en-dezelfde-laadplek-een-goed-idee.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:19:02+00:00",
-   "eerst_gezien": "2026-11-18T10:31:42.128939+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635620/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html": {
-   "titel": "Waarom buurthuizen in Veldhoven een grotere rol moeten krijgen in de wijk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635620/waarom-buurthuizen-in-veldhoven-een-grotere-rol-moeten-krijgen-in-de-wijk.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:13:11+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635618/piekbuien-en-hitte-dwingen-eindhoven-tot-nadenken-over-de-toekomst-het-is-een-zoektocht.html": {
-   "titel": "Piekbuien en hitte dwingen Eindhoven tot nadenken over de toekomst: `Het is een zoektocht`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635618/piekbuien-en-hitte-dwingen-eindhoven-tot-nadenken-over-de-toekomst-het-is-een-zoektocht.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:13:11+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635608/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html": {
-   "titel": "Vocaal Ensemble Phoenix uit Veldhoven geeft kerstconcert in Middelbeers",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635608/vocaal-ensemble-phoenix-uit-veldhoven-geeft-kerstconcert-in-middelbeers.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:13:05+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Verkeerde gemeente, verkeerde afstand`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108636268/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand.html",
@@ -18818,23 +18866,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108635604/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html": {
-   "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108635604/afgelopen-week-16-meldingen-van-de-gemeente-over-onder-meer-bouw-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-18T10:13:05+00:00",
-   "eerst_gezien": "2026-11-18T10:15:32.028380+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 11:13"
   },
   "https://www.ed.nl/regionale-economie/david-tegen-goliath-om-naam-helmondse-juwelier-stockx-heeft-het-aan-de-stok-met-miljardenbedrijf-stockx~a5b0c477/": {
    "titel": "David tegen Goliath om naam: Helmondse juwelier Stockx heeft het aan de stok met miljardenbedrijf StockX",
@@ -18873,7 +18904,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Peelbelang": {
@@ -18888,7 +18919,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 12,
    "fout": ""
   },
   "ED Deurne": {
@@ -18973,7 +19004,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18993,7 +19024,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
