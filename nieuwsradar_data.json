@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 08:46",
+ "bijgewerkt": "25-11-2026 09:02",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1382,7 +1382,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk": {
    "titel": "Malafide elektriciens krijgen celstraffen na leveren van prutswerk",
    "link": "https://www.omroepbrabant.nl/nieuws/6035284/malafide-elektriciens-krijgen-celstraffen-na-leveren-van-prutswerk",
-   "tekst": "VIDEO woensdag Zes elektriciens moeten de cel in voor een reeks oplichtingen. De rechtbank in Den Bosch oordeelde woensdag dat de mannen uit Helmond, Deurne en Eindhoven honderden slachtoffers hebben gemaakt. Ze deden zich voor als …",
+   "tekst": "VIDEO 18 november 2026 Zes elektriciens moeten de cel in voor een reeks oplichtingen. De rechtbank in Den Bosch oordeelde woensdag dat de mannen uit Helmond, Deurne en Eindhoven honderden slachtoffers hebben gemaakt. Ze deden zich voor als …",
    "datum": "2026-11-18T16:14:34.212254+00:00",
    "eerst_gezien": "2026-11-18T16:14:34.212254+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4439,6 +4439,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706453/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
+   "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706453/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html",
+   "tekst": "",
+   "datum": "2026-11-25T08:01:04+00:00",
+   "eerst_gezien": "2026-11-25T08:01:53.522167+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 09:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108706224/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
    "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108706224/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html",
@@ -4668,23 +4685,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108701337/live-pijnlijke-tweede-helft-voor-psv-vinicius-junior-schiet-real-madrid-op-5-1.html": {
-   "titel": "LIVE | Pijnlijke tweede helft voor PSV: Viní­cius Júnior schiet Real Madrid op 5-1",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108701337/live-pijnlijke-tweede-helft-voor-psv-vinicius-junior-schiet-real-madrid-op-5-1.html",
-   "tekst": "",
-   "datum": "2026-11-24T21:49:10+00:00",
-   "eerst_gezien": "2026-11-24T21:51:42.220144+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 22:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5322,6 +5322,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126085546p1bob02brwegvervoerautohoornstraathelmond223231": {
+   "titel": "P 1 BOB-02 BR wegvervoer (Auto) Hoornstraat Helmond 223231",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126085546p1bob02brwegvervoerautohoornstraathelmond223231",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-25T08:55:46+01:00",
+   "eerst_gezien": "2026-11-25T08:01:53.522167+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "25-11 08:55"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126082415a2helmondrit140576": {
    "titel": "A2 Helmond Rit: 140576",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126082415a2helmondrit140576",
@@ -5763,6 +5780,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108701337/live-pijnlijke-tweede-helft-voor-psv-vinicius-junior-schiet-real-madrid-op-5-1.html": {
+   "titel": "LIVE | Pijnlijke tweede helft voor PSV: Viní­cius Júnior schiet Real Madrid op 5-1",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108701337/live-pijnlijke-tweede-helft-voor-psv-vinicius-junior-schiet-real-madrid-op-5-1.html",
+   "tekst": "",
+   "datum": "2026-11-24T21:49:10+00:00",
+   "eerst_gezien": "2026-11-24T21:51:42.220144+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 22:49"
   },
   "https://www.omroepbrabant.nl/nieuws/6034317/erica-en-wilhelmien-benoemd-tot-erelid-turnvereniging-someren": {
    "titel": "Erica en Wilhelmien benoemd tot erelid turnvereniging Someren",
@@ -17951,23 +17985,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout~a8a4bb5c/": {
-   "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
-   "link": "https://www.ed.nl/helmond/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout~a8a4bb5c/",
-   "tekst": "Kinderen van 5 tot 12 jaar kunnen meedoen aan het kerstspel in de Sint-Trudokerk in Stiphout. De uitvoering is donderdag 24 december om 17.00 uur tijdens de peuter- en kleuterviering.",
-   "datum": "2026-11-18T07:56:15+00:00",
-   "eerst_gezien": "2026-11-18T08:04:55.005945+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 08:56"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108638135/brabant-heeft-250000-extra-woningen-nodig-vooral-door-groei-jonge-alleenstaanden.html": {
    "titel": "Brabant heeft 250.000 extra woningen nodig, vooral door groei jonge alleenstaanden",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108638135/brabant-heeft-250000-extra-woningen-nodig-vooral-door-groei-jonge-alleenstaanden.html",
@@ -18835,7 +18852,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 09:07"
   },
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
@@ -18887,22 +18905,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 09:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634503/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html": {
-   "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634503/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:01:04+00:00",
-   "eerst_gezien": "2026-11-18T08:04:55.005945+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
@@ -19044,7 +19046,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 26,
    "fout": ""
   },
   "112Brabant": {
