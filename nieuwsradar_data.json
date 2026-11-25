@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 15:42",
+ "bijgewerkt": "25-11-2026 15:58",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck": {
    "titel": "Nieuwe dienst Energiehuis Slim Wonen: de verwarmingscheck",
@@ -5508,7 +5508,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 15:30"
@@ -8765,40 +8765,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "23-11 16:06"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126155048a2somerenrit139915": {
-   "titel": "A2 Someren Rit: 139915",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126155048a2somerenrit139915",
-   "tekst": "Ambulance 22-121 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T15:50:48+01:00",
-   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "23-11 15:50"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126154948a2astenrit139914": {
-   "titel": "A2 Asten Rit: 139914",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126154948a2astenrit139914",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T15:49:48+01:00",
-   "eerst_gezien": "2026-11-23T14:49:32.629524+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "23-11 15:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696190/steekpartij-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html": {
    "titel": "Steekpartij in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
