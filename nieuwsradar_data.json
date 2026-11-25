@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 08:30",
+ "bijgewerkt": "25-11-2026 08:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -2541,23 +2541,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034317/erica-en-wilhelmien-benoemd-tot-erelid-turnvereniging-someren": {
-   "titel": "Erica en Wilhelmien benoemd tot erelid turnvereniging Someren",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034317/erica-en-wilhelmien-benoemd-tot-erelid-turnvereniging-someren",
-   "tekst": "11 november 2026 Erica van den Boogaart en Wilhelmien Verdeuzeldonk zijn benoemd tot erelid van Turnvereniging Someren. Dit gebeurde afgelopen zondag tijdens een grote uitvoering in Someren-Eind.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
   "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
    "titel": "Pitchavond subsidie Street Culture en Sports",
    "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
@@ -4468,7 +4451,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5351,7 +5334,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 08:24"
@@ -5368,7 +5351,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 08:20"
@@ -5780,6 +5763,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034317/erica-en-wilhelmien-benoemd-tot-erelid-turnvereniging-someren": {
+   "titel": "Erica en Wilhelmien benoemd tot erelid turnvereniging Someren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034317/erica-en-wilhelmien-benoemd-tot-erelid-turnvereniging-someren",
+   "tekst": "11 november 2026 Erica van den Boogaart en Wilhelmien Verdeuzeldonk zijn benoemd tot erelid van Turnvereniging Someren. Dit gebeurde afgelopen zondag tijdens een grote uitvoering in Someren-Eind.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126113302a1deurnerit140246": {
    "titel": "A1 Deurne Rit: 140246",
@@ -18979,7 +18979,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Gemeente Helmond": {
