@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 06:38",
+ "bijgewerkt": "25-11-2026 06:54",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1055,6 +1055,23 @@
    "prio": false,
    "tijd": "25-11 05:55"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036039/zakken-vol-joints-uit-autoraam-gegooid-in-helmond-man-aangehouden": {
+   "titel": "Zakken vol joints uit autoraam gegooid in Helmond, man aangehouden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036039/zakken-vol-joints-uit-autoraam-gegooid-in-helmond-man-aangehouden",
+   "tekst": "",
+   "datum": "2026-11-25T05:53:33.253906+00:00",
+   "eerst_gezien": "2026-11-25T05:53:33.253906+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 06:53"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035975/stroomstoring-treft-helmond-minder-dan-100-adressen-zonder-stroom": {
    "titel": "Stroomstoring treft Helmond: minder dan 100 adressen zonder stroom",
    "link": "https://www.omroepbrabant.nl/nieuws/6035975/stroomstoring-treft-helmond-minder-dan-100-adressen-zonder-stroom",
@@ -1075,7 +1092,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035910/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-een": {
    "titel": "Stroomstoring in Helmond: herstel verwacht rond kwart over één",
    "link": "https://www.omroepbrabant.nl/nieuws/6035910/stroomstoring-in-helmond-herstel-verwacht-rond-kwart-over-een",
-   "tekst": "De stroomstoring in Helmond, die vanochtend begon, is door de netbeheerder ingetrokken. Het is niet duidelijk of en wanneer de storing is opgelost.",
+   "tekst": "",
    "datum": "2026-11-24T10:19:24.312645+00:00",
    "eerst_gezien": "2026-11-24T10:19:24.312645+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1520,23 +1537,6 @@
    "titel": "Sinterklaasintocht in 2028 in Helmond? Deze politieke partij hoopt het",
    "link": "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het",
    "tekst": "14 november 2026 Sinterklaas is pas net aangemeerd in Grave, maar een stuk verderop in de provincie wordt al druk gesolliciteerd naar de rol van gaststad voor de landelijke Sinterklaasintocht. Helder Helmond, de grootste partij in de …",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond": {
-   "titel": "Ruim honderd processen-verbaal tijdens verkeerscontrole in Helmond",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond",
-   "tekst": "14 november 2026 Bij een verkeerscontrole die donderdag plaatsvond op de Helmondsingel in Helmond zijn 101 processen-verbaal uitgeschreven. Dat maakte de politie vrijdagnacht bekend. Een vreemdeling werd aangehouden omdat die geen …",
    "datum": "2026-11-23T12:57:19.109671+00:00",
    "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4422,12 +4422,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108705711/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108705783/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html": {
    "titel": "PSV implodeert na rust tegen Real Madrid: `We werden overlopen en toen was het klaar`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705711/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705783/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html",
    "tekst": "",
-   "datum": "2026-11-25T05:31:03+00:00",
-   "eerst_gezien": "2026-11-25T05:37:29.924865+00:00",
+   "datum": "2026-11-25T05:49:09+00:00",
+   "eerst_gezien": "2026-11-25T05:53:33.253906+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4437,7 +4437,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "25-11 06:31"
+   "tijd": "25-11 06:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108705665/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html": {
    "titel": "Alida werd slachtoffer van huiselijk geweld: `Schuld wordt nog te vaak bij de vrouw gelegd`",
@@ -5306,6 +5306,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126064206a1helmondrit140549": {
+   "titel": "A1 Helmond Rit: 140549",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126064206a1helmondrit140549",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T06:42:06+01:00",
+   "eerst_gezien": "2026-11-25T05:53:33.253906+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "25-11 06:42"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126023027p2bob01assambuafhijsenbrouwhuissedijkhelmond2232": {
    "titel": "P 2 BOB-01 Ass. Ambu (afhijsen) Brouwhuissedijk Helmond 223251 223231",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126023027p2bob01assambuafhijsenbrouwhuissedijkhelmond2232",
@@ -5713,6 +5730,40 @@
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 10:27"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond": {
+   "titel": "Ruim honderd processen-verbaal tijdens verkeerscontrole in Helmond",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034768/ruim-honderd-processen-verbaal-tijdens-verkeerscontrole-in-helmond",
+   "tekst": "14 november 2026 Bij een verkeerscontrole die donderdag plaatsvond op de Helmondsingel in Helmond zijn 101 processen-verbaal uitgeschreven. Dat maakte de politie vrijdagnacht bekend. Een vreemdeling werd aangehouden omdat die geen …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108705711/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html": {
+   "titel": "PSV implodeert na rust tegen Real Madrid: `We werden overlopen en toen was het klaar`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705711/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-25T05:31:03+00:00",
+   "eerst_gezien": "2026-11-25T05:37:29.924865+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 06:31"
   },
   "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/": {
    "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus 3 drie miljoen duurder",
@@ -19039,7 +19090,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
