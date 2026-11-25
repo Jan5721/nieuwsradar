@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 17:59",
+ "bijgewerkt": "25-11-2026 18:15",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64930/leerlingen-basisschool-zeilberg-krijgen-tijdelijk-les-in-someren": {
    "titel": "Leerlingen Basisschool Zeilberg krijgen tijdelijk les in Someren",
@@ -752,12 +752,12 @@
    "prio": false,
    "tijd": "19-11 10:42"
   },
-  "https://www.ed.nl/deurne/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units~ac893e77/": {
-   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
-   "link": "https://www.ed.nl/deurne/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units~ac893e77/",
+  "https://www.ed.nl/deurne/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren~ac893e77/": {
+   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
+   "link": "https://www.ed.nl/deurne/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren~ac893e77/",
    "tekst": "De leerlingen van de door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren. Bassischool De Ranonkel dient tijdig als noodlocatie.",
    "datum": "2026-11-25T16:17:00+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "eerst_gezien": "2026-11-25T17:15:12.135693+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne",
@@ -765,7 +765,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 17:17"
@@ -1448,7 +1448,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 17:59"
@@ -2117,6 +2117,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 06:30"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035289/bouw-en-exposeer-je-eigen-lego-dier-in-asten": {
+   "titel": "Bouw en exposeer je eigen LEGO-dier in Asten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035289/bouw-en-exposeer-je-eigen-lego-dier-in-asten",
+   "tekst": "18 november 2026 LEGO-liefhebbers kunnen hun zelfgebouwde lievelingsdieren exposeren in Museum Klok & Peel in Asten. De bouwwerken worden tentoongesteld tijdens het evenement 'Museum in Wintersfeer'. Inzendingen kunnen op woensdag 16 …",
+   "datum": "2026-11-25T17:15:12.135693+00:00",
+   "eerst_gezien": "2026-11-25T17:15:12.135693+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 18:15"
   },
   "https://www.omroepbrabant.nl/nieuws/6035103/alzheimer-cafe-peelland-steun-voor-mantelzorgers": {
    "titel": "Alzheimer Café Peelland: steun voor mantelzorgers",
@@ -4557,7 +4574,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 17:49"
@@ -6045,6 +6062,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/deurne/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units~ac893e77/": {
+   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
+   "link": "https://www.ed.nl/deurne/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units~ac893e77/",
+   "tekst": "De leerlingen van de door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren. Bassischool De Ranonkel dient tijdig als noodlocatie.",
+   "datum": "2026-11-25T16:17:00+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 17:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108709195/gemert-bakel-naarstig-op-zoek-naar-geld-voor-vernieuwen-sportcomplexen.html": {
    "titel": "Gemert-Bakel naarstig op zoek naar geld voor vernieuwen sportcomplexen",
@@ -18882,7 +18917,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 12,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
