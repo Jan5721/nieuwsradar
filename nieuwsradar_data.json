@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 15:58",
+ "bijgewerkt": "25-11-2026 16:15",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck": {
    "titel": "Nieuwe dienst Energiehuis Slim Wonen: de verwarmingscheck",
@@ -5496,6 +5496,23 @@
    "prio": false,
    "tijd": "22-11 06:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126160607a2deurnerit140789": {
+   "titel": "A2 Deurne Rit: 140789",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126160607a2deurnerit140789",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T16:06:07+01:00",
+   "eerst_gezien": "2026-11-25T15:14:37.924553+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 16:06"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126153021p2bob01dienstverleningtilassistentiewarandelaanh": {
    "titel": "P 2 BOB-01 Dienstverlening (tilassistentie) Warandelaan Helmond 223231",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126153021p2bob01dienstverleningtilassistentiewarandelaanh",
@@ -8748,23 +8765,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 10:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126160620a2deurnerit139921": {
-   "titel": "A2 Deurne Rit: 139921",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126160620a2deurnerit139921",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T16:06:20+01:00",
-   "eerst_gezien": "2026-11-23T15:05:37.487955+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "23-11 16:06"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696190/steekpartij-in-eindhoven-slachtoffer-gewond-verdachte-met-veel-moeite-aangehouden.html": {
    "titel": "Steekpartij in Eindhoven: slachtoffer gewond, verdachte met veel moeite aangehouden",
@@ -18787,72 +18787,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 16:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108638196/els-heeft-een-bijzondere-foodtruck-mijn-hobby-is-een-beetje-uit-de-hand-gelopen.html": {
-   "titel": "Els heeft een bijzondere foodtruck: `Mijn hobby is een beetje uit de hand gelopen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638196/els-heeft-een-bijzondere-foodtruck-mijn-hobby-is-een-beetje-uit-de-hand-gelopen.html",
-   "tekst": "",
-   "datum": "2026-11-18T15:13:05+00:00",
-   "eerst_gezien": "2026-11-18T15:24:48.952258+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 16:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108638195/brabant-heeft-250000-extra-woningen-nodig-vooral-door-groei-jonge-alleenstaanden.html": {
-   "titel": "Brabant heeft 250.000 extra woningen nodig, vooral door groei jonge alleenstaanden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638195/brabant-heeft-250000-extra-woningen-nodig-vooral-door-groei-jonge-alleenstaanden.html",
-   "tekst": "",
-   "datum": "2026-11-18T15:13:05+00:00",
-   "eerst_gezien": "2026-11-18T15:24:48.952258+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 16:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108638136/els-heeft-een-bijzondere-foodtruck-mijn-hobby-is-een-beetje-uit-de-hand-gelopen.html": {
-   "titel": "Els heeft een bijzondere foodtruck: `Mijn hobby is een beetje uit de hand gelopen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638136/els-heeft-een-bijzondere-foodtruck-mijn-hobby-is-een-beetje-uit-de-hand-gelopen.html",
-   "tekst": "",
-   "datum": "2026-11-18T15:07:29+00:00",
-   "eerst_gezien": "2026-11-18T15:08:30.243096+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108638135/brabant-heeft-250000-extra-woningen-nodig-vooral-door-groei-jonge-alleenstaanden.html": {
-   "titel": "Brabant heeft 250.000 extra woningen nodig, vooral door groei jonge alleenstaanden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638135/brabant-heeft-250000-extra-woningen-nodig-vooral-door-groei-jonge-alleenstaanden.html",
-   "tekst": "",
-   "datum": "2026-11-18T15:07:29+00:00",
-   "eerst_gezien": "2026-11-18T15:08:30.243096+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -18978,7 +18912,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
