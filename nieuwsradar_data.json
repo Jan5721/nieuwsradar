@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 09:02",
+ "bijgewerkt": "25-11-2026 09:18",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -1054,6 +1054,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 09:03"
+  },
+  "https://www.ed.nl/someren/kerstmarkt-bij-zorgboerderij-onder-ons-in-someren-kerststal-creaties-en-boerderijproducten~a80f58f09/": {
+   "titel": "Kerstmarkt bij Zorgboerderij Onder Ons in Someren: kerststal, creaties en boerderijproducten",
+   "link": "https://www.ed.nl/someren/kerstmarkt-bij-zorgboerderij-onder-ons-in-someren-kerststal-creaties-en-boerderijproducten~a80f58f09/",
+   "tekst": "Zorgboerderij Onder Ons houdt een kerstmarkt met producten en werk van deelnemers. Vrijdag 27 november is de markt van 15.00 tot 17.00 uur bij de zorgboerderij aan Ruiter 10a.",
+   "datum": "2026-11-25T08:10:32+00:00",
+   "eerst_gezien": "2026-11-25T08:17:49.346582+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 09:10"
   },
   "https://www.ed.nl/someren/campagne-in-someren-wijst-ouders-op-signalen-van-criminaliteit-onder-jongeren~af3a4427/": {
    "titel": "Campagne in Someren wijst ouders op signalen van criminaliteit onder jongeren",
@@ -3963,6 +3980,23 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-548179.html": {
+   "titel": "Gemeente Deurne, melding Besluit activiteiten leefomgeving, Schooteindseweg 10, Vlierden",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-548179.html",
+   "tekst": "",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:17:49.346582+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-542256.html": {
    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Snoertsebaan 15a Liessel",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-542256.html",
@@ -4065,6 +4099,23 @@
    "prio": false,
    "tijd": "19-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-548461.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Heimolenweg 16 5753PW Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-548461.html",
+   "tekst": "het verbouwen van een woonhuis",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:17:49.346582+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-543346.html": {
    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Energiestraat ongenummerd",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-543346.html",
@@ -4081,6 +4132,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-547870.html": {
+   "titel": "Beleidsregel Opiumwet 13b Deurne 2026",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-547870.html",
+   "tekst": "",
+   "datum": "2026-11-25T00:00:00+00:00",
+   "eerst_gezien": "2026-11-25T08:17:49.346582+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-544890.html": {
    "titel": "Gemeente Asten - aanvraag omgevingsvergunning, Kennisstraat 5 5724AP Ommel",
@@ -4439,12 +4507,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108706453/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108706550/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
    "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706453/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706550/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html",
    "tekst": "",
-   "datum": "2026-11-25T08:01:04+00:00",
-   "eerst_gezien": "2026-11-25T08:01:53.522167+00:00",
+   "datum": "2026-11-25T08:13:24+00:00",
+   "eerst_gezien": "2026-11-25T08:17:49.346582+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4454,7 +4522,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "25-11 09:01"
+   "tijd": "25-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108706224/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
    "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
@@ -4660,22 +4728,6 @@
    "tekst": "",
    "datum": "2026-11-24T22:15:02+00:00",
    "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108701354/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html": {
-   "titel": "PSV maakt een helft lang indruk, maar wordt daarna overklast door supersterren van Real Madrid",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108701354/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html",
-   "tekst": "",
-   "datum": "2026-11-24T21:55:05+00:00",
-   "eerst_gezien": "2026-11-24T22:07:56.150305+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5334,7 +5386,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 08:55"
@@ -5780,6 +5832,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706453/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
+   "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706453/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html",
+   "tekst": "",
+   "datum": "2026-11-25T08:01:04+00:00",
+   "eerst_gezien": "2026-11-25T08:01:53.522167+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 09:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108701354/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html": {
+   "titel": "PSV maakt een helft lang indruk, maar wordt daarna overklast door supersterren van Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108701354/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-24T21:55:05+00:00",
+   "eerst_gezien": "2026-11-24T22:07:56.150305+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108701337/live-pijnlijke-tweede-helft-voor-psv-vinicius-junior-schiet-real-madrid-op-5-1.html": {
    "titel": "LIVE | Pijnlijke tweede helft voor PSV: Viní­cius Júnior schiet Real Madrid op 5-1",
@@ -18838,23 +18923,6 @@
    "prio": false,
    "tijd": "18-11 09:19"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634545/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html": {
-   "titel": "Kinderen kunnen kerstverhaal spelen in Sint-Trudokerk in Stiphout",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634545/kinderen-kunnen-kerstverhaal-spelen-in-sint-trudokerk-in-stiphout.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:07:28+00:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:07"
-  },
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
    "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/",
@@ -18871,40 +18939,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 10:05"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634544/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html": {
-   "titel": "Nieuwe hoop voor 1,5 miljoen artrosepatiënten: implantaat van levend kraakbeen moet pijn eerder verlichten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634544/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:07:28+00:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634541/vrouw-67-uit-lieshout-vermist-op-blote-voeten-vertrokken.html": {
-   "titel": "Vrouw (67) uit Lieshout vermist, op blote voeten vertrokken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634541/vrouw-67-uit-lieshout-vermist-op-blote-voeten-vertrokken.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:07:28+00:00",
-   "eerst_gezien": "2026-11-18T08:21:30.120575+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:07"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
@@ -18956,7 +18990,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -19011,7 +19045,7 @@
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 14,
    "fout": ""
   },
   "Bekendmakingen Asten": {
@@ -19026,7 +19060,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
