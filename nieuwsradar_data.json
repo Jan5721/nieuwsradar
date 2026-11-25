@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 06:22",
+ "bijgewerkt": "25-11-2026 06:38",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -987,23 +987,6 @@
    "prio": false,
    "tijd": "23-11 16:40"
   },
-  "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/": {
-   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus 3 drie miljoen duurder",
-   "link": "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/",
-   "tekst": "Het samenvoegen van drie scholen, de kinderopvang en het wijkhuis in de Helmondse wijk Rijpelberg valt fors duurder uit dan gedacht. Er is 31,6 miljoen euro nodig voor dit complex, ruim 3 miljoen meer dan eerder gepland.",
-   "datum": "2026-11-23T15:00:00+00:00",
-   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 16:00"
-  },
   "https://www.ed.nl/asten/wandeling-in-asten-staat-in-teken-van-historie-van-polderse-bossen~a5f2b4e82/": {
    "titel": "Wandeling in Asten staat in teken van historie van Polderse Bossen",
    "link": "https://www.ed.nl/asten/wandeling-in-asten-staat-in-teken-van-historie-van-polderse-bossen~a5f2b4e82/",
@@ -1067,7 +1050,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 05:55"
@@ -4439,6 +4422,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108705711/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html": {
+   "titel": "PSV implodeert na rust tegen Real Madrid: `We werden overlopen en toen was het klaar`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108705711/psv-implodeert-na-rust-tegen-real-madrid-we-werden-overlopen-en-toen-was-het-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-25T05:31:03+00:00",
+   "eerst_gezien": "2026-11-25T05:37:29.924865+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 06:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108705665/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html": {
    "titel": "Alida werd slachtoffer van huiselijk geweld: `Schuld wordt nog te vaak bij de vrouw gelegd`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108705665/alida-werd-slachtoffer-van-huiselijk-geweld-schuld-wordt-nog-te-vaak-bij-de-vrouw-gelegd.html",
@@ -4451,7 +4451,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 06:19"
@@ -4468,7 +4468,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4484,7 +4484,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5713,6 +5713,23 @@
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 10:27"
+  },
+  "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/": {
+   "titel": "Batterijopslag erbij, meer kosten voor keuken en bouw: Helmonds wijkhuis Rijpelberg dus 3 drie miljoen duurder",
+   "link": "https://www.ed.nl/helmond/batterijopslag-erbij-meer-kosten-voor-keuken-en-bouw-helmonds-wijkhuis-rijpelberg-dus-3-drie-miljoen-duurder~a63f92cb/",
+   "tekst": "Het samenvoegen van drie scholen, de kinderopvang en het wijkhuis in de Helmondse wijk Rijpelberg valt fors duurder uit dan gedacht. Er is 31,6 miljoen euro nodig voor dit complex, ruim 3 miljoen meer dan eerder gepland.",
+   "datum": "2026-11-23T15:00:00+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:00"
   },
   "https://www.omroepbrabant.nl/nieuws/6035886/enorme-drukte-op-brabantse-snelwegen-in-ochtendspits-meerdere-lange-files": {
    "titel": "Enorme drukte op Brabantse snelwegen in ochtendspits: meerdere lange files",
@@ -18922,7 +18939,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -19002,7 +19019,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
