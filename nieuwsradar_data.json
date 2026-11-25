@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 07:42",
+ "bijgewerkt": "25-11-2026 07:58",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -766,6 +766,23 @@
    "prio": false,
    "tijd": "18-11 10:11"
   },
+  "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/": {
+   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
+   "link": "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/",
+   "tekst": "Een automobilist is dinsdagavond aangehouden in Helmond op verdenking van het bezit van en de handel in softdrugs. De man gooide tijdens een politieachtervolging twee zakken uit zijn auto. Daarin bleken voorgedraaide joints te zitten.",
+   "datum": "2026-11-25T06:49:01+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:49"
+  },
   "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/": {
    "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: ‘Nu ben ik de gebeten hond’",
    "link": "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/",
@@ -987,23 +1004,6 @@
    "prio": false,
    "tijd": "23-11 21:39"
   },
-  "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/": {
-   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: ‘Avond om de vriendschap te vieren’",
-   "link": "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/",
-   "tekst": "Vlierden vormt op 27 november het muzikale middelpunt van de Peelregio. Vrienden van de Peel Live brengt muzikanten en muziekliefhebbers in alle toonsoorten samen rond twee podia. Hoe gaat dat feest klinken?",
-   "datum": "2026-11-23T15:40:50+00:00",
-   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 16:40"
-  },
   "https://www.ed.nl/asten/werkgroep-veldbiologie-houdt-winterwandeling-in-asten-heusden~ac5d2870/": {
    "titel": "Werkgroep Veldbiologie houdt winterwandeling in Asten-Heusden",
    "link": "https://www.ed.nl/asten/werkgroep-veldbiologie-houdt-winterwandeling-in-asten-heusden~ac5d2870/",
@@ -1016,7 +1016,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:39"
@@ -4456,6 +4456,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706087/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
+   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706087/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-25T06:51:02+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706073/burgemeester-dijsselbloem-ziet-rechtsextremisme-in-eindhoven-toenemen-vooral-online.html": {
+   "titel": "Burgemeester Dijsselbloem ziet rechtsextremisme in Eindhoven toenemen, vooral online",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706073/burgemeester-dijsselbloem-ziet-rechtsextremisme-in-eindhoven-toenemen-vooral-online.html",
+   "tekst": "",
+   "datum": "2026-11-25T06:49:08+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108705941/eindhovense-oppositie-krijgt-geen-steun-voor-onderzoek-naar-mogelijk-misbruik-van-subsidiegeld-bij-daklozenopvang.html": {
    "titel": "Eindhovense oppositie krijgt geen steun voor onderzoek naar mogelijk misbruik van subsidiegeld bij daklozenopvang",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108705941/eindhovense-oppositie-krijgt-geen-steun-voor-onderzoek-naar-mogelijk-misbruik-van-subsidiegeld-bij-daklozenopvang.html",
@@ -4653,40 +4686,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 21:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108700998/live-penalty-voor-psv-na-een-overtreding-op-sven-mijnans.html": {
-   "titel": "LIVE | Penalty voor PSV na een overtreding op Sven Mijnans!",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700998/live-penalty-voor-psv-na-een-overtreding-op-sven-mijnans.html",
-   "tekst": "",
-   "datum": "2026-11-24T20:31:03+00:00",
-   "eerst_gezien": "2026-11-24T20:45:58.967245+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 21:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108700964/live-psv-ontsnapt-na-drie-goede-kansen-real-madrid-raakt-de-kruising-en-speelt-een-counter-slecht-uit.html": {
-   "titel": "LIVE | PSV ontsnapt na drie goede kansen: Real Madrid raakt de kruising en speelt een counter slecht uit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700964/live-psv-ontsnapt-na-drie-goede-kansen-real-madrid-raakt-de-kruising-en-speelt-een-counter-slecht-uit.html",
-   "tekst": "",
-   "datum": "2026-11-24T20:25:10+00:00",
-   "eerst_gezien": "2026-11-24T20:30:01.749507+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 21:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5336,7 +5335,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 07:37"
@@ -5731,6 +5730,74 @@
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 11:33"
+  },
+  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
+   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
+   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
+   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
+   "datum": "2026-11-25T06:57:04+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/": {
+   "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: ‘Avond om de vriendschap te vieren’",
+   "link": "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/",
+   "tekst": "Vlierden vormt op 27 november het muzikale middelpunt van de Peelregio. Vrienden van de Peel Live brengt muzikanten en muziekliefhebbers in alle toonsoorten samen rond twee podia. Hoe gaat dat feest klinken?",
+   "datum": "2026-11-23T15:40:50+00:00",
+   "eerst_gezien": "2026-11-23T15:54:07.137893+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 16:40"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700998/live-penalty-voor-psv-na-een-overtreding-op-sven-mijnans.html": {
+   "titel": "LIVE | Penalty voor PSV na een overtreding op Sven Mijnans!",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700998/live-penalty-voor-psv-na-een-overtreding-op-sven-mijnans.html",
+   "tekst": "",
+   "datum": "2026-11-24T20:31:03+00:00",
+   "eerst_gezien": "2026-11-24T20:45:58.967245+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 21:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108700964/live-psv-ontsnapt-na-drie-goede-kansen-real-madrid-raakt-de-kruising-en-speelt-een-counter-slecht-uit.html": {
+   "titel": "LIVE | PSV ontsnapt na drie goede kansen: Real Madrid raakt de kruising en speelt een counter slecht uit",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108700964/live-psv-ontsnapt-na-drie-goede-kansen-real-madrid-raakt-de-kruising-en-speelt-een-counter-slecht-uit.html",
+   "tekst": "",
+   "datum": "2026-11-24T20:25:10+00:00",
+   "eerst_gezien": "2026-11-24T20:30:01.749507+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 21:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700893/live-psv-krijgt-drie-goede-kansen-real-madrid-gevaarlijk-via-vinicius-junior.html": {
    "titel": "LIVE | PSV krijgt drie goede kansen, Real Madrid gevaarlijk via Viní­cius Júnior",
@@ -18788,56 +18855,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634116/het-wordt-straks-stiller-rond-vliegbasis-eindhoven-met-dank-aan-de-amerikanen.html": {
-   "titel": "Het wordt straks stiller rond Vliegbasis Eindhoven; met dank aan de Amerikanen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634116/het-wordt-straks-stiller-rond-vliegbasis-eindhoven-met-dank-aan-de-amerikanen.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:49:08+00:00",
-   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634112/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
-   "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634112/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:49:06+00:00",
-   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 07:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634110/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html": {
-   "titel": "Nieuwe hoop voor 1,5 miljoen artrosepatiënten: implantaat van levend kraakbeen moet pijn eerder verlichten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634110/nieuwe-hoop-voor-15-miljoen-artrosepatienten-implantaat-van-levend-kraakbeen-moet-pijn-eerder-verlichten.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:49:05+00:00",
-   "eerst_gezien": "2026-11-18T07:00:14.975957+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
@@ -18847,22 +18864,6 @@
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html": {
-   "titel": "Weverijmuseum Geldrop houdt workshop weven met restmaterialen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634083/weverijmuseum-geldrop-houdt-workshop-weven-met-restmaterialen.html",
-   "tekst": "",
-   "datum": "2026-11-18T06:43:18+00:00",
-   "eerst_gezien": "2026-11-18T06:44:04.724763+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -18889,12 +18890,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -18999,7 +19000,7 @@
   },
   "112Brabant": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   }
  }
