@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 09:34",
+ "bijgewerkt": "25-11-2026 09:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -506,7 +506,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 09:26"
@@ -1399,7 +1399,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad": {
    "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
    "link": "https://www.omroepbrabant.nl/nieuws/6035309/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad",
-   "tekst": "woensdag Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond woensdag op Instagram. De bewoner van het huis had na een eerste belletje direct de politie …",
+   "tekst": "18 november 2026 Bij een huis in de wijk Dierdonk in Helmond zijn dinsdagmiddag drie nepagenten op heterdaad aangehouden. Dat schrijft de politie Helmond woensdag op Instagram. De bewoner van het huis had na een eerste belletje direct de …",
    "datum": "2026-11-18T17:51:48.968760+00:00",
    "eerst_gezien": "2026-11-18T17:51:48.968760+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4026,7 +4026,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
@@ -4349,7 +4349,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
@@ -4366,7 +4366,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
@@ -4434,7 +4434,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
@@ -4485,7 +4485,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
@@ -4553,7 +4553,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
@@ -4625,6 +4625,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706801/overrompeld-door-verbazingwekkend-psv-spaanse-media-onder-de-indruk-van-strijdplan-peter-bosz-in-eerste-helft.html": {
+   "titel": "`Overrompeld door verbazingwekkend PSV`: Spaanse media onder de indruk van strijdplan Peter Bosz in eerste helft",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706801/overrompeld-door-verbazingwekkend-psv-spaanse-media-onder-de-indruk-van-strijdplan-peter-bosz-in-eerste-helft.html",
+   "tekst": "",
+   "datum": "2026-11-25T08:49:09+00:00",
+   "eerst_gezien": "2026-11-25T08:49:40.194633+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 09:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108706550/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
    "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
@@ -4824,38 +4841,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 23:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108702286/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html": {
-   "titel": "Na veel getouwtrek: nu geen McDonald`s op deze plek in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702286/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-24T22:15:05+00:00",
-   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108702259/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
-   "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702259/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
-   "tekst": "",
-   "datum": "2026-11-24T22:15:02+00:00",
-   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5901,6 +5886,55 @@
    "prio": false,
    "tijd": "24-11 14:48"
   },
+  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
+   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
+   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
+   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
+   "datum": "2026-11-25T06:57:04+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108702286/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html": {
+   "titel": "Na veel getouwtrek: nu geen McDonald`s op deze plek in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702286/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-24T22:15:05+00:00",
+   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108702259/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
+   "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702259/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html",
+   "tekst": "",
+   "datum": "2026-11-24T22:15:02+00:00",
+   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126123458a0deurnerit140277": {
    "titel": "A0 Deurne Rit: 140277",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126123458a0deurnerit140277",
@@ -5934,23 +5968,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 12:33"
-  },
-  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
-   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
-   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
-   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
-   "datum": "2026-11-25T06:57:04+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:57"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108706453/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
    "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
@@ -18992,39 +19009,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634867/werkzaamheden-verkeerslichten-sterrenlaan.html": {
-   "titel": "Werkzaamheden verkeerslichten Sterrenlaan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634867/werkzaamheden-verkeerslichten-sterrenlaan.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:49:06+00:00",
-   "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634806/werkzaamheden-verkeerslichten-sterrenlaan.html": {
-   "titel": "Werkzaamheden verkeerslichten Sterrenlaan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634806/werkzaamheden-verkeerslichten-sterrenlaan.html",
-   "tekst": "",
-   "datum": "2026-11-18T08:43:29+00:00",
-   "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
    "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/",
@@ -19162,7 +19146,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19182,7 +19166,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 26,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
