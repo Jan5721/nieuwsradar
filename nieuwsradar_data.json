@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 16:15",
+ "bijgewerkt": "25-11-2026 16:31",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck": {
    "titel": "Nieuwe dienst Energiehuis Slim Wonen: de verwarmingscheck",
@@ -2645,6 +2645,23 @@
    "prio": false,
    "tijd": "24-11 13:46"
   },
+  "https://www.someren.nl/nieuws/artikel/start-orange-the-world-in-someren-samen-in-actie-tegen-geweld-tegen-vrouwen-en-meisjes": {
+   "titel": "Start Orange the World in Someren: samen in actie tegen geweld tegen vrouwen en meisjes",
+   "link": "https://www.someren.nl/nieuws/artikel/start-orange-the-world-in-someren-samen-in-actie-tegen-geweld-tegen-vrouwen-en-meisjes",
+   "tekst": "Op het bordes van het gemeentehuis in Someren vond vandaag de aftrap plaats van de campagne Orange the World. Met deze wereldwijde actie wordt aandacht gevraagd voor geweld tegen vrouwen en meisjes. De campagne loopt tot en met 10 december, de Internationale Dag van de Rechten …",
+   "datum": "2026-11-25T15:18:34+00:00",
+   "eerst_gezien": "2026-11-25T15:30:47.653383+00:00",
+   "bron": "Gemeente Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 16:18"
+  },
   "https://www.someren.nl/nieuws/artikel/oog-voor-signalen-van-criminaliteit-onder-jongeren": {
    "titel": "Oog voor signalen van criminaliteit onder jongeren",
    "link": "https://www.someren.nl/nieuws/artikel/oog-voor-signalen-van-criminaliteit-onder-jongeren",
@@ -4543,6 +4560,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710155/automobilist-belandt-met-auto-in-sloot.html": {
+   "titel": "Automobilist belandt met auto in sloot",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710155/automobilist-belandt-met-auto-in-sloot.html",
+   "tekst": "Op de N279 ter hoogte van Aarle-Rixtel is een automobilist met zijn voertuig van de weg geraakt. De auto kwam in een naastgelegen sloot...",
+   "datum": "2026-11-25T15:29:05+00:00",
+   "eerst_gezien": "2026-11-25T15:30:47.653383+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 16:29"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108709745/milieustraat-helmond-wijzigt-openingstijden-in-december.html": {
    "titel": "Milieustraat Helmond wijzigt openingstijden in december",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108709745/milieustraat-helmond-wijzigt-openingstijden-in-december.html",
@@ -5496,6 +5530,23 @@
    "prio": false,
    "tijd": "22-11 06:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126162336a2helmondrit140794": {
+   "titel": "A2 Helmond Rit: 140794",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126162336a2helmondrit140794",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-25T16:23:36+01:00",
+   "eerst_gezien": "2026-11-25T15:30:47.653383+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 16:23"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126160607a2deurnerit140789": {
    "titel": "A2 Deurne Rit: 140789",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126160607a2deurnerit140789",
@@ -5508,7 +5559,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 16:06"
@@ -6006,23 +6057,6 @@
    "prio": false,
    "tijd": "24-11 22:32"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126200222a2astenrit140443": {
-   "titel": "A2 Asten Rit: 140443",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126200222a2astenrit140443",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T20:02:22+01:00",
-   "eerst_gezien": "2026-11-24T19:09:36.437296+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 20:02"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -6039,6 +6073,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126200222a2astenrit140443": {
+   "titel": "A2 Asten Rit: 140443",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126200222a2astenrit140443",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T20:02:22+01:00",
+   "eerst_gezien": "2026-11-24T19:09:36.437296+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 20:02"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426": {
    "titel": "A2 Helmond Rit: 140426",
@@ -18770,23 +18821,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 16:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108638265/steeds-meer-jonge-brabanders-blijven-single-vrouwen-willen-niet-downdaten.html": {
-   "titel": "Steeds meer jonge Brabanders blijven single: `Vrouwen willen niet downdaten`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108638265/steeds-meer-jonge-brabanders-blijven-single-vrouwen-willen-niet-downdaten.html",
-   "tekst": "",
-   "datum": "2026-11-18T15:21:33+00:00",
-   "eerst_gezien": "2026-11-18T15:24:48.952258+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 16:21"
   }
  },
  "bronnen": {
@@ -18867,7 +18901,7 @@
   },
   "Gemeente Someren": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "Bekendmakingen Helmond": {
@@ -18892,7 +18926,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Drimble Deurne": {
