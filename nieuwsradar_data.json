@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 20:08",
+ "bijgewerkt": "25-11-2026 20:24",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -769,12 +769,12 @@
    "prio": false,
    "tijd": "19-11 10:42"
   },
-  "https://www.ed.nl/helmond/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten~a77ab34c8/": {
-   "titel": "‘Groundhog Day’ in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
-   "link": "https://www.ed.nl/helmond/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten~a77ab34c8/",
+  "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: ‘Hier word je echt niet gelukkiger van’",
+   "link": "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/",
    "tekst": "Het gebeurde jaren geleden al eens en nu opnieuw doet rechter Jaap Hoekstra van de Raad van State een dringend beroep op twee ruziemakende buren uit Helmond om de vredespijp te roken. Maar het conflict zit diep.",
-   "datum": "2026-11-25T19:00:53+00:00",
-   "eerst_gezien": "2026-11-25T19:07:42.735640+00:00",
+   "datum": "2026-11-25T19:00:00+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
@@ -974,23 +974,6 @@
    "prio": false,
    "tijd": "25-11 07:01"
   },
-  "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/": {
-   "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: ‘Nu ben ik de gebeten hond’",
-   "link": "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/",
-   "tekst": "Handelt het Helmondse bedrijf By Max illegaal in de aan- en verkoop van opgezette dieren? Zelf geeft eigenaar Max Duymelinck aan alles volgens de regels te doen.",
-   "datum": "2026-11-24T19:30:00+00:00",
-   "eerst_gezien": "2026-11-24T20:13:56.171505+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 20:30"
-  },
   "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/": {
    "titel": "Reportage ‘Het zit echt hier’ blikt terug op carnaval in Asten",
    "link": "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/",
@@ -1094,6 +1077,24 @@
    "prio": false,
    "tijd": "25-11 09:10"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren": {
+   "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren",
+   "tekst": "De sluizen 10 in Asten en 12 bij Someren-Eind gaan volgend jaar bijna vier maanden dicht om gerenoveerd te worden. Dat stond al op de planning, maar Rijkswaterstaat heeft vier weken extra nodig. Schippers moeten daardoor flink omvaren en zijn benieuwd wat dat voor het transport …",
+   "datum": "2026-11-25T19:15:00+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:15"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036165/helmonder-40-drie-maanden-langer-vast-na-grote-brand-in-huis-in-bakel": {
    "titel": "Helmonder (40) drie maanden langer vast na grote brand in huis in Bakel",
    "link": "https://www.omroepbrabant.nl/nieuws/6036165/helmonder-40-drie-maanden-langer-vast-na-grote-brand-in-huis-in-bakel",
@@ -1106,7 +1107,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:00"
@@ -2224,7 +2225,7 @@
   "https://www.omroepbrabant.nl/nieuws/6036059/harriet-bongers-bouwmans-krijgt-koninklijke-onderscheiding": {
    "titel": "Harriet Bongers-Bouwmans krijgt Koninklijke onderscheiding",
    "link": "https://www.omroepbrabant.nl/nieuws/6036059/harriet-bongers-bouwmans-krijgt-koninklijke-onderscheiding",
-   "tekst": "",
+   "tekst": "Harriet Bongers-Bouwmans uit Ospel is benoemd tot Lid in de Orde van Oranje-Nassau. Burgemeester Birgit Op de Laak reikte haar de onderscheiding uit in Someren-Eind. Harriet zet zich al 50 jaar vrijwillig in voor wandelsportvereniging …",
    "datum": "2026-11-25T09:37:51.112504+00:00",
    "eerst_gezien": "2026-11-25T09:37:51.112504+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2258,7 +2259,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035546/nieuwe-laadplekken-voor-elektrische-autos-in-someren-en-lierop": {
    "titel": "Nieuwe laadplekken voor elektrische auto's in Someren en Lierop",
    "link": "https://www.omroepbrabant.nl/nieuws/6035546/nieuwe-laadplekken-voor-elektrische-autos-in-someren-en-lierop",
-   "tekst": "De gemeente Someren heeft elf locaties aangewezen voor parkeerplaatsen met laadpalen voor elektrische voertuigen. Het gaat om plekken in Someren en Lierop, waaronder Opper, Loovebaan en Gildeplein.",
+   "tekst": "vrijdag De gemeente Someren heeft elf locaties aangewezen voor parkeerplaatsen met laadpalen voor elektrische voertuigen. Het gaat om plekken in Someren en Lierop, waaronder Opper, Loovebaan en Gildeplein.",
    "datum": "2026-11-20T08:52:45.581364+00:00",
    "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4562,6 +4563,121 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711688/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
+   "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711688/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:19:03+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711686/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Eindhoven (27 - 29 november)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711686/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:19:02+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711684/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
+   "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711684/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:19:02+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711683/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html": {
+   "titel": "`Waterhart` klopt nog steeds bij koning Willem-Alexander: humor maar ook kritische vragen bij bezoek aan Brabant Water",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711683/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:19:02+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711662/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Eindhoven (27 - 29 november)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711662/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:13:25+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711660/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
+   "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711660/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:13:24+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711659/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
+   "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711659/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:13:24+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108711596/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
    "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711596/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html",
@@ -4574,7 +4690,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4729,106 +4845,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 17:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710597/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html": {
-   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710597/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html",
-   "tekst": "",
-   "datum": "2026-11-25T16:25:11+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710596/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html": {
-   "titel": "Man stak huisgenoot met stanleymes in het gezicht: strafeis van een jaar cel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710596/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html",
-   "tekst": "",
-   "datum": "2026-11-25T16:25:11+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710569/eindhoven-sloopt-betonnen-paddenstoel-voor-woontoren-the-four-en-bouwt-hem-elders-weer-op.html": {
-   "titel": "Eindhoven sloopt betonnen paddenstoel voor woontoren The Four en bouwt hem elders weer op",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710569/eindhoven-sloopt-betonnen-paddenstoel-voor-woontoren-the-four-en-bouwt-hem-elders-weer-op.html",
-   "tekst": "",
-   "datum": "2026-11-25T16:19:03+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 17:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710567/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html": {
-   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710567/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html",
-   "tekst": "",
-   "datum": "2026-11-25T16:19:03+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710529/eindhoven-sloopt-betonnen-paddenstoel-voor-woontoren-the-four-en-bouwt-hem-elders-weer-op.html": {
-   "titel": "Eindhoven sloopt betonnen paddenstoel voor woontoren The Four en bouwt hem elders weer op",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710529/eindhoven-sloopt-betonnen-paddenstoel-voor-woontoren-the-four-en-bouwt-hem-elders-weer-op.html",
-   "tekst": "",
-   "datum": "2026-11-25T16:13:25+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710364/anne-34-ging-op-zoek-naar-de-man-die-ze-als-kind-vals-aanwees-als-kinderlokker-dat-vliegtuigje-was-een-beetje-grotesk.html": {
-   "titel": "Anne (34) ging op zoek naar de man die ze als kind vals aanwees als kinderlokker: `Dat vliegtuigje was een beetje grotesk`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710364/anne-34-ging-op-zoek-naar-de-man-die-ze-als-kind-vals-aanwees-als-kinderlokker-dat-vliegtuigje-was-een-beetje-grotesk.html",
-   "tekst": "",
-   "datum": "2026-11-25T15:49:09+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 16:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -5453,6 +5469,23 @@
    "prio": false,
    "tijd": "22-11 21:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126201125a2deurnerit140880": {
+   "titel": "A2 Deurne Rit: 140880",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126201125a2deurnerit140880",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T20:11:25+01:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 20:11"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126184159ongevalwegvervoerletselderpsestraattramstraatdeu": {
    "titel": "Ongeval wegvervoer letsel Derpsestraat Tramstraat Deurne",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126184159ongevalwegvervoerletselderpsestraattramstraatdeu",
@@ -5996,6 +6029,140 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/helmond/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten~a77ab34c8/": {
+   "titel": "‘Groundhog Day’ in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
+   "link": "https://www.ed.nl/helmond/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten~a77ab34c8/",
+   "tekst": "Het gebeurde jaren geleden al eens en nu opnieuw doet rechter Jaap Hoekstra van de Raad van State een dringend beroep op twee ruziemakende buren uit Helmond om de vredespijp te roken. Maar het conflict zit diep.",
+   "datum": "2026-11-25T19:00:53+00:00",
+   "eerst_gezien": "2026-11-25T19:07:42.735640+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:00"
+  },
+  "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/": {
+   "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: ‘Nu ben ik de gebeten hond’",
+   "link": "https://www.ed.nl/helmond/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond~a123c07c/",
+   "tekst": "Handelt het Helmondse bedrijf By Max illegaal in de aan- en verkoop van opgezette dieren? Zelf geeft eigenaar Max Duymelinck aan alles volgens de regels te doen.",
+   "datum": "2026-11-24T19:30:00+00:00",
+   "eerst_gezien": "2026-11-24T20:13:56.171505+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 20:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710597/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html": {
+   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710597/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:25:11+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710596/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html": {
+   "titel": "Man stak huisgenoot met stanleymes in het gezicht: strafeis van een jaar cel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710596/man-stak-huisgenoot-met-stanleymes-in-het-gezicht-strafeis-van-een-jaar-cel.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:25:11+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710569/eindhoven-sloopt-betonnen-paddenstoel-voor-woontoren-the-four-en-bouwt-hem-elders-weer-op.html": {
+   "titel": "Eindhoven sloopt betonnen paddenstoel voor woontoren The Four en bouwt hem elders weer op",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710569/eindhoven-sloopt-betonnen-paddenstoel-voor-woontoren-the-four-en-bouwt-hem-elders-weer-op.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:19:03+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 17:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710567/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html": {
+   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710567/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:19:03+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710529/eindhoven-sloopt-betonnen-paddenstoel-voor-woontoren-the-four-en-bouwt-hem-elders-weer-op.html": {
+   "titel": "Eindhoven sloopt betonnen paddenstoel voor woontoren The Four en bouwt hem elders weer op",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710529/eindhoven-sloopt-betonnen-paddenstoel-voor-woontoren-the-four-en-bouwt-hem-elders-weer-op.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:13:25+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710364/anne-34-ging-op-zoek-naar-de-man-die-ze-als-kind-vals-aanwees-als-kinderlokker-dat-vliegtuigje-was-een-beetje-grotesk.html": {
+   "titel": "Anne (34) ging op zoek naar de man die ze als kind vals aanwees als kinderlokker: `Dat vliegtuigje was een beetje grotesk`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710364/anne-34-ging-op-zoek-naar-de-man-die-ze-als-kind-vals-aanwees-als-kinderlokker-dat-vliegtuigje-was-een-beetje-grotesk.html",
+   "tekst": "",
+   "datum": "2026-11-25T15:49:09+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 16:49"
   },
   "https://www.ed.nl/deurne/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders~ad75c7e4/": {
    "titel": "Miljoenen euro’s schade aan Deurnese basisschool: wordt dat verhaald op de ouders?",
@@ -18714,23 +18881,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108640038/kledingbank-wil-af-van-slechte-kleding-mensen-bewust-maken-van-wat-ze-doneren.html": {
-   "titel": "Kledingbank wil af van slechte kleding: `Mensen bewust maken van wat ze doneren`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108640038/kledingbank-wil-af-van-slechte-kleding-mensen-bewust-maken-van-wat-ze-doneren.html",
-   "tekst": "",
-   "datum": "2026-11-18T19:13:05+00:00",
-   "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 20:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108640475/zilveren-draaginsigne-voor-mark-van-schaijk.html": {
    "titel": "Zilveren draaginsigne voor Mark van Schaijk",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108640475/zilveren-draaginsigne-voor-mark-van-schaijk.html",
@@ -18805,7 +18955,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -18820,7 +18970,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -18885,7 +19035,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18905,7 +19055,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
