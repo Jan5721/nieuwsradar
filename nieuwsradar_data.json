@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 09:50",
+ "bijgewerkt": "25-11-2026 10:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -783,6 +783,23 @@
    "prio": false,
    "tijd": "18-11 10:11"
   },
+  "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/": {
+   "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
+   "link": "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/",
+   "tekst": "Voor een prikkie op een koude winteravond naar een knus theater in Helmond? Van vrijdag 29 tot en met zondag 31 januari kan het, want dan is het Nationaal Theaterweekend 2027. Ook in Helmond doen theaters mee. Een mooie kans om na de dure feestdagen op een voordelig uitje te …",
+   "datum": "2026-11-25T09:00:00+00:00",
+   "eerst_gezien": "2026-11-25T09:05:45.099349+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 10:00"
+  },
   "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/": {
    "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
    "link": "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/",
@@ -953,23 +970,6 @@
    "prio": false,
    "tijd": "24-11 10:00"
   },
-  "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/": {
-   "titel": "Na veel getouwtrek: nu geen McDonald’s op deze plek in Helmond",
-   "link": "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/",
-   "tekst": "De bezwaren van de buurt zijn verworpen, maar er komt voorlopig toch geen McDonald’s aan de Steenovenweg in Helmond. Er is nog steeds onvoldoende stroom beschikbaar op die plek om Big Macs en frites te bakken.",
-   "datum": "2026-11-24T07:00:00+00:00",
-   "eerst_gezien": "2026-11-24T07:39:00.523003+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 08:00"
-  },
   "https://www.ed.nl/deurne/bert-augustus-brengt-muzikanten-samen-voor-kerstconcert-in-deurne~ac297c34/": {
    "titel": "Bert Augustus brengt muzikanten samen voor kerstconcert in Deurne",
    "link": "https://www.ed.nl/deurne/bert-augustus-brengt-muzikanten-samen-voor-kerstconcert-in-deurne~ac297c34/",
@@ -1003,6 +1003,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 11:50"
+  },
+  "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/": {
+   "titel": "Na veel getouwtrek: nu geen McDonald’s op deze plek in Helmond",
+   "link": "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/",
+   "tekst": "De bezwaren van de buurt zijn verworpen, maar er komt voorlopig toch geen McDonald’s aan de Steenovenweg in Helmond. Er is nog steeds onvoldoende stroom beschikbaar op die plek om Big Macs en frites te bakken.",
+   "datum": "2026-11-24T07:00:00+00:00",
+   "eerst_gezien": "2026-11-24T07:39:00.523003+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 08:00"
   },
   "https://www.ed.nl/someren/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren~aa4c8a03/": {
    "titel": "Man steelt voor ruim 2500 euro aan cosmetica bij Kruidvat in Someren",
@@ -1382,7 +1399,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
    "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
-   "tekst": "woensdag Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij.",
+   "tekst": "18 november 2026 Een man is woensdagavond aangehouden bij een appartementencomplex aan het Zuideinde in Helmond. De hulpdiensten werden opgeroepen voor een melding van een steekpartij.",
    "datum": "2026-11-18T19:29:40.285438+00:00",
    "eerst_gezien": "2026-11-18T19:29:40.285438+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1430,40 +1447,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "18-11 17:14"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg": {
-   "titel": "Helmond erkent woonbestemming aan Gerwenseweg",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035200/helmond-erkent-woonbestemming-aan-gerwenseweg",
-   "tekst": "18 november 2026 De gemeente Helmond heeft een woonbestemming erkend voor een pand aan de Gerwenseweg. Dit besluit volgt uit een omgevingsvergunning die eerder dit jaar werd aangevraagd.",
-   "datum": "2026-11-18T08:54:55.875632+00:00",
-   "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:54"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035199/helmond-stelt-subsidieplafonds-voor-evenementen-in-2027-vast": {
-   "titel": "Helmond stelt subsidieplafonds voor evenementen in 2027 vast",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035199/helmond-stelt-subsidieplafonds-voor-evenementen-in-2027-vast",
-   "tekst": "18 november 2026 Burgemeester en wethouders van Helmond hebben het subsidieplafond voor evenementen in 2027 vastgesteld. In totaal is er vijfhonderdvierentachtigduizend euro beschikbaar.",
-   "datum": "2026-11-18T08:54:55.875632+00:00",
-   "eerst_gezien": "2026-11-18T08:54:55.875632+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 09:54"
   },
   "https://www.omroepbrabant.nl/nieuws/6035006/deze-slagerij-bestaat-al-109-jaar-nu-nemen-twee-19-jarigen-de-zaak-over": {
    "titel": "Deze slagerij bestaat al 109 jaar, nu nemen twee 19-jarigen de zaak over",
@@ -4626,6 +4609,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706896/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html": {
+   "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706896/nationaal-theaterweekend-hier-in-helmond-kun-je-lekker-goedkoop-naar-een-voorstelling.html",
+   "tekst": "",
+   "datum": "2026-11-25T09:01:06+00:00",
+   "eerst_gezien": "2026-11-25T09:05:45.099349+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108706801/overrompeld-door-verbazingwekkend-psv-spaanse-media-onder-de-indruk-van-strijdplan-peter-bosz-in-eerste-helft.html": {
    "titel": "`Overrompeld door verbazingwekkend PSV`: Spaanse media onder de indruk van strijdplan Peter Bosz in eerste helft",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108706801/overrompeld-door-verbazingwekkend-psv-spaanse-media-onder-de-indruk-van-strijdplan-peter-bosz-in-eerste-helft.html",
@@ -4638,7 +4637,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 09:49"
@@ -4824,23 +4823,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html": {
-   "titel": "PSV maakt een helft lang indruk, maar wordt daarna overklast door supersterren van Real Madrid",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html",
-   "tekst": "",
-   "datum": "2026-11-24T22:19:01+00:00",
-   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 23:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5478,6 +5460,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126100507a2astenrit140622": {
+   "titel": "A2 Asten Rit: 140622",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126100507a2astenrit140622",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T10:05:07+01:00",
+   "eerst_gezien": "2026-11-25T09:05:45.099349+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 10:05"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126085546p1bob02brwegvervoerautohoornstraathelmond223231": {
    "titel": "P 1 BOB-02 BR wegvervoer (Auto) Hoornstraat Helmond 223231",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126085546p1bob02brwegvervoerautohoornstraathelmond223231",
@@ -5902,6 +5901,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html": {
+   "titel": "PSV maakt een helft lang indruk, maar wordt daarna overklast door supersterren van Real Madrid",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108702633/psv-maakt-een-helft-lang-indruk-maar-wordt-daarna-overklast-door-supersterren-van-real-madrid.html",
+   "tekst": "",
+   "datum": "2026-11-24T22:19:01+00:00",
+   "eerst_gezien": "2026-11-24T22:24:24.538019+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 23:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108702286/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond.html": {
    "titel": "Na veel getouwtrek: nu geen McDonald`s op deze plek in Helmond",
@@ -8443,23 +8459,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#231126100025a2helmondrit139743": {
-   "titel": "A2 Helmond Rit: 139743",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#231126100025a2helmondrit139743",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-23T10:00:25+01:00",
-   "eerst_gezien": "2026-11-23T09:11:11.213761+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "23-11 10:00"
   },
   "https://www.ed.nl/helmond/het-blijft-voorlopig-bij-een-mcdonalds-in-helmond-door-stroomtekort-geen-big-macs-aan-westzijde~abf7bd0b/": {
    "titel": "Het blijft voorlopig bij één McDonald’s in Helmond: door stroomtekort geen Big Macs aan westzijde",
@@ -13702,7 +13701,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 13:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108660084/het-regende-vier-dagen-lang-gigantisch-veel-nu-volgt-een-droge-week-maar-daarna-kans-op-natte-sneeuw.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, nu volgt een droge week (maar daarna kans op natte sneeuw)",
@@ -15073,7 +15073,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 10:20"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -17353,7 +17354,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "18-11 23:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108641989/agenten-verstoppen-zich-in-huis-en-pakken-nepagenten-op-heterdaad.html": {
    "titel": "Agenten verstoppen zich in huis en pakken nepagenten op heterdaad",
@@ -17523,23 +17525,6 @@
    "prio": false,
    "tijd": "18-11 11:03"
   },
-  "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Verkeerde gemeente, verkeerde afstand’",
-   "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-verkeerde-gemeente-verkeerde-afstand~a57e4367/",
-   "tekst": "Deurne is 19 miljoen euro door de neus geboord door fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
-   "datum": "2026-11-18T09:05:00+00:00",
-   "eerst_gezien": "2026-11-18T09:59:12.327026+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:05"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html": {
    "titel": "Fatbiketieners maakten Brandevoort gek, tot burgemeester Potters de ouders erbij haalde",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108640422/fatbiketieners-maakten-brandevoort-gek-tot-burgemeester-potters-de-ouders-erbij-haalde.html",
@@ -17622,23 +17607,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/helmond/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november~aa6aeca2/": {
-   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
-   "link": "https://www.ed.nl/helmond/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november~aa6aeca2/",
-   "tekst": "Het verblijf van Sinterklaas in Helmond gaat niet onopgemerkt voorbij. Dit weekend staan veel uitjes dan ook in het teken van de goedheiligman. Maar je kunt ook cultuur snuiven met een bezoekje aan een tentoonstelling of museum.",
-   "datum": "2026-11-18T09:00:00+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108640315/bebloed-slachtoffer-loopt-door-eindhoven-centraal-na-steekpartij.html": {
    "titel": "Bebloed slachtoffer loopt door Eindhoven Centraal na steekpartij",
@@ -18945,87 +18913,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634976/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
-   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634976/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:04:20+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634943/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html": {
-   "titel": "Geldropse Fabiën wil meer vrijwilligers aantrekken voor Nepal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634943/geldropse-fabien-wil-meer-vrijwilligers-aantrekken-voor-nepal.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:01:05+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html": {
-   "titel": "Graaien maar: tiendaagse pop-up met verloren pakketten komt naar Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634942/graaien-maar-tiendaagse-pop-up-met-verloren-pakketten-komt-naar-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:01:05+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108634940/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html": {
-   "titel": "Weekendtips: deze dingen doe je in Helmond op 20, 21 en 22 november",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108634940/weekendtips-deze-dingen-doe-je-in-helmond-op-20-21-en-22-november.html",
-   "tekst": "",
-   "datum": "2026-11-18T09:01:05+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/": {
-   "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: ‘Echt ondermaats’",
-   "link": "https://www.ed.nl/deurne/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats~a57e4367/",
-   "tekst": "Deurne is negentien miljoen euro door de neus geboord dankzij fouten op het ministerie. Dat concludeert de partij Transparant Deurne. ‘Er werd verwezen naar Boxtel. Echt ondermaats’.",
-   "datum": "2026-11-18T09:05:00+00:00",
-   "eerst_gezien": "2026-11-18T09:10:50.054002+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 10:05"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html": {
    "titel": "Ministerie verwart Deurne met Boxtel en schrapt 19 miljoen voor woningen: `Echt ondermaats`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108635037/ministerie-verwart-deurne-met-boxtel-en-schrapt-19-miljoen-voor-woningen-echt-ondermaats.html",
@@ -19066,7 +18953,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -19086,7 +18973,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 27,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -19166,7 +19053,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
