@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 15:10",
+ "bijgewerkt": "25-11-2026 15:26",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck": {
    "titel": "Nieuwe dienst Energiehuis Slim Wonen: de verwarmingscheck",
@@ -15,7 +15,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:59"
@@ -734,6 +734,23 @@
    "prio": false,
    "tijd": "19-11 10:42"
   },
+  "https://www.ed.nl/helmond/milieustraat-helmond-wijzigt-openingstijden-in-december~a6b0a40f/": {
+   "titel": "Milieustraat Helmond wijzigt openingstijden in december",
+   "link": "https://www.ed.nl/helmond/milieustraat-helmond-wijzigt-openingstijden-in-december~a6b0a40f/",
+   "tekst": "De milieustraat in Helmond heeft in december aangepaste openingstijden rond de feestdagen. De locatie is 17 december open van 12.00 tot 16.00 uur en 24 en 31 december van 13.00 tot 15.30 uur.",
+   "datum": "2026-11-25T14:15:56+00:00",
+   "eerst_gezien": "2026-11-25T14:25:53.450154+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 15:15"
+  },
   "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/": {
    "titel": "De drukste weg van Helmond is weer deels open, met meer groen en minder asfalt en steen",
    "link": "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/",
@@ -870,23 +887,6 @@
    "prio": false,
    "tijd": "24-11 19:30"
   },
-  "https://www.ed.nl/deurne/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne~a78ca9a34/": {
-   "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
-   "link": "https://www.ed.nl/deurne/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne~a78ca9a34/",
-   "tekst": "Bertus Borgers treedt met zijn nieuwe formatie Brabant Funk op in Cultuurcentrum Deurne. Vrijdag 27 november begint het concert om 20.30 uur en kaarten kosten 18 euro.",
-   "datum": "2026-11-24T16:18:00+00:00",
-   "eerst_gezien": "2026-11-24T16:28:12.443815+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 17:18"
-  },
   "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/": {
    "titel": "Ouderen leren valse mails en appjes herkennen in Deurne",
    "link": "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/",
@@ -899,7 +899,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:55"
@@ -937,6 +937,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:01"
+  },
+  "https://www.ed.nl/deurne/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne~a78ca9a34/": {
+   "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
+   "link": "https://www.ed.nl/deurne/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne~a78ca9a34/",
+   "tekst": "Bertus Borgers treedt met zijn nieuwe formatie Brabant Funk op in Cultuurcentrum Deurne. Vrijdag 27 november begint het concert om 20.30 uur en kaarten kosten 18 euro.",
+   "datum": "2026-11-24T16:18:00+00:00",
+   "eerst_gezien": "2026-11-24T16:28:12.443815+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 17:18"
   },
   "https://www.ed.nl/someren/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout~a18cd145/": {
    "titel": "Geen reling, geen vangnet, geen verankering: werknemer valt van pallet en sterft, bedrijf uit Lierop ontkent fout",
@@ -4526,6 +4543,88 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709745/milieustraat-helmond-wijzigt-openingstijden-in-december.html": {
+   "titel": "Milieustraat Helmond wijzigt openingstijden in december",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709745/milieustraat-helmond-wijzigt-openingstijden-in-december.html",
+   "tekst": "",
+   "datum": "2026-11-25T14:25:10+00:00",
+   "eerst_gezien": "2026-11-25T14:25:53.450154+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709709/betaald-parkeren-in-veghel-komt-eraan-maar-iedereen-mag-eerst-zijn-zegje-doen-via-een-enquete.html": {
+   "titel": "Betaald parkeren in Veghel komt eraan, maar iedereen mag eerst zijn zegje doen via een enquête",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709709/betaald-parkeren-in-veghel-komt-eraan-maar-iedereen-mag-eerst-zijn-zegje-doen-via-een-enquete.html",
+   "tekst": "",
+   "datum": "2026-11-25T14:19:03+00:00",
+   "eerst_gezien": "2026-11-25T14:25:53.450154+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 15:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709707/milieustraat-helmond-wijzigt-openingstijden-in-december.html": {
+   "titel": "Milieustraat Helmond wijzigt openingstijden in december",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709707/milieustraat-helmond-wijzigt-openingstijden-in-december.html",
+   "tekst": "",
+   "datum": "2026-11-25T14:19:03+00:00",
+   "eerst_gezien": "2026-11-25T14:25:53.450154+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709667/eindhovense-anne-34-maakt-documentaire-over-schuld-sorry-zeggen-en-een-fout-uit-haar-jeugd.html": {
+   "titel": "Eindhovense Anne (34) maakt documentaire over schuld, sorry zeggen en een fout uit haar jeugd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709667/eindhovense-anne-34-maakt-documentaire-over-schuld-sorry-zeggen-en-een-fout-uit-haar-jeugd.html",
+   "tekst": "",
+   "datum": "2026-11-25T14:13:27+00:00",
+   "eerst_gezien": "2026-11-25T14:25:53.450154+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 15:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709666/betaald-parkeren-in-veghel-komt-eraan-maar-iedereen-mag-eerst-zijn-zegje-doen-via-een-enquete.html": {
+   "titel": "Betaald parkeren in Veghel komt eraan, maar iedereen mag eerst zijn zegje doen via een enquête",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709666/betaald-parkeren-in-veghel-komt-eraan-maar-iedereen-mag-eerst-zijn-zegje-doen-via-een-enquete.html",
+   "tekst": "",
+   "datum": "2026-11-25T14:13:26+00:00",
+   "eerst_gezien": "2026-11-25T14:25:53.450154+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108709571/eindhovense-anne-34-maakt-documentaire-over-schuld-sorry-zeggen-en-een-fout-uit-haar-jeugd.html": {
    "titel": "Eindhovense Anne (34) maakt documentaire over schuld, sorry zeggen en een fout uit haar jeugd",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108709571/eindhovense-anne-34-maakt-documentaire-over-schuld-sorry-zeggen-en-een-fout-uit-haar-jeugd.html",
@@ -4538,10 +4637,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 15:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html": {
    "titel": "Sportvissers mogen blijven hengelen in Eindhoven, maar de regels worden strenger",
@@ -4731,88 +4829,6 @@
    "tekst": "",
    "datum": "2026-11-25T11:19:02+00:00",
    "eerst_gezien": "2026-11-25T11:30:11.285794+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
-   "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html",
-   "tekst": "",
-   "datum": "2026-11-25T10:49:08+00:00",
-   "eerst_gezien": "2026-11-25T10:58:13.394572+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707855/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html": {
-   "titel": "Camera`s tegen afvaldumpers' In Den Haag werkt het, maar Eindhoven wil er niet aan beginnen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707855/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html",
-   "tekst": "",
-   "datum": "2026-11-25T10:49:08+00:00",
-   "eerst_gezien": "2026-11-25T10:58:13.394572+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707706/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
-   "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707706/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html",
-   "tekst": "",
-   "datum": "2026-11-25T10:31:03+00:00",
-   "eerst_gezien": "2026-11-25T10:42:05.958218+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707705/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html": {
-   "titel": "Camera`s tegen afvaldumpers' In Den Haag werkt het, maar Eindhoven wil er niet aan beginnen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707705/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html",
-   "tekst": "",
-   "datum": "2026-11-25T10:31:03+00:00",
-   "eerst_gezien": "2026-11-25T10:42:05.958218+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108707685/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
-   "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707685/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html",
-   "tekst": "",
-   "datum": "2026-11-25T10:28:06+00:00",
-   "eerst_gezien": "2026-11-25T10:42:05.958218+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5492,7 +5508,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 15:06"
@@ -6006,6 +6022,88 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
+   "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:49:08+00:00",
+   "eerst_gezien": "2026-11-25T10:58:13.394572+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707855/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html": {
+   "titel": "Camera`s tegen afvaldumpers' In Den Haag werkt het, maar Eindhoven wil er niet aan beginnen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707855/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:49:08+00:00",
+   "eerst_gezien": "2026-11-25T10:58:13.394572+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707706/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
+   "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707706/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:31:03+00:00",
+   "eerst_gezien": "2026-11-25T10:42:05.958218+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707705/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html": {
+   "titel": "Camera`s tegen afvaldumpers' In Den Haag werkt het, maar Eindhoven wil er niet aan beginnen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707705/cameras-tegen-afvaldumpers-in-den-haag-werkt-het-maar-eindhoven-wil-er-niet-aan-beginnen.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:31:03+00:00",
+   "eerst_gezien": "2026-11-25T10:42:05.958218+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108707685/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
+   "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108707685/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html",
+   "tekst": "",
+   "datum": "2026-11-25T10:28:06+00:00",
+   "eerst_gezien": "2026-11-25T10:42:05.958218+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/": {
    "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
@@ -18814,7 +18912,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "ED Asten": {
