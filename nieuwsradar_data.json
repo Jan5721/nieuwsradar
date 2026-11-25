@@ -1,6 +1,25 @@
 {
- "bijgewerkt": "25-11-2026 14:54",
+ "bijgewerkt": "25-11-2026 15:10",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck": {
+   "titel": "Nieuwe dienst Energiehuis Slim Wonen: de verwarmingscheck",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64929/nieuwe-dienst-energiehuis-slim-wonen-de-verwarmingscheck",
+   "tekst": "REGIO - 'Waterzijdige onbalans', het speelt bij het overgrote deel van de huishoudens. Dat wil zeggen dat het warme water niet gelijkmatig over de radiatoren, convectoren en/of vloerverwarmingslussen wordt verdeeld. Om dat tegen te gaan, presenteert het Energiehuis Slim Wonen …",
+   "datum": "2026-11-25T14:59:00+01:00",
+   "eerst_gezien": "2026-11-25T14:09:51.991268+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Asten",
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 14:59"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne": {
    "titel": "Bertus Borgers komt met Brabant Funk naar Deurne",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64927/bertus-borgers-komt-met-brabant-funk-naar-deurne",
@@ -594,8 +613,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:30"
+   "prio": false
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64840/problematiek-vol-stroomnet-nog-nijpender-asten-grijpt-mis-bij": {
    "titel": "Problematiek vol stroomnet nóg nijpender: Asten grijpt mis bij woningbouwplannen",
@@ -715,23 +733,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 10:42"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64786/ineens-laat-dode-beuk-in-ommel-maria-verschijnen": {
-   "titel": "Ineens laat dode beuk in Ommel Maria verschijnen",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64786/ineens-laat-dode-beuk-in-ommel-maria-verschijnen",
-   "tekst": "OMMEL - Een prachtige beuk, maar de afgelopen loeihete zomer werd ook hem te machtig. Maar gedaan is het met de kolos allerminst. Sterker nog, de boom in het Ommelse Mariaoord heeft ineens een héél bijpassend gezicht gekregen.",
-   "datum": "2026-11-18T15:02:00+01:00",
-   "eerst_gezien": "2026-11-18T14:03:39.623109+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "18-11 15:02"
   },
   "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/": {
    "titel": "De drukste weg van Helmond is weer deels open, met meer groen en minder asfalt en steen",
@@ -886,39 +887,22 @@
    "prio": false,
    "tijd": "24-11 17:18"
   },
-  "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/": {
-   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
-   "link": "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/",
-   "tekst": "De Damiaan jongerengroep houdt de derde editie van de Churchescape voor jongeren van 10 tot 25 jaar. Vrijdag 11 december is de activiteit in het jongerenhonk van de St. Trudokerk aan de Dorpsstraat 32 in Helmond.",
-   "datum": "2026-11-24T15:29:40+00:00",
-   "eerst_gezien": "2026-11-24T15:39:41.017033+00:00",
-   "bron": "ED Helmond",
+  "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/": {
+   "titel": "Ouderen leren valse mails en appjes herkennen in Deurne",
+   "link": "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/",
+   "tekst": "In Deurne vindt de gratis bijeenkomst Koffie met een Tablet plaats over veilig internetgebruik voor oudere inwoners. Vrijdag 27 november gaat het in de bibliotheek in Deurne over valse e-mails, cookies en spoofing.",
+   "datum": "2026-11-25T13:55:00+00:00",
+   "eerst_gezien": "2026-11-25T14:09:51.991268+00:00",
+   "bron": "ED Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "24-11 16:29"
-  },
-  "https://www.ed.nl/helmond/dutchie-shore-helmond-deelnemer~abc070d2/": {
-   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
-   "link": "https://www.ed.nl/helmond/dutchie-shore-helmond-deelnemer~abc070d2/",
-   "tekst": "Ken jij Snooki, Mike 'the situation' Sorrentino, JWoww en Pauly D nog? Is het antwoord 'ja' en krijg je warme gevoelens bij alle drama die zich afspeelde in de MTV-realityserie Jersey Shore? Dan is er goed nieuws voor jou, want de Nederlandse versie komt op tv: Dutchie Shore .",
-   "datum": "2026-11-24T15:00:00+00:00",
-   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 16:00"
+   "tijd": "25-11 14:55"
   },
   "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/": {
    "titel": "Afgelopen week 12 meldingen van de gemeente over onder meer bouw in Deurne",
@@ -1120,7 +1104,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:53"
@@ -4542,6 +4526,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108709571/eindhovense-anne-34-maakt-documentaire-over-schuld-sorry-zeggen-en-een-fout-uit-haar-jeugd.html": {
+   "titel": "Eindhovense Anne (34) maakt documentaire over schuld, sorry zeggen en een fout uit haar jeugd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108709571/eindhovense-anne-34-maakt-documentaire-over-schuld-sorry-zeggen-en-een-fout-uit-haar-jeugd.html",
+   "tekst": "",
+   "datum": "2026-11-25T14:01:05+00:00",
+   "eerst_gezien": "2026-11-25T14:09:51.991268+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 15:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html": {
    "titel": "Sportvissers mogen blijven hengelen in Eindhoven, maar de regels worden strenger",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108709478/sportvissers-mogen-blijven-hengelen-in-eindhoven-maar-de-regels-worden-strenger.html",
@@ -4554,7 +4555,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:49"
@@ -5016,7 +5017,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:38"
@@ -5479,6 +5480,23 @@
    "prio": false,
    "tijd": "22-11 06:53"
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126150615p2bob01dienstverleningtilassistentiewarandelaanh": {
+   "titel": "P 2 BOB-01 Dienstverlening (tilassistentie) Warandelaan Helmond 223231",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126150615p2bob01dienstverleningtilassistentiewarandelaanh",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-25T15:06:15+01:00",
+   "eerst_gezien": "2026-11-25T14:09:51.991268+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 brandweer",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 15:06"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126143810a2helmondrit140764": {
    "titel": "A2 Helmond Rit: 140764",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126143810a2helmondrit140764",
@@ -5491,7 +5509,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 14:38"
@@ -5972,23 +5990,6 @@
    "prio": false,
    "tijd": "24-11 18:54"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126180621a2deurnerit140399": {
-   "titel": "A2 Deurne Rit: 140399",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126180621a2deurnerit140399",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T18:06:21+01:00",
-   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 18:06"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -6005,6 +6006,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/": {
+   "titel": "Damiaan jongerengroep houdt derde Churchescape in Helmond",
+   "link": "https://www.ed.nl/helmond/damiaan-jongerengroep-houdt-derde-churchescape-in-helmond~a5ebb3d5/",
+   "tekst": "De Damiaan jongerengroep houdt de derde editie van de Churchescape voor jongeren van 10 tot 25 jaar. Vrijdag 11 december is de activiteit in het jongerenhonk van de St. Trudokerk aan de Dorpsstraat 32 in Helmond.",
+   "datum": "2026-11-24T15:29:40+00:00",
+   "eerst_gezien": "2026-11-24T15:39:41.017033+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 16:29"
+  },
+  "https://www.ed.nl/helmond/dutchie-shore-helmond-deelnemer~abc070d2/": {
+   "titel": "Work hard, play hard: dit Helmondse feestbeest doet mee aan Dutchie Shore",
+   "link": "https://www.ed.nl/helmond/dutchie-shore-helmond-deelnemer~abc070d2/",
+   "tekst": "Ken jij Snooki, Mike 'the situation' Sorrentino, JWoww en Pauly D nog? Is het antwoord 'ja' en krijg je warme gevoelens bij alle drama die zich afspeelde in de MTV-realityserie Jersey Shore? Dan is er goed nieuws voor jou, want de Nederlandse versie komt op tv: Dutchie Shore .",
+   "datum": "2026-11-24T15:00:00+00:00",
+   "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 16:00"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126180621a2deurnerit140399": {
+   "titel": "A2 Deurne Rit: 140399",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126180621a2deurnerit140399",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-24T18:06:21+01:00",
+   "eerst_gezien": "2026-11-24T17:17:03.899289+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "24-11 18:06"
   },
   "https://www.omroepbrabant.nl/nieuws/6034790/sinterklaasintocht-in-2028-in-helmond-deze-politieke-partij-hoopt-het": {
    "titel": "Sinterklaasintocht in 2028 in Helmond? Deze politieke partij hoopt het",
@@ -18742,12 +18794,12 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18757,12 +18809,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 5,
    "fout": ""
   },
   "ED Asten": {
@@ -18842,7 +18894,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
