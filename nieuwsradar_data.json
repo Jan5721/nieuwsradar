@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "25-11-2026 07:58",
+ "bijgewerkt": "25-11-2026 08:14",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64875/willem-mennen-is-de-nieuwe-voorzitter-van-neerkandia": {
    "titel": "Willem Mennen is de nieuwe voorzitter van Neerkandia",
@@ -778,7 +778,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:49"
@@ -4456,12 +4456,29 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108706087/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108706120/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam.html": {
+   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706120/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam.html",
+   "tekst": "Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container...",
+   "datum": "2026-11-25T06:59:05+00:00",
+   "eerst_gezien": "2026-11-25T07:13:45.341069+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:59"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706115/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
    "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706087/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706115/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html",
    "tekst": "",
-   "datum": "2026-11-25T06:51:02+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "datum": "2026-11-25T06:58:08+00:00",
+   "eerst_gezien": "2026-11-25T07:13:45.341069+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4484,7 +4501,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:49"
@@ -4669,23 +4686,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 22:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108701088/live-psv-speelt-ijzersterk-tegen-real-madrid-kans-voor-mijnans-na-rake-penalty-perisic.html": {
-   "titel": "LIVE | PSV speelt ijzersterk tegen Real Madrid: kans voor Mijnans na rake penalty Perisic",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108701088/live-psv-speelt-ijzersterk-tegen-real-madrid-kans-voor-mijnans-na-rake-penalty-perisic.html",
-   "tekst": "",
-   "datum": "2026-11-24T20:49:09+00:00",
-   "eerst_gezien": "2026-11-24T21:03:24.023424+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 21:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700414/miljoenen-euros-schade-aan-deurnese-basisschool-wordt-dat-verhaald-op-de-ouders.html": {
    "titel": "Miljoenen euro`s schade aan Deurnese basisschool: wordt dat verhaald op de ouders'",
@@ -5743,10 +5743,43 @@
    ],
    "soort": "112-nieuws",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108706087/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
+   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108706087/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-25T06:51:02+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108701088/live-psv-speelt-ijzersterk-tegen-real-madrid-kans-voor-mijnans-na-rake-penalty-perisic.html": {
+   "titel": "LIVE | PSV speelt ijzersterk tegen Real Madrid: kans voor Mijnans na rake penalty Perisic",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108701088/live-psv-speelt-ijzersterk-tegen-real-madrid-kans-voor-mijnans-na-rake-penalty-perisic.html",
+   "tekst": "",
+   "datum": "2026-11-24T20:49:09+00:00",
+   "eerst_gezien": "2026-11-24T21:03:24.023424+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "24-11 21:49"
   },
   "https://www.ed.nl/deurne/vrienden-van-de-peel-live-brengt-muzikale-succesformule-naar-vlierden-avond-om-de-vriendschap-te-vieren~a9c3f664/": {
    "titel": "Vrienden van de Peel Live brengt muzikale succesformule naar Vlierden: ‘Avond om de vriendschap te vieren’",
