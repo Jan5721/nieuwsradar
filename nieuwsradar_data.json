@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 23:29",
+ "bijgewerkt": "26-11-2026 23:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -1234,7 +1234,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
    "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
    "link": "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht",
-   "tekst": "vrijdag Helmond Sport heeft vrijdagavond FC Dordrecht met 5-1 verslagen in het MySteel Stadion. De ploeg uit Helmond leidde bij rust al met 3-0 dankzij treffers van Bajrami, Van der Velde en Essakkati. In de tweede helft maakten Lenaerts …",
+   "tekst": "20 november 2026 Helmond Sport heeft vrijdagavond FC Dordrecht met 5-1 verslagen in het MySteel Stadion. De ploeg uit Helmond leidde bij rust al met 3-0 dankzij treffers van Bajrami, Van der Velde en Essakkati. In de tweede helft maakten …",
    "datum": "2026-11-20T21:44:49.212861+00:00",
    "eerst_gezien": "2026-11-20T21:44:49.212861+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -3856,6 +3856,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108726168/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108726168/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html",
+   "tekst": "",
+   "datum": "2026-11-26T22:42:08+00:00",
+   "eerst_gezien": "2026-11-26T22:44:57.671923+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108724861/provincie-kiest-voorkeursroute-voor-nieuwe-hoogspanningsverbinding-tussen-eindhoven-en-maarheeze.html": {
    "titel": "Provincie kiest voorkeursroute voor nieuwe hoogspanningsverbinding tussen Eindhoven en Maarheeze",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108724861/provincie-kiest-voorkeursroute-voor-nieuwe-hoogspanningsverbinding-tussen-eindhoven-en-maarheeze.html",
@@ -3868,7 +3884,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 23:19"
@@ -3885,7 +3901,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 23:19"
@@ -3902,7 +3918,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 23:19"
@@ -3919,7 +3935,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 23:16"
@@ -3936,7 +3952,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4090,19 +4106,20 @@
    "prio": false,
    "tijd": "26-11 20:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722706/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html": {
-   "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk (1946-2026) vlogen net straaljagers over",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722706/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
+   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
    "tekst": "",
-   "datum": "2026-11-26T19:13:23+00:00",
-   "eerst_gezien": "2026-11-26T19:15:20.222306+00:00",
-   "bron": "Drimble Helmond",
+   "datum": "2026-11-26T22:42:07+00:00",
+   "eerst_gezien": "2026-11-26T22:44:57.671923+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne",
+    "Someren"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -4118,7 +4135,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4245,22 +4262,6 @@
    "tekst": "",
    "datum": "2026-11-24T18:49:05+00:00",
    "eerst_gezien": "2026-11-24T18:53:31.804133+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
-   "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html",
-   "tekst": "",
-   "datum": "2026-11-24T16:31:04+00:00",
-   "eerst_gezien": "2026-11-24T16:44:12.258936+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -4558,56 +4559,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722700/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-vlogen-net-straaljagers-over.html": {
-   "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk vlogen net straaljagers over",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722700/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-vlogen-net-straaljagers-over.html",
-   "tekst": "",
-   "datum": "2026-11-26T19:11:27+00:00",
-   "eerst_gezien": "2026-11-26T19:15:20.222306+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 20:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722597/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html": {
-   "titel": "Kater Sjors (9) sterft na mogelijke kogel van luchtbuks in Beek en Donk: `We zagen pas bij de dierenarts het gaatje`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722597/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html",
-   "tekst": "",
-   "datum": "2026-11-26T19:01:04+00:00",
-   "eerst_gezien": "2026-11-26T19:15:20.222306+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722324/werd-kater-sjors-9-uit-beek-en-donk-slachtoffer-van-een-luchtbuks.html": {
-   "titel": "Werd kater Sjors (9) uit Beek en Donk slachtoffer van een luchtbuks'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722324/werd-kater-sjors-9-uit-beek-en-donk-slachtoffer-van-een-luchtbuks.html",
-   "tekst": "",
-   "datum": "2026-11-26T18:13:25+00:00",
-   "eerst_gezien": "2026-11-26T18:27:17.922460+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 19:13"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126230748a1helmondrit141380": {
    "titel": "A1 Helmond Rit: 141380",
@@ -5101,6 +5052,88 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 10:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722706/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html": {
+   "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk (1946-2026) vlogen net straaljagers over",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722706/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:13:23+00:00",
+   "eerst_gezien": "2026-11-26T19:15:20.222306+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html": {
+   "titel": "Bertus Borgers brengt Brabant Funk met nieuw livealbum naar Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108699446/bertus-borgers-brengt-brabant-funk-met-nieuw-livealbum-naar-deurne.html",
+   "tekst": "",
+   "datum": "2026-11-24T16:31:04+00:00",
+   "eerst_gezien": "2026-11-24T16:44:12.258936+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722700/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-vlogen-net-straaljagers-over.html": {
+   "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk vlogen net straaljagers over",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722700/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-vlogen-net-straaljagers-over.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:11:27+00:00",
+   "eerst_gezien": "2026-11-26T19:15:20.222306+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 20:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722597/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html": {
+   "titel": "Kater Sjors (9) sterft na mogelijke kogel van luchtbuks in Beek en Donk: `We zagen pas bij de dierenarts het gaatje`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722597/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:01:04+00:00",
+   "eerst_gezien": "2026-11-26T19:15:20.222306+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722324/werd-kater-sjors-9-uit-beek-en-donk-slachtoffer-van-een-luchtbuks.html": {
+   "titel": "Werd kater Sjors (9) uit Beek en Donk slachtoffer van een luchtbuks'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722324/werd-kater-sjors-9-uit-beek-en-donk-slachtoffer-van-een-luchtbuks.html",
+   "tekst": "",
+   "datum": "2026-11-26T18:13:25+00:00",
+   "eerst_gezien": "2026-11-26T18:27:17.922460+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 19:13"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126095055a1deurnerit141050": {
    "titel": "A1 Deurne Rit: 141050",
@@ -9017,23 +9050,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 00:05"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126233829a2helmondrit140494": {
-   "titel": "A2 Helmond Rit: 140494",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126233829a2helmondrit140494",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T23:38:29+01:00",
-   "eerst_gezien": "2026-11-24T22:40:30.893512+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 23:38"
   },
   "https://www.ed.nl/someren/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout~a18cd145/": {
    "titel": "Geen reling, geen vangnet, geen verankering: werknemer valt van pallet en sterft, bedrijf uit Lierop ontkent fout",
@@ -18184,23 +18200,6 @@
    "prio": false,
    "tijd": "20-11 00:42"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
-   "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
-   "tekst": "",
-   "datum": "2026-11-19T22:42:09+00:00",
-   "eerst_gezien": "2026-11-19T22:57:03.168650+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 23:42"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad": {
    "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
    "link": "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad",
@@ -18375,7 +18374,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
