@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 14:37",
+ "bijgewerkt": "26-11-2026 14:54",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
    "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
@@ -769,6 +769,23 @@
    "prio": false,
    "tijd": "19-11 16:15"
   },
+  "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/": {
+   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op 'Manga Maandag'",
+   "link": "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/",
+   "tekst": "Bibliotheek Helmond houdt een Manga Maandag voor jongeren vanaf 15 jaar. Maandag 30 november maken deelnemers een eigen Teru Teru Bozu aan de Watermolenwal 11 in Helmond.",
+   "datum": "2026-11-26T13:43:55+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 14:43"
+  },
   "https://www.ed.nl/deurne/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen~a1aee066/": {
    "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
    "link": "https://www.ed.nl/deurne/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen~a1aee066/",
@@ -956,6 +973,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 13:16"
+  },
+  "https://www.ed.nl/asten/frans-poos-presenteert-boek-over-conflicten-in-bibliotheek-asten~ae63038a/": {
+   "titel": "Frans Poos presenteert boek over conflicten in Bibliotheek Asten",
+   "link": "https://www.ed.nl/asten/frans-poos-presenteert-boek-over-conflicten-in-bibliotheek-asten~ae63038a/",
+   "tekst": "Astenaar Frans Poos presenteert zijn boek ‘Herstelgericht omgaan met conflicten’ in Bibliotheek Asten. De boekpresentatie is 28 november in ’t Kwartier en begint om 13.30 uur.",
+   "datum": "2026-11-26T13:47:00+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 14:47"
   },
   "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/": {
    "titel": "Reportage ‘Het zit echt hier’ blikt terug op carnaval in Asten",
@@ -3787,6 +3821,71 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html": {
+   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op ´Manga Maandag´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html",
+   "tekst": "",
+   "datum": "2026-11-26T13:49:09+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720053/arrestatieteam-houdt-meerdere-mensen-aan-op-twee-plekken-in-veghel.html": {
+   "titel": "Arrestatieteam houdt meerdere mensen aan op twee plekken in Veghel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720053/arrestatieteam-houdt-meerdere-mensen-aan-op-twee-plekken-in-veghel.html",
+   "tekst": "",
+   "datum": "2026-11-26T13:49:09+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 14:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720050/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html": {
+   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op ´Manga Maandag´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720050/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html",
+   "tekst": "",
+   "datum": "2026-11-26T13:49:08+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720049/arrestatieteam-houdt-meerdere-mensen-aan-op-twee-plekken-in-veghel.html": {
+   "titel": "Arrestatieteam houdt meerdere mensen aan op twee plekken in Veghel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720049/arrestatieteam-houdt-meerdere-mensen-aan-op-twee-plekken-in-veghel.html",
+   "tekst": "",
+   "datum": "2026-11-26T13:49:08+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108719900/gifvrij-meierij-wil-einde-aan-niet-biologische-lelieteelt-in-meierijstad.html": {
    "titel": "Gifvrij Meierij wil einde aan niet-biologische lelieteelt in Meierijstad",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108719900/gifvrij-meierij-wil-einde-aan-niet-biologische-lelieteelt-in-meierijstad.html",
@@ -3799,7 +3898,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 14:31"
@@ -3983,40 +4082,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html": {
-   "titel": "Van gezonde student naar patiënt in één nacht: Timo (25) wil dat niemand kanker nog negeert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html",
-   "tekst": "",
-   "datum": "2026-11-26T10:19:02+00:00",
-   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 11:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
-   "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
-   "tekst": "",
-   "datum": "2026-11-26T10:13:25+00:00",
-   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 11:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718952/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
    "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
@@ -4520,6 +4585,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html": {
+   "titel": "Van gezonde student naar patiënt in één nacht: Timo (25) wil dat niemand kanker nog negeert",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:19:02+00:00",
+   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
+   "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:13:25+00:00",
+   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:13"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143659a2helmondrit141190": {
    "titel": "A2 Helmond Rit: 141190",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143659a2helmondrit141190",
@@ -4532,7 +4631,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 14:36"
@@ -4549,7 +4648,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 14:32"
@@ -8217,23 +8316,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126144822a2helmondrit140320": {
-   "titel": "A2 Helmond Rit: 140320",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126144822a2helmondrit140320",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T14:48:22+01:00",
-   "eerst_gezien": "2026-11-24T14:03:35.404816+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 14:48"
   },
   "https://www.omroepbrabant.nl/nieuws/6034406/prinsenbal-cv-de-plattevonder-onthult-nieuwe-prins-en-prinses": {
    "titel": "Prinsenbal CV De Plattevonder onthult nieuwe prins en prinses",
@@ -17624,40 +17706,6 @@
    "prio": false,
    "tijd": "19-11 14:55"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648925/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
-   "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648925/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:49:05+00:00",
-   "eerst_gezien": "2026-11-19T14:01:15.341513+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html": {
-   "titel": "Twee aanhoudingen bij politie-inval in kapsalon in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648888/twee-aanhoudingen-bij-politie-inval-in-kapsalon-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:43:14+00:00",
-   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:43"
-  },
   "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
    "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
    "link": "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/",
@@ -17708,23 +17756,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
-   "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:43:15+00:00",
-   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:43"
   }
  },
  "bronnen": {
@@ -17745,7 +17776,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -17755,7 +17786,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
@@ -17830,7 +17861,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -17850,7 +17881,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
