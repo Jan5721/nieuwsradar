@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 18:07",
+ "bijgewerkt": "26-11-2026 18:23",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -1396,7 +1396,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 18:06"
@@ -2545,74 +2545,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
-   "datum": "2026-11-26T08:35:50+00:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 09:35"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
   },
   "https://www.deurne.nl/nieuws/leerlingen-basisschool-zeilberg-krijgen-tijdelijk-les-in-someren": {
    "titel": "Leerlingen basisschool Zeilberg krijgen tijdelijk les in Someren",
@@ -3902,7 +3834,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 18:04"
@@ -3919,7 +3851,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 18:01"
@@ -5267,6 +5199,74 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 05:52"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126043217a2helmondrit140969": {
    "titel": "A2 Helmond Rit: 140969",
@@ -17811,40 +17811,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650714/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html": {
-   "titel": "Looks of brains' Deze Helmonder doet mee aan Beauty and the geek",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650714/looks-of-brains-deze-helmonder-doet-mee-aan-beauty-and-the-geek.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:19:03+00:00",
-   "eerst_gezien": "2026-11-19T17:33:18.893012+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 18:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650685/arrestatieteam-valt-woning-binnen-in-eindhoven-en-houdt-man-aan.html": {
-   "titel": "Arrestatieteam valt woning binnen in Eindhoven en houdt man aan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650685/arrestatieteam-valt-woning-binnen-in-eindhoven-en-houdt-man-aan.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:13:10+00:00",
-   "eerst_gezien": "2026-11-19T17:17:16.908446+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 18:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
    "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
@@ -17941,9 +17907,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 4,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -18002,7 +17968,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
