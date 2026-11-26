@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 11:41",
+ "bijgewerkt": "26-11-2026 11:57",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -2183,7 +2183,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:40"
@@ -3816,7 +3816,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:31"
@@ -4186,6 +4186,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718593/video-astens-mannenkoor-kijkt-terug-op-plezierig-herfstbockconcert-bezoekers-zongen-volop-mee.html": {
+   "titel": "[VIDEO] Astens Mannenkoor kijkt terug op plezierig Herfstbockconcert: ´Bezoekers zongen volop mee´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718593/video-astens-mannenkoor-kijkt-terug-op-plezierig-herfstbockconcert-bezoekers-zongen-volop-mee.html",
+   "tekst": "Het was alweer de negentiende editie van het jaarlijkse Herfstbockconcert: afgelopen zondag liep de zaal van Jan van Hoek vol om het Astens...",
+   "datum": "2026-11-26T10:53:02+00:00",
+   "eerst_gezien": "2026-11-26T10:56:37.613008+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:53"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108717486/video-noah-16-uit-asten-is-er-vroeg-bij-en-start-eigen-onderneming-van-jongs-af-aan-mee-bezig.html": {
    "titel": "[VIDEO] Noah (16) uit Asten is er vroeg bij en start eigen onderneming: ´Van jongs af aan mee bezig´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108717486/video-noah-16-uit-asten-is-er-vroeg-bij-en-start-eigen-onderneming-van-jongs-af-aan-mee-bezig.html",
@@ -4373,23 +4390,6 @@
    "prio": false,
    "tijd": "21-11 18:53"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671270/burgemeesters-maken-vuist-tegen-gendergerelateerd-geweld-verantwoordelijkheid-van-ons-allemaal.html": {
-   "titel": "Burgemeesters maken vuist tegen gendergerelateerd geweld: ´Verantwoordelijkheid van ons allemaal´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671270/burgemeesters-maken-vuist-tegen-gendergerelateerd-geweld-verantwoordelijkheid-van-ons-allemaal.html",
-   "tekst": "Orange the World, de wereldwijde campagne van UN Women tegen gendergerelateerd geweld, gaat maandag van start. Ook in de gemeenten...",
-   "datum": "2026-11-21T17:53:15+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108715394/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html": {
    "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108715394/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html",
@@ -4540,6 +4540,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126114323a2somerenrit141109": {
+   "titel": "A2 Someren Rit: 141109",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126114323a2somerenrit141109",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T11:43:23+01:00",
+   "eerst_gezien": "2026-11-26T10:56:37.613008+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 11:43"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126111946a2helmondrit141100": {
    "titel": "A2 Helmond Rit: 141100",
@@ -5136,6 +5153,40 @@
    "prio": false,
    "tijd": "25-11 14:22"
   },
+  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
+   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
+   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
+   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
+   "datum": "2026-11-25T06:57:04+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108671270/burgemeesters-maken-vuist-tegen-gendergerelateerd-geweld-verantwoordelijkheid-van-ons-allemaal.html": {
+   "titel": "Burgemeesters maken vuist tegen gendergerelateerd geweld: ´Verantwoordelijkheid van ons allemaal´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671270/burgemeesters-maken-vuist-tegen-gendergerelateerd-geweld-verantwoordelijkheid-van-ons-allemaal.html",
+   "tekst": "Orange the World, de wereldwijde campagne van UN Women tegen gendergerelateerd geweld, gaat maandag van start. Ook in de gemeenten...",
+   "datum": "2026-11-21T17:53:15+00:00",
+   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 18:53"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126141421p2bob01dienstverleningdeuropenenamstelplantsoenh": {
    "titel": "P 2 BOB-01 Dienstverlening (deur openen) Amstelplantsoen Helmond 223231",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126141421p2bob01dienstverleningdeuropenenamstelplantsoenh",
@@ -5169,23 +5220,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 14:00"
-  },
-  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
-   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
-   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
-   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
-   "datum": "2026-11-25T06:57:04+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:57"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
    "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
@@ -17826,40 +17860,6 @@
    "prio": false,
    "tijd": "19-11 12:07"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647319/bloedende-man-21-aangehouden-op-eindhoven-centraal.html": {
-   "titel": "Bloedende man (21) aangehouden op Eindhoven Centraal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647319/bloedende-man-21-aangehouden-op-eindhoven-centraal.html",
-   "tekst": "",
-   "datum": "2026-11-19T10:49:08+00:00",
-   "eerst_gezien": "2026-11-19T11:03:31.790006+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647316/door-coen-werd-het-rapport-over-de-vliegramp-in-strijp-niet-vernietigd-ruim-100-dagen-in-het-archief-met-2000-kopieen.html": {
-   "titel": "Door Coen werd het rapport over de vliegramp in Strijp niet vernietigd: `Ruim 100 dagen in het archief met 2000 kopieën...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647316/door-coen-werd-het-rapport-over-de-vliegramp-in-strijp-niet-vernietigd-ruim-100-dagen-in-het-archief-met-2000-kopieen.html",
-   "tekst": "",
-   "datum": "2026-11-19T10:49:05+00:00",
-   "eerst_gezien": "2026-11-19T11:03:31.790006+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 11:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
    "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
@@ -17893,23 +17893,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 12:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647254/door-coen-werd-het-rapport-over-de-vliegramp-in-strijp-niet-vernietigd-ruim-100-dagen-in-het-archief-met-2000-kopieen.html": {
-   "titel": "Door Coen werd het rapport over de vliegramp in Strijp niet vernietigd: `Ruim 100 dagen in het archief met 2000 kopieën...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647254/door-coen-werd-het-rapport-over-de-vliegramp-in-strijp-niet-vernietigd-ruim-100-dagen-in-het-archief-met-2000-kopieen.html",
-   "tekst": "",
-   "datum": "2026-11-19T10:43:30+00:00",
-   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 11:43"
   }
  },
  "bronnen": {
@@ -18035,7 +18018,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 37,
+   "aantal": 36,
    "fout": ""
   },
   "112Brabant": {
