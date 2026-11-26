@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 15:10",
+ "bijgewerkt": "26-11-2026 15:26",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
    "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
@@ -1056,7 +1056,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 15:00"
@@ -3839,6 +3839,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720399/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html": {
+   "titel": "Provincie kiest voorkeursroute voor ondergrondse stroomkabel tussen Eindhoven en Maarheeze",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720399/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html",
+   "tekst": "",
+   "datum": "2026-11-26T14:25:14+00:00",
+   "eerst_gezien": "2026-11-26T14:25:56.092593+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 15:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html": {
    "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op ´Manga Maandag´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html",
@@ -4083,23 +4100,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108718408/veldhoven-heeft-megaplannen-voor-de-run-waar-bedrijven-plek-moeten-maken-voor-wonen.html": {
-   "titel": "Veldhoven heeft megaplannen voor De Run, waar bedrijven plek moeten maken voor wonen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718408/veldhoven-heeft-megaplannen-voor-de-run-waar-bedrijven-plek-moeten-maken-voor-wonen.html",
-   "tekst": "",
-   "datum": "2026-11-26T10:31:03+00:00",
-   "eerst_gezien": "2026-11-26T10:40:32.135205+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 11:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718952/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
    "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
@@ -4615,7 +4615,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 15:07"
@@ -5180,6 +5180,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 20:44"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718408/veldhoven-heeft-megaplannen-voor-de-run-waar-bedrijven-plek-moeten-maken-voor-wonen.html": {
+   "titel": "Veldhoven heeft megaplannen voor De Run, waar bedrijven plek moeten maken voor wonen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718408/veldhoven-heeft-megaplannen-voor-de-run-waar-bedrijven-plek-moeten-maken-voor-wonen.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:31:03+00:00",
+   "eerst_gezien": "2026-11-26T10:40:32.135205+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:31"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126201125a2deurnerit140880": {
    "titel": "A2 Deurne Rit: 140880",
@@ -17740,23 +17757,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649168/voormalig-helmond-sport-speler-diego-van-zutphen-is-per-direct-inzetbaar-bij-una.html": {
-   "titel": "Voormalig Helmond Sport-speler Diego van Zutphen is per direct inzetbaar bij UNA",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649168/voormalig-helmond-sport-speler-diego-van-zutphen-is-per-direct-inzetbaar-bij-una.html",
-   "tekst": "",
-   "datum": "2026-11-19T14:15:03+00:00",
-   "eerst_gezien": "2026-11-19T14:17:29.387904+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 15:15"
   }
  },
  "bronnen": {
@@ -17882,7 +17882,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
