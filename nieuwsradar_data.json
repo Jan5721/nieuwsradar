@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 22:57",
+ "bijgewerkt": "26-11-2026 23:13",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -1251,7 +1251,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw": {
    "titel": "Nieuw-Brandevoort pilotlocatie voor netbewuste nieuwbouw",
    "link": "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw",
-   "tekst": "vrijdag Nieuw-Brandevoort in Helmond is aangewezen als pilotlocatie voor netbewuste nieuwbouw. Het Rijk wil hiermee ondanks netcongestie de bouw van 4.000 woningen mogelijk maken. De pilot is onderdeel van de crisisaanpak voor het …",
+   "tekst": "20 november 2026 Nieuw-Brandevoort in Helmond is aangewezen als pilotlocatie voor netbewuste nieuwbouw. Het Rijk wil hiermee ondanks netcongestie de bouw van 4.000 woningen mogelijk maken. De pilot is onderdeel van de crisisaanpak voor het …",
    "datum": "2026-11-23T08:22:48.463393+00:00",
    "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1268,7 +1268,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035637/helmond-houdt-pitchavond-voor-street-culture-en-sports": {
    "titel": "Helmond houdt pitchavond voor Street Culture en Sports",
    "link": "https://www.omroepbrabant.nl/nieuws/6035637/helmond-houdt-pitchavond-voor-street-culture-en-sports",
-   "tekst": "vrijdag De gemeente Helmond heeft op 19 november een pitchavond georganiseerd voor subsidieaanvragen binnen Street Culture en Sports. Negen deelnemers presenteerden hun ideeën aan een jury en kregen allemaal financiële steun voor hun …",
+   "tekst": "20 november 2026 De gemeente Helmond heeft op 19 november een pitchavond georganiseerd voor subsidieaanvragen binnen Street Culture en Sports. Negen deelnemers presenteerden hun ideeën aan een jury en kregen allemaal financiële steun voor …",
    "datum": "2026-11-23T08:22:48.463393+00:00",
    "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -4084,7 +4084,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 22:45"
@@ -4101,7 +4101,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 22:45"
@@ -4118,7 +4118,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 22:45"
@@ -4508,6 +4508,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126230748a1helmondrit141380": {
+   "titel": "A1 Helmond Rit: 141380",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126230748a1helmondrit141380",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T23:07:48+01:00",
+   "eerst_gezien": "2026-11-26T22:12:41.319139+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "26-11 23:07"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126221921a2liesselrit141361": {
    "titel": "A2 Liessel Rit: 141361",
@@ -18200,22 +18217,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108652756/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108652756/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T22:12:02+00:00",
-   "eerst_gezien": "2026-11-19T22:24:57.998383+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
    "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
@@ -18357,7 +18358,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
