@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 10:37",
+ "bijgewerkt": "26-11-2026 10:53",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -769,23 +769,6 @@
    "prio": false,
    "tijd": "19-11 16:15"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64788/najaarsactie-gaat-van-start-samen-houden-we-asten-bruisend": {
-   "titel": "Najaarsactie gaat van start: ‘Samen houden we Asten bruisend’",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64788/najaarsactie-gaat-van-start-samen-houden-we-asten-bruisend",
-   "tekst": "ASTEN - De kans op succes is komende maand extra groot in het centrum van Asten. Maandag gaat namelijk de Najaarsactie weer van start.",
-   "datum": "2026-11-19T10:42:00+01:00",
-   "eerst_gezien": "2026-11-19T10:31:23.042575+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:42"
-  },
   "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/": {
    "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
    "link": "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/",
@@ -1397,7 +1380,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 10:36"
@@ -2000,23 +1983,6 @@
    "prio": false,
    "tijd": "23-11 16:54"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning": {
-   "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning",
-   "tekst": "12 november 2026 De gemeente Deurne heeft toestemming gegeven voor een evenement op de Bivakweg. Het besluit werd op 10 november genomen en de vergunning is verleend.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
   "https://www.omroepbrabant.nl/nieuws/6036253/vergunning-verlengd-voor-tijdelijke-woonunit-in-heusden": {
    "titel": "Vergunning verlengd voor tijdelijke woonunit in Heusden",
    "link": "https://www.omroepbrabant.nl/nieuws/6036253/vergunning-verlengd-voor-tijdelijke-woonunit-in-heusden",
@@ -2576,7 +2542,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3839,6 +3805,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html": {
+   "titel": "Chronische leukemie sloeg in als een donderslag voor Timo (25): `Ik wist niet of ik nog thuis zou komen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html",
+   "tekst": "",
+   "datum": "2026-11-26T09:49:08+00:00",
+   "eerst_gezien": "2026-11-26T09:52:41.252145+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 10:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108717726/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html": {
    "titel": "Groen, hoogbouw en een buslijn naar Eindhoven: zo moet De Run eruit gaan zien",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108717726/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html",
@@ -3851,7 +3834,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 10:25"
@@ -4053,39 +4036,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108713144/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
-   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108713144/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
-   "tekst": "",
-   "datum": "2026-11-25T22:15:02+00:00",
-   "eerst_gezien": "2026-11-25T22:20:33.164731+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108712011/willem-alexander-bezoekt-brabant-water-in-eindhoven-en-kan-het-niet-laten-om-af-en-toe-grap-te-maken.html": {
-   "titel": "Wil­lem-Alexander bezoekt Brabant Water in Eindhoven en kan het niet laten om af en toe grap te maken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108712011/willem-alexander-bezoekt-brabant-water-in-eindhoven-en-kan-het-niet-laten-om-af-en-toe-grap-te-maken.html",
-   "tekst": "",
-   "datum": "2026-11-25T20:25:11+00:00",
-   "eerst_gezien": "2026-11-25T20:28:12.110913+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 21:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -5251,6 +5201,56 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning": {
+   "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning",
+   "tekst": "12 november 2026 De gemeente Deurne heeft toestemming gegeven voor een evenement op de Bivakweg. Het besluit werd op 10 november genomen en de vergunning is verleend.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108713144/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108713144/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:15:02+00:00",
+   "eerst_gezien": "2026-11-25T22:20:33.164731+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108712011/willem-alexander-bezoekt-brabant-water-in-eindhoven-en-kan-het-niet-laten-om-af-en-toe-grap-te-maken.html": {
+   "titel": "Wil­lem-Alexander bezoekt Brabant Water in Eindhoven en kan het niet laten om af en toe grap te maken",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108712011/willem-alexander-bezoekt-brabant-water-in-eindhoven-en-kan-het-niet-laten-om-af-en-toe-grap-te-maken.html",
+   "tekst": "",
+   "datum": "2026-11-25T20:25:11+00:00",
+   "eerst_gezien": "2026-11-25T20:28:12.110913+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 21:25"
   },
   "https://www.omroepbrabant.nl/nieuws/6034530/nieuwe-luifel-en-scheidingswand-bij-gebouw-in-asten": {
    "titel": "Nieuwe luifel en scheidingswand bij gebouw in Asten",
@@ -17726,40 +17726,6 @@
    "prio": false,
    "tijd": "19-11 11:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646734/bloedende-man-21-aangehouden-op-eindhoven-centraal-blijkt-zichzelf-verwond-te-hebben.html": {
-   "titel": "Bloedende man (21) aangehouden op Eindhoven Centraal: blijkt zichzelf verwond te hebben",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646734/bloedende-man-21-aangehouden-op-eindhoven-centraal-blijkt-zichzelf-verwond-te-hebben.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:49:07+00:00",
-   "eerst_gezien": "2026-11-19T09:58:18.017960+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646732/avonturier-met-kunst-en-ruimte-vier-boeken-onthullen-het-eigenzinnige-universum-van-avonturier-jan-doms.html": {
-   "titel": "`Avonturier met kunst en ruimte`; vier boeken onthullen het eigenzinnige universum van avonturier Jan Doms",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646732/avonturier-met-kunst-en-ruimte-vier-boeken-onthullen-het-eigenzinnige-universum-van-avonturier-jan-doms.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:49:05+00:00",
-   "eerst_gezien": "2026-11-19T09:58:18.017960+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
    "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
@@ -17837,7 +17803,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -17877,7 +17843,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 22,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -17932,7 +17898,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
