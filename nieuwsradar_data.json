@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 13:01",
+ "bijgewerkt": "26-11-2026 13:17",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -781,7 +781,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 12:54"
@@ -3770,6 +3770,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
+   "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html",
+   "tekst": "",
+   "datum": "2026-11-26T12:13:25+00:00",
+   "eerst_gezien": "2026-11-26T12:16:55.422591+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108719037/in-haar-dorp-was-geen-plaats-voor-sonjas-droom-in-beek-en-donk-kan-het-wel.html": {
    "titel": "In haar dorp was geen plaats voor Sonja`s droom; in Beek en Donk kan het wel",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108719037/in-haar-dorp-was-geen-plaats-voor-sonjas-droom-in-beek-en-donk-kan-het-wel.html",
@@ -3984,39 +4000,6 @@
    "prio": false,
    "tijd": "26-11 10:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108717726/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html": {
-   "titel": "Groen, hoogbouw en een buslijn naar Eindhoven: zo moet De Run eruit gaan zien",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717726/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html",
-   "tekst": "",
-   "datum": "2026-11-26T09:25:13+00:00",
-   "eerst_gezien": "2026-11-26T09:36:30.064403+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 10:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108719160/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
-   "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108719160/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html",
-   "tekst": "",
-   "datum": "2026-11-26T11:58:07+00:00",
-   "eerst_gezien": "2026-11-26T12:00:52.088162+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108718952/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
    "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108718952/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html",
@@ -4138,39 +4121,6 @@
    "tekst": "",
    "datum": "2026-11-23T11:31:03+00:00",
    "eerst_gezien": "2026-11-23T11:36:49.345189+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html": {
-   "titel": "Shockvriezer koelt met hoge capaciteit sauzen razendsnel terug",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html",
-   "tekst": "Het gebeurt niet dagelijks dat een machinebouwer Dawsongroup benadert voor een shockvriezer. Toch was het Upcon uit Uden dat met een vraag...",
-   "datum": "2026-11-23T11:11:05+00:00",
-   "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 12:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108685632/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html": {
-   "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685632/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html",
-   "tekst": "",
-   "datum": "2026-11-23T10:29:07+00:00",
-   "eerst_gezien": "2026-11-23T10:32:09.086424+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -4552,6 +4502,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126131018a2helmondrit141155": {
+   "titel": "A2 Helmond Rit: 141155",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126131018a2helmondrit141155",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-26T13:10:18+01:00",
+   "eerst_gezien": "2026-11-26T12:16:55.422591+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 13:10"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126130901a2helmondrit141154": {
+   "titel": "A2 Helmond Rit: 141154",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126130901a2helmondrit141154",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T13:09:01+01:00",
+   "eerst_gezien": "2026-11-26T12:16:55.422591+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 13:09"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126124654a2astenrit141138": {
    "titel": "A2 Asten Rit: 141138",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126124654a2astenrit141138",
@@ -4564,7 +4548,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 12:46"
@@ -5146,6 +5130,72 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 15:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108717726/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html": {
+   "titel": "Groen, hoogbouw en een buslijn naar Eindhoven: zo moet De Run eruit gaan zien",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717726/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html",
+   "tekst": "",
+   "datum": "2026-11-26T09:25:13+00:00",
+   "eerst_gezien": "2026-11-26T09:36:30.064403+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 10:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108719160/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
+   "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108719160/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:58:07+00:00",
+   "eerst_gezien": "2026-11-26T12:00:52.088162+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html": {
+   "titel": "Shockvriezer koelt met hoge capaciteit sauzen razendsnel terug",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108686141/shockvriezer-koelt-met-hoge-capaciteit-sauzen-razendsnel-terug.html",
+   "tekst": "Het gebeurt niet dagelijks dat een machinebouwer Dawsongroup benadert voor een shockvriezer. Toch was het Upcon uit Uden dat met een vraag...",
+   "datum": "2026-11-23T11:11:05+00:00",
+   "eerst_gezien": "2026-11-23T11:20:52.166522+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 12:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685632/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html": {
+   "titel": "Deels afgebrande basisschool in Zeilberg hoopt over week op andere plek weer les te geven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685632/deels-afgebrande-basisschool-in-zeilberg-hoopt-over-week-op-andere-plek-weer-les-te-geven.html",
+   "tekst": "",
+   "datum": "2026-11-23T10:29:07+00:00",
+   "eerst_gezien": "2026-11-23T10:32:09.086424+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/helmond/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol~a31cbaf8/": {
    "titel": "Connie Palmen komt naar Helmond en vertelt over haar ‘veertigjarige relatie’ met alcohol",
@@ -17806,23 +17856,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648188/auto-van-vrouw-zou-worden-opgeblazen-twee-weken-later-volgt-explosie-in-eindhoven.html": {
-   "titel": "Auto van vrouw zou worden opgeblazen, twee weken later volgt explosie in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648188/auto-van-vrouw-zou-worden-opgeblazen-twee-weken-later-volgt-explosie-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:13:09+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
    "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
@@ -17839,122 +17872,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648186/thema-lezing-in-nuenen-hoe-blijf-je-een-goed-mens.html": {
-   "titel": "Thema-lezing in Nuenen: hoe blijf je een goed mens'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648186/thema-lezing-in-nuenen-hoe-blijf-je-een-goed-mens.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:13:09+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648184/auto-van-vrouw-zou-worden-opgeblazen-twee-weken-later-volgt-explosie-in-eindhoven.html": {
-   "titel": "Auto van vrouw zou worden opgeblazen, twee weken later volgt explosie in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648184/auto-van-vrouw-zou-worden-opgeblazen-twee-weken-later-volgt-explosie-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:13:05+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648182/thema-lezing-in-nuenen-hoe-blijf-je-een-goed-mens.html": {
-   "titel": "Thema-lezing in Nuenen: hoe blijf je een goed mens'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648182/thema-lezing-in-nuenen-hoe-blijf-je-een-goed-mens.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:13:05+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648180/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html": {
-   "titel": "Twee Eindhovenaren staan terecht om drugs, maar mocht de politie wel ingrijpen'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648180/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:13:05+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
-   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648102/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
-   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
-   "datum": "2026-11-19T12:06:04+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html": {
-   "titel": "Politie onderzoekt mogelijke bedreiging voorafgaand aan explosie bij auto in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648040/politie-onderzoekt-mogelijke-bedreiging-voorafgaand-aan-explosie-bij-auto-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:01:04+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648136/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html": {
-   "titel": "Twee Eindhovenaren staan terecht om drugs, maar mocht de politie wel ingrijpen'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648136/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:07:22+00:00",
-   "eerst_gezien": "2026-11-19T12:07:52.071995+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:07"
   }
  },
  "bronnen": {
@@ -18065,7 +17982,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 8,
    "fout": ""
   },
   "Drimble Asten": {
@@ -18080,7 +17997,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 37,
    "fout": ""
   },
   "112Brabant": {
