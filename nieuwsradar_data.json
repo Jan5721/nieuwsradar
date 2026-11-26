@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 13:33",
+ "bijgewerkt": "26-11-2026 13:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
    "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 13:24"
@@ -1021,7 +1021,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 13:29"
@@ -17916,7 +17916,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 37,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
