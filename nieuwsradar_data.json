@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 08:43",
+ "bijgewerkt": "26-11-2026 09:00",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64932/twee-gewonden-bij-ongeval-op-ripseweg": {
    "titel": "Twee gewonden bij ongeval op Ripseweg",
@@ -530,23 +530,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 14:16"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia": {
-   "titel": "SV Deurne wil koppositie verstevigen tegen opgeleefd Limburgia",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64787/sv-deurne-wil-koppositie-verstevigen-tegen-opgeleefd-limburgia",
-   "tekst": "DEURNE - Na het veiligstellen van de eerste periodetitel afgelopen weekend in Best, resteert er voor SV Deurne nog drie competitiewedstrijden voordat de winterstop aanbreekt. Te beginnen met een thuiswedstrijd tegen BSV Limburgia/Kamerland, dat momenteel de vierde plaats in de …",
-   "datum": "2026-11-19T08:59:00+01:00",
-   "eerst_gezien": "2026-11-19T08:05:18.197198+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:59"
   },
   "https://www.peelbelangonline.nl/nieuws/sport/64919/lucas-van-dijk-wint-namens-soo-bak-gi-twee-gouden-plakken": {
    "titel": "Lucas van Dijk wint namens Soo Bak-Gi twee gouden plakken",
@@ -2529,74 +2512,6 @@
    "prio": false,
    "tijd": "20-11 21:16"
   },
-  "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
-   "titel": "Brand basisschool Zeilberg",
-   "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
-   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
-   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
-   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
-   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
-   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
-   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
   "https://www.asten.nl/nieuws/artikel/ontdek-museum-klok-peel": {
    "titel": "Ontdek Museum Klok & Peel",
    "link": "https://www.asten.nl/nieuws/artikel/ontdek-museum-klok-peel",
@@ -2661,7 +2576,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 08:24"
@@ -3993,6 +3908,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126084530a2astenrit141021": {
+   "titel": "A2 Asten Rit: 141021",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126084530a2astenrit141021",
+   "tekst": "Ambulance 22-108 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T08:45:30+01:00",
+   "eerst_gezien": "2026-11-26T07:59:21.761386+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 08:45"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126084502a1deurnerit141019": {
+   "titel": "A1 Deurne Rit: 141019",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126084502a1deurnerit141019",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T08:45:02+01:00",
+   "eerst_gezien": "2026-11-26T07:59:21.761386+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "26-11 08:45"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126083402a1helmondrit141014": {
    "titel": "A1 Helmond Rit: 141014",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126083402a1helmondrit141014",
@@ -4005,7 +3954,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 08:34"
@@ -4022,7 +3971,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 08:30"
@@ -4621,6 +4570,74 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
+   "titel": "Brand basisschool Zeilberg",
+   "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
+   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
+   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
+   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
+   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
+   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
+   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
    "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
@@ -17398,7 +17415,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 31,
    "fout": ""
   },
   "Peelbelang": {
@@ -17462,9 +17479,9 @@
    "fout": ""
   },
   "Gemeente Deurne": {
-   "ok": true,
-   "aantal": 4,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "TimeoutError: The read operation timed out"
   },
   "Gemeente Asten": {
    "ok": true,
@@ -17518,7 +17535,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 38,
    "fout": ""
   },
   "112Brabant": {
