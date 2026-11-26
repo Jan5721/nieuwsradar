@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 20:31",
+ "bijgewerkt": "26-11-2026 20:48",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -786,6 +786,24 @@
    "prio": false,
    "tijd": "20-11 08:06"
   },
+  "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
+   "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: ‘Iedereen staat voor elkaar klaar’",
+   "link": "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar~a408ed2f/",
+   "tekst": "Het is alle hens aan dek voor medewerkers van de door brand getroffen basisschool Zeilberg. Ze werken zich een slag in de rondte om de tijdelijke locatie in Someren op tijd klaar te maken.",
+   "datum": "2026-11-26T19:30:37+00:00",
+   "eerst_gezien": "2026-11-26T19:31:16.479253+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 20:30"
+  },
   "https://www.ed.nl/helmond/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over~a344fa71/": {
    "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk (1946-2026) vlogen net straaljagers over",
    "link": "https://www.ed.nl/helmond/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over~a344fa71/",
@@ -939,41 +957,6 @@
    "prio": false,
    "tijd": "26-11 07:29"
   },
-  "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/": {
-   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
-   "link": "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/",
-   "tekst": "Er zijn veel zorgen over de mogelijke doorstart van een al jaren leegstaand varkensbedrijf in Lierop. Toch hebben sommigen er geen problemen mee.",
-   "datum": "2026-11-25T19:30:10+00:00",
-   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 20:30"
-  },
-  "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
-   "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: ‘Iedereen staat voor elkaar klaar’",
-   "link": "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar~a408ed2f/",
-   "tekst": "Het is alle hens aan dek voor medewerkers van de door brand getroffen basisschool Zeilberg. Ze werken zich een slag in de rondte om de tijdelijke locatie in Someren op tijd klaar te maken.",
-   "datum": "2026-11-26T19:30:37+00:00",
-   "eerst_gezien": "2026-11-26T19:31:16.479253+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": true,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 20:30"
-  },
   "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Deurne doen vaker mee dan in de meeste gemeenten",
    "link": "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/",
@@ -990,6 +973,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:30"
+  },
+  "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/": {
+   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
+   "link": "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/",
+   "tekst": "Er zijn veel zorgen over de mogelijke doorstart van een al jaren leegstaand varkensbedrijf in Lierop. Toch hebben sommigen er geen problemen mee.",
+   "datum": "2026-11-25T19:30:10+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:30"
   },
   "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: ‘Hier word je echt niet gelukkiger van’",
@@ -1832,7 +1832,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035623/informatieve-bijeenkomst-over-zorg-in-laatste-levensfase": {
    "titel": "Informatieve bijeenkomst over zorg in laatste levensfase",
    "link": "https://www.omroepbrabant.nl/nieuws/6035623/informatieve-bijeenkomst-over-zorg-in-laatste-levensfase",
-   "tekst": "vrijdag Op maandag 23 november 2026 vindt in Deurne een bijeenkomst plaats over palliatieve en terminale zorg. Mantelzorgers, vrijwilligers en andere geïnteresseerden krijgen informatie over de mogelijkheden in de laatste levensfase. De …",
+   "tekst": "20 november 2026 Op maandag 23 november 2026 vindt in Deurne een bijeenkomst plaats over palliatieve en terminale zorg. Mantelzorgers, vrijwilligers en andere geïnteresseerden krijgen informatie over de mogelijkheden in de laatste …",
    "datum": "2026-11-23T08:22:48.463393+00:00",
    "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -3891,6 +3891,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722887/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html": {
+   "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: `Iedereen staat voor elkaar klaar`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722887/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:43:16+00:00",
+   "eerst_gezien": "2026-11-26T19:47:43.903312+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108722735/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html": {
    "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk (1946-2026) vlogen net straaljagers over",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108722735/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html",
@@ -3903,7 +3920,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4153,23 +4170,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html": {
-   "titel": "Ein Döner bitte: nog een Duitse kebabketen komt naar Eindhoven, met tijdelijk broodjes voor 5 cent",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html",
-   "tekst": "",
-   "datum": "2026-11-26T16:13:23+00:00",
-   "eerst_gezien": "2026-11-26T16:18:27.800076+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 17:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
    "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
@@ -4690,21 +4690,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108690353/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren.html": {
-   "titel": "Man steelt voor ruim 2.500 euro aan cosmetica bij Kruidvat in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690353/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren.html",
-   "tekst": "",
-   "datum": "2026-11-23T20:41:09+00:00",
-   "eerst_gezien": "2026-11-23T20:43:39.389668+00:00",
-   "bron": "Drimble Someren",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126204401a2helmondrit141337": {
+   "titel": "A2 Helmond Rit: 141337",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126204401a2helmondrit141337",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T20:44:01+01:00",
+   "eerst_gezien": "2026-11-26T19:47:43.903312+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Someren"
+    "Helmond"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 20:44"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126194243a2helmondrit141323": {
    "titel": "A2 Helmond Rit: 141323",
@@ -5266,6 +5267,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 08:10"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html": {
+   "titel": "Ein Döner bitte: nog een Duitse kebabketen komt naar Eindhoven, met tijdelijk broodjes voor 5 cent",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html",
+   "tekst": "",
+   "datum": "2026-11-26T16:13:23+00:00",
+   "eerst_gezien": "2026-11-26T16:18:27.800076+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108690353/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren.html": {
+   "titel": "Man steelt voor ruim 2.500 euro aan cosmetica bij Kruidvat in Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108690353/man-steelt-voor-ruim-2500-euro-aan-cosmetica-bij-kruidvat-in-someren.html",
+   "tekst": "",
+   "datum": "2026-11-23T20:41:09+00:00",
+   "eerst_gezien": "2026-11-23T20:43:39.389668+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108721345/15-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html": {
    "titel": "15 huurwoningen op plek oude buurtsuper Zeelst: `Mooi, maar ik geloof niet dat we straks nog privacy hebben`",
@@ -17733,40 +17767,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
-   "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651602/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:43:16+00:00",
-   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 20:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651601/fietser-zwaargewond-nadat-automobilist-andere-auto-achtervolgt-en-crasht-in-eindhoven.html": {
-   "titel": "Fietser zwaargewond nadat automobilist andere auto achtervolgt en crasht in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651601/fietser-zwaargewond-nadat-automobilist-andere-auto-achtervolgt-en-crasht-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:43:16+00:00",
-   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 20:43"
   }
  },
  "bronnen": {
@@ -17887,12 +17887,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
