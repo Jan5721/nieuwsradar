@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 00:01",
+ "bijgewerkt": "27-11-2026 00:17",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -9033,23 +9033,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126000549a1helmondrit140496": {
-   "titel": "A1 Helmond Rit: 140496",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126000549a1helmondrit140496",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T00:05:49+01:00",
-   "eerst_gezien": "2026-11-24T23:12:26.196104+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "25-11 00:05"
   },
   "https://www.ed.nl/someren/geen-reling-geen-vangnet-geen-verankering-werknemer-valt-van-pallet-en-sterft-bedrijf-uit-lierop-ontkent-fout~a18cd145/": {
    "titel": "Geen reling, geen vangnet, geen verankering: werknemer valt van pallet en sterft, bedrijf uit Lierop ontkent fout",
