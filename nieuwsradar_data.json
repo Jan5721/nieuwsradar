@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 23:45",
+ "bijgewerkt": "27-11-2026 00:01",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -2277,7 +2277,7 @@
   "https://www.omroepbrabant.nl/nieuws/6036183/someren-start-campagne-tegen-geweld-tegen-vrouwen": {
    "titel": "Someren start campagne tegen geweld tegen vrouwen",
    "link": "https://www.omroepbrabant.nl/nieuws/6036183/someren-start-campagne-tegen-geweld-tegen-vrouwen",
-   "tekst": "",
+   "tekst": "woensdag Op het bordes van het gemeentehuis in Someren is",
    "datum": "2026-11-26T10:08:34.915464+00:00",
    "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2294,7 +2294,7 @@
   "https://www.omroepbrabant.nl/nieuws/6036059/harriet-bongers-bouwmans-krijgt-koninklijke-onderscheiding": {
    "titel": "Harriet Bongers-Bouwmans krijgt Koninklijke onderscheiding",
    "link": "https://www.omroepbrabant.nl/nieuws/6036059/harriet-bongers-bouwmans-krijgt-koninklijke-onderscheiding",
-   "tekst": "",
+   "tekst": "woensdag Harriet Bongers-Bouwmans uit Ospel is benoemd tot Lid in de Orde van Oranje-Nassau. Burgemeester Birgit Op de Laak reikte haar de onderscheiding uit in Someren-Eind. Harriet zet zich al 50 jaar vrijwillig in voor …",
    "datum": "2026-11-25T09:37:51.112504+00:00",
    "eerst_gezien": "2026-11-25T09:37:51.112504+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -3868,7 +3868,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4119,7 +4119,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -15626,40 +15626,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 13:34"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108655084/laatste-kaarten-voor-cabaretier-nienke-plas-in-someren.html": {
-   "titel": "Laatste kaarten voor cabaretier Nienke Plas in Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655084/laatste-kaarten-voor-cabaretier-nienke-plas-in-someren.html",
-   "tekst": "Nienke Plas staat op vrijdag 27 november in De Ruchte in Someren. Volgens het theater zijn er nog enkele kaarten voor haar cabaretvoorstelling.",
-   "datum": "2026-11-19T22:55:03+00:00",
-   "eerst_gezien": "2026-11-19T22:57:03.168650+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 23:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108655081/cabaretduo-blauwe-vinkjes-speelt-poeha.html": {
-   "titel": "Cabaretduo Blauwe Vinkjes speelt `Poeha`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655081/cabaretduo-blauwe-vinkjes-speelt-poeha.html",
-   "tekst": "Blauwe Vinkjes speelt vrijdag 4 december Poeha in De Ruchte in Someren. Met sketches en liedjes neemt het cabaretduo onder meer podcasts...",
-   "datum": "2026-11-19T22:55:03+00:00",
-   "eerst_gezien": "2026-11-19T22:57:03.168650+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 23:55"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108669440/na-lang-zoeken-vinden-turkse-vrouwen-een-plek-om-hun-geschiedenis-te-delen.html": {
    "titel": "Na lang zoeken vinden Turkse vrouwen een plek om hun geschiedenis te delen",
