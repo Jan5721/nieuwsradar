@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 15:26",
+ "bijgewerkt": "26-11-2026 15:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
    "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
@@ -1061,6 +1061,23 @@
    "prio": false,
    "tijd": "26-11 15:00"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036335/willem-ii-presteert-dramatisch-deze-supporters-geven-de-hoop-niet-op": {
+   "titel": "Willem II presteert dramatisch: deze supporters geven de hoop niet op",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036335/willem-ii-presteert-dramatisch-deze-supporters-geven-de-hoop-niet-op",
+   "tekst": "Al dertig Eredivisiewedstrijden op rij is Willem II zonder winst en daarmee evenaarde de club het negatieve record van Helmond Sport uit 1984. Als de Tilburgers vrijdagavond niet winnen bij FC Groningen, krijgen ze het bedenkelijke record alleen in handen. Ondanks de dramatische …",
+   "datum": "2026-11-26T14:30:00+00:00",
+   "eerst_gezien": "2026-11-26T14:41:57.844866+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 15:30"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren": {
    "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
    "link": "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren",
@@ -1078,23 +1095,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:15"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6036165/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast": {
-   "titel": "Grote brand in huis in Bakel: opgepakte man zit drie maanden langer vast",
-   "link": "https://www.omroepbrabant.nl/nieuws/6036165/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast",
-   "tekst": "De 40-jarige Helmonder die is opgepakt voor de grote brand in een huis in Bakel, blijft negentig dagen langer vastzitten. Dat heeft de rechter-commissaris woensdag besloten. Eerder werd zijn voorarrest al eens verlengd. De brand in het huis aan het Groenveld in Bakel brak op 9 …",
-   "datum": "2026-11-25T19:00:00+00:00",
-   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 20:00"
   },
   "https://www.omroepbrabant.nl/nieuws/6036136/aangepaste-openingstijden-milieustraat-helmond-in-december": {
    "titel": "Aangepaste openingstijden milieustraat Helmond in december",
@@ -3839,12 +3839,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108720399/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108720440/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html": {
    "titel": "Provincie kiest voorkeursroute voor ondergrondse stroomkabel tussen Eindhoven en Maarheeze",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720399/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720440/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html",
    "tekst": "",
-   "datum": "2026-11-26T14:25:14+00:00",
-   "eerst_gezien": "2026-11-26T14:25:56.092593+00:00",
+   "datum": "2026-11-26T14:31:03+00:00",
+   "eerst_gezien": "2026-11-26T14:41:57.844866+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -3854,7 +3854,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "26-11 15:25"
+   "tijd": "26-11 15:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html": {
    "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op ´Manga Maandag´",
@@ -4603,6 +4603,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126153305a1helmondrit141214": {
+   "titel": "A1 Helmond Rit: 141214",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126153305a1helmondrit141214",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T15:33:05+01:00",
+   "eerst_gezien": "2026-11-26T14:41:57.844866+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "26-11 15:33"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126150738a2helmondrit141202": {
    "titel": "A2 Helmond Rit: 141202",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126150738a2helmondrit141202",
@@ -5163,6 +5180,40 @@
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 21:11"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036165/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast": {
+   "titel": "Grote brand in huis in Bakel: opgepakte man zit drie maanden langer vast",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036165/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast",
+   "tekst": "De 40-jarige Helmonder die is opgepakt voor de grote brand in een huis in Bakel, blijft negentig dagen langer vastzitten. Dat heeft de rechter-commissaris woensdag besloten. Eerder werd zijn voorarrest al eens verlengd. De brand in het huis aan het Groenveld in Bakel brak op 9 …",
+   "datum": "2026-11-25T19:00:00+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720399/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html": {
+   "titel": "Provincie kiest voorkeursroute voor ondergrondse stroomkabel tussen Eindhoven en Maarheeze",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720399/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html",
+   "tekst": "",
+   "datum": "2026-11-26T14:25:14+00:00",
+   "eerst_gezien": "2026-11-26T14:25:56.092593+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 15:25"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126204456a2helmondrit140893": {
    "titel": "A2 Helmond Rit: 140893",
@@ -8216,23 +8267,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 10:49"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126153303a1helmondrit140341": {
-   "titel": "A1 Helmond Rit: 140341",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126153303a1helmondrit140341",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-24T15:33:03+01:00",
-   "eerst_gezien": "2026-11-24T14:35:33.732568+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "24-11 15:33"
   },
   "https://www.ed.nl/asten/midas-winkelcentrum-in-asten-houdt-workshop-stapelkaars-maken~a196de2e/": {
    "titel": "Midas winkelcentrum in Asten houdt workshop stapelkaars maken",
@@ -15237,23 +15271,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/": {
-   "titel": "Bouw van nieuwe huizen in Vlierden-Zuid enkel tegengehouden door ‘zware blaffers’",
-   "link": "https://www.ed.nl/deurne/bouw-van-nieuwe-huizen-in-vlierden-zuid-enkel-tegengehouden-door-zware-blaffers~aeea004d/",
-   "tekst": "Ze wachten al jaren om de eerste steen te leggen, de bouwers van woningen aan de zuidkant van Vlierden. Maar mogelijke overlast van blaffende honden blijft vooralsnog een sta-in-de-weg. De Raad van State is nu aan zet.",
-   "datum": "2026-11-19T14:30:00+00:00",
-   "eerst_gezien": "2026-11-19T15:24:21.389934+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 15:30"
-  },
   "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/": {
    "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: ‘Sowieso veel mis met die stallen’",
    "link": "https://www.ed.nl/someren/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen~abdaca8d/",
@@ -17522,7 +17539,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "19-11 16:21"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
    "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
@@ -17589,7 +17607,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "19-11 15:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108649446/eindhoven-wacht-niet-op-raad-van-state-en-wil-na-de-zomer-van-2027-beginnen-met-de-aanleg-van-hov4.html": {
    "titel": "Eindhoven wacht niet op Raad van State en wil na de zomer van 2027 beginnen met de aanleg van HOV4",
@@ -17691,23 +17710,6 @@
    "prio": false,
    "tijd": "19-11 17:28"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649369/voormalig-helmond-sport-speler-diego-van-zutphen-is-per-direct-inzetbaar-bij-una.html": {
-   "titel": "Voormalig Helmond Sport-speler Diego van Zutphen is per direct inzetbaar bij UNA",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649369/voormalig-helmond-sport-speler-diego-van-zutphen-is-per-direct-inzetbaar-bij-una.html",
-   "tekst": "",
-   "datum": "2026-11-19T14:36:07+00:00",
-   "eerst_gezien": "2026-11-19T14:49:47.028890+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 15:36"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108650176/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt.html": {
    "titel": "Vier jaar stallen leeg, nu toch weer varkens in Lierop' Niet als het aan Animal Rights ligt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108650176/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt.html",
@@ -17723,23 +17725,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
-   "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
-   "link": "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/",
-   "tekst": "Ze wachten al jaren om de eerste steen te leggen, de bouwers van woningen aan de zuidkant van Vlierden. Maar mogelijke overlast van blaffende honden blijft vooralsnog een sta-in-de-weg. De Raad van State is nu aan zet.",
-   "datum": "2026-11-19T14:30:38+00:00",
-   "eerst_gezien": "2026-11-19T14:33:28.927997+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 15:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108649501/hek-definitief-op-slot-bij-voedselbos-eindhoven-ontzettend-jammer-ik-heb-vier-maanden-mn-stinkende-best-gedaan.html": {
    "titel": "Hek definitief op slot bij Voedselbos Eindhoven: `Ontzettend jammer, ik heb vier maanden m`n stinkende best gedaan`",
