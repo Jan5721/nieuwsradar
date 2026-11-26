@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 21:36",
+ "bijgewerkt": "26-11-2026 21:52",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -786,12 +786,12 @@
    "prio": false,
    "tijd": "20-11 08:06"
   },
-  "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-2800-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
-   "titel": "Eerste schooldag in Someren komt dichtbij voor 2800 getroffen kinderen uit Deurne: ‘Iedereen staat voor elkaar klaar’",
-   "link": "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-2800-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/",
+  "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-280-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
+   "titel": "Eerste schooldag in Someren komt dichtbij voor 280 getroffen kinderen uit Deurne: ‘Iedereen staat voor elkaar klaar’",
+   "link": "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-280-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/",
    "tekst": "Het is alle hens aan dek voor medewerkers van de door brand getroffen basisschool Zeilberg. Ze werken zich een slag in de rondte om de tijdelijke locatie in Someren op tijd klaar te maken.",
    "datum": "2026-11-26T19:30:00+00:00",
-   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "eerst_gezien": "2026-11-26T20:52:06.128695+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne",
@@ -799,7 +799,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:30"
@@ -816,7 +816,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:00"
@@ -2012,7 +2012,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 21:36"
@@ -3856,6 +3856,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html": {
+   "titel": "Politie doorzoekt bedrijventerrein en neemt bakwagen in beslag na zeker tien aanhoudingen door arrestatieteam in Veghel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html",
+   "tekst": "",
+   "datum": "2026-11-26T20:49:07+00:00",
+   "eerst_gezien": "2026-11-26T20:52:06.128695+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html": {
    "titel": "Man (37) uit Eindhoven reed door rood en veroorzaakte zwaar ongeluk: taakstraf en rijverbod",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html",
@@ -4053,23 +4070,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722099/eindhoven-plaatst-extra-toiletgroepen-tijdens-carnaval-ook-voor-mensen-met-beperking.html": {
-   "titel": "Eindhoven plaatst extra toiletgroepen tijdens carnaval, ook voor mensen met beperking",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722099/eindhoven-plaatst-extra-toiletgroepen-tijdens-carnaval-ook-voor-mensen-met-beperking.html",
-   "tekst": "",
-   "datum": "2026-11-26T17:49:07+00:00",
-   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 18:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
    "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
@@ -4573,6 +4573,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 08:53"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126214220a2helmondrit141352": {
+   "titel": "A2 Helmond Rit: 141352",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126214220a2helmondrit141352",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T21:42:20+01:00",
+   "eerst_gezien": "2026-11-26T20:52:06.128695+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 21:42"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126204401a2helmondrit141337": {
    "titel": "A2 Helmond Rit: 141337",
@@ -5134,6 +5151,41 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 08:26"
+  },
+  "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-2800-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
+   "titel": "Eerste schooldag in Someren komt dichtbij voor 2800 getroffen kinderen uit Deurne: ‘Iedereen staat voor elkaar klaar’",
+   "link": "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-2800-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/",
+   "tekst": "Het is alle hens aan dek voor medewerkers van de door brand getroffen basisschool Zeilberg. Ze werken zich een slag in de rondte om de tijdelijke locatie in Someren op tijd klaar te maken.",
+   "datum": "2026-11-26T19:30:00+00:00",
+   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 20:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722099/eindhoven-plaatst-extra-toiletgroepen-tijdens-carnaval-ook-voor-mensen-met-beperking.html": {
+   "titel": "Eindhoven plaatst extra toiletgroepen tijdens carnaval, ook voor mensen met beperking",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722099/eindhoven-plaatst-extra-toiletgroepen-tijdens-carnaval-ook-voor-mensen-met-beperking.html",
+   "tekst": "",
+   "datum": "2026-11-26T17:49:07+00:00",
+   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 18:49"
   },
   "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon~a344fa71/": {
    "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
@@ -17913,7 +17965,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
