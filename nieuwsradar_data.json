@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 18:55",
+ "bijgewerkt": "26-11-2026 19:11",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -798,7 +798,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 18:45"
@@ -3805,6 +3805,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722211/werd-kater-sjors-9-uit-beek-en-donk-slachtoffer-van-een-luchtbuks.html": {
+   "titel": "Werd kater Sjors (9) uit Beek en Donk slachtoffer van een luchtbuks'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722211/werd-kater-sjors-9-uit-beek-en-donk-slachtoffer-van-een-luchtbuks.html",
+   "tekst": "",
+   "datum": "2026-11-26T18:01:05+00:00",
+   "eerst_gezien": "2026-11-26T18:10:45.090583+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 19:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108722100/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort.html": {
    "titel": "Contact met Nederlanders is lastig voor internationals: dus oefenen ze met veel lol bij Kletscafé in Brandevoort",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108722100/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort.html",
@@ -3817,7 +3834,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3833,7 +3850,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 18:49"
@@ -3850,7 +3867,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3866,7 +3883,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4121,23 +4138,6 @@
    "prio": false,
    "tijd": "26-11 16:25"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108720889/van-nistelrooij-reunie-in-madrid-trekt-veel-bekijks-de-mensen-vonden-het-wel-bijzonder-geloof-ik.html": {
-   "titel": "Van Nistelrooij-reünie in Madrid trekt veel bekijks: `De mensen vonden het wel bijzonder, geloof ik`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720889/van-nistelrooij-reunie-in-madrid-trekt-veel-bekijks-de-mensen-vonden-het-wel-bijzonder-geloof-ik.html",
-   "tekst": "",
-   "datum": "2026-11-26T15:25:12+00:00",
-   "eerst_gezien": "2026-11-26T15:30:14.116983+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 16:25"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
    "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html",
@@ -4297,7 +4297,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 18:53"
@@ -4673,6 +4673,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126190933a2astenrit141313": {
+   "titel": "A2 Asten Rit: 141313",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126190933a2astenrit141313",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T19:09:33+01:00",
+   "eerst_gezien": "2026-11-26T18:10:45.090583+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 19:09"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126183745a1deurnerit141306": {
    "titel": "A1 Deurne Rit: 141306",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126183745a1deurnerit141306",
@@ -4685,7 +4702,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 18:37"
@@ -4702,7 +4719,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 18:30"
@@ -5199,6 +5216,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 08:10"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720889/van-nistelrooij-reunie-in-madrid-trekt-veel-bekijks-de-mensen-vonden-het-wel-bijzonder-geloof-ik.html": {
+   "titel": "Van Nistelrooij-reünie in Madrid trekt veel bekijks: `De mensen vonden het wel bijzonder, geloof ik`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720889/van-nistelrooij-reunie-in-madrid-trekt-veel-bekijks-de-mensen-vonden-het-wel-bijzonder-geloof-ik.html",
+   "tekst": "",
+   "datum": "2026-11-26T15:25:12+00:00",
+   "eerst_gezien": "2026-11-26T15:30:14.116983+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 16:25"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126065952a2helmondrit140982": {
    "titel": "A2 Helmond Rit: 140982",
@@ -8520,23 +8554,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 20:02"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426": {
-   "titel": "A2 Helmond Rit: 140426",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126185456a2helmondrit140426",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T18:54:56+01:00",
-   "eerst_gezien": "2026-11-24T18:05:12.301666+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 18:54"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707856/het-piet-van-thielplein-was-een-saai-winkelplein-is-het-nu-wat.html": {
    "titel": "Het Piet van Thielplein was een saai winkelplein: is het nu wat'",
@@ -17860,23 +17877,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
-   "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651048/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:07:23+00:00",
-   "eerst_gezien": "2026-11-19T18:21:50.417573+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:07"
-  },
   "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/": {
    "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
    "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/",
@@ -17909,23 +17909,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
-   "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:01:05+00:00",
-   "eerst_gezien": "2026-11-19T18:05:49.437901+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:01"
   }
  },
  "bronnen": {
