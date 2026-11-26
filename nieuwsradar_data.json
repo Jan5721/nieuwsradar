@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 18:23",
+ "bijgewerkt": "26-11-2026 18:39",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -1059,23 +1059,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 14:47"
-  },
-  "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/": {
-   "titel": "Reportage ‘Het zit echt hier’ blikt terug op carnaval in Asten",
-   "link": "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/",
-   "tekst": "CS de Klot vertoont in Asten de reportage ‘Het zit echt hier’ over de carnavalsbeleving in Klotland. De film is vrijdag 11 en vrijdag 18 december te zien in gemeenschapshuis ’t Kwartier aan de Kerkstraat 8.",
-   "datum": "2026-11-25T15:53:00+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 16:53"
   },
   "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Someren doen vaker mee dan in de meeste gemeenten",
@@ -3822,6 +3805,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721957/politie-doorzoekt-autosloperij-nadat-arrestatieteam-zeker-tien-mensen-aanhoudt-in-veghel.html": {
+   "titel": "Politie doorzoekt autosloperij nadat arrestatieteam zeker tien mensen aanhoudt in Veghel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721957/politie-doorzoekt-autosloperij-nadat-arrestatieteam-zeker-tien-mensen-aanhoudt-in-veghel.html",
+   "tekst": "",
+   "datum": "2026-11-26T17:25:11+00:00",
+   "eerst_gezien": "2026-11-26T17:38:46.092438+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 18:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108721802/paul-nuijten-gelooft-nog-in-kentering-crisis-is-het-pas-als-je-het-echt-niet-meer-weet.html": {
    "titel": "Paul Nuijten gelooft nog in kentering: `Crisis is het pas als je het echt niet meer weet`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108721802/paul-nuijten-gelooft-nog-in-kentering-crisis-is-het-pas-als-je-het-echt-niet-meer-weet.html",
@@ -4109,22 +4109,6 @@
   "https://drimble.nl/regio/noord-brabant/helmond/108720656/mucella-heeft-een-gym-voor-vrouwen-ik-heb-de-schoolboeken-verruild-voor-dumbbells.html": {
    "titel": "Mücella heeft een gym voor vrouwen: `Ik heb de schoolboeken verruild voor dumbbells`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108720656/mucella-heeft-een-gym-voor-vrouwen-ik-heb-de-schoolboeken-verruild-voor-dumbbells.html",
-   "tekst": "",
-   "datum": "2026-11-26T15:01:05+00:00",
-   "eerst_gezien": "2026-11-26T15:14:09.277227+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108720654/van-nistelrooij-reunie-in-madrid-trekt-veel-bekijks-de-mensen-vonden-het-wel-bijzonder-geloof-ik.html": {
-   "titel": "Van Nistelrooij-reünie in Madrid trekt veel bekijks: `De mensen vonden het wel bijzonder, geloof ik`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720654/van-nistelrooij-reunie-in-madrid-trekt-veel-bekijks-de-mensen-vonden-het-wel-bijzonder-geloof-ik.html",
    "tekst": "",
    "datum": "2026-11-26T15:01:05+00:00",
    "eerst_gezien": "2026-11-26T15:14:09.277227+00:00",
@@ -4666,6 +4650,39 @@
    "bron": "Drimble Someren",
    "gemeenten": [
     "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/": {
+   "titel": "Reportage ‘Het zit echt hier’ blikt terug op carnaval in Asten",
+   "link": "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/",
+   "tekst": "CS de Klot vertoont in Asten de reportage ‘Het zit echt hier’ over de carnavalsbeleving in Klotland. De film is vrijdag 11 en vrijdag 18 december te zien in gemeenschapshuis ’t Kwartier aan de Kerkstraat 8.",
+   "datum": "2026-11-25T15:53:00+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 16:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720654/van-nistelrooij-reunie-in-madrid-trekt-veel-bekijks-de-mensen-vonden-het-wel-bijzonder-geloof-ik.html": {
+   "titel": "Van Nistelrooij-reünie in Madrid trekt veel bekijks: `De mensen vonden het wel bijzonder, geloof ik`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720654/van-nistelrooij-reunie-in-madrid-trekt-veel-bekijks-de-mensen-vonden-het-wel-bijzonder-geloof-ik.html",
+   "tekst": "",
+   "datum": "2026-11-26T15:01:05+00:00",
+   "eerst_gezien": "2026-11-26T15:14:09.277227+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -17778,39 +17795,6 @@
    "prio": false,
    "tijd": "19-11 19:30"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650819/druk-neemt-toe-voor-helmond-sport-in-kelderkraker-tegen-dordrecht-we-moeten-toch-een-keer-onze-punten-sprokkelen.html": {
-   "titel": "Druk neemt toe voor Helmond Sport in kelderkraker tegen Dordrecht: `We moeten toch een kéér onze punten sprokkelen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650819/druk-neemt-toe-voor-helmond-sport-in-kelderkraker-tegen-dordrecht-we-moeten-toch-een-keer-onze-punten-sprokkelen.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:36:06+00:00",
-   "eerst_gezien": "2026-11-19T17:49:28.568248+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 18:36"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650788/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html": {
-   "titel": "`Game-griep` om GTA 6 te spelen blijft uit in Veghel: `Ik moest naar school van mijn moeder`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650788/game-griep-om-gta-6-te-spelen-blijft-uit-in-veghel-ik-moest-naar-school-van-mijn-moeder.html",
-   "tekst": "",
-   "datum": "2026-11-19T17:31:03+00:00",
-   "eerst_gezien": "2026-11-19T17:33:18.893012+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
    "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
@@ -17873,7 +17857,7 @@
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
@@ -17968,7 +17952,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
