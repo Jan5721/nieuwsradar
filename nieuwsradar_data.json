@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 12:13",
+ "bijgewerkt": "26-11-2026 12:29",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -769,6 +769,23 @@
    "prio": false,
    "tijd": "19-11 16:15"
   },
+  "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/": {
+   "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
+   "link": "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/",
+   "tekst": "Een nieuwe braadpan scoren, op zoek naar een goed koksmes of inspiratie opdoen voor je volgende etentje? Helmondse hobbykoks hebben er een nieuw adresje bij. In de binnenstad is Coenen Kookwinkel geopend.",
+   "datum": "2026-11-26T11:13:45+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 12:13"
+  },
   "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/": {
    "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
    "link": "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/",
@@ -781,7 +798,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 12:12"
@@ -798,7 +815,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 12:12"
@@ -1008,23 +1025,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:27"
-  },
-  "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/": {
-   "titel": "Afgelopen week 10 meldingen van de gemeente over onder meer bouw in Someren",
-   "link": "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/",
-   "tekst": "In de afgelopen week heeft de gemeente Someren in totaal tien vergunningaanvragen verwerkt, waarvanin ieder geval acht voor Someren en één voor Lierop. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-25T10:01:52+00:00",
-   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:01"
   },
   "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren": {
    "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
@@ -3804,6 +3804,102 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718907/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend.html": {
+   "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718907/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:25:13+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718865/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout.html": {
+   "titel": "Damiaanparochie Helmond zoekt zangers voor peuter- en kleuterkerstviering in Stiphout",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718865/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:19:03+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718864/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
+   "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718864/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:19:03+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718863/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend.html": {
+   "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718863/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:19:02+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718820/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout.html": {
+   "titel": "Damiaanparochie Helmond zoekt zangers voor peuter- en kleuterkerstviering in Stiphout",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718820/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:13:23+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718819/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
+   "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718819/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:13:23+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108718567/verhuurder-eist-ontruiming-van-ryan-bahadoers-restaurant-de-linnenhof-terwijl-kerstmenu-al-klaarstaat.html": {
    "titel": "Verhuurder eist ontruiming van Ryan Bahadoers restaurant De Linnenhof, terwijl kerstmenu al klaarstaat",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108718567/verhuurder-eist-ontruiming-van-ryan-bahadoers-restaurant-de-linnenhof-terwijl-kerstmenu-al-klaarstaat.html",
@@ -3816,7 +3912,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:49"
@@ -3939,69 +4035,19 @@
    "prio": false,
    "tijd": "26-11 09:19"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108716865/raadslid-zet-vraagtekens-bij-30000-euro-subsidie-voor-eindhovense-suriname-tentoonstelling.html": {
-   "titel": "Raadslid zet vraagtekens bij 30.000 euro subsidie voor Eindhovense Suriname-tentoonstelling",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716865/raadslid-zet-vraagtekens-bij-30000-euro-subsidie-voor-eindhovense-suriname-tentoonstelling.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108718933/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
+   "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718933/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html",
    "tekst": "",
-   "datum": "2026-11-26T07:19:02+00:00",
-   "eerst_gezien": "2026-11-26T07:27:11.592108+00:00",
-   "bron": "Drimble Helmond",
+   "datum": "2026-11-26T11:28:04+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 08:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108716715/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
-   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716715/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
-   "tekst": "",
-   "datum": "2026-11-26T06:49:08+00:00",
-   "eerst_gezien": "2026-11-26T06:54:54.426354+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108716714/vraagtekens-bij-30000-euro-voor-expositie-in-eindhoven-over-onafhankelijkheid-suriname.html": {
-   "titel": "Vraagtekens bij 30.000 euro voor expositie in Eindhoven over onafhankelijkheid Suriname",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716714/vraagtekens-bij-30000-euro-voor-expositie-in-eindhoven-over-onafhankelijkheid-suriname.html",
-   "tekst": "",
-   "datum": "2026-11-26T06:49:08+00:00",
-   "eerst_gezien": "2026-11-26T06:54:54.426354+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 07:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108716586/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
-   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716586/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
-   "tekst": "",
-   "datum": "2026-11-26T06:31:03+00:00",
-   "eerst_gezien": "2026-11-26T06:38:52.057552+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -4153,39 +4199,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108685220/vogelexcursie-wintergasten-in-de-deurnsche-peel.html": {
-   "titel": "Vogelexcursie - wintergasten in de Deurnsche Peel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685220/vogelexcursie-wintergasten-in-de-deurnsche-peel.html",
-   "tekst": "23 november 2026 - De Deurnsche Peel is een belangrijk vogelgebied. In de winter is de Deurnsche Peel de favoriete overwinterplek voor...",
-   "datum": "2026-11-23T09:35:07+00:00",
-   "eerst_gezien": "2026-11-23T09:43:55.447469+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 10:35"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html": {
-   "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html",
-   "tekst": "Het schoolbestuur van basisschool De Zeilberg in Deurne staat voor een enorme klus. Bestuurder Mischa Kleukers moet onderdak vinden...",
-   "datum": "2026-11-22T22:17:05+00:00",
-   "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108718593/video-astens-mannenkoor-kijkt-terug-op-plezierig-herfstbockconcert-bezoekers-zongen-volop-mee.html": {
    "titel": "[VIDEO] Astens Mannenkoor kijkt terug op plezierig Herfstbockconcert: ´Bezoekers zongen volop mee´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108718593/video-astens-mannenkoor-kijkt-terug-op-plezierig-herfstbockconcert-bezoekers-zongen-volop-mee.html",
@@ -4219,6 +4232,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 09:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716715/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
+   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716715/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
+   "tekst": "",
+   "datum": "2026-11-26T06:49:08+00:00",
+   "eerst_gezien": "2026-11-26T06:54:54.426354+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108713379/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren.html": {
    "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
@@ -4553,7 +4582,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 12:06"
@@ -5135,6 +5164,106 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 15:06"
+  },
+  "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/": {
+   "titel": "Afgelopen week 10 meldingen van de gemeente over onder meer bouw in Someren",
+   "link": "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/",
+   "tekst": "In de afgelopen week heeft de gemeente Someren in totaal tien vergunningaanvragen verwerkt, waarvanin ieder geval acht voor Someren en één voor Lierop. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-25T10:01:52+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716865/raadslid-zet-vraagtekens-bij-30000-euro-subsidie-voor-eindhovense-suriname-tentoonstelling.html": {
+   "titel": "Raadslid zet vraagtekens bij 30.000 euro subsidie voor Eindhovense Suriname-tentoonstelling",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716865/raadslid-zet-vraagtekens-bij-30000-euro-subsidie-voor-eindhovense-suriname-tentoonstelling.html",
+   "tekst": "",
+   "datum": "2026-11-26T07:19:02+00:00",
+   "eerst_gezien": "2026-11-26T07:27:11.592108+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 08:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716714/vraagtekens-bij-30000-euro-voor-expositie-in-eindhoven-over-onafhankelijkheid-suriname.html": {
+   "titel": "Vraagtekens bij 30.000 euro voor expositie in Eindhoven over onafhankelijkheid Suriname",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716714/vraagtekens-bij-30000-euro-voor-expositie-in-eindhoven-over-onafhankelijkheid-suriname.html",
+   "tekst": "",
+   "datum": "2026-11-26T06:49:08+00:00",
+   "eerst_gezien": "2026-11-26T06:54:54.426354+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716586/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
+   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716586/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
+   "tekst": "",
+   "datum": "2026-11-26T06:31:03+00:00",
+   "eerst_gezien": "2026-11-26T06:38:52.057552+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108685220/vogelexcursie-wintergasten-in-de-deurnsche-peel.html": {
+   "titel": "Vogelexcursie - wintergasten in de Deurnsche Peel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108685220/vogelexcursie-wintergasten-in-de-deurnsche-peel.html",
+   "tekst": "23 november 2026 - De Deurnsche Peel is een belangrijk vogelgebied. In de winter is de Deurnsche Peel de favoriete overwinterplek voor...",
+   "datum": "2026-11-23T09:35:07+00:00",
+   "eerst_gezien": "2026-11-23T09:43:55.447469+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 10:35"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html": {
+   "titel": "School na brand deels verwoest, grootste zorg ligt bij de 300 leerlingen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108681228/school-na-brand-deels-verwoest-grootste-zorg-ligt-bij-de-300-leerlingen.html",
+   "tekst": "Het schoolbestuur van basisschool De Zeilberg in Deurne staat voor een enorme klus. Bestuurder Mischa Kleukers moet onderdak vinden...",
+   "datum": "2026-11-22T22:17:05+00:00",
+   "eerst_gezien": "2026-11-22T22:27:34.833190+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126143810a2helmondrit140764": {
    "titel": "A2 Helmond Rit: 140764",
@@ -15125,23 +15254,6 @@
    "prio": false,
    "tijd": "20-11 19:40"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html": {
-   "titel": "Koppelwinst Benelux Open 2026 voor Van der Doelen/Reiniers en Krug/Vermeulen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647614/koppelwinst-benelux-open-2026-voor-van-der-doelenreiniers-en-krugvermeulen.html",
-   "tekst": "54 koppels stonden er aan de start van het Benelux Open 2026 in Deurne. Spanning tot de laatste pijlWat een ontknoping bij de Heren...",
-   "datum": "2026-11-19T11:16:02+00:00",
-   "eerst_gezien": "2026-11-19T11:19:37.599125+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:16"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
@@ -17860,23 +17972,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647727/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
-   "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647727/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:25:12+00:00",
-   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:25"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648136/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html": {
    "titel": "Twee Eindhovenaren staan terecht om drugs, maar mocht de politie wel ingrijpen'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648136/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html",
@@ -17893,40 +17988,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 13:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647594/tilburg-university-en-tu-eindhoven-schrijven-student-uit-na-jarenlange-intimidatie-hij-vecht-terug.html": {
-   "titel": "Tilburg University en TU Eindhoven schrijven student uit na jarenlange intimidatie, hij vecht terug",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647594/tilburg-university-en-tu-eindhoven-schrijven-student-uit-na-jarenlange-intimidatie-hij-vecht-terug.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:13:07+00:00",
-   "eerst_gezien": "2026-11-19T11:19:37.599125+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
-   "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:19:02+00:00",
-   "eerst_gezien": "2026-11-19T11:19:37.599125+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:19"
   }
  },
  "bronnen": {
@@ -17947,7 +18008,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -17962,7 +18023,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -18032,17 +18093,17 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 10,
    "fout": ""
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Someren": {
@@ -18052,12 +18113,12 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   }
  }
