@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 01:29",
+ "bijgewerkt": "26-11-2026 01:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -4668,23 +4668,6 @@
    "prio": false,
    "tijd": "25-11 08:20"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561": {
-   "titel": "A2 Helmond Rit: 140561",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561",
-   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T07:37:46+01:00",
-   "eerst_gezien": "2026-11-25T06:41:38.719048+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 07:37"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -4701,6 +4684,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561": {
+   "titel": "A2 Helmond Rit: 140561",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561",
+   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T07:37:46+01:00",
+   "eerst_gezien": "2026-11-25T06:41:38.719048+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 07:37"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711659/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
    "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
@@ -17679,7 +17679,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
