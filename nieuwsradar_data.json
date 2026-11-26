@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 10:04",
+ "bijgewerkt": "26-11-2026 10:20",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -1385,23 +1385,6 @@
    "prio": false,
    "tijd": "19-11 16:08"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond": {
-   "titel": "Extra woning en samengevoegde winkels aan Heistraat in Helmond",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035384/extra-woning-en-samengevoegde-winkels-aan-heistraat-in-helmond",
-   "tekst": "19 november 2026 Er is toestemming gegeven voor het samenvoegen van winkels en het realiseren van een extra woning boven aan Heistraat 193 in Helmond.",
-   "datum": "2026-11-19T09:09:47.831589+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:09"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden": {
    "titel": "Man gepakt na melding van steekpartij, slachtoffer later gevonden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035311/man-gepakt-na-melding-van-steekpartij-slachtoffer-later-gevonden",
@@ -2239,6 +2222,23 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036299/vergunning-voor-verbouwing-hemelaar-24-in-lierop-verleend": {
+   "titel": "Vergunning voor verbouwing Hemelaar 24 in Lierop verleend",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036299/vergunning-voor-verbouwing-hemelaar-24-in-lierop-verleend",
+   "tekst": "",
+   "datum": "2026-11-26T09:20:18.888539+00:00",
+   "eerst_gezien": "2026-11-26T09:20:18.888539+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 10:20"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036059/harriet-bongers-bouwmans-krijgt-koninklijke-onderscheiding": {
    "titel": "Harriet Bongers-Bouwmans krijgt Koninklijke onderscheiding",
    "link": "https://www.omroepbrabant.nl/nieuws/6036059/harriet-bongers-bouwmans-krijgt-koninklijke-onderscheiding",
@@ -2259,7 +2259,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december": {
    "titel": "Dorpsoverleg Lierop bespreekt toekomst op 3 december",
    "link": "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december",
-   "tekst": "Op donderdag 3 december organiseert het Dorpsoverleg Lierop een openbare vergadering in De Vurtuin. Tijdens deze bijeenkomst worden actuele onderwerpen besproken, zoals wonen in Lierop en de reconstructie van Eindje en Lungendonk.",
+   "tekst": "zondag Op donderdag 3 december organiseert het Dorpsoverleg Lierop een openbare vergadering in De Vurtuin. Tijdens deze bijeenkomst worden actuele onderwerpen besproken, zoals wonen in Lierop en de reconstructie van Eindje en Lungendonk.",
    "datum": "2026-11-23T08:38:52.887265+00:00",
    "eerst_gezien": "2026-11-23T08:38:52.887265+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2507,7 +2507,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 09:35"
@@ -3822,6 +3822,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108717681/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html": {
+   "titel": "Groen, hoogbouw en een buslijn naar Eindhoven: zo moet De Run eruit gaan zien",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717681/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html",
+   "tekst": "",
+   "datum": "2026-11-26T09:19:02+00:00",
+   "eerst_gezien": "2026-11-26T09:20:18.888539+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 10:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108717264/duizenden-klanten-dreigen-e-mailadres-kwijt-te-raken-door-nieuwe-kpn-maildienst-daar-zijn-peter-en-marian-niet-blij-mee.html": {
    "titel": "Duizenden klanten dreigen e-mailadres kwijt te raken door nieuwe KPN-maildienst, daar zijn Peter en Marian niet blij mee",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108717264/duizenden-klanten-dreigen-e-mailadres-kwijt-te-raken-door-nieuwe-kpn-maildienst-daar-zijn-peter-en-marian-niet-blij-mee.html",
@@ -4053,22 +4070,6 @@
    "prio": false,
    "tijd": "25-11 21:25"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711833/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
-   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711833/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:43:19+00:00",
-   "eerst_gezien": "2026-11-25T19:56:00.249713+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html",
@@ -4262,7 +4263,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 09:53"
@@ -4605,6 +4606,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126100729a2helmondrit141058": {
+   "titel": "A2 Helmond Rit: 141058",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126100729a2helmondrit141058",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T10:07:29+01:00",
+   "eerst_gezien": "2026-11-26T09:20:18.888539+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 10:07"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126095055a1deurnerit141050": {
    "titel": "A1 Deurne Rit: 141050",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126095055a1deurnerit141050",
@@ -4617,7 +4635,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 09:50"
@@ -5216,6 +5234,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711833/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
+   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711833/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:43:19+00:00",
+   "eerst_gezien": "2026-11-25T19:56:00.249713+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108671269/streekvervoer-ligt-maandag-en-dinsdag-stil-door-landelijke-staking-ook-in-asten-en-someren.html": {
    "titel": "Streekvervoer ligt maandag en dinsdag stil door landelijke staking, ook in Asten en Someren",
@@ -8250,23 +8284,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 10:20"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126100850a2helmondrit140194": {
-   "titel": "A2 Helmond Rit: 140194",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126100850a2helmondrit140194",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T10:08:50+01:00",
-   "eerst_gezien": "2026-11-24T09:15:19.065029+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 10:08"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108703961/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
    "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
@@ -17743,56 +17760,6 @@
    "prio": false,
    "tijd": "19-11 10:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646465/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html": {
-   "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646465/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:13:05+00:00",
-   "eerst_gezien": "2026-11-19T09:25:55.825908+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646464/maikel-ziet-dagelijks-wat-er-misgaat-als-zorg-te-laat-komt-ook-bij-mensen-bij-wie-vanavond-niemand-belt.html": {
-   "titel": "Maikel ziet dagelijks wat er misgaat als zorg te laat komt: `Ook bij mensen bij wie vanavond niemand belt`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646464/maikel-ziet-dagelijks-wat-er-misgaat-als-zorg-te-laat-komt-ook-bij-mensen-bij-wie-vanavond-niemand-belt.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:13:05+00:00",
-   "eerst_gezien": "2026-11-19T09:25:55.825908+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646453/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html": {
-   "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646453/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:11:43+00:00",
-   "eerst_gezien": "2026-11-19T09:25:55.825908+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
    "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
@@ -17810,55 +17777,6 @@
    "prio": false,
    "tijd": "19-11 12:19"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646425/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen.html": {
-   "titel": "Bibliotheek Helmond-Peel biedt ruimte voor gesprek over verslavingsproblemen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646425/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:07:23+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646424/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html": {
-   "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646424/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:07:23+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646423/maikel-ziet-dagelijks-wat-er-misgaat-als-zorg-te-laat-komt-ook-bij-mensen-bij-wie-vanavond-niemand-belt.html": {
-   "titel": "Maikel ziet dagelijks wat er misgaat als zorg te laat komt: `Ook bij mensen bij wie vanavond niemand belt`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646423/maikel-ziet-dagelijks-wat-er-misgaat-als-zorg-te-laat-komt-ook-bij-mensen-bij-wie-vanavond-niemand-belt.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:07:23+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647444/jos-vroemen-94-verpandde-zijn-hart-aan-de-daklozen-oud-directeur-labrehuis-overleden.html": {
    "titel": "Jos Vroemen (94) verpandde zijn hart aan de daklozen; oud-directeur Labrehuis overleden",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647444/jos-vroemen-94-verpandde-zijn-hart-aan-de-daklozen-oud-directeur-labrehuis-overleden.html",
@@ -17875,22 +17793,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 12:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646397/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html": {
-   "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646397/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:04:34+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108647254/door-coen-werd-het-rapport-over-de-vliegramp-in-strijp-niet-vernietigd-ruim-100-dagen-in-het-archief-met-2000-kopieen.html": {
    "titel": "Door Coen werd het rapport over de vliegramp in Strijp niet vernietigd: `Ruim 100 dagen in het archief met 2000 kopieën...",
@@ -17970,7 +17872,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -17985,7 +17887,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18050,7 +17952,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 36,
    "fout": ""
   },
   "112Brabant": {
