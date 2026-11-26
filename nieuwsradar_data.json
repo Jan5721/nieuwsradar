@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 00:17",
+ "bijgewerkt": "27-11-2026 00:33",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -2000,27 +2000,10 @@
    "prio": false,
    "tijd": "23-11 16:54"
   },
-  "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht": {
-   "titel": "Stroomstoring in Asten: herstel verwacht rond één uur vannacht",
-   "link": "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht",
-   "tekst": "",
-   "datum": "2026-11-26T20:36:12.849812+00:00",
-   "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 21:36"
-  },
   "https://www.omroepbrabant.nl/nieuws/6036331/waterstoring-rond-de-logtenstraat-in-asten": {
    "titel": "Waterstoring rond de Logtenstraat in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6036331/waterstoring-rond-de-logtenstraat-in-asten",
-   "tekst": "De waterstoring door een lekkage in en rond de Logtenstraat in Asten is opgelost. Bewoners hadden sinds vanochtend last van geen water, lage waterdruk of bruin water.",
+   "tekst": "",
    "datum": "2026-11-26T11:44:45.238753+00:00",
    "eerst_gezien": "2026-11-26T11:44:45.238753+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2054,7 +2037,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035977/gezinnen-met-laag-inkomen-mogen-gratis-naar-museum-klok-peel-in-asten": {
    "titel": "Gezinnen met laag inkomen mogen gratis naar Museum Klok & Peel in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035977/gezinnen-met-laag-inkomen-mogen-gratis-naar-museum-klok-peel-in-asten",
-   "tekst": "dinsdag Gezinnen met een laag inkomen kunnen tussen 21 december en 3 januari gratis Museum Klok & Peel in Asten bezoeken. Deze actie is mogelijk dankzij samenwerking tussen Stichting Leergeld en het museum, met steun van de gemeenten Asten …",
+   "tekst": "Gezinnen met een laag inkomen kunnen tussen 21 december en 3 januari gratis Museum Klok & Peel in Asten bezoeken. Deze actie is mogelijk dankzij samenwerking tussen Stichting Leergeld en het museum, met steun van de gemeenten Asten en …",
    "datum": "2026-11-24T14:51:25.135845+00:00",
    "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -4559,6 +4542,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht": {
+   "titel": "Stroomstoring in Asten: herstel verwacht rond één uur vannacht",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht",
+   "tekst": "",
+   "datum": "2026-11-26T20:36:12.849812+00:00",
+   "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:36"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126230748a1helmondrit141380": {
    "titel": "A1 Helmond Rit: 141380",
@@ -8815,23 +8815,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 17:31"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126001754a2lieroprit140501": {
-   "titel": "A2 Lierop Rit: 140501",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126001754a2lieroprit140501",
-   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T00:17:54+01:00",
-   "eerst_gezien": "2026-11-24T23:28:30.445867+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 00:17"
   },
   "https://www.ed.nl/helmond/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten~a77ab34c8/": {
    "titel": "‘Groundhog Day’ in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
@@ -18253,7 +18236,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -18323,7 +18306,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
