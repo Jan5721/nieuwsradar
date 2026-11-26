@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 06:03",
+ "bijgewerkt": "26-11-2026 06:19",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -3209,6 +3209,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716267/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
+   "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716267/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html",
+   "tekst": "",
+   "datum": "2026-11-26T05:13:02+00:00",
+   "eerst_gezien": "2026-11-26T05:18:38.599978+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 06:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
@@ -3475,22 +3492,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711662/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html",
    "tekst": "",
    "datum": "2026-11-25T19:13:25+00:00",
-   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711660/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
-   "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711660/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:13:24+00:00",
    "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -4119,7 +4120,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 05:52"
@@ -4718,6 +4719,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711660/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
+   "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711660/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:13:24+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561": {
    "titel": "A2 Helmond Rit: 140561",
