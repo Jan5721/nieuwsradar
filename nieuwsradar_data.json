@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 19:43",
+ "bijgewerkt": "26-11-2026 19:59",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -4736,7 +4736,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 19:42"
@@ -17797,40 +17797,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651308/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html": {
-   "titel": "Vakbonden zoeken opnieuw contact met ASML na vastgelopen reorganisatie: `We moeten het vertrouwen herstellen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651308/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:49:06+00:00",
-   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651307/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
-   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651307/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:49:06+00:00",
-   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
