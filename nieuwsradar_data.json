@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 17:35",
+ "bijgewerkt": "26-11-2026 17:51",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -815,7 +815,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:30"
@@ -968,7 +968,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:30"
@@ -1020,7 +1020,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:30"
@@ -1089,7 +1089,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:30"
@@ -1383,23 +1383,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 08:16"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond": {
-   "titel": "Twee gewonden bij botsing in Helmond",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond",
-   "tekst": "19 november 2026 Bij een botsing tussen twee auto's aan de Deurneseweg in Helmond zijn donderdag twee mensen gewond geraakt. Ze zijn allebei naar het ziekenhuis gebracht.",
-   "datum": "2026-11-19T16:45:04.272127+00:00",
-   "eerst_gezien": "2026-11-19T16:45:04.272127+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:45"
   },
   "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne": {
    "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
@@ -2545,6 +2528,74 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
   },
   "https://www.deurne.nl/nieuws/leerlingen-basisschool-zeilberg-krijgen-tijdelijk-les-in-someren": {
    "titel": "Leerlingen basisschool Zeilberg krijgen tijdelijk les in Someren",
@@ -3822,6 +3873,55 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721681/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee.html": {
+   "titel": "Borstkankeronderzoek: bijna zeven op de tien vrouwen uit Helmond deden mee",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721681/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee.html",
+   "tekst": "",
+   "datum": "2026-11-26T16:49:09+00:00",
+   "eerst_gezien": "2026-11-26T16:50:38.981433+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721679/nieuwe-duitse-kebabzaak-opent-in-eindhoven-vlak-bij-succesformule-hizmet.html": {
+   "titel": "Nieuwe Duitse kebabzaak opent in Eindhoven vlak bij succesformule Hizmet",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721679/nieuwe-duitse-kebabzaak-opent-in-eindhoven-vlak-bij-succesformule-hizmet.html",
+   "tekst": "",
+   "datum": "2026-11-26T16:49:08+00:00",
+   "eerst_gezien": "2026-11-26T16:50:38.981433+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721623/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee.html": {
+   "titel": "Borstkankeronderzoek: bijna zeven op de tien vrouwen uit Helmond deden mee",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721623/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee.html",
+   "tekst": "",
+   "datum": "2026-11-26T16:43:16+00:00",
+   "eerst_gezien": "2026-11-26T16:50:38.981433+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html": {
    "titel": "Ein Döner bitte: nog een Duitse kebabketen komt naar Eindhoven, met tijdelijk broodjes voor 5 cent",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html",
@@ -4089,55 +4189,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 15:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108720593/chauffeur-die-eindhovense-guusje-16-doodreed-in-hoger-beroep-tegen-straf.html": {
-   "titel": "Chauffeur die Eindhovense Guusje (16) doodreed, in hoger beroep tegen straf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720593/chauffeur-die-eindhovense-guusje-16-doodreed-in-hoger-beroep-tegen-straf.html",
-   "tekst": "",
-   "datum": "2026-11-26T14:49:07+00:00",
-   "eerst_gezien": "2026-11-26T14:57:55.468409+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108720539/oekraiense-dansers-van-charkiv-city-ballet-treden-op-in-brabant-nederland-is-bijna-een-sprookje.html": {
-   "titel": "Oekraïense dansers van Charkiv City Ballet treden op in Brabant: `Nederland is bijna een sprookje`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720539/oekraiense-dansers-van-charkiv-city-ballet-treden-op-in-brabant-nederland-is-bijna-een-sprookje.html",
-   "tekst": "",
-   "datum": "2026-11-26T14:43:16+00:00",
-   "eerst_gezien": "2026-11-26T14:57:55.468409+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108720440/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html": {
-   "titel": "Provincie kiest voorkeursroute voor ondergrondse stroomkabel tussen Eindhoven en Maarheeze",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720440/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html",
-   "tekst": "",
-   "datum": "2026-11-26T14:31:03+00:00",
-   "eerst_gezien": "2026-11-26T14:41:57.844866+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 15:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
    "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
@@ -4667,39 +4718,6 @@
    "bron": "Drimble Someren",
    "gemeenten": [
     "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast": {
-   "titel": "Wegversmalling Meijelseweg in Heusden wordt aangepast",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast",
-   "tekst": "12 november 2026 De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html": {
-   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op ´Manga Maandag´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html",
-   "tekst": "",
-   "datum": "2026-11-26T13:49:09+00:00",
-   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5251,6 +5269,88 @@
    "prio": false,
    "tijd": "26-11 04:32"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720593/chauffeur-die-eindhovense-guusje-16-doodreed-in-hoger-beroep-tegen-straf.html": {
+   "titel": "Chauffeur die Eindhovense Guusje (16) doodreed, in hoger beroep tegen straf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720593/chauffeur-die-eindhovense-guusje-16-doodreed-in-hoger-beroep-tegen-straf.html",
+   "tekst": "",
+   "datum": "2026-11-26T14:49:07+00:00",
+   "eerst_gezien": "2026-11-26T14:57:55.468409+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720539/oekraiense-dansers-van-charkiv-city-ballet-treden-op-in-brabant-nederland-is-bijna-een-sprookje.html": {
+   "titel": "Oekraïense dansers van Charkiv City Ballet treden op in Brabant: `Nederland is bijna een sprookje`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720539/oekraiense-dansers-van-charkiv-city-ballet-treden-op-in-brabant-nederland-is-bijna-een-sprookje.html",
+   "tekst": "",
+   "datum": "2026-11-26T14:43:16+00:00",
+   "eerst_gezien": "2026-11-26T14:57:55.468409+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720440/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html": {
+   "titel": "Provincie kiest voorkeursroute voor ondergrondse stroomkabel tussen Eindhoven en Maarheeze",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720440/provincie-kiest-voorkeursroute-voor-ondergrondse-stroomkabel-tussen-eindhoven-en-maarheeze.html",
+   "tekst": "",
+   "datum": "2026-11-26T14:31:03+00:00",
+   "eerst_gezien": "2026-11-26T14:41:57.844866+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 15:31"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast": {
+   "titel": "Wegversmalling Meijelseweg in Heusden wordt aangepast",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast",
+   "tekst": "12 november 2026 De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html": {
+   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op ´Manga Maandag´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html",
+   "tekst": "",
+   "datum": "2026-11-26T13:49:09+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126001822a2helmondrit140942": {
    "titel": "A2 Helmond Rit: 140942",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126001822a2helmondrit140942",
@@ -5284,74 +5384,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 00:03"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
-   "datum": "2026-11-26T08:35:50+00:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 09:35"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108720053/arrestatieteam-houdt-meerdere-mensen-aan-op-twee-plekken-in-veghel.html": {
    "titel": "Arrestatieteam houdt meerdere mensen aan op twee plekken in Veghel",
@@ -8555,23 +8587,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388": {
-   "titel": "A2 Helmond Rit: 140388",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126173752a2helmondrit140388",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T17:37:52+01:00",
-   "eerst_gezien": "2026-11-24T16:44:12.258936+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 17:37"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108707624/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
    "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
@@ -17500,23 +17515,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
-   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650479/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:43:15+00:00",
-   "eerst_gezien": "2026-11-19T16:45:04.272127+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:43"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html",
@@ -17814,23 +17812,6 @@
    "prio": false,
    "tijd": "19-11 18:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650508/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen.html": {
-   "titel": "Nieuwe eigenaar wil oude varkensstal weer in gebruik nemen, maar Animal Rights is keihard: `Sowieso veel mis met die stallen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650508/nieuwe-eigenaar-wil-oude-varkensstal-weer-in-gebruik-nemen-maar-animal-rights-is-keihard-sowieso-veel-mis-met-die-stallen.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:49:08+00:00",
-   "eerst_gezien": "2026-11-19T17:01:08.434945+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
    "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
@@ -17908,7 +17889,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -17927,9 +17908,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "ParseError: no element found: line 2, column 0"
+   "ok": true,
+   "aantal": 4,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -17988,7 +17969,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
