@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 12:29",
+ "bijgewerkt": "26-11-2026 12:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -781,7 +781,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 12:13"
@@ -923,23 +923,6 @@
    "prio": false,
    "tijd": "25-11 13:16"
   },
-  "https://www.ed.nl/helmond/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam~adfc0da4/": {
-   "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
-   "link": "https://www.ed.nl/helmond/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam~adfc0da4/",
-   "tekst": "De gemeente Helmond heeft rolstoeltennisser Niels Vink geëerd nadat hij in september een Calendar Slam behaalde. Om deze prestatie te eren overhandigde wethouder Martijn Rieter een kunstwerk van stadskunstenaar Ilse van Kraaij aan de Helmondse topsporter.",
-   "datum": "2026-11-25T11:05:53+00:00",
-   "eerst_gezien": "2026-11-25T11:14:11.610986+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 12:05"
-  },
   "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/": {
    "titel": "Ouderen leren valse mails en appjes herkennen in Deurne",
    "link": "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/",
@@ -973,23 +956,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:15"
-  },
-  "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/": {
-   "titel": "Afgelopen week 12 meldingen van de gemeente over onder meer bouw in Deurne",
-   "link": "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/",
-   "tekst": "In de afgelopen week heeft de gemeente Deurne in totaal twaalf vergunningaanvragen verwerkt, waarvan elf voor Deurne en één voor Liessel. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-25T10:02:02+00:00",
-   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:02"
   },
   "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/": {
    "titel": "Reportage ‘Het zit echt hier’ blikt terug op carnaval in Asten",
@@ -1949,10 +1915,27 @@
    "prio": false,
    "tijd": "23-11 16:54"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036331/waterstoring-rond-de-logtenstraat-in-asten": {
+   "titel": "Waterstoring rond de Logtenstraat in Asten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036331/waterstoring-rond-de-logtenstraat-in-asten",
+   "tekst": "",
+   "datum": "2026-11-26T11:44:45.238753+00:00",
+   "eerst_gezien": "2026-11-26T11:44:45.238753+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 12:44"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036253/vergunning-verlengd-voor-tijdelijke-woonunit-in-heusden": {
    "titel": "Vergunning verlengd voor tijdelijke woonunit in Heusden",
    "link": "https://www.omroepbrabant.nl/nieuws/6036253/vergunning-verlengd-voor-tijdelijke-woonunit-in-heusden",
-   "tekst": "",
+   "tekst": "De gemeente Asten heeft de vergunning voor een tijdelijke woonunit aan 't Hoekske 10b in Heusden verlengd. Het besluit is op 24 november 2026 verzonden.",
    "datum": "2026-11-26T08:48:18.472684+00:00",
    "eerst_gezien": "2026-11-26T08:48:18.472684+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -1986,7 +1969,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035978/gratis-energiespreekuur-bij-kluswijs-heusden": {
    "titel": "Gratis energiespreekuur bij KlusWijs Heusden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035978/gratis-energiespreekuur-bij-kluswijs-heusden",
-   "tekst": "Op zaterdag 12 december organiseert KlusWijs Heusden een gratis energiespreekuur in Asten. Deskundigen geven onafhankelijk advies over isoleren, energiebesparing en subsidies, waaronder een isolatievergoeding van de gemeente tot 1.800 euro.",
+   "tekst": "dinsdag Op zaterdag 12 december organiseert KlusWijs Heusden een gratis energiespreekuur in Asten. Deskundigen geven onafhankelijk advies over isoleren, energiebesparing en subsidies, waaronder een isolatievergoeding van de gemeente tot …",
    "datum": "2026-11-24T14:51:25.135845+00:00",
    "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -3804,6 +3787,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108719037/in-haar-dorp-was-geen-plaats-voor-sonjas-droom-in-beek-en-donk-kan-het-wel.html": {
+   "titel": "In haar dorp was geen plaats voor Sonja`s droom; in Beek en Donk kan het wel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108719037/in-haar-dorp-was-geen-plaats-voor-sonjas-droom-in-beek-en-donk-kan-het-wel.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:43:15+00:00",
+   "eerst_gezien": "2026-11-26T11:44:45.238753+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 12:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108718907/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend.html": {
    "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108718907/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend.html",
@@ -3816,7 +3816,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3832,7 +3832,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3848,7 +3848,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3864,7 +3864,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3880,7 +3880,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3896,7 +3896,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4018,29 +4018,12 @@
    "prio": false,
    "tijd": "26-11 10:25"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108717264/duizenden-klanten-dreigen-e-mailadres-kwijt-te-raken-door-nieuwe-kpn-maildienst-daar-zijn-peter-en-marian-niet-blij-mee.html": {
-   "titel": "Duizenden klanten dreigen e-mailadres kwijt te raken door nieuwe KPN-maildienst, daar zijn Peter en Marian niet blij mee",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717264/duizenden-klanten-dreigen-e-mailadres-kwijt-te-raken-door-nieuwe-kpn-maildienst-daar-zijn-peter-en-marian-niet-blij-mee.html",
-   "tekst": "",
-   "datum": "2026-11-26T08:19:04+00:00",
-   "eerst_gezien": "2026-11-26T08:32:21.046484+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 09:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108718933/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108718952/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
    "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718933/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718952/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html",
    "tekst": "",
-   "datum": "2026-11-26T11:28:04+00:00",
-   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "datum": "2026-11-26T11:29:06+00:00",
+   "eerst_gezien": "2026-11-26T11:44:45.238753+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -5164,6 +5147,73 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 15:06"
+  },
+  "https://www.ed.nl/helmond/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam~adfc0da4/": {
+   "titel": "Helmond eert rolstoeltennisser Niels Vink na behalen Calendar Slam",
+   "link": "https://www.ed.nl/helmond/helmond-eert-rolstoeltennisser-niels-vink-na-behalen-calendar-slam~adfc0da4/",
+   "tekst": "De gemeente Helmond heeft rolstoeltennisser Niels Vink geëerd nadat hij in september een Calendar Slam behaalde. Om deze prestatie te eren overhandigde wethouder Martijn Rieter een kunstwerk van stadskunstenaar Ilse van Kraaij aan de Helmondse topsporter.",
+   "datum": "2026-11-25T11:05:53+00:00",
+   "eerst_gezien": "2026-11-25T11:14:11.610986+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 12:05"
+  },
+  "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/": {
+   "titel": "Afgelopen week 12 meldingen van de gemeente over onder meer bouw in Deurne",
+   "link": "https://www.ed.nl/deurne/afgelopen-week-12-meldingen-van-de-gemeente-over-onder-meer-bouw-in-deurne~aaefacdf/",
+   "tekst": "In de afgelopen week heeft de gemeente Deurne in totaal twaalf vergunningaanvragen verwerkt, waarvan elf voor Deurne en één voor Liessel. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-25T10:02:02+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:02"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108717264/duizenden-klanten-dreigen-e-mailadres-kwijt-te-raken-door-nieuwe-kpn-maildienst-daar-zijn-peter-en-marian-niet-blij-mee.html": {
+   "titel": "Duizenden klanten dreigen e-mailadres kwijt te raken door nieuwe KPN-maildienst, daar zijn Peter en Marian niet blij mee",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717264/duizenden-klanten-dreigen-e-mailadres-kwijt-te-raken-door-nieuwe-kpn-maildienst-daar-zijn-peter-en-marian-niet-blij-mee.html",
+   "tekst": "",
+   "datum": "2026-11-26T08:19:04+00:00",
+   "eerst_gezien": "2026-11-26T08:32:21.046484+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718933/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
+   "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718933/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html",
+   "tekst": "",
+   "datum": "2026-11-26T11:28:04+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/someren/afgelopen-week-10-meldingen-van-de-gemeente-over-onder-meer-bouw-in-someren~a5a7386b/": {
    "titel": "Afgelopen week 10 meldingen van de gemeente over onder meer bouw in Someren",
@@ -8363,40 +8413,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126123458a0deurnerit140277": {
-   "titel": "A0 Deurne Rit: 140277",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126123458a0deurnerit140277",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T12:34:58+01:00",
-   "eerst_gezien": "2026-11-24T11:39:18.364901+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "24-11 12:34"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126123343a2deurnerit140276": {
-   "titel": "A2 Deurne Rit: 140276",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126123343a2deurnerit140276",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-24T12:33:43+01:00",
-   "eerst_gezien": "2026-11-24T11:39:18.364901+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 12:33"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108706453/spaanse-media-onder-de-indruk-van-psv-bosz-week-geen-centimeter-af-van-zijn-principes.html": {
    "titel": "Spaanse media onder de indruk van PSV: `Bosz week geen centimeter af van zijn principes`",
@@ -17906,72 +17922,6 @@
    "prio": false,
    "tijd": "19-11 12:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647869/brabant-wil-nieuwe-aanpak-via-grote-stikstofuitstoters.html": {
-   "titel": "Brabant wil nieuwe aanpak via grote stikstofuitstoters",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647869/brabant-wil-nieuwe-aanpak-via-grote-stikstofuitstoters.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:43:17+00:00",
-   "eerst_gezien": "2026-11-19T11:51:47.700948+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647867/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html": {
-   "titel": "BRIEVEN I `Wat een kinderachtig gesteggel altijd in de Tweede Kamer`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647867/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:43:17+00:00",
-   "eerst_gezien": "2026-11-19T11:51:47.700948+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 12:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647766/brabant-wil-nieuwe-aanpak-via-grote-stikstofuitstoters.html": {
-   "titel": "Brabant wil nieuwe aanpak via grote stikstofuitstoters",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647766/brabant-wil-nieuwe-aanpak-via-grote-stikstofuitstoters.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:31:03+00:00",
-   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647764/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html": {
-   "titel": "BRIEVEN I `Wat een kinderachtig gesteggel altijd in de Tweede Kamer`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647764/brieven-i-wat-een-kinderachtig-gesteggel-altijd-in-de-tweede-kamer.html",
-   "tekst": "",
-   "datum": "2026-11-19T11:31:03+00:00",
-   "eerst_gezien": "2026-11-19T11:35:47.423859+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648136/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html": {
    "titel": "Twee Eindhovenaren staan terecht om drugs, maar mocht de politie wel ingrijpen'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648136/twee-eindhovenaren-staan-terecht-om-drugs-maar-mocht-de-politie-wel-ingrijpen.html",
@@ -18008,12 +17958,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -18043,7 +17993,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
