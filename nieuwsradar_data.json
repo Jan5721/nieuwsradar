@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 14:05",
+ "bijgewerkt": "26-11-2026 14:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
    "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
@@ -548,23 +548,6 @@
    "prio": false,
    "tijd": "19-11 18:49"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-": {
-   "titel": "PLUS Bouwmans in Zeilberg is klaar voor de toekomst na grote verbouwing",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64790/plus-bouwmans-in-zeilberg-is-klaar-voor-de-toekomst-na-grote-",
-   "tekst": "ZEILBERG - Na een ingrijpende verbouwing maakt PLUS Bouwmans in Zeilberg zich op voor de heropening. Woensdag 25 november om 8.30 uur gaan de deuren van de vernieuwde supermarkt weer open. Klanten treffen er onder meer een uitgebreid assortiment verse producten, een vernieuwde …",
-   "datum": "2026-11-19T14:16:00+01:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:16"
-  },
   "https://www.peelbelangonline.nl/nieuws/sport/64919/lucas-van-dijk-wint-namens-soo-bak-gi-twee-gouden-plakken": {
    "titel": "Lucas van Dijk wint namens Soo Bak-Gi twee gouden plakken",
    "link": "https://www.peelbelangonline.nl/nieuws/sport/64919/lucas-van-dijk-wint-namens-soo-bak-gi-twee-gouden-plakken",
@@ -807,7 +790,7 @@
    "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
    "link": "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/",
    "tekst": "Een nieuwe braadpan scoren, op zoek naar een goed koksmes of inspiratie opdoen voor je volgende etentje? Helmondse hobbykoks hebben er een nieuw adresje bij. In de binnenstad is Coenen Kookwinkel geopend.",
-   "datum": "2026-11-26T11:13:45+00:00",
+   "datum": "2026-11-26T11:13:00+00:00",
    "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -940,23 +923,6 @@
    "prio": false,
    "tijd": "25-11 15:15"
   },
-  "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/": {
-   "titel": "De drukste weg van Helmond is weer deels open, met meer groen en minder asfalt en steen",
-   "link": "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/",
-   "tekst": "De drukste weg van Helmond is weer deels open. De eerste fase van de opknapbeurt van de Kasteel-Traverse zit erop. De gemeente verwacht dat de overlast in andere straten nu flink zal verminderen.",
-   "datum": "2026-11-25T12:16:00+00:00",
-   "eerst_gezien": "2026-11-25T12:18:00.453316+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 13:16"
-  },
   "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/": {
    "titel": "Ouderen leren valse mails en appjes herkennen in Deurne",
    "link": "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/",
@@ -973,6 +939,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:55"
+  },
+  "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/": {
+   "titel": "De drukste weg van Helmond is weer deels open, met meer groen en minder asfalt en steen",
+   "link": "https://www.ed.nl/helmond/de-drukste-weg-van-helmond-is-weer-deels-open-met-meer-groen-en-minder-asfalt-en-steen~a8e2b8e6/",
+   "tekst": "De drukste weg van Helmond is weer deels open. De eerste fase van de opknapbeurt van de Kasteel-Traverse zit erop. De gemeente verwacht dat de overlast in andere straten nu flink zal verminderen.",
+   "datum": "2026-11-25T12:16:00+00:00",
+   "eerst_gezien": "2026-11-25T12:18:00.453316+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 13:16"
   },
   "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/": {
    "titel": "Reportage ‘Het zit echt hier’ blikt terug op carnaval in Asten",
@@ -3816,7 +3799,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 14:01"
@@ -4548,7 +4531,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 13:53"
@@ -17658,23 +17641,6 @@
    "prio": false,
    "tijd": "19-11 14:29"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html": {
-   "titel": "Politie vindt bijna halve kilo amfetamine in big shopper, maar mocht ze de auto van Eindhovenaar wel stopzetten'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648706/politie-vindt-bijna-halve-kilo-amfetamine-in-big-shopper-maar-mocht-ze-de-auto-van-eindhovenaar-wel-stopzetten.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:13:10+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:13"
-  },
   "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
    "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
    "link": "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/",
@@ -17709,56 +17675,6 @@
    "prio": false,
    "tijd": "19-11 15:55"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648702/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html": {
-   "titel": "Truckers van Van Lankveld mogen niet in de cabine bij hun bedrijf slapen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648702/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:13:05+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648700/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html": {
-   "titel": "Stedelijk College opent vernieuwd schoolplein tijdens VMBO in Bedrijf-dag",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648700/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:13:05+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648660/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html": {
-   "titel": "Truckers van Van Lankveld mogen niet in de cabine bij hun bedrijf slapen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648660/truckers-van-van-lankveld-mogen-niet-in-de-cabine-bij-hun-bedrijf-slapen.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:07:22+00:00",
-   "eerst_gezien": "2026-11-19T13:12:32.970287+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108649168/voormalig-helmond-sport-speler-diego-van-zutphen-is-per-direct-inzetbaar-bij-una.html": {
    "titel": "Voormalig Helmond Sport-speler Diego van Zutphen is per direct inzetbaar bij UNA",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108649168/voormalig-helmond-sport-speler-diego-van-zutphen-is-per-direct-inzetbaar-bij-una.html",
@@ -17775,22 +17691,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 15:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648659/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html": {
-   "titel": "Stedelijk College opent vernieuwd schoolplein tijdens VMBO in Bedrijf-dag",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648659/stedelijk-college-opent-vernieuwd-schoolplein-tijdens-vmbo-in-bedrijf-dag.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:07:22+00:00",
-   "eerst_gezien": "2026-11-19T13:12:32.970287+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
    "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
@@ -17813,7 +17713,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 32,
    "fout": ""
   },
   "Peelbelang": {
@@ -17828,12 +17728,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
