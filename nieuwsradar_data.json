@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 13:49",
+ "bijgewerkt": "26-11-2026 14:05",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
    "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
@@ -3804,6 +3804,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108719633/jubileumconcert-symfonisch-collectief-in-nuenen.html": {
+   "titel": "Jubileumconcert Symfonisch Collectief in Nuenen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108719633/jubileumconcert-symfonisch-collectief-in-nuenen.html",
+   "tekst": "",
+   "datum": "2026-11-26T13:01:04+00:00",
+   "eerst_gezien": "2026-11-26T13:04:59.160670+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 14:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
    "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html",
@@ -4016,23 +4033,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html": {
-   "titel": "Chronische leukemie sloeg in als een donderslag voor Timo (25): `Ik wist niet of ik nog thuis zou komen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html",
-   "tekst": "",
-   "datum": "2026-11-26T09:49:08+00:00",
-   "eerst_gezien": "2026-11-26T09:52:41.252145+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 10:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718952/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
    "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
@@ -4535,6 +4535,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126135313a2helmondrit141170": {
+   "titel": "A2 Helmond Rit: 141170",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126135313a2helmondrit141170",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-26T13:53:13+01:00",
+   "eerst_gezien": "2026-11-26T13:04:59.160670+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 13:53"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126131018a2helmondrit141155": {
    "titel": "A2 Helmond Rit: 141155",
@@ -5096,6 +5113,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 18:41"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html": {
+   "titel": "Chronische leukemie sloeg in als een donderslag voor Timo (25): `Ik wist niet of ik nog thuis zou komen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html",
+   "tekst": "",
+   "datum": "2026-11-26T09:49:08+00:00",
+   "eerst_gezien": "2026-11-26T09:52:41.252145+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 10:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126165139a1helmondrit140805": {
    "titel": "A1 Helmond Rit: 140805",
@@ -17758,23 +17792,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648548/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
-   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648548/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
-   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
-   "datum": "2026-11-19T12:57:06+00:00",
-   "eerst_gezien": "2026-11-19T13:12:32.970287+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:57"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
    "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
@@ -17916,7 +17933,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
