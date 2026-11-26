@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 08:11",
+ "bijgewerkt": "26-11-2026 08:27",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64932/twee-gewonden-bij-ongeval-op-ripseweg": {
    "titel": "Twee gewonden bij ongeval op Ripseweg",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 07:58"
@@ -3141,6 +3141,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716865/raadslid-zet-vraagtekens-bij-30000-euro-subsidie-voor-eindhovense-suriname-tentoonstelling.html": {
+   "titel": "Raadslid zet vraagtekens bij 30.000 euro subsidie voor Eindhovense Suriname-tentoonstelling",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716865/raadslid-zet-vraagtekens-bij-30000-euro-subsidie-voor-eindhovense-suriname-tentoonstelling.html",
+   "tekst": "",
+   "datum": "2026-11-26T07:19:02+00:00",
+   "eerst_gezien": "2026-11-26T07:27:11.592108+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 08:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108716715/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
    "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108716715/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
@@ -3359,38 +3376,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
    "tekst": "",
    "datum": "2026-11-25T19:31:03+00:00",
-   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
-   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:31:03+00:00",
-   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711721/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
-   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711721/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:28:03+00:00",
    "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -3939,6 +3924,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126082609a2astenrit141010": {
+   "titel": "A2 Asten Rit: 141010",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126082609a2astenrit141010",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T08:26:09+01:00",
+   "eerst_gezien": "2026-11-26T07:27:11.592108+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 08:26"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126081045a2somerenrit141004": {
    "titel": "A2 Someren Rit: 141004",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126081045a2somerenrit141004",
@@ -3951,7 +3953,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 08:10"
@@ -4500,23 +4502,6 @@
    "prio": true,
    "tijd": "25-11 10:18"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126100507a2astenrit140622": {
-   "titel": "A2 Asten Rit: 140622",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126100507a2astenrit140622",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T10:05:07+01:00",
-   "eerst_gezien": "2026-11-25T09:05:45.099349+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 10:05"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -4533,6 +4518,55 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
+   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:31:03+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711721/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711721/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:28:03+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126100507a2astenrit140622": {
+   "titel": "A2 Asten Rit: 140622",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126100507a2astenrit140622",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T10:05:07+01:00",
+   "eerst_gezien": "2026-11-25T09:05:45.099349+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 10:05"
   },
   "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
    "titel": "Aangepaste openingstijden milieustraat in december",
@@ -7635,23 +7669,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 20:30"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126082502a2helmondrit140139": {
-   "titel": "A2 Helmond Rit: 140139",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126082502a2helmondrit140139",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T08:25:02+01:00",
-   "eerst_gezien": "2026-11-24T07:39:00.523003+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 08:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108700703/max-uit-helmond-weet-zeker-dat-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
    "titel": "Max uit Helmond weet zeker dat dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
@@ -17308,106 +17325,6 @@
    "prio": false,
    "tijd": "19-11 09:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
-   "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645709/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:25:11+00:00",
-   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645693/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html": {
-   "titel": "IVN Geldrop doet mee aan landelijke zoektocht naar winterbloei",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645693/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:21:38+00:00",
-   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645682/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html": {
-   "titel": "Waarom PSV 400 miljoen voor stadionuitbreiding niet volledig bij de markt wil lenen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645682/waarom-psv-400-miljoen-voor-stadionuitbreiding-niet-volledig-bij-de-markt-wil-lenen.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:19:03+00:00",
-   "eerst_gezien": "2026-11-19T07:33:19.715634+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645659/eerste-huizen-nieuwe-geldropse-wijk-lommerrijk-in-juli-2027-klaar.html": {
-   "titel": "Eerste huizen nieuwe Geldropse wijk Lommerrijk in juli 2027 klaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645659/eerste-huizen-nieuwe-geldropse-wijk-lommerrijk-in-juli-2027-klaar.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:13:09+00:00",
-   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645657/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html": {
-   "titel": "IVN Geldrop doet mee aan landelijke zoektocht naar winterbloei",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645657/ivn-geldrop-doet-mee-aan-landelijke-zoektocht-naar-winterbloei.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:13:04+00:00",
-   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645649/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet.html": {
-   "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: `Want die bestaan niet`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645649/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:11:38+00:00",
-   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:11"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
    "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
@@ -17529,7 +17446,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
