@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 20:15",
+ "bijgewerkt": "26-11-2026 20:31",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -798,7 +798,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:00"
@@ -955,6 +955,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:30"
+  },
+  "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
+   "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: ‘Iedereen staat voor elkaar klaar’",
+   "link": "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar~a408ed2f/",
+   "tekst": "Het is alle hens aan dek voor medewerkers van de door brand getroffen basisschool Zeilberg. Ze werken zich een slag in de rondte om de tijdelijke locatie in Someren op tijd klaar te maken.",
+   "datum": "2026-11-26T19:30:37+00:00",
+   "eerst_gezien": "2026-11-26T19:31:16.479253+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 20:30"
   },
   "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Deurne doen vaker mee dan in de meeste gemeenten",
@@ -1302,7 +1320,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag": {
    "titel": "Zieke kapster heeft eigen bedrijf en geeft sportles, baas wil ontslag",
    "link": "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag",
-   "tekst": "vrijdag Een kapster meldt zich ziek, maar staat ondertussen sportlessen te geven in een sportschool. Haar bazen vertrouwen het niet, gaan zelf kijken en filmen de vrouw. Ook blijkt ze een eigen bedrijfje te hebben en zich op Instagram als …",
+   "tekst": "20 november 2026 Een kapster meldt zich ziek, maar staat ondertussen sportlessen te geven in een sportschool. Haar bazen vertrouwen het niet, gaan zelf kijken en filmen de vrouw. Ook blijkt ze een eigen bedrijfje te hebben en zich op …",
    "datum": "2026-11-20T16:07:17.746385+00:00",
    "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -3873,6 +3891,22 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722735/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html": {
+   "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk (1946-2026) vlogen net straaljagers over",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722735/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:19:03+00:00",
+   "eerst_gezien": "2026-11-26T19:31:16.479253+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108722707/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html": {
    "titel": "Kater Sjors (9) sterft na mogelijke kogel van luchtbuks in Beek en Donk: `We zagen pas bij de dierenarts het gaatje`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108722707/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html",
@@ -3885,7 +3919,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:13"
@@ -3902,7 +3936,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3918,7 +3952,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:11"
@@ -3935,7 +3969,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4123,23 +4157,6 @@
   "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html": {
    "titel": "Ein Döner bitte: nog een Duitse kebabketen komt naar Eindhoven, met tijdelijk broodjes voor 5 cent",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html",
-   "tekst": "",
-   "datum": "2026-11-26T16:13:23+00:00",
-   "eerst_gezien": "2026-11-26T16:18:27.800076+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 17:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108721345/15-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html": {
-   "titel": "15 huurwoningen op plek oude buurtsuper Zeelst: `Mooi, maar ik geloof niet dat we straks nog privacy hebben`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721345/15-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html",
    "tekst": "",
    "datum": "2026-11-26T16:13:23+00:00",
    "eerst_gezien": "2026-11-26T16:18:27.800076+00:00",
@@ -5249,6 +5266,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 08:10"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721345/15-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html": {
+   "titel": "15 huurwoningen op plek oude buurtsuper Zeelst: `Mooi, maar ik geloof niet dat we straks nog privacy hebben`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721345/15-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html",
+   "tekst": "",
+   "datum": "2026-11-26T16:13:23+00:00",
+   "eerst_gezien": "2026-11-26T16:18:27.800076+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:13"
   },
   "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/": {
    "titel": "Ouderen leren valse mails en appjes herkennen in Deurne",
@@ -17733,55 +17767,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 20:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651542/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html": {
-   "titel": "Eindhovens festival STRP experimenteerde erop los: `Soms vloog er iets in de fik`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651542/eindhovens-festival-strp-experimenteerde-erop-los-soms-vloog-er-iets-in-de-fik.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:31:04+00:00",
-   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651536/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651536/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:29:06+00:00",
-   "eerst_gezien": "2026-11-19T19:43:50.442954+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 20:29"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T19:25:14+00:00",
-   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -17807,7 +17792,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
