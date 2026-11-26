@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 21:04",
+ "bijgewerkt": "26-11-2026 21:20",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -799,7 +799,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:30"
@@ -816,7 +816,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:00"
@@ -3856,12 +3856,29 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722984/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html": {
-   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722984/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html": {
+   "titel": "Man (37) uit Eindhoven reed door rood en veroorzaakte zwaar ongeluk: taakstraf en rijverbod",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html",
    "tekst": "",
-   "datum": "2026-11-26T20:01:05+00:00",
-   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "datum": "2026-11-26T20:13:25+00:00",
+   "eerst_gezien": "2026-11-26T20:19:53.317132+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723066/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723066/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html",
+   "tekst": "",
+   "datum": "2026-11-26T20:11:19+00:00",
+   "eerst_gezien": "2026-11-26T20:19:53.317132+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -3884,7 +3901,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 21:01"
@@ -3901,7 +3918,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3918,7 +3935,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4053,38 +4070,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 18:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722097/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort.html": {
-   "titel": "Contact met Nederlanders is lastig voor internationals: dus oefenen ze met veel lol bij Kletscafé in Brandevoort",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722097/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort.html",
-   "tekst": "",
-   "datum": "2026-11-26T17:49:07+00:00",
-   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722061/eindhoven-plaatst-extra-toiletgroepen-tijdens-carnaval-ook-voor-mensen-met-beperking.html": {
-   "titel": "Eindhoven plaatst extra toiletgroepen tijdens carnaval, ook voor mensen met beperking",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722061/eindhoven-plaatst-extra-toiletgroepen-tijdens-carnaval-ook-voor-mensen-met-beperking.html",
-   "tekst": "",
-   "datum": "2026-11-26T17:43:15+00:00",
-   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
    "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
@@ -5166,6 +5151,54 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 08:10"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722984/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722984/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html",
+   "tekst": "",
+   "datum": "2026-11-26T20:01:05+00:00",
+   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722097/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort.html": {
+   "titel": "Contact met Nederlanders is lastig voor internationals: dus oefenen ze met veel lol bij Kletscafé in Brandevoort",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722097/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort.html",
+   "tekst": "",
+   "datum": "2026-11-26T17:49:07+00:00",
+   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722061/eindhoven-plaatst-extra-toiletgroepen-tijdens-carnaval-ook-voor-mensen-met-beperking.html": {
+   "titel": "Eindhoven plaatst extra toiletgroepen tijdens carnaval, ook voor mensen met beperking",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722061/eindhoven-plaatst-extra-toiletgroepen-tijdens-carnaval-ook-voor-mensen-met-beperking.html",
+   "tekst": "",
+   "datum": "2026-11-26T17:43:15+00:00",
+   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
    "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: ‘Iedereen staat voor elkaar klaar’",
@@ -17722,22 +17755,6 @@
    "prio": false,
    "tijd": "19-11 21:31"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651808/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651808/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:19:02+00:00",
-   "eerst_gezien": "2026-11-19T20:32:12.978827+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
    "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
@@ -17754,55 +17771,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 06:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651790/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html": {
-   "titel": "Automobiliste (55) zag 87-jarige fietser over het hoofd in Son en Breugel: `Verschrikkelijk dat meneer nu in een rolstoel...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651790/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:13:05+00:00",
-   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 21:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651758/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651758/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:11:34+00:00",
-   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651740/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html": {
-   "titel": "Automobiliste (55) zag 87-jarige fietser over het hoofd in Son en Breugel: `Verschrikkelijk dat meneer nu in een rolstoel...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651740/automobiliste-55-zag-87-jarige-fietser-over-het-hoofd-in-son-en-breugel-verschrikkelijk-dat-meneer-nu-in-een-rolstoel.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:07:22+00:00",
-   "eerst_gezien": "2026-11-19T20:16:10.216519+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -17908,7 +17876,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
