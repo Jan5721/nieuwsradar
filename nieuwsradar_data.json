@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "26-11-2026 07:55",
+ "bijgewerkt": "26-11-2026 08:11",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64932/twee-gewonden-bij-ongeval-op-ripseweg": {
+   "titel": "Twee gewonden bij ongeval op Ripseweg",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64932/twee-gewonden-bij-ongeval-op-ripseweg",
+   "tekst": "DE RIPS - Twee personen zijn donderdagochtend gewond geraakt bij een verkeersongeval op de Ripseweg tussen De Rips en Elsendorp. Een automobilist botste hard achterop zijn voorganger.",
+   "datum": "2026-11-26T07:58:00+01:00",
+   "eerst_gezien": "2026-11-26T07:11:14.392089+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 07:58"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne",
@@ -1353,7 +1370,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne": {
    "titel": "FIOD valt binnen op meerdere plekken in Helmond en Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035456/fiod-valt-binnen-op-meerdere-plekken-in-helmond-en-deurne",
-   "tekst": "VIDEO donderdag De Fiscale inlichtingen- en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk is of er ook mensen zijn opgepakt.",
+   "tekst": "VIDEO 19 november 2026 De Fiscale inlichtingen- en opsporingsdienst (FIOD) heeft donderdagochtend meerdere invallen gedaan in Helmond en Deurne. Onduidelijk is of er ook mensen zijn opgepakt.",
    "datum": "2026-11-19T15:08:13.866338+00:00",
    "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -3136,7 +3153,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3152,7 +3169,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 07:49"
@@ -3921,6 +3938,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126081045a2somerenrit141004": {
+   "titel": "A2 Someren Rit: 141004",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126081045a2somerenrit141004",
+   "tekst": "Ambulance 22-119 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T08:10:45+01:00",
+   "eerst_gezien": "2026-11-26T07:11:14.392089+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 08:10"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126065952a2helmondrit140982": {
    "titel": "A2 Helmond Rit: 140982",
@@ -15399,23 +15433,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/": {
-   "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: ‘Want die bestaan niet’",
-   "link": "https://www.ed.nl/helmond/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet~ab0aa9c7/",
-   "tekst": "De eerste bezoekers van het Kasteel van Sinterklaas in Helmond laten zich niet zomaar foppen. „Waarom is mijn tekening opgehaald, maar heb ik nog geen cadeau gehad?” De vraag komt van een kritische jongen met een groen pietenmutsje op.",
-   "datum": "2026-11-19T07:00:00+00:00",
-   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 08:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
    "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
@@ -17388,72 +17405,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645623/een-operatie-van-2500-euro-en-niemand-om-het-op-te-verhalen-eindhovens-asiel-worstelt-met-kosten-voor-zieke-en-gewonde-dieren.html": {
-   "titel": "Een operatie van 2500 euro en niemand om het op te verhalen: Eindhovens asiel worstelt met kosten voor zieke en gewonde dieren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645623/een-operatie-van-2500-euro-en-niemand-om-het-op-te-verhalen-eindhovens-asiel-worstelt-met-kosten-voor-zieke-en-gewonde-dieren.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:07:24+00:00",
-   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
    "prio": false,
-   "tijd": "19-11 08:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645621/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet.html": {
-   "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: `Want die bestaan niet`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645621/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:07:24+00:00",
-   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645588/een-operatie-van-2500-euro-en-niemand-om-het-op-te-verhalen-eindhovens-asiel-worstelt-met-kosten-voor-zieke-en-gewonde-dieren.html": {
-   "titel": "Een operatie van 2500 euro en niemand om het op te verhalen: Eindhovens asiel worstelt met kosten voor zieke en gewonde dieren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645588/een-operatie-van-2500-euro-en-niemand-om-het-op-te-verhalen-eindhovens-asiel-worstelt-met-kosten-voor-zieke-en-gewonde-dieren.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:01:04+00:00",
-   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645586/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet.html": {
-   "titel": "Geen stout kind aanwezig bij opening Kasteel van Sinterklaas in Helmond: `Want die bestaan niet`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645586/geen-stout-kind-aanwezig-bij-opening-kasteel-van-sinterklaas-in-helmond-want-die-bestaan-niet.html",
-   "tekst": "",
-   "datum": "2026-11-19T07:01:04+00:00",
-   "eerst_gezien": "2026-11-19T07:17:17.056584+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "tijd": "19-11 08:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
    "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
@@ -17476,7 +17429,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 32,
    "fout": ""
   },
   "Peelbelang": {
@@ -17537,7 +17490,7 @@
   "Gemeente Helmond": {
    "ok": false,
    "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal server error"
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -17596,7 +17549,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
