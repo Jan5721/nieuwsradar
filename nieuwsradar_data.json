@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "26-11-2026 17:02",
+ "bijgewerkt": "26-11-2026 17:19",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
+   "titel": "De Plankeniers nemen publiek mee naar de camping",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping",
+   "tekst": "LIESSEL - Toneelvereniging De Plankeniers uit Liessel brengt in december het komische blijspel 't Is bingo op de camping op de planken. De vereniging speelt het stuk op woensdag 9, zaterdag 12 en zondag 13 december in gemeenschapshuis De Kastanje. Het publiek kan rekenen op een …",
+   "datum": "2026-11-26T17:11:00+01:00",
+   "eerst_gezien": "2026-11-26T16:18:27.800076+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:11"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64935/vogelsbos-in-neerkant-krijgt-ruimte-voor-nieuwe-bomen": {
    "titel": "Vogelsbos in Neerkant krijgt ruimte voor nieuwe bomen",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64935/vogelsbos-in-neerkant-krijgt-ruimte-voor-nieuwe-bomen",
@@ -2154,23 +2171,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast": {
-   "titel": "Wegversmalling Meijelseweg in Heusden wordt aangepast",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast",
-   "tekst": "12 november 2026 De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
   "https://www.omroepbrabant.nl/nieuws/6036299/vergunning-voor-verbouwing-hemelaar-24-in-lierop-verleend": {
    "titel": "Vergunning voor verbouwing Hemelaar 24 in Lierop verleend",
    "link": "https://www.omroepbrabant.nl/nieuws/6036299/vergunning-voor-verbouwing-hemelaar-24-in-lierop-verleend",
@@ -3754,6 +3754,40 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html": {
+   "titel": "Ein Döner bitte: nog een Duitse kebabketen komt naar Eindhoven, met tijdelijk broodjes voor 5 cent",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721347/ein-doner-bitte-nog-een-duitse-kebabketen-komt-naar-eindhoven-met-tijdelijk-broodjes-voor-5-cent.html",
+   "tekst": "",
+   "datum": "2026-11-26T16:13:23+00:00",
+   "eerst_gezien": "2026-11-26T16:18:27.800076+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721345/15-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html": {
+   "titel": "15 huurwoningen op plek oude buurtsuper Zeelst: `Mooi, maar ik geloof niet dat we straks nog privacy hebben`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721345/15-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html",
+   "tekst": "",
+   "datum": "2026-11-26T16:13:23+00:00",
+   "eerst_gezien": "2026-11-26T16:18:27.800076+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108721193/vijftien-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html": {
    "titel": "Vijftien huurwoningen op plek oude buurtsuper Zeelst: `Mooi, maar ik geloof niet dat we straks nog privacy hebben`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108721193/vijftien-huurwoningen-op-plek-oude-buurtsuper-zeelst-mooi-maar-ik-geloof-niet-dat-we-straks-nog-privacy-hebben.html",
@@ -3766,7 +3800,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:01"
@@ -3783,10 +3817,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 17:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108721070/provincie-kiest-voorkeursroute-voor-nieuwe-hoogspanningsverbinding-tussen-eindhoven-en-maarheeze.html": {
    "titel": "Provincie kiest voorkeursroute voor nieuwe hoogspanningsverbinding tussen Eindhoven en Maarheeze",
@@ -3800,7 +3833,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 16:49"
@@ -3817,7 +3850,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 16:49"
@@ -4037,22 +4070,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 15:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html": {
-   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op ´Manga Maandag´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html",
-   "tekst": "",
-   "datum": "2026-11-26T13:49:09+00:00",
-   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108719288/de-wieger-in-deurne-toont-werk-van-jeroen-hermkens-en-zijn-inspiratiebronnen.html": {
    "titel": "De Wieger in Deurne toont werk van Jeroen Hermkens en zijn inspiratiebronnen",
@@ -4582,6 +4599,39 @@
    "bron": "Drimble Someren",
    "gemeenten": [
     "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast": {
+   "titel": "Wegversmalling Meijelseweg in Heusden wordt aangepast",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034608/wegversmalling-meijelseweg-in-heusden-wordt-aangepast",
+   "tekst": "12 november 2026 De wegversmalling bij de Meijelseweg in Heusden wordt aangepast om fietsers meer ruimte te geven.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html": {
+   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op ´Manga Maandag´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108720054/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag.html",
+   "tekst": "",
+   "datum": "2026-11-26T13:49:09+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -17746,40 +17796,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650270/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt.html": {
-   "titel": "Vier jaar stallen leeg, nu toch weer varkens in Lierop' Niet als het aan Animal Rights ligt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650270/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:13:05+00:00",
-   "eerst_gezien": "2026-11-19T16:28:51.103888+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650113/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html": {
-   "titel": "Bijna alle internationals terug bij FC Dordrecht voor duel met Helmond Sport",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650113/bijna-alle-internationals-terug-bij-fc-dordrecht-voor-duel-met-helmond-sport.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:04:08+00:00",
-   "eerst_gezien": "2026-11-19T16:12:40.144931+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:04"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
    "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
@@ -17813,28 +17829,12 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 17:28"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650176/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt.html": {
-   "titel": "Vier jaar stallen leeg, nu toch weer varkens in Lierop' Niet als het aan Animal Rights ligt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650176/vier-jaar-stallen-leeg-nu-toch-weer-varkens-in-lierop-niet-als-het-aan-animal-rights-ligt.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:07:25+00:00",
-   "eerst_gezien": "2026-11-19T16:12:40.144931+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "Peelbelang": {
@@ -17884,7 +17884,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -17895,7 +17895,7 @@
   "Gemeente Helmond": {
    "ok": false,
    "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal server error"
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -17934,7 +17934,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -17954,7 +17954,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
