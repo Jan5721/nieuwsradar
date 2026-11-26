@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 02:33",
+ "bijgewerkt": "26-11-2026 02:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -7716,23 +7716,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 05:26"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126024849a1liesselrit140088": {
-   "titel": "A1 Liessel Rit: 140088",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126024849a1liesselrit140088",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T02:48:49+01:00",
-   "eerst_gezien": "2026-11-24T02:03:41.905304+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "24-11 02:48"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108697705/eerste-sneeuw-van-winterseizoen-gevallen-in-brabant.html": {
    "titel": "Eerste sneeuw van winterseizoen gevallen in Brabant",
