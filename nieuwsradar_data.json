@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 11:25",
+ "bijgewerkt": "26-11-2026 11:41",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -2171,10 +2171,27 @@
    "prio": false,
    "tijd": "26-11 10:20"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036265/gratis-museumbezoek-voor-gezinnen-met-laag-inkomen-in-asten": {
+   "titel": "Gratis museumbezoek voor gezinnen met laag inkomen in Asten",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036265/gratis-museumbezoek-voor-gezinnen-met-laag-inkomen-in-asten",
+   "tekst": "Gezinnen die ondersteuning krijgen van Stichting Leergeld kunnen tussen 21 december en 3 januari gratis naar Museum Klok & Peel in Asten. De actie is mogelijk gemaakt door Stichting Leergeld en het museum, met steun van de gemeenten Asten …",
+   "datum": "2026-11-26T10:40:32.135205+00:00",
+   "eerst_gezien": "2026-11-26T10:40:32.135205+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:40"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036183/someren-start-campagne-tegen-geweld-tegen-vrouwen": {
    "titel": "Someren start campagne tegen geweld tegen vrouwen",
    "link": "https://www.omroepbrabant.nl/nieuws/6036183/someren-start-campagne-tegen-geweld-tegen-vrouwen",
-   "tekst": "Op het bordes van het gemeentehuis in Someren is",
+   "tekst": "",
    "datum": "2026-11-26T10:08:34.915464+00:00",
    "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -3787,6 +3804,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718408/veldhoven-heeft-megaplannen-voor-de-run-waar-bedrijven-plek-moeten-maken-voor-wonen.html": {
+   "titel": "Veldhoven heeft megaplannen voor De Run, waar bedrijven plek moeten maken voor wonen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718408/veldhoven-heeft-megaplannen-voor-de-run-waar-bedrijven-plek-moeten-maken-voor-wonen.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:31:03+00:00",
+   "eerst_gezien": "2026-11-26T10:40:32.135205+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html": {
    "titel": "Van gezonde student naar patiënt in één nacht: Timo (25) wil dat niemand kanker nog negeert",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html",
@@ -3799,7 +3833,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:19"
@@ -3816,7 +3850,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:13"
@@ -3970,23 +4004,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 07:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
-   "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html",
-   "tekst": "",
-   "datum": "2026-11-26T05:19:01+00:00",
-   "eerst_gezien": "2026-11-26T05:34:34.350286+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 06:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -4536,7 +4553,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 11:19"
@@ -4553,7 +4570,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 11:12"
@@ -5153,6 +5170,40 @@
    "prio": true,
    "tijd": "25-11 14:00"
   },
+  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
+   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
+   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
+   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
+   "datum": "2026-11-25T06:57:04+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
+   "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html",
+   "tekst": "",
+   "datum": "2026-11-26T05:19:01+00:00",
+   "eerst_gezien": "2026-11-26T05:34:34.350286+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 06:19"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134805a1somerenrit140737": {
    "titel": "A1 Someren Rit: 140737",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134805a1somerenrit140737",
@@ -5186,23 +5237,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 13:45"
-  },
-  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
-   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
-   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
-   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
-   "datum": "2026-11-25T06:57:04+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:57"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
    "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
@@ -8199,23 +8233,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126113302a1deurnerit140246": {
-   "titel": "A1 Deurne Rit: 140246",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126113302a1deurnerit140246",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T11:33:02+01:00",
-   "eerst_gezien": "2026-11-24T10:35:18.745886+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "24-11 11:33"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108706087/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond.html": {
    "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
@@ -17843,23 +17860,6 @@
    "prio": false,
    "tijd": "19-11 11:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647169/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html": {
-   "titel": "Rechter zet streep door beroep van Nuenense tegenstander van azc",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647169/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html",
-   "tekst": "",
-   "datum": "2026-11-19T10:31:04+00:00",
-   "eerst_gezien": "2026-11-19T10:47:25.353310+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 11:31"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
    "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
@@ -17910,23 +17910,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 11:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108647095/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html": {
-   "titel": "Rechter zet streep door beroep van Nuenense tegenstander van azc",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108647095/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html",
-   "tekst": "",
-   "datum": "2026-11-19T10:25:11+00:00",
-   "eerst_gezien": "2026-11-19T10:31:23.042575+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 11:25"
   }
  },
  "bronnen": {
@@ -17987,7 +17970,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18052,7 +18035,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 39,
+   "aantal": 37,
    "fout": ""
   },
   "112Brabant": {
