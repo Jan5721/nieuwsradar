@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 10:53",
+ "bijgewerkt": "26-11-2026 11:09",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -906,23 +906,6 @@
    "prio": false,
    "tijd": "25-11 11:15"
   },
-  "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/": {
-   "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
-   "link": "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/",
-   "tekst": "In de afgelopen week heeft de gemeente Helmond in totaal 24 vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
-   "datum": "2026-11-25T10:01:49+00:00",
-   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:01"
-  },
   "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/": {
    "titel": "Ouderen leren valse mails en appjes herkennen in Deurne",
    "link": "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/",
@@ -956,23 +939,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:02"
-  },
-  "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/": {
-   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
-   "link": "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/",
-   "tekst": "Een automobilist is dinsdagavond aangehouden in Helmond op verdenking van het bezit van en de handel in softdrugs. De man gooide tijdens een politieachtervolging twee zakken uit zijn auto. Daarin bleken voorgedraaide joints te zitten.",
-   "datum": "2026-11-25T06:49:01+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:49"
   },
   "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/": {
    "titel": "Reportage ‘Het zit echt hier’ blikt terug op carnaval in Asten",
@@ -2205,10 +2171,27 @@
    "prio": false,
    "tijd": "26-11 10:20"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036183/someren-start-campagne-tegen-geweld-tegen-vrouwen": {
+   "titel": "Someren start campagne tegen geweld tegen vrouwen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036183/someren-start-campagne-tegen-geweld-tegen-vrouwen",
+   "tekst": "Op het bordes van het gemeentehuis in Someren is",
+   "datum": "2026-11-26T10:08:34.915464+00:00",
+   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:08"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036059/harriet-bongers-bouwmans-krijgt-koninklijke-onderscheiding": {
    "titel": "Harriet Bongers-Bouwmans krijgt Koninklijke onderscheiding",
    "link": "https://www.omroepbrabant.nl/nieuws/6036059/harriet-bongers-bouwmans-krijgt-koninklijke-onderscheiding",
-   "tekst": "Harriet Bongers-Bouwmans uit Ospel is benoemd tot Lid in de Orde van Oranje-Nassau. Burgemeester Birgit Op de Laak reikte haar de onderscheiding uit in Someren-Eind. Harriet zet zich al 50 jaar vrijwillig in voor wandelsportvereniging …",
+   "tekst": "",
    "datum": "2026-11-25T09:37:51.112504+00:00",
    "eerst_gezien": "2026-11-25T09:37:51.112504+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2356,8 +2339,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "24-11 11:35"
+   "prio": false
   },
   "https://www.omroepbrabant.nl/nieuws/6034938/sinterklaas-arriveert-per-boot-in-someren-eind": {
    "titel": "Sinterklaas arriveert per boot in Someren-Eind",
@@ -3805,6 +3787,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
+   "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:01:05+00:00",
+   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718036/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond.html": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718036/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond.html",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen' Daar werkt de gemeente...",
+   "datum": "2026-11-26T09:58:03+00:00",
+   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html": {
    "titel": "Chronische leukemie sloeg in als een donderslag voor Timo (25): `Ik wist niet of ik nog thuis zou komen`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html",
@@ -3817,7 +3832,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 10:49"
@@ -3995,38 +4010,6 @@
    "tekst": "",
    "datum": "2026-11-25T22:45:03+00:00",
    "eerst_gezien": "2026-11-25T22:52:32.592196+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108714709/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
-   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108714709/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
-   "tekst": "",
-   "datum": "2026-11-25T22:42:08+00:00",
-   "eerst_gezien": "2026-11-25T22:52:32.592196+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108713382/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast.html": {
-   "titel": "Grote brand in huis in Bakel: opgepakte man zit drie maanden langer vast",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108713382/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast.html",
-   "tekst": "De 40-jarige Helmonder die is opgepakt voor de grote brand in een huis in Bakel, blijft negentig dagen langer vastzitten. Dat heeft...",
-   "datum": "2026-11-25T22:17:05+00:00",
-   "eerst_gezien": "2026-11-25T22:20:33.164731+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4572,6 +4555,40 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110713a2astenrit141092": {
+   "titel": "A2 Asten Rit: 141092",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110713a2astenrit141092",
+   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T11:07:13+01:00",
+   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 11:07"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110104a2helmondrit141086": {
+   "titel": "A2 Helmond Rit: 141086",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110104a2helmondrit141086",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T11:01:04+01:00",
+   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 11:01"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126100729a2helmondrit141058": {
    "titel": "A2 Helmond Rit: 141058",
@@ -5201,6 +5218,72 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/": {
+   "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
+   "link": "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/",
+   "tekst": "In de afgelopen week heeft de gemeente Helmond in totaal 24 vergunningaanvragen verwerkt. Kijk in de lijst hieronder wat er in jouw buurt speelt.",
+   "datum": "2026-11-25T10:01:49+00:00",
+   "eerst_gezien": "2026-11-25T10:09:50.472694+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:01"
+  },
+  "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/": {
+   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
+   "link": "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/",
+   "tekst": "Een automobilist is dinsdagavond aangehouden in Helmond op verdenking van het bezit van en de handel in softdrugs. De man gooide tijdens een politieachtervolging twee zakken uit zijn auto. Daarin bleken voorgedraaide joints te zitten.",
+   "datum": "2026-11-25T06:49:01+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108714709/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108714709/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:42:08+00:00",
+   "eerst_gezien": "2026-11-25T22:52:32.592196+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108713382/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast.html": {
+   "titel": "Grote brand in huis in Bakel: opgepakte man zit drie maanden langer vast",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108713382/grote-brand-in-huis-in-bakel-opgepakte-man-zit-drie-maanden-langer-vast.html",
+   "tekst": "De 40-jarige Helmonder die is opgepakt voor de grote brand in een huis in Bakel, blijft negentig dagen langer vastzitten. Dat heeft...",
+   "datum": "2026-11-25T22:17:05+00:00",
+   "eerst_gezien": "2026-11-25T22:20:33.164731+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.omroepbrabant.nl/nieuws/6034541/evenement-op-bivakweg-in-deurne-krijgt-vergunning": {
    "titel": "Evenement op Bivakweg in Deurne krijgt vergunning",
@@ -17813,12 +17896,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 8,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Asten": {
@@ -17853,7 +17936,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -17918,7 +18001,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 38,
    "fout": ""
   },
   "112Brabant": {
