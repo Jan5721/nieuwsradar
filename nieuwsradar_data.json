@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 04:26",
+ "bijgewerkt": "26-11-2026 04:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -4106,6 +4106,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126043217a2helmondrit140969": {
+   "titel": "A2 Helmond Rit: 140969",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126043217a2helmondrit140969",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T04:32:17+01:00",
+   "eerst_gezien": "2026-11-26T03:41:52.113240+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 04:32"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126001822a2helmondrit140942": {
    "titel": "A2 Helmond Rit: 140942",
@@ -17662,7 +17679,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
