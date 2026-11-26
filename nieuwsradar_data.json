@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 21:20",
+ "bijgewerkt": "26-11-2026 21:36",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -804,19 +804,19 @@
    "prio": false,
    "tijd": "26-11 20:30"
   },
-  "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon~a344fa71/": {
-   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
-   "link": "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon~a344fa71/",
+  "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon~a344fa71/": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
+   "link": "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon~a344fa71/",
    "tekst": "Het was een kippenvelmoment voor de familie. De woensdag overleden Henk van Dijk werd naar buiten gedragen toen er straaljagers overvlogen. Toestellen die normaal niet boven Helmond te zien zijn. Het voelde als een eerbetoon aan de oud-luchtmachtman.",
    "datum": "2026-11-26T19:00:00+00:00",
-   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:00"
@@ -1111,23 +1111,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 15:00"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6036335/dramatisch-willem-ii-wint-maar-niet-deze-supporters-houden-vertrouwen": {
-   "titel": "Dramatisch Willem II wint maar niet: deze supporters houden vertrouwen",
-   "link": "https://www.omroepbrabant.nl/nieuws/6036335/dramatisch-willem-ii-wint-maar-niet-deze-supporters-houden-vertrouwen",
-   "tekst": "Al dertig Eredivisiewedstrijden op rij is Willem II zonder winst en daarmee evenaarde de club het negatieve record van Helmond Sport uit 1984. Als de Tilburgers vrijdagavond niet winnen bij FC Groningen, krijgen ze het bedenkelijke record alleen in handen. Ondanks de dramatische …",
-   "datum": "2026-11-26T14:30:00+00:00",
-   "eerst_gezien": "2026-11-26T15:14:09.277227+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 15:30"
   },
   "https://www.omroepbrabant.nl/nieuws/6036136/aangepaste-openingstijden-milieustraat-helmond-in-december": {
    "titel": "Aangepaste openingstijden milieustraat Helmond in december",
@@ -2017,10 +2000,27 @@
    "prio": false,
    "tijd": "23-11 16:54"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht": {
+   "titel": "Stroomstoring in Asten: herstel verwacht rond één uur vannacht",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht",
+   "tekst": "",
+   "datum": "2026-11-26T20:36:12.849812+00:00",
+   "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:36"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036331/waterstoring-rond-de-logtenstraat-in-asten": {
    "titel": "Waterstoring rond de Logtenstraat in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6036331/waterstoring-rond-de-logtenstraat-in-asten",
-   "tekst": "",
+   "tekst": "De waterstoring door een lekkage in en rond de Logtenstraat in Asten is opgelost. Bewoners hadden sinds vanochtend last van geen water, lage waterdruk of bruin water.",
    "datum": "2026-11-26T11:44:45.238753+00:00",
    "eerst_gezien": "2026-11-26T11:44:45.238753+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2054,7 +2054,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035977/gezinnen-met-laag-inkomen-mogen-gratis-naar-museum-klok-peel-in-asten": {
    "titel": "Gezinnen met laag inkomen mogen gratis naar Museum Klok & Peel in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035977/gezinnen-met-laag-inkomen-mogen-gratis-naar-museum-klok-peel-in-asten",
-   "tekst": "Gezinnen met een laag inkomen kunnen tussen 21 december en 3 januari gratis Museum Klok & Peel in Asten bezoeken. Deze actie is mogelijk dankzij samenwerking tussen Stichting Leergeld en het museum, met steun van de gemeenten Asten en …",
+   "tekst": "dinsdag Gezinnen met een laag inkomen kunnen tussen 21 december en 3 januari gratis Museum Klok & Peel in Asten bezoeken. Deze actie is mogelijk dankzij samenwerking tussen Stichting Leergeld en het museum, met steun van de gemeenten Asten …",
    "datum": "2026-11-24T14:51:25.135845+00:00",
    "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -3868,7 +3868,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 21:13"
@@ -3885,7 +3885,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -5134,6 +5134,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 08:26"
+  },
+  "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon~a344fa71/": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
+   "link": "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon~a344fa71/",
+   "tekst": "Het was een kippenvelmoment voor de familie. De woensdag overleden Henk van Dijk werd naar buiten gedragen toen er straaljagers overvlogen. Toestellen die normaal niet boven Helmond te zien zijn. Het voelde als een eerbetoon aan de oud-luchtmachtman.",
+   "datum": "2026-11-26T19:00:00+00:00",
+   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 20:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036335/dramatisch-willem-ii-wint-maar-niet-deze-supporters-houden-vertrouwen": {
+   "titel": "Dramatisch Willem II wint maar niet: deze supporters houden vertrouwen",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036335/dramatisch-willem-ii-wint-maar-niet-deze-supporters-houden-vertrouwen",
+   "tekst": "Al dertig Eredivisiewedstrijden op rij is Willem II zonder winst en daarmee evenaarde de club het negatieve record van Helmond Sport uit 1984. Als de Tilburgers vrijdagavond niet winnen bij FC Groningen, krijgen ze het bedenkelijke record alleen in handen. Ondanks de dramatische …",
+   "datum": "2026-11-26T14:30:00+00:00",
+   "eerst_gezien": "2026-11-26T15:14:09.277227+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 15:30"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126081045a2somerenrit141004": {
    "titel": "A2 Someren Rit: 141004",
@@ -17738,23 +17772,6 @@
    "prio": false,
    "tijd": "19-11 22:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651871/ooit-runde-margriet-65-vier-cafes-na-42-jaar-verkoopt-ze-haar-levenswerk-op-stratumseind-ik-ben-mezelf-weleens-voorbijgegaan.html": {
-   "titel": "Ooit runde Margriet (65) vier cafés, na 42 jaar verkoopt ze haar levenswerk op Stratumseind: `Ik ben mezelf weleens voorbijgegaan`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651871/ooit-runde-margriet-65-vier-cafes-na-42-jaar-verkoopt-ze-haar-levenswerk-op-stratumseind-ik-ben-mezelf-weleens-voorbijgegaan.html",
-   "tekst": "",
-   "datum": "2026-11-19T20:31:03+00:00",
-   "eerst_gezien": "2026-11-19T20:32:12.978827+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 21:31"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
    "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108656145/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
@@ -17811,7 +17828,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -17826,7 +17843,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -17896,7 +17913,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
