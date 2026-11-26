@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "26-11-2026 13:17",
+ "bijgewerkt": "26-11-2026 13:33",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
+   "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang",
+   "tekst": "DEURNE - Holten's Molen krijgt nieuwe wieken. De oude roeden zijn maandag 23 november verwijderd. Een week later, op maandag 30 november, worden de nieuwe exemplaren geplaatst. Daarvoor wordt opnieuw een grote telekraan ingezet.",
+   "datum": "2026-11-26T13:24:00+01:00",
+   "eerst_gezien": "2026-11-26T12:32:55.842225+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 13:24"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28",
@@ -991,6 +1008,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:27"
+  },
+  "https://www.ed.nl/someren/stamboomcafe-helpt-bezoekers-in-someren-met-familieonderzoek~a5a7bfc3/": {
+   "titel": "Stamboomcafé helpt bezoekers in Someren met familieonderzoek",
+   "link": "https://www.ed.nl/someren/stamboomcafe-helpt-bezoekers-in-someren-met-familieonderzoek~a5a7bfc3/",
+   "tekst": "De Nederlandse Genealogische Vereniging houdt een Stamboomcafé in de Bibliotheek Someren. Zaterdag 28 november kunnen bezoekers tussen 10.30 en 12.30 uur binnenlopen voor hulp bij onderzoek naar hun familiegeschiedenis.",
+   "datum": "2026-11-26T12:29:21+00:00",
+   "eerst_gezien": "2026-11-26T12:32:55.842225+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 13:29"
   },
   "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren": {
    "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
@@ -3782,7 +3816,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4514,7 +4548,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 13:10"
@@ -4531,7 +4565,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 13:09"
@@ -17741,121 +17775,6 @@
    "prio": false,
    "tijd": "19-11 13:57"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648364/auto-wordt-opgeblazen-in-eindhoven-vrouw-zou-twee-weken-eerder-zijn-bedreigd.html": {
-   "titel": "Auto wordt opgeblazen in Eindhoven: vrouw zou twee weken eerder zijn bedreigd",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648364/auto-wordt-opgeblazen-in-eindhoven-vrouw-zou-twee-weken-eerder-zijn-bedreigd.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:31:03+00:00",
-   "eerst_gezien": "2026-11-19T12:40:05.644399+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648359/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html": {
-   "titel": "Welke herinneringen heb jij aan Maison van den Boer'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648359/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:31:03+00:00",
-   "eerst_gezien": "2026-11-19T12:40:05.644399+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648329/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html": {
-   "titel": "Brabant onderzoekt hoe woningbouw toch kan bij een vol stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648329/brabant-onderzoekt-hoe-woningbouw-toch-kan-bij-een-vol-stroomnet.html",
-   "tekst": "In vijf Brabantse steden start een proef om te onderzoeken hoe woningen toch gebouwd kunnen worden terwijl het elektriciteitsnet zo goed...",
-   "datum": "2026-11-19T12:29:05+00:00",
-   "eerst_gezien": "2026-11-19T12:40:05.644399+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648279/auto-wordt-opgeblazen-in-eindhoven-vrouw-zou-twee-weken-eerder-zijn-bedreigd.html": {
-   "titel": "Auto wordt opgeblazen in Eindhoven: vrouw zou twee weken eerder zijn bedreigd",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648279/auto-wordt-opgeblazen-in-eindhoven-vrouw-zou-twee-weken-eerder-zijn-bedreigd.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:25:13+00:00",
-   "eerst_gezien": "2026-11-19T12:40:05.644399+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648251/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html": {
-   "titel": "Architectenbureau Raffaan gaat nieuw gebouw van kindcentrum Puur Sang in Mierlo ontwerpen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648251/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:21:29+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 13:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648247/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html": {
-   "titel": "Welke herinneringen heb jij aan Maison van den Boer'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648247/welke-herinneringen-heb-jij-aan-maison-van-den-boer.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:21:29+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648236/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html": {
-   "titel": "Architectenbureau Raffaan gaat nieuw gebouw van kindcentrum Puur Sang in Mierlo ontwerpen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648236/architectenbureau-raffaan-gaat-nieuw-gebouw-van-kindcentrum-puur-sang-in-mierlo-ontwerpen.html",
-   "tekst": "",
-   "datum": "2026-11-19T12:19:03+00:00",
-   "eerst_gezien": "2026-11-19T12:23:55.307161+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
    "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648889/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
@@ -17877,7 +17796,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -17907,7 +17826,7 @@
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant": {
