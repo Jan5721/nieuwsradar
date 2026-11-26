@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 06:19",
+ "bijgewerkt": "26-11-2026 06:35",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -3209,12 +3209,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108716267/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
    "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716267/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html",
    "tekst": "",
-   "datum": "2026-11-26T05:13:02+00:00",
-   "eerst_gezien": "2026-11-26T05:18:38.599978+00:00",
+   "datum": "2026-11-26T05:19:01+00:00",
+   "eerst_gezien": "2026-11-26T05:34:34.350286+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -3224,7 +3224,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "26-11 06:13"
+   "tijd": "26-11 06:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
@@ -3476,22 +3476,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711683/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html",
    "tekst": "",
    "datum": "2026-11-25T19:19:02+00:00",
-   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711662/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html": {
-   "titel": "Weekendtips: deze dingen doe je in Eindhoven (27 - 29 november)",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711662/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:13:25+00:00",
    "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -4719,6 +4703,39 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716267/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
+   "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716267/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html",
+   "tekst": "",
+   "datum": "2026-11-26T05:13:02+00:00",
+   "eerst_gezien": "2026-11-26T05:18:38.599978+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 06:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711662/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html": {
+   "titel": "Weekendtips: deze dingen doe je in Eindhoven (27 - 29 november)",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711662/weekendtips-deze-dingen-doe-je-in-eindhoven-27-29-november.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:13:25+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711660/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
    "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
@@ -17676,7 +17693,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
