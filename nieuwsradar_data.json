@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 09:48",
+ "bijgewerkt": "26-11-2026 10:04",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -1874,7 +1874,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 09:48"
@@ -2029,7 +2029,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 09:48"
@@ -2494,6 +2494,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
   },
   "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
    "titel": "Aangepaste openingstijden milieustraat in december",
@@ -4233,6 +4250,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108717486/video-noah-16-uit-asten-is-er-vroeg-bij-en-start-eigen-onderneming-van-jongs-af-aan-mee-bezig.html": {
+   "titel": "[VIDEO] Noah (16) uit Asten is er vroeg bij en start eigen onderneming: ´Van jongs af aan mee bezig´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717486/video-noah-16-uit-asten-is-er-vroeg-bij-en-start-eigen-onderneming-van-jongs-af-aan-mee-bezig.html",
+   "tekst": "Noah van Leunen is er vroeg bij. De 16-jarige Astenaar richtte zijn eigen bedrijf op; hij poetst schoenen. Specifieker: hij zorgt dat vieze...",
+   "datum": "2026-11-26T08:53:03+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:53"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108713379/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren.html": {
    "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108713379/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren.html",
@@ -4420,24 +4454,6 @@
    "prio": false,
    "tijd": "21-11 18:53"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671269/streekvervoer-ligt-maandag-en-dinsdag-stil-door-landelijke-staking-ook-in-asten-en-someren.html": {
-   "titel": "Streekvervoer ligt maandag en dinsdag stil door landelijke staking, ook in Asten en Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671269/streekvervoer-ligt-maandag-en-dinsdag-stil-door-landelijke-staking-ook-in-asten-en-someren.html",
-   "tekst": "Wie aankomende maandag en dinsdag met de bus wil reizen, moet rekening houden met flinke hinder. Medewerkers in het streekvervoer leggen...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108715394/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html": {
    "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108715394/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html",
@@ -4589,6 +4605,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126095055a1deurnerit141050": {
+   "titel": "A1 Deurne Rit: 141050",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126095055a1deurnerit141050",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-26T09:50:55+01:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "26-11 09:50"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094356ongevalwegvervoerletselruusbroeclaannachtegaalla": {
    "titel": "Ongeval wegvervoer letsel Ruusbroeclaan Nachtegaallaan Helmond",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094356ongevalwegvervoerletselruusbroeclaannachtegaalla",
@@ -4601,7 +4634,7 @@
    ],
    "soort": "112 politie",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 09:43"
@@ -4618,7 +4651,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 09:43"
@@ -5167,23 +5200,6 @@
    "prio": false,
    "tijd": "25-11 13:40"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126123434a2lieroprit140704": {
-   "titel": "A2 Lierop Rit: 140704",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126123434a2lieroprit140704",
-   "tekst": "MKA Brabant-Zuidoost (Rapid Responder 22-340)",
-   "datum": "2026-11-25T12:34:34+01:00",
-   "eerst_gezien": "2026-11-25T11:46:06.178722+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 12:34"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -5200,6 +5216,41 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108671269/streekvervoer-ligt-maandag-en-dinsdag-stil-door-landelijke-staking-ook-in-asten-en-someren.html": {
+   "titel": "Streekvervoer ligt maandag en dinsdag stil door landelijke staking, ook in Asten en Someren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671269/streekvervoer-ligt-maandag-en-dinsdag-stil-door-landelijke-staking-ook-in-asten-en-someren.html",
+   "tekst": "Wie aankomende maandag en dinsdag met de bus wil reizen, moet rekening houden met flinke hinder. Medewerkers in het streekvervoer leggen...",
+   "datum": "2026-11-21T17:53:14+00:00",
+   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 18:53"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126123434a2lieroprit140704": {
+   "titel": "A2 Lierop Rit: 140704",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126123434a2lieroprit140704",
+   "tekst": "MKA Brabant-Zuidoost (Rapid Responder 22-340)",
+   "datum": "2026-11-25T12:34:34+01:00",
+   "eerst_gezien": "2026-11-25T11:46:06.178722+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 12:34"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126121450a2helmondrit140691": {
    "titel": "A2 Helmond Rit: 140691",
@@ -14804,23 +14855,6 @@
    "prio": false,
    "tijd": "19-11 12:16"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646272/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne.html": {
-   "titel": "Bandeville eert Willy DeVille met concert in Cultuurcentrum Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646272/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne.html",
-   "tekst": "",
-   "datum": "2026-11-19T08:49:07+00:00",
-   "eerst_gezien": "2026-11-19T08:53:35.986872+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
@@ -15653,23 +15687,6 @@
    "prio": false,
    "tijd": "20-11 09:49"
   },
-  "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/": {
-   "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
-   "link": "https://www.ed.nl/helmond/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond~ac73b393/",
-   "tekst": "Cadeaustress voor pakjesavond? Nergens voor nodig, want je scoort het allemaal bij de speelgoedwinkels in Helmond. Van bordspellen tot Lego en computergames: bij deze zaken kun je terecht voor sinterklaascadeaus.",
-   "datum": "2026-11-19T09:00:46+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html": {
    "titel": "Drugs aangetroffen en twee aanhoudingen bij inval in Eindhovense kapsalon",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html",
@@ -16181,23 +16198,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/beauty-geek-nieuw-seizoen-helmond~add3d8ad/": {
-   "titel": "Looks of brains? Deze Helmonder doet mee aan Beauty and the geek",
-   "link": "https://www.ed.nl/helmond/beauty-geek-nieuw-seizoen-helmond~add3d8ad/",
-   "tekst": "De een valt als een blok voor uiterlijke kenmerken, de ander kijkt juist naar de innerlijke schoonheid van iemand. Maar wat als je nou altijd wordt beoordeeld op enkel je uiterlijk of je slimheid? Dan doe je mee aan Beauty and the geek en zoek je uit of looks en brains ook ook …",
-   "datum": "2026-11-19T09:00:00+00:00",
-   "eerst_gezien": "2026-11-19T15:08:13.866338+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 10:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651695/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html": {
    "titel": "Margriet (65) neemt na 42 jaar afscheid van Kafee Kix op Stratumseind: `Ik ben wel toe aan mijn pensioen`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651695/margriet-65-neemt-na-42-jaar-afscheid-van-kafee-kix-op-stratumseind-ik-ben-wel-toe-aan-mijn-pensioen.html",
@@ -16394,23 +16394,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/helmond/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen~a3fe26df/": {
-   "titel": "Bibliotheek Helmond-Peel biedt ruimte voor gesprek over verslavingsproblemen",
-   "link": "https://www.ed.nl/helmond/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen~a3fe26df/",
-   "tekst": "De vierde bijeenkomst van Kop en Koffie staat in het teken van steun voor naasten van mensen met verslavingsproblemen. Dinsdag 1 december begint de avond om 19.30 uur in Bibliotheek Helmond-Peel aan de Watermolenwal 11 in Helmond.",
-   "datum": "2026-11-19T08:54:00+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:54"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651418/margriet-vos-gaat-met-pensioen-na-42-jaar-kafee-kix-straks-plaatjes-draaien-met-een-advocaatje-met-slagroom.html": {
    "titel": "Margriet Vos gaat met pensioen na 42 jaar Kafee Kix: `Straks plaatjes draaien met een advocaatje met slagroom`",
@@ -16640,7 +16623,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "19-11 18:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108650685/arrestatieteam-valt-woning-binnen-in-eindhoven-en-houdt-man-aan.html": {
    "titel": "Arrestatieteam valt woning binnen in Eindhoven en houdt man aan",
@@ -17773,7 +17757,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "19-11 10:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108646464/maikel-ziet-dagelijks-wat-er-misgaat-als-zorg-te-laat-komt-ook-bij-mensen-bij-wie-vanavond-niemand-belt.html": {
    "titel": "Maikel ziet dagelijks wat er misgaat als zorg te laat komt: `Ook bij mensen bij wie vanavond niemand belt`",
@@ -17839,7 +17824,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "19-11 10:07"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108646424/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html": {
    "titel": "Shoppen voor Sinterklaas: 7 x speelgoedwinkels in Helmond",
@@ -17895,22 +17881,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108646397/shoppen-voor-sinterklaas-7-x-speelgoedwinkels-in-helmond.html",
    "tekst": "",
    "datum": "2026-11-19T09:04:34+00:00",
-   "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646362/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen.html": {
-   "titel": "Bibliotheek Helmond-Peel biedt ruimte voor gesprek over verslavingsproblemen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646362/bibliotheek-helmond-peel-biedt-ruimte-voor-gesprek-over-verslavingsproblemen.html",
-   "tekst": "",
-   "datum": "2026-11-19T09:01:05+00:00",
    "eerst_gezien": "2026-11-19T09:09:47.831589+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -18020,7 +17990,7 @@
   },
   "Gemeente Helmond": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "Gemeente Deurne": {
