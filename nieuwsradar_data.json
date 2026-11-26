@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 14:21",
+ "bijgewerkt": "26-11-2026 14:37",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
    "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
@@ -789,7 +789,7 @@
   "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/": {
    "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
    "link": "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/",
-   "tekst": "Een nieuwe braadpan scoren, op zoek naar een goed koksmes of inspiratie opdoen voor je volgende etentje? Helmondse hobbykoks hebben er een nieuw adresje bij. In de binnenstad is Coenen Kookwinkel geopend.",
+   "tekst": "Een nieuwe braadpan scoren, op zoek naar een goed koksmes of inspiratie opdoen voor je volgende etentje? Helmondse hobbykoks hebben er een nieuw adresje bij. In de binnenstad is Kookwinkel Coenen geopend.",
    "datum": "2026-11-26T11:13:00+00:00",
    "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
    "bron": "ED Helmond",
@@ -3787,6 +3787,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108719900/gifvrij-meierij-wil-einde-aan-niet-biologische-lelieteelt-in-meierijstad.html": {
+   "titel": "Gifvrij Meierij wil einde aan niet-biologische lelieteelt in Meierijstad",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108719900/gifvrij-meierij-wil-einde-aan-niet-biologische-lelieteelt-in-meierijstad.html",
+   "tekst": "",
+   "datum": "2026-11-26T13:31:04+00:00",
+   "eerst_gezien": "2026-11-26T13:37:22.558856+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 14:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108719633/jubileumconcert-symfonisch-collectief-in-nuenen.html": {
    "titel": "Jubileumconcert Symfonisch Collectief in Nuenen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108719633/jubileumconcert-symfonisch-collectief-in-nuenen.html",
@@ -4000,22 +4017,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108718036/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond.html": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718036/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond.html",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen' Daar werkt de gemeente...",
-   "datum": "2026-11-26T09:58:03+00:00",
-   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718952/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne.html": {
    "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
@@ -4518,6 +4519,40 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143659a2helmondrit141190": {
+   "titel": "A2 Helmond Rit: 141190",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143659a2helmondrit141190",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-26T14:36:59+01:00",
+   "eerst_gezien": "2026-11-26T13:37:22.558856+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 14:36"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143227a2deurnerit141188": {
+   "titel": "A2 Deurne Rit: 141188",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143227a2deurnerit141188",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T14:32:27+01:00",
+   "eerst_gezien": "2026-11-26T13:37:22.558856+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 14:32"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126135313a2helmondrit141170": {
    "titel": "A2 Helmond Rit: 141170",
@@ -5096,6 +5131,22 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 18:41"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718036/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond.html": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718036/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond.html",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen' Daar werkt de gemeente...",
+   "datum": "2026-11-26T09:58:03+00:00",
+   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108717925/chronische-leukemie-sloeg-in-als-een-donderslag-voor-timo-25-ik-wist-niet-of-ik-nog-thuis-zou-komen.html": {
    "titel": "Chronische leukemie sloeg in als een donderslag voor Timo (25): `Ik wist niet of ik nog thuis zou komen`",
@@ -16550,23 +16601,6 @@
    "prio": false,
    "tijd": "20-11 06:00"
   },
-  "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/": {
-   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
-   "link": "https://112brabant.nl/2026/11/19/video/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel/",
-   "tekst": "HELMOND – De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer woonwagens aan de Rivierensingel en Helmondsingel en een bedrijfspand aan de 1e Tussendijk zijn doorzocht. De invallen maken deel uit …",
-   "datum": "2026-11-19T13:25:55+00:00",
-   "eerst_gezien": "2026-11-19T13:28:47.980982+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:25"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
    "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
@@ -17624,23 +17658,6 @@
    "prio": false,
    "tijd": "19-11 14:43"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108648801/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel.html": {
-   "titel": "FIOD doet invallen bij woonwagens en bedrijfspand in onderzoek naar metaalhandel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108648801/fiod-doet-invallen-bij-woonwagens-en-bedrijfspand-in-onderzoek-naar-metaalhandel.html",
-   "tekst": "De Fiscale Inlichtingen- en Opsporingsdienst (FIOD) heeft donderdagochtend op meerdere locaties in Helmond invallen gedaan. Onder meer...",
-   "datum": "2026-11-19T13:29:03+00:00",
-   "eerst_gezien": "2026-11-19T13:44:57.491148+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:29"
-  },
   "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
    "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
    "link": "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/",
@@ -17833,7 +17850,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 36,
    "fout": ""
   },
   "112Brabant": {
