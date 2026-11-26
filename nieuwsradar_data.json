@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 19:27",
+ "bijgewerkt": "26-11-2026 19:43",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -3885,7 +3885,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 19:13"
@@ -4723,6 +4723,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126194243a2helmondrit141323": {
+   "titel": "A2 Helmond Rit: 141323",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126194243a2helmondrit141323",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T19:42:43+01:00",
+   "eerst_gezien": "2026-11-26T18:43:23.099449+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 19:42"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126190933a2astenrit141313": {
    "titel": "A2 Asten Rit: 141313",
@@ -15806,23 +15823,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open~a024fec1/",
-   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
-   "datum": "2026-11-19T18:30:00+00:00",
-   "eerst_gezien": "2026-11-19T19:59:55.459467+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662955/dordtse-afgang-compleet-in-helmond-5-1-achterstand-en-op-de-bodem-van-de-ranglijst.html": {
    "titel": "Dordtse afgang compleet in Helmond: 5-1 achterstand en op de bodem van de ranglijst",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662955/dordtse-afgang-compleet-in-helmond-5-1-achterstand-en-op-de-bodem-van-de-ranglijst.html",
@@ -17352,7 +17352,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 00:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108654530/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -17713,7 +17714,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "19-11 20:29"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651459/nienke-36-maakte-als-kind-de-buurt-al-schoon-met-een-eigen-afvalprikker-en-helpt-nu-anderen-met-opruimen.html": {
    "titel": "Nienke (36) maakte als kind de buurt al schoon met een eigen afvalprikker en helpt nu anderen met opruimen",
@@ -17813,23 +17815,6 @@
    "prio": false,
    "tijd": "19-11 19:49"
   },
-  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/": {
-   "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
-   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open~a024fec1/",
-   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
-   "datum": "2026-11-19T18:30:00+00:00",
-   "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651307/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
    "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651307/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
@@ -17844,39 +17829,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651280/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html": {
-   "titel": "Vakbonden zoeken opnieuw contact met ASML na vastgelopen reorganisatie: `We moeten het vertrouwen herstellen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651280/vakbonden-zoeken-opnieuw-contact-met-asml-na-vastgelopen-reorganisatie-we-moeten-het-vertrouwen-herstellen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:43:16+00:00",
-   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651279/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
-   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651279/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:43:16+00:00",
-   "eerst_gezien": "2026-11-19T18:55:19.341003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "19-11 19:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108651512/na-ruim-dertig-jaar-is-het-fietspad-tussen-eindhoven-en-helmond-eindelijk-open.html": {
    "titel": "Na ruim dertig jaar is het fietspad tussen Eindhoven en Helmond eindelijk open",
@@ -17884,39 +17838,6 @@
    "tekst": "",
    "datum": "2026-11-19T19:25:14+00:00",
    "eerst_gezien": "2026-11-19T19:27:46.397047+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/": {
-   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
-   "link": "https://www.ed.nl/nuenen-gerwen-en-nederwetten/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen~a024fec1/",
-   "tekst": "Fietssnelweg, snelfietspad of doorfietsroute: op een strook roodgekleurd asfalt kun je verschillende termen plakken. Maar hoe je de weg ook noemt, tussen Eindhoven en Helmond kan na ruim dertig jaar écht doorgefietst worden.",
-   "datum": "2026-11-19T18:30:38+00:00",
-   "eerst_gezien": "2026-11-19T18:37:47.746384+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 19:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
-   "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
-   "tekst": "",
-   "datum": "2026-11-19T18:34:04+00:00",
-   "eerst_gezien": "2026-11-19T18:37:47.746384+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -18051,7 +17972,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
