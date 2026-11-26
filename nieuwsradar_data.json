@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 09:16",
+ "bijgewerkt": "26-11-2026 09:32",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 09:09"
@@ -1862,23 +1862,6 @@
    "prio": false,
    "tijd": "20-11 09:52"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne": {
-   "titel": "Vergunning voor nieuwe kozijnen in zijgevel in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne",
-   "tekst": "19 november 2026 De gemeente Deurne heeft een vergunning verleend voor het plaatsen van twee kozijnen in de zijgevel van een woning aan de Korhoender.",
-   "datum": "2026-11-19T08:21:25.517896+00:00",
-   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:21"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne": {
    "titel": "Tijdelijke woonunit voor twee jaar aan Belgerenseweg in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne",
@@ -2478,56 +2461,73 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
+  "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
+   "titel": "Brand basisschool Zeilberg",
+   "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
+   "bron": "Gemeente Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "gemeente",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "25-11 11:20"
+   "tijd": "23-11 01:00"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
+  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
+   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
+   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "gemeente",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 21:59"
+   "tijd": "23-11 01:00"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
+  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
+   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
+   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
+   "bron": "Gemeente Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "gemeente",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 21:16"
+   "tijd": "23-11 01:00"
+  },
+  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
+   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
+   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
+   "tekst": "",
+   "datum": "2026-11-23T00:00:00+00:00",
+   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 01:00"
   },
   "https://www.asten.nl/nieuws/artikel/ontdek-museum-klok-peel": {
    "titel": "Ontdek Museum Klok & Peel",
@@ -2661,7 +2661,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2678,7 +2678,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2695,7 +2695,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2712,7 +2712,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2729,7 +2729,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2746,7 +2746,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2763,7 +2763,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2780,7 +2780,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2797,7 +2797,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2814,7 +2814,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2831,7 +2831,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2865,7 +2865,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2882,7 +2882,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2899,7 +2899,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2916,7 +2916,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2933,7 +2933,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2950,7 +2950,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2967,7 +2967,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -2984,7 +2984,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3001,7 +3001,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3018,7 +3018,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3035,7 +3035,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3052,7 +3052,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3069,7 +3069,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3086,7 +3086,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3103,7 +3103,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3120,7 +3120,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3137,7 +3137,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3205,7 +3205,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3294,6 +3294,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-551868.html": {
+   "titel": "Kennisgeving besluit intrekking omgevingsvergunning Centurioweg 14 5759PH Helenaveen",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-551868.html",
+   "tekst": "het intrekken van een omgevingsvergunning",
+   "datum": "2026-11-26T00:00:00+00:00",
+   "eerst_gezien": "2026-11-26T08:32:21.046484+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-544374.html": {
    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Hoofdstraat 48 5757AN Liessel",
@@ -3397,6 +3414,23 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-552933.html": {
+   "titel": "Gemeente Asten - verleende omgevingsvergunning, 't Hoekske 10b 5725AT Heusden",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-552933.html",
+   "tekst": "het verlengen van de vergunning voor een tijdelijke woonunit",
+   "datum": "2026-11-26T00:00:00+00:00",
+   "eerst_gezien": "2026-11-26T08:32:21.046484+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-542901.html": {
    "titel": "Regeling privaatrechtelijke vergoedingen gemeente Asten 2027",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-542901.html",
@@ -3413,6 +3447,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-551327.html": {
+   "titel": "Gemeente Asten - verleende omgevingsvergunning, Behelp 11 5725TG Heusden",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-551327.html",
+   "tekst": "het uitbreiden van een woning",
+   "datum": "2026-11-26T00:00:00+00:00",
+   "eerst_gezien": "2026-11-26T08:32:21.046484+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-546139.html": {
    "titel": "Gemeente Asten - intrekken aanvraag omgevingsvergunning, Jan van der Diesduncstraat 10 5721VM Asten",
@@ -3464,6 +3515,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-551517.html": {
+   "titel": "Verlenen omgevingsvergunning Hemelaar 24 te Lierop",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-551517.html",
+   "tekst": "Plaatsen draagbalk tbv verwijderen van een draagmuur Hemelaar 24",
+   "datum": "2026-11-26T00:00:00+00:00",
+   "eerst_gezien": "2026-11-26T08:32:21.046484+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-543608.html": {
    "titel": "Verlengen beslistermijn aanvraag omgevingsvergunning Moorsel 3 en 3a te Lierop",
@@ -3562,7 +3630,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3651,6 +3719,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108717264/duizenden-klanten-dreigen-e-mailadres-kwijt-te-raken-door-nieuwe-kpn-maildienst-daar-zijn-peter-en-marian-niet-blij-mee.html": {
+   "titel": "Duizenden klanten dreigen e-mailadres kwijt te raken door nieuwe KPN-maildienst, daar zijn Peter en Marian niet blij mee",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108717264/duizenden-klanten-dreigen-e-mailadres-kwijt-te-raken-door-nieuwe-kpn-maildienst-daar-zijn-peter-en-marian-niet-blij-mee.html",
+   "tekst": "",
+   "datum": "2026-11-26T08:19:04+00:00",
+   "eerst_gezien": "2026-11-26T08:32:21.046484+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108716865/raadslid-zet-vraagtekens-bij-30000-euro-subsidie-voor-eindhovense-suriname-tentoonstelling.html": {
    "titel": "Raadslid zet vraagtekens bij 30.000 euro subsidie voor Eindhovense Suriname-tentoonstelling",
@@ -3875,22 +3960,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
-   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:31:03+00:00",
-   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -4447,7 +4516,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 09:04"
@@ -5047,6 +5116,73 @@
    "prio": false,
    "tijd": "25-11 07:57"
   },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:31:03+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126104348a2helmondrit140642": {
    "titel": "A2 Helmond Rit: 140642",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126104348a2helmondrit140642",
@@ -5114,74 +5250,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 10:18"
-  },
-  "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
-   "titel": "Brand basisschool Zeilberg",
-   "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T16:58:08.572207+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies": {
-   "titel": "Vergaderingen raadscommissies 1, 2 en 3 december",
-   "link": "https://www.deurne.nl/nieuws/vergaderingen-raadscommissies",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers": {
-   "titel": "Uitnodiging: samen aftellen voor ‘Ons dorp in de schijnwerpers’",
-   "link": "https://www.deurne.nl/nieuws/uitnodiging-aftellen-voor-ons-dorp-in-de-schijnwerpers",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T14:33:33.834503+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
-  },
-  "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie": {
-   "titel": "Deurne geeft professionele organisaties gelijke kansen op subsidie",
-   "link": "https://www.deurne.nl/nieuws/deurne-geeft-professionele-organisaties-gelijke-kansen-op-subsidie",
-   "tekst": "",
-   "datum": "2026-11-23T00:00:00+00:00",
-   "eerst_gezien": "2026-11-23T12:24:56.521105+00:00",
-   "bron": "Gemeente Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 01:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
    "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
@@ -8097,23 +8165,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "24-11 09:42"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126092821a2helmondrit140172": {
-   "titel": "A2 Helmond Rit: 140172",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126092821a2helmondrit140172",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T09:28:21+01:00",
-   "eerst_gezien": "2026-11-24T08:42:51.782472+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 09:28"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108703961/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
    "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
@@ -17853,23 +17904,6 @@
    "prio": false,
    "tijd": "19-11 11:43"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646095/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
-   "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646095/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
-   "tekst": "",
-   "datum": "2026-11-19T08:25:11+00:00",
-   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:25"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647095/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html": {
    "titel": "Rechter zet streep door beroep van Nuenense tegenstander van azc",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647095/rechter-zet-streep-door-beroep-van-nuenense-tegenstander-van-azc.html",
@@ -17886,23 +17920,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 11:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
-   "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
-   "tekst": "",
-   "datum": "2026-11-19T08:19:02+00:00",
-   "eerst_gezien": "2026-11-19T08:21:25.517896+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:19"
   }
  },
  "bronnen": {
@@ -17953,7 +17970,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 22,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -17967,14 +17984,14 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 3,
-   "fout": ""
-  },
-  "Gemeente Deurne": {
    "ok": false,
    "aantal": 0,
-   "fout": "TimeoutError: The read operation timed out"
+   "fout": "ParseError: no element found: line 2, column 0"
+  },
+  "Gemeente Deurne": {
+   "ok": true,
+   "aantal": 4,
+   "fout": ""
   },
   "Gemeente Asten": {
    "ok": true,
@@ -17993,17 +18010,17 @@
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "Bekendmakingen Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 6,
    "fout": ""
   },
   "Bekendmakingen Someren": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Helmond": {
