@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 07:39",
+ "bijgewerkt": "26-11-2026 07:55",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -781,7 +781,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 07:29"
@@ -2461,57 +2461,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
-  },
   "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
    "titel": "Brand basisschool Zeilberg",
    "link": "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg",
@@ -3175,6 +3124,39 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716715/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
+   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716715/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
+   "tekst": "",
+   "datum": "2026-11-26T06:49:08+00:00",
+   "eerst_gezien": "2026-11-26T06:54:54.426354+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716714/vraagtekens-bij-30000-euro-voor-expositie-in-eindhoven-over-onafhankelijkheid-suriname.html": {
+   "titel": "Vraagtekens bij 30.000 euro voor expositie in Eindhoven over onafhankelijkheid Suriname",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716714/vraagtekens-bij-30000-euro-voor-expositie-in-eindhoven-over-onafhankelijkheid-suriname.html",
+   "tekst": "",
+   "datum": "2026-11-26T06:49:08+00:00",
+   "eerst_gezien": "2026-11-26T06:54:54.426354+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 07:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108716586/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
    "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108716586/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
@@ -3187,7 +3169,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3403,40 +3385,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711708/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html": {
-   "titel": "`Waterhart` klopt nog steeds bij koning Willem-Alexander: humor maar ook kritische vragen bij bezoek aan Brabant Water",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711708/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:25:11+00:00",
-   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 20:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108711688/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
-   "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711688/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html",
-   "tekst": "",
-   "datum": "2026-11-25T19:19:03+00:00",
-   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 20:19"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html",
@@ -3615,22 +3563,6 @@
    "soort": "verzamelsite",
    "betaald": false,
    "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108716602/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
-   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716602/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
-   "tekst": "",
-   "datum": "2026-11-26T06:34:06+00:00",
-   "eerst_gezien": "2026-11-26T06:38:52.057552+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": true,
    "dagen": 7,
    "prio": false
   },
@@ -3831,40 +3763,6 @@
    "gemeenten": [
     "Asten",
     "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671266/fotos-opbouw-van-asielzoekersopvang-in-asten-van-start-gegaan.html": {
-   "titel": "[FOTO’S] Opbouw van asielzoekersopvang in Asten van start gegaan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671266/fotos-opbouw-van-asielzoekersopvang-in-asten-van-start-gegaan.html",
-   "tekst": "Er rijden vrachtwagens af en aan om de asielopvang in Asten gereed te maken. Enige haast is geboden: als het meezit, wonen er per half...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671263/video-van-baars-bleekerven-en-hartman-winnen-felbegeerde-prijs-heel-veel-reacties-gekregen.html": {
-   "titel": "[VIDEO] Van Baars, Bleekerven en Hartman winnen felbegeerde prijs: ´Heel veel reacties gekregen´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671263/video-van-baars-bleekerven-en-hartman-winnen-felbegeerde-prijs-heel-veel-reacties-gekregen.html",
-   "tekst": "Kunst - en siersmederij Van Baars, Groentekwekerij ´t Bleekerven BV en Hartman Bouwbedrijf BV zijn uitgeroepen tot de Astense ondernemers...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -4601,6 +4499,141 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711708/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html": {
+   "titel": "`Waterhart` klopt nog steeds bij koning Willem-Alexander: humor maar ook kritische vragen bij bezoek aan Brabant Water",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711708/waterhart-klopt-nog-steeds-bij-koning-willem-alexander-humor-maar-ook-kritische-vragen-bij-bezoek-aan-brabant-water.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:25:11+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108711688/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
+   "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108711688/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html",
+   "tekst": "",
+   "datum": "2026-11-25T19:19:03+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108716602/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html": {
+   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108716602/kindermiddag-in-museum-klok-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren.html",
+   "tekst": "",
+   "datum": "2026-11-26T06:34:06+00:00",
+   "eerst_gezien": "2026-11-26T06:38:52.057552+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108671266/fotos-opbouw-van-asielzoekersopvang-in-asten-van-start-gegaan.html": {
+   "titel": "[FOTO’S] Opbouw van asielzoekersopvang in Asten van start gegaan",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671266/fotos-opbouw-van-asielzoekersopvang-in-asten-van-start-gegaan.html",
+   "tekst": "Er rijden vrachtwagens af en aan om de asielopvang in Asten gereed te maken. Enige haast is geboden: als het meezit, wonen er per half...",
+   "datum": "2026-11-21T17:53:14+00:00",
+   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 18:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108671263/video-van-baars-bleekerven-en-hartman-winnen-felbegeerde-prijs-heel-veel-reacties-gekregen.html": {
+   "titel": "[VIDEO] Van Baars, Bleekerven en Hartman winnen felbegeerde prijs: ´Heel veel reacties gekregen´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671263/video-van-baars-bleekerven-en-hartman-winnen-felbegeerde-prijs-heel-veel-reacties-gekregen.html",
+   "tekst": "Kunst - en siersmederij Van Baars, Groentekwekerij ´t Bleekerven BV en Hartman Bouwbedrijf BV zijn uitgeroepen tot de Astense ondernemers...",
+   "datum": "2026-11-21T17:53:14+00:00",
+   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 18:53"
   },
   "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/": {
    "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
@@ -16308,23 +16341,6 @@
    "prio": false,
    "tijd": "19-11 14:55"
   },
-  "https://www.ed.nl/helmond/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond~a5a9470e/": {
-   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
-   "link": "https://www.ed.nl/helmond/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond~a5a9470e/",
-   "tekst": "Alzheimer Café zuidoost Brabant sluit het jaar af met een bijeenkomst in Helmond. Donderdag 17 december is de feestelijke jaarafsluiting van 19.30 tot 21.00 uur in Wijkhuis Westwijzer aan de Cortenbachstraat 70.",
-   "datum": "2026-11-19T06:39:00+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:39"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108648925/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html": {
    "titel": "Pril plan voor productie groen gas in buitengebied Milheeze",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108648925/pril-plan-voor-productie-groen-gas-in-buitengebied-milheeze.html",
@@ -17439,57 +17455,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645550/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html": {
-   "titel": "Waarom PSV gelooft dat de stadionuitbreiding haalbaar is: `Anders missen we een hele generatie supporters`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645550/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:49:06+00:00",
-   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645548/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html": {
-   "titel": "Weet je nog' Deze `GTA`-streetart stond jarenlang op de muur in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645548/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:49:06+00:00",
-   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645546/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html": {
-   "titel": "Harmonie Phileutonia uit Eindhoven houdt familiekerstconcert met kerstmarkt in Nuenen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645546/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:49:06+00:00",
-   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 07:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html": {
    "titel": "Niet de markt, maar bedrijven en rijke supporters: zo wil PSV de helft van 400 miljoen voor uitbreiding stadion ophalen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108646049/niet-de-markt-maar-bedrijven-en-rijke-supporters-zo-wil-psv-de-helft-van-400-miljoen-voor-uitbreiding-stadion-ophalen.html",
@@ -17506,86 +17471,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 09:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645544/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
-   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645544/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:49:05+00:00",
-   "eerst_gezien": "2026-11-19T07:01:10.871697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html": {
-   "titel": "Waarom PSV gelooft dat de stadionuitbreiding haalbaar is: `Anders missen we een hele generatie supporters`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645503/waarom-psv-gelooft-dat-de-stadionuitbreiding-haalbaar-is-anders-missen-we-een-hele-generatie-supporters.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:43:19+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html": {
-   "titel": "Weet je nog' Deze `GTA`-streetart stond jarenlang op de muur in Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645501/weet-je-nog-deze-gta-streetart-stond-jarenlang-op-de-muur-in-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:43:19+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html": {
-   "titel": "Harmonie Phileutonia uit Eindhoven houdt familiekerstconcert met kerstmarkt in Nuenen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645499/harmonie-phileutonia-uit-eindhoven-houdt-familiekerstconcert-met-kerstmarkt-in-nuenen.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:43:19+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html": {
-   "titel": "Alzheimer Café sluit jaar af met bijeenkomst over naasten in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108645497/alzheimer-cafe-sluit-jaar-af-met-bijeenkomst-over-naasten-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-19T06:43:18+00:00",
-   "eerst_gezien": "2026-11-19T06:45:07.373899+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -17650,9 +17535,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 3,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 500: Internal server error"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -17701,7 +17586,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Someren": {
