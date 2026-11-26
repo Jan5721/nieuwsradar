@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 14:54",
+ "bijgewerkt": "26-11-2026 15:10",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64934/werkzaamheden-aan-wieken-holtens-molen-in-volle-gang": {
    "titel": "Werkzaamheden aan wieken Holten’s Molen in volle gang",
@@ -781,7 +781,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 14:43"
@@ -986,7 +986,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 14:47"
@@ -1042,6 +1042,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 13:29"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036185/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les": {
+   "titel": "Enorme puzzel na schoolbrand opgelost: 300 kinderen kunnen weer naar de les",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036185/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les",
+   "tekst": "De ongeveer driehonderd leerlingen van basisschool De Zeilberg in Deurne kunnen vanaf dinsdag weer naar school. Na de verwoestende brand van afgelopen vrijdag is een noodlocatie gevonden in Someren. \"Deze locatie zal nooit zo ideaal zijn als het was, maar we zijn heel erg blij\", …",
+   "datum": "2026-11-26T14:00:00+00:00",
+   "eerst_gezien": "2026-11-26T14:09:45.093407+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 15:00"
   },
   "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren": {
    "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
@@ -1302,7 +1320,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
-   "tekst": "vrijdag Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad eindelijk …",
+   "tekst": "20 november 2026 Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad …",
    "datum": "2026-11-20T07:16:17.232955+00:00",
    "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1593,7 +1611,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035982/lekkage-in-wagnerstraat-deurne-mogelijk-geen-of-bruin-water": {
    "titel": "Lekkage in Wagnerstraat Deurne: mogelijk geen of bruin water",
    "link": "https://www.omroepbrabant.nl/nieuws/6035982/lekkage-in-wagnerstraat-deurne-mogelijk-geen-of-bruin-water",
-   "tekst": "",
+   "tekst": "De waterstoring in de Wagnerstraat en omgeving in Deurne is verholpen. Door een lekkage zaten bewoners sinds vanochtend zonder water of hadden ze last van bruin water en lage waterdruk.",
    "datum": "2026-11-24T15:07:19.919318+00:00",
    "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1627,7 +1645,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035850/eerste-projectie-ons-dorp-in-de-schijnwerpers-in-vlierden": {
    "titel": "Eerste projectie 'Ons dorp in de schijnwerpers' in Vlierden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035850/eerste-projectie-ons-dorp-in-de-schijnwerpers-in-vlierden",
-   "tekst": "Woensdagavond 25 november start het project 'Ons dorp in de schijnwerpers' in Vlierden. Om 18.30 uur wordt de eerste lichtprojectie op de Sint Willibrorduskerk onthuld. Burgemeester en kinderen geven samen het startsein.",
+   "tekst": "maandag Woensdagavond 25 november start het project 'Ons dorp in de schijnwerpers' in Vlierden. Om 18.30 uur wordt de eerste lichtprojectie op de Sint Willibrorduskerk onthuld. Burgemeester en kinderen geven samen het startsein.",
    "datum": "2026-11-23T16:10:11.320091+00:00",
    "eerst_gezien": "2026-11-23T16:10:11.320091+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -3833,7 +3851,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3849,7 +3867,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 14:49"
@@ -3866,7 +3884,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3882,7 +3900,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4585,39 +4603,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html": {
-   "titel": "Van gezonde student naar patiënt in één nacht: Timo (25) wil dat niemand kanker nog negeert",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html",
-   "tekst": "",
-   "datum": "2026-11-26T10:19:02+00:00",
-   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
-   "bron": "Drimble Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126150738a2helmondrit141202": {
+   "titel": "A2 Helmond Rit: 141202",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126150738a2helmondrit141202",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T15:07:38+01:00",
+   "eerst_gezien": "2026-11-26T14:09:45.093407+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "26-11 11:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
-   "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
-   "tekst": "",
-   "datum": "2026-11-26T10:13:25+00:00",
-   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 11:13"
+   "tijd": "26-11 15:07"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143659a2helmondrit141190": {
    "titel": "A2 Helmond Rit: 141190",
@@ -5196,6 +5197,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 20:11"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html": {
+   "titel": "Van gezonde student naar patiënt in één nacht: Timo (25) wil dat niemand kanker nog negeert",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:19:02+00:00",
+   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
+   "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:13:25+00:00",
+   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:13"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126184159ongevalwegvervoerletselderpsestraattramstraatdeu": {
    "titel": "Ongeval wegvervoer letsel Derpsestraat Tramstraat Deurne",
@@ -17672,40 +17707,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649081/voorlopig-einde-voor-voedselbos-eindhoven-niet-blijven-hopen-op-iets-dat-misschien-niet-komt.html": {
-   "titel": "Voorlopig einde voor Voedselbos Eindhoven: `Niet blijven hopen op iets dat misschien niet komt`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649081/voorlopig-einde-voor-voedselbos-eindhoven-niet-blijven-hopen-op-iets-dat-misschien-niet-komt.html",
-   "tekst": "",
-   "datum": "2026-11-19T14:07:20+00:00",
-   "eerst_gezien": "2026-11-19T14:17:29.387904+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 15:07"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649004/twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html": {
-   "titel": "Twee aanhoudingen bij inval in Eindhovense kapsalon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649004/twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html",
-   "tekst": "",
-   "datum": "2026-11-19T13:55:05+00:00",
-   "eerst_gezien": "2026-11-19T14:01:15.341513+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 14:55"
-  },
   "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/": {
    "titel": "Alleen ‘zware blaffers’ vormen mogelijk geluidsprobleem voor nieuwe huizen in Vlierden-Zuid",
    "link": "https://www.ed.nl/deurne/alleen-zware-blaffers-vormen-mogelijk-geluidsprobleem-voor-nieuwe-huizen-in-vlierden-zuid~aeea004d/",
@@ -17796,7 +17797,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -17881,7 +17882,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
