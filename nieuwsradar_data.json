@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 09:32",
+ "bijgewerkt": "26-11-2026 09:48",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -1862,6 +1862,23 @@
    "prio": false,
    "tijd": "20-11 09:52"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne": {
+   "titel": "Vergunning voor nieuwe kozijnen in zijgevel in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne",
+   "tekst": "19 november 2026 De gemeente Deurne heeft een vergunning verleend voor het plaatsen van twee kozijnen in de zijgevel van een woning aan de Korhoender.",
+   "datum": "2026-11-26T08:48:18.472684+00:00",
+   "eerst_gezien": "2026-11-26T08:48:18.472684+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:48"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne": {
    "titel": "Tijdelijke woonunit voor twee jaar aan Belgerenseweg in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035220/tijdelijke-woonunit-voor-twee-jaar-aan-belgerenseweg-in-deurne",
@@ -2000,10 +2017,27 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036253/vergunning-verlengd-voor-tijdelijke-woonunit-in-heusden": {
+   "titel": "Vergunning verlengd voor tijdelijke woonunit in Heusden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036253/vergunning-verlengd-voor-tijdelijke-woonunit-in-heusden",
+   "tekst": "",
+   "datum": "2026-11-26T08:48:18.472684+00:00",
+   "eerst_gezien": "2026-11-26T08:48:18.472684+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:48"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035977/gezinnen-met-laag-inkomen-mogen-gratis-naar-museum-klok-peel-in-asten": {
    "titel": "Gezinnen met laag inkomen mogen gratis naar Museum Klok & Peel in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035977/gezinnen-met-laag-inkomen-mogen-gratis-naar-museum-klok-peel-in-asten",
-   "tekst": "",
+   "tekst": "Gezinnen met een laag inkomen kunnen tussen 21 december en 3 januari gratis Museum Klok & Peel in Asten bezoeken. Deze actie is mogelijk dankzij samenwerking tussen Stichting Leergeld en het museum, met steun van de gemeenten Asten en …",
    "datum": "2026-11-24T14:51:25.135845+00:00",
    "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2037,7 +2071,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035979/licht-tuinbouwkassen-lijkt-soms-sterker-door-weersomstandigheden": {
    "titel": "Licht tuinbouwkassen lijkt soms sterker door weersomstandigheden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035979/licht-tuinbouwkassen-lijkt-soms-sterker-door-weersomstandigheden",
-   "tekst": "Het licht van tuinbouwkassen lijkt soms feller door weersomstandigheden zoals mist, lage bewolking of vochtige lucht. Dit betekent niet automatisch dat bedrijven zich niet aan de regels houden.",
+   "tekst": "dinsdag Het licht van tuinbouwkassen lijkt soms feller door weersomstandigheden zoals mist, lage bewolking of vochtige lucht. Dit betekent niet automatisch dat bedrijven zich niet aan de regels houden.",
    "datum": "2026-11-24T14:51:25.135845+00:00",
    "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2460,6 +2494,57 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
   },
   "https://www.deurne.nl/nieuws/brand-basisschool-zeilberg": {
    "titel": "Brand basisschool Zeilberg",
@@ -3307,7 +3392,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3426,7 +3511,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3460,7 +3545,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3528,7 +3613,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3732,7 +3817,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 09:19"
@@ -4504,6 +4589,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094356ongevalwegvervoerletselruusbroeclaannachtegaalla": {
+   "titel": "Ongeval wegvervoer letsel Ruusbroeclaan Nachtegaallaan Helmond",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094356ongevalwegvervoerletselruusbroeclaannachtegaalla",
+   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
+   "datum": "2026-11-26T09:43:56+01:00",
+   "eerst_gezien": "2026-11-26T08:48:18.472684+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 politie",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 09:43"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094319a2helmondrit141042": {
+   "titel": "A2 Helmond Rit: 141042",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094319a2helmondrit141042",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T09:43:19+01:00",
+   "eerst_gezien": "2026-11-26T08:48:18.472684+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 09:43"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126090459a2astenrit141029": {
    "titel": "A2 Asten Rit: 141029",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126090459a2astenrit141029",
@@ -5065,6 +5184,23 @@
    "prio": false,
    "tijd": "25-11 12:34"
   },
+  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
+   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
+   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
+   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
+   "datum": "2026-11-25T06:57:04+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "112Brabant",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112-nieuws",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:57"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#251126121450a2helmondrit140691": {
    "titel": "A2 Helmond Rit: 140691",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126121450a2helmondrit140691",
@@ -5098,74 +5234,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 11:24"
-  },
-  "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
-   "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
-   "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
-   "tekst": "HELMOND - Bij het Kasteel van Sinterklaas aan het Kasteelplein in Helmond is in de nacht van dinsdag op woensdag brand uitgebroken in een container met een grote accu. Bij het kasteel, waar Sinterklaas momenteel verblijft, komen dagelijks veel kinderen op bezoek.",
-   "datum": "2026-11-25T06:57:04+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:57"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
@@ -8148,23 +8216,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "24-11 10:08"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126094225a1helmondrit140179": {
-   "titel": "A1 Helmond Rit: 140179",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126094225a1helmondrit140179",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-24T09:42:25+01:00",
-   "eerst_gezien": "2026-11-24T08:42:51.782472+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "24-11 09:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108703961/max-uit-helmond-weet-zeker-dat-opgezette-dieren-legaal-zijn-geimporteerd-nu-ben-ik-de-gebeten-hond.html": {
    "titel": "Max uit Helmond weet zeker dat opgezette dieren legaal zijn geïmporteerd: `Nu ben ik de gebeten hond`",
@@ -14767,7 +14818,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "19-11 09:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -15766,23 +15818,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/deurne/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne~a0c6f3b5/": {
-   "titel": "Bandeville eert Willy DeVille met concert in Cultuurcentrum Deurne",
-   "link": "https://www.ed.nl/deurne/bandeville-eert-willy-deville-met-concert-in-cultuurcentrum-deurne~a0c6f3b5/",
-   "tekst": "Bandeville geeft een concert in Cultuurcentrum Deurne met muziek van en rond Willy DeVille. Zondag 22 november begint het optreden om 15.30 uur.",
-   "datum": "2026-11-19T08:37:06+00:00",
-   "eerst_gezien": "2026-11-19T08:37:28.137021+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 09:37"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108656365/snel-duidelijkheid-verwacht-over-doorgaan-bedrijventerrein-bolle-akker.html": {
    "titel": "Snel duidelijkheid verwacht over doorgaan bedrijventerrein Bolle Akker",
@@ -17970,12 +18005,12 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 23,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -17984,9 +18019,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "ParseError: no element found: line 2, column 0"
+   "ok": true,
+   "aantal": 3,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
