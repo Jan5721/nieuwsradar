@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 00:33",
+ "bijgewerkt": "27-11-2026 00:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -4543,23 +4543,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht": {
-   "titel": "Stroomstoring in Asten: herstel verwacht rond één uur vannacht",
-   "link": "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht",
-   "tekst": "",
-   "datum": "2026-11-26T20:36:12.849812+00:00",
-   "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 21:36"
-  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126230748a1helmondrit141380": {
    "titel": "A1 Helmond Rit: 141380",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126230748a1helmondrit141380",
@@ -5035,6 +5018,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 11:01"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht": {
+   "titel": "Stroomstoring in Asten: herstel verwacht rond één uur vannacht",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht",
+   "tekst": "",
+   "datum": "2026-11-26T20:36:12.849812+00:00",
+   "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:36"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126100729a2helmondrit141058": {
    "titel": "A2 Helmond Rit: 141058",
@@ -17001,23 +17001,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
-   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655655/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
-   "tekst": "",
-   "datum": "2026-11-19T23:42:09+00:00",
-   "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 00:42"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html": {
    "titel": "Nuijten pakt voor duel in Helmond terug op Dordtse basiself tegen NAC Breda; Sits terug in de selectie",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662215/nuijten-pakt-voor-duel-in-helmond-terug-op-dordtse-basiself-tegen-nac-breda-sits-terug-in-de-selectie.html",
@@ -18115,23 +18098,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108655648/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html": {
-   "titel": "Na ruim 30 jaar is het fietspad van 14 kilometer tussen treinstations Eindhoven en Helmond eindelijk open",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108655648/na-ruim-30-jaar-is-het-fietspad-van-14-kilometer-tussen-treinstations-eindhoven-en-helmond-eindelijk-open.html",
-   "tekst": "",
-   "datum": "2026-11-19T23:42:08+00:00",
-   "eerst_gezien": "2026-11-19T23:45:15.490175+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 00:42"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad": {
    "titel": "Na ruim dertig jaar krijgt wethouder Jan eindelijk zijn snelfietspad",
    "link": "https://www.omroepbrabant.nl/nieuws/6035465/na-ruim-dertig-jaar-krijgt-wethouder-jan-eindelijk-zijn-snelfietspad",
@@ -18306,7 +18272,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 28,
    "fout": ""
   },
   "112Brabant": {
