@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 11:09",
+ "bijgewerkt": "26-11-2026 11:25",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64933/sv-deurne-wil-zich-herpakken-tegen-gsv28": {
    "titel": "SV Deurne wil zich herpakken tegen GSV’28",
@@ -2183,7 +2183,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:08"
@@ -3787,12 +3787,12 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
-   "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html": {
+   "titel": "Van gezonde student naar patiënt in één nacht: Timo (25) wil dat niemand kanker nog negeert",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html",
    "tekst": "",
-   "datum": "2026-11-26T10:01:05+00:00",
-   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
+   "datum": "2026-11-26T10:19:02+00:00",
+   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -3802,7 +3802,24 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "26-11 11:01"
+   "tijd": "26-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
+   "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718232/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:13:25+00:00",
+   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718036/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond.html": {
    "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
@@ -3816,7 +3833,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3970,55 +3987,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 06:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
-   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
-   "tekst": "",
-   "datum": "2026-11-25T22:59:06+00:00",
-   "eerst_gezien": "2026-11-25T23:08:29.413501+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108715166/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html": {
-   "titel": "Tonpraoter Robert van Dijk uit Ammerzoden doet mee aan een van de bekendste toernooien van het land",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108715166/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html",
-   "tekst": "",
-   "datum": "2026-11-25T22:54:06+00:00",
-   "eerst_gezien": "2026-11-25T23:08:29.413501+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 23:54"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108714805/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
-   "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108714805/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html",
-   "tekst": "",
-   "datum": "2026-11-25T22:45:03+00:00",
-   "eerst_gezien": "2026-11-25T22:52:32.592196+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108708733/beslissende-leg-bij-de-heren-4-0-in-de-damesfinale-van-het-benelux-open.html": {
    "titel": "Beslissende leg bij de heren, 4-0 in de damesfinale van het Benelux Open",
@@ -4556,6 +4524,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126111946a2helmondrit141100": {
+   "titel": "A2 Helmond Rit: 141100",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126111946a2helmondrit141100",
+   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
+   "datum": "2026-11-26T11:19:46+01:00",
+   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 11:19"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126111259a2astenrit141096": {
+   "titel": "A2 Asten Rit: 141096",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126111259a2astenrit141096",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T11:12:59+01:00",
+   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 11:12"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110713a2astenrit141092": {
    "titel": "A2 Asten Rit: 141092",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110713a2astenrit141092",
@@ -4568,7 +4570,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 11:07"
@@ -4585,7 +4587,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 11:01"
@@ -5185,23 +5187,6 @@
    "prio": true,
    "tijd": "25-11 13:45"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134044a2somerenrit140730": {
-   "titel": "A2 Someren Rit: 140730",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134044a2somerenrit140730",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T13:40:44+01:00",
-   "eerst_gezien": "2026-11-25T12:49:59.533177+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 13:40"
-  },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
    "link": "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/",
@@ -5218,6 +5203,89 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 07:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
+   "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
+   "tekst": "",
+   "datum": "2026-11-26T10:01:05+00:00",
+   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 11:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108715389/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:59:06+00:00",
+   "eerst_gezien": "2026-11-25T23:08:29.413501+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108715166/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html": {
+   "titel": "Tonpraoter Robert van Dijk uit Ammerzoden doet mee aan een van de bekendste toernooien van het land",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108715166/tonpraoter-robert-van-dijk-uit-ammerzoden-doet-mee-aan-een-van-de-bekendste-toernooien-van-het-land.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:54:06+00:00",
+   "eerst_gezien": "2026-11-25T23:08:29.413501+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 23:54"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108714805/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html": {
+   "titel": "Connie Palmen komt naar Helmond en vertelt over haar `veertigjarige relatie` met alcohol",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108714805/connie-palmen-komt-naar-helmond-en-vertelt-over-haar-veertigjarige-relatie-met-alcohol.html",
+   "tekst": "",
+   "datum": "2026-11-25T22:45:03+00:00",
+   "eerst_gezien": "2026-11-25T22:52:32.592196+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134044a2somerenrit140730": {
+   "titel": "A2 Someren Rit: 140730",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134044a2somerenrit140730",
+   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-25T13:40:44+01:00",
+   "eerst_gezien": "2026-11-25T12:49:59.533177+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "25-11 13:40"
   },
   "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/": {
    "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
@@ -17792,23 +17860,6 @@
    "prio": false,
    "tijd": "19-11 11:31"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108646997/student-stuurt-beeld-van-gewapende-mannen-na-jarenlange-intimidatie-uitgeschreven-bij-universiteiten-in-tilburg-en-eindhoven.html": {
-   "titel": "Student stuurt beeld van gewapende mannen: na jarenlange intimidatie uitgeschreven bij universiteiten in Tilburg en Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108646997/student-stuurt-beeld-van-gewapende-mannen-na-jarenlange-intimidatie-uitgeschreven-bij-universiteiten-in-tilburg-en-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-19T10:13:05+00:00",
-   "eerst_gezien": "2026-11-19T10:15:11.972679+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 11:13"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html": {
    "titel": "Na jarenlange intimidatie is student niet meer welkom bij universiteiten Eindhoven en Tilburg",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108647661/na-jarenlange-intimidatie-is-student-niet-meer-welkom-bij-universiteiten-eindhoven-en-tilburg.html",
@@ -17981,7 +18032,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18001,7 +18052,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 38,
+   "aantal": 39,
    "fout": ""
   },
   "112Brabant": {
