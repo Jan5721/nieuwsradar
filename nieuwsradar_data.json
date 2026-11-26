@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 16:30",
+ "bijgewerkt": "26-11-2026 16:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64935/vogelsbos-in-neerkant-krijgt-ruimte-voor-nieuwe-bomen": {
    "titel": "Vogelsbos in Neerkant krijgt ruimte voor nieuwe bomen",
@@ -577,7 +577,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 16:10"
@@ -1061,24 +1061,6 @@
    "prio": false,
    "tijd": "26-11 15:30"
   },
-  "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren": {
-   "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
-   "link": "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren",
-   "tekst": "De sluizen 10 in Asten en 12 bij Someren-Eind gaan volgend jaar bijna vier maanden dicht om gerenoveerd te worden. Dat stond al op de planning, maar Rijkswaterstaat heeft vier weken extra nodig. Schippers moeten daardoor flink omvaren en zijn benieuwd wat dat voor het transport …",
-   "datum": "2026-11-25T19:15:00+00:00",
-   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 20:15"
-  },
   "https://www.omroepbrabant.nl/nieuws/6036136/aangepaste-openingstijden-milieustraat-helmond-in-december": {
    "titel": "Aangepaste openingstijden milieustraat Helmond in december",
    "link": "https://www.omroepbrabant.nl/nieuws/6036136/aangepaste-openingstijden-milieustraat-helmond-in-december",
@@ -1347,7 +1329,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 16:30"
@@ -2222,6 +2204,24 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:40"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren": {
+   "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren",
+   "tekst": "De sluizen 10 in Asten en 12 bij Someren-Eind gaan volgend jaar bijna vier maanden dicht om gerenoveerd te worden. Dat stond al op de planning, maar Rijkswaterstaat heeft vier weken extra nodig. Schippers moeten daardoor flink omvaren en …",
+   "datum": "2026-11-25T19:23:38.948333+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:23"
   },
   "https://www.omroepbrabant.nl/nieuws/6036183/someren-start-campagne-tegen-geweld-tegen-vrouwen": {
    "titel": "Someren start campagne tegen geweld tegen vrouwen",
@@ -3822,6 +3822,23 @@
    "prio": false,
    "tijd": "20-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108721023/mucella-geeft-krachttraining-aan-vrouwen-ik-heb-de-schoolboeken-verruild-voor-dumbbells.html": {
+   "titel": "Mücella geeft krachttraining aan vrouwen: `Ik heb de schoolboeken verruild voor dumbbells`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108721023/mucella-geeft-krachttraining-aan-vrouwen-ik-heb-de-schoolboeken-verruild-voor-dumbbells.html",
+   "tekst": "",
+   "datum": "2026-11-26T15:43:20+00:00",
+   "eerst_gezien": "2026-11-26T15:46:06.829222+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 16:43"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108720893/cafe-brein-in-veldhoven-over-bewegen.html": {
    "titel": "Café Brein in Veldhoven over bewegen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108720893/cafe-brein-in-veldhoven-over-bewegen.html",
@@ -3834,7 +3851,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 16:25"
@@ -3851,7 +3868,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 16:25"
@@ -3868,7 +3885,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 16:25"
@@ -3885,7 +3902,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 16:19"
@@ -4650,7 +4667,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 16:12"
@@ -4667,7 +4684,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 16:07"
@@ -4684,7 +4701,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 16:03"
@@ -4701,7 +4718,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 16:03"
@@ -8417,23 +8434,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#241126164113a2deurnerit140378": {
-   "titel": "A2 Deurne Rit: 140378",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#241126164113a2deurnerit140378",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-24T16:41:13+01:00",
-   "eerst_gezien": "2026-11-24T15:56:02.861135+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "24-11 16:41"
   },
   "https://www.ed.nl/helmond/na-veel-getouwtrek-nu-geen-mcdonalds-op-deze-plek-in-helmond~abf7bd0b/": {
    "titel": "Na veel getouwtrek: nu geen McDonald’s op deze plek in Helmond",
@@ -17728,23 +17728,6 @@
    "prio": false,
    "tijd": "19-11 17:04"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108649810/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html": {
-   "titel": "Grootschalige oefening op Eindhoven Airport: hoe opereren hulpdiensten als het een keer echt fout gaat'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108649810/grootschalige-oefening-op-eindhoven-airport-hoe-opereren-hulpdiensten-als-het-een-keer-echt-fout-gaat.html",
-   "tekst": "",
-   "datum": "2026-11-19T15:31:04+00:00",
-   "eerst_gezien": "2026-11-19T15:40:31.516609+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 16:31"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html": {
    "titel": "Impasse tussen ASML en vakbonden duurt voort: mogelijk een rechtszaak en roep om `reset zoals in Den Haag`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108650957/impasse-tussen-asml-en-vakbonden-duurt-voort-mogelijk-een-rechtszaak-en-roep-om-reset-zoals-in-den-haag.html",
@@ -17868,7 +17851,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -17888,7 +17871,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -17933,7 +17916,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
