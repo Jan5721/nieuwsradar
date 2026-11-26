@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 05:46",
+ "bijgewerkt": "26-11-2026 06:03",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64931/fietser-gewond-bij-aanrijding-met-auto-in-de-tramstraat-in-deurne": {
    "titel": "Fietser gewond bij aanrijding met auto in de Tramstraat in Deurne",
@@ -923,23 +923,6 @@
    "prio": false,
    "tijd": "25-11 10:00"
   },
-  "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/": {
-   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
-   "link": "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/",
-   "tekst": "Een automobilist is dinsdagavond aangehouden in Helmond op verdenking van het bezit van en de handel in softdrugs. De man gooide tijdens een politieachtervolging twee zakken uit zijn auto. Daarin bleken voorgedraaide joints te zitten.",
-   "datum": "2026-11-25T06:49:01+00:00",
-   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 07:49"
-  },
   "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/": {
    "titel": "Ouderen leren valse mails en appjes herkennen in Deurne",
    "link": "https://www.ed.nl/deurne/ouderen-leren-valse-mails-en-appjes-herkennen-in-deurne~a6b7e90b/",
@@ -973,6 +956,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 11:02"
+  },
+  "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/": {
+   "titel": "Automobilist gooit zakken met joints uit raam tijdens politiecontrole in Helmond",
+   "link": "https://www.ed.nl/helmond/automobilist-gooit-zakken-met-joints-uit-raam-tijdens-politiecontrole-in-helmond~a7134004/",
+   "tekst": "Een automobilist is dinsdagavond aangehouden in Helmond op verdenking van het bezit van en de handel in softdrugs. De man gooide tijdens een politieachtervolging twee zakken uit zijn auto. Daarin bleken voorgedraaide joints te zitten.",
+   "datum": "2026-11-25T06:49:01+00:00",
+   "eerst_gezien": "2026-11-25T06:57:30.525043+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 07:49"
   },
   "https://www.ed.nl/deurne/bert-augustus-brengt-muzikanten-samen-voor-kerstconcert-in-deurne~ac297c34/": {
    "titel": "Bert Augustus brengt muzikanten samen voor kerstconcert in Deurne",
@@ -4106,6 +4106,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126055247a2helmondrit140974": {
+   "titel": "A2 Helmond Rit: 140974",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126055247a2helmondrit140974",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-26T05:52:47+01:00",
+   "eerst_gezien": "2026-11-26T05:02:31.363971+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "26-11 05:52"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126043217a2helmondrit140969": {
    "titel": "A2 Helmond Rit: 140969",
@@ -17557,12 +17574,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -17662,7 +17679,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 35,
    "fout": ""
   },
   "112Brabant": {
