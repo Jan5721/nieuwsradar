@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "26-11-2026 17:19",
+ "bijgewerkt": "26-11-2026 17:35",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:11"
@@ -803,6 +803,23 @@
    "prio": false,
    "tijd": "20-11 08:06"
   },
+  "https://www.ed.nl/helmond/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee~ad7a27c2/": {
+   "titel": "Borstkankeronderzoek: bijna zeven op de tien vrouwen uit Helmond deden mee",
+   "link": "https://www.ed.nl/helmond/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee~ad7a27c2/",
+   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Helmond gaat het om ruim 15.000 vrouwen. Tussen 2023 en 2025 deed 67 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
+   "datum": "2026-11-26T16:30:00+00:00",
+   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:30"
+  },
   "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/": {
    "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op 'Manga Maandag'",
    "link": "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/",
@@ -939,6 +956,23 @@
    "prio": false,
    "tijd": "25-11 20:00"
   },
+  "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/": {
+   "titel": "Borstkankeronderzoek: vrouwen uit Deurne doen vaker mee dan in de meeste gemeenten",
+   "link": "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/",
+   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Deurne gaat het om ruim 5800 vrouwen. Tussen 2023 en 2025 deed 73 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
+   "datum": "2026-11-26T16:30:00+00:00",
+   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:30"
+  },
   "https://www.ed.nl/deurne/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren~ac893e77/": {
    "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
    "link": "https://www.ed.nl/deurne/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren~ac893e77/",
@@ -973,6 +1007,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 14:55"
+  },
+  "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/": {
+   "titel": "Borstkankeronderzoek: vrouwen uit Asten doen vaker mee dan in de meeste gemeenten",
+   "link": "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/",
+   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Asten gaat het om ruim 2900 vrouwen. Tussen 2023 en 2025 deed 72 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut voor …",
+   "datum": "2026-11-26T16:30:00+00:00",
+   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:30"
   },
   "https://www.ed.nl/someren/gezinnen-met-laag-inkomen-bezoeken-museum-klok-en-peel-in-asten-gratis~ae981e9c/": {
    "titel": "Gezinnen met laag inkomen bezoeken Museum Klok & Peel in Asten gratis",
@@ -1025,6 +1076,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 16:53"
+  },
+  "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/": {
+   "titel": "Borstkankeronderzoek: vrouwen uit Someren doen vaker mee dan in de meeste gemeenten",
+   "link": "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/",
+   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Someren gaat het om ruim 3400 vrouwen. Tussen 2023 en 2025 deed 75 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
+   "datum": "2026-11-26T16:30:00+00:00",
+   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:30"
   },
   "https://www.ed.nl/someren/stamboomcafe-helpt-bezoekers-in-someren-met-familieonderzoek~a5a7bfc3/": {
    "titel": "Stamboomcafé helpt bezoekers in Someren met familieonderzoek",
@@ -1285,7 +1353,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
    "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
    "link": "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken",
-   "tekst": "vrijdag De gemeente Helmond heeft op 6 oktober 2026 een derde wijziging van het Uitvoeringsbesluit hondenkaart Helmond 2021 vastgesteld. Er zijn nieuwe gebieden aangewezen voor hondenuitlaatstroken, loslaatstroken en hondenverbodsgebieden. …",
+   "tekst": "20 november 2026 De gemeente Helmond heeft op 6 oktober 2026 een derde wijziging van het Uitvoeringsbesluit hondenkaart Helmond 2021 vastgesteld. Er zijn nieuwe gebieden aangewezen voor hondenuitlaatstroken, loslaatstroken en …",
    "datum": "2026-11-20T09:41:06.319780+00:00",
    "eerst_gezien": "2026-11-20T09:41:06.319780+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -3766,7 +3834,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:13"
@@ -3783,7 +3851,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:13"
@@ -17763,23 +17831,6 @@
    "prio": false,
    "tijd": "19-11 17:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650346/brabant-richt-zich-met-nieuwe-aanpak-op-grote-stikstofuitstoters.html": {
-   "titel": "Brabant richt zich met nieuwe aanpak op grote stikstofuitstoters",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650346/brabant-richt-zich-met-nieuwe-aanpak-op-grote-stikstofuitstoters.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:25:13+00:00",
-   "eerst_gezien": "2026-11-19T16:28:51.103888+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:25"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html": {
    "titel": "Na ruim dertig jaar is het dan eindelijk zover: tussen Eindhoven en Helmond kun je nu écht doorfietsen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108651217/na-ruim-dertig-jaar-is-het-dan-eindelijk-zover-tussen-eindhoven-en-helmond-kun-je-nu-echt-doorfietsen.html",
@@ -17812,23 +17863,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "19-11 19:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108650365/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html": {
-   "titel": "Twee auto`s botsen in Helmond, twee mensen nagekeken in ambulance",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108650365/twee-autos-botsen-in-helmond-twee-mensen-nagekeken-in-ambulance.html",
-   "tekst": "",
-   "datum": "2026-11-19T16:28:03+00:00",
-   "eerst_gezien": "2026-11-19T16:28:51.103888+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "19-11 17:28"
   }
  },
  "bronnen": {
@@ -17849,22 +17883,22 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 2,
    "fout": ""
   },
   "Omroep Brabant": {
