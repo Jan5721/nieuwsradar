@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 16:18",
+ "bijgewerkt": "27-11-2026 16:39",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64948/vier-jubilarissen-gehuldigd-bij-kerkkoor-sint-willibrordus": {
    "titel": "Vier jubilarissen gehuldigd bij kerkkoor Sint Willibrordus",
@@ -782,7 +782,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 16:00"
@@ -4176,6 +4176,73 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732603/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-dsi.html": {
+   "titel": "Automobilist rijdt met 100 km/uur over fietspad in Eindhoven tijdens achtervolging door DSI",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732603/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-dsi.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:31:04+00:00",
+   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732392/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html": {
+   "titel": "Europa moet snel defensieplannen maken, en in Eindhoven liggen de bouwstenen klaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732392/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:13:25+00:00",
+   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732390/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
+   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732390/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:13:25+00:00",
+   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732389/politie-ontdekt-grote-handel-in-illegale-sigaretten-en-stuurt-arrestatieteams-naar-veghel-16-mannen-opgepakt.html": {
+   "titel": "Politie ontdekt grote handel in illegale sigaretten en stuurt arrestatieteams naar Veghel: 16 mannen opgepakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732389/politie-ontdekt-grote-handel-in-illegale-sigaretten-en-stuurt-arrestatieteams-naar-veghel-16-mannen-opgepakt.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:13:25+00:00",
+   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108732288/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
    "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108732288/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
@@ -4188,7 +4255,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4204,10 +4271,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 16:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108732256/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
    "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
@@ -4221,7 +4287,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4421,55 +4487,6 @@
    "prio": false,
    "tijd": "27-11 13:31"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730827/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html": {
-   "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730827/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html",
-   "tekst": "",
-   "datum": "2026-11-27T12:13:25+00:00",
-   "eerst_gezien": "2026-11-27T12:22:24.111540+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730826/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html": {
-   "titel": "Zeven jaar werk, maar dan loop je virtueel langs het oude Eindhovense stadhuis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730826/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html",
-   "tekst": "",
-   "datum": "2026-11-27T12:13:25+00:00",
-   "eerst_gezien": "2026-11-27T12:22:24.111540+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 13:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730692/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html": {
-   "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730692/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html",
-   "tekst": "",
-   "datum": "2026-11-27T12:01:05+00:00",
-   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108732380/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html": {
    "titel": "Een paar nachtjes vorst zijn genoeg voor schaatspret in Deurne, wel met het risico op een nat pak",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108732380/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html",
@@ -4482,7 +4499,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4492,6 +4509,22 @@
    "tekst": "",
    "datum": "2026-11-27T13:11:26+00:00",
    "eerst_gezien": "2026-11-27T13:26:18.405311+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730827/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html": {
+   "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730827/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html",
+   "tekst": "",
+   "datum": "2026-11-27T12:13:25+00:00",
+   "eerst_gezien": "2026-11-27T12:22:24.111540+00:00",
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
@@ -5161,6 +5194,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 21:42"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730826/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html": {
+   "titel": "Zeven jaar werk, maar dan loop je virtueel langs het oude Eindhovense stadhuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730826/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html",
+   "tekst": "",
+   "datum": "2026-11-27T12:13:25+00:00",
+   "eerst_gezien": "2026-11-27T12:22:24.111540+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 13:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730692/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html": {
+   "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730692/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html",
+   "tekst": "",
+   "datum": "2026-11-27T12:01:05+00:00",
+   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126204401a2helmondrit141337": {
    "titel": "A2 Helmond Rit: 141337",
@@ -8853,23 +8919,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 16:51"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126162336a2helmondrit140794": {
-   "titel": "A2 Helmond Rit: 140794",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126162336a2helmondrit140794",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-25T16:23:36+01:00",
-   "eerst_gezien": "2026-11-25T15:30:47.653383+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 16:23"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108717726/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html": {
    "titel": "Groen, hoogbouw en een buslijn naar Eindhoven: zo moet De Run eruit gaan zien",
@@ -14754,7 +14803,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 00:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108687226/grotere-rol-voor-buurthuizen-tegen-eenzaamheid-wat-is-er-nodig.html": {
    "titel": "Grotere rol voor buurthuizen tegen eenzaamheid; wat is er nodig'",
@@ -16118,23 +16168,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/": {
-   "titel": "Someren verdeeld over mogelijke doorstart van varkensbedrijf: ‘Je hebt verleende rechten te respecteren’",
-   "link": "https://www.ed.nl/someren/someren-verdeeld-over-mogelijke-doorstart-van-varkensbedrijf-je-hebt-verleende-rechten-te-respecteren~a5320904/",
-   "tekst": "De mogelijke terugkeer van varkens in al jaren leegstaande stallen in Lierop verdeelt de meningen. Sommigen zijn bezorgd om stikstof, anderen zien het probleem niet.",
-   "datum": "2026-11-20T15:30:44+00:00",
-   "eerst_gezien": "2026-11-20T15:34:50.104351+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 16:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677760/prins-ron-i-zwaait-de-scepter-bij-de-keijepaol-in-someren-heide.html": {
    "titel": "Prins Ron I zwaait de scepter bij De Keijepaol in Someren-Heide",
@@ -18330,57 +18363,6 @@
    "prio": false,
    "tijd": "20-11 20:10"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660937/oud-topvoetballer-uit-duitsland-opent-kebabzaak-in-centrum-eindhoven.html": {
-   "titel": "Oud-topvoetballer uit Duitsland opent kebabzaak in centrum Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660937/oud-topvoetballer-uit-duitsland-opent-kebabzaak-in-centrum-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-20T15:31:03+00:00",
-   "eerst_gezien": "2026-11-20T15:34:50.104351+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 16:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660871/dure-gestolen-mercedes-aangetroffen-in-het-buitengebied-van-geldrop.html": {
-   "titel": "Dure gestolen Mercedes aangetroffen in het buitengebied van Geldrop",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660871/dure-gestolen-mercedes-aangetroffen-in-het-buitengebied-van-geldrop.html",
-   "tekst": "",
-   "datum": "2026-11-20T15:21:36+00:00",
-   "eerst_gezien": "2026-11-20T15:34:50.104351+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 16:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660819/hvv-helmond-twee-wedstrijden-uit-de-competitie-gehaald-de-precieze-reden-is-mij-ook-onbekend.html": {
-   "titel": "HVV Helmond twee wedstrijden uit de competitie gehaald: `De precieze reden is mij ook onbekend`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660819/hvv-helmond-twee-wedstrijden-uit-de-competitie-gehaald-de-precieze-reden-is-mij-ook-onbekend.html",
-   "tekst": "",
-   "datum": "2026-11-20T15:15:04+00:00",
-   "eerst_gezien": "2026-11-20T15:18:38.054953+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 16:15"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html": {
    "titel": "Zangeres Merol cancelt optreden in Eindhoven na `flinke val` van podium",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html",
@@ -18546,12 +18528,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 8,
    "fout": ""
   },
   "Drimble Asten": {
@@ -18566,7 +18548,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "112Brabant": {
@@ -18758,13 +18740,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:1840": {
    "gem": [],
    "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19126,10 +19108,6 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4076": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4081": {
    "gem": [],
    "datum": "2026-07-16"
@@ -19142,10 +19120,6 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4191": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4998": {
    "gem": [],
    "datum": "2026-08-26"
@@ -19154,11 +19128,19 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
+  "ECLI:NL:RVS:2026:5013": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5014": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
   }
