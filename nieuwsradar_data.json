@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 02:25",
+ "bijgewerkt": "27-11-2026 02:41",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -4571,7 +4571,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 02:18"
@@ -8713,23 +8713,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 21:53"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126023027p2bob01assambuafhijsenbrouwhuissedijkhelmond2232": {
-   "titel": "P 2 BOB-01 Ass. Ambu (afhijsen) Brouwhuissedijk Helmond 223251 223231",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126023027p2bob01assambuafhijsenbrouwhuissedijkhelmond2232",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-25T02:30:27+01:00",
-   "eerst_gezien": "2026-11-25T01:36:52.581094+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 02:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711390/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-krijgen-vanaf-dinsdag-les-in-someren.html": {
    "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg krijgen vanaf dinsdag les in Someren",
@@ -18305,7 +18288,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
