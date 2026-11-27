@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 12:50",
+ "bijgewerkt": "27-11-2026 13:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64946/kanexo-leden-vallen-in-de-prijzen-op-internationale-vogelshows": {
    "titel": "KANEXO-leden vallen in de prijzen op internationale vogelshows",
@@ -566,23 +566,6 @@
    "prio": false,
    "tijd": "20-11 14:21"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64805/drie-autos-betrokken-bij-aanrijding-op-de-helmondsingel-in-deurne": {
-   "titel": "Drie auto’s betrokken bij aanrijding op de Helmondsingel in Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64805/drie-autos-betrokken-bij-aanrijding-op-de-helmondsingel-in-deurne",
-   "tekst": "DEURNE - Bij een kop-staartbotsing op de Helmondsingel in Deurne zijn vrijdagmiddag drie auto's beschadigd geraakt. Een persoon is per ambulance naar het ziekenhuis gebracht.",
-   "datum": "2026-11-20T12:54:00+01:00",
-   "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 12:54"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64944/carnavalsbeleving-in-klotland-op-het-witte-doek-allemaal-eige": {
    "titel": "Carnavalsbeleving in Klotland op het witte doek: ‘Allemaal eigen verhaal’",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64944/carnavalsbeleving-in-klotland-op-het-witte-doek-allemaal-eige",
@@ -787,6 +770,23 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
+  "https://www.ed.nl/deurne/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg~a0c8e12c/": {
+   "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
+   "link": "https://www.ed.nl/deurne/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg~a0c8e12c/",
+   "tekst": "De eerste schaatsers wagen zich vrijdag op het bevroren Buntven in Deurne. Op steeds meer plekken in Nederland kan worden geschaatst op natuurijs, en dat is ook te zien in Brabant. Schaatsers moeten echter wel opletten.",
+   "datum": "2026-11-27T11:55:00+00:00",
+   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:55"
+  },
   "https://www.ed.nl/deurne/platenbeurs-met-100-meter-aan-cds-en-lps-in-deurne~ab3e8d0a/": {
    "titel": "Platenbeurs met 100 meter aan cd’s en lp’s in Deurne",
    "link": "https://www.ed.nl/deurne/platenbeurs-met-100-meter-aan-cds-en-lps-in-deurne~ab3e8d0a/",
@@ -941,23 +941,6 @@
    "prio": false,
    "tijd": "26-11 12:54"
   },
-  "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/": {
-   "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
-   "link": "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/",
-   "tekst": "Een nieuwe braadpan scoren, op zoek naar een goed koksmes of inspiratie opdoen voor je volgende etentje? Helmondse hobbykoks hebben er een nieuw adresje bij. In de binnenstad is Kookwinkel Coenen geopend.",
-   "datum": "2026-11-26T11:13:00+00:00",
-   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 12:13"
-  },
   "https://www.ed.nl/asten/ivn-asten-someren-verkent-natuur-rond-kasteel-gemert~a8b3c78e/": {
    "titel": "IVN Asten-Someren verkent natuur rond Kasteel Gemert",
    "link": "https://www.ed.nl/asten/ivn-asten-someren-verkent-natuur-rond-kasteel-gemert~a8b3c78e/",
@@ -1010,23 +993,6 @@
    "prio": false,
    "tijd": "26-11 15:57"
   },
-  "https://www.ed.nl/asten/frans-poos-presenteert-boek-over-conflicten-in-bibliotheek-asten~ae63038a/": {
-   "titel": "Frans Poos presenteert boek over conflicten in Bibliotheek Asten",
-   "link": "https://www.ed.nl/asten/frans-poos-presenteert-boek-over-conflicten-in-bibliotheek-asten~ae63038a/",
-   "tekst": "Astenaar Frans Poos presenteert zijn boek ‘Herstelgericht omgaan met conflicten’ in Bibliotheek Asten. De boekpresentatie is 28 november in ’t Kwartier en begint om 13.30 uur.",
-   "datum": "2026-11-26T13:47:00+00:00",
-   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 14:47"
-  },
   "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Someren doen vaker mee dan in de meeste gemeenten",
    "link": "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/",
@@ -1043,23 +1009,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:30"
-  },
-  "https://www.ed.nl/someren/stamboomcafe-helpt-bezoekers-in-someren-met-familieonderzoek~a5a7bfc3/": {
-   "titel": "Stamboomcafé helpt bezoekers in Someren met familieonderzoek",
-   "link": "https://www.ed.nl/someren/stamboomcafe-helpt-bezoekers-in-someren-met-familieonderzoek~a5a7bfc3/",
-   "tekst": "De Nederlandse Genealogische Vereniging houdt een Stamboomcafé in de Bibliotheek Someren. Zaterdag 28 november kunnen bezoekers tussen 10.30 en 12.30 uur binnenlopen voor hulp bij onderzoek naar hun familiegeschiedenis.",
-   "datum": "2026-11-26T12:29:21+00:00",
-   "eerst_gezien": "2026-11-26T12:32:55.842225+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 13:29"
   },
   "https://www.omroepbrabant.nl/nieuws/6036490/helmond-stelt-nieuwe-subsidieregels-sociale-woningbouw-vast": {
    "titel": "Helmond stelt nieuwe subsidieregels sociale woningbouw vast",
@@ -1811,23 +1760,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:22"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis": {
-   "titel": "Drie auto's botsen op elkaar in Deurne, één gewonde naar ziekenhuis",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis",
-   "tekst": "VIDEO 20 november 2026 Bij een kop-staartbotsing op de Helmondsingel in Deurne zijn vrijdagmiddag drie auto's op elkaar gebotst. Eén persoon is met een ambulance naar het ziekenhuis gebracht.",
-   "datum": "2026-11-20T12:05:53.839896+00:00",
-   "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 13:05"
   },
   "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne": {
    "titel": "Vergunning verleend voor het kappen van een boom aan de Energiestraat in Deurne",
@@ -4127,6 +4059,39 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730692/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html": {
+   "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730692/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html",
+   "tekst": "",
+   "datum": "2026-11-27T12:01:05+00:00",
+   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730691/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html": {
+   "titel": "Zeven jaar werk, maar dan loop je virtueel langs het oude Eindhovense stadhuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730691/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html",
+   "tekst": "",
+   "datum": "2026-11-27T12:01:05+00:00",
+   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 13:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108730626/omwonenden-willen-dat-hoogste-rechter-op-de-pauzeknop-drukt-bij-plannen-snelle-buslijn-eindhoven.html": {
    "titel": "Omwonenden willen dat hoogste rechter op de pauzeknop drukt bij plannen snelle buslijn Eindhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108730626/omwonenden-willen-dat-hoogste-rechter-op-de-pauzeknop-drukt-bij-plannen-snelle-buslijn-eindhoven.html",
@@ -4139,7 +4104,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:49"
@@ -4397,39 +4362,6 @@
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108729410/mmc-topvrouw-paula-nelissen-over-groeiende-druk-op-de-zorg-in-brainport-we-kunnen-meer-dan-we-denken.html",
    "tekst": "",
    "datum": "2026-11-27T10:01:05+00:00",
-   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729390/video-profspelers-van-fc-eindhoven-en-helmond-sport-geven-training-bij-nwc-om-iets-bij-te-leren.html": {
-   "titel": "[VIDEO] Profspelers van FC Eindhoven en Helmond Sport geven training bij NWC: ´Om iets bij te leren´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729390/video-profspelers-van-fc-eindhoven-en-helmond-sport-geven-training-bij-nwc-om-iets-bij-te-leren.html",
-   "tekst": "Op het sportpark van NWC genoten zo’n 160 kinderen afgelopen week van een speciale voetbaltraining. Spelers van profclubs als Helmond...",
-   "datum": "2026-11-27T09:59:06+00:00",
-   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 10:59"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729372/openingstijden-en-afvalinzameling-tijdens-de-feestdagen.html": {
-   "titel": "Openingstijden en afvalinzameling tijdens de feestdagen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729372/openingstijden-en-afvalinzameling-tijdens-de-feestdagen.html",
-   "tekst": "Hieronder ziet u in één overzicht de openingstijden en ophaalmomenten tijdens de feestdagen in 2026/2027.",
-   "datum": "2026-11-27T09:58:02+00:00",
    "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
@@ -4879,6 +4811,90 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/": {
+   "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
+   "link": "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/",
+   "tekst": "Een nieuwe braadpan scoren, op zoek naar een goed koksmes of inspiratie opdoen voor je volgende etentje? Helmondse hobbykoks hebben er een nieuw adresje bij. In de binnenstad is Kookwinkel Coenen geopend.",
+   "datum": "2026-11-26T11:13:00+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 12:13"
+  },
+  "https://www.ed.nl/asten/frans-poos-presenteert-boek-over-conflicten-in-bibliotheek-asten~ae63038a/": {
+   "titel": "Frans Poos presenteert boek over conflicten in Bibliotheek Asten",
+   "link": "https://www.ed.nl/asten/frans-poos-presenteert-boek-over-conflicten-in-bibliotheek-asten~ae63038a/",
+   "tekst": "Astenaar Frans Poos presenteert zijn boek ‘Herstelgericht omgaan met conflicten’ in Bibliotheek Asten. De boekpresentatie is 28 november in ’t Kwartier en begint om 13.30 uur.",
+   "datum": "2026-11-26T13:47:00+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 14:47"
+  },
+  "https://www.ed.nl/someren/stamboomcafe-helpt-bezoekers-in-someren-met-familieonderzoek~a5a7bfc3/": {
+   "titel": "Stamboomcafé helpt bezoekers in Someren met familieonderzoek",
+   "link": "https://www.ed.nl/someren/stamboomcafe-helpt-bezoekers-in-someren-met-familieonderzoek~a5a7bfc3/",
+   "tekst": "De Nederlandse Genealogische Vereniging houdt een Stamboomcafé in de Bibliotheek Someren. Zaterdag 28 november kunnen bezoekers tussen 10.30 en 12.30 uur binnenlopen voor hulp bij onderzoek naar hun familiegeschiedenis.",
+   "datum": "2026-11-26T12:29:21+00:00",
+   "eerst_gezien": "2026-11-26T12:32:55.842225+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 13:29"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729390/video-profspelers-van-fc-eindhoven-en-helmond-sport-geven-training-bij-nwc-om-iets-bij-te-leren.html": {
+   "titel": "[VIDEO] Profspelers van FC Eindhoven en Helmond Sport geven training bij NWC: ´Om iets bij te leren´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729390/video-profspelers-van-fc-eindhoven-en-helmond-sport-geven-training-bij-nwc-om-iets-bij-te-leren.html",
+   "tekst": "Op het sportpark van NWC genoten zo’n 160 kinderen afgelopen week van een speciale voetbaltraining. Spelers van profclubs als Helmond...",
+   "datum": "2026-11-27T09:59:06+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:59"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729372/openingstijden-en-afvalinzameling-tijdens-de-feestdagen.html": {
+   "titel": "Openingstijden en afvalinzameling tijdens de feestdagen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729372/openingstijden-en-afvalinzameling-tijdens-de-feestdagen.html",
+   "tekst": "Hieronder ziet u in één overzicht de openingstijden en ophaalmomenten tijdens de feestdagen in 2026/2027.",
+   "datum": "2026-11-27T09:58:02+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126124243a2deurnerit141563": {
    "titel": "A2 Deurne Rit: 141563",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126124243a2deurnerit141563",
@@ -4891,7 +4907,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 12:42"
@@ -18329,7 +18345,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -18344,22 +18360,22 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 7,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Someren": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "Omroep Brabant": {
@@ -18374,7 +18390,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 24,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18449,7 +18465,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
