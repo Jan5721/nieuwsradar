@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 09:22",
+ "bijgewerkt": "27-11-2026 09:38",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm": {
    "titel": "Historie van Helenaveen krijgt eigen plek in De Gouden Helm",
@@ -1658,10 +1658,44 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036445/vergunning-verleend-voor-verbouwing-woning-aan-keltenstraat-in-deurne": {
+   "titel": "Vergunning verleend voor verbouwing woning aan Keltenstraat in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036445/vergunning-verleend-voor-verbouwing-woning-aan-keltenstraat-in-deurne",
+   "tekst": "",
+   "datum": "2026-11-27T08:37:47.899416+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 09:37"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036441/tijdelijke-gehandicaptenparkeerplaats-bij-aaltje-reddingiusstraat-in-deurne": {
+   "titel": "Tijdelijke gehandicaptenparkeerplaats bij Aaltje Reddingiusstraat in Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036441/tijdelijke-gehandicaptenparkeerplaats-bij-aaltje-reddingiusstraat-in-deurne",
+   "tekst": "De gemeente Deurne heeft besloten een tijdelijke algemene gehandicaptenparkeerplaats in te richten bij de Aaltje Reddingiusstraat 7. Het besluit is op 24 november 2026 genomen.",
+   "datum": "2026-11-27T08:37:47.899416+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 09:37"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035982/lekkage-in-wagnerstraat-deurne-mogelijk-geen-of-bruin-water": {
    "titel": "Lekkage in Wagnerstraat Deurne: mogelijk geen of bruin water",
    "link": "https://www.omroepbrabant.nl/nieuws/6035982/lekkage-in-wagnerstraat-deurne-mogelijk-geen-of-bruin-water",
-   "tekst": "De waterstoring in de Wagnerstraat en omgeving in Deurne is verholpen. Door een lekkage zaten bewoners sinds vanochtend zonder water of hadden ze last van bruin water en lage waterdruk.",
+   "tekst": "dinsdag De waterstoring in de Wagnerstraat en omgeving in Deurne is verholpen. Door een lekkage zaten bewoners sinds vanochtend zonder water of hadden ze last van bruin water en lage waterdruk.",
    "datum": "2026-11-24T15:07:19.919318+00:00",
    "eerst_gezien": "2026-11-24T15:07:19.919318+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1678,7 +1712,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035859/veel-verdriet-en-vragen-na-grote-schoolbrand-in-deurne": {
    "titel": "Veel verdriet en vragen na grote schoolbrand in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6035859/veel-verdriet-en-vragen-na-grote-schoolbrand-in-deurne",
-   "tekst": "Wat een gewone schooldag had moeten zijn, werd er eentje vol verdriet en vragen. Basisschool De Zeilberg in Deurne brandde vrijdag af. En dat hakt erin. Bij de school zelf, maar ook bij de leerlingen. Zij kwamen maandag samen om erover te …",
+   "tekst": "BRABANT",
    "datum": "2026-11-23T17:46:25.842672+00:00",
    "eerst_gezien": "2026-11-23T17:46:25.842672+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -3205,7 +3239,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3481,12 +3515,46 @@
    "prio": false,
    "tijd": "26-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-554820.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Breemortelweg 14 5753RH Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-554820.html",
+   "tekst": "het realiseren van een agrarische bedrijfswoning",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-552501.html": {
    "titel": "Tijdelijke algemene gehandicaptenparkeerplaats Aaltje Reddingiusstraat 7 Deurne",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-552501.html",
    "tekst": "Tijdelijke algemene gehandicaptenparkeerplaats aan de Aaltje Reddingiusstraat in Deurne",
    "datum": "2026-11-27T00:00:00+00:00",
    "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-555153.html": {
+   "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Piet Mondriaanstraat 14 5753DJ Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-555153.html",
+   "tekst": "het gedeeltelijk verhogen van een bedrijfspand",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
    "bron": "Bekendmakingen Deurne",
    "gemeenten": [
     "Deurne"
@@ -3572,6 +3640,23 @@
    "tekst": "het herbouwen van een langgevelboerderij",
    "datum": "2026-11-27T00:00:00+00:00",
    "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-554594.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Riet 14 5754PG Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-554594.html",
+   "tekst": "het bouwen van een nieuwbouwloods",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
    "bron": "Bekendmakingen Deurne",
    "gemeenten": [
     "Deurne"
@@ -3680,7 +3765,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3701,6 +3786,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-554819.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Trienenbergweg 4 5754PJ Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-554819.html",
+   "tekst": "het plaatsen van een luchtwasser, een brandwand en het vergunningsvrij realiseren van een luchtinlaat",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-554832.html": {
+   "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit (BOPA) Keltenstraat 4 5753GN Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-554832.html",
+   "tekst": "het verbouwen van de woning",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-547870.html": {
    "titel": "Beleidsregel Opiumwet 13b Deurne 2026",
@@ -3833,7 +3952,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3844,6 +3963,23 @@
    "tekst": "het verbouwen van een woonhuis inclusief realiseren van een nieuwe aanbouw + tijdelijke bewoning bijgebouw",
    "datum": "2026-11-27T00:00:00+00:00",
    "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-554735.html": {
+   "titel": "Gemeente Asten - geen omgevingsvergunning nodig, 2e Sint Jozefstraat 3 5721GR Asten",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-554735.html",
+   "tekst": "het maken van een uitbouw aan de woning",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
    "bron": "Bekendmakingen Asten",
    "gemeenten": [
     "Asten"
@@ -3884,7 +4020,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3923,6 +4059,23 @@
    "prio": false,
    "tijd": "26-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-554600.html": {
+   "titel": "Gemeente Someren, melding Besluit activiteiten leefomgeving, ​ Hooghoefweg​​ te ​Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-554600.html",
+   "tekst": "",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-549166.html": {
    "titel": "Verlenen omgevingsvergunning Laarstraat 5a te Someren",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-549166.html",
@@ -3952,7 +4105,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -4054,7 +4207,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -4779,56 +4932,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
-   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html",
-   "tekst": "",
-   "datum": "2026-11-26T22:15:02+00:00",
-   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723416/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
-   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723416/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
-   "tekst": "",
-   "datum": "2026-11-26T21:19:03+00:00",
-   "eerst_gezien": "2026-11-26T21:24:31.995626+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html": {
-   "titel": "Politie doorzoekt bedrijventerrein en neemt bakwagen in beslag na zeker tien aanhoudingen door arrestatieteam in Veghel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html",
-   "tekst": "",
-   "datum": "2026-11-26T20:49:07+00:00",
-   "eerst_gezien": "2026-11-26T20:52:06.128695+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 21:49"
-  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454": {
    "titel": "A2 Asten Rit: 141454",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454",
@@ -5236,6 +5339,56 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 13:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html",
+   "tekst": "",
+   "datum": "2026-11-26T22:15:02+00:00",
+   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723416/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
+   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723416/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
+   "tekst": "",
+   "datum": "2026-11-26T21:19:03+00:00",
+   "eerst_gezien": "2026-11-26T21:24:31.995626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html": {
+   "titel": "Politie doorzoekt bedrijventerrein en neemt bakwagen in beslag na zeker tien aanhoudingen door arrestatieteam in Veghel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html",
+   "tekst": "",
+   "datum": "2026-11-26T20:49:07+00:00",
+   "eerst_gezien": "2026-11-26T20:52:06.128695+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126131018a2helmondrit141155": {
    "titel": "A2 Helmond Rit: 141155",
@@ -18185,23 +18338,6 @@
    "prio": false,
    "tijd": "20-11 09:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html": {
-   "titel": "Drugs aangetroffen en twee aanhoudingen bij inval in Eindhovense kapsalon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657097/drugs-aangetroffen-en-twee-aanhoudingen-bij-inval-in-eindhovense-kapsalon.html",
-   "tekst": "",
-   "datum": "2026-11-20T08:25:10+00:00",
-   "eerst_gezien": "2026-11-20T08:36:44.498847+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:25"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
    "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
    "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
@@ -18301,7 +18437,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 24,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18341,17 +18477,17 @@
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 19,
    "fout": ""
   },
   "Bekendmakingen Asten": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "Bekendmakingen Someren": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Helmond": {
@@ -18376,7 +18512,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 24,
    "fout": ""
   },
   "112Brabant": {
