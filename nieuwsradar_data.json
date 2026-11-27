@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 10:26",
+ "bijgewerkt": "27-11-2026 10:42",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64942/film-en-quiz-over-geweld-tegen-vrouwen-in-het-cultuurcentrum": {
    "titel": "Film en quiz over geweld tegen vrouwen in het Cultuurcentrum",
@@ -1043,23 +1043,6 @@
    "prio": false,
    "tijd": "26-11 07:29"
   },
-  "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/": {
-   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
-   "link": "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/",
-   "tekst": "Er zijn veel zorgen over de mogelijke doorstart van een al jaren leegstaand varkensbedrijf in Lierop. Toch hebben sommigen er geen problemen mee.",
-   "datum": "2026-11-25T19:30:10+00:00",
-   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 20:30"
-  },
   "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Asten doen vaker mee dan in de meeste gemeenten",
    "link": "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/",
@@ -1176,7 +1159,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:26"
@@ -1384,23 +1367,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 12:01"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
-   "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken",
-   "tekst": "20 november 2026 De gemeente Helmond heeft op 6 oktober 2026 een derde wijziging van het Uitvoeringsbesluit hondenkaart Helmond 2021 vastgesteld. Er zijn nieuwe gebieden aangewezen voor hondenuitlaatstroken, loslaatstroken en …",
-   "datum": "2026-11-20T09:41:06.319780+00:00",
-   "eerst_gezien": "2026-11-20T09:41:06.319780+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 10:41"
   },
   "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
@@ -2427,23 +2393,6 @@
    "prio": false,
    "tijd": "27-11 10:09"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035486/jeugdprinsenbal-cv-de-plattevonder-zondag-in-de-einder": {
-   "titel": "Jeugdprinsenbal CV De Plattevonder zondag in De Einder",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035486/jeugdprinsenbal-cv-de-plattevonder-zondag-in-de-einder",
-   "tekst": "19 november 2026 Zondagmiddag wordt in De Einder het Jeugdprinsenbal van CV De Plattevonder gehouden. Tijdens het evenement worden de nieuwe jeugdhoogheden en de jeugdraad onthuld. Ook wordt afscheid genomen van de huidige Jeugdprinses en …",
-   "datum": "2026-11-20T09:41:06.319780+00:00",
-   "eerst_gezien": "2026-11-20T09:41:06.319780+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 10:41"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten": {
    "titel": "Valpreventie voor ouderen: bijeenkomst in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten",
@@ -2575,7 +2524,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 09:39"
@@ -4932,22 +4881,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt": {
-   "titel": "Vuurwerk gegooid naar boa's in Helmond: 'Ouders kijk waar je kind uithangt'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt",
-   "tekst": "14 november 2026 Jongeren hebben vrijdagavond vuurwerk en voorwerpen gegooid naar boa's bij Sportpark De Braak in Helmond. Dat meldt de politie in Helmond zaterdag. Een 15-jarige jongen is aangehouden omdat hij met vuurwerk zou hebben …",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126101033p2bob02liftopsluitingkanaaldijkzohelmond223231": {
+   "titel": "P 2 BOB-02 Liftopsluiting Kanaaldijk Z.O. Helmond 223231",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126101033p2bob02liftopsluitingkanaaldijkzohelmond223231",
+   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
+   "datum": "2026-11-27T10:10:33+01:00",
+   "eerst_gezien": "2026-11-27T09:42:00.923113+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "regionale omroep",
+   "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "23-11 13:57"
+   "tijd": "27-11 10:10"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126094747a2helmondrit141480": {
    "titel": "A2 Helmond Rit: 141480",
@@ -5356,6 +5305,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 14:32"
+  },
+  "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/": {
+   "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
+   "link": "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/",
+   "tekst": "Er zijn veel zorgen over de mogelijke doorstart van een al jaren leegstaand varkensbedrijf in Lierop. Toch hebben sommigen er geen problemen mee.",
+   "datum": "2026-11-25T19:30:10+00:00",
+   "eerst_gezien": "2026-11-25T19:39:47.347170+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:30"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt": {
+   "titel": "Vuurwerk gegooid naar boa's in Helmond: 'Ouders kijk waar je kind uithangt'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt",
+   "tekst": "14 november 2026 Jongeren hebben vrijdagavond vuurwerk en voorwerpen gegooid naar boa's bij Sportpark De Braak in Helmond. Dat meldt de politie in Helmond zaterdag. Een 15-jarige jongen is aangehouden omdat hij met vuurwerk zou hebben …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126135313a2helmondrit141170": {
    "titel": "A2 Helmond Rit: 141170",
@@ -8767,40 +8750,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 10:43"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126103935a1helmondrit140639": {
-   "titel": "A1 Helmond Rit: 140639",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126103935a1helmondrit140639",
-   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T10:39:35+01:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "25-11 10:39"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126102808a1deurnerit140635": {
-   "titel": "A1 Deurne Rit: 140635",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126102808a1deurnerit140635",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-25T10:28:08+01:00",
-   "eerst_gezien": "2026-11-25T09:37:51.112504+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "25-11 10:28"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
    "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
@@ -18299,7 +18248,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
@@ -18319,7 +18268,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18334,7 +18283,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18399,7 +18348,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
