@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 12:18",
+ "bijgewerkt": "27-11-2026 12:34",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64946/kanexo-leden-vallen-in-de-prijzen-op-internationale-vogelshows": {
    "titel": "KANEXO-leden vallen in de prijzen op internationale vogelshows",
@@ -787,23 +787,6 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden": {
-   "titel": "In beeld: jeugdprinsenbal in Heusden",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64804/in-beeld-jeugdprinsenbal-in-heusden",
-   "tekst": "HEUSDEN - Ook voor de jeugd was zaterdag een spannende: wie zouden de nieuwe jeugdprins en -prinses worden?",
-   "datum": "2026-11-20T12:19:00+01:00",
-   "eerst_gezien": "2026-11-20T11:33:46.043576+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 12:19"
-  },
   "https://www.ed.nl/deurne/platenbeurs-met-100-meter-aan-cds-en-lps-in-deurne~ab3e8d0a/": {
    "titel": "Platenbeurs met 100 meter aan cd’s en lp’s in Deurne",
    "link": "https://www.ed.nl/deurne/platenbeurs-met-100-meter-aan-cds-en-lps-in-deurne~ab3e8d0a/",
@@ -907,23 +890,6 @@
    "prio": false,
    "tijd": "26-11 17:30"
   },
-  "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/": {
-   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op 'Manga Maandag'",
-   "link": "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/",
-   "tekst": "Bibliotheek Helmond houdt een Manga Maandag voor jongeren vanaf 15 jaar. Maandag 30 november maken deelnemers een eigen Teru Teru Bozu aan de Watermolenwal 11 in Helmond.",
-   "datum": "2026-11-26T13:43:55+00:00",
-   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 14:43"
-  },
   "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/": {
    "titel": "De Wieger in Deurne stapt vanaf 1 januari over op pinbetalingen",
    "link": "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/",
@@ -992,23 +958,6 @@
    "prio": false,
    "tijd": "26-11 12:13"
   },
-  "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/": {
-   "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
-   "link": "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/",
-   "tekst": "Cultuurcentrum Deurne vertoont de concertfilm André Rieu’s 2026 Christmas Concert: Let It Snow. De film is zaterdag 12 december om 13.30 uur en zondag 13 december om 10.30 uur te zien.",
-   "datum": "2026-11-26T11:12:26+00:00",
-   "eerst_gezien": "2026-11-26T11:12:48.841054+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 12:12"
-  },
   "https://www.ed.nl/asten/ivn-asten-someren-verkent-natuur-rond-kasteel-gemert~a8b3c78e/": {
    "titel": "IVN Asten-Someren verkent natuur rond Kasteel Gemert",
    "link": "https://www.ed.nl/asten/ivn-asten-someren-verkent-natuur-rond-kasteel-gemert~a8b3c78e/",
@@ -1021,7 +970,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:15"
@@ -1328,7 +1277,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:18"
@@ -4178,6 +4127,40 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html": {
+   "titel": "Eindhovenaar krijgt vier jaar cel voor cocaïne-export via Bladels bedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:19:03+00:00",
+   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html": {
+   "titel": "Het verhaal van Bernard van Dam is toch nog niet af: verloren kist levert bergen nieuwe informatie over Eerdse schrijver...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:19:03+00:00",
+   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html": {
    "titel": "Minder vierkante meters, meer slimme zorg: dit verandert er bij het MMC in Eindhoven en Veldhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html",
@@ -4190,7 +4173,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:13"
@@ -4207,7 +4190,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4223,10 +4206,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108730255/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html": {
    "titel": "Het verhaal van Bernard van Dam is toch nog niet af: verloren kist levert bergen nieuwe informatie over Eerdse schrijver...",
@@ -4240,10 +4222,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108730079/platenbeurs-met-100-meter-aan-cds-en-lps-in-deurne.html": {
    "titel": "Platenbeurs met 100 meter aan cd`s en lp`s in Deurne",
@@ -4476,38 +4457,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729324/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html": {
-   "titel": "Modelvliegtuigjes op te halen in Nuenen, Yvonne heeft hangertje gevonden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729324/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html",
-   "tekst": "",
-   "datum": "2026-11-27T09:49:06+00:00",
-   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729322/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html": {
-   "titel": "Woenselse Poort opent nieuwe afdeling voor vastgelopen tbs`ers, maar alleen als er genoeg personeel is",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729322/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html",
-   "tekst": "",
-   "datum": "2026-11-27T09:49:06+00:00",
-   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -5320,6 +5269,72 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 16:03"
+  },
+  "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/": {
+   "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op 'Manga Maandag'",
+   "link": "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/",
+   "tekst": "Bibliotheek Helmond houdt een Manga Maandag voor jongeren vanaf 15 jaar. Maandag 30 november maken deelnemers een eigen Teru Teru Bozu aan de Watermolenwal 11 in Helmond.",
+   "datum": "2026-11-26T13:43:55+00:00",
+   "eerst_gezien": "2026-11-26T13:53:29.923528+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 14:43"
+  },
+  "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/": {
+   "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
+   "link": "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/",
+   "tekst": "Cultuurcentrum Deurne vertoont de concertfilm André Rieu’s 2026 Christmas Concert: Let It Snow. De film is zaterdag 12 december om 13.30 uur en zondag 13 december om 10.30 uur te zien.",
+   "datum": "2026-11-26T11:12:26+00:00",
+   "eerst_gezien": "2026-11-26T11:12:48.841054+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 12:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729324/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html": {
+   "titel": "Modelvliegtuigjes op te halen in Nuenen, Yvonne heeft hangertje gevonden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729324/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html",
+   "tekst": "",
+   "datum": "2026-11-27T09:49:06+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729322/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html": {
+   "titel": "Woenselse Poort opent nieuwe afdeling voor vastgelopen tbs`ers, maar alleen als er genoeg personeel is",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729322/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html",
+   "tekst": "",
+   "datum": "2026-11-27T09:49:06+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126153305a1helmondrit141214": {
    "titel": "A1 Helmond Rit: 141214",
@@ -18276,22 +18291,6 @@
    "prio": false,
    "tijd": "20-11 12:36"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658873/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html": {
-   "titel": "NVWA haalt 200 runderen weg bij Brabantse boer: dieren konden zich verwonden in stal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658873/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html",
-   "tekst": "",
-   "datum": "2026-11-20T11:31:03+00:00",
-   "eerst_gezien": "2026-11-20T11:33:46.043576+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
    "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html",
@@ -18352,7 +18351,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18362,12 +18361,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 6,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -18467,7 +18466,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 23,
+   "aantal": 22,
    "fout": ""
   },
   "112Brabant": {
