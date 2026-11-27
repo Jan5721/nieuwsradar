@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 13:22",
+ "bijgewerkt": "27-11-2026 13:38",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64946/kanexo-leden-vallen-in-de-prijzen-op-internationale-vogelshows": {
    "titel": "KANEXO-leden vallen in de prijzen op internationale vogelshows",
@@ -953,7 +953,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 13:07"
@@ -1790,7 +1790,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 13:22"
@@ -2171,10 +2171,27 @@
    "prio": false,
    "tijd": "23-11 16:54"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036523/waterstoring-rond-het-wilhelminaplein-in-someren": {
+   "titel": "Waterstoring rond het Wilhelminaplein in Someren",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036523/waterstoring-rond-het-wilhelminaplein-in-someren",
+   "tekst": "",
+   "datum": "2026-11-27T12:38:26.251167+00:00",
+   "eerst_gezien": "2026-11-27T12:38:26.251167+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 13:38"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036299/vergunning-voor-verbouwing-hemelaar-24-in-lierop-verleend": {
    "titel": "Vergunning voor verbouwing Hemelaar 24 in Lierop verleend",
    "link": "https://www.omroepbrabant.nl/nieuws/6036299/vergunning-voor-verbouwing-hemelaar-24-in-lierop-verleend",
-   "tekst": "",
+   "tekst": "De gemeente Someren heeft een vergunning verleend voor het plaatsen van een draagbalk bij Hemelaar 24 in Lierop. Dit is nodig om een draagmuur te verwijderen. Het besluit is op 24 november 2026 verzonden.",
    "datum": "2026-11-26T09:20:18.888539+00:00",
    "eerst_gezien": "2026-11-26T09:20:18.888539+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -2208,7 +2225,7 @@
   "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren": {
    "titel": "Sluizen in Zuid-Willemsvaart maanden dicht: schippers moeten flink omvaren",
    "link": "https://www.omroepbrabant.nl/nieuws/6036152/sluizen-in-zuid-willemsvaart-maanden-dicht-schippers-moeten-flink-omvaren",
-   "tekst": "De sluizen 10 in Asten en 12 bij Someren-Eind gaan volgend jaar bijna vier maanden dicht om gerenoveerd te worden. Dat stond al op de planning, maar Rijkswaterstaat heeft vier weken extra nodig. Schippers moeten daardoor flink omvaren en …",
+   "tekst": "woensdag De sluizen 10 in Asten en 12 bij Someren-Eind gaan volgend jaar bijna vier maanden dicht om gerenoveerd te worden. Dat stond al op de planning, maar Rijkswaterstaat heeft vier weken extra nodig. Schippers moeten daardoor flink …",
    "datum": "2026-11-25T19:23:38.948333+00:00",
    "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -4093,6 +4110,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730983/man-50-krijgt-vier-jaar-cel-voor-exporteren-100-kilo-cocaine-via-bladels-bedrijf.html": {
+   "titel": "Man (50) krijgt vier jaar cel voor exporteren 100 kilo cocaïne via Bladels bedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730983/man-50-krijgt-vier-jaar-cel-voor-exporteren-100-kilo-cocaine-via-bladels-bedrijf.html",
+   "tekst": "",
+   "datum": "2026-11-27T12:31:03+00:00",
+   "eerst_gezien": "2026-11-27T12:38:26.251167+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 13:31"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108730827/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html": {
    "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108730827/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg.html",
@@ -4105,7 +4139,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4121,7 +4155,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 13:13"
@@ -4375,38 +4409,6 @@
    "prio": false,
    "tijd": "27-11 11:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html": {
-   "titel": "`Een piep en toen was het stil`; inloophuis voor plotsdoven en laatdoven brengt lotgenoten bijeen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html",
-   "tekst": "",
-   "datum": "2026-11-27T10:13:25+00:00",
-   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html": {
-   "titel": "Automobilist (27) veroorzaakte zwaar ongeval op de weg langs het kanaal bij Veghel door roekeloos rijgedrag",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html",
-   "tekst": "",
-   "datum": "2026-11-27T10:13:25+00:00",
-   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
@@ -4523,6 +4525,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730974/video-astense-lotte-in-een-klap-beroemd-na-deelname-aan-muziekprogramma-sing-with-me.html": {
+   "titel": "[VIDEO] Astense Lotte in &é&én klap beroemd na deelname aan muziekprogramma Sing With Me",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730974/video-astense-lotte-in-een-klap-beroemd-na-deelname-aan-muziekprogramma-sing-with-me.html",
+   "tekst": "De Astense Lotte van Veghel (17) doet mee aan het nieuwe tv-programma Sing With Me van SBS6. Haar deelname in de eerste ronde, die werd...",
+   "datum": "2026-11-27T12:29:06+00:00",
+   "eerst_gezien": "2026-11-27T12:38:26.251167+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 13:29"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108722118/video-visitbrabant-vermeldt-zes-astense-wandelroutes-op-website-moesten-aan-criteria-voldoen.html": {
    "titel": "[VIDEO] VisitBrabant vermeldt zes Astense wandelroutes op website: ´Moesten aan criteria voldoen´",
@@ -4727,23 +4746,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
-   "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html",
-   "tekst": "Je krijgt gewoon goede zin als je door de Antoniusstraat in Heusden wandelt. Dat zijn de woorden van Twan van Tilburg. Hij blikt samen...",
-   "datum": "2026-11-21T17:53:15+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108722918/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html": {
    "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: `Iedereen staat voor elkaar klaar`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108722918/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html",
@@ -4828,6 +4830,55 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html": {
+   "titel": "`Een piep en toen was het stil`; inloophuis voor plotsdoven en laatdoven brengt lotgenoten bijeen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:13:25+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html": {
+   "titel": "Automobilist (27) veroorzaakte zwaar ongeval op de weg langs het kanaal bij Veghel door roekeloos rijgedrag",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:13:25+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
+   "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html",
+   "tekst": "Je krijgt gewoon goede zin als je door de Antoniusstraat in Heusden wandelt. Dat zijn de woorden van Twan van Tilburg. Hij blikt samen...",
+   "datum": "2026-11-21T17:53:15+00:00",
+   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 18:53"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126124243a2deurnerit141563": {
    "titel": "A2 Deurne Rit: 141563",
@@ -18383,7 +18434,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18428,7 +18479,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18448,7 +18499,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 19,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
