@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 08:33",
+ "bijgewerkt": "27-11-2026 08:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm": {
    "titel": "Historie van Helenaveen krijgt eigen plek in De Gouden Helm",
@@ -841,7 +841,7 @@
   "https://www.ed.nl/helmond/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort~a2612d7a2/": {
    "titel": "Contact met Nederlanders is lastig voor internationals: dus oefenen ze met veel lol bij Kletscafé in Brandevoort",
    "link": "https://www.ed.nl/helmond/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort~a2612d7a2/",
-   "tekst": "„Wat zeg je? Wat zeg je?” Volgens Mary uit Mexico is dit hoe Nederlanders reageren, wanneer ze Nederlands probeert te praten. De Argentijnse Maria moet er hard om lachen tijdens het Kletscafé in Brandevoort. Ze herkent het helemaal. Het initiatief ‘Praat Nederlands Day’, wil …",
+   "tekst": "„Wat zeg je? Wat zeg je?” Volgens Mary uit Mexico reageren Nederlanders zo als ze Nederlands probeert te praten. De Argentijnse Maria moet er hard om lachen tijdens het Kletscafé in Brandevoort. Ze herkent het helemaal. Het initiatief ‘Praat Nederlands Day’ wil internationals …",
    "datum": "2026-11-26T17:45:00+00:00",
    "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
    "bron": "ED Helmond",
@@ -1350,6 +1350,23 @@
    "prio": false,
    "tijd": "20-11 10:41"
   },
+  "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
+   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
+   "tekst": "20 november 2026 Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad …",
+   "datum": "2026-11-27T07:49:22.398678+00:00",
+   "eerst_gezien": "2026-11-27T07:49:22.398678+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 08:49"
+  },
   "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond": {
    "titel": "Twee gewonden bij botsing in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond",
@@ -1797,7 +1814,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035623/informatieve-bijeenkomst-over-zorg-in-laatste-levensfase": {
    "titel": "Informatieve bijeenkomst over zorg in laatste levensfase",
    "link": "https://www.omroepbrabant.nl/nieuws/6035623/informatieve-bijeenkomst-over-zorg-in-laatste-levensfase",
-   "tekst": "vrijdag Op maandag 23 november 2026 vindt in Deurne een bijeenkomst plaats over palliatieve en terminale zorg. Mantelzorgers, vrijwilligers en andere geïnteresseerden krijgen informatie over de mogelijkheden in de laatste levensfase. De …",
+   "tekst": "20 november 2026 Op maandag 23 november 2026 vindt in Deurne een bijeenkomst plaats over palliatieve en terminale zorg. Mantelzorgers, vrijwilligers en andere geïnteresseerden krijgen informatie over de mogelijkheden in de laatste …",
    "datum": "2026-11-23T08:22:48.463393+00:00",
    "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -2012,7 +2029,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 08:33"
@@ -3872,6 +3889,72 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728417/eindhoven-barst-van-de-mannenstraten-en-dat-moet-veranderen-vindt-de-gemeenteraad.html": {
+   "titel": "Eindhoven barst van de mannenstraten en dat moet veranderen, vindt de gemeenteraad",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728417/eindhoven-barst-van-de-mannenstraten-en-dat-moet-veranderen-vindt-de-gemeenteraad.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:43:13+00:00",
+   "eerst_gezien": "2026-11-27T07:49:22.398678+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 08:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728350/bavaria-opent-mega-thermoskan-voor-zes-miljoen-liter-water-en-dat-is-de-grootste-van-nederland.html": {
+   "titel": "Bavaria opent mega-thermoskan voor zes miljoen liter water, en dat is de grootste van Nederland",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728350/bavaria-opent-mega-thermoskan-voor-zes-miljoen-liter-water-en-dat-is-de-grootste-van-nederland.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:31:03+00:00",
+   "eerst_gezien": "2026-11-27T07:49:22.398678+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 08:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728349/eindhoven-barst-van-de-mannenstraten-en-dat-moet-veranderen-vindt-de-gemeenteraad.html": {
+   "titel": "Eindhoven barst van de mannenstraten en dat moet veranderen, vindt de gemeenteraad",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728349/eindhoven-barst-van-de-mannenstraten-en-dat-moet-veranderen-vindt-de-gemeenteraad.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:31:03+00:00",
+   "eerst_gezien": "2026-11-27T07:49:22.398678+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728321/bavaria-opent-mega-thermoskan-voor-zes-miljoen-liter-water-en-dat-is-de-grootste-van-nederland.html": {
+   "titel": "Bavaria opent mega-thermoskan voor zes miljoen liter water, en dat is de grootste van Nederland",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728321/bavaria-opent-mega-thermoskan-voor-zes-miljoen-liter-water-en-dat-is-de-grootste-van-nederland.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:25:14+00:00",
+   "eerst_gezien": "2026-11-27T07:49:22.398678+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108728255/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html": {
    "titel": "Mega-thermoskan vangt hitte van brouwproces op bij Bavaria",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108728255/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html",
@@ -3884,7 +3967,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 08:13"
@@ -3901,7 +3984,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 08:01"
@@ -3918,7 +4001,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4054,56 +4137,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 23:16"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
-   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html",
-   "tekst": "",
-   "datum": "2026-11-26T22:15:02+00:00",
-   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723416/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
-   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723416/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
-   "tekst": "",
-   "datum": "2026-11-26T21:19:03+00:00",
-   "eerst_gezien": "2026-11-26T21:24:31.995626+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html": {
-   "titel": "Politie doorzoekt bedrijventerrein en neemt bakwagen in beslag na zeker tien aanhoudingen door arrestatieteam in Veghel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html",
-   "tekst": "",
-   "datum": "2026-11-26T20:49:07+00:00",
-   "eerst_gezien": "2026-11-26T20:52:06.128695+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 21:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -4576,6 +4609,56 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html",
+   "tekst": "",
+   "datum": "2026-11-26T22:15:02+00:00",
+   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723416/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
+   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723416/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
+   "tekst": "",
+   "datum": "2026-11-26T21:19:03+00:00",
+   "eerst_gezien": "2026-11-26T21:24:31.995626+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html": {
+   "titel": "Politie doorzoekt bedrijventerrein en neemt bakwagen in beslag na zeker tien aanhoudingen door arrestatieteam in Veghel",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723273/politie-doorzoekt-bedrijventerrein-en-neemt-bakwagen-in-beslag-na-zeker-tien-aanhoudingen-door-arrestatieteam-in-veghel.html",
+   "tekst": "",
+   "datum": "2026-11-26T20:49:07+00:00",
+   "eerst_gezien": "2026-11-26T20:52:06.128695+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:49"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454": {
    "titel": "A2 Asten Rit: 141454",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454",
@@ -4588,7 +4671,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 08:20"
@@ -18060,7 +18143,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18120,7 +18203,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18140,7 +18223,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
