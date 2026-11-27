@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 15:57",
+ "bijgewerkt": "27-11-2026 16:18",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64948/vier-jubilarissen-gehuldigd-bij-kerkkoor-sint-willibrordus": {
    "titel": "Vier jubilarissen gehuldigd bij kerkkoor Sint Willibrordus",
@@ -566,23 +566,6 @@
    "prio": false,
    "tijd": "20-11 17:00"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64811/bandeville-keert-terug-naar-deurne": {
-   "titel": "Bandeville keert terug naar Deurne met optreden in het Cultuurcentrum",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64811/bandeville-keert-terug-naar-deurne",
-   "tekst": "DEURNE - De band Bandeville staat zondag 22 november om 15.30 uur opnieuw op het podium van het Cultuurcentrum in Deurne. Na het optreden van vorig jaar keert de zesmansformatie terug met de nieuwe show 'Love And Emotion'. Naast nummers van de Amerikaanse singer-songwriter Willy …",
-   "datum": "2026-11-20T15:54:18+01:00",
-   "eerst_gezien": "2026-11-20T15:02:30.676186+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 15:54"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64944/carnavalsbeleving-in-klotland-op-het-witte-doek-allemaal-eige": {
    "titel": "Carnavalsbeleving in Klotland op het witte doek: ‘Allemaal eigen verhaal’",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64944/carnavalsbeleving-in-klotland-op-het-witte-doek-allemaal-eige",
@@ -787,6 +770,23 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
+  "https://www.ed.nl/helmond/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd~acdb54deb/": {
+   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
+   "link": "https://www.ed.nl/helmond/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd~acdb54deb/",
+   "tekst": "Stel: je woont in een penthouse met uitzicht op Kasteel Helmond. Hoe ziet een dag in dit optrekje aan het Frans Joseph van Thielpark 171 eruit? Droom lekker mee. En mocht het je bevallen: de vraagprijs is onlangs flink gedaald.",
+   "datum": "2026-11-27T15:00:32+00:00",
+   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:00"
+  },
   "https://www.ed.nl/helmond/cel-dreigt-voor-hardleerse-scooterrijder-22-die-geen-rijbewijs-heeft-maar-wel-coke-bij-zich-heeft-en-een-ongeluk-veroorzaakt~a3a0e7b8/": {
    "titel": "Cel dreigt voor hardleerse scooterrijder (22) die geen rijbewijs heeft, maar wel coke bij zich heeft en een ongeluk veroorzaakt",
    "link": "https://www.ed.nl/helmond/cel-dreigt-voor-hardleerse-scooterrijder-22-die-geen-rijbewijs-heeft-maar-wel-coke-bij-zich-heeft-en-een-ongeluk-veroorzaakt~a3a0e7b8/",
@@ -833,7 +833,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:55"
@@ -4176,6 +4176,55 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732288/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
+   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732288/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:03:04+00:00",
+   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732258/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html": {
+   "titel": "Europa moet snel defensieplannen maken, en in Eindhoven liggen de bouwstenen klaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732258/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:01:04+00:00",
+   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732256/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
+   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732256/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:01:04+00:00",
+   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108732187/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html": {
    "titel": "Een paar nachtjes vorst zijn genoeg voor schaatspret in Deurne, wel met het risico op een nat pak",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108732187/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html",
@@ -4188,7 +4237,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4204,7 +4253,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 15:49"
@@ -4221,7 +4270,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4421,38 +4470,21 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730691/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html": {
-   "titel": "Zeven jaar werk, maar dan loop je virtueel langs het oude Eindhovense stadhuis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730691/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108732380/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html": {
+   "titel": "Een paar nachtjes vorst zijn genoeg voor schaatspret in Deurne, wel met het risico op een nat pak",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732380/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html",
    "tekst": "",
-   "datum": "2026-11-27T12:01:05+00:00",
-   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
-   "bron": "Drimble Helmond",
+   "datum": "2026-11-27T15:11:22+00:00",
+   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
+   "bron": "Drimble Deurne",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730626/omwonenden-willen-dat-hoogste-rechter-op-de-pauzeknop-drukt-bij-plannen-snelle-buslijn-eindhoven.html": {
-   "titel": "Omwonenden willen dat hoogste rechter op de pauzeknop drukt bij plannen snelle buslijn Eindhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730626/omwonenden-willen-dat-hoogste-rechter-op-de-pauzeknop-drukt-bij-plannen-snelle-buslijn-eindhoven.html",
-   "tekst": "",
-   "datum": "2026-11-27T11:49:07+00:00",
-   "eerst_gezien": "2026-11-27T11:50:01.989046+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108731327/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan.html": {
    "titel": "Eerste schaatsers op natuurijs in Deurne, maar enkeling haalt nat pak: `Daar zijn ze er doorheen gegaan`",
@@ -4552,40 +4584,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 22:45"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723496/museum-de-wieger-wordt-contantvrij.html": {
-   "titel": "Museum De Wieger wordt contantvrij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723496/museum-de-wieger-wordt-contantvrij.html",
-   "tekst": "Vanaf 1 januari 2027 is Museum De Wieger een contantvrij museum. Je kunt dan alleen nog met PIN betalen aan de balie, in de museumshop...",
-   "datum": "2026-11-26T21:45:04+00:00",
-   "eerst_gezien": "2026-11-26T21:56:40.197374+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 22:45"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
-   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
-   "tekst": "",
-   "datum": "2026-11-26T21:28:04+00:00",
-   "eerst_gezien": "2026-11-26T21:40:39.466945+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108730974/video-astense-lotte-in-een-klap-beroemd-na-deelname-aan-muziekprogramma-sing-with-me.html": {
    "titel": "[VIDEO] Astense Lotte in &é&én klap beroemd na deelname aan muziekprogramma Sing With Me",
@@ -4807,6 +4805,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
+   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
+   "tekst": "",
+   "datum": "2026-11-26T21:28:04+00:00",
+   "eerst_gezien": "2026-11-26T21:40:39.466945+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108722918/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html": {
    "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: `Iedereen staat voor elkaar klaar`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108722918/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html",
@@ -4891,92 +4906,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/deurne/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/": {
-   "titel": "Eerste schaatsers op natuurijs in Deurne, maar enkeling haalt nat pak: ‘Daar zijn ze er doorheen gegaan’",
-   "link": "https://www.ed.nl/deurne/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/",
-   "tekst": "De eerste schaatsers wagen zich vrijdag op het bevroren Buntven in Deurne. Op steeds meer plekken in Nederland kan worden geschaatst op natuurijs, en dat is ook te zien in Brabant. Schaatsers moeten echter wel opletten.",
-   "datum": "2026-11-27T11:55:00+00:00",
-   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:55"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html": {
-   "titel": "Eindhovenaar krijgt vier jaar cel voor cocaïne-export via Bladels bedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html",
-   "tekst": "",
-   "datum": "2026-11-27T11:19:03+00:00",
-   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html": {
-   "titel": "Het verhaal van Bernard van Dam is toch nog niet af: verloren kist levert bergen nieuwe informatie over Eerdse schrijver...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html",
-   "tekst": "",
-   "datum": "2026-11-27T11:19:03+00:00",
-   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html": {
-   "titel": "Minder vierkante meters, meer slimme zorg: dit verandert er bij het MMC in Eindhoven en Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-27T11:13:24+00:00",
-   "eerst_gezien": "2026-11-27T11:18:05.915859+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:13"
-  },
-  "https://www.ed.nl/someren/gezinnen-met-laag-inkomen-bezoeken-museum-klok-en-peel-in-asten-gratis~ae981e9c/": {
-   "titel": "Gezinnen met laag inkomen bezoeken Museum Klok & Peel in Asten gratis",
-   "link": "https://www.ed.nl/someren/gezinnen-met-laag-inkomen-bezoeken-museum-klok-en-peel-in-asten-gratis~ae981e9c/",
-   "tekst": "Gezinnen met een laag inkomen kunnen in de kerstvakantie gratis naar Museum Klok & Peel in Asten. De actie loopt van maandag 21 december tot en met zondag 3 januari en is een samenwerking van Stichting Leergeld en het museum, met steun van de gemeenten Asten en Someren.",
-   "datum": "2026-11-26T14:57:00+00:00",
-   "eerst_gezien": "2026-11-26T14:57:55.468409+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 15:57"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126142629a2astenrit141620": {
    "titel": "A2 Asten Rit: 141620",
@@ -5249,6 +5178,142 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 20:44"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730691/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html": {
+   "titel": "Zeven jaar werk, maar dan loop je virtueel langs het oude Eindhovense stadhuis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730691/zeven-jaar-werk-maar-dan-loop-je-virtueel-langs-het-oude-eindhovense-stadhuis.html",
+   "tekst": "",
+   "datum": "2026-11-27T12:01:05+00:00",
+   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730626/omwonenden-willen-dat-hoogste-rechter-op-de-pauzeknop-drukt-bij-plannen-snelle-buslijn-eindhoven.html": {
+   "titel": "Omwonenden willen dat hoogste rechter op de pauzeknop drukt bij plannen snelle buslijn Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730626/omwonenden-willen-dat-hoogste-rechter-op-de-pauzeknop-drukt-bij-plannen-snelle-buslijn-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:49:07+00:00",
+   "eerst_gezien": "2026-11-27T11:50:01.989046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723496/museum-de-wieger-wordt-contantvrij.html": {
+   "titel": "Museum De Wieger wordt contantvrij",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723496/museum-de-wieger-wordt-contantvrij.html",
+   "tekst": "Vanaf 1 januari 2027 is Museum De Wieger een contantvrij museum. Je kunt dan alleen nog met PIN betalen aan de balie, in de museumshop...",
+   "datum": "2026-11-26T21:45:04+00:00",
+   "eerst_gezien": "2026-11-26T21:56:40.197374+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 22:45"
+  },
+  "https://www.ed.nl/deurne/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/": {
+   "titel": "Eerste schaatsers op natuurijs in Deurne, maar enkeling haalt nat pak: ‘Daar zijn ze er doorheen gegaan’",
+   "link": "https://www.ed.nl/deurne/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/",
+   "tekst": "De eerste schaatsers wagen zich vrijdag op het bevroren Buntven in Deurne. Op steeds meer plekken in Nederland kan worden geschaatst op natuurijs, en dat is ook te zien in Brabant. Schaatsers moeten echter wel opletten.",
+   "datum": "2026-11-27T11:55:00+00:00",
+   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html": {
+   "titel": "Eindhovenaar krijgt vier jaar cel voor cocaïne-export via Bladels bedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:19:03+00:00",
+   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html": {
+   "titel": "Het verhaal van Bernard van Dam is toch nog niet af: verloren kist levert bergen nieuwe informatie over Eerdse schrijver...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:19:03+00:00",
+   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html": {
+   "titel": "Minder vierkante meters, meer slimme zorg: dit verandert er bij het MMC in Eindhoven en Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:13:24+00:00",
+   "eerst_gezien": "2026-11-27T11:18:05.915859+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:13"
+  },
+  "https://www.ed.nl/someren/gezinnen-met-laag-inkomen-bezoeken-museum-klok-en-peel-in-asten-gratis~ae981e9c/": {
+   "titel": "Gezinnen met laag inkomen bezoeken Museum Klok & Peel in Asten gratis",
+   "link": "https://www.ed.nl/someren/gezinnen-met-laag-inkomen-bezoeken-museum-klok-en-peel-in-asten-gratis~ae981e9c/",
+   "tekst": "Gezinnen met een laag inkomen kunnen in de kerstvakantie gratis naar Museum Klok & Peel in Asten. De actie loopt van maandag 21 december tot en met zondag 3 januari en is een samenwerking van Stichting Leergeld en het museum, met steun van de gemeenten Asten en Someren.",
+   "datum": "2026-11-26T14:57:00+00:00",
+   "eerst_gezien": "2026-11-26T14:57:55.468409+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Asten",
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 15:57"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126194243a2helmondrit141323": {
    "titel": "A2 Helmond Rit: 141323",
@@ -8805,23 +8870,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 16:23"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126160607a2deurnerit140789": {
-   "titel": "A2 Deurne Rit: 140789",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126160607a2deurnerit140789",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T16:06:07+01:00",
-   "eerst_gezien": "2026-11-25T15:14:37.924553+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 16:06"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108717726/groen-hoogbouw-en-een-buslijn-naar-eindhoven-zo-moet-de-run-eruit-gaan-zien.html": {
    "titel": "Groen, hoogbouw en een buslijn naar Eindhoven: zo moet De Run eruit gaan zien",
@@ -18333,23 +18381,6 @@
    "prio": false,
    "tijd": "20-11 16:15"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660693/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
-   "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660693/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html",
-   "tekst": "",
-   "datum": "2026-11-20T15:01:05+00:00",
-   "eerst_gezien": "2026-11-20T15:18:38.054953+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 16:01"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html": {
    "titel": "Zangeres Merol cancelt optreden in Eindhoven na `flinke val` van podium",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108661925/zangeres-merol-cancelt-optreden-in-eindhoven-na-flinke-val-van-podium.html",
@@ -18415,29 +18446,12 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
-   "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html",
-   "tekst": "",
-   "datum": "2026-11-20T14:55:05+00:00",
-   "eerst_gezien": "2026-11-20T15:02:30.676186+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 15:55"
   }
  },
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -18447,7 +18461,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "ED Deurne": {
@@ -18532,12 +18546,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 18,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 7,
    "fout": ""
   },
   "Drimble Asten": {
@@ -18547,12 +18561,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 16,
    "fout": ""
   },
   "112Brabant": {
@@ -18744,13 +18758,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19100,11 +19114,27 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4081": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19120,19 +19150,15 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4999": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5005": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5010": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5013": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5018": {
    "gem": [],
    "datum": "2026-08-26"
   }
