@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 01:37",
+ "bijgewerkt": "27-11-2026 01:53",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -4558,6 +4558,40 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126011955a2helmondrit141407": {
+   "titel": "A2 Helmond Rit: 141407",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126011955a2helmondrit141407",
+   "tekst": "Ambulance 22-114 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T01:19:55+01:00",
+   "eerst_gezien": "2026-11-27T00:53:06.671295+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 01:19"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126011814a2deurnerit141404": {
+   "titel": "A2 Deurne Rit: 141404",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126011814a2deurnerit141404",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T01:18:14+01:00",
+   "eerst_gezien": "2026-11-27T00:53:06.671295+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 01:18"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126230748a1helmondrit141380": {
    "titel": "A1 Helmond Rit: 141380",
@@ -18288,7 +18322,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 30,
    "fout": ""
   },
   "112Brabant": {
