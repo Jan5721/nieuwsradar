@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 10:10",
+ "bijgewerkt": "27-11-2026 10:26",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64942/film-en-quiz-over-geweld-tegen-vrouwen-in-het-cultuurcentrum": {
    "titel": "Film en quiz over geweld tegen vrouwen in het Cultuurcentrum",
@@ -1164,10 +1164,27 @@
    "prio": false,
    "tijd": "26-11 15:00"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036490/helmond-stelt-nieuwe-subsidieregels-sociale-woningbouw-vast": {
+   "titel": "Helmond stelt nieuwe subsidieregels sociale woningbouw vast",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036490/helmond-stelt-nieuwe-subsidieregels-sociale-woningbouw-vast",
+   "tekst": "",
+   "datum": "2026-11-27T09:26:03.763400+00:00",
+   "eerst_gezien": "2026-11-27T09:26:03.763400+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:26"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036136/aangepaste-openingstijden-milieustraat-helmond-in-december": {
    "titel": "Aangepaste openingstijden milieustraat Helmond in december",
    "link": "https://www.omroepbrabant.nl/nieuws/6036136/aangepaste-openingstijden-milieustraat-helmond-in-december",
-   "tekst": "",
+   "tekst": "De milieustraat in Helmond heeft in december aangepaste openingstijden. Rond de feestdagen zijn er wijzigingen in de tijden waarop afval kan worden gebracht.",
    "datum": "2026-11-25T13:53:52.197331+00:00",
    "eerst_gezien": "2026-11-25T13:53:52.197331+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1201,7 +1218,7 @@
   "https://www.omroepbrabant.nl/nieuws/6036037/brand-in-container-bij-kasteel-van-sinterklaas-in-helmond": {
    "titel": "Brand in container bij Kasteel van Sinterklaas in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6036037/brand-in-container-bij-kasteel-van-sinterklaas-in-helmond",
-   "tekst": "In een container aan het Kasteelplein in Helmond is dinsdagnacht brand uitgebroken. De container met daarin een grote accu stond vlakbij Kasteel Helmond, dat voor de sinterklaasperiode is ingericht als het Kasteel van Sinterklaas. VIDEO",
+   "tekst": "VIDEO woensdag In een container aan het Kasteelplein in Helmond is dinsdagnacht brand uitgebroken. De container met daarin een grote accu stond vlakbij Kasteel Helmond, dat voor de sinterklaasperiode is ingericht als het Kasteel van …",
    "datum": "2026-11-25T05:21:34.098671+00:00",
    "eerst_gezien": "2026-11-25T05:21:34.098671+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1659,23 +1676,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt": {
-   "titel": "Vuurwerk gegooid naar boa's in Helmond: 'Ouders kijk waar je kind uithangt'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt",
-   "tekst": "14 november 2026 Jongeren hebben vrijdagavond vuurwerk en voorwerpen gegooid naar boa's bij Sportpark De Braak in Helmond. Dat meldt de politie in Helmond zaterdag. Een 15-jarige jongen is aangehouden omdat hij met vuurwerk zou hebben …",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
   "https://www.omroepbrabant.nl/nieuws/6036445/vergunning-verleend-voor-verbouwing-woning-aan-keltenstraat-in-deurne": {
    "titel": "Vergunning verleend voor verbouwing woning aan Keltenstraat in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6036445/vergunning-verleend-voor-verbouwing-woning-aan-keltenstraat-in-deurne",
@@ -1926,7 +1926,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:09"
@@ -1943,7 +1943,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:09"
@@ -2405,7 +2405,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:09"
@@ -2422,7 +2422,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:09"
@@ -2562,6 +2562,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/openingstijden-en-afvalinzameling-tijdens-de-feestdagen": {
+   "titel": "Openingstijden en afvalinzameling tijdens de feestdagen",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/openingstijden-en-afvalinzameling-tijdens-de-feestdagen",
+   "tekst": "Hieronder ziet u in één overzicht de openingstijden en ophaalmomenten tijdens de feestdagen in 2026/2027.",
+   "datum": "2026-11-27T08:39:03+00:00",
+   "eerst_gezien": "2026-11-27T09:26:03.763400+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 09:39"
   },
   "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
    "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
@@ -4207,7 +4224,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 09:59"
@@ -4914,6 +4931,23 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt": {
+   "titel": "Vuurwerk gegooid naar boa's in Helmond: 'Ouders kijk waar je kind uithangt'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034818/vuurwerk-gegooid-naar-boas-in-helmond-ouders-kijk-waar-je-kind-uithangt",
+   "tekst": "14 november 2026 Jongeren hebben vrijdagavond vuurwerk en voorwerpen gegooid naar boa's bij Sportpark De Braak in Helmond. Dat meldt de politie in Helmond zaterdag. Een 15-jarige jongen is aangehouden omdat hij met vuurwerk zou hebben …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126094747a2helmondrit141480": {
    "titel": "A2 Helmond Rit: 141480",
@@ -8767,23 +8801,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 10:28"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126101817a1helmondrit140631": {
-   "titel": "A1 Helmond Rit: 140631",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126101817a1helmondrit140631",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T10:18:17+01:00",
-   "eerst_gezien": "2026-11-25T09:21:44.525299+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "25-11 10:18"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
    "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
@@ -18208,23 +18225,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657552/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel.html": {
-   "titel": "Sancta Maria brengt nieuwe kerstvoorstelling met muziek en toneel in Ommel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657552/sancta-maria-brengt-nieuwe-kerstvoorstelling-met-muziek-en-toneel-in-ommel.html",
-   "tekst": "",
-   "datum": "2026-11-20T09:13:07+00:00",
-   "eerst_gezien": "2026-11-20T09:24:53.994206+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 10:13"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
    "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
    "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
@@ -18339,7 +18339,7 @@
   },
   "Gemeente Helmond": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 5,
    "fout": ""
   },
   "Gemeente Deurne": {
@@ -18399,7 +18399,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
