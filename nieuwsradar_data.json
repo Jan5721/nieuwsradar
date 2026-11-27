@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 20:17",
+ "bijgewerkt": "27-11-2026 20:39",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -774,7 +774,7 @@
   "https://www.ed.nl/helmond/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis~ad0a343e/": {
    "titel": "Helmondse Senna scoort met ‘Hey Poes’, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
    "link": "https://www.ed.nl/helmond/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis~ad0a343e/",
-   "tekst": "Hey Poes. Zo heet het nieuwste nummer van de Helmondse zangeres Senna Willems, dat ze samen met Monique Smit heeft gemaakt. Het nummer gaat op sociale media behoorlijk hard. Maar niet alleen in Nederland wordt het liedje opgepikt. Ook vanuit Zuid-Afrika stromen de reacties …",
+   "tekst": "Hey Poes. Zo heet het nieuwste nummer van de Helmondse zangeres Senna Willems, dat ze samen met Monique Smit heeft gemaakt. Het nummer trekt behoorlijk veel aandacht op sociale media. Maar niet alleen in Nederland wordt het liedje opgepikt. Ook vanuit Zuid-Afrika stromen de …",
    "datum": "2026-11-27T19:00:00+00:00",
    "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
    "bron": "ED Helmond",
@@ -783,7 +783,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 20:00"
@@ -4177,6 +4177,39 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108734196/philips-audiotak-ging-kopje-onder-maar-amerikaanse-ex-bazen-draaien-niet-op-voor-50-miljoen-euro-tekort.html": {
+   "titel": "Philips-audiotak ging kopje onder, maar Amerikaanse ex-bazen draaien niet op voor 50 miljoen euro tekort",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734196/philips-audiotak-ging-kopje-onder-maar-amerikaanse-ex-bazen-draaien-niet-op-voor-50-miljoen-euro-tekort.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:31:04+00:00",
+   "eerst_gezien": "2026-11-27T19:32:46.589233+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 20:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108734161/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html": {
+   "titel": "Helmondse Senna scoort met `Hey Poes`, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734161/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:25:11+00:00",
+   "eerst_gezien": "2026-11-27T19:32:46.589233+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108734006/vijf-duels-in-keuken-kampioen-divisie-gaan-niet-door-vanwege-winterweer.html": {
    "titel": "Vijf duels in Keuken Kampioen Divisie gaan niet door vanwege winterweer",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108734006/vijf-duels-in-keuken-kampioen-divisie-gaan-niet-door-vanwege-winterweer.html",
@@ -4189,7 +4222,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 20:01"
@@ -4206,7 +4239,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4222,7 +4255,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 19:49"
@@ -4239,7 +4272,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 19:49"
@@ -4394,55 +4427,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 17:25"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108733014/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html": {
-   "titel": "Arsenal zet trainster Renée Slegers uit Someren-Eind op straat na tegenvallende resultaten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733014/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html",
-   "tekst": "",
-   "datum": "2026-11-27T16:19:03+00:00",
-   "eerst_gezien": "2026-11-27T16:41:39.583066+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108733012/half-miljoen-illegale-sigaretten-en-37000-euro-cash-ontdekt-in-veldhoven.html": {
-   "titel": "Half miljoen illegale sigaretten en 37.000 euro cash ontdekt in Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733012/half-miljoen-illegale-sigaretten-en-37000-euro-cash-ontdekt-in-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-27T16:19:03+00:00",
-   "eerst_gezien": "2026-11-27T16:41:39.583066+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732749/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-arrestatieteam.html": {
-   "titel": "Automobilist rijdt met 100 km/uur over fietspad in Eindhoven tijdens achtervolging door arrestatieteam",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732749/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-arrestatieteam.html",
-   "tekst": "",
-   "datum": "2026-11-27T15:49:09+00:00",
-   "eerst_gezien": "2026-11-27T15:54:43.024376+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 16:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108732380/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html": {
    "titel": "Een paar nachtjes vorst zijn genoeg voor schaatspret in Deurne, wel met het risico op een nat pak",
@@ -4828,6 +4812,22 @@
    "prio": false,
    "tijd": "27-11 17:59"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733014/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html": {
+   "titel": "Arsenal zet trainster Renée Slegers uit Someren-Eind op straat na tegenvallende resultaten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733014/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html",
+   "tekst": "",
+   "datum": "2026-11-27T16:19:03+00:00",
+   "eerst_gezien": "2026-11-27T16:41:39.583066+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
@@ -4913,6 +4913,39 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733012/half-miljoen-illegale-sigaretten-en-37000-euro-cash-ontdekt-in-veldhoven.html": {
+   "titel": "Half miljoen illegale sigaretten en 37.000 euro cash ontdekt in Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733012/half-miljoen-illegale-sigaretten-en-37000-euro-cash-ontdekt-in-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-27T16:19:03+00:00",
+   "eerst_gezien": "2026-11-27T16:41:39.583066+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732749/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-arrestatieteam.html": {
+   "titel": "Automobilist rijdt met 100 km/uur over fietspad in Eindhoven tijdens achtervolging door arrestatieteam",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732749/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-arrestatieteam.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:49:09+00:00",
+   "eerst_gezien": "2026-11-27T15:54:43.024376+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:49"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126200957a2helmondrit141756": {
    "titel": "A2 Helmond Rit: 141756",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126200957a2helmondrit141756",
@@ -4925,7 +4958,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 20:09"
@@ -4942,7 +4975,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 20:03"
@@ -4959,7 +4992,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 20:01"
@@ -9322,23 +9355,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 11:31"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126201125a2deurnerit140880": {
-   "titel": "A2 Deurne Rit: 140880",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126201125a2deurnerit140880",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T20:11:25+01:00",
-   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 20:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718301/van-gezonde-student-naar-patient-in-een-nacht-timo-25-wil-dat-niemand-kanker-nog-negeert.html": {
    "titel": "Van gezonde student naar patiënt in één nacht: Timo (25) wil dat niemand kanker nog negeert",
@@ -18350,40 +18366,6 @@
    "prio": false,
    "tijd": "20-11 20:34"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662538/domper-voor-fc-dordrecht-helmond-sport-slaat-uit-eerste-kans-toe.html": {
-   "titel": "Domper voor FC Dordrecht: Helmond Sport slaat uit eerste kans toe",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662538/domper-voor-fc-dordrecht-helmond-sport-slaat-uit-eerste-kans-toe.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:28:16+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:28"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662439/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
-   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662439/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:11:21+00:00",
-   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:11"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
@@ -18400,23 +18382,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 00:11"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662449/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html": {
-   "titel": "Een half uur voordat de koper komt, is foodtruck van Adriana in Woensel ineens verdwenen: `Is die al weg'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662449/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:13:10+00:00",
-   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666035/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -18583,7 +18548,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18598,12 +18563,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 7,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
@@ -19091,6 +19056,10 @@
    "gem": [],
    "datum": "2026-10-29"
   },
+  "ECLI:NL:RVS:2026:5489": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
   "ECLI:NL:RVS:2026:3406": {
    "gem": [],
    "datum": "2026-06-24"
@@ -19110,10 +19079,6 @@
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
    "datum": "2026-08-05"
-  },
-  "ECLI:NL:RVS:2026:5489": {
-   "gem": [],
-   "datum": "2026-09-16"
   },
   "ECLI:NL:RVS:2026:5109": {
    "gem": [],
@@ -19455,7 +19420,19 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19471,27 +19448,19 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4998": {
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4999": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5006": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5010": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5014": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
   }
