@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 01:53",
+ "bijgewerkt": "27-11-2026 02:09",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -4571,7 +4571,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 01:19"
@@ -4588,7 +4588,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 01:18"
@@ -18322,7 +18322,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "112Brabant": {
