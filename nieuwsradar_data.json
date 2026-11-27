@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 10:58",
+ "bijgewerkt": "27-11-2026 11:14",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64942/film-en-quiz-over-geweld-tegen-vrouwen-in-het-cultuurcentrum": {
    "titel": "Film en quiz over geweld tegen vrouwen in het Cultuurcentrum",
@@ -583,22 +583,22 @@
    "prio": false,
    "tijd": "20-11 12:00"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64799/deurnese-watervrienden-duiken-in-de-kleine-zeemeermin": {
-   "titel": "Deurnese Watervrienden duiken in De Kleine Zeemeermin",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64799/deurnese-watervrienden-duiken-in-de-kleine-zeemeermin",
-   "tekst": "DEURNE - 35 jaar geleden was er voor het eerst een grote verhalende show te zien in zwembad De Wiemel. Met The Wiz begonnen de Deurnese Watervrienden een traditie die op 23 en 24 januari een vervolg krijgt. Een van de hoofdrolspelers van toen duikt opnieuw op in de show De …",
-   "datum": "2026-11-20T11:12:00+01:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "Weekblad voor Deurne",
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64944/carnavalsbeleving-in-klotland-op-het-witte-doek-allemaal-eige": {
+   "titel": "Carnavalsbeleving in Klotland op het witte doek: ‘Allemaal eigen verhaal’",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64944/carnavalsbeleving-in-klotland-op-het-witte-doek-allemaal-eige",
+   "tekst": "ASTEN - Carnaval vieren, het is Asten wel toevertrouwd. Jaarlijks trekken vele feestneuzen eropuit om het volksfeest te vieren, ieder op zijn eigen manier én met hun eigen verhaal. Maar wat maakt carnaval in Klotland eigenlijk zo bijzonder? Ter gelegenheid van het 66-jarig …",
+   "datum": "2026-11-27T11:00:00+01:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Peelbelang",
    "gemeenten": [
-    "Deurne"
+    "Asten"
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "20-11 11:12"
+   "tijd": "27-11 11:00"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64941/vrolijke-pietenjacht-door-het-centrum-van-asten": {
    "titel": "Vrolijke Pietenjacht door het centrum van Asten",
@@ -825,7 +825,7 @@
    "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
    "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
    "tekst": "De voorpret bij het Helmondse Kasteel van Sinterklaas begint al op het voorplein, waar bezoekers voor en na hun visite worden opgevangen. Buiten vliegen de pieten en pepernoten om de oren, maar in de Smulwinkel komen pa en ma tot rust, totdat ze zoonlief kwijt zijn.",
-   "datum": "2026-11-27T06:30:43+00:00",
+   "datum": "2026-11-27T06:30:00+00:00",
    "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -941,40 +941,6 @@
    "prio": false,
    "tijd": "26-11 12:54"
   },
-  "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/": {
-   "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
-   "link": "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/",
-   "tekst": "Een nieuwe braadpan scoren, op zoek naar een goed koksmes of inspiratie opdoen voor je volgende etentje? Helmondse hobbykoks hebben er een nieuw adresje bij. In de binnenstad is Kookwinkel Coenen geopend.",
-   "datum": "2026-11-26T11:13:00+00:00",
-   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 12:13"
-  },
-  "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/": {
-   "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
-   "link": "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/",
-   "tekst": "Cultuurcentrum Deurne vertoont de concertfilm André Rieu’s 2026 Christmas Concert: Let It Snow. De film is zaterdag 12 december om 13.30 uur en zondag 13 december om 10.30 uur te zien.",
-   "datum": "2026-11-26T11:12:26+00:00",
-   "eerst_gezien": "2026-11-26T11:12:48.841054+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 12:12"
-  },
   "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/": {
    "titel": "De Wieger in Deurne stapt vanaf 1 januari over op pinbetalingen",
    "link": "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/",
@@ -1009,22 +975,39 @@
    "prio": false,
    "tijd": "26-11 17:30"
   },
-  "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/": {
-   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
-   "link": "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/",
-   "tekst": "Museum Klok & Peel in Asten houdt een kindermiddag over wat dieren eten in de winter. Woensdag 9 december is de middag ‘Elke smaak een eigen kaak’ van 14.00 tot 16.00 uur in het museum.",
-   "datum": "2026-11-26T06:29:00+00:00",
-   "eerst_gezien": "2026-11-26T06:38:52.057552+00:00",
+  "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/": {
+   "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
+   "link": "https://www.ed.nl/helmond/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend~a461ae03/",
+   "tekst": "Een nieuwe braadpan scoren, op zoek naar een goed koksmes of inspiratie opdoen voor je volgende etentje? Helmondse hobbykoks hebben er een nieuw adresje bij. In de binnenstad is Kookwinkel Coenen geopend.",
+   "datum": "2026-11-26T11:13:00+00:00",
+   "eerst_gezien": "2026-11-26T11:28:57.056768+00:00",
    "bron": "ED Deurne",
    "gemeenten": [
-    "Asten"
+    "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
    "prio": false,
-   "tijd": "26-11 07:29"
+   "tijd": "26-11 12:13"
+  },
+  "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/": {
+   "titel": "André Rieu speelt kerstklassiekers in concertfilm in Deurne",
+   "link": "https://www.ed.nl/deurne/andre-rieu-speelt-kerstklassiekers-in-concertfilm-in-deurne~aedca3fe/",
+   "tekst": "Cultuurcentrum Deurne vertoont de concertfilm André Rieu’s 2026 Christmas Concert: Let It Snow. De film is zaterdag 12 december om 13.30 uur en zondag 13 december om 10.30 uur te zien.",
+   "datum": "2026-11-26T11:12:26+00:00",
+   "eerst_gezien": "2026-11-26T11:12:48.841054+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 12:12"
   },
   "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Asten doen vaker mee dan in de meeste gemeenten",
@@ -1286,7 +1269,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw": {
    "titel": "Nieuw-Brandevoort pilotlocatie voor netbewuste nieuwbouw",
    "link": "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw",
-   "tekst": "vrijdag Nieuw-Brandevoort in Helmond is aangewezen als pilotlocatie voor netbewuste nieuwbouw. Het Rijk wil hiermee ondanks netcongestie de bouw van 4.000 woningen mogelijk maken. De pilot is onderdeel van de crisisaanpak voor het …",
+   "tekst": "20 november 2026 Nieuw-Brandevoort in Helmond is aangewezen als pilotlocatie voor netbewuste nieuwbouw. Het Rijk wil hiermee ondanks netcongestie de bouw van 4.000 woningen mogelijk maken. De pilot is onderdeel van de crisisaanpak voor het …",
    "datum": "2026-11-23T08:22:48.463393+00:00",
    "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1303,7 +1286,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035637/helmond-houdt-pitchavond-voor-street-culture-en-sports": {
    "titel": "Helmond houdt pitchavond voor Street Culture en Sports",
    "link": "https://www.omroepbrabant.nl/nieuws/6035637/helmond-houdt-pitchavond-voor-street-culture-en-sports",
-   "tekst": "vrijdag De gemeente Helmond heeft op 19 november een pitchavond georganiseerd voor subsidieaanvragen binnen Street Culture en Sports. Negen deelnemers presenteerden hun ideeën aan een jury en kregen allemaal financiële steun voor hun …",
+   "tekst": "20 november 2026 De gemeente Helmond heeft op 19 november een pitchavond georganiseerd voor subsidieaanvragen binnen Street Culture en Sports. Negen deelnemers presenteerden hun ideeën aan een jury en kregen allemaal financiële steun voor …",
    "datum": "2026-11-23T08:22:48.463393+00:00",
    "eerst_gezien": "2026-11-23T08:22:48.463393+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1363,7 +1346,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:58"
@@ -2405,7 +2388,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:58"
@@ -2529,23 +2512,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.helmond.nl/1/nieuws/2026/december/openingstijden-en-afvalinzameling-tijdens-de-feestdagen": {
-   "titel": "Openingstijden en afvalinzameling tijdens de feestdagen",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/openingstijden-en-afvalinzameling-tijdens-de-feestdagen",
-   "tekst": "Hieronder ziet u in één overzicht de openingstijden en ophaalmomenten tijdens de feestdagen in 2026/2027.",
-   "datum": "2026-11-27T08:39:03+00:00",
-   "eerst_gezien": "2026-11-27T09:26:03.763400+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 09:39"
-  },
   "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
    "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
    "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
@@ -2613,6 +2579,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 21:16"
+  },
+  "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start": {
+   "titel": "‘Ons dorp in de schijnwerpers’ feestelijk van start in Vlierden",
+   "link": "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start",
+   "tekst": "",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Gemeente Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
   },
   "https://www.deurne.nl/nieuws/leerlingen-basisschool-zeilberg-krijgen-tijdelijk-les-in-someren": {
    "titel": "Leerlingen basisschool Zeilberg krijgen tijdelijk les in Someren",
@@ -4178,6 +4161,139 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729579/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html": {
+   "titel": "Duitse verdachte dacht cannabis te vervoeren, maar bleek met 2 kilo cocaïne op pad te zijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729579/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:13:25+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 11:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729578/mmc-topvrouw-paula-nelissen-over-groeiende-druk-op-de-zorg-in-brainport-we-kunnen-meer-dan-we-denken.html": {
+   "titel": "MMC-topvrouw Paula Nelissen over groeiende druk op de zorg in Brainport: `We kunnen meer dan we denken`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729578/mmc-topvrouw-paula-nelissen-over-groeiende-druk-op-de-zorg-in-brainport-we-kunnen-meer-dan-we-denken.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:13:25+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 11:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html": {
+   "titel": "`Een piep en toen was het stil`; inloophuis voor plotsdoven en laatdoven brengt lotgenoten bijeen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:13:25+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 11:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html": {
+   "titel": "Automobilist (27) veroorzaakte zwaar ongeval op de weg langs het kanaal bij Veghel door roekeloos rijgedrag",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:13:25+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 11:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729411/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html": {
+   "titel": "Duitse verdachte dacht cannabis te vervoeren, maar bleek met 2 kilo cocaïne op pad te zijn",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729411/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:01:05+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729410/mmc-topvrouw-paula-nelissen-over-groeiende-druk-op-de-zorg-in-brainport-we-kunnen-meer-dan-we-denken.html": {
+   "titel": "MMC-topvrouw Paula Nelissen over groeiende druk op de zorg in Brainport: `We kunnen meer dan we denken`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729410/mmc-topvrouw-paula-nelissen-over-groeiende-druk-op-de-zorg-in-brainport-we-kunnen-meer-dan-we-denken.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:01:05+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729390/video-profspelers-van-fc-eindhoven-en-helmond-sport-geven-training-bij-nwc-om-iets-bij-te-leren.html": {
+   "titel": "[VIDEO] Profspelers van FC Eindhoven en Helmond Sport geven training bij NWC: ´Om iets bij te leren´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729390/video-profspelers-van-fc-eindhoven-en-helmond-sport-geven-training-bij-nwc-om-iets-bij-te-leren.html",
+   "tekst": "Op het sportpark van NWC genoten zo’n 160 kinderen afgelopen week van een speciale voetbaltraining. Spelers van profclubs als Helmond...",
+   "datum": "2026-11-27T09:59:06+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:59"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729372/openingstijden-en-afvalinzameling-tijdens-de-feestdagen.html": {
+   "titel": "Openingstijden en afvalinzameling tijdens de feestdagen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729372/openingstijden-en-afvalinzameling-tijdens-de-feestdagen.html",
+   "tekst": "Hieronder ziet u in één overzicht de openingstijden en ophaalmomenten tijdens de feestdagen in 2026/2027.",
+   "datum": "2026-11-27T09:58:02+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108729331/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html": {
    "titel": "Modelvliegtuigjes op te halen in Nuenen, Yvonne heeft hangertje gevonden",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108729331/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html",
@@ -4190,7 +4306,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:49"
@@ -4207,7 +4323,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:49"
@@ -4224,7 +4340,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4240,7 +4356,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4376,55 +4492,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108728115/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html": {
-   "titel": "Gemeente Eindhoven mag op de oude voet doorgaan volgens de Autoriteit Persoonsgegevens",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728115/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html",
-   "tekst": "",
-   "datum": "2026-11-27T06:49:07+00:00",
-   "eerst_gezien": "2026-11-27T07:01:28.974313+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108728113/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html": {
-   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: `De spanning op die gezichten, onbeschrijfelijk`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728113/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html",
-   "tekst": "",
-   "datum": "2026-11-27T06:49:05+00:00",
-   "eerst_gezien": "2026-11-27T07:01:28.974313+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108727958/autoriteit-persoonsgegevens-laat-eindhoven-doorgaan-met-delen-van-privacygevoelige-informatie-over-gezinnen.html": {
-   "titel": "Autoriteit Persoonsgegevens laat Eindhoven doorgaan met delen van privacygevoelige informatie over gezinnen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108727958/autoriteit-persoonsgegevens-laat-eindhoven-doorgaan-met-delen-van-privacygevoelige-informatie-over-gezinnen.html",
-   "tekst": "",
-   "datum": "2026-11-27T06:19:02+00:00",
-   "eerst_gezien": "2026-11-27T06:29:24.008357+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 07:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -5321,6 +5388,89 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 14:32"
+  },
+  "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/": {
+   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
+   "link": "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/",
+   "tekst": "Museum Klok & Peel in Asten houdt een kindermiddag over wat dieren eten in de winter. Woensdag 9 december is de middag ‘Elke smaak een eigen kaak’ van 14.00 tot 16.00 uur in het museum.",
+   "datum": "2026-11-26T06:29:00+00:00",
+   "eerst_gezien": "2026-11-26T06:38:52.057552+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 07:29"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/openingstijden-en-afvalinzameling-tijdens-de-feestdagen": {
+   "titel": "Openingstijden en afvalinzameling tijdens de feestdagen",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/openingstijden-en-afvalinzameling-tijdens-de-feestdagen",
+   "tekst": "Hieronder ziet u in één overzicht de openingstijden en ophaalmomenten tijdens de feestdagen in 2026/2027.",
+   "datum": "2026-11-27T08:39:03+00:00",
+   "eerst_gezien": "2026-11-27T09:26:03.763400+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 09:39"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728115/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html": {
+   "titel": "Gemeente Eindhoven mag op de oude voet doorgaan volgens de Autoriteit Persoonsgegevens",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728115/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html",
+   "tekst": "",
+   "datum": "2026-11-27T06:49:07+00:00",
+   "eerst_gezien": "2026-11-27T07:01:28.974313+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728113/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html": {
+   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: `De spanning op die gezichten, onbeschrijfelijk`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728113/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html",
+   "tekst": "",
+   "datum": "2026-11-27T06:49:05+00:00",
+   "eerst_gezien": "2026-11-27T07:01:28.974313+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108727958/autoriteit-persoonsgegevens-laat-eindhoven-doorgaan-met-delen-van-privacygevoelige-informatie-over-gezinnen.html": {
+   "titel": "Autoriteit Persoonsgegevens laat Eindhoven doorgaan met delen van privacygevoelige informatie over gezinnen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108727958/autoriteit-persoonsgegevens-laat-eindhoven-doorgaan-met-delen-van-privacygevoelige-informatie-over-gezinnen.html",
+   "tekst": "",
+   "datum": "2026-11-27T06:19:02+00:00",
+   "eerst_gezien": "2026-11-27T06:29:24.008357+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 07:19"
   },
   "https://www.ed.nl/helmond/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout~aabc9e73/": {
    "titel": "Damiaanparochie Helmond zoekt zangers voor peuter- en kleuterkerstviering in Stiphout",
@@ -15945,24 +16095,6 @@
    "prio": false,
    "tijd": "21-11 22:01"
   },
-  "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/": {
-   "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet?",
-   "link": "https://www.ed.nl/asten/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet~a4bc07a8/",
-   "tekst": "Vier jaar lang stonden varkensstallen in het buitengebied van Lierop leeg, maar over een tijdje misschien niet meer. Het bedrijf Kovemi heeft plannen voor een doorstart van een gesloten varkenshouderij aan de Verhagenstraat.",
-   "datum": "2026-11-20T10:00:13+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond",
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html": {
    "titel": "Heet van de Herdgang | Poll: `Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108672197/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html",
@@ -16011,23 +16143,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.ed.nl/asten/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk~a2bd699a/": {
-   "titel": "Splinternieuw Mariabeeld bij kerk in Ommel maakt veel los, alleen de houdbaarheid is zorgelijk",
-   "link": "https://www.ed.nl/asten/splinternieuw-mariabeeld-bij-kerk-in-ommel-maakt-veel-los-alleen-de-houdbaarheid-is-zorgelijk~a2bd699a/",
-   "tekst": "Ommelnaren kunnen niet lang genieten van het splinternieuwe houten Mariabeeld bij de kerk. Dat vrezen de maker zelf en een houtkenner. „Het rot heel vlug weg.”",
-   "datum": "2026-11-20T10:00:00+00:00",
-   "eerst_gezien": "2026-11-20T11:01:37.627577+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666712/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -16129,23 +16244,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 16:07"
-  },
-  "https://www.ed.nl/opinie/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven~a0593b4c/": {
-   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
-   "link": "https://www.ed.nl/opinie/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven~a0593b4c/",
-   "tekst": "Al jaren op zoek naar dat ene speciale kopje? Of wil u graag van uw oude stoeptegels af? Kan jullie nieuwe rockband muzikanten gebruiken? Of heeft u iets verloren of juist gevonden? In de rubriek Vraag&Aanbod van het ED helpen lezers elkaar!",
-   "datum": "2026-11-20T09:58:07+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 10:58"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108670368/jorg-en-ingrid-openden-de-stadshuiskamer-je-kunt-hier-eten-wat-de-pot-schaft.html": {
    "titel": "Jorg en Ingrid openden De Stadshuiskamer: `Je kunt hier eten wat de pot schaft`",
@@ -16359,7 +16457,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 23:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108665455/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -17424,22 +17523,6 @@
    "prio": false,
    "tijd": "20-11 11:27"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
-   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658020/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:13:09+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html": {
    "titel": "FC Dordrecht dichtbij vroege openingstreffer: De Bie raakt de paal",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html",
@@ -18107,7 +18190,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 12:01"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
    "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
@@ -18174,7 +18258,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 11:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html": {
    "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
@@ -18190,7 +18275,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 11:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108659648/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, maar dit weekend wordt droog en mogelijk zonnig",
@@ -18209,54 +18295,6 @@
    "prio": false,
    "tijd": "20-11 14:07"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657924/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html": {
-   "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657924/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:07:22+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657923/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html": {
-   "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657923/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:07:22+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657872/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
-   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657872/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:01:05+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
    "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
    "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
@@ -18273,50 +18311,17 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:16"
-  },
-  "https://www.ed.nl/asten/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk~a2bd699a/": {
-   "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
-   "link": "https://www.ed.nl/asten/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk~a2bd699a/",
-   "tekst": "Ommelnaren kunnen niet lang genieten van het splinternieuwe houten Mariabeeld bij de kerk. Dat vrezen de maker zelf en een houtkenner. „Het rot heel vlug weg.”",
-   "datum": "2026-11-20T10:00:15+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:00"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
-   "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:11:26+00:00",
-   "eerst_gezien": "2026-11-20T10:13:31.820605+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 35,
+   "aantal": 34,
    "fout": ""
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18326,12 +18331,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 7,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -18371,12 +18376,12 @@
   },
   "Gemeente Helmond": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 4,
    "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
-   "aantal": 5,
+   "aantal": 6,
    "fout": ""
   },
   "Gemeente Asten": {
@@ -18411,7 +18416,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 20,
    "fout": ""
   },
   "Drimble Deurne": {
