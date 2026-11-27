@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 20:39",
+ "bijgewerkt": "27-11-2026 21:02",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -771,19 +771,19 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
-  "https://www.ed.nl/helmond/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis~ad0a343e/": {
-   "titel": "Helmondse Senna scoort met ‘Hey Poes’, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
-   "link": "https://www.ed.nl/helmond/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis~ad0a343e/",
-   "tekst": "Hey Poes. Zo heet het nieuwste nummer van de Helmondse zangeres Senna Willems, dat ze samen met Monique Smit heeft gemaakt. Het nummer trekt behoorlijk veel aandacht op sociale media. Maar niet alleen in Nederland wordt het liedje opgepikt. Ook vanuit Zuid-Afrika stromen de …",
+  "https://www.ed.nl/helmond/helmondse-zangeres-senna-scoort-met-hey-poes-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed~ad0a343e/": {
+   "titel": "Helmondse zangeres Senna scoort met ‘Hey poes’, maar in Zuid-Afrika valt de tekst niet helemaal goed",
+   "link": "https://www.ed.nl/helmond/helmondse-zangeres-senna-scoort-met-hey-poes-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed~ad0a343e/",
+   "tekst": "Hey poes. Zo heet het nieuwste nummer van de Helmondse zangeres Senna Willems, dat ze samen met Monique Smit heeft gemaakt. Het nummer trekt behoorlijk veel aandacht op sociale media. Maar niet alleen in Nederland wordt het liedje opgepikt. Ook vanuit Zuid-Afrika stromen de …",
    "datum": "2026-11-27T19:00:00+00:00",
-   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "eerst_gezien": "2026-11-27T19:55:03.640731+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 20:00"
@@ -2528,74 +2528,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
-   "datum": "2026-11-26T08:35:50+00:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 09:35"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
-  },
   "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start": {
    "titel": "‘Ons dorp in de schijnwerpers’ feestelijk van start in Vlierden",
    "link": "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start",
@@ -4189,7 +4121,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 20:31"
@@ -4206,7 +4138,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4912,6 +4844,91 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.ed.nl/helmond/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis~ad0a343e/": {
+   "titel": "Helmondse Senna scoort met ‘Hey Poes’, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
+   "link": "https://www.ed.nl/helmond/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis~ad0a343e/",
+   "tekst": "Hey Poes. Zo heet het nieuwste nummer van de Helmondse zangeres Senna Willems, dat ze samen met Monique Smit heeft gemaakt. Het nummer trekt behoorlijk veel aandacht op sociale media. Maar niet alleen in Nederland wordt het liedje opgepikt. Ook vanuit Zuid-Afrika stromen de …",
+   "datum": "2026-11-27T19:00:00+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 20:00"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108733012/half-miljoen-illegale-sigaretten-en-37000-euro-cash-ontdekt-in-veldhoven.html": {
    "titel": "Half miljoen illegale sigaretten en 37.000 euro cash ontdekt in Veldhoven",
@@ -9321,23 +9338,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 15:25"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126204456a2helmondrit140893": {
-   "titel": "A2 Helmond Rit: 140893",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126204456a2helmondrit140893",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T20:44:56+01:00",
-   "eerst_gezien": "2026-11-25T19:56:00.249713+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 20:44"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718408/veldhoven-heeft-megaplannen-voor-de-run-waar-bedrijven-plek-moeten-maken-voor-wonen.html": {
    "titel": "Veldhoven heeft megaplannen voor De Run, waar bedrijven plek moeten maken voor wonen",
@@ -18315,57 +18315,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662647/nieuwe-dreun-voor-fc-dordt-dient-zich-aan-3-0-achter-bij-rust-in-helmond.html": {
-   "titel": "Nieuwe dreun voor FC Dordt dient zich aan: 3-0 achter bij rust in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662647/nieuwe-dreun-voor-fc-dordt-dient-zich-aan-3-0-achter-bij-rust-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:52:17+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:52"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html": {
-   "titel": "LIVE | 3-0 (!) na 27 minuten: Helmond Sport kent droomstart in kelderkraker tegen FC Dordrecht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662577/live-3-0-na-27-minuten-helmond-sport-kent-droomstart-in-kelderkraker-tegen-fc-dordrecht.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:36:07+00:00",
-   "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:36"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662566/drama-voor-fc-dordrecht-in-helmond-binnen-half-uur-op-3-0-achterstand.html": {
-   "titel": "Drama voor FC Dordrecht in Helmond: binnen half uur op 3-0 achterstand",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662566/drama-voor-fc-dordrecht-in-helmond-binnen-half-uur-op-3-0-achterstand.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:34:08+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:34"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
@@ -18507,9 +18456,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 4,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -19416,10 +19365,6 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4099": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
   "ECLI:NL:RVS:2026:4996": {
    "gem": [
     "Helmond"
@@ -19428,19 +19373,11 @@
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4081": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19452,17 +19389,189 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4998": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:4225": {
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5015": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5018": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5021": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5022": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5023": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5497": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:6976": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6730": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
+  "ECLI:NL:RVS:2026:6781": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6903": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6749": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6874": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6873": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6959": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6777": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6743": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
+  "ECLI:NL:RVS:2026:6987": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:7001": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6979": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6862": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6849": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6841": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6733": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6846": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6763": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6974": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6975": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6858": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6982": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6957": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6954": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6704": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6996": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6944": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6945": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6993": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6985": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6783": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6773": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6964": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6953": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6961": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6986": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6949": {
+   "gem": [],
+   "datum": "2026-11-25"
   }
  }
 }
