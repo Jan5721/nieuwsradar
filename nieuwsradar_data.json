@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 15:35",
+ "bijgewerkt": "27-11-2026 15:57",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64948/vier-jubilarissen-gehuldigd-bij-kerkkoor-sint-willibrordus": {
    "titel": "Vier jubilarissen gehuldigd bij kerkkoor Sint Willibrordus",
@@ -821,19 +821,19 @@
    "prio": false,
    "tijd": "27-11 14:04"
   },
-  "https://www.ed.nl/deurne/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/": {
-   "titel": "Eerste schaatsers op natuurijs in Deurne, maar enkeling haalt nat pak: ‘Daar zijn ze er doorheen gegaan’",
-   "link": "https://www.ed.nl/deurne/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/",
-   "tekst": "De eerste schaatsers wagen zich vrijdag op het bevroren Buntven in Deurne. Op steeds meer plekken in Nederland kan worden geschaatst op natuurijs, en dat is ook te zien in Brabant. Schaatsers moeten echter wel opletten.",
+  "https://www.ed.nl/deurne/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak~a0c8e12c/": {
+   "titel": "Een paar nachtjes vorst zijn genoeg voor schaatspret in Deurne, wel met het risico op een nat pak",
+   "link": "https://www.ed.nl/deurne/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak~a0c8e12c/",
+   "tekst": "Een grote uitgesleten cirkel aan de rand van het ijs en het geluid van krassende ijzers verraden het al: de eerste schaatsers wagen zich vrijdag op het bevroren Buntven in Deurne. Het is wel opletten geblazen.",
    "datum": "2026-11-27T11:55:00+00:00",
-   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
+   "eerst_gezien": "2026-11-27T14:51:33.015435+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:55"
@@ -1038,7 +1038,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 15:25"
@@ -1601,7 +1601,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 15:30"
@@ -4176,6 +4176,55 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732187/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html": {
+   "titel": "Een paar nachtjes vorst zijn genoeg voor schaatspret in Deurne, wel met het risico op een nat pak",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732187/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html",
+   "tekst": "",
+   "datum": "2026-11-27T14:49:09+00:00",
+   "eerst_gezien": "2026-11-27T14:51:33.015435+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732186/man-26-uit-eindhoven-aangehouden-na-dodelijk-geweld-in-woning-kerkrade.html": {
+   "titel": "Man (26) uit Eindhoven aangehouden na dodelijk geweld in woning Kerkrade",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732186/man-26-uit-eindhoven-aangehouden-na-dodelijk-geweld-in-woning-kerkrade.html",
+   "tekst": "",
+   "datum": "2026-11-27T14:49:09+00:00",
+   "eerst_gezien": "2026-11-27T14:51:33.015435+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 15:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732180/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html": {
+   "titel": "Een paar nachtjes vorst zijn genoeg voor schaatspret in Deurne, wel met het risico op een nat pak",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732180/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html",
+   "tekst": "",
+   "datum": "2026-11-27T14:49:06+00:00",
+   "eerst_gezien": "2026-11-27T14:51:33.015435+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108731683/cel-dreigt-voor-hardleerse-scooterrijder-22-die-geen-rijbewijs-heeft-maar-wel-coke-bij-zich-heeft-en-een-ongeluk-veroorzaakt.html": {
    "titel": "Cel dreigt voor hardleerse scooterrijder (22) die geen rijbewijs heeft, maar wel coke bij zich heeft en een ongeluk veroorzaakt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108731683/cel-dreigt-voor-hardleerse-scooterrijder-22-die-geen-rijbewijs-heeft-maar-wel-coke-bij-zich-heeft-en-een-ongeluk-veroorzaakt.html",
@@ -4404,57 +4453,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html": {
-   "titel": "Eindhovenaar krijgt vier jaar cel voor cocaïne-export via Bladels bedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html",
-   "tekst": "",
-   "datum": "2026-11-27T11:19:03+00:00",
-   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html": {
-   "titel": "Het verhaal van Bernard van Dam is toch nog niet af: verloren kist levert bergen nieuwe informatie over Eerdse schrijver...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html",
-   "tekst": "",
-   "datum": "2026-11-27T11:19:03+00:00",
-   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html": {
-   "titel": "Minder vierkante meters, meer slimme zorg: dit verandert er bij het MMC in Eindhoven en Veldhoven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html",
-   "tekst": "",
-   "datum": "2026-11-27T11:13:24+00:00",
-   "eerst_gezien": "2026-11-27T11:18:05.915859+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 12:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108731327/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan.html": {
    "titel": "Eerste schaatsers op natuurijs in Deurne, maar enkeling haalt nat pak: `Daar zijn ze er doorheen gegaan`",
@@ -4893,6 +4891,74 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.ed.nl/deurne/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/": {
+   "titel": "Eerste schaatsers op natuurijs in Deurne, maar enkeling haalt nat pak: ‘Daar zijn ze er doorheen gegaan’",
+   "link": "https://www.ed.nl/deurne/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/",
+   "tekst": "De eerste schaatsers wagen zich vrijdag op het bevroren Buntven in Deurne. Op steeds meer plekken in Nederland kan worden geschaatst op natuurijs, en dat is ook te zien in Brabant. Schaatsers moeten echter wel opletten.",
+   "datum": "2026-11-27T11:55:00+00:00",
+   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html": {
+   "titel": "Eindhovenaar krijgt vier jaar cel voor cocaïne-export via Bladels bedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:19:03+00:00",
+   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html": {
+   "titel": "Het verhaal van Bernard van Dam is toch nog niet af: verloren kist levert bergen nieuwe informatie over Eerdse schrijver...",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730365/het-verhaal-van-bernard-van-dam-is-toch-nog-niet-af-verloren-kist-levert-bergen-nieuwe-informatie-over-eerdse-schrijver.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:19:03+00:00",
+   "eerst_gezien": "2026-11-27T11:34:02.363697+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html": {
+   "titel": "Minder vierkante meters, meer slimme zorg: dit verandert er bij het MMC in Eindhoven en Veldhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730260/minder-vierkante-meters-meer-slimme-zorg-dit-verandert-er-bij-het-mmc-in-eindhoven-en-veldhoven.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:13:24+00:00",
+   "eerst_gezien": "2026-11-27T11:18:05.915859+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:13"
   },
   "https://www.ed.nl/someren/gezinnen-met-laag-inkomen-bezoeken-museum-klok-en-peel-in-asten-gratis~ae981e9c/": {
    "titel": "Gezinnen met laag inkomen bezoeken Museum Klok & Peel in Asten gratis",
@@ -18574,6 +18640,102 @@
    "gem": [],
    "datum": "2026-11-18"
   },
+  "ECLI:NL:RVS:2026:6947": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6971": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6842": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6843": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6883": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6836": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6732": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
+  "ECLI:NL:RVS:2026:6741": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
+  "ECLI:NL:RVS:2026:6750": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6951": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6751": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6878": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6958": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6955": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6978": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6861": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:7000": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6859": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6702": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6764": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6970": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6997": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6170": {
+   "gem": [],
+   "datum": "2026-10-21"
+  },
+  "ECLI:NL:RVS:2026:6654": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
   "ECLI:NL:RVS:2026:3406": {
    "gem": [],
    "datum": "2026-06-24"
@@ -18938,27 +19100,11 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4996": {
-   "gem": [
-    "Helmond"
-   ],
-   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
-   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4081": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -18974,23 +19120,7 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4225": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4999": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:5005": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5006": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19002,185 +19132,9 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5014": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5015": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:5018": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5019": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5021": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5022": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5023": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5025": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5027": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5497": {
-   "gem": [],
-   "datum": "2026-09-16"
-  },
-  "ECLI:NL:RVS:2026:6947": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6971": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6842": {
-   "gem": [],
-   "datum": "2026-11-20"
-  },
-  "ECLI:NL:RVS:2026:6843": {
-   "gem": [],
-   "datum": "2026-11-20"
-  },
-  "ECLI:NL:RVS:2026:6883": {
-   "gem": [],
-   "datum": "2026-11-23"
-  },
-  "ECLI:NL:RVS:2026:6836": {
-   "gem": [],
-   "datum": "2026-11-20"
-  },
-  "ECLI:NL:RVS:2026:6732": {
-   "gem": [],
-   "datum": "2026-11-17"
-  },
-  "ECLI:NL:RVS:2026:6741": {
-   "gem": [],
-   "datum": "2026-11-17"
-  },
-  "ECLI:NL:RVS:2026:6750": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6951": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6751": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6878": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6958": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6955": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6978": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6861": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:7000": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6859": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6702": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6764": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6970": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6997": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6170": {
-   "gem": [],
-   "datum": "2026-10-21"
-  },
-  "ECLI:NL:RVS:2026:6654": {
-   "gem": [],
-   "datum": "2026-11-11"
-  },
-  "ECLI:NL:RVS:2026:4254": {
-   "gem": [],
-   "datum": "2026-07-20"
-  },
-  "ECLI:NL:RVS:2026:4274": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4281": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4282": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4286": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4290": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4297": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4300": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4301": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4303": {
-   "gem": [],
-   "datum": "2026-07-22"
   }
  }
 }
