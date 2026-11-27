@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 22:11",
+ "bijgewerkt": "27-11-2026 22:30",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -4125,6 +4125,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108734699/willem-ii-geeft-zege-weg-tegen-groningen-en-breekt-negatief-eredivisierecord.html": {
+   "titel": "Willem II geeft zege weg tegen Groningen en breekt negatief eredivisierecord",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734699/willem-ii-geeft-zege-weg-tegen-groningen-en-breekt-negatief-eredivisierecord.html",
+   "tekst": "Willem II heeft door een late tegentreffer naast zijn eerste zege van het seizoen gegrepen. Op bezoek bij FC Groningen werd het 1-1....",
+   "datum": "2026-11-27T21:16:02+00:00",
+   "eerst_gezien": "2026-11-27T21:26:41.472034+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 22:16"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108734408/handelse-processie-verhuist-naar-mei-vanwege-toenemende-hitte.html": {
    "titel": "Handelse Processie verhuist naar mei vanwege toenemende hitte",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108734408/handelse-processie-verhuist-naar-mei-vanwege-toenemende-hitte.html",
@@ -4887,7 +4904,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "27-11 21:55"
@@ -4904,7 +4921,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 21:49"
@@ -5227,7 +5244,7 @@
    ],
    "soort": "Raad van State",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
@@ -18333,23 +18350,6 @@
    "prio": false,
    "tijd": "20-11 22:36"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108663168/a67-dicht-na-botsing-met-meerdere-voertuigen-bij-liessel.html": {
-   "titel": "A67 dicht na botsing met meerdere voertuigen bij Liessel",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663168/a67-dicht-na-botsing-met-meerdere-voertuigen-bij-liessel.html",
-   "tekst": "",
-   "datum": "2026-11-20T21:25:11+00:00",
-   "eerst_gezien": "2026-11-20T21:28:45.717366+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 22:25"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1": {
    "titel": "Drie generaties profvoetbal, alle drie eigenwijs: 'Robine met stip op 1'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1",
@@ -18517,7 +18517,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 17,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19285,6 +19285,146 @@
    "gem": [],
    "datum": "2026-11-04"
   },
+  "ECLI:NL:RVS:2026:6965": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6863": {
+   "gem": [
+    "Someren"
+   ],
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6968": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6847": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6870": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6747": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6871": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6838": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6782": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6770": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
+  "ECLI:NL:RVS:2026:6746": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6967": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6844": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6980": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6988": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6981": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6778": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6765": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6894": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6872": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6726": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
+  "ECLI:NL:RVS:2026:6989": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6966": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6956": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6759": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6761": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6853": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6735": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6994": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6720": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6775": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6776": {
+   "gem": [],
+   "datum": "2026-11-19"
+  },
+  "ECLI:NL:RVS:2026:6963": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6992": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19297,13 +19437,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19693,10 +19833,6 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
@@ -19712,190 +19848,6 @@
   "ECLI:NL:RVS:2026:5013": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5014": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5015": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5018": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5019": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5021": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5022": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5023": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5025": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5027": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5497": {
-   "gem": [],
-   "datum": "2026-09-16"
-  },
-  "ECLI:NL:RVS:2026:6965": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6863": {
-   "gem": [
-    "Someren"
-   ],
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6968": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6847": {
-   "gem": [],
-   "datum": "2026-11-20"
-  },
-  "ECLI:NL:RVS:2026:6870": {
-   "gem": [],
-   "datum": "2026-11-23"
-  },
-  "ECLI:NL:RVS:2026:6747": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6871": {
-   "gem": [],
-   "datum": "2026-11-23"
-  },
-  "ECLI:NL:RVS:2026:6838": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6782": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6770": {
-   "gem": [],
-   "datum": "2026-11-17"
-  },
-  "ECLI:NL:RVS:2026:6746": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6967": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6844": {
-   "gem": [],
-   "datum": "2026-11-20"
-  },
-  "ECLI:NL:RVS:2026:6980": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6988": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6981": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6778": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6765": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6894": {
-   "gem": [],
-   "datum": "2026-11-23"
-  },
-  "ECLI:NL:RVS:2026:6872": {
-   "gem": [],
-   "datum": "2026-11-23"
-  },
-  "ECLI:NL:RVS:2026:6726": {
-   "gem": [],
-   "datum": "2026-11-17"
-  },
-  "ECLI:NL:RVS:2026:6989": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6966": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6956": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6759": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6761": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6853": {
-   "gem": [],
-   "datum": "2026-11-20"
-  },
-  "ECLI:NL:RVS:2026:6735": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6994": {
-   "gem": [],
-   "datum": "2026-11-23"
-  },
-  "ECLI:NL:RVS:2026:6720": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6775": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6776": {
-   "gem": [],
-   "datum": "2026-11-19"
-  },
-  "ECLI:NL:RVS:2026:6963": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6992": {
-   "gem": [],
-   "datum": "2026-11-25"
   }
  }
 }
