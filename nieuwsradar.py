@@ -236,6 +236,165 @@ def lees_bekendmakingen(bron, dagen):
     return items
 
 
+# ---------------------------------------------------------------- Raad van State (Open Data Rechtspraak)
+RVS_CACHE = {}   # ECLI -> {"gem": [...], "titel":..., "tekst":..., "datum":...}; wordt bewaard in nieuwsradar_data.json
+
+
+def _tekst_xml(el):
+    return re.sub(r"\s+", " ", " ".join(el.itertext())).strip() if el is not None else ""
+
+
+def lees_raadvanstate(bron, cfg):
+    """Uitspraken van de Raad van State via data.rechtspraak.nl.
+    Stap 1: lijst ECLI's van de afgelopen dagen. Stap 2: per (nieuwe) ECLI de tekst ophalen en zoeken
+    naar de vier gemeenten. Eerder bekeken uitspraken worden niet opnieuw opgehaald (RVS_CACHE)."""
+    dagen = int(bron.get("dagen_tonen", 30))
+    vanaf = (NU - timedelta(days=dagen)).strftime("%Y-%m-%dT00:00:00")
+    url = ("https://data.rechtspraak.nl/uitspraken/zoeken?" + urllib.parse.urlencode([
+        ("creator", "http://standaarden.overheid.nl/owms/terms/Raad_van_State"),
+        ("modified", vanaf), ("return", "DOC"), ("max", "1000"), ("sort", "DESC")]))
+    data, _ = haal(url, timeout=60)
+    root = ET.fromstring(data)
+    ns = "{http://www.w3.org/2005/Atom}"
+    eclis = [e.findtext(ns + "id").strip() for e in root.iter(ns + "entry") if e.findtext(ns + "id")]
+    max_nieuw = int(bron.get("max_per_ronde", 150))
+    opgehaald = 0
+    for ecli in eclis:
+        if ecli in RVS_CACHE or opgehaald >= max_nieuw:
+            continue
+        try:
+            doc, _ = haal("https://data.rechtspraak.nl/uitspraken/content?" +
+                          urllib.parse.urlencode({"id": ecli, "return": "DOC"}), timeout=40)
+            opgehaald += 1
+            r = ET.fromstring(doc)
+        except Exception:
+            continue
+        indicatie, uitspraak, dt, gebied = None, None, None, ""
+        for el in r.iter():
+            tag = el.tag.split("}")[-1]
+            if tag == "inhoudsindicatie" and indicatie is None:
+                indicatie = el
+            elif tag == "uitspraak" and uitspraak is None:
+                uitspraak = el
+            elif tag == "date" and dt is None and (el.text or "").strip():
+                dt = el.text.strip()
+            elif tag == "subject" and not gebied and (el.text or "").strip():
+                gebied = el.text.strip()
+        ind = _tekst_xml(indicatie)
+        volledig = ind + " " + _tekst_xml(uitspraak)
+        gems = []
+        for gem, w in cfg["gemeenten"].items():
+            orgaan = re.search(r"(burgemeester en wethouders|college|raad|gemeenteraad|burgemeester|gemeente)"
+                               r"( van de gemeente)? van " + re.escape(gem) + r"\b", volledig, re.I)
+            treffers = sum(len(re.findall(r"(?<![\w-])" + re.escape(x) + r"(?![\w])", volledig, re.I))
+                           for x in w["sterk"])
+            if orgaan or treffers >= int(bron.get("min_treffers", 2)):
+                gems.append(gem)
+        RVS_CACHE[ecli] = ({"gem": gems, "titel": schoon(ind, 200) or ecli,
+                            "tekst": schoon(f"{gebied} · {ecli}", 280), "datum": dt}
+                           if gems else {"gem": [], "datum": dt})
+        time.sleep(0.2)
+    items = []
+    for ecli in eclis:
+        c = RVS_CACHE.get(ecli)
+        if not c or not c["gem"]:
+            continue
+        items.append({"titel": c["titel"], "link": "https://uitspraken.rechtspraak.nl/details?id=" + ecli,
+                      "tekst": c["tekst"], "datum": datum(c["datum"]), "betaald": False,
+                      "gemeenten_vast": c["gem"]})
+    return items
+
+
+# ---------------------------------------------------------------- Raad van State: persagenda (proef)
+MAANDEN = {m: i + 1 for i, m in enumerate(["januari", "februari", "maart", "april", "mei", "juni", "juli",
+                                           "augustus", "september", "oktober", "november", "december"])}
+DAG_RE = re.compile(r"^(maandag|dinsdag|woensdag|donderdag|vrijdag|zaterdag|zondag) (\d{1,2}) ([a-z]+) (\d{4})$", re.I)
+TIJD_RE = re.compile(r"^(\d{1,2})[.:](\d{2}) uur$", re.I)
+
+
+class Blokken(HTMLParser):
+    """Zet een pagina om in losse tekstblokken (kopjes, alinea's, lijstregels) en verzamelt links."""
+    BLOK = {"p", "h1", "h2", "h3", "h4", "h5", "li", "div", "td", "dt", "dd", "section", "article", "time"}
+
+    def __init__(self):
+        super().__init__()
+        self.blokken, self.links, self._buf, self._skip = [], [], [], 0
+
+    def _flush(self):
+        t = re.sub(r"\s+", " ", "".join(self._buf)).strip()
+        if t:
+            self.blokken.append(t)
+        self._buf = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style", "nav", "header", "footer"):
+            self._skip += 1
+        if tag in self.BLOK or tag == "br":
+            self._flush()
+        if tag == "a":
+            href = dict(attrs).get("href")
+            if href:
+                self.links.append(href)
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style", "nav", "header", "footer") and self._skip:
+            self._skip -= 1
+        if tag in self.BLOK:
+            self._flush()
+
+    def handle_data(self, data):
+        if not self._skip:
+            self._buf.append(data)
+
+
+def lees_persagenda(bron):
+    """Persagenda Raad van State: per zittingsdag tijd, titel en korte omschrijving.
+    De overzichtspagina linkt naar dagpagina's (/@nummer/dinsdag-1-december-2026/); die worden ook gelezen."""
+    data, cs = haal(bron["url"])
+    p = Blokken()
+    p.feed(data.decode(cs, errors="replace"))
+    paginas = [(bron["url"], p.blokken)]
+    dagpat = re.compile(r"/@\d+/(maandag|dinsdag|woensdag|donderdag|vrijdag)-\d{1,2}-[a-z]+-\d{4}/?", re.I)
+    gezien = set()
+    for href in p.links:
+        if dagpat.search(href):
+            url = urllib.parse.urljoin(bron["url"], href).split("#")[0]
+            if url in gezien or len(gezien) >= 8:
+                continue
+            gezien.add(url)
+            try:
+                d2, cs2 = haal(url)
+                q = Blokken()
+                q.feed(d2.decode(cs2, errors="replace"))
+                paginas.append((url, q.blokken))
+            except Exception:
+                pass
+            time.sleep(0.5)
+    items, dubbel = [], set()
+    for url, blokken in paginas:
+        dag, i = None, 0
+        while i < len(blokken):
+            b = blokken[i]
+            m = DAG_RE.match(b)
+            if m and m.group(3).lower() in MAANDEN:
+                dag = (int(m.group(4)), MAANDEN[m.group(3).lower()], int(m.group(2)), b)
+            t = TIJD_RE.match(b)
+            if t and dag and i + 1 < len(blokken):
+                titel = blokken[i + 1]
+                oms = blokken[i + 2] if i + 2 < len(blokken) and not TIJD_RE.match(blokken[i + 2]) \
+                    and not DAG_RE.match(blokken[i + 2]) else ""
+                sleutel = (dag[:3], b, titel)
+                if sleutel not in dubbel and 8 <= len(titel) <= 250:
+                    dubbel.add(sleutel)
+                    code = re.sub(r"\W+", "-", f"{dag[3]} {b} {titel}".lower())[:90]
+                    items.append({"titel": "Zitting: " + titel,
+                                  "link": url + "#" + code,
+                                  "tekst": schoon(f"{dag[3]}, {b} · {oms}", 300),
+                                  "datum": None, "betaald": False})
+            i += 1
+    return items
+
+
 # ---------------------------------------------------------------- 112-meldingen splitsen
 def dienst_112(titel, tekst):
     """Bepaal de hulpdienst van een P2000-melding: brandweer, ambulance of politie."""
@@ -415,6 +574,8 @@ def main():
     uitsluiten = [u.lower() for u in inst.get("uitsluiten_titels", [])]
     oud = json.loads(STATUS.read_text(encoding="utf-8")) if STATUS.exists() else {"items": {}}
     eerdere = oud.get("items", {})
+    RVS_CACHE.update({k: v for k, v in oud.get("rvs_cache", {}).items()
+                      if datum(v.get("datum")) is None or datum(v["datum"]) >= NU - timedelta(days=45)})
     alle, bronstatus = {}, {}
 
     for bron in cfg["bronnen"]:
@@ -428,6 +589,10 @@ def main():
                 ruw = lees_html(bron)
             elif bron["type"] == "bekendmakingen":
                 ruw = lees_bekendmakingen(bron, dagen)
+            elif bron["type"] == "raadvanstate":
+                ruw = lees_raadvanstate(bron, cfg)
+            elif bron["type"] == "persagenda":
+                ruw = lees_persagenda(bron)
             else:
                 ruw = []
             n = 0
@@ -442,7 +607,7 @@ def main():
                 if any(r.search(it["titel"]) for r in niet_als):
                     continue
                 zoektekst = it["titel"] if it.get("alleen_titel") else it["titel"] + " " + it["tekst"]
-                gems = bepaal_gemeenten(zoektekst, cfg, bron.get("standaard_gemeente"))
+                gems = it.get("gemeenten_vast") or bepaal_gemeenten(zoektekst, cfg, bron.get("standaard_gemeente"))
                 if not gems:
                     continue  # regionale bron zonder treffer
                 sleutel = it["link"]
@@ -452,6 +617,12 @@ def main():
                     d = datum(eerst)
                 if d and d < NU - timedelta(days=bron_dagen):
                     continue
+                soort = (f"112 {dienst_112(it['titel'], it['tekst'])}" if bron.get("splits_112")
+                         else bron.get("soort", ""))
+                for regel in bron.get("soort_als", []):  # bijv. bekendmakingen waartegen beroep mogelijk is
+                    if all(re.search(r, it["titel"] + " " + it["tekst"], re.I) for r in regel["als"]):
+                        soort = regel["soort"]
+                        break
                 if sleutel in alle:  # zelfde link uit twee bronnen: gemeenten samenvoegen
                     alle[sleutel]["gemeenten"] = sorted(set(alle[sleutel]["gemeenten"]) | set(gems))
                     continue
@@ -459,8 +630,7 @@ def main():
                     "titel": it["titel"], "link": it["link"], "tekst": it["tekst"],
                     "datum": (d or NU).isoformat(), "eerst_gezien": eerst,
                     "bron": naam, "gemeenten": gems,
-                    "soort": (f"112 {dienst_112(it['titel'], it['tekst'])}" if bron.get("splits_112")
-                              else bron.get("soort", "")),
+                    "soort": soort,
                     "betaald": it.get("betaald", False), "nieuw": sleutel not in eerdere,
                     "dagen": bron_dagen, "prio": any(r.search(it["titel"]) for r in prio_als),
                 }
@@ -494,7 +664,8 @@ def main():
         v["tijd"] = lokaal(datum(v["datum"]))
 
     laatst = datetime.now().strftime("%d-%m-%Y %H:%M")
-    STATUS.write_text(json.dumps({"bijgewerkt": laatst, "items": alle, "bronnen": bronstatus},
+    STATUS.write_text(json.dumps({"bijgewerkt": laatst, "items": alle, "bronnen": bronstatus,
+                                  "rvs_cache": RVS_CACHE},
                                  ensure_ascii=False, indent=1), encoding="utf-8")
     maak_pagina(cfg, items, bronstatus, laatst)
     fout = [n for n, s in bronstatus.items() if not s["ok"]]
