@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 10:42",
+ "bijgewerkt": "27-11-2026 10:58",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64942/film-en-quiz-over-geweld-tegen-vrouwen-in-het-cultuurcentrum": {
    "titel": "Film en quiz over geweld tegen vrouwen in het Cultuurcentrum",
@@ -975,23 +975,6 @@
    "prio": false,
    "tijd": "26-11 12:12"
   },
-  "https://www.ed.nl/helmond/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout~aabc9e73/": {
-   "titel": "Damiaanparochie Helmond zoekt zangers voor peuter- en kleuterkerstviering in Stiphout",
-   "link": "https://www.ed.nl/helmond/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout~aabc9e73/",
-   "tekst": "De Damiaanparochie Helmond zoekt zangers voor een gelegenheidskoor bij de peuter- en kleuterviering in Stiphout. De viering is donderdag 24 december om 17.00 uur in de St. Trudokerk aan de Dorpsstraat 32.",
-   "datum": "2026-11-26T11:12:05+00:00",
-   "eerst_gezien": "2026-11-26T11:12:48.841054+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 12:12"
-  },
   "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/": {
    "titel": "De Wieger in Deurne stapt vanaf 1 januari over op pinbetalingen",
    "link": "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/",
@@ -1367,6 +1350,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 12:01"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken": {
+   "titel": "Helmond past hondenkaart aan: nieuwe regels voor uitlaat- en loslaatstroken",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035563/helmond-past-hondenkaart-aan-nieuwe-regels-voor-uitlaat-en-loslaatstroken",
+   "tekst": "20 november 2026 De gemeente Helmond heeft op 6 oktober 2026 een derde wijziging van het Uitvoeringsbesluit hondenkaart Helmond 2021 vastgesteld. Er zijn nieuwe gebieden aangewezen voor hondenuitlaatstroken, loslaatstroken en …",
+   "datum": "2026-11-27T09:58:06.664254+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:58"
   },
   "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
@@ -2392,6 +2392,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:09"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035486/jeugdprinsenbal-cv-de-plattevonder-zondag-in-de-einder": {
+   "titel": "Jeugdprinsenbal CV De Plattevonder zondag in De Einder",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035486/jeugdprinsenbal-cv-de-plattevonder-zondag-in-de-einder",
+   "tekst": "19 november 2026 Zondagmiddag wordt in De Einder het Jeugdprinsenbal van CV De Plattevonder gehouden. Tijdens het evenement worden de nieuwe jeugdhoogheden en de jeugdraad onthuld. Ook wordt afscheid genomen van de huidige Jeugdprinses en …",
+   "datum": "2026-11-27T09:58:06.664254+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:58"
   },
   "https://www.omroepbrabant.nl/nieuws/6035100/valpreventie-voor-ouderen-bijeenkomst-in-asten": {
    "titel": "Valpreventie voor ouderen: bijeenkomst in Asten",
@@ -4161,6 +4178,72 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729331/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html": {
+   "titel": "Modelvliegtuigjes op te halen in Nuenen, Yvonne heeft hangertje gevonden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729331/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html",
+   "tekst": "",
+   "datum": "2026-11-27T09:49:08+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729328/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html": {
+   "titel": "Woenselse Poort opent nieuwe afdeling voor vastgelopen tbs`ers, maar alleen als er genoeg personeel is",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729328/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html",
+   "tekst": "",
+   "datum": "2026-11-27T09:49:07+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729324/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html": {
+   "titel": "Modelvliegtuigjes op te halen in Nuenen, Yvonne heeft hangertje gevonden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729324/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html",
+   "tekst": "",
+   "datum": "2026-11-27T09:49:06+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729322/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html": {
+   "titel": "Woenselse Poort opent nieuwe afdeling voor vastgelopen tbs`ers, maar alleen als er genoeg personeel is",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729322/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html",
+   "tekst": "",
+   "datum": "2026-11-27T09:49:06+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108728898/kerstconcert-puur-sangh-heeft-lokaal-en-internationaal-karakter-staat-in-teken-van-samenzang.html": {
    "titel": "Kerstconcert Puur Sangh heeft lokaal &én internationaal karakter: ‘Staat in teken van samenzang’",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108728898/kerstconcert-puur-sangh-heeft-lokaal-en-internationaal-karakter-staat-in-teken-van-samenzang.html",
@@ -4342,73 +4425,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 07:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108726168/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
-   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108726168/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html",
-   "tekst": "",
-   "datum": "2026-11-26T22:42:08+00:00",
-   "eerst_gezien": "2026-11-26T22:44:57.671923+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108724861/provincie-kiest-voorkeursroute-voor-nieuwe-hoogspanningsverbinding-tussen-eindhoven-en-maarheeze.html": {
-   "titel": "Provincie kiest voorkeursroute voor nieuwe hoogspanningsverbinding tussen Eindhoven en Maarheeze",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724861/provincie-kiest-voorkeursroute-voor-nieuwe-hoogspanningsverbinding-tussen-eindhoven-en-maarheeze.html",
-   "tekst": "",
-   "datum": "2026-11-26T22:19:02+00:00",
-   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 23:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108724858/mucella-geeft-krachttraining-aan-vrouwen-ik-heb-de-schoolboeken-verruild-voor-dumbbells.html": {
-   "titel": "Mücella geeft krachttraining aan vrouwen: `Ik heb de schoolboeken verruild voor dumbbells`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724858/mucella-geeft-krachttraining-aan-vrouwen-ik-heb-de-schoolboeken-verruild-voor-dumbbells.html",
-   "tekst": "",
-   "datum": "2026-11-26T22:19:01+00:00",
-   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 23:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108724852/belgie-ziet-trend-arbeidsmigranten-voor-brabant-zorgen-in-vlaanderen-voor-overlast.html": {
-   "titel": "België ziet trend: arbeidsmigranten voor Brabant zorgen in Vlaanderen voor overlast",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724852/belgie-ziet-trend-arbeidsmigranten-voor-brabant-zorgen-in-vlaanderen-voor-overlast.html",
-   "tekst": "",
-   "datum": "2026-11-26T22:19:01+00:00",
-   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 23:19"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -4893,7 +4909,7 @@
    ],
    "soort": "112 brandweer",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 10:10"
@@ -5305,6 +5321,90 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 14:32"
+  },
+  "https://www.ed.nl/helmond/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout~aabc9e73/": {
+   "titel": "Damiaanparochie Helmond zoekt zangers voor peuter- en kleuterkerstviering in Stiphout",
+   "link": "https://www.ed.nl/helmond/damiaanparochie-helmond-zoekt-zangers-voor-peuter-en-kleuterkerstviering-in-stiphout~aabc9e73/",
+   "tekst": "De Damiaanparochie Helmond zoekt zangers voor een gelegenheidskoor bij de peuter- en kleuterviering in Stiphout. De viering is donderdag 24 december om 17.00 uur in de St. Trudokerk aan de Dorpsstraat 32.",
+   "datum": "2026-11-26T11:12:05+00:00",
+   "eerst_gezien": "2026-11-26T11:12:48.841054+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 12:12"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108726168/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108726168/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html",
+   "tekst": "",
+   "datum": "2026-11-26T22:42:08+00:00",
+   "eerst_gezien": "2026-11-26T22:44:57.671923+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108724861/provincie-kiest-voorkeursroute-voor-nieuwe-hoogspanningsverbinding-tussen-eindhoven-en-maarheeze.html": {
+   "titel": "Provincie kiest voorkeursroute voor nieuwe hoogspanningsverbinding tussen Eindhoven en Maarheeze",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724861/provincie-kiest-voorkeursroute-voor-nieuwe-hoogspanningsverbinding-tussen-eindhoven-en-maarheeze.html",
+   "tekst": "",
+   "datum": "2026-11-26T22:19:02+00:00",
+   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 23:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108724858/mucella-geeft-krachttraining-aan-vrouwen-ik-heb-de-schoolboeken-verruild-voor-dumbbells.html": {
+   "titel": "Mücella geeft krachttraining aan vrouwen: `Ik heb de schoolboeken verruild voor dumbbells`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724858/mucella-geeft-krachttraining-aan-vrouwen-ik-heb-de-schoolboeken-verruild-voor-dumbbells.html",
+   "tekst": "",
+   "datum": "2026-11-26T22:19:01+00:00",
+   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 23:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108724852/belgie-ziet-trend-arbeidsmigranten-voor-brabant-zorgen-in-vlaanderen-voor-overlast.html": {
+   "titel": "België ziet trend: arbeidsmigranten voor Brabant zorgen in Vlaanderen voor overlast",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724852/belgie-ziet-trend-arbeidsmigranten-voor-brabant-zorgen-in-vlaanderen-voor-overlast.html",
+   "tekst": "",
+   "datum": "2026-11-26T22:19:01+00:00",
+   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 23:19"
   },
   "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/": {
    "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
@@ -8733,23 +8833,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126104348a2helmondrit140642": {
-   "titel": "A2 Helmond Rit: 140642",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126104348a2helmondrit140642",
-   "tekst": "Ambulance 22-107 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T10:43:48+01:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 10:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711738/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn.html": {
    "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
@@ -18243,7 +18326,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
@@ -18268,7 +18351,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 30,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18283,7 +18366,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Gemeente Helmond": {
