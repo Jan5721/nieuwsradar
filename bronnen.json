@@ -90,13 +90,6 @@
       "tijd_is_lokaal": true
     },
     {
-      "naam": "De Loop (HelmondNu)",
-      "type": "rss",
-      "url": "https://www.helmondnu.nl/rss",
-      "soort": "lokale pers",
-      "standaard_gemeente": "Helmond"
-    },
-    {
       "naam": "ED Helmond",
       "type": "rss",
       "url": "https://www.ed.nl/helmond/rss.xml",
@@ -197,28 +190,64 @@
       "type": "bekendmakingen",
       "gemeente": "Helmond",
       "soort": "bekendmaking",
-      "standaard_gemeente": "Helmond"
+      "standaard_gemeente": "Helmond",
+      "soort_als": [
+        {
+          "als": [
+            "vastgest|vaststelling|uitgebreide (voorbereidings)?procedure|beroep|onherroepelijk",
+            "bestemmingsplan|omgevingsplan|wijzigingsplan|uitwerkingsplan|inpassingsplan|projectbesluit|omgevingsvergunning|buitenplanse|verkeersbesluit|beheersverordening"
+          ],
+          "soort": "beroep mogelijk"
+        }
+      ]
     },
     {
       "naam": "Bekendmakingen Deurne",
       "type": "bekendmakingen",
       "gemeente": "Deurne",
       "soort": "bekendmaking",
-      "standaard_gemeente": "Deurne"
+      "standaard_gemeente": "Deurne",
+      "soort_als": [
+        {
+          "als": [
+            "vastgest|vaststelling|uitgebreide (voorbereidings)?procedure|beroep|onherroepelijk",
+            "bestemmingsplan|omgevingsplan|wijzigingsplan|uitwerkingsplan|inpassingsplan|projectbesluit|omgevingsvergunning|buitenplanse|verkeersbesluit|beheersverordening"
+          ],
+          "soort": "beroep mogelijk"
+        }
+      ]
     },
     {
       "naam": "Bekendmakingen Asten",
       "type": "bekendmakingen",
       "gemeente": "Asten",
       "soort": "bekendmaking",
-      "standaard_gemeente": "Asten"
+      "standaard_gemeente": "Asten",
+      "soort_als": [
+        {
+          "als": [
+            "vastgest|vaststelling|uitgebreide (voorbereidings)?procedure|beroep|onherroepelijk",
+            "bestemmingsplan|omgevingsplan|wijzigingsplan|uitwerkingsplan|inpassingsplan|projectbesluit|omgevingsvergunning|buitenplanse|verkeersbesluit|beheersverordening"
+          ],
+          "soort": "beroep mogelijk"
+        }
+      ]
     },
     {
       "naam": "Bekendmakingen Someren",
       "type": "bekendmakingen",
       "gemeente": "Someren",
       "soort": "bekendmaking",
-      "standaard_gemeente": "Someren"
+      "standaard_gemeente": "Someren",
+      "soort_als": [
+        {
+          "als": [
+            "vastgest|vaststelling|uitgebreide (voorbereidings)?procedure|beroep|onherroepelijk",
+            "bestemmingsplan|omgevingsplan|wijzigingsplan|uitwerkingsplan|inpassingsplan|projectbesluit|omgevingsvergunning|buitenplanse|verkeersbesluit|beheersverordening"
+          ],
+          "soort": "beroep mogelijk"
+        }
+      ]
     },
     {
       "naam": "Drimble Helmond",
@@ -278,6 +307,23 @@
       "url": "https://www.112brabant.nl/feed/",
       "soort": "112-nieuws",
       "standaard_gemeente": null
+    },
+    {
+      "naam": "Raad van State",
+      "type": "raadvanstate",
+      "soort": "Raad van State",
+      "standaard_gemeente": null,
+      "dagen_tonen": 30,
+      "max_per_ronde": 150,
+      "min_treffers": 2
+    },
+    {
+      "naam": "Raad van State persagenda",
+      "type": "persagenda",
+      "url": "https://www.raadvanstate.nl/actueel/persagenda/",
+      "soort": "Raad van State",
+      "standaard_gemeente": null,
+      "dagen_tonen": 21
     }
   ]
 }
