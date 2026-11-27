@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 14:33",
+ "bijgewerkt": "27-11-2026 14:53",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64947/platenbeurs-in-het-cultuurcentrum-in-deurne": {
    "titel": "Platenbeurs in het Cultuurcentrum in Deurne",
@@ -770,6 +770,23 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
+  "https://www.ed.nl/helmond/cel-dreigt-voor-hardleerse-scooterrijder-22-die-geen-rijbewijs-heeft-maar-wel-coke-bij-zich-heeft-en-een-ongeluk-veroorzaakt~a3a0e7b8/": {
+   "titel": "Cel dreigt voor hardleerse scooterrijder (22) die geen rijbewijs heeft, maar wel coke bij zich heeft en een ongeluk veroorzaakt",
+   "link": "https://www.ed.nl/helmond/cel-dreigt-voor-hardleerse-scooterrijder-22-die-geen-rijbewijs-heeft-maar-wel-coke-bij-zich-heeft-en-een-ongeluk-veroorzaakt~a3a0e7b8/",
+   "tekst": "Wanneer iets drie keer gebeurt, is er sprake van een patroon, maar hoor je voor de vierde keer een straf tegen je eisen vanwege hetzelfde delict, is de kans groot dat je als hardleers betiteld wordt. Helmonder M.M. (22) reed weer zonder rijbewijs; dit keer veroorzaakte hij een …",
+   "datum": "2026-11-27T13:45:36+00:00",
+   "eerst_gezien": "2026-11-27T13:48:35.172624+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 14:45"
+  },
   "https://www.ed.nl/helmond/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond~a6bb474c/": {
    "titel": "Kerstconcert met kerstbingo vindt plaats in Wijkhuis De Geseldonk in Helmond",
    "link": "https://www.ed.nl/helmond/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond~a6bb474c/",
@@ -1539,10 +1556,27 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036496/bedrijfspand-aan-piet-mondriaanstraat-in-deurne-mag-deels-verhoogd-worden": {
+   "titel": "Bedrijfspand aan Piet Mondriaanstraat in Deurne mag deels verhoogd worden",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036496/bedrijfspand-aan-piet-mondriaanstraat-in-deurne-mag-deels-verhoogd-worden",
+   "tekst": "",
+   "datum": "2026-11-27T13:48:35.172624+00:00",
+   "eerst_gezien": "2026-11-27T13:48:35.172624+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 14:48"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036445/vergunning-verleend-voor-verbouwing-woning-aan-keltenstraat-in-deurne": {
    "titel": "Vergunning verleend voor verbouwing woning aan Keltenstraat in Deurne",
    "link": "https://www.omroepbrabant.nl/nieuws/6036445/vergunning-verleend-voor-verbouwing-woning-aan-keltenstraat-in-deurne",
-   "tekst": "",
+   "tekst": "De gemeente Deurne heeft op 18 november 2026 een vergunning verleend voor het verbouwen van de woning aan Keltenstraat 4. Het besluit omvat technische bouwactiviteiten en een buitenplanse omgevingsplanactiviteit.",
    "datum": "2026-11-27T08:37:47.899416+00:00",
    "eerst_gezien": "2026-11-27T08:37:47.899416+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1576,13 +1610,12 @@
   "https://www.omroepbrabant.nl/nieuws/6036185/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les": {
    "titel": "Enorme puzzel na schoolbrand opgelost: 300 kinderen kunnen weer naar de les",
    "link": "https://www.omroepbrabant.nl/nieuws/6036185/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les",
-   "tekst": "De ongeveer driehonderd leerlingen van basisschool De Zeilberg in Deurne kunnen vanaf dinsdag weer naar school. Na de verwoestende brand van afgelopen vrijdag is een noodlocatie gevonden in Someren. \"Deze locatie zal nooit zo ideaal zijn …",
+   "tekst": "VIDEO",
    "datum": "2026-11-26T14:09:45.093407+00:00",
    "eerst_gezien": "2026-11-26T14:09:45.093407+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
    "gemeenten": [
-    "Deurne",
-    "Someren"
+    "Deurne"
    ],
    "soort": "regionale omroep",
    "betaald": false,
@@ -4122,7 +4155,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4138,7 +4171,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 14:13"
@@ -4155,7 +4188,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4418,7 +4451,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -8957,23 +8990,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126143810a2helmondrit140764": {
-   "titel": "A2 Helmond Rit: 140764",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126143810a2helmondrit140764",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T14:38:10+01:00",
-   "eerst_gezien": "2026-11-25T13:53:52.197331+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 14:38"
   },
   "https://112brabant.nl/2026/11/25/video/brand-bij-kasteel-van-sinterklaas-accucontainer-vat-vlam/": {
    "titel": "Brand bij kasteel van Sinterklaas, accucontainer vat vlam",
@@ -18383,7 +18399,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 8,
+   "aantal": 9,
    "fout": ""
   },
   "ED Deurne": {
@@ -18413,7 +18429,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 26,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -18508,38 +18524,6 @@
   }
  },
  "rvs_cache": {
-  "ECLI:NL:RVS:2026:3406": {
-   "gem": [],
-   "datum": "2026-06-24"
-  },
-  "ECLI:NL:RVS:2026:4850": {
-   "gem": [],
-   "datum": "2026-08-19"
-  },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
-  "ECLI:NL:RVS:2026:4600": {
-   "gem": [],
-   "datum": "2026-08-05"
-  },
-  "ECLI:NL:RVS:2026:5489": {
-   "gem": [],
-   "datum": "2026-09-16"
-  },
-  "ECLI:NL:RVS:2026:5109": {
-   "gem": [],
-   "datum": "2026-09-09"
-  },
-  "ECLI:NL:RVS:2026:5814": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:6492": {
    "gem": [],
    "datum": "2026-11-04"
@@ -18603,6 +18587,42 @@
   "ECLI:NL:RVS:2026:6977": {
    "gem": [],
    "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6790": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:3406": {
+   "gem": [],
+   "datum": "2026-06-24"
+  },
+  "ECLI:NL:RVS:2026:4850": {
+   "gem": [],
+   "datum": "2026-08-19"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:4600": {
+   "gem": [],
+   "datum": "2026-08-05"
+  },
+  "ECLI:NL:RVS:2026:5489": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5109": {
+   "gem": [],
+   "datum": "2026-09-09"
+  },
+  "ECLI:NL:RVS:2026:5814": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4535": {
    "gem": [],
@@ -18768,10 +18788,6 @@
    "gem": [],
    "datum": "2026-08-12"
   },
-  "ECLI:NL:RVS:2026:6790": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
   "ECLI:NL:RVS:2026:4341": {
    "gem": [],
    "datum": "2026-07-27"
@@ -18904,6 +18920,10 @@
    "gem": [],
    "datum": "2026-07-14"
   },
+  "ECLI:NL:RVS:2026:4992": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4224": {
    "gem": [],
    "datum": "2026-07-14"
@@ -18911,6 +18931,10 @@
   "ECLI:NL:RVS:2026:4045": {
    "gem": [],
    "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4993": {
+   "gem": [],
+   "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:4066": {
    "gem": [],
@@ -18920,6 +18944,10 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4067": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
   "ECLI:NL:RVS:2026:4098": {
    "gem": [],
    "datum": "2026-07-15"
@@ -18928,6 +18956,22 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4081": {
    "gem": [],
    "datum": "2026-07-16"
@@ -18935,6 +18979,30 @@
   "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4190": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:5006": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5008": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5010": {
+   "gem": [],
+   "datum": "2026-08-26"
   }
  }
 }
