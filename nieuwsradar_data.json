@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 17:47",
+ "bijgewerkt": "27-11-2026 18:08",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64949/jawel-tiswa-": {
    "titel": "Jawel, tiswà…",
@@ -1026,12 +1026,12 @@
    "prio": false,
    "tijd": "27-11 15:25"
   },
-  "https://www.omroepbrabant.nl/nieuws/6036504/teun-kon-niet-wachten-op-natuurijs-nam-schaatsen-voor-de-zekerheid-al-mee": {
-   "titel": "Teun kon niet wachten op natuurijs: nam schaatsen voor de zekerheid al mee",
-   "link": "https://www.omroepbrabant.nl/nieuws/6036504/teun-kon-niet-wachten-op-natuurijs-nam-schaatsen-voor-de-zekerheid-al-mee",
+  "https://www.omroepbrabant.nl/nieuws/6036504/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet": {
+   "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036504/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet",
    "tekst": "Op natuurplas het Buntven in Deurne gleden de eerste schaatsers vrijdag al fanatiek over het krakende ijs. Door de aanhoudende kou lag er genoeg ijs om de eerste baantjes van deze winter te kunnen schaatsen. De temperaturen zijn vrijdag flink gedaald . In de nacht van donderdag …",
    "datum": "2026-11-27T16:32:00+00:00",
-   "eerst_gezien": "2026-11-27T16:41:39.583066+00:00",
+   "eerst_gezien": "2026-11-27T17:02:34.580602+00:00",
    "bron": "Omroep Brabant",
    "gemeenten": [
     "Deurne"
@@ -1046,7 +1046,7 @@
   "https://www.omroepbrabant.nl/nieuws/6036550/bestuurder-opgevoerde-fatbike-vlucht-voor-handhaving-in-helmond": {
    "titel": "Bestuurder opgevoerde fatbike vlucht voor handhaving in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6036550/bestuurder-opgevoerde-fatbike-vlucht-voor-handhaving-in-helmond",
-   "tekst": "Een bestuurder van een fatbike is donderdag op de vlucht geslagen voor handhavers in Helmond nadat hij een stopteken kreeg. In zijn vlucht liet hij de opgevoerde fiets achter en klom hij een hek over. Daarbij raakte hij gewond aan zijn hand en wisten de handhavers hem …",
+   "tekst": "Een bestuurder van een fatbike is donderdag op de vlucht geslagen voor handhavers in Helmond nadat hij een stopteken kreeg. Tijdens zijn vlucht liet hij de opgevoerde fiets achter en klom hij over een hek. Daarbij raakte hij gewond aan zijn hand. Uiteindelijk wisten de …",
    "datum": "2026-11-27T15:46:19+00:00",
    "eerst_gezien": "2026-11-27T16:41:39.583066+00:00",
    "bron": "Omroep Brabant",
@@ -1055,7 +1055,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 16:46"
@@ -1276,7 +1276,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 17:41"
@@ -4108,6 +4108,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733217/spierbundels-bo-22-en-sjeanny-69-nemen-het-tegen-elkaar-op-tijdens-lichtstad-open.html": {
+   "titel": "Spierbundels Bo (22) en Sjeanny (69) nemen het tegen elkaar op tijdens Lichtstad Open",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733217/spierbundels-bo-22-en-sjeanny-69-nemen-het-tegen-elkaar-op-tijdens-lichtstad-open.html",
+   "tekst": "",
+   "datum": "2026-11-27T16:49:08+00:00",
+   "eerst_gezien": "2026-11-27T17:02:34.580602+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 17:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108733139/ook-streep-door-duel-van-helmond-sport-vorst-is-spelbreker-bij-duel-met-fc-emmen.html": {
    "titel": "Ook streep door duel van Helmond Sport: vorst is spelbreker bij duel met FC Emmen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108733139/ook-streep-door-duel-van-helmond-sport-vorst-is-spelbreker-bij-duel-met-fc-emmen.html",
@@ -4120,7 +4137,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 17:36"
@@ -4137,7 +4154,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 17:25"
@@ -4154,7 +4171,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4170,7 +4187,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4377,22 +4394,6 @@
    "tekst": "",
    "datum": "2026-11-27T13:49:08+00:00",
    "eerst_gezien": "2026-11-27T14:09:18.214072+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108731418/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond.html": {
-   "titel": "Kerstconcert met kerstbingo vindt plaats in Wijkhuis De Geseldonk in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731418/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-27T13:19:03+00:00",
-   "eerst_gezien": "2026-11-27T13:26:18.405311+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4770,6 +4771,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733271/korfbalcoach-arno-stopt-na-dit-seizoen-bij-dames-1-van-dakos-gepiekt-op-de-juiste-momenten.html": {
+   "titel": "Korfbalcoach Arno stopt na dit seizoen bij Dames 1 van DAKOS: ´Gepiekt op de juiste momenten´",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733271/korfbalcoach-arno-stopt-na-dit-seizoen-bij-dames-1-van-dakos-gepiekt-op-de-juiste-momenten.html",
+   "tekst": "Arno Theunisse gaat na dit seizoen weg als coach van DAKOS Dames 1. De Ossenaar was vijf seizoenen lang de eindverantwoordelijke voor...",
+   "datum": "2026-11-27T16:59:04+00:00",
+   "eerst_gezien": "2026-11-27T17:02:34.580602+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 17:59"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
@@ -4855,154 +4873,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108710616/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html": {
-   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710616/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html",
-   "tekst": "",
-   "datum": "2026-11-25T16:28:04+00:00",
-   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/": {
-   "titel": "Borstkankeronderzoek: vrouwen uit Deurne doen vaker mee dan in de meeste gemeenten",
-   "link": "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/",
-   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Deurne gaat het om ruim 5800 vrouwen. Tussen 2023 en 2025 deed 73 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
-   "datum": "2026-11-26T16:30:00+00:00",
-   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 17:30"
-  },
-  "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/": {
-   "titel": "Borstkankeronderzoek: vrouwen uit Someren doen vaker mee dan in de meeste gemeenten",
-   "link": "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/",
-   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Someren gaat het om ruim 3400 vrouwen. Tussen 2023 en 2025 deed 75 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
-   "datum": "2026-11-26T16:30:00+00:00",
-   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
-   "bron": "ED Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 17:30"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6034836/helmond-sport-verliest-met-6-1-van-almere-city-fc": {
-   "titel": "Helmond Sport verliest met 6-1 van Almere City FC",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034836/helmond-sport-verliest-met-6-1-van-almere-city-fc",
-   "tekst": "15 november 2026 Helmond Sport heeft zaterdagavond met 6-1 verloren van Almere City FC. De ploeg uit Helmond stond bij rust al met 3-0 achter in het Yanmar Stadion en kon het tij niet meer keren. Mauro Lenaerts scoorde in de slotfase, maar …",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126172313a2helmondrit141694": {
+   "titel": "A2 Helmond Rit: 141694",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126172313a2helmondrit141694",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T17:23:13+01:00",
+   "eerst_gezien": "2026-11-27T17:02:34.580602+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "regionale omroep",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "23-11 13:57"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108731356/eerste-bewoners-krijgen-sleutel-van-de-eikenhof-tien-sociale-huurwoningen-erbij-in-nederwetten.html": {
-   "titel": "Eerste bewoners krijgen sleutel van De Eikenhof: tien sociale huurwoningen erbij in Nederwetten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731356/eerste-bewoners-krijgen-sleutel-van-de-eikenhof-tien-sociale-huurwoningen-erbij-in-nederwetten.html",
-   "tekst": "",
-   "datum": "2026-11-27T13:13:26+00:00",
-   "eerst_gezien": "2026-11-27T13:26:18.405311+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 14:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108731353/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond.html": {
-   "titel": "Kerstconcert met kerstbingo vindt plaats in Wijkhuis De Geseldonk in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731353/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-27T13:13:26+00:00",
-   "eerst_gezien": "2026-11-27T13:26:18.405311+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108731227/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan.html": {
-   "titel": "Eerste schaatsers op natuurijs in Deurne, maar enkeling haalt nat pak: `Daar zijn ze er doorheen gegaan`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731227/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan.html",
-   "tekst": "",
-   "datum": "2026-11-27T13:01:05+00:00",
-   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108731226/eerste-bewoners-krijgen-sleutel-van-de-eikenhof-tien-sociale-huurwoningen-erbij-in-nederwetten.html": {
-   "titel": "Eerste bewoners krijgen sleutel van De Eikenhof: tien sociale huurwoningen erbij in Nederwetten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731226/eerste-bewoners-krijgen-sleutel-van-de-eikenhof-tien-sociale-huurwoningen-erbij-in-nederwetten.html",
-   "tekst": "",
-   "datum": "2026-11-27T13:01:05+00:00",
-   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732955/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html": {
-   "titel": "Arsenal zet trainster Renée Slegers uit Someren-Eind op straat na tegenvallende resultaten",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732955/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html",
-   "tekst": "",
-   "datum": "2026-11-27T16:11:19+00:00",
-   "eerst_gezien": "2026-11-27T16:18:13.848939+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "tijd": "27-11 17:23"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126170320a2helmondrit141692": {
    "titel": "A2 Helmond Rit: 141692",
@@ -5207,6 +5093,188 @@
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 23:07"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036504/teun-kon-niet-wachten-op-natuurijs-nam-schaatsen-voor-de-zekerheid-al-mee": {
+   "titel": "Teun kon niet wachten op natuurijs: nam schaatsen voor de zekerheid al mee",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036504/teun-kon-niet-wachten-op-natuurijs-nam-schaatsen-voor-de-zekerheid-al-mee",
+   "tekst": "Op natuurplas het Buntven in Deurne gleden de eerste schaatsers vrijdag al fanatiek over het krakende ijs. Door de aanhoudende kou lag er genoeg ijs om de eerste baantjes van deze winter te kunnen schaatsen. De temperaturen zijn vrijdag flink gedaald . In de nacht van donderdag …",
+   "datum": "2026-11-27T16:32:00+00:00",
+   "eerst_gezien": "2026-11-27T16:41:39.583066+00:00",
+   "bron": "Omroep Brabant",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 17:32"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108731418/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond.html": {
+   "titel": "Kerstconcert met kerstbingo vindt plaats in Wijkhuis De Geseldonk in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731418/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-27T13:19:03+00:00",
+   "eerst_gezien": "2026-11-27T13:26:18.405311+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108710616/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html": {
+   "titel": "Leerlingen van door brand getroffen Basisschool Zeilberg tijdelijk naar Someren, daarna misschien les in units",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108710616/leerlingen-van-door-brand-getroffen-basisschool-zeilberg-tijdelijk-naar-someren-daarna-misschien-les-in-units.html",
+   "tekst": "",
+   "datum": "2026-11-25T16:28:04+00:00",
+   "eerst_gezien": "2026-11-25T16:42:59.647371+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/": {
+   "titel": "Borstkankeronderzoek: vrouwen uit Deurne doen vaker mee dan in de meeste gemeenten",
+   "link": "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/",
+   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Deurne gaat het om ruim 5800 vrouwen. Tussen 2023 en 2025 deed 73 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
+   "datum": "2026-11-26T16:30:00+00:00",
+   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:30"
+  },
+  "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/": {
+   "titel": "Borstkankeronderzoek: vrouwen uit Someren doen vaker mee dan in de meeste gemeenten",
+   "link": "https://www.ed.nl/someren/borstkankeronderzoek-vrouwen-uit-someren-doen-vaker-mee-dan-in-de-meeste-gemeenten~ac18e7734/",
+   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Someren gaat het om ruim 3400 vrouwen. Tussen 2023 en 2025 deed 75 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
+   "datum": "2026-11-26T16:30:00+00:00",
+   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
+   "bron": "ED Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:30"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034836/helmond-sport-verliest-met-6-1-van-almere-city-fc": {
+   "titel": "Helmond Sport verliest met 6-1 van Almere City FC",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034836/helmond-sport-verliest-met-6-1-van-almere-city-fc",
+   "tekst": "15 november 2026 Helmond Sport heeft zaterdagavond met 6-1 verloren van Almere City FC. De ploeg uit Helmond stond bij rust al met 3-0 achter in het Yanmar Stadion en kon het tij niet meer keren. Mauro Lenaerts scoorde in de slotfase, maar …",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108731356/eerste-bewoners-krijgen-sleutel-van-de-eikenhof-tien-sociale-huurwoningen-erbij-in-nederwetten.html": {
+   "titel": "Eerste bewoners krijgen sleutel van De Eikenhof: tien sociale huurwoningen erbij in Nederwetten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731356/eerste-bewoners-krijgen-sleutel-van-de-eikenhof-tien-sociale-huurwoningen-erbij-in-nederwetten.html",
+   "tekst": "",
+   "datum": "2026-11-27T13:13:26+00:00",
+   "eerst_gezien": "2026-11-27T13:26:18.405311+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 14:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108731353/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond.html": {
+   "titel": "Kerstconcert met kerstbingo vindt plaats in Wijkhuis De Geseldonk in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731353/kerstconcert-met-kerstbingo-vindt-plaats-in-wijkhuis-de-geseldonk-in-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-27T13:13:26+00:00",
+   "eerst_gezien": "2026-11-27T13:26:18.405311+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108731227/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan.html": {
+   "titel": "Eerste schaatsers op natuurijs in Deurne, maar enkeling haalt nat pak: `Daar zijn ze er doorheen gegaan`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731227/eerste-schaatsers-op-natuurijs-in-deurne-maar-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan.html",
+   "tekst": "",
+   "datum": "2026-11-27T13:01:05+00:00",
+   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108731226/eerste-bewoners-krijgen-sleutel-van-de-eikenhof-tien-sociale-huurwoningen-erbij-in-nederwetten.html": {
+   "titel": "Eerste bewoners krijgen sleutel van De Eikenhof: tien sociale huurwoningen erbij in Nederwetten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731226/eerste-bewoners-krijgen-sleutel-van-de-eikenhof-tien-sociale-huurwoningen-erbij-in-nederwetten.html",
+   "tekst": "",
+   "datum": "2026-11-27T13:01:05+00:00",
+   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732955/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html": {
+   "titel": "Arsenal zet trainster Renée Slegers uit Someren-Eind op straat na tegenvallende resultaten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732955/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html",
+   "tekst": "",
+   "datum": "2026-11-27T16:11:19+00:00",
+   "eerst_gezien": "2026-11-27T16:18:13.848939+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126221921a2liesselrit141361": {
    "titel": "A2 Liessel Rit: 141361",
@@ -18378,23 +18446,6 @@
    "prio": false,
    "tijd": "20-11 18:19"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
-   "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661491/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
-   "tekst": "",
-   "datum": "2026-11-20T16:43:14+00:00",
-   "eerst_gezien": "2026-11-20T16:55:43.520647+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 17:43"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662799/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662799/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
@@ -18599,7 +18650,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 13,
    "fout": ""
   },
   "112Brabant": {
@@ -18983,6 +19034,14 @@
    "gem": [],
    "datum": "2026-10-28"
   },
+  "ECLI:NL:RVS:2026:6960": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6779": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
   "ECLI:NL:RVS:2026:3406": {
    "gem": [],
    "datum": "2026-06-24"
@@ -18991,13 +19050,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19311,6 +19370,10 @@
    "gem": [],
    "datum": "2026-07-14"
   },
+  "ECLI:NL:RVS:2026:4992": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4224": {
    "gem": [],
    "datum": "2026-07-14"
@@ -19327,6 +19390,14 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4994": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4067": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
   "ECLI:NL:RVS:2026:4098": {
    "gem": [],
    "datum": "2026-07-15"
@@ -19335,11 +19406,23 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4074": {
    "gem": [],
    "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4081": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19351,15 +19434,15 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4998": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5008": {
+  "ECLI:NL:RVS:2026:5010": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19370,22 +19453,6 @@
   "ECLI:NL:RVS:2026:5018": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5025": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:6960": {
-   "gem": [],
-   "datum": "2026-11-25"
-  },
-  "ECLI:NL:RVS:2026:6779": {
-   "gem": [],
-   "datum": "2026-11-17"
   }
  }
 }
