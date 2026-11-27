@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 01:05",
+ "bijgewerkt": "27-11-2026 01:21",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -3256,7 +3256,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3273,7 +3273,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3289,7 +3289,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3306,7 +3306,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3323,7 +3323,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3340,7 +3340,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3357,7 +3357,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3374,7 +3374,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3391,7 +3391,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -3408,7 +3408,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 01:00"
@@ -18288,7 +18288,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
