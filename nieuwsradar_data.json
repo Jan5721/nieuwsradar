@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 07:13",
+ "bijgewerkt": "27-11-2026 07:29",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -3855,6 +3855,23 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108727958/autoriteit-persoonsgegevens-laat-eindhoven-doorgaan-met-delen-van-privacygevoelige-informatie-over-gezinnen.html": {
+   "titel": "Autoriteit Persoonsgegevens laat Eindhoven doorgaan met delen van privacygevoelige informatie over gezinnen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108727958/autoriteit-persoonsgegevens-laat-eindhoven-doorgaan-met-delen-van-privacygevoelige-informatie-over-gezinnen.html",
+   "tekst": "",
+   "datum": "2026-11-27T06:19:02+00:00",
+   "eerst_gezien": "2026-11-27T06:29:24.008357+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 07:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108726168/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
    "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108726168/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html",
@@ -4071,39 +4088,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722735/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html": {
-   "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk (1946-2026) vlogen net straaljagers over",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722735/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html",
-   "tekst": "",
-   "datum": "2026-11-26T19:19:03+00:00",
-   "eerst_gezien": "2026-11-26T19:31:16.479253+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722707/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html": {
-   "titel": "Kater Sjors (9) sterft na mogelijke kogel van luchtbuks in Beek en Donk: `We zagen pas bij de dierenarts het gaatje`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722707/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html",
-   "tekst": "",
-   "datum": "2026-11-26T19:13:23+00:00",
-   "eerst_gezien": "2026-11-26T19:15:20.222306+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 20:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -5017,6 +5001,39 @@
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 12:06"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722735/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html": {
+   "titel": "Bij het naar buiten dragen van luchtmacht-fotograaf Henk van Dijk (1946-2026) vlogen net straaljagers over",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722735/bij-het-naar-buiten-dragen-van-luchtmacht-fotograaf-henk-van-dijk-1946-2026-vlogen-net-straaljagers-over.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:19:03+00:00",
+   "eerst_gezien": "2026-11-26T19:31:16.479253+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722707/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html": {
+   "titel": "Kater Sjors (9) sterft na mogelijke kogel van luchtbuks in Beek en Donk: `We zagen pas bij de dierenarts het gaatje`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722707/kater-sjors-9-sterft-na-mogelijke-kogel-van-luchtbuks-in-beek-en-donk-we-zagen-pas-bij-de-dierenarts-het-gaatje.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:13:23+00:00",
+   "eerst_gezien": "2026-11-26T19:15:20.222306+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 20:13"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126114323a2somerenrit141109": {
    "titel": "A2 Someren Rit: 141109",
@@ -15987,23 +16004,6 @@
    "prio": false,
    "tijd": "20-11 10:00"
   },
-  "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://www.ed.nl/helmond/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond~a46996d2/",
-   "tekst": "De Duitse rockband Kadavar geeft een concert in De Cacaofabriek in Helmond. Donderdag 10 december staat de band daar met supportact Scott Hepple and The Sun Band.",
-   "datum": "2026-11-20T06:23:00+00:00",
-   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:23"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html": {
    "titel": "Een halve baan als voorzitter' Stiphout Vooruit lost het gewoon op met z`n tweeën",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668519/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen.html",
@@ -16498,7 +16498,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 23:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664427/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar.html": {
    "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: ´Eindelijk klaar´",
@@ -17966,39 +17967,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656434/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656434/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:29:06+00:00",
-   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656366/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html": {
-   "titel": "Cliënt GGzE geeft toe dat hij medewerkers sloeg en schopte: `Daar moet je toch straf voor krijgen'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656366/client-ggze-geeft-toe-dat-hij-medewerkers-sloeg-en-schopte-daar-moet-je-toch-straf-voor-krijgen.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:19:03+00:00",
-   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:19"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
    "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
@@ -18008,39 +17976,6 @@
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656365/snel-duidelijkheid-verwacht-over-doorgaan-bedrijventerrein-bolle-akker.html": {
-   "titel": "Snel duidelijkheid verwacht over doorgaan bedrijventerrein Bolle Akker",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656365/snel-duidelijkheid-verwacht-over-doorgaan-bedrijventerrein-bolle-akker.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:19:02+00:00",
-   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:27:03+00:00",
-   "eerst_gezien": "2026-11-20T06:28:19.216511+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -18152,7 +18087,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18172,7 +18107,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 27,
    "fout": ""
   },
   "112Brabant": {
