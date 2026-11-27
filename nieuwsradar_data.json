@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 09:05",
+ "bijgewerkt": "27-11-2026 09:22",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm": {
    "titel": "Historie van Helenaveen krijgt eigen plek in De Gouden Helm",
@@ -594,7 +594,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 08:59"
@@ -841,7 +841,7 @@
   "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon~a344fa71/": {
    "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
    "link": "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon~a344fa71/",
-   "tekst": "Het was een kippenvelmoment voor de familie. De woensdag overleden Henk van Dijk werd naar buiten gedragen toen er straaljagers overvlogen. Toestellen die normaal niet boven Helmond te zien zijn. Het voelde als een eerbetoon aan de oud-luchtmachtman.",
+   "tekst": "Het was een kippenvelmoment voor de familie. De woensdag overleden Henk van Dijk werd naar buiten gedragen toen er net op dat moment straaljagers overvlogen. Toestellen die normaal niet boven Helmond te zien zijn. Het voelde als een eerbetoon aan de oud-luchtmachtman.",
    "datum": "2026-11-26T19:00:00+00:00",
    "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
    "bron": "ED Helmond",
@@ -3193,6 +3193,23 @@
    "prio": false,
    "tijd": "26-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-553617.html": {
+   "titel": "Nadere regels subsidie stimuleringsfonds sociale woningbouw Helmond 2027",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-553617.html",
+   "tekst": "",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-550433.html": {
    "titel": "Melding voor het toepassen van grond aan Beemdweg 6 te Helmond",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-550433.html",
@@ -3464,6 +3481,23 @@
    "prio": false,
    "tijd": "26-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-552501.html": {
+   "titel": "Tijdelijke algemene gehandicaptenparkeerplaats Aaltje Reddingiusstraat 7 Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-552501.html",
+   "tekst": "Tijdelijke algemene gehandicaptenparkeerplaats aan de Aaltje Reddingiusstraat in Deurne",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-545895.html": {
    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Bruggenseweg 13 5752SC Deurne",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-545895.html",
@@ -3531,6 +3565,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-553729.html": {
+   "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Belgerenseweg 39 5756PP Vlierden",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-553729.html",
+   "tekst": "het herbouwen van een langgevelboerderij",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-543000.html": {
    "titel": "Mandaatbesluit Burgerlijke Stand",
@@ -3616,6 +3667,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-554571.html": {
+   "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Pastoor Jacobsstraat 84 5751JG Deurne",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-554571.html",
+   "tekst": "het verplaatsen van de voordeur naar de zijgevel",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-548461.html": {
    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Heimolenweg 16 5753PW Deurne",
@@ -3753,6 +3821,40 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-553342.html": {
+   "titel": "Gemeente Asten - aanvraag omgevingsvergunning, Slobeendweg Heusden",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-553342.html",
+   "tekst": "het bouwen van een woning met inrit",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-553268.html": {
+   "titel": "Gemeente Asten - aanvraag omgevingsvergunning, Molenweg 32 5721XH Asten",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-553268.html",
+   "tekst": "het verbouwen van een woonhuis inclusief realiseren van een nieuwe aanbouw + tijdelijke bewoning bijgebouw",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
+  },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-549391.html": {
    "titel": "Kennisgeving melding mobiel breken bouw- en sloopafval Smulderslaan 46 te Someren",
    "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-549391.html",
@@ -3769,6 +3871,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-554015.html": {
+   "titel": "Buiten behandeling laten aanvraag omgevingsvergunning Esdoornstraat ong (naast 1) te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-554015.html",
+   "tekst": "Aanleggen van twee inritten Esdoornstraat ong (naast 1)",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-549157.html": {
    "titel": "Verlenen omgevingsvergunning Tuinstraat 20 te Someren",
@@ -3820,6 +3939,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-553413.html": {
+   "titel": "Aanvraag omgevingsvergunning Nederweertseweg 30 te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-553413.html",
+   "tekst": "Kappen van 11 bomen Nederweertseweg 30",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
   },
   "https://zoek.officielebekendmakingen.nl/gmb-2026-548809.html": {
    "titel": "Subsidieregeling Isoleren Koopwoningen Gemeente Someren",
@@ -3905,6 +4041,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 01:00"
+  },
+  "https://zoek.officielebekendmakingen.nl/gmb-2026-553574.html": {
+   "titel": "Aanvraag omgevingsvergunning Breestraat 12 te Someren",
+   "link": "https://zoek.officielebekendmakingen.nl/gmb-2026-553574.html",
+   "tekst": "Gewijzigd uitvoeren oprichten vleesvarkensstal Breestraat 12",
+   "datum": "2026-11-27T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T08:21:36.167592+00:00",
+   "bron": "Bekendmakingen Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "bekendmaking",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 01:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108728417/eindhoven-barst-van-de-mannenstraten-en-dat-moet-veranderen-vindt-de-gemeenteraad.html": {
    "titel": "Eindhoven barst van de mannenstraten en dat moet veranderen, vindt de gemeenteraad",
@@ -18183,22 +18336,22 @@
   },
   "Bekendmakingen Helmond": {
    "ok": true,
-   "aantal": 38,
+   "aantal": 39,
    "fout": ""
   },
   "Bekendmakingen Deurne": {
    "ok": true,
-   "aantal": 11,
+   "aantal": 14,
    "fout": ""
   },
   "Bekendmakingen Asten": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 8,
    "fout": ""
   },
   "Bekendmakingen Someren": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 12,
    "fout": ""
   },
   "Drimble Helmond": {
