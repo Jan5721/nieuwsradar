@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 19:55",
+ "bijgewerkt": "27-11-2026 20:17",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -549,23 +549,6 @@
    "prio": false,
    "tijd": "21-11 10:26"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze": {
-   "titel": "Brand in basisschool De Zeilberg, brandweer schaalt op naar zeer grote brand",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64815/brand-in-basisschool-de-zeilberg-brandweer-schaalt-op-naar-ze",
-   "tekst": "ZEILBERG - Basisschool De Zeilberg aan de Margrietstraat in Zeilberg is vrijdagavond getroffen door brand. De brandweer werd rond 19.35 uur gealarmeerd en schaalde korte tijd later op naar zeer grote brand.",
-   "datum": "2026-11-20T20:03:00+01:00",
-   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:03"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64945/voorstanders-asielopvang-overhandigen-petitie-gezamenlijke-ve": {
    "titel": "Voorstanders asielopvang overhandigen petitie: ‘Gezamenlijke verantwoordelijkheid voor ons allemaal’",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64945/voorstanders-asielopvang-overhandigen-petitie-gezamenlijke-ve",
@@ -788,6 +771,23 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
+  "https://www.ed.nl/helmond/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis~ad0a343e/": {
+   "titel": "Helmondse Senna scoort met ‘Hey Poes’, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
+   "link": "https://www.ed.nl/helmond/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis~ad0a343e/",
+   "tekst": "Hey Poes. Zo heet het nieuwste nummer van de Helmondse zangeres Senna Willems, dat ze samen met Monique Smit heeft gemaakt. Het nummer gaat op sociale media behoorlijk hard. Maar niet alleen in Nederland wordt het liedje opgepikt. Ook vanuit Zuid-Afrika stromen de reacties …",
+   "datum": "2026-11-27T19:00:00+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 20:00"
+  },
   "https://www.ed.nl/voetbal/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten~a8b6ec90/": {
    "titel": "Arsenal zet trainster Renée Slegers uit Someren-Eind op straat na tegenvallende resultaten",
    "link": "https://www.ed.nl/voetbal/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten~a8b6ec90/",
@@ -907,23 +907,6 @@
    "prio": false,
    "tijd": "27-11 11:56"
   },
-  "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
-   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
-   "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
-   "tekst": "De voorpret bij het Helmondse Kasteel van Sinterklaas begint al op het voorplein, waar bezoekers voor en na hun visite worden opgevangen. Buiten vliegen de Pieten en pepernoten om de oren, maar in de Smulwinkel komen pa en ma tot rust, totdat ze zoonlief kwijt zijn.",
-   "datum": "2026-11-27T06:30:00+00:00",
-   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 07:30"
-  },
   "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/": {
    "titel": "De Wieger in Deurne stapt vanaf 1 januari over op pinbetalingen",
    "link": "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/",
@@ -940,6 +923,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 09:40"
+  },
+  "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
+   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
+   "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
+   "tekst": "De voorpret bij het Helmondse Kasteel van Sinterklaas begint al op het voorplein, waar bezoekers voor en na hun visite worden opgevangen. Buiten vliegen de Pieten en pepernoten om de oren, maar in de Smulwinkel komen pa en ma tot rust, totdat ze zoonlief kwijt zijn.",
+   "datum": "2026-11-27T06:30:00+00:00",
+   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 07:30"
   },
   "https://www.ed.nl/deurne/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar~a408ed2f/": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -958,23 +958,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 20:30"
-  },
-  "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon~a344fa71/": {
-   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
-   "link": "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon~a344fa71/",
-   "tekst": "Het was een kippenvelmoment voor de familie. De woensdag overleden Henk van Dijk werd naar buiten gedragen toen er net op dat moment straaljagers overvlogen. Toestellen die normaal niet boven Helmond te zien zijn. Het voelde als een eerbetoon aan de oud-luchtmachtman.",
-   "datum": "2026-11-26T19:00:00+00:00",
-   "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 20:00"
   },
   "https://www.ed.nl/asten/oniswelzijn-zoekt-meedenkers-voor-nieuwe-ontmoetingsplekken-in-asten~a7216101/": {
    "titel": "OnisWelzijn zoekt meedenkers voor nieuwe ontmoetingsplekken in Asten",
@@ -4194,6 +4177,73 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108734006/vijf-duels-in-keuken-kampioen-divisie-gaan-niet-door-vanwege-winterweer.html": {
+   "titel": "Vijf duels in Keuken Kampioen Divisie gaan niet door vanwege winterweer",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734006/vijf-duels-in-keuken-kampioen-divisie-gaan-niet-door-vanwege-winterweer.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:01:09+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 20:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733999/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html": {
+   "titel": "Helmondse Senna scoort met `Hey Poes`, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733999/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:01:05+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733964/rechter-wijst-miljoeneneis-af-oud-top-gibson-niet-aansprakelijk-voor-ondergang-philips-audiotak.html": {
+   "titel": "Rechter wijst miljoeneneis af: oud-top Gibson niet aansprakelijk voor ondergang Philips-audiotak",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733964/rechter-wijst-miljoeneneis-af-oud-top-gibson-niet-aansprakelijk-voor-ondergang-philips-audiotak.html",
+   "tekst": "",
+   "datum": "2026-11-27T18:49:09+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 19:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html": {
+   "titel": "Premier Jetten wil ASML bespreken met Trump op G20 in Miami",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html",
+   "tekst": "",
+   "datum": "2026-11-27T18:49:09+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 19:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108733926/premier-jetten-trekt-aan-de-bel-bij-trump-over-asml-dit-is-onacceptabel.html": {
    "titel": "Premier Jetten trekt aan de bel bij Trump over ASML: `Dit is onacceptabel`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108733926/premier-jetten-trekt-aan-de-bel-bij-trump-over-asml-dit-is-onacceptabel.html",
@@ -4206,7 +4256,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 19:43"
@@ -4223,7 +4273,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 19:31"
@@ -4240,10 +4290,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 19:31"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108733795/vaatchirurg-joep-teijink-mag-zich-voortaan-ook-ridder-noemen.html": {
    "titel": "Vaatchirurg Joep Teijink mag zich voortaan ook ridder noemen",
@@ -4394,72 +4443,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 16:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732747/kerstactiviteiten-voor-kinderen-bij-bibliotheek-helmond.html": {
-   "titel": "Kerstactiviteiten voor kinderen bij bibliotheek Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732747/kerstactiviteiten-voor-kinderen-bij-bibliotheek-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-27T15:49:08+00:00",
-   "eerst_gezien": "2026-11-27T15:54:43.024376+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732603/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-dsi.html": {
-   "titel": "Automobilist rijdt met 100 km/uur over fietspad in Eindhoven tijdens achtervolging door DSI",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732603/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-dsi.html",
-   "tekst": "",
-   "datum": "2026-11-27T15:31:04+00:00",
-   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 16:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732392/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html": {
-   "titel": "Europa moet snel defensieplannen maken, en in Eindhoven liggen de bouwstenen klaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732392/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html",
-   "tekst": "",
-   "datum": "2026-11-27T15:13:25+00:00",
-   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 16:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732390/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
-   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732390/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
-   "tekst": "",
-   "datum": "2026-11-27T15:13:25+00:00",
-   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108732380/een-paar-nachtjes-vorst-zijn-genoeg-voor-schaatspret-in-deurne-wel-met-het-risico-op-een-nat-pak.html": {
    "titel": "Een paar nachtjes vorst zijn genoeg voor schaatspret in Deurne, wel met het risico op een nat pak",
@@ -4930,54 +4913,56 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732389/politie-ontdekt-grote-handel-in-illegale-sigaretten-en-stuurt-arrestatieteams-naar-veghel-16-mannen-opgepakt.html": {
-   "titel": "Politie ontdekt grote handel in illegale sigaretten en stuurt arrestatieteams naar Veghel: 16 mannen opgepakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732389/politie-ontdekt-grote-handel-in-illegale-sigaretten-en-stuurt-arrestatieteams-naar-veghel-16-mannen-opgepakt.html",
-   "tekst": "",
-   "datum": "2026-11-27T15:13:25+00:00",
-   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
-   "bron": "Drimble Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126200957a2helmondrit141756": {
+   "titel": "A2 Helmond Rit: 141756",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126200957a2helmondrit141756",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T20:09:57+01:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "27-11 16:13"
+   "tijd": "27-11 20:09"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732288/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
-   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732288/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
-   "tekst": "",
-   "datum": "2026-11-27T15:03:04+00:00",
-   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
-   "bron": "Drimble Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126200332a2astenrit141754": {
+   "titel": "A2 Asten Rit: 141754",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126200332a2astenrit141754",
+   "tekst": "Ambulance 22-119 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T20:03:32+01:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Helmond"
+    "Asten"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 20:03"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108732258/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html": {
-   "titel": "Europa moet snel defensieplannen maken, en in Eindhoven liggen de bouwstenen klaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732258/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html",
-   "tekst": "",
-   "datum": "2026-11-27T15:01:04+00:00",
-   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
-   "bron": "Drimble Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126200102a2astenrit141752": {
+   "titel": "A2 Asten Rit: 141752",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126200102a2astenrit141752",
+   "tekst": "Ambulance 22-122 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T20:01:02+01:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Helmond"
+    "Asten"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 20:01"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126192705a2astenrit141746": {
    "titel": "A2 Asten Rit: 141746",
@@ -5199,6 +5184,138 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 01:18"
+  },
+  "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon~a344fa71/": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
+   "link": "https://www.ed.nl/helmond/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon~a344fa71/",
+   "tekst": "Het was een kippenvelmoment voor de familie. De woensdag overleden Henk van Dijk werd naar buiten gedragen toen er net op dat moment straaljagers overvlogen. Toestellen die normaal niet boven Helmond te zien zijn. Het voelde als een eerbetoon aan de oud-luchtmachtman.",
+   "datum": "2026-11-26T19:00:00+00:00",
+   "eerst_gezien": "2026-11-26T20:36:12.849812+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 20:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732747/kerstactiviteiten-voor-kinderen-bij-bibliotheek-helmond.html": {
+   "titel": "Kerstactiviteiten voor kinderen bij bibliotheek Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732747/kerstactiviteiten-voor-kinderen-bij-bibliotheek-helmond.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:49:08+00:00",
+   "eerst_gezien": "2026-11-27T15:54:43.024376+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732603/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-dsi.html": {
+   "titel": "Automobilist rijdt met 100 km/uur over fietspad in Eindhoven tijdens achtervolging door DSI",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732603/automobilist-rijdt-met-100-kmuur-over-fietspad-in-eindhoven-tijdens-achtervolging-door-dsi.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:31:04+00:00",
+   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732392/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html": {
+   "titel": "Europa moet snel defensieplannen maken, en in Eindhoven liggen de bouwstenen klaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732392/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:13:25+00:00",
+   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732390/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
+   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732390/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:13:25+00:00",
+   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732389/politie-ontdekt-grote-handel-in-illegale-sigaretten-en-stuurt-arrestatieteams-naar-veghel-16-mannen-opgepakt.html": {
+   "titel": "Politie ontdekt grote handel in illegale sigaretten en stuurt arrestatieteams naar Veghel: 16 mannen opgepakt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732389/politie-ontdekt-grote-handel-in-illegale-sigaretten-en-stuurt-arrestatieteams-naar-veghel-16-mannen-opgepakt.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:13:25+00:00",
+   "eerst_gezien": "2026-11-27T15:33:57.679857+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732288/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
+   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732288/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:03:04+00:00",
+   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732258/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html": {
+   "titel": "Europa moet snel defensieplannen maken, en in Eindhoven liggen de bouwstenen klaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732258/europa-moet-snel-defensieplannen-maken-en-in-eindhoven-liggen-de-bouwstenen-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-27T15:01:04+00:00",
+   "eerst_gezien": "2026-11-27T15:13:22.475369+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126230748a1helmondrit141380": {
    "titel": "A1 Helmond Rit: 141380",
@@ -16323,23 +16440,6 @@
    "prio": false,
    "tijd": "21-11 00:53"
   },
-  "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-2-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/": {
-   "titel": "De molen van Mari van Dijk is na 2 jaar stilstand weer een stap dichter bij draaiende wieken",
-   "link": "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-2-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/",
-   "tekst": "Molenaar Mari van Dijk is er klaar voor. Het hekwerk van de wieken van Holten’s Molen in Deurne is al verwijderd. Maandag (als het weer meezit) zijn de roeden aan de beurt, de twee lange stalen balken die het wiekenkruis vormen.",
-   "datum": "2026-11-20T19:00:00+00:00",
-   "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677176/in-dit-veghelse-clubhuis-krijgt-iedereen-de-code-zodat-niemand-zich-buitengesloten-voelt-het-gaat-bij-ons-vooral-om-de-gezelligheid.html": {
    "titel": "In dit Veghelse clubhuis krijgt iedereen de code, zodat niemand zich buitengesloten voelt: `Het gaat bij ons vooral om de gezelligheid`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677176/in-dit-veghelse-clubhuis-krijgt-iedereen-de-code-zodat-niemand-zich-buitengesloten-voelt-het-gaat-bij-ons-vooral-om-de-gezelligheid.html",
@@ -17266,7 +17366,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 23:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108665740/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
    "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
@@ -17381,7 +17482,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 23:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664240/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
    "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
@@ -18279,7 +18381,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 20:11"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -18332,39 +18435,6 @@
    "prio": false,
    "tijd": "20-11 23:48"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html": {
-   "titel": "FC Dordrecht dichtbij vroege openingstreffer: De Bie raakt de paal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:10:04+00:00",
-   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:10"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662404/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
-   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662404/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:07:20+00:00",
-   "eerst_gezien": "2026-11-20T19:20:24.048628+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108665342/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108665342/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
@@ -18381,55 +18451,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 23:31"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook": {
-   "titel": "Klaslokaal van basisschool in Deurne uitgebrand, school vol rook",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-van-basisschool-in-deurne-uitgebrand-school-vol-rook",
-   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond een grote brand uitgebroken. Het lokaal is volledig is uitgebrand. Het vuur ontstond nadat twee kinderen vuurwerk hadden afgestoken. Het gaat om kinderen onder de 12 jaar, zegt een politiewoordvoerder. De …",
-   "datum": "2026-11-20T19:10:00+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:10"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662333/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html": {
-   "titel": "Een half uur voordat de koper komt, is foodtruck van Adriana in Woensel ineens verdwenen: `Is die al weg'`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662333/een-half-uur-voordat-de-koper-komt-is-foodtruck-van-adriana-in-woensel-ineens-verdwenen-is-die-al-weg.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:01:04+00:00",
-   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662332/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html": {
-   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662332/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken.html",
-   "tekst": "",
-   "datum": "2026-11-20T19:01:04+00:00",
-   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
    "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
@@ -18462,64 +18483,12 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-vol-rook": {
-   "titel": "Grote brand in klaslokaal van basisschool in Deurne, school vol rook",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-vol-rook",
-   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond brand uitgebroken. De school aan de Margrietstraat staat vol rook. De brandweer kreeg rond half acht melding van de brand en is met meerdere eenheden aanwezig. Het vuur zorgt voor een flinke rookontwikkeling …",
-   "datum": "2026-11-20T19:10:00+00:00",
-   "eerst_gezien": "2026-11-20T19:52:25.102784+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:10"
-  },
-  "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/": {
-   "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
-   "link": "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/",
-   "tekst": "Molenaar Mari van Dijk is er klaar voor. Het hekwerk van de wieken van Holten’s Molen in Deurne is al verwijderd. Maandag (als het weer meezit) zijn de roeden aan de beurt, de twee lange stalen balken die het wiekenkruis vormen.",
-   "datum": "2026-11-20T19:00:08+00:00",
-   "eerst_gezien": "2026-11-20T19:04:15.029523+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:00"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-onder-rook": {
-   "titel": "Grote brand in klaslokaal van basisschool in Deurne, school onder rook",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035633/grote-brand-in-klaslokaal-van-basisschool-in-deurne-school-onder-rook",
-   "tekst": "In een klaslokaal van basisschool De Zeilberg in Deurne is vrijdagavond brand uitgebroken. De school aan de Margrietstraat staat vol rook. De brandweer kreeg rond half acht melding van de brand en is met meerdere eenheden aanwezig. Het vuur zorgt voor een flinke rookontwikkeling …",
-   "datum": "2026-11-20T19:10:00+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 20:10"
   }
  },
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 32,
    "fout": ""
   },
   "Peelbelang": {
@@ -18634,7 +18603,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 16,
    "fout": ""
   },
   "112Brabant": {
@@ -19486,19 +19455,7 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4996": {
-   "gem": [
-    "Helmond"
-   ],
-   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
-   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19514,10 +19471,6 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4191": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4998": {
    "gem": [],
    "datum": "2026-08-26"
@@ -19526,7 +19479,19 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
+  "ECLI:NL:RVS:2026:5006": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5010": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5014": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
   }
