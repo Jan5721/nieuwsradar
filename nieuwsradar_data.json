@@ -1,6 +1,24 @@
 {
- "bijgewerkt": "27-11-2026 09:38",
+ "bijgewerkt": "27-11-2026 09:54",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64942/film-en-quiz-over-geweld-tegen-vrouwen-in-het-cultuurcentrum": {
+   "titel": "Film en quiz over geweld tegen vrouwen in het Cultuurcentrum",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64942/film-en-quiz-over-geweld-tegen-vrouwen-in-het-cultuurcentrum",
+   "tekst": "DEURNE - Soroptimistclub Helmond-Peelland houdt zaterdag 28 november een filmmiddag in het Cultuurcentrum in Deurne. De bijeenkomst staat in het teken van Orange the World, de wereldwijde campagne tegen geweld tegen vrouwen.",
+   "datum": "2026-11-27T09:39:00+01:00",
+   "eerst_gezien": "2026-11-27T08:53:53.622350+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Helmond",
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 09:39"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm": {
    "titel": "Historie van Helenaveen krijgt eigen plek in De Gouden Helm",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm",
@@ -974,6 +992,23 @@
    "prio": false,
    "tijd": "26-11 12:12"
   },
+  "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/": {
+   "titel": "De Wieger in Deurne stapt vanaf 1 januari over op pinbetalingen",
+   "link": "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/",
+   "tekst": "Museum De Wieger in Deurne stapt over op betalen met pin. Vrijdag 1 januari verandert de manier van betalen aan de balie, in de museumshop en in het museumcafé.",
+   "datum": "2026-11-27T08:40:31+00:00",
+   "eerst_gezien": "2026-11-27T08:53:53.622350+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 09:40"
+  },
   "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Deurne doen vaker mee dan in de meeste gemeenten",
    "link": "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/",
@@ -1024,23 +1059,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:30"
-  },
-  "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/": {
-   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: ‘Hier word je echt niet gelukkiger van’",
-   "link": "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/",
-   "tekst": "Het gebeurde jaren geleden al eens en nu opnieuw doet rechter Jaap Hoekstra van de Raad van State een dringend beroep op twee ruziemakende buren uit Helmond om de vredespijp te roken. Maar het conflict zit diep.",
-   "datum": "2026-11-25T19:00:00+00:00",
-   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 20:00"
   },
   "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Asten doen vaker mee dan in de meeste gemeenten",
@@ -1670,7 +1688,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 09:37"
@@ -1687,7 +1705,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 09:37"
@@ -1895,40 +1913,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 13:05"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne": {
-   "titel": "Vergunning verleend voor het kappen van een boom aan de Energiestraat in Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035535/vergunning-verleend-voor-het-kappen-van-een-boom-aan-de-energiestraat-in-deurne",
-   "tekst": "20 november 2026 De gemeente Deurne heeft op 18 november 2026 een vergunning verleend voor het kappen van een boom aan de Energiestraat, op perceel E 3610.",
-   "datum": "2026-11-20T08:52:45.581364+00:00",
-   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:52"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035534/vergunning-verleend-voor-bedrijfsverzamelgebouw-in-liessel": {
-   "titel": "Vergunning verleend voor bedrijfsverzamelgebouw in Liessel",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035534/vergunning-verleend-voor-bedrijfsverzamelgebouw-in-liessel",
-   "tekst": "20 november 2026 De gemeente Deurne heeft een vergunning verleend voor de bouw van een bedrijfsverzamelgebouw aan de Snoertsebaan 15a in Liessel. Het besluit is op 18 november 2026 genomen.",
-   "datum": "2026-11-20T08:52:45.581364+00:00",
-   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:52"
   },
   "https://www.omroepbrabant.nl/nieuws/6035354/vergunning-voor-nieuwe-kozijnen-in-zijgevel-in-deurne": {
    "titel": "Vergunning voor nieuwe kozijnen in zijgevel in Deurne",
@@ -2272,24 +2256,6 @@
    "prio": false,
    "tijd": "23-11 16:54"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne": {
-   "titel": "Vispassage gepland in Asten en Deurne",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne",
-   "tekst": "13 november 2026 De gemeenten Asten en Deurne hebben een vergunning verleend voor het aanleggen van een vispassage. Het gaat om percelen die kadastraal bekend zijn in beide plaatsen.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Asten",
-   "gemeenten": [
-    "Deurne",
-    "Asten"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
   "https://www.omroepbrabant.nl/nieuws/6036299/vergunning-voor-verbouwing-hemelaar-24-in-lierop-verleend": {
    "titel": "Vergunning voor verbouwing Hemelaar 24 in Lierop verleend",
    "link": "https://www.omroepbrabant.nl/nieuws/6036299/vergunning-voor-verbouwing-hemelaar-24-in-lierop-verleend",
@@ -2392,40 +2358,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:38"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035546/nieuwe-laadplekken-voor-elektrische-autos-in-someren-en-lierop": {
-   "titel": "Nieuwe laadplekken voor elektrische auto's in Someren en Lierop",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035546/nieuwe-laadplekken-voor-elektrische-autos-in-someren-en-lierop",
-   "tekst": "20 november 2026 De gemeente Someren heeft elf locaties aangewezen voor parkeerplaatsen met laadpalen voor elektrische voertuigen. Het gaat om plekken in Someren en Lierop, waaronder Opper, Loovebaan en Gildeplein.",
-   "datum": "2026-11-20T08:52:45.581364+00:00",
-   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:52"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035545/individuele-gehandicaptenparkeerplaats-aangewezen-aan-hunze-in-someren": {
-   "titel": "Individuele gehandicaptenparkeerplaats aangewezen aan Hunze in Someren",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035545/individuele-gehandicaptenparkeerplaats-aangewezen-aan-hunze-in-someren",
-   "tekst": "20 november 2026 De gemeente Someren heeft besloten een individuele gehandicaptenparkeerplaats aan te leggen aan de Hunze 4. De parkeerplaats wordt gereserveerd voor een bewoner met een beperking.",
-   "datum": "2026-11-20T08:52:45.581364+00:00",
-   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:52"
   },
   "https://www.omroepbrabant.nl/nieuws/6035486/jeugdprinsenbal-cv-de-plattevonder-zondag-in-de-einder": {
    "titel": "Jeugdprinsenbal CV De Plattevonder zondag in De Einder",
@@ -3527,7 +3459,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3561,7 +3493,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3663,7 +3595,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3799,7 +3731,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3816,7 +3748,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -3986,7 +3918,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -4071,7 +4003,7 @@
    ],
    "soort": "bekendmaking",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -4932,6 +4864,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126094747a2helmondrit141480": {
+   "titel": "A2 Helmond Rit: 141480",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126094747a2helmondrit141480",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T09:47:47+01:00",
+   "eerst_gezien": "2026-11-27T08:53:53.622350+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 09:47"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454": {
    "titel": "A2 Asten Rit: 141454",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454",
@@ -5339,6 +5288,41 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 13:53"
+  },
+  "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/": {
+   "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: ‘Hier word je echt niet gelukkiger van’",
+   "link": "https://www.ed.nl/helmond/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van~a77ab34c8/",
+   "tekst": "Het gebeurde jaren geleden al eens en nu opnieuw doet rechter Jaap Hoekstra van de Raad van State een dringend beroep op twee ruziemakende buren uit Helmond om de vredespijp te roken. Maar het conflict zit diep.",
+   "datum": "2026-11-25T19:00:00+00:00",
+   "eerst_gezien": "2026-11-25T19:23:38.948333+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 20:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne": {
+   "titel": "Vispassage gepland in Asten en Deurne",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034653/vispassage-gepland-in-asten-en-deurne",
+   "tekst": "13 november 2026 De gemeenten Asten en Deurne hebben een vergunning verleend voor het aanleggen van een vispassage. Het gaat om percelen die kadastraal bekend zijn in beide plaatsen.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Deurne",
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108724479/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-helmond-als-soort-eerbetoon.html": {
    "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over Helmond als soort eerbetoon",
@@ -6163,23 +6147,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 13:15"
-  },
-  "https://www.helmondnu.nl/kunst-en-cultuur/kunst-en-cultuur/20541/bezoek-gratis-het-jan-visser-museum-tijdens-de-themadag-vlis-": {
-   "titel": "Bezoek gratis het Jan Visser Museum tijdens de themadag ‘Vlis van vruuger’",
-   "link": "https://www.helmondnu.nl/kunst-en-cultuur/kunst-en-cultuur/20541/bezoek-gratis-het-jan-visser-museum-tijdens-de-themadag-vlis-",
-   "tekst": "HELMOND Op zondag 22 november 2026 vindt er een historische slachtdag plaats in het Jan Visser Museum, met als thema 'vlis van vruuger'. Traditioneel werd vroeger in de maand november het huisvarken geslacht nadat het eerst zorgvuldig was vetgemest. Dan ging de slager aan het …",
-   "datum": "2026-11-20T08:38:00+00:00",
-   "eerst_gezien": "2026-11-26T21:08:17.549243+00:00",
-   "bron": "De Loop (HelmondNu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:38"
   },
   "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-280-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
    "titel": "Eerste schooldag in Someren komt dichtbij voor 280 getroffen kinderen uit Deurne: ‘Iedereen staat voor elkaar klaar’",
@@ -18321,23 +18288,6 @@
    "prio": false,
    "tijd": "20-11 09:55"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html": {
-   "titel": "Achtervolging tussen twee auto´s eindigt met aanrijding fietser in Eindhoven, ernstig ongeluk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108657302/achtervolging-tussen-twee-autos-eindigt-met-aanrijding-fietser-in-eindhoven-ernstig-ongeluk.html",
-   "tekst": "",
-   "datum": "2026-11-20T08:49:07+00:00",
-   "eerst_gezien": "2026-11-20T08:52:45.581364+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 09:49"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
    "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
    "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
@@ -18392,7 +18342,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 35,
    "fout": ""
   },
   "Peelbelang": {
@@ -18437,17 +18387,17 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 22,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 15,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -18512,7 +18462,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 24,
+   "aantal": 25,
    "fout": ""
   },
   "112Brabant": {
