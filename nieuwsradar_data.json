@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 22:50",
+ "bijgewerkt": "27-11-2026 23:11",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -1178,6 +1178,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:54"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
+   "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht",
+   "tekst": "20 november 2026 Helmond Sport heeft vrijdagavond FC Dordrecht met 5-1 verslagen in het MySteel Stadion. De ploeg uit Helmond leidde bij rust al met 3-0 dankzij treffers van Bajrami, Van der Velde en Essakkati. In de tweede helft maakten …",
+   "datum": "2026-11-27T22:06:01.458381+00:00",
+   "eerst_gezien": "2026-11-27T22:06:01.458381+00:00",
+   "bron": "Omroep Brabant lokaal Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 23:06"
   },
   "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw": {
    "titel": "Nieuw-Brandevoort pilotlocatie voor netbewuste nieuwbouw",
@@ -4875,23 +4892,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
-  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126215550a1deurnerit141798": {
    "titel": "A1 Deurne Rit: 141798",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126215550a1deurnerit141798",
@@ -5231,6 +5231,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 08:20"
+  },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126042043a2deurnerit141427": {
    "titel": "A2 Deurne Rit: 141427",
@@ -18389,7 +18406,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18469,7 +18486,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 20,
    "fout": ""
   },
   "112Brabant": {
@@ -19701,14 +19718,6 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4066": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4994": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:4067": {
    "gem": [],
    "datum": "2026-07-15"
@@ -19717,27 +19726,7 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4099": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4996": {
-   "gem": [
-    "Helmond"
-   ],
-   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
-   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4076": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4081": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19753,11 +19742,15 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4998": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4225": {
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19765,13 +19758,105 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5013": {
+  "ECLI:NL:RVS:2026:5023": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5014": {
+  "ECLI:NL:RVS:2026:5025": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5324": {
+   "gem": [],
+   "datum": "2026-09-09"
+  },
+  "ECLI:NL:RVS:2026:5919": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:6813": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6815": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6793": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6628": {
+   "gem": [],
+   "datum": "2026-11-12"
+  },
+  "ECLI:NL:RVS:2026:6569": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6195": {
+   "gem": [],
+   "datum": "2026-10-23"
+  },
+  "ECLI:NL:RVS:2026:4286": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:6417": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:5927": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:3273": {
+   "gem": [],
+   "datum": "2026-06-10"
+  },
+  "ECLI:NL:RVS:2026:6251": {
+   "gem": [],
+   "datum": "2026-10-22"
+  },
+  "ECLI:NL:RVS:2026:6188": {
+   "gem": [],
+   "datum": "2026-10-22"
+  },
+  "ECLI:NL:RVS:2026:6338": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6312": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6313": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6314": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6342": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6196": {
+   "gem": [],
+   "datum": "2026-10-21"
+  },
+  "ECLI:NL:RVS:2026:3308": {
+   "gem": [],
+   "datum": "2026-06-11"
+  },
+  "ECLI:NL:RVS:2026:3321": {
+   "gem": [],
+   "datum": "2026-06-12"
+  },
+  "ECLI:NL:RVS:2026:3387": {
+   "gem": [],
+   "datum": "2026-06-12"
   }
  }
 }
