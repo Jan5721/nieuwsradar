@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 11:14",
+ "bijgewerkt": "27-11-2026 11:30",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64942/film-en-quiz-over-geweld-tegen-vrouwen-in-het-cultuurcentrum": {
    "titel": "Film en quiz over geweld tegen vrouwen in het Cultuurcentrum",
@@ -595,7 +595,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 11:00"
@@ -803,23 +803,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 12:19"
-  },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64800/kaartverkoop-vrienden-van-asten-live-van-start": {
-   "titel": "Kaartverkoop Vrienden van Asten Live van start",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64800/kaartverkoop-vrienden-van-asten-live-van-start",
-   "tekst": "ASTEN - De eerste editie in 2024 beviel méér dan goed. Daarom trekt Harmonie St. Cecilia volgend jaar opnieuw het muzikale evenement Vrienden van Asten Live uit de kast. Lezers die daarbij willen zijn, kunnen vanaf nu hun slag slaan.",
-   "datum": "2026-11-20T11:25:00+01:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:25"
   },
   "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
    "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
@@ -2592,7 +2575,7 @@
    ],
    "soort": "gemeente",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
@@ -4161,6 +4144,40 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729667/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html": {
+   "titel": "`Een piep en toen was het stil`; inloophuis voor plotsdoven en laatdoven brengt lotgenoten bijeen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729667/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:19:03+00:00",
+   "eerst_gezien": "2026-11-27T10:30:03.451808+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 11:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729665/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html": {
+   "titel": "Automobilist (27) veroorzaakte zwaar ongeval op de weg langs het kanaal bij Veghel door roekeloos rijgedrag",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729665/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:19:03+00:00",
+   "eerst_gezien": "2026-11-27T10:30:03.451808+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 11:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108729579/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html": {
    "titel": "Duitse verdachte dacht cannabis te vervoeren, maar bleek met 2 kilo cocaïne op pad te zijn",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108729579/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html",
@@ -4173,7 +4190,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 11:13"
@@ -4190,7 +4207,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 11:13"
@@ -4207,10 +4224,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 11:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html": {
    "titel": "Automobilist (27) veroorzaakte zwaar ongeval op de weg langs het kanaal bij Veghel door roekeloos rijgedrag",
@@ -4224,10 +4240,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 11:13"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108729411/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html": {
    "titel": "Duitse verdachte dacht cannabis te vervoeren, maar bleek met 2 kilo cocaïne op pad te zijn",
@@ -4241,7 +4256,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4257,7 +4272,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4273,7 +4288,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 10:59"
@@ -4290,7 +4305,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4459,39 +4474,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 08:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108728161/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html": {
-   "titel": "Gemeente Eindhoven mag op de oude voet doorgaan volgens de Autoriteit Persoonsgegevens",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728161/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html",
-   "tekst": "",
-   "datum": "2026-11-27T07:01:05+00:00",
-   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 08:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108728159/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html": {
-   "titel": "Mega-thermoskan vangt hitte van brouwproces op bij Bavaria",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728159/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html",
-   "tekst": "",
-   "datum": "2026-11-27T07:01:04+00:00",
-   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -5354,6 +5336,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 15:07"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728161/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html": {
+   "titel": "Gemeente Eindhoven mag op de oude voet doorgaan volgens de Autoriteit Persoonsgegevens",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728161/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:01:05+00:00",
+   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 08:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728159/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html": {
+   "titel": "Mega-thermoskan vangt hitte van brouwproces op bij Bavaria",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728159/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:01:04+00:00",
+   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143659a2helmondrit141190": {
    "titel": "A2 Helmond Rit: 141190",
@@ -8950,23 +8965,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "25-11 12:14"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126112403a2helmondrit140662": {
-   "titel": "A2 Helmond Rit: 140662",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126112403a2helmondrit140662",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T11:24:03+01:00",
-   "eerst_gezien": "2026-11-25T10:26:11.835579+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 11:24"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
@@ -17506,23 +17504,6 @@
    "prio": false,
    "tijd": "20-11 23:48"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html": {
-   "titel": "Weer aanhoudingen vanwege vervalste inkoopfacturen met katalysatoren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658138/weer-aanhoudingen-vanwege-vervalste-inkoopfacturen-met-katalysatoren.html",
-   "tekst": "De FIOD heeft op donderdag 19 november 2026 meerdere aanhoudingen en doorzoekingen verricht in drie strafrechtelijke onderzoeken. Drie...",
-   "datum": "2026-11-20T10:27:01+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:27"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html": {
    "titel": "FC Dordrecht dichtbij vroege openingstreffer: De Bie raakt de paal",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108662423/fc-dordrecht-dichtbij-vroege-openingstreffer-de-bie-raakt-de-paal.html",
@@ -18244,40 +18225,6 @@
    "prio": false,
    "tijd": "20-11 14:55"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html": {
-   "titel": "Lege stallen weer vol zetten met varkens, een probleem of niet'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658065/lege-stallen-weer-vol-zetten-met-varkens-een-probleem-of-niet.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:19:03+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html": {
-   "titel": "Dood hout kreeg een tweede leven als Mariabeeld in Ommel, maar kenners vrezen een kort kunstgeluk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658064/dood-hout-kreeg-een-tweede-leven-als-mariabeeld-in-ommel-maar-kenners-vrezen-een-kort-kunstgeluk.html",
-   "tekst": "",
-   "datum": "2026-11-20T10:19:03+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:19"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108659648/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html": {
    "titel": "Het regende vier dagen lang `gigantisch veel`, maar dit weekend wordt droog en mogelijk zonnig",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108659648/het-regende-vier-dagen-lang-gigantisch-veel-maar-dit-weekend-wordt-droog-en-mogelijk-zonnig.html",
@@ -18294,23 +18241,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 14:07"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak": {
-   "titel": "Zelfs doden verkochten katalysatoren volgens facturen in fraudezaak",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-katalysatoren-volgens-facturen-in-fraudezaak",
-   "tekst": "Drie mannen uit Helmond zijn donderdag opgepakt voor mogelijke fraude met de handel in auto-onderdelen. Volgens de FIOD gebruikten de verdachten vermoedelijk valse facturen. Op sommige daarvan stonden zelfs namen van mensen die al overleden waren. Bij invallen in onder meer …",
-   "datum": "2026-11-20T10:16:48+00:00",
-   "eerst_gezien": "2026-11-20T10:29:29.214594+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 11:16"
   }
  },
  "bronnen": {
@@ -18321,7 +18251,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18436,7 +18366,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 25,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
