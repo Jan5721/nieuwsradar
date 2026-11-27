@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 08:49",
+ "bijgewerkt": "27-11-2026 09:05",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm": {
    "titel": "Historie van Helenaveen krijgt eigen plek in De Gouden Helm",
@@ -581,6 +581,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 11:12"
+  },
+  "https://www.peelbelangonline.nl/nieuws/algemeen/64941/vrolijke-pietenjacht-door-het-centrum-van-asten": {
+   "titel": "Vrolijke Pietenjacht door het centrum van Asten",
+   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64941/vrolijke-pietenjacht-door-het-centrum-van-asten",
+   "tekst": "ASTEN - Om wie anders dan Sinterklaas draait het komend weekend in Asten. De koopzondag in het centrum staat namelijk volledig in het teken van de aanwezigheid van de goedheiligman. De jeugd bijvoorbeeld kan deelnemen aan een vrolijke Pietenjacht. 'Een mooie gelegenheid om …",
+   "datum": "2026-11-27T08:59:00+01:00",
+   "eerst_gezien": "2026-11-27T08:05:22.584380+00:00",
+   "bron": "Peelbelang",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 08:59"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64936/jaarlijkse-decemberactie-in-asten-gaat-weer-van-start": {
    "titel": "Jaarlijkse decemberactie in Asten gaat weer van start",
@@ -1362,7 +1379,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 08:49"
@@ -3901,7 +3918,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 08:43"
@@ -3918,7 +3935,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 08:31"
@@ -3935,7 +3952,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -3951,7 +3968,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -8676,23 +8693,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126085546p1bob02brwegvervoerautohoornstraathelmond223231": {
-   "titel": "P 1 BOB-02 BR wegvervoer (Auto) Hoornstraat Helmond 223231",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126085546p1bob02brwegvervoerautohoornstraathelmond223231",
-   "tekst": "Centrum monitorcode Brandweer Helmond BrabantZuidOost",
-   "datum": "2026-11-25T08:55:46+01:00",
-   "eerst_gezien": "2026-11-25T08:01:53.522167+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 brandweer",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "25-11 08:55"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108716267/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
    "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
@@ -18108,7 +18108,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
