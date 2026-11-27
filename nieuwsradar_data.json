@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "27-11-2026 07:29",
+ "bijgewerkt": "27-11-2026 07:45",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm": {
+   "titel": "Historie van Helenaveen krijgt eigen plek in De Gouden Helm",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm",
+   "tekst": "HELENAVEEN - De geschiedenis van Helenaveen heeft sinds zondag een eigen plek in dorpscentrum De Gouden Helm. Onder grote belangstelling werd Het Helenaveen van Toen-huis geopend. In de voormalige winkel De Peelbascule kunnen inwoners en oud-inwoners voortaan terecht met oude …",
+   "datum": "2026-11-27T07:41:02+01:00",
+   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 07:41"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping",
@@ -786,6 +803,23 @@
    "prio": false,
    "tijd": "20-11 08:06"
   },
+  "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
+   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
+   "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
+   "tekst": "De voorpret bij het Helmondse Kasteel van Sinterklaas begint al op het voorplein, waar bezoekers voor en na hun visite worden opgevangen. Buiten vliegen de pieten en pepernoten om de oren, maar in de Smulwinkel komen pa en ma tot rust, totdat ze zoonlief kwijt zijn.",
+   "datum": "2026-11-27T06:30:43+00:00",
+   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 07:30"
+  },
   "https://www.ed.nl/deurne/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar~a408ed2f/": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
    "link": "https://www.ed.nl/deurne/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar~a408ed2f/",
@@ -940,23 +974,6 @@
    "prio": false,
    "tijd": "26-11 12:12"
   },
-  "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/": {
-   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
-   "link": "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/",
-   "tekst": "Museum Klok & Peel in Asten houdt een kindermiddag over wat dieren eten in de winter. Woensdag 9 december is de middag ‘Elke smaak een eigen kaak’ van 14.00 tot 16.00 uur in het museum.",
-   "datum": "2026-11-26T06:29:00+00:00",
-   "eerst_gezien": "2026-11-26T06:38:52.057552+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 07:29"
-  },
   "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Deurne doen vaker mee dan in de meeste gemeenten",
    "link": "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/",
@@ -973,6 +990,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 17:30"
+  },
+  "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/": {
+   "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
+   "link": "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/",
+   "tekst": "Museum Klok & Peel in Asten houdt een kindermiddag over wat dieren eten in de winter. Woensdag 9 december is de middag ‘Elke smaak een eigen kaak’ van 14.00 tot 16.00 uur in het museum.",
+   "datum": "2026-11-26T06:29:00+00:00",
+   "eerst_gezien": "2026-11-26T06:38:52.057552+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 07:29"
   },
   "https://www.ed.nl/someren/veel-zorgen-over-doorstart-van-leeg-varkensbedrijf-in-lierop-lezers-noemen-stikstof-stank-en-dierenwelzijn~a23a8980/": {
    "titel": "Veel zorgen over doorstart van leeg varkensbedrijf in Lierop: lezers noemen stikstof, stank en dierenwelzijn",
@@ -3855,6 +3889,22 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728085/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html": {
+   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: `De spanning op die gezichten, onbeschrijfelijk`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728085/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html",
+   "tekst": "",
+   "datum": "2026-11-27T06:41:09+00:00",
+   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108727958/autoriteit-persoonsgegevens-laat-eindhoven-doorgaan-met-delen-van-privacygevoelige-informatie-over-gezinnen.html": {
    "titel": "Autoriteit Persoonsgegevens laat Eindhoven doorgaan met delen van privacygevoelige informatie over gezinnen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108727958/autoriteit-persoonsgegevens-laat-eindhoven-doorgaan-met-delen-van-privacygevoelige-informatie-over-gezinnen.html",
@@ -3867,7 +3917,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 07:19"
@@ -4065,23 +4115,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722918/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html": {
-   "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: `Iedereen staat voor elkaar klaar`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722918/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html",
-   "tekst": "",
-   "datum": "2026-11-26T19:49:07+00:00",
-   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -4474,6 +4507,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 18:53"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722918/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html": {
+   "titel": "Eerste schooldag in Someren komt dichtbij voor getroffen jeugd uit Zeilberg: `Iedereen staat voor elkaar klaar`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722918/eerste-schooldag-in-someren-komt-dichtbij-voor-getroffen-jeugd-uit-zeilberg-iedereen-staat-voor-elkaar-klaar.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:49:07+00:00",
+   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108720613/zorgboerderij-onder-ons-in-someren-houdt-voor-eerste-keer-eigen-kerstmarkt-kijken-of-zoiets-leeft.html": {
    "titel": "Zorgboerderij Onder Ons in Someren houdt voor eerste keer eigen kerstmarkt: ´Kijken of zoiets leeft´",
@@ -8561,23 +8611,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561": {
-   "titel": "A2 Helmond Rit: 140561",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126073746a2helmondrit140561",
-   "tekst": "Ambulance 22-104 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T07:37:46+01:00",
-   "eerst_gezien": "2026-11-25T06:41:38.719048+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 07:37"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711659/niet-mijn-probleem-of-medestander-eindhoven-laat-mannen-kleur-bekennen-in-strijd-tegen-geweld-tegen-vrouwen.html": {
    "titel": "`Niet mijn probleem` of medestander' Eindhoven laat mannen kleur bekennen in strijd tegen geweld tegen vrouwen",
@@ -17918,55 +17951,6 @@
    "prio": false,
    "tijd": "20-11 11:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
-   "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656505/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:43:12+00:00",
-   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 07:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656445/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
-   "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656445/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:31:03+00:00",
-   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656444/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html": {
-   "titel": "Met twee lichtbundels de lucht in begint de bouw van Sierlijke Dames",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656444/met-twee-lichtbundels-de-lucht-in-begint-de-bouw-van-sierlijke-dames.html",
-   "tekst": "",
-   "datum": "2026-11-20T06:31:03+00:00",
-   "eerst_gezien": "2026-11-20T06:44:21.184728+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html": {
    "titel": "Kinderbox op te halen in Deurne, oude grammofoonspeler in Veldhoven",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108657958/kinderbox-op-te-halen-in-deurne-oude-grammofoonspeler-in-veldhoven.html",
@@ -17987,7 +17971,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "Peelbelang": {
@@ -18007,7 +17991,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 4,
    "fout": ""
   },
   "ED Asten": {
@@ -18102,12 +18086,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 4,
+   "aantal": 5,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
