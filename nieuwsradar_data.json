@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 12:34",
+ "bijgewerkt": "27-11-2026 12:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64946/kanexo-leden-vallen-in-de-prijzen-op-internationale-vogelshows": {
    "titel": "KANEXO-leden vallen in de prijzen op internationale vogelshows",
@@ -4127,6 +4127,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730626/omwonenden-willen-dat-hoogste-rechter-op-de-pauzeknop-drukt-bij-plannen-snelle-buslijn-eindhoven.html": {
+   "titel": "Omwonenden willen dat hoogste rechter op de pauzeknop drukt bij plannen snelle buslijn Eindhoven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730626/omwonenden-willen-dat-hoogste-rechter-op-de-pauzeknop-drukt-bij-plannen-snelle-buslijn-eindhoven.html",
+   "tekst": "",
+   "datum": "2026-11-27T11:49:07+00:00",
+   "eerst_gezien": "2026-11-27T11:50:01.989046+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html": {
    "titel": "Eindhovenaar krijgt vier jaar cel voor cocaïne-export via Bladels bedrijf",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108730366/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html",
@@ -4139,7 +4156,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:19"
@@ -4156,7 +4173,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:19"
@@ -4423,40 +4440,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729331/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html": {
-   "titel": "Modelvliegtuigjes op te halen in Nuenen, Yvonne heeft hangertje gevonden",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729331/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html",
-   "tekst": "",
-   "datum": "2026-11-27T09:49:08+00:00",
-   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 10:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729328/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html": {
-   "titel": "Woenselse Poort opent nieuwe afdeling voor vastgelopen tbs`ers, maar alleen als er genoeg personeel is",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729328/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html",
-   "tekst": "",
-   "datum": "2026-11-27T09:49:07+00:00",
-   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 10:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -4896,6 +4879,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126124243a2deurnerit141563": {
+   "titel": "A2 Deurne Rit: 141563",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126124243a2deurnerit141563",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T12:42:43+01:00",
+   "eerst_gezien": "2026-11-27T11:50:01.989046+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 12:42"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126115828a2deurnerit141540": {
    "titel": "A2 Deurne Rit: 141540",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126115828a2deurnerit141540",
@@ -5269,6 +5269,40 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 16:03"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729331/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html": {
+   "titel": "Modelvliegtuigjes op te halen in Nuenen, Yvonne heeft hangertje gevonden",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729331/modelvliegtuigjes-op-te-halen-in-nuenen-yvonne-heeft-hangertje-gevonden.html",
+   "tekst": "",
+   "datum": "2026-11-27T09:49:08+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729328/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html": {
+   "titel": "Woenselse Poort opent nieuwe afdeling voor vastgelopen tbs`ers, maar alleen als er genoeg personeel is",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729328/woenselse-poort-opent-nieuwe-afdeling-voor-vastgelopen-tbsers-maar-alleen-als-er-genoeg-personeel-is.html",
+   "tekst": "",
+   "datum": "2026-11-27T09:49:07+00:00",
+   "eerst_gezien": "2026-11-27T09:58:06.664254+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 10:49"
   },
   "https://www.ed.nl/helmond/maak-een-teru-teru-bozu-bij-bibliotheek-helmond-op-manga-maandag~a154160f/": {
    "titel": "Maak een Teru Teru Bozu bij Bibliotheek Helmond op 'Manga Maandag'",
@@ -9097,23 +9131,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 18:53"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126123434a2lieroprit140704": {
-   "titel": "A2 Lierop Rit: 140704",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126123434a2lieroprit140704",
-   "tekst": "MKA Brabant-Zuidoost (Rapid Responder 22-340)",
-   "datum": "2026-11-25T12:34:34+01:00",
-   "eerst_gezien": "2026-11-25T11:46:06.178722+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 12:34"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
@@ -18257,40 +18274,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658962/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html": {
-   "titel": "NVWA haalt 200 runderen weg bij Brabantse boer: dieren konden zich verwonden in stal",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658962/nvwa-haalt-200-runderen-weg-bij-brabantse-boer-dieren-konden-zich-verwonden-in-stal.html",
-   "tekst": "",
-   "datum": "2026-11-20T11:43:13+00:00",
-   "eerst_gezien": "2026-11-20T11:49:49.099734+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 12:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108658904/live-kelderkraker-op-de-braak-helmond-sport-ontvangt-fc-dordrecht.html": {
-   "titel": "LIVE | Kelderkraker op De Braak: Helmond Sport ontvangt FC Dordrecht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108658904/live-kelderkraker-op-de-braak-helmond-sport-ontvangt-fc-dordrecht.html",
-   "tekst": "",
-   "datum": "2026-11-20T11:36:06+00:00",
-   "eerst_gezien": "2026-11-20T11:49:49.099734+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 12:36"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html": {
    "titel": "In Eindhoven eet je binnenkort een broodje kebab bij bekende Duitse oud-topvoetballer",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108660627/in-eindhoven-eet-je-binnenkort-een-broodje-kebab-bij-bekende-duitse-oud-topvoetballer.html",
@@ -18446,7 +18429,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 19,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18466,7 +18449,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 22,
+   "aantal": 23,
    "fout": ""
   },
   "112Brabant": {
