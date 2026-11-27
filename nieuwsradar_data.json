@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 07:45",
+ "bijgewerkt": "27-11-2026 08:01",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm": {
    "titel": "Historie van Helenaveen krijgt eigen plek in De Gouden Helm",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 07:41"
@@ -815,7 +815,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 07:30"
@@ -859,7 +859,7 @@
    "titel": "Contact met Nederlanders is lastig voor internationals: dus oefenen ze met veel lol bij Kletscafé in Brandevoort",
    "link": "https://www.ed.nl/helmond/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort~a2612d7a2/",
    "tekst": "„Wat zeg je? Wat zeg je?” Volgens Mary uit Mexico is dit hoe Nederlanders reageren, wanneer ze Nederlands probeert te praten. De Argentijnse Maria moet er hard om lachen tijdens het Kletscafé in Brandevoort. Ze herkent het helemaal. Het initiatief ‘Praat Nederlands Day’, wil …",
-   "datum": "2026-11-26T17:45:25+00:00",
+   "datum": "2026-11-26T17:45:00+00:00",
    "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
@@ -3889,12 +3889,29 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108728085/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html": {
-   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: `De spanning op die gezichten, onbeschrijfelijk`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728085/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108728115/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html": {
+   "titel": "Gemeente Eindhoven mag op de oude voet doorgaan volgens de Autoriteit Persoonsgegevens",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728115/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html",
    "tekst": "",
-   "datum": "2026-11-27T06:41:09+00:00",
-   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
+   "datum": "2026-11-27T06:49:07+00:00",
+   "eerst_gezien": "2026-11-27T07:01:28.974313+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 07:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728113/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html": {
+   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: `De spanning op die gezichten, onbeschrijfelijk`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728113/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html",
+   "tekst": "",
+   "datum": "2026-11-27T06:49:05+00:00",
+   "eerst_gezien": "2026-11-27T07:01:28.974313+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4079,39 +4096,6 @@
    "tekst": "",
    "datum": "2026-11-26T20:11:19+00:00",
    "eerst_gezien": "2026-11-26T20:19:53.317132+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722983/eindhovenaar-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-120-uur-taakstraf-en-rijverbod.html": {
-   "titel": "Eindhovenaar reed door rood en veroorzaakte zwaar ongeluk; 120 uur taakstraf en rijverbod",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722983/eindhovenaar-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-120-uur-taakstraf-en-rijverbod.html",
-   "tekst": "",
-   "datum": "2026-11-26T20:01:05+00:00",
-   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 21:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108722963/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html": {
-   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722963/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html",
-   "tekst": "",
-   "datum": "2026-11-26T19:58:07+00:00",
-   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -5034,6 +5018,55 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 12:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728085/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html": {
+   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: `De spanning op die gezichten, onbeschrijfelijk`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728085/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html",
+   "tekst": "",
+   "datum": "2026-11-27T06:41:09+00:00",
+   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722983/eindhovenaar-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-120-uur-taakstraf-en-rijverbod.html": {
+   "titel": "Eindhovenaar reed door rood en veroorzaakte zwaar ongeluk; 120 uur taakstraf en rijverbod",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722983/eindhovenaar-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-120-uur-taakstraf-en-rijverbod.html",
+   "tekst": "",
+   "datum": "2026-11-26T20:01:05+00:00",
+   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108722963/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108722963/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html",
+   "tekst": "",
+   "datum": "2026-11-26T19:58:07+00:00",
+   "eerst_gezien": "2026-11-26T20:03:53.932193+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126120612a1helmondrit141122": {
    "titel": "A1 Helmond Rit: 141122",
@@ -18071,7 +18104,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 14,
+   "aantal": 13,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18091,7 +18124,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 26,
    "fout": ""
   },
   "112Brabant": {
