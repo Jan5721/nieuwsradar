@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 08:01",
+ "bijgewerkt": "27-11-2026 08:33",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64939/historie-van-helenaveen-krijgt-eigen-plek-in-de-gouden-helm": {
    "titel": "Historie van Helenaveen krijgt eigen plek in De Gouden Helm",
@@ -786,23 +786,6 @@
    "prio": false,
    "tijd": "20-11 11:25"
   },
-  "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad": {
-   "titel": "College opteert definitief voor nieuw zwembad",
-   "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64798/college-opteert-definitief-voor-nieuw-zwembad",
-   "tekst": "ASTEN - Niet renoveren, maar een compleet nieuw zwembad. Dat is de inzet van het college van B en W. Asten zou daarmee weer vijftig jaar vooruit moeten kunnen.",
-   "datum": "2026-11-20T08:06:00+01:00",
-   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
-   "bron": "Peelbelang",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 08:06"
-  },
   "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
    "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
    "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
@@ -1319,7 +1302,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag": {
    "titel": "Zieke kapster heeft eigen bedrijf en geeft sportles, baas wil ontslag",
    "link": "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag",
-   "tekst": "vrijdag Een kapster meldt zich ziek, maar staat ondertussen sportlessen te geven in een sportschool. Haar bazen vertrouwen het niet, gaan zelf kijken en filmen de vrouw. Ook blijkt ze een eigen bedrijfje te hebben en zich op Instagram als …",
+   "tekst": "20 november 2026 Een kapster meldt zich ziek, maar staat ondertussen sportlessen te geven in een sportschool. Haar bazen vertrouwen het niet, gaan zelf kijken en filmen de vrouw. Ook blijkt ze een eigen bedrijfje te hebben en zich op …",
    "datum": "2026-11-20T16:07:17.746385+00:00",
    "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
    "bron": "Omroep Brabant lokaal Helmond",
@@ -1366,23 +1349,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 10:41"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar": {
-   "titel": "Over dit fietspad werd ruim dertig jaar gesteggeld: 'Eindelijk klaar'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035465/over-dit-fietspad-werd-ruim-dertig-jaar-gesteggeld-eindelijk-klaar",
-   "tekst": "20 november 2026 Toenmalig wethouder Jan van der Zanden uit Helmond begon er in 1994 al over. Een snelfietspad tussen Helmond en Eindhoven, helemaal overdekt zelfs. Na tientallen jaren praten en steggelen, is het (niet overdekte) fietspad …",
-   "datum": "2026-11-20T07:16:17.232955+00:00",
-   "eerst_gezien": "2026-11-20T07:16:17.232955+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 08:16"
   },
   "https://www.omroepbrabant.nl/nieuws/6035472/twee-gewonden-bij-botsing-in-helmond": {
    "titel": "Twee gewonden bij botsing in Helmond",
@@ -2034,10 +2000,27 @@
    "prio": false,
    "tijd": "23-11 16:54"
   },
+  "https://www.omroepbrabant.nl/nieuws/6036426/stroomstoring-in-asten-herstel-verwacht-rond-kwart-over-twaalf": {
+   "titel": "Stroomstoring in Asten: herstel verwacht rond kwart over twaalf",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036426/stroomstoring-in-asten-herstel-verwacht-rond-kwart-over-twaalf",
+   "tekst": "",
+   "datum": "2026-11-27T07:33:26.467266+00:00",
+   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
+   "bron": "Omroep Brabant lokaal Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 08:33"
+  },
   "https://www.omroepbrabant.nl/nieuws/6036331/waterstoring-rond-de-logtenstraat-in-asten": {
    "titel": "Waterstoring rond de Logtenstraat in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6036331/waterstoring-rond-de-logtenstraat-in-asten",
-   "tekst": "",
+   "tekst": "De waterstoring door een lekkage in en rond de Logtenstraat in Asten is opgelost. Bewoners hadden sinds vanochtend last van geen water, lage waterdruk of bruin water.",
    "datum": "2026-11-26T11:44:45.238753+00:00",
    "eerst_gezien": "2026-11-26T11:44:45.238753+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2071,7 +2054,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035977/gezinnen-met-laag-inkomen-mogen-gratis-naar-museum-klok-peel-in-asten": {
    "titel": "Gezinnen met laag inkomen mogen gratis naar Museum Klok & Peel in Asten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035977/gezinnen-met-laag-inkomen-mogen-gratis-naar-museum-klok-peel-in-asten",
-   "tekst": "Gezinnen met een laag inkomen kunnen tussen 21 december en 3 januari gratis Museum Klok & Peel in Asten bezoeken. Deze actie is mogelijk dankzij samenwerking tussen Stichting Leergeld en het museum, met steun van de gemeenten Asten en …",
+   "tekst": "dinsdag Gezinnen met een laag inkomen kunnen tussen 21 december en 3 januari gratis Museum Klok & Peel in Asten bezoeken. Deze actie is mogelijk dankzij samenwerking tussen Stichting Leergeld en het museum, met steun van de gemeenten Asten …",
    "datum": "2026-11-24T14:51:25.135845+00:00",
    "eerst_gezien": "2026-11-24T14:51:25.135845+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -3889,6 +3872,56 @@
    "prio": false,
    "tijd": "23-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728255/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html": {
+   "titel": "Mega-thermoskan vangt hitte van brouwproces op bij Bavaria",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728255/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:13:24+00:00",
+   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 08:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728161/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html": {
+   "titel": "Gemeente Eindhoven mag op de oude voet doorgaan volgens de Autoriteit Persoonsgegevens",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728161/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:01:05+00:00",
+   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 08:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108728159/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html": {
+   "titel": "Mega-thermoskan vangt hitte van brouwproces op bij Bavaria",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108728159/mega-thermoskan-vangt-hitte-van-brouwproces-op-bij-bavaria.html",
+   "tekst": "",
+   "datum": "2026-11-27T07:01:04+00:00",
+   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108728115/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html": {
    "titel": "Gemeente Eindhoven mag op de oude voet doorgaan volgens de Autoriteit Persoonsgegevens",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108728115/gemeente-eindhoven-mag-op-de-oude-voet-doorgaan-volgens-de-autoriteit-persoonsgegevens.html",
@@ -3901,10 +3934,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 07:49"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108728113/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html": {
    "titel": "De magie van het voorplein van het Sintkasteel in Helmond: `De spanning op die gezichten, onbeschrijfelijk`",
@@ -3918,7 +3950,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4072,39 +4104,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 21:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html": {
-   "titel": "Man (37) uit Eindhoven reed door rood en veroorzaakte zwaar ongeluk: taakstraf en rijverbod",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html",
-   "tekst": "",
-   "datum": "2026-11-26T20:13:25+00:00",
-   "eerst_gezien": "2026-11-26T20:19:53.317132+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 21:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723066/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html": {
-   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723066/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html",
-   "tekst": "",
-   "datum": "2026-11-26T20:11:19+00:00",
-   "eerst_gezien": "2026-11-26T20:19:53.317132+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
@@ -4577,6 +4576,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454": {
+   "titel": "A2 Asten Rit: 141454",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T08:20:11+01:00",
+   "eerst_gezien": "2026-11-27T07:33:26.467266+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 08:20"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126042043a2deurnerit141427": {
    "titel": "A2 Deurne Rit: 141427",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126042043a2deurnerit141427",
@@ -5018,6 +5034,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 12:46"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html": {
+   "titel": "Man (37) uit Eindhoven reed door rood en veroorzaakte zwaar ongeluk: taakstraf en rijverbod",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html",
+   "tekst": "",
+   "datum": "2026-11-26T20:13:25+00:00",
+   "eerst_gezien": "2026-11-26T20:19:53.317132+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 21:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723066/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html": {
+   "titel": "Kippenvel na overlijden Henk van Dijk (1946-2026): straaljagers vliegen over als een soort eerbetoon",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723066/kippenvel-na-overlijden-henk-van-dijk-1946-2026-straaljagers-vliegen-over-als-een-soort-eerbetoon.html",
+   "tekst": "",
+   "datum": "2026-11-26T20:11:19+00:00",
+   "eerst_gezien": "2026-11-26T20:19:53.317132+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108728085/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk.html": {
    "titel": "De magie van het voorplein van het Sintkasteel in Helmond: `De spanning op die gezichten, onbeschrijfelijk`",
@@ -8561,40 +8610,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "25-11 08:55"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126082415a2helmondrit140576": {
-   "titel": "A2 Helmond Rit: 140576",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126082415a2helmondrit140576",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T08:24:15+01:00",
-   "eerst_gezien": "2026-11-25T07:29:45.613652+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 08:24"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126082021a2helmondrit140573": {
-   "titel": "A2 Helmond Rit: 140573",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126082021a2helmondrit140573",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T08:20:21+01:00",
-   "eerst_gezien": "2026-11-25T07:29:45.613652+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 08:20"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108716267/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
    "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
@@ -16581,7 +16596,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "20-11 23:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108664282/fc-dordrecht-zakt-na-afgang-in-helmond-naar-bodem-van-de-ranglijst.html": {
    "titel": "FC Dordrecht zakt na afgang in Helmond naar bodem van de ranglijst",
@@ -18009,7 +18025,7 @@
   },
   "Peelbelang": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 12,
    "fout": ""
   },
   "De Loop (HelmondNu)": {
@@ -18044,7 +18060,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18054,7 +18070,7 @@
   },
   "Omroep Brabant lokaal Asten": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 13,
    "fout": ""
   },
   "Omroep Brabant lokaal Someren": {
@@ -18104,7 +18120,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -18124,7 +18140,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 26,
+   "aantal": 27,
    "fout": ""
   },
   "112Brabant": {
