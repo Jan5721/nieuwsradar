@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 21:22",
+ "bijgewerkt": "27-11-2026 21:45",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -783,7 +783,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 20:00"
@@ -4154,7 +4154,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 21:13"
@@ -4171,7 +4171,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4187,7 +4187,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4203,7 +4203,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4892,6 +4892,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126212238a2liesselrit141792": {
+   "titel": "A2 Liessel Rit: 141792",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126212238a2liesselrit141792",
+   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T21:22:38+01:00",
+   "eerst_gezien": "2026-11-27T20:38:25.244572+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 21:22"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126210441a2astenrit141780": {
    "titel": "A2 Asten Rit: 141780",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126210441a2astenrit141780",
@@ -4904,7 +4921,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 21:04"
@@ -4921,7 +4938,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 21:02"
@@ -4938,7 +4955,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 20:48"
@@ -4955,7 +4972,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 20:36"
@@ -4972,7 +4989,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 20:18"
@@ -18365,23 +18382,6 @@
    "prio": false,
    "tijd": "20-11 21:40"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662896/live-weinig-opwinding-in-tweede-helft-helmond-sport-nog-altijd-op-riante-voorsprong-tegen-dordrecht.html": {
-   "titel": "LIVE | Weinig opwinding in tweede helft: Helmond Sport nog altijd op riante voorsprong tegen Dordrecht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662896/live-weinig-opwinding-in-tweede-helft-helmond-sport-nog-altijd-op-riante-voorsprong-tegen-dordrecht.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:36:07+00:00",
-   "eerst_gezien": "2026-11-20T20:40:30.755197+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:36"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1": {
    "titel": "Drie generaties profvoetbal, alle drie eigenwijs: 'Robine met stip op 1'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1",
@@ -18398,22 +18398,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 06:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662798/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
-   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662798/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:21:29+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108666619/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
    "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
@@ -18465,38 +18449,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "20-11 23:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
-   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662839/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:29:05+00:00",
-   "eerst_gezien": "2026-11-20T20:40:30.755197+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108662799/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html": {
-   "titel": "Geheime documenten over centrumplan Someren openbaar gemaakt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108662799/geheime-documenten-over-centrumplan-someren-openbaar-gemaakt.html",
-   "tekst": "",
-   "datum": "2026-11-20T20:22:07+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -18617,7 +18569,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
@@ -19269,13 +19221,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19657,17 +19609,185 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
+  "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:5021": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5023": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:6902": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6866": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
+  "ECLI:NL:RVS:2026:6972": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:6946": {
+   "gem": [],
+   "datum": "2026-11-25"
+  },
+  "ECLI:NL:RVS:2026:4569": {
+   "gem": [],
+   "datum": "2026-08-05"
+  },
+  "ECLI:NL:RVS:2026:6829": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6828": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6804": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6450": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6239": {
+   "gem": [],
+   "datum": "2026-10-12"
+  },
+  "ECLI:NL:RVS:2026:5931": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:6276": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6293": {
+   "gem": [],
+   "datum": "2026-10-29"
+  },
+  "ECLI:NL:RVS:2026:6299": {
+   "gem": [],
+   "datum": "2026-10-29"
+  },
+  "ECLI:NL:RVS:2026:6383": {
+   "gem": [],
+   "datum": "2026-11-02"
+  },
+  "ECLI:NL:RVS:2026:6364": {
+   "gem": [],
+   "datum": "2026-10-30"
+  },
+  "ECLI:NL:RVS:2026:6288": {
+   "gem": [],
+   "datum": "2026-10-29"
+  },
+  "ECLI:NL:RVS:2026:6407": {
+   "gem": [],
+   "datum": "2026-10-30"
+  },
+  "ECLI:NL:RVS:2026:6394": {
+   "gem": [],
+   "datum": "2026-11-02"
+  },
+  "ECLI:NL:RVS:2026:6500": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6495": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6300": {
+   "gem": [],
+   "datum": "2026-10-30"
+  },
+  "ECLI:NL:RVS:2026:6499": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6242": {
+   "gem": [],
+   "datum": "2026-10-29"
+  },
+  "ECLI:NL:RVS:2026:6506": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6481": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6497": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6496": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6307": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6498": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:5893": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5896": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5900": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:1919": {
+   "gem": [],
+   "datum": "2026-04-08"
+  },
+  "ECLI:NL:RVS:2026:5515": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:4601": {
+   "gem": [],
+   "datum": "2026-08-05"
+  },
+  "ECLI:NL:RVS:2025:3592": {
+   "gem": [],
+   "datum": "2025-07-30"
+  },
+  "ECLI:NL:RVS:2017:1674": {
+   "gem": [],
+   "datum": "2017-06-30"
+  },
+  "ECLI:NL:RVS:2026:4266": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:3302": {
+   "gem": [],
+   "datum": "2026-06-09"
   }
  }
 }
