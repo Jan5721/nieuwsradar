@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 06:41",
+ "bijgewerkt": "27-11-2026 06:57",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -1814,7 +1814,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis": {
    "titel": "Drie auto's botsen op elkaar in Deurne, één gewonde naar ziekenhuis",
    "link": "https://www.omroepbrabant.nl/nieuws/6035599/drie-autos-botsen-op-elkaar-in-deurne-een-gewonde-naar-ziekenhuis",
-   "tekst": "VIDEO vrijdag Bij een kop-staartbotsing op de Helmondsingel in Deurne zijn vrijdagmiddag drie auto's op elkaar gebotst. Eén persoon is met een ambulance naar het ziekenhuis gebracht.",
+   "tekst": "VIDEO 20 november 2026 Bij een kop-staartbotsing op de Helmondsingel in Deurne zijn vrijdagmiddag drie auto's op elkaar gebotst. Eén persoon is met een ambulance naar het ziekenhuis gebracht.",
    "datum": "2026-11-20T12:05:53.839896+00:00",
    "eerst_gezien": "2026-11-20T12:05:53.839896+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -8644,23 +8644,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:53"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126064206a1helmondrit140549": {
-   "titel": "A1 Helmond Rit: 140549",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126064206a1helmondrit140549",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T06:42:06+01:00",
-   "eerst_gezien": "2026-11-25T05:53:33.253906+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "25-11 06:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711407/meer-dan-250-vrouwen-in-het-parktheater-met-een-missie-meer-topvrouwen-in-brainport.html": {
    "titel": "Meer dan 250 vrouwen in het Parktheater, met één missie: meer topvrouwen in Brainport",
@@ -18080,40 +18063,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656223/hoogleraar-felienne-hermans-baalt-van-it-sector-ga-van-sociale-media-af-echt.html": {
-   "titel": "Hoogleraar Felienne Hermans baalt van IT-sector: `Ga van sociale media af. Echt!`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656223/hoogleraar-felienne-hermans-baalt-van-it-sector-ga-van-sociale-media-af-echt.html",
-   "tekst": "",
-   "datum": "2026-11-20T05:49:07+00:00",
-   "eerst_gezien": "2026-11-20T05:56:06.456605+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 06:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108656213/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html": {
-   "titel": "ASML is al een halfjaar de beursfavoriet van Nederlandse huishoudens",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108656213/asml-is-al-een-halfjaar-de-beursfavoriet-van-nederlandse-huishoudens.html",
-   "tekst": "",
-   "datum": "2026-11-20T05:43:14+00:00",
-   "eerst_gezien": "2026-11-20T05:56:06.456605+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 06:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108656400/duitse-rockband-kadavar-treedt-op-in-de-cacaofabriek-in-helmond.html": {
    "titel": "Duitse rockband Kadavar treedt op in De Cacaofabriek in Helmond",
