@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 04:34",
+ "bijgewerkt": "27-11-2026 04:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64938/de-plankeniers-nemen-publiek-mee-naar-de-camping": {
    "titel": "De Plankeniers nemen publiek mee naar de camping",
@@ -4571,7 +4571,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 04:20"
