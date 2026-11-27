@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 17:02",
+ "bijgewerkt": "27-11-2026 17:26",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64949/jawel-tiswa-": {
    "titel": "Jawel, tiswà…",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 16:37"
@@ -566,23 +566,6 @@
    "prio": false,
    "tijd": "20-11 18:45"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne": {
-   "titel": "Fietser gewond bij botsing met auto op de Maassingel in Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64813/fietser-gewond-bij-botsing-met-auto-op-de-maassingel-in-deurne",
-   "tekst": "DEURNE - Een fietser is vrijdagmiddag gewond geraakt bij een aanrijding met een auto op de Maassingel in Deurne. Het ongeval gebeurde rond 16.35 uur.",
-   "datum": "2026-11-20T17:00:00+01:00",
-   "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 17:00"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64944/carnavalsbeleving-in-klotland-op-het-witte-doek-allemaal-eige": {
    "titel": "Carnavalsbeleving in Klotland op het witte doek: ‘Allemaal eigen verhaal’",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64944/carnavalsbeleving-in-klotland-op-het-witte-doek-allemaal-eige",
@@ -787,6 +770,23 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
+  "https://www.ed.nl/voetbal/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten~a8b6ec90/": {
+   "titel": "Arsenal zet trainster Renée Slegers uit Someren-Eind op straat na tegenvallende resultaten",
+   "link": "https://www.ed.nl/voetbal/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten~a8b6ec90/",
+   "tekst": "Arsenal heeft de Nederlandse hoofdtrainster Renée Slegers ontslagen. Ze wordt verantwoordelijk gehouden voor een slechte start van het seizoen. De club staat zesde in de nationale competitie en verloor vorige week van Olympique Lyon in de Champions League.",
+   "datum": "2026-11-27T15:46:00+00:00",
+   "eerst_gezien": "2026-11-27T16:18:13.848939+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 16:46"
+  },
   "https://www.ed.nl/helmond/kerstactiviteiten-voor-kinderen-bij-bibliotheek-helmond~aa1614161/": {
    "titel": "Kerstactiviteiten voor kinderen bij bibliotheek Helmond",
    "link": "https://www.ed.nl/helmond/kerstactiviteiten-voor-kinderen-bij-bibliotheek-helmond~aa1614161/",
@@ -799,7 +799,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 16:34"
@@ -941,23 +941,6 @@
    "prio": false,
    "tijd": "26-11 20:00"
   },
-  "https://www.ed.nl/helmond/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort~a2612d7a2/": {
-   "titel": "Contact met Nederlanders is lastig voor internationals, dus oefenen ze met veel lol bij Kletscafé in Brandevoort",
-   "link": "https://www.ed.nl/helmond/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort~a2612d7a2/",
-   "tekst": "„Wat zeg je? Wat zeg je?” Volgens Mary uit Mexico reageren Nederlanders zo als ze Nederlands probeert te praten. De Argentijnse Maria moet er hard om lachen tijdens het Kletscafé in Brandevoort, in Helmond. Ze herkent het helemaal. Met het initiatief Praat Nederlands Day worden …",
-   "datum": "2026-11-26T17:45:00+00:00",
-   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 18:45"
-  },
   "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/": {
    "titel": "De Wieger in Deurne stapt vanaf 1 januari over op pinbetalingen",
    "link": "https://www.ed.nl/deurne/de-wieger-in-deurne-stapt-vanaf-1-januari-over-op-pinbetalingen~a1fe9697/",
@@ -974,6 +957,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 09:40"
+  },
+  "https://www.ed.nl/helmond/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort~a2612d7a2/": {
+   "titel": "Contact met Nederlanders is lastig voor internationals, dus oefenen ze met veel lol bij Kletscafé in Brandevoort",
+   "link": "https://www.ed.nl/helmond/contact-met-nederlanders-is-lastig-voor-internationals-dus-oefenen-ze-met-veel-lol-bij-kletscafe-in-brandevoort~a2612d7a2/",
+   "tekst": "„Wat zeg je? Wat zeg je?” Volgens Mary uit Mexico reageren Nederlanders zo als ze Nederlands probeert te praten. De Argentijnse Maria moet er hard om lachen tijdens het Kletscafé in Brandevoort, in Helmond. Ze herkent het helemaal. Met het initiatief Praat Nederlands Day worden …",
+   "datum": "2026-11-26T17:45:00+00:00",
+   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 18:45"
   },
   "https://www.ed.nl/deurne/borstkankeronderzoek-vrouwen-uit-deurne-doen-vaker-mee-dan-in-de-meeste-gemeenten~a2417652/": {
    "titel": "Borstkankeronderzoek: vrouwen uit Deurne doen vaker mee dan in de meeste gemeenten",
@@ -1026,23 +1026,6 @@
    "prio": false,
    "tijd": "27-11 12:15"
   },
-  "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/": {
-   "titel": "Borstkankeronderzoek: vrouwen uit Asten doen vaker mee dan in de meeste gemeenten",
-   "link": "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/",
-   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Asten gaat het om ruim 2900 vrouwen. Tussen 2023 en 2025 deed 72 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut voor …",
-   "datum": "2026-11-26T16:30:00+00:00",
-   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
-   "bron": "ED Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 17:30"
-  },
   "https://www.ed.nl/someren/politiehondenvereniging-de-trouwe-rakkers-in-lierop-viert-50-jarig-bestaan~ace72473/": {
    "titel": "Politiehondenvereniging De Trouwe Rakkers in Lierop viert 50-jarig bestaan",
    "link": "https://www.ed.nl/someren/politiehondenvereniging-de-trouwe-rakkers-in-lierop-viert-50-jarig-bestaan~ace72473/",
@@ -1080,7 +1063,7 @@
   "https://www.omroepbrabant.nl/nieuws/6036540/renee-slegers-ontslagen-als-hoofdtrainster-van-voetbalsters-arsenal": {
    "titel": "Renée Slegers ontslagen als hoofdtrainster van voetbalsters Arsenal",
    "link": "https://www.omroepbrabant.nl/nieuws/6036540/renee-slegers-ontslagen-als-hoofdtrainster-van-voetbalsters-arsenal",
-   "tekst": "Arsenal heeft de hoofdtrainster Renée Slegers ontslagen. De 36-jarige coach uit Someren-Eind wordt verantwoordelijk gehouden voor een slechte start van het seizoen. De club staat zesde in de nationale competitie en verloor vorige week van Olympique Lyon in de Champions League. …",
+   "tekst": "Arsenal heeft hoofdtrainster Renée Slegers ontslagen. De 36-jarige coach uit Someren-Eind wordt verantwoordelijk gehouden voor een slechte start van het seizoen. De club staat zesde in de nationale competitie en verloor vorige week van Olympique Lyon in de Champions League. …",
    "datum": "2026-11-27T15:36:26+00:00",
    "eerst_gezien": "2026-11-27T15:54:43.024376+00:00",
    "bron": "Omroep Brabant",
@@ -1089,7 +1072,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 16:36"
@@ -1280,23 +1263,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 09:22"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag": {
-   "titel": "Zieke kapster heeft eigen bedrijf en geeft sportles, baas wil ontslag",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035605/zieke-kapster-heeft-eigen-bedrijf-en-geeft-sportles-baas-wil-ontslag",
-   "tekst": "20 november 2026 Een kapster meldt zich ziek, maar staat ondertussen sportlessen te geven in een sportschool. Haar bazen vertrouwen het niet, gaan zelf kijken en filmen de vrouw. Ook blijkt ze een eigen bedrijfje te hebben en zich op …",
-   "datum": "2026-11-20T16:07:17.746385+00:00",
-   "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 17:07"
   },
   "https://www.omroepbrabant.nl/nieuws/6035583/zelfs-doden-verkochten-auto-onderdelen-volgens-facturen-in-deze-fraudezaak": {
    "titel": "Zelfs doden verkochten auto-onderdelen volgens facturen in deze fraudezaak",
@@ -2560,74 +2526,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
-   "datum": "2026-11-26T08:35:50+00:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 09:35"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
-   "titel": "Pitchavond subsidie Street Culture en Sports",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
-   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
-   "datum": "2026-11-20T20:59:45+00:00",
-   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:59"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
-   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
-   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
-   "datum": "2026-11-20T20:16:27+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 21:16"
   },
   "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start": {
    "titel": "‘Ons dorp in de schijnwerpers’ feestelijk van start in Vlierden",
@@ -4222,7 +4120,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 16:49"
@@ -4239,7 +4137,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4871,6 +4769,22 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108732955/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html": {
+   "titel": "Arsenal zet trainster Renée Slegers uit Someren-Eind op straat na tegenvallende resultaten",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108732955/arsenal-zet-trainster-renee-slegers-uit-someren-eind-op-straat-na-tegenvallende-resultaten.html",
+   "tekst": "",
+   "datum": "2026-11-27T16:11:19+00:00",
+   "eerst_gezien": "2026-11-27T16:18:13.848939+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
@@ -4973,56 +4887,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://www.ed.nl/helmond/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee~ad7a27c2/": {
-   "titel": "Borstkankeronderzoek: bijna zeven op de tien vrouwen uit Helmond deden mee",
-   "link": "https://www.ed.nl/helmond/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee~ad7a27c2/",
-   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Helmond gaat het om ruim 15.000 vrouwen. Tussen 2023 en 2025 deed 67 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
-   "datum": "2026-11-26T16:30:00+00:00",
-   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
-   "bron": "ED Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126170320a2helmondrit141692": {
+   "titel": "A2 Helmond Rit: 141692",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126170320a2helmondrit141692",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T17:03:20+01:00",
+   "eerst_gezien": "2026-11-27T16:18:13.848939+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 17:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108731223/als-ziekenhuisbestuur-wegkijkt-betaalt-de-patient-de-prijs.html": {
-   "titel": "Als ziekenhuisbestuur wegkijkt, betaalt de patiënt de prijs",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731223/als-ziekenhuisbestuur-wegkijkt-betaalt-de-patient-de-prijs.html",
-   "tekst": "",
-   "datum": "2026-11-27T13:01:05+00:00",
-   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "27-11 14:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108730983/man-50-krijgt-vier-jaar-cel-voor-exporteren-100-kilo-cocaine-via-bladels-bedrijf.html": {
-   "titel": "Man (50) krijgt vier jaar cel voor exporteren 100 kilo cocaïne via Bladels bedrijf",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730983/man-50-krijgt-vier-jaar-cel-voor-exporteren-100-kilo-cocaine-via-bladels-bedrijf.html",
-   "tekst": "",
-   "datum": "2026-11-27T12:31:03+00:00",
-   "eerst_gezien": "2026-11-27T12:38:26.251167+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 13:31"
+   "tijd": "27-11 17:03"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126142629a2astenrit141620": {
    "titel": "A2 Asten Rit: 141620",
@@ -5261,6 +5141,142 @@
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 22:10"
+  },
+  "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/": {
+   "titel": "Borstkankeronderzoek: vrouwen uit Asten doen vaker mee dan in de meeste gemeenten",
+   "link": "https://www.ed.nl/asten/borstkankeronderzoek-vrouwen-uit-asten-doen-vaker-mee-dan-in-de-meeste-gemeenten~a691838c/",
+   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Asten gaat het om ruim 2900 vrouwen. Tussen 2023 en 2025 deed 72 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut voor …",
+   "datum": "2026-11-26T16:30:00+00:00",
+   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
+   "bron": "ED Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:30"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports": {
+   "titel": "Pitchavond subsidie Street Culture en Sports",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/pitchavond-subsidie-street-culture-en-sports",
+   "tekst": "Op 19 november heeft de gemeente Helmond een nieuwe manier van subsidie verlenen gehad. Een zogenoemde Pitchavond, waarbij deelnemers uit de Street Culture en Sports scene hun idee 'pitchte' aan een onafhankelijke jury om zo geld, subsidie dus, te krijgen voor hun project, idee, …",
+   "datum": "2026-11-20T20:59:45+00:00",
+   "eerst_gezien": "2026-11-20T20:24:23.036818+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:59"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw": {
+   "titel": "Nieuw-Brandevoort pilot-locatie netbewuste nieuwbouw",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/nieuw-brandevoort-pilot-locatie-netbewuste-nieuwbouw",
+   "tekst": "Als onderdeel van de crisisaanpak Netcongestie Noord-Brabant wees het Rijk op 18 november 2026 Nieuw-Brandevoort aan als een van de 'pilot-locaties netbewuste nieuwbouw’. Daarmee kunnen we ondanks netcongestie door met de ontwikkeling van Nieuw-Brandevoort. Een belangrijke stap …",
+   "datum": "2026-11-20T20:16:27+00:00",
+   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "20-11 21:16"
+  },
+  "https://www.ed.nl/helmond/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee~ad7a27c2/": {
+   "titel": "Borstkankeronderzoek: bijna zeven op de tien vrouwen uit Helmond deden mee",
+   "link": "https://www.ed.nl/helmond/borstkankeronderzoek-bijna-zeven-op-de-tien-vrouwen-uit-helmond-deden-mee~ad7a27c2/",
+   "tekst": "Vrouwen van 50 tot en met 75 jaar krijgen ongeveer om de twee jaar een uitnodiging voor het borstkankeronderzoek op de mat. In Helmond gaat het om ruim 15.000 vrouwen. Tussen 2023 en 2025 deed 67 procent van de uitgenodigde vrouwen mee, blijkt uit cijfers van het Rijksinstituut …",
+   "datum": "2026-11-26T16:30:00+00:00",
+   "eerst_gezien": "2026-11-26T16:34:32.920292+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 17:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108731223/als-ziekenhuisbestuur-wegkijkt-betaalt-de-patient-de-prijs.html": {
+   "titel": "Als ziekenhuisbestuur wegkijkt, betaalt de patiënt de prijs",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108731223/als-ziekenhuisbestuur-wegkijkt-betaalt-de-patient-de-prijs.html",
+   "tekst": "",
+   "datum": "2026-11-27T13:01:05+00:00",
+   "eerst_gezien": "2026-11-27T13:10:15.949251+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 14:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108730983/man-50-krijgt-vier-jaar-cel-voor-exporteren-100-kilo-cocaine-via-bladels-bedrijf.html": {
+   "titel": "Man (50) krijgt vier jaar cel voor exporteren 100 kilo cocaïne via Bladels bedrijf",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108730983/man-50-krijgt-vier-jaar-cel-voor-exporteren-100-kilo-cocaine-via-bladels-bedrijf.html",
+   "tekst": "",
+   "datum": "2026-11-27T12:31:03+00:00",
+   "eerst_gezien": "2026-11-27T12:38:26.251167+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 13:31"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#261126214220a2helmondrit141352": {
    "titel": "A2 Helmond Rit: 141352",
@@ -18362,23 +18378,6 @@
    "prio": false,
    "tijd": "20-11 20:10"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108661147/dordrecht-hoopt-strijdvaardigheid-tegen-heracles-om-te-zetten-in-punten-bij-helmond-sport.html": {
-   "titel": "Dordrecht hoopt strijdvaardigheid tegen Heracles om te zetten in punten bij Helmond Sport",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108661147/dordrecht-hoopt-strijdvaardigheid-tegen-heracles-om-te-zetten-in-punten-bij-helmond-sport.html",
-   "tekst": "",
-   "datum": "2026-11-20T16:04:07+00:00",
-   "eerst_gezien": "2026-11-20T16:07:17.746385+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 17:04"
-  },
   "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/": {
    "titel": "De molen van Mari van Dijk is na twee jaar stilstand weer een stap dichter bij draaiende wieken",
    "link": "https://www.ed.nl/deurne/de-molen-van-mari-van-dijk-is-na-twee-jaar-stilstand-weer-een-stap-dichter-bij-draaiende-wieken~a4133c76/",
@@ -18451,7 +18450,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -18466,12 +18465,12 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 3,
    "fout": ""
   },
   "ED Asten": {
    "ok": true,
-   "aantal": 3,
+   "aantal": 2,
    "fout": ""
   },
   "ED Someren": {
@@ -18486,7 +18485,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18505,9 +18504,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 4,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -18561,12 +18560,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 6,
+   "aantal": 7,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 15,
    "fout": ""
   },
   "112Brabant": {
@@ -18761,6 +18760,66 @@
   "ECLI:NL:RVS:2026:6150": {
    "gem": [],
    "datum": "2026-10-21"
+  },
+  "ECLI:NL:RVS:2026:6875": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6881": {
+   "gem": [],
+   "datum": "2026-11-09"
+  },
+  "ECLI:NL:RVS:2026:6785": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6893": {
+   "gem": [],
+   "datum": "2026-11-23"
+  },
+  "ECLI:NL:RVS:2026:6784": {
+   "gem": [],
+   "datum": "2026-11-20"
+  },
+  "ECLI:NL:RVS:2026:6722": {
+   "gem": [],
+   "datum": "2026-11-17"
+  },
+  "ECLI:NL:RVS:2026:6469": {
+   "gem": [],
+   "datum": "2026-11-05"
+  },
+  "ECLI:NL:RVS:2026:6461": {
+   "gem": [],
+   "datum": "2026-11-05"
+  },
+  "ECLI:NL:RVS:2026:6668": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6556": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6653": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6384": {
+   "gem": [],
+   "datum": "2026-10-29"
+  },
+  "ECLI:NL:RVS:2026:6507": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6334": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6322": {
+   "gem": [],
+   "datum": "2026-10-28"
   },
   "ECLI:NL:RVS:2026:3406": {
    "gem": [],
@@ -19094,7 +19153,35 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4224": {
+   "gem": [],
+   "datum": "2026-07-14"
+  },
+  "ECLI:NL:RVS:2026:4045": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4993": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4066": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4994": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4067": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
   "ECLI:NL:RVS:2026:4098": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4099": {
    "gem": [],
    "datum": "2026-07-15"
   },
@@ -19110,7 +19197,19 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4081": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4092": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4190": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19118,75 +19217,183 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4998": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4999": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5005": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5006": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5008": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5010": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5014": {
+  "ECLI:NL:RVS:2026:5013": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5019": {
+  "ECLI:NL:RVS:2026:5021": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:6875": {
+  "ECLI:NL:RVS:2026:5022": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5025": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:6728": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6865": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6768": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6895": {
    "gem": [],
    "datum": "2026-11-23"
   },
-  "ECLI:NL:RVS:2026:6881": {
+  "ECLI:NL:RVS:2026:6758": {
    "gem": [],
-   "datum": "2026-11-09"
+   "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:6785": {
+  "ECLI:NL:RVS:2026:6860": {
    "gem": [],
-   "datum": "2026-11-20"
+   "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:6893": {
+  "ECLI:NL:RVS:2026:6952": {
    "gem": [],
-   "datum": "2026-11-23"
+   "datum": "2026-11-25"
   },
-  "ECLI:NL:RVS:2026:6784": {
-   "gem": [],
-   "datum": "2026-11-20"
-  },
-  "ECLI:NL:RVS:2026:6722": {
+  "ECLI:NL:RVS:2026:6736": {
    "gem": [],
    "datum": "2026-11-17"
   },
-  "ECLI:NL:RVS:2026:6469": {
+  "ECLI:NL:RVS:2026:6854": {
    "gem": [],
-   "datum": "2026-11-05"
+   "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:6461": {
+  "ECLI:NL:RVS:2026:6864": {
    "gem": [],
-   "datum": "2026-11-05"
+   "datum": "2026-11-19"
   },
-  "ECLI:NL:RVS:2026:6668": {
+  "ECLI:NL:RVS:2026:6343": {
+   "gem": [
+    "Deurne"
+   ],
+   "titel": "Bij besluit van 21 december 2023 heeft het college van burgemeester en wethouders van Deurne aan New-ton B.V. een omgevingsvergunning verleend voor het bouwen van 10 appartementen in een monumentaal …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:6343",
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6616": {
+   "gem": [],
+   "datum": "2026-11-12"
+  },
+  "ECLI:NL:RVS:2026:6675": {
    "gem": [],
    "datum": "2026-11-11"
   },
-  "ECLI:NL:RVS:2026:6556": {
+  "ECLI:NL:RVS:2026:6531": {
    "gem": [],
-   "datum": "2026-11-11"
+   "datum": "2026-11-06"
   },
-  "ECLI:NL:RVS:2026:6653": {
+  "ECLI:NL:RVS:2026:6419": {
    "gem": [],
-   "datum": "2026-11-11"
+   "datum": "2026-11-03"
   },
-  "ECLI:NL:RVS:2026:6384": {
+  "ECLI:NL:RVS:2026:6447": {
    "gem": [],
-   "datum": "2026-10-29"
+   "datum": "2026-11-03"
   },
-  "ECLI:NL:RVS:2026:6507": {
+  "ECLI:NL:RVS:2026:6439": {
    "gem": [],
    "datum": "2026-11-04"
   },
-  "ECLI:NL:RVS:2026:5893": {
+  "ECLI:NL:RVS:2026:6440": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6592": {
+   "gem": [],
+   "datum": "2026-11-10"
+  },
+  "ECLI:NL:RVS:2026:6642": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6413": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6547": {
+   "gem": [],
+   "datum": "2026-11-06"
+  },
+  "ECLI:NL:RVS:2026:6541": {
+   "gem": [],
+   "datum": "2026-11-09"
+  },
+  "ECLI:NL:RVS:2026:6640": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6656": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6544": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6465": {
+   "gem": [],
+   "datum": "2026-11-06"
+  },
+  "ECLI:NL:RVS:2026:6648": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6665": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:5921": {
    "gem": [],
    "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:6334": {
+  "ECLI:NL:RVS:2026:5134": {
+   "gem": [],
+   "datum": "2026-09-03"
+  },
+  "ECLI:NL:RVS:2026:6158": {
+   "gem": [],
+   "datum": "2026-10-21"
+  },
+  "ECLI:NL:RVS:2026:6341": {
    "gem": [],
    "datum": "2026-10-28"
   }
