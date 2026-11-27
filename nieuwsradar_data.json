@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "27-11-2026 22:30",
+ "bijgewerkt": "27-11-2026 22:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -1179,23 +1179,6 @@
    "prio": false,
    "tijd": "23-11 09:54"
   },
-  "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht": {
-   "titel": "Helmond Sport wint met 5-1 van FC Dordrecht",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035639/helmond-sport-wint-met-5-1-van-fc-dordrecht",
-   "tekst": "20 november 2026 Helmond Sport heeft vrijdagavond FC Dordrecht met 5-1 verslagen in het MySteel Stadion. De ploeg uit Helmond leidde bij rust al met 3-0 dankzij treffers van Bajrami, Van der Velde en Essakkati. In de tweede helft maakten …",
-   "datum": "2026-11-20T21:44:49.212861+00:00",
-   "eerst_gezien": "2026-11-20T21:44:49.212861+00:00",
-   "bron": "Omroep Brabant lokaal Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 22:44"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw": {
    "titel": "Nieuw-Brandevoort pilotlocatie voor netbewuste nieuwbouw",
    "link": "https://www.omroepbrabant.nl/nieuws/6035638/nieuw-brandevoort-pilotlocatie-voor-netbewuste-nieuwbouw",
@@ -1762,7 +1745,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten": {
    "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten",
-   "tekst": "zaterdag Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat …",
+   "tekst": "21 november 2026 Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. …",
    "datum": "2026-11-21T19:57:46.543769+00:00",
    "eerst_gezien": "2026-11-21T19:57:46.543769+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4137,7 +4120,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 22:16"
@@ -4892,6 +4875,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126215550a1deurnerit141798": {
    "titel": "A1 Deurne Rit: 141798",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126215550a1deurnerit141798",
@@ -5231,23 +5231,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 08:20"
-  },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126042043a2deurnerit141427": {
    "titel": "A2 Deurne Rit: 141427",
@@ -9423,23 +9406,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126223406a2helmondrit140921": {
-   "titel": "A2 Helmond Rit: 140921",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126223406a2helmondrit140921",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T22:34:06+01:00",
-   "eerst_gezien": "2026-11-25T21:48:35.450556+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 22:34"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108718863/nieuw-adresje-voor-hobbykoks-kookwinkel-coenen-is-geopend.html": {
    "titel": "Nieuw adresje voor hobbykoks: Kookwinkel Coenen is geopend",
@@ -17784,23 +17750,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/": {
-   "titel": "Grote brand bij basisschool, veel rook komt vrij",
-   "link": "https://112brabant.nl/2026/11/20/video/grote-brand-bij-basisschool-veel-rook-komt-vrij/",
-   "tekst": "DEURNE – Bij een basisschool in Deurne is brand uitgebroken. Meerdere brandweervoertuigen zijn aanwezig om de grote brand te bestrijden. Bij de brand komt veel rook vrij, die ook in de omgeving zichtbaar is.",
-   "datum": "2026-11-20T21:28:17+00:00",
-   "eerst_gezien": "2026-11-20T19:36:25.501430+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 22:28"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
    "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
@@ -18333,23 +18282,6 @@
    "prio": false,
    "tijd": "21-11 08:08"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108663222/heerlijke-avond-voor-helmond-sport-dat-in-kelderkraker-keihard-afrekent-met-concurrent-fc-dordrecht.html": {
-   "titel": "Heerlijke avond voor Helmond Sport, dat in kelderkraker keihard afrekent met concurrent FC Dordrecht",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108663222/heerlijke-avond-voor-helmond-sport-dat-in-kelderkraker-keihard-afrekent-met-concurrent-fc-dordrecht.html",
-   "tekst": "",
-   "datum": "2026-11-20T21:36:06+00:00",
-   "eerst_gezien": "2026-11-20T21:44:49.212861+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 22:36"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1": {
    "titel": "Drie generaties profvoetbal, alle drie eigenwijs: 'Robine met stip op 1'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035479/drie-generaties-profvoetbal-alle-drie-eigenwijs-robine-met-stip-op-1",
@@ -18457,7 +18389,7 @@
   },
   "Omroep Brabant lokaal Helmond": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 28,
    "fout": ""
   },
   "Omroep Brabant lokaal Deurne": {
@@ -18537,7 +18469,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 20,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
@@ -19437,13 +19369,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:1840": {
    "gem": [],
    "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19821,10 +19753,6 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4998": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:4225": {
    "gem": [],
    "datum": "2026-07-16"
@@ -19833,19 +19761,15 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5008": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:5010": {
    "gem": [],
    "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:5013": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5014": {
    "gem": [],
    "datum": "2026-08-26"
   }
