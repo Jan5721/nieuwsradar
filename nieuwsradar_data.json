@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "27-11-2026 13:38",
+ "bijgewerkt": "27-11-2026 13:54",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64947/platenbeurs-in-het-cultuurcentrum-in-deurne": {
+   "titel": "Platenbeurs in het Cultuurcentrum in Deurne",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64947/platenbeurs-in-het-cultuurcentrum-in-deurne",
+   "tekst": "DEURNE - Liefhebbers van vinyl en cd's kunnen zondag 29 november terecht in het Cultuurcentrum in Deurne. Daar vindt van 11.00 tot 17.00 uur een platenbeurs plaats. De toegang is gratis.",
+   "datum": "2026-11-27T13:42:00+01:00",
+   "eerst_gezien": "2026-11-27T12:54:27.188382+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 13:42"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64946/kanexo-leden-vallen-in-de-prijzen-op-internationale-vogelshows": {
    "titel": "KANEXO-leden vallen in de prijzen op internationale vogelshows",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64946/kanexo-leden-vallen-in-de-prijzen-op-internationale-vogelshows",
@@ -770,19 +787,19 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
-  "https://www.ed.nl/deurne/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg~a0c8e12c/": {
-   "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
-   "link": "https://www.ed.nl/deurne/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg~a0c8e12c/",
+  "https://www.ed.nl/deurne/eerste-schaatsers-wagen-zich-op-natuurijs-in-deurne-maar-een-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/": {
+   "titel": "Eerste schaatsers wagen zich op natuurijs in Deurne, maar een enkeling haalt nat pak: ‘Daar zijn ze er doorheen gegaan’",
+   "link": "https://www.ed.nl/deurne/eerste-schaatsers-wagen-zich-op-natuurijs-in-deurne-maar-een-enkeling-haalt-nat-pak-daar-zijn-ze-er-doorheen-gegaan~a0c8e12c/",
    "tekst": "De eerste schaatsers wagen zich vrijdag op het bevroren Buntven in Deurne. Op steeds meer plekken in Nederland kan worden geschaatst op natuurijs, en dat is ook te zien in Brabant. Schaatsers moeten echter wel opletten.",
    "datum": "2026-11-27T11:55:00+00:00",
-   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
+   "eerst_gezien": "2026-11-27T12:54:27.188382+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
+   "betaald": true,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 12:55"
@@ -2183,7 +2200,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 13:38"
@@ -4122,7 +4139,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 13:31"
@@ -4538,7 +4555,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 13:29"
@@ -4830,55 +4847,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html": {
-   "titel": "`Een piep en toen was het stil`; inloophuis voor plotsdoven en laatdoven brengt lotgenoten bijeen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html",
-   "tekst": "",
-   "datum": "2026-11-27T10:13:25+00:00",
-   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html": {
-   "titel": "Automobilist (27) veroorzaakte zwaar ongeval op de weg langs het kanaal bij Veghel door roekeloos rijgedrag",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html",
-   "tekst": "",
-   "datum": "2026-11-27T10:13:25+00:00",
-   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
-   "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html",
-   "tekst": "Je krijgt gewoon goede zin als je door de Antoniusstraat in Heusden wandelt. Dat zijn de woorden van Twan van Tilburg. Hij blikt samen...",
-   "datum": "2026-11-21T17:53:15+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126124243a2deurnerit141563": {
    "titel": "A2 Deurne Rit: 141563",
@@ -5202,6 +5170,72 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 18:30"
+  },
+  "https://www.ed.nl/deurne/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg~a0c8e12c/": {
+   "titel": "Eerste schaatsers wagen zich op het Buntven in Deurne, maar niet overal is het ijs dik genoeg",
+   "link": "https://www.ed.nl/deurne/eerste-schaatsers-wagen-zich-op-het-buntven-in-deurne-maar-niet-overal-is-het-ijs-dik-genoeg~a0c8e12c/",
+   "tekst": "De eerste schaatsers wagen zich vrijdag op het bevroren Buntven in Deurne. Op steeds meer plekken in Nederland kan worden geschaatst op natuurijs, en dat is ook te zien in Brabant. Schaatsers moeten echter wel opletten.",
+   "datum": "2026-11-27T11:55:00+00:00",
+   "eerst_gezien": "2026-11-27T12:06:17.389464+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 12:55"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html": {
+   "titel": "`Een piep en toen was het stil`; inloophuis voor plotsdoven en laatdoven brengt lotgenoten bijeen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729577/een-piep-en-toen-was-het-stil-inloophuis-voor-plotsdoven-en-laatdoven-brengt-lotgenoten-bijeen.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:13:25+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html": {
+   "titel": "Automobilist (27) veroorzaakte zwaar ongeval op de weg langs het kanaal bij Veghel door roekeloos rijgedrag",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108729575/automobilist-27-veroorzaakte-zwaar-ongeval-op-de-weg-langs-het-kanaal-bij-veghel-door-roekeloos-rijgedrag.html",
+   "tekst": "",
+   "datum": "2026-11-27T10:13:25+00:00",
+   "eerst_gezien": "2026-11-27T10:14:03.426356+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
+   "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html",
+   "tekst": "Je krijgt gewoon goede zin als je door de Antoniusstraat in Heusden wandelt. Dat zijn de woorden van Twan van Tilburg. Hij blikt samen...",
+   "datum": "2026-11-21T17:53:15+00:00",
+   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "21-11 18:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108729411/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html": {
    "titel": "Duitse verdachte dacht cannabis te vervoeren, maar bleek met 2 kilo cocaïne op pad te zijn",
@@ -8947,40 +8981,6 @@
    "prio": false,
    "tijd": "26-11 06:19"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134805a1somerenrit140737": {
-   "titel": "A1 Someren Rit: 140737",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134805a1somerenrit140737",
-   "tekst": "MKA Brabant-Zuidoost (OvD-G 801)",
-   "datum": "2026-11-25T13:48:05+01:00",
-   "eerst_gezien": "2026-11-25T12:49:59.533177+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "25-11 13:48"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134515a1somerenrit140735": {
-   "titel": "A1 Someren Rit: 140735",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134515a1somerenrit140735",
-   "tekst": "Ambulance 22-127 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T13:45:15+01:00",
-   "eerst_gezien": "2026-11-25T12:49:59.533177+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "25-11 13:45"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html": {
    "titel": "Geen huur betaald, geen vergunning, wél een chic kerstmenu: de ellende rond De Linnenhof stapelt zich op",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108718100/geen-huur-betaald-geen-vergunning-wel-een-chic-kerstmenu-de-ellende-rond-de-linnenhof-stapelt-zich-op.html",
@@ -9046,23 +9046,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134044a2somerenrit140730": {
-   "titel": "A2 Someren Rit: 140730",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#251126134044a2somerenrit140730",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-25T13:40:44+01:00",
-   "eerst_gezien": "2026-11-25T12:49:59.533177+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "25-11 13:40"
   },
   "https://www.ed.nl/helmond/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-helmond~a6594732/": {
    "titel": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Helmond",
@@ -18241,23 +18224,6 @@
    "prio": false,
    "tijd": "20-11 14:01"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108659444/brabantse-boer-verbetert-stal-niet-na-waarschuwing-200-runderen-weggehaald.html": {
-   "titel": "Brabantse boer verbetert stal niet na waarschuwing: 200 runderen weggehaald",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659444/brabantse-boer-verbetert-stal-niet-na-waarschuwing-200-runderen-weggehaald.html",
-   "tekst": "",
-   "datum": "2026-11-20T12:49:08+00:00",
-   "eerst_gezien": "2026-11-20T12:54:06.151676+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 13:49"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html": {
    "titel": "Jeugdzorg in Helmond: 10 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 50,6 miljoen euro uit",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108661388/jeugdzorg-in-helmond-10-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-506-miljoen-euro-uit.html",
@@ -18273,23 +18239,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108659402/dhl-bakwagen-leeggeroofd-tussen-rosmalen-en-veghel-politie-zoekt-daders.html": {
-   "titel": "DHL-bakwagen leeggeroofd tussen Rosmalen en Veghel, politie zoekt daders",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108659402/dhl-bakwagen-leeggeroofd-tussen-rosmalen-en-veghel-politie-zoekt-daders.html",
-   "tekst": "",
-   "datum": "2026-11-20T12:43:30+00:00",
-   "eerst_gezien": "2026-11-20T12:54:06.151676+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "20-11 13:43"
   },
   "https://www.omroepbrabant.nl/nieuws/6035605/bazen-filmen-zieke-kapster-in-sportschool-maar-mogen-haar-niet-ontslaan": {
    "titel": "Bazen filmen zieke kapster in sportschool, maar mogen haar niet ontslaan",
@@ -18379,7 +18328,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 33,
+   "aantal": 34,
    "fout": ""
   },
   "Peelbelang": {
@@ -18499,7 +18448,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 19,
    "fout": ""
   },
   "112Brabant": {
