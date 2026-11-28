@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 10:57",
+ "bijgewerkt": "28-11-2026 11:17",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -770,6 +770,41 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
+  "https://www.ed.nl/helmond/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien~ad4805fc/": {
+   "titel": "Broeder Joep (32) zorgt graag en schrijft er tweede boek over: ‘Je moet altijd de mens blijven zien’",
+   "link": "https://www.ed.nl/helmond/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien~ad4805fc/",
+   "tekst": "Broeder Joep (32) uit Helmond is een bekende tiktokker en brengt nu zijn tweede boek uit. Maar zijn grootste passie is zorgen voor ouderen met dementie. „Met andere mensen maak je die leuke momenten niet mee.”",
+   "datum": "2026-11-28T10:00:16+00:00",
+   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 11:00"
+  },
+  "https://www.ed.nl/asten/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt~a1b099dba/": {
+   "titel": "Albanees (22) vervoerde drugs vanuit België voor vier keer zijn maandsalaris; forse celstraf dreigt",
+   "link": "https://www.ed.nl/asten/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt~a1b099dba/",
+   "tekst": "Om zijn moeder en twee zusjes in Albanië een financiële buffer te geven, gaat S.L. (22) akkoord met het voorstel van een vriend om een drugstransport van België naar Nederland te doen. Hij werd bij Asten gepakt en dreigt nu jarenlang de cel in te gaan.",
+   "datum": "2026-11-28T10:00:15+00:00",
+   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Asten",
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 11:00"
+  },
   "https://www.ed.nl/helmond/24-x-een-verrassing-hier-in-helmond-koop-je-een-adventskalender~a9e949d4/": {
    "titel": "24 x een verrassing: hier in Helmond koop je een adventskalender",
    "link": "https://www.ed.nl/helmond/24-x-een-verrassing-hier-in-helmond-koop-je-een-adventskalender~a9e949d4/",
@@ -929,7 +964,7 @@
    "tekst": "Cultuurcentrum Deurne houdt samen met Ray Elpee een platenbeurs in bijC. Zondag 29 november staan in de foyer en de zaal 100 meter aan cd’s en lp’s.",
    "datum": "2026-11-27T10:56:06+00:00",
    "eerst_gezien": "2026-11-27T11:02:03.165514+00:00",
-   "bron": "ED Helmond",
+   "bron": "ED Deurne",
    "gemeenten": [
     "Deurne"
    ],
@@ -4108,6 +4143,54 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740017/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html": {
+   "titel": "Broeder Joep (32) zorgt graag en schrijft er tweede boek over: `Je moet altijd de mens blijven zien`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740017/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:11:18+00:00",
+   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739942/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt.html": {
+   "titel": "Albanees (22) vervoerde drugs vanuit België voor vier keer zijn maandsalaris; forse celstraf dreigt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739942/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:01:05+00:00",
+   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739941/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html": {
+   "titel": "Broeder Joep (32) zorgt graag en schrijft er tweede boek over: `Je moet altijd de mens blijven zien`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739941/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:01:05+00:00",
+   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108739787/met-minder-vluchten-op-eindhoven-airport-kunnen-we-meer-huizen-bouwen.html": {
    "titel": "Met minder vluchten op Eindhoven Airport kunnen we meer huizen bouwen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108739787/met-minder-vluchten-op-eindhoven-airport-kunnen-we-meer-huizen-bouwen.html",
@@ -4120,7 +4203,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 10:31"
@@ -4224,87 +4307,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 07:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108738897/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html": {
-   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: `Deze keer had hij niets te zeggen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738897/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html",
-   "tekst": "",
-   "datum": "2026-11-28T06:13:25+00:00",
-   "eerst_gezien": "2026-11-28T06:24:40.898468+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108738844/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html": {
-   "titel": "Tbs`ers in de Woenselse Poort klagen over stagnerende behandeling en verveling: `Ik zit hier niet om te gamen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738844/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html",
-   "tekst": "",
-   "datum": "2026-11-28T06:01:05+00:00",
-   "eerst_gezien": "2026-11-28T06:05:23.689428+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108738842/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html": {
-   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: `Deze keer had hij niets te zeggen`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738842/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html",
-   "tekst": "",
-   "datum": "2026-11-28T06:01:05+00:00",
-   "eerst_gezien": "2026-11-28T06:05:23.689428+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108738165/willem-ii-geeft-zege-weg-tegen-groningen-en-breekt-negatief-eredivisierecord.html": {
-   "titel": "Willem II geeft zege weg tegen Groningen en breekt negatief eredivisierecord",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738165/willem-ii-geeft-zege-weg-tegen-groningen-en-breekt-negatief-eredivisierecord.html",
-   "tekst": "Willem II heeft door een late tegentreffer naast zijn eerste zege van het seizoen gegrepen. Op bezoek bij FC Groningen werd het 1-1....",
-   "datum": "2026-11-27T23:21:09+00:00",
-   "eerst_gezien": "2026-11-27T23:27:28.229273+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "28-11 00:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108735890/bestuurder-opgevoerde-fatbike-vlucht-voor-handhaving-in-helmond.html": {
-   "titel": "Bestuurder opgevoerde fatbike vlucht voor handhaving in Helmond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108735890/bestuurder-opgevoerde-fatbike-vlucht-voor-handhaving-in-helmond.html",
-   "tekst": "Een bestuurder van een fatbike is donderdag op de vlucht geslagen voor handhavers in Helmond nadat hij een stopteken kreeg. Tijdens...",
-   "datum": "2026-11-27T22:17:05+00:00",
-   "eerst_gezien": "2026-11-27T22:27:38.361529+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html": {
    "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
@@ -4451,6 +4453,22 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 22:45"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740019/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt.html": {
+   "titel": "Albanees (22) vervoerde drugs vanuit België voor vier keer zijn maandsalaris; forse celstraf dreigt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740019/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:11:18+00:00",
+   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
+   "bron": "Drimble Asten",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108730974/video-astense-lotte-in-een-klap-beroemd-na-deelname-aan-muziekprogramma-sing-with-me.html": {
    "titel": "[VIDEO] Astense Lotte in &é&én klap beroemd na deelname aan muziekprogramma Sing With Me",
@@ -4815,39 +4833,6 @@
    "gemeenten": [
     "Deurne",
     "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108735723/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
-   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108735723/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
-   "tekst": "",
-   "datum": "2026-11-27T22:15:03+00:00",
-   "eerst_gezien": "2026-11-27T22:27:38.361529+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -5330,6 +5315,120 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 14:26"
+  },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108738897/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html": {
+   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: `Deze keer had hij niets te zeggen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738897/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html",
+   "tekst": "",
+   "datum": "2026-11-28T06:13:25+00:00",
+   "eerst_gezien": "2026-11-28T06:24:40.898468+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108738844/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html": {
+   "titel": "Tbs`ers in de Woenselse Poort klagen over stagnerende behandeling en verveling: `Ik zit hier niet om te gamen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738844/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html",
+   "tekst": "",
+   "datum": "2026-11-28T06:01:05+00:00",
+   "eerst_gezien": "2026-11-28T06:05:23.689428+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108738842/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html": {
+   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: `Deze keer had hij niets te zeggen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738842/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html",
+   "tekst": "",
+   "datum": "2026-11-28T06:01:05+00:00",
+   "eerst_gezien": "2026-11-28T06:05:23.689428+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108738165/willem-ii-geeft-zege-weg-tegen-groningen-en-breekt-negatief-eredivisierecord.html": {
+   "titel": "Willem II geeft zege weg tegen Groningen en breekt negatief eredivisierecord",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738165/willem-ii-geeft-zege-weg-tegen-groningen-en-breekt-negatief-eredivisierecord.html",
+   "tekst": "Willem II heeft door een late tegentreffer naast zijn eerste zege van het seizoen gegrepen. Op bezoek bij FC Groningen werd het 1-1....",
+   "datum": "2026-11-27T23:21:09+00:00",
+   "eerst_gezien": "2026-11-27T23:27:28.229273+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 00:21"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108735890/bestuurder-opgevoerde-fatbike-vlucht-voor-handhaving-in-helmond.html": {
+   "titel": "Bestuurder opgevoerde fatbike vlucht voor handhaving in Helmond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108735890/bestuurder-opgevoerde-fatbike-vlucht-voor-handhaving-in-helmond.html",
+   "tekst": "Een bestuurder van een fatbike is donderdag op de vlucht geslagen voor handhavers in Helmond nadat hij een stopteken kreeg. Tijdens...",
+   "datum": "2026-11-27T22:17:05+00:00",
+   "eerst_gezien": "2026-11-27T22:27:38.361529+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108735723/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html": {
+   "titel": "Doe maar twee ton minder: dit penthouse met uitzicht op het kasteel is in prijs verlaagd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108735723/doe-maar-twee-ton-minder-dit-penthouse-met-uitzicht-op-het-kasteel-is-in-prijs-verlaagd.html",
+   "tekst": "",
+   "datum": "2026-11-27T22:15:03+00:00",
+   "eerst_gezien": "2026-11-27T22:27:38.361529+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126124243a2deurnerit141563": {
    "titel": "A2 Deurne Rit: 141563",
@@ -8210,57 +8309,6 @@
    "prio": false,
    "tijd": "26-11 11:19"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126111259a2astenrit141096": {
-   "titel": "A2 Asten Rit: 141096",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126111259a2astenrit141096",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T11:12:59+01:00",
-   "eerst_gezien": "2026-11-26T10:24:33.670985+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 11:12"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110713a2astenrit141092": {
-   "titel": "A2 Asten Rit: 141092",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110713a2astenrit141092",
-   "tekst": "Ambulance 22-109 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T11:07:13+01:00",
-   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 11:07"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110104a2helmondrit141086": {
-   "titel": "A2 Helmond Rit: 141086",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126110104a2helmondrit141086",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T11:01:04+01:00",
-   "eerst_gezien": "2026-11-26T10:08:34.915464+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 11:01"
-  },
   "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht": {
    "titel": "Stroomstoring in Asten: herstel verwacht rond één uur vannacht",
    "link": "https://www.omroepbrabant.nl/nieuws/6036411/stroomstoring-in-asten-herstel-verwacht-rond-een-uur-vannacht",
@@ -8596,23 +8644,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 13:07"
-  },
-  "https://www.helmondnu.nl/politiek/politiek/20549/helmondse-mobiliteit": {
-   "titel": "Helmondse mobiliteit",
-   "link": "https://www.helmondnu.nl/politiek/politiek/20549/helmondse-mobiliteit",
-   "tekst": "Er is al veel gezegd en geschreven over de schaalsprong van Helmond. Helmond gaat de komende jaren met meer dan 10.000 woningen groeien. Dat betekent dat er zo'n 25.000 Helmonders bij komen. De Helmondse verkeersstructuur laat weinig ruimte voor zo'n groei. Als de toekomstige en …",
-   "datum": "2026-11-21T10:07:00+00:00",
-   "eerst_gezien": "2026-11-26T21:08:17.549243+00:00",
-   "bron": "De Loop (HelmondNu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 11:07"
   },
   "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-280-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
    "titel": "Eerste schooldag in Someren komt dichtbij voor 280 getroffen kinderen uit Deurne: ‘Iedereen staat voor elkaar klaar’",
@@ -17575,12 +17606,12 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 1,
    "fout": ""
   },
   "ED Asten": {
@@ -17660,7 +17691,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 10,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -17670,7 +17701,7 @@
   },
   "Drimble Asten": {
    "ok": true,
-   "aantal": 13,
+   "aantal": 14,
    "fout": ""
   },
   "Drimble Someren": {
@@ -17680,7 +17711,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 28,
    "fout": ""
   },
   "112Brabant": {
@@ -19456,13 +19487,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19784,6 +19815,10 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4993": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4066": {
    "gem": [],
    "datum": "2026-07-15"
@@ -19804,11 +19839,23 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4092": {
+  "ECLI:NL:RVS:2026:4190": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19816,11 +19863,23 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4998": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4225": {
    "gem": [],
    "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4999": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5005": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19832,27 +19891,7 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5014": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5021": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5022": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5023": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5025": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
+  "ECLI:NL:RVS:2026:5013": {
    "gem": [],
    "datum": "2026-08-26"
   }
