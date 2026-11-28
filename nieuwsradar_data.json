@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 16:37",
+ "bijgewerkt": "28-11-2026 16:55",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4121,7 +4121,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 16:19"
@@ -4138,7 +4138,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 16:19"
@@ -4874,6 +4874,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126163020a2helmondrit142089": {
    "titel": "A2 Helmond Rit: 142089",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126163020a2helmondrit142089",
@@ -4886,7 +4903,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 16:30"
@@ -4903,7 +4920,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 16:23"
@@ -4920,7 +4937,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 14:58"
@@ -4937,7 +4954,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 14:55"
@@ -4954,7 +4971,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "28-11 14:47"
@@ -4971,7 +4988,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 14:28"
@@ -5485,23 +5502,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 19:27"
-  },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108740180/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html": {
    "titel": "Lara (12) belde 112 nadat haar moeder lelijk was gevallen en voorkwam erger: nu wordt ze beloond",
@@ -17606,40 +17606,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108670570/bij-deze-zaak-in-eindhoven-prik-je-niet-zomaar-een-vorkje-dit-levendige-restaurant-pakt-uit-met-mediterraanse-verwennerij.html": {
-   "titel": "Bij deze zaak in Eindhoven prik je niet zomaar een vorkje: dit levendige restaurant pakt uit met mediterraanse verwennerij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670570/bij-deze-zaak-in-eindhoven-prik-je-niet-zomaar-een-vorkje-dit-levendige-restaurant-pakt-uit-met-mediterraanse-verwennerij.html",
-   "tekst": "",
-   "datum": "2026-11-21T15:49:07+00:00",
-   "eerst_gezien": "2026-11-21T15:57:31.593866+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 16:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108670549/bij-deze-zaak-prik-je-niet-zomaar-een-vorkje-dit-levendige-restaurant-pakt-uit-met-mediterraanse-verwennerij.html": {
-   "titel": "Bij deze zaak prik je niet zomaar een vorkje: dit levendige restaurant pakt uit met mediterraanse verwennerij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670549/bij-deze-zaak-prik-je-niet-zomaar-een-vorkje-dit-levendige-restaurant-pakt-uit-met-mediterraanse-verwennerij.html",
-   "tekst": "",
-   "datum": "2026-11-21T15:43:14+00:00",
-   "eerst_gezien": "2026-11-21T15:57:31.593866+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 16:43"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108672153/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html": {
    "titel": "Heet van de Herdgang | Poll: `Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108672153/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html",
@@ -17825,7 +17791,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 36,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
@@ -19685,13 +19651,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:1840": {
    "gem": [],
    "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -20029,10 +19995,6 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4098": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
   "ECLI:NL:RVS:2026:4099": {
    "gem": [],
    "datum": "2026-07-15"
@@ -20045,15 +20007,7 @@
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4076": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4081": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -20061,23 +20015,7 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4191": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4998": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4225": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4999": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5005": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20085,13 +20023,41 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5010": {
+  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:5013": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5014": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5015": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5018": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5021": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5023": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5026": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5497": {
+   "gem": [],
+   "datum": "2026-09-16"
   }
  }
 }
