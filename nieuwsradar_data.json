@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 01:32",
+ "bijgewerkt": "28-11-2026 01:53",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -4939,38 +4939,39 @@
    "dagen": 7,
    "prio": false
   },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126014849a2somerenrit141843": {
+   "titel": "A2 Someren Rit: 141843",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126014849a2somerenrit141843",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T01:48:49+01:00",
+   "eerst_gezien": "2026-11-28T00:48:28.540542+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Someren"
    ],
-   "soort": "Raad van State",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "18-11 01:00"
+   "tijd": "28-11 01:48"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108733795/vaatchirurg-joep-teijink-mag-zich-voortaan-ook-ridder-noemen.html": {
-   "titel": "Vaatchirurg Joep Teijink mag zich voortaan ook ridder noemen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733795/vaatchirurg-joep-teijink-mag-zich-voortaan-ook-ridder-noemen.html",
-   "tekst": "",
-   "datum": "2026-11-27T18:25:10+00:00",
-   "eerst_gezien": "2026-11-27T18:28:44.000575+00:00",
-   "bron": "Drimble Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126004710a2deurnerit141827": {
+   "titel": "A2 Deurne Rit: 141827",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126004710a2deurnerit141827",
+   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T00:47:10+01:00",
+   "eerst_gezien": "2026-11-28T00:48:28.540542+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Helmond"
+    "Deurne"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "28-11 00:47"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126215550a1deurnerit141798": {
    "titel": "A1 Deurne Rit: 141798",
@@ -5294,6 +5295,39 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 09:47"
+  },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733795/vaatchirurg-joep-teijink-mag-zich-voortaan-ook-ridder-noemen.html": {
+   "titel": "Vaatchirurg Joep Teijink mag zich voortaan ook ridder noemen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733795/vaatchirurg-joep-teijink-mag-zich-voortaan-ook-ridder-noemen.html",
+   "tekst": "",
+   "datum": "2026-11-27T18:25:10+00:00",
+   "eerst_gezien": "2026-11-27T18:28:44.000575+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126082011a2astenrit141454": {
    "titel": "A2 Asten Rit: 141454",
@@ -18066,7 +18100,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 21,
    "fout": ""
   },
   "112Brabant": {
@@ -19338,6 +19372,50 @@
    "gem": [],
    "datum": "2026-10-28"
   },
+  "ECLI:NL:RVS:2026:6688": {
+   "gem": [],
+   "datum": "2026-11-13"
+  },
+  "ECLI:NL:RVS:2026:6724": {
+   "gem": [],
+   "datum": "2026-11-16"
+  },
+  "ECLI:NL:RVS:2026:6699": {
+   "gem": [],
+   "datum": "2026-11-13"
+  },
+  "ECLI:NL:RVS:2026:6710": {
+   "gem": [],
+   "datum": "2026-11-16"
+  },
+  "ECLI:NL:RVS:2026:6542": {
+   "gem": [],
+   "datum": "2026-11-10"
+  },
+  "ECLI:NL:RVS:2026:6691": {
+   "gem": [],
+   "datum": "2026-11-16"
+  },
+  "ECLI:NL:RVS:2026:6826": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6729": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6644": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6395": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6278": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19694,6 +19772,14 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4098": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4099": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
   "ECLI:NL:RVS:2026:4996": {
    "gem": [
     "Helmond"
@@ -19701,6 +19787,22 @@
    "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4081": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4092": {
+   "gem": [],
+   "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4190": {
    "gem": [],
@@ -19710,101 +19812,37 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:4998": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
+  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5014": {
+  "ECLI:NL:RVS:2026:5018": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5023": {
+  "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5324": {
+  "ECLI:NL:RVS:2026:5022": {
    "gem": [],
-   "datum": "2026-09-09"
+   "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5925": {
+  "ECLI:NL:RVS:2026:5025": {
    "gem": [],
-   "datum": "2026-10-07"
+   "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2025:5683": {
+  "ECLI:NL:RVS:2026:5026": {
    "gem": [],
-   "datum": "2025-12-03"
-  },
-  "ECLI:NL:RVS:2026:4628": {
-   "gem": [],
-   "datum": "2026-08-12"
-  },
-  "ECLI:NL:RVS:2026:6688": {
-   "gem": [],
-   "datum": "2026-11-13"
-  },
-  "ECLI:NL:RVS:2026:6724": {
-   "gem": [],
-   "datum": "2026-11-16"
-  },
-  "ECLI:NL:RVS:2026:6699": {
-   "gem": [],
-   "datum": "2026-11-13"
-  },
-  "ECLI:NL:RVS:2026:6710": {
-   "gem": [],
-   "datum": "2026-11-16"
-  },
-  "ECLI:NL:RVS:2026:6542": {
-   "gem": [],
-   "datum": "2026-11-10"
-  },
-  "ECLI:NL:RVS:2026:6691": {
-   "gem": [],
-   "datum": "2026-11-16"
-  },
-  "ECLI:NL:RVS:2026:6826": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:6729": {
-   "gem": [],
-   "datum": "2026-11-18"
-  },
-  "ECLI:NL:RVS:2026:1942": {
-   "gem": [],
-   "datum": "2026-04-08"
-  },
-  "ECLI:NL:RVS:2026:4608": {
-   "gem": [],
-   "datum": "2026-08-05"
-  },
-  "ECLI:NL:RVS:2026:6644": {
-   "gem": [],
-   "datum": "2026-11-11"
-  },
-  "ECLI:NL:RVS:2024:3150": {
-   "gem": [],
-   "datum": "2024-08-02"
-  },
-  "ECLI:NL:RVS:2026:4304": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:6395": {
-   "gem": [],
-   "datum": "2026-11-03"
-  },
-  "ECLI:NL:RVS:2026:6278": {
-   "gem": [],
-   "datum": "2026-10-28"
+   "datum": "2026-08-26"
   }
  }
 }
