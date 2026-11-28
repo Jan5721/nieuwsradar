@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 15:21",
+ "bijgewerkt": "28-11-2026 15:41",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -765,7 +765,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 15:04"
@@ -970,7 +970,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 15:04"
@@ -1021,7 +1021,7 @@
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 15:04"
@@ -1054,8 +1054,8 @@
     "Someren"
    ],
    "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": true,
+   "betaald": false,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 15:04"
@@ -1106,7 +1106,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 15:18"
@@ -8022,23 +8022,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126153305a1helmondrit141214": {
-   "titel": "A1 Helmond Rit: 141214",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126153305a1helmondrit141214",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T15:33:05+01:00",
-   "eerst_gezien": "2026-11-26T14:41:57.844866+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "26-11 15:33"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108728898/kerstconcert-puur-sangh-heeft-lokaal-en-internationaal-karakter-staat-in-teken-van-samenzang.html": {
    "titel": "Kerstconcert Puur Sangh heeft lokaal &én internationaal karakter: ‘Staat in teken van samenzang’",
@@ -19663,13 +19646,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:1840": {
    "gem": [],
    "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -20015,7 +19998,19 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -20035,19 +20030,15 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4998": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:4225": {
    "gem": [],
    "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:5005": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5006": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20063,7 +20054,7 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5018": {
+  "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
   }
