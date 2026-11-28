@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 15:41",
+ "bijgewerkt": "28-11-2026 16:00",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -513,23 +513,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 18:45"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64810/erwin-martens-ontvangt-gouden-vos-van-scouting-nederland": {
-   "titel": "Erwin Martens ontvangt Gouden Vos van Scouting Nederland",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64810/erwin-martens-ontvangt-gouden-vos-van-scouting-nederland",
-   "tekst": "DEURNE - Erwin Martens heeft zondag 15 november de Gouden Vos ontvangen, een waarderingsteken van Scouting Nederland. Hij kreeg de onderscheiding tijdens de installatie van de jeugdleden van Scouting Deurne, op voordracht van het verenigingsbestuur.",
-   "datum": "2026-11-21T15:45:00+01:00",
-   "eerst_gezien": "2026-11-21T14:53:27.302206+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 15:45"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64945/voorstanders-asielopvang-overhandigen-petitie-gezamenlijke-ve": {
    "titel": "Voorstanders asielopvang overhandigen petitie: ‘Gezamenlijke verantwoordelijkheid voor ons allemaal’",
@@ -4160,6 +4143,22 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108741677/meer-dan-9300-corporatiehuizen-in-helmond-slecht-geisoleerd.html": {
+   "titel": "Meer dan 9300 corporatiehuizen in Helmond slecht geïsoleerd",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108741677/meer-dan-9300-corporatiehuizen-in-helmond-slecht-geisoleerd.html",
+   "tekst": "",
+   "datum": "2026-11-28T14:49:08+00:00",
+   "eerst_gezien": "2026-11-28T14:56:46.621800+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108741116/kind-zakt-door-het-ijs-in-eindhoven-naar-ziekenhuis-voor-controle.html": {
    "titel": "Kind zakt door het ijs in Eindhoven, naar ziekenhuis voor controle",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108741116/kind-zakt-door-het-ijs-in-eindhoven-naar-ziekenhuis-voor-controle.html",
@@ -4401,22 +4400,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Asten",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108740026/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html": {
-   "titel": "Broeder Joep (32) zorgt graag en schrijft er tweede boek over: `Je moet altijd de mens blijven zien`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740026/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html",
-   "tekst": "",
-   "datum": "2026-11-28T10:13:25+00:00",
-   "eerst_gezien": "2026-11-28T10:33:13.591009+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
     "Helmond"
    ],
    "soort": "verzamelsite",
@@ -4924,6 +4907,22 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740026/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html": {
+   "titel": "Broeder Joep (32) zorgt graag en schrijft er tweede boek over: `Je moet altijd de mens blijven zien`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740026/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:13:25+00:00",
+   "eerst_gezien": "2026-11-28T10:33:13.591009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/asten/ivn-asten-someren-verkent-natuur-rond-kasteel-gemert~a8b3c78e/": {
    "titel": "IVN Asten-Someren verkent natuur rond Kasteel Gemert",
@@ -17695,7 +17694,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 31,
+   "aantal": 30,
    "fout": ""
   },
   "Peelbelang": {
@@ -20038,7 +20037,19 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4999": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5005": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5006": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20057,6 +20068,46 @@
   "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5018": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5019": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5021": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5022": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5023": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5025": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5026": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5027": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5497": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5324": {
+   "gem": [],
+   "datum": "2026-09-09"
   }
  }
 }
