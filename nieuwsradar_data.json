@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 20:02",
+ "bijgewerkt": "28-11-2026 20:22",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4857,6 +4857,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126195754a2somerenrit142154": {
    "titel": "A2 Someren Rit: 142154",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126195754a2somerenrit142154",
@@ -4869,7 +4886,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 19:57"
@@ -4886,7 +4903,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 19:50"
@@ -4903,7 +4920,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 19:17"
@@ -5434,23 +5451,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 21:49"
-  },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126212238a2liesselrit141792": {
    "titel": "A2 Liessel Rit: 141792",
@@ -16113,23 +16113,6 @@
    "prio": false,
    "tijd": "23-11 13:31"
   },
-  "https://www.ed.nl/helmond/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn~a30094a4/": {
-   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
-   "link": "https://www.ed.nl/helmond/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn~a30094a4/",
-   "tekst": "Naast het Kasteel van Sinterklaas kent Helmond een Sinterklaascircus. Ook dit jaar heeft organisator en circusbaas Robert Ronday hiervoor weer een gevarieerd programma samengesteld. Maar het zou wel eens de laatste keer kunnen zijn.",
-   "datum": "2026-11-21T19:01:01+00:00",
-   "eerst_gezien": "2026-11-21T19:09:38.490538+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 20:01"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring": {
    "titel": "Nog urenlang problemen op het spoor rond Eindhoven door seinstoring",
    "link": "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
@@ -17218,7 +17201,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 23:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108673876/een-straftraining-is-alleen-maar-voor-de-buhne.html": {
    "titel": "Een straftraining is alleen maar voor de bühne",
@@ -17504,22 +17488,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 20:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671813/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html": {
-   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671813/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html",
-   "tekst": "",
-   "datum": "2026-11-21T19:04:20+00:00",
-   "eerst_gezien": "2026-11-21T19:09:38.490538+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -17640,7 +17608,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
@@ -19544,13 +19512,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19904,10 +19872,6 @@
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
@@ -19920,23 +19884,27 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:5008": {
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4998": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5010": {
+  "ECLI:NL:RVS:2026:5005": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5015": {
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5018": {
+  "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5026": {
+  "ECLI:NL:RVS:2026:5023": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19944,9 +19912,73 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4569": {
+  "ECLI:NL:RVS:2026:5925": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5811": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:3195": {
+   "gem": [],
+   "datum": "2026-06-03"
+  },
+  "ECLI:NL:RVS:2026:4288": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:6240": {
+   "gem": [],
+   "datum": "2026-10-12"
+  },
+  "ECLI:NL:RVS:2026:4608": {
    "gem": [],
    "datum": "2026-08-05"
+  },
+  "ECLI:NL:RVS:2026:6088": {
+   "gem": [],
+   "datum": "2026-10-14"
+  },
+  "ECLI:NL:RVS:2026:478": {
+   "gem": [],
+   "datum": "2026-01-28"
+  },
+  "ECLI:NL:RVS:2026:4178": {
+   "gem": [],
+   "datum": "2026-07-17"
+  },
+  "ECLI:NL:RVS:2026:4264": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:4300": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:6468": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6311": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:2294": {
+   "gem": [],
+   "datum": "2026-04-22"
+  },
+  "ECLI:NL:RVS:2026:5920": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:6418": {
+   "gem": [],
+   "datum": "2026-10-30"
+  },
+  "ECLI:NL:RVS:2026:4403": {
+   "gem": [],
+   "datum": "2026-07-29"
   }
  }
 }
