@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 13:28",
+ "bijgewerkt": "28-11-2026 13:46",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -753,19 +753,19 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
-  "https://www.ed.nl/deurne/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij~a9e73a81/": {
-   "titel": "Hoe Zeilberg verandert: grotere supermarkt, slagerij terug en dik dertig woningen erbij",
-   "link": "https://www.ed.nl/deurne/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij~a9e73a81/",
+  "https://www.ed.nl/deurne/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij~a9e73a81/": {
+   "titel": "Van buurtsuper naar supermarkt van 1500 vierkante meter: Zeilberg krijgt er heel wat nieuws bij",
+   "link": "https://www.ed.nl/deurne/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij~a9e73a81/",
    "tekst": "Het is even wennen voor Zeilbergers: in het flink groter geworden Plus-filiaal staan nu ook zelfscankassa’s. De vernieuwing van de supermarkt is de eerste in een reeks veranderingen in het winkelhart van het Deurnese dorp.",
-   "datum": "2026-11-28T11:30:18+00:00",
-   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "datum": "2026-11-28T11:30:00+00:00",
+   "eerst_gezien": "2026-11-28T12:44:25.033334+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Deurne"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 12:30"
@@ -4143,12 +4143,28 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108740850/hoe-vervanging-van-een-oude-afvalwaterleiding-in-veghel-nu-miljoenen-euros-extra-kost.html": {
-   "titel": "Hoe vervanging van een oude afvalwaterleiding in Veghel nu miljoenen euro`s extra kost",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740850/hoe-vervanging-van-een-oude-afvalwaterleiding-in-veghel-nu-miljoenen-euros-extra-kost.html",
+  "https://drimble.nl/regio/noord-brabant/helmond/108740992/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij.html": {
+   "titel": "Van buurtsuper naar supermarkt van 1500 vierkante meter: Zeilberg krijgt er heel wat nieuws bij",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740992/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij.html",
    "tekst": "",
-   "datum": "2026-11-28T12:19:02+00:00",
-   "eerst_gezien": "2026-11-28T12:25:18.174540+00:00",
+   "datum": "2026-11-28T12:43:14+00:00",
+   "eerst_gezien": "2026-11-28T12:44:25.033334+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740903/hoe-vervanging-van-een-oude-afvalwaterleiding-in-veghel-nu-miljoenen-euros-extra-kost.html": {
+   "titel": "Hoe vervanging van een oude afvalwaterleiding in Veghel nu miljoenen euro`s extra kost",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740903/hoe-vervanging-van-een-oude-afvalwaterleiding-in-veghel-nu-miljoenen-euros-extra-kost.html",
+   "tekst": "",
+   "datum": "2026-11-28T12:25:10+00:00",
+   "eerst_gezien": "2026-11-28T12:44:25.033334+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4158,7 +4174,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "28-11 13:19"
+   "tijd": "28-11 13:25"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108740632/persleiding-in-veghel-blijkt-veel-lastiger-te-vervangen-meierijstad-is-nu-5-miljoen-euro-extra-kwijt.html": {
    "titel": "Persleiding in Veghel blijkt veel lastiger te vervangen: Meierijstad is nu 5 miljoen euro extra kwijt",
@@ -4375,22 +4391,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108739942/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt.html": {
-   "titel": "Albanees (22) vervoerde drugs vanuit België voor vier keer zijn maandsalaris; forse celstraf dreigt",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739942/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt.html",
-   "tekst": "",
-   "datum": "2026-11-28T10:01:05+00:00",
-   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html": {
    "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html",
@@ -4480,23 +4480,6 @@
    "bron": "Drimble Deurne",
    "gemeenten": [
     "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
-   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
-   "tekst": "",
-   "datum": "2026-11-26T22:42:07+00:00",
-   "eerst_gezien": "2026-11-26T22:44:57.671923+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne",
-    "Someren"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -4773,6 +4756,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
+   "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108726165/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
+   "tekst": "",
+   "datum": "2026-11-26T22:42:07+00:00",
+   "eerst_gezien": "2026-11-26T22:44:57.671923+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne",
+    "Someren"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108724723/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les.html": {
    "titel": "Enorme puzzel na schoolbrand opgelost: 300 kinderen kunnen weer naar de les",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108724723/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les.html",
@@ -4874,38 +4874,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126134314a1deurnerit142015": {
+   "titel": "A1 Deurne Rit: 142015",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126134314a1deurnerit142015",
+   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T13:43:14+01:00",
+   "eerst_gezien": "2026-11-28T12:44:25.033334+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Someren"
+    "Deurne"
    ],
-   "soort": "Raad van State",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108739941/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html": {
-   "titel": "Broeder Joep (32) zorgt graag en schrijft er tweede boek over: `Je moet altijd de mens blijven zien`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739941/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html",
-   "tekst": "",
-   "datum": "2026-11-28T10:01:05+00:00",
-   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "28-11 13:43"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126123954a2somerenrit141983": {
    "titel": "A2 Someren Rit: 141983",
@@ -5416,6 +5400,89 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 17:03"
+  },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
+  "https://www.ed.nl/deurne/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij~a9e73a81/": {
+   "titel": "Hoe Zeilberg verandert: grotere supermarkt, slagerij terug en dik dertig woningen erbij",
+   "link": "https://www.ed.nl/deurne/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij~a9e73a81/",
+   "tekst": "Het is even wennen voor Zeilbergers: in het flink groter geworden Plus-filiaal staan nu ook zelfscankassa’s. De vernieuwing van de supermarkt is de eerste in een reeks veranderingen in het winkelhart van het Deurnese dorp.",
+   "datum": "2026-11-28T11:30:18+00:00",
+   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 12:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740850/hoe-vervanging-van-een-oude-afvalwaterleiding-in-veghel-nu-miljoenen-euros-extra-kost.html": {
+   "titel": "Hoe vervanging van een oude afvalwaterleiding in Veghel nu miljoenen euro`s extra kost",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740850/hoe-vervanging-van-een-oude-afvalwaterleiding-in-veghel-nu-miljoenen-euros-extra-kost.html",
+   "tekst": "",
+   "datum": "2026-11-28T12:19:02+00:00",
+   "eerst_gezien": "2026-11-28T12:25:18.174540+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 13:19"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739942/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt.html": {
+   "titel": "Albanees (22) vervoerde drugs vanuit België voor vier keer zijn maandsalaris; forse celstraf dreigt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739942/albanees-22-vervoerde-drugs-vanuit-belgie-voor-vier-keer-zijn-maandsalaris-forse-celstraf-dreigt.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:01:05+00:00",
+   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739941/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html": {
+   "titel": "Broeder Joep (32) zorgt graag en schrijft er tweede boek over: `Je moet altijd de mens blijven zien`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739941/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:01:05+00:00",
+   "eerst_gezien": "2026-11-28T10:13:19.764329+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108739787/met-minder-vluchten-op-eindhoven-airport-kunnen-we-meer-huizen-bouwen.html": {
    "titel": "Met minder vluchten op Eindhoven Airport kunnen we meer huizen bouwen",
@@ -17525,23 +17592,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108669566/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html": {
-   "titel": "Afgang in Helmond onderstreept: FC Dordrecht is laatste en terug bij af",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669566/afgang-in-helmond-onderstreept-fc-dordrecht-is-laatste-en-terug-bij-af.html",
-   "tekst": "",
-   "datum": "2026-11-21T12:34:08+00:00",
-   "eerst_gezien": "2026-11-21T12:45:03.160413+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 13:34"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108672153/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html": {
    "titel": "Heet van de Herdgang | Poll: `Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108672153/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html",
@@ -17712,7 +17762,7 @@
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 7,
+   "aantal": 6,
    "fout": ""
   },
   "Drimble Asten": {
@@ -17722,12 +17772,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
@@ -19491,6 +19541,30 @@
    "gem": [],
    "datum": "2026-11-09"
   },
+  "ECLI:NL:RVS:2026:6248": {
+   "gem": [],
+   "datum": "2026-10-26"
+  },
+  "ECLI:NL:RVS:2026:6650": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6328": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6585": {
+   "gem": [],
+   "datum": "2026-11-09"
+  },
+  "ECLI:NL:RVS:2026:6641": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6428": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19503,13 +19577,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19847,9 +19921,49 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4098": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4099": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4081": {
    "gem": [],
    "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4092": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4190": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4998": {
+   "gem": [],
+   "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:4225": {
    "gem": [],
@@ -19863,6 +19977,22 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:5006": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5008": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5010": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5013": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5014": {
    "gem": [],
    "datum": "2026-08-26"
@@ -19871,69 +20001,177 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:5018": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5021": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5022": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5023": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5025": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5026": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5027": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5497": {
+   "gem": [],
+   "datum": "2026-09-16"
   },
   "ECLI:NL:RVS:2026:5324": {
    "gem": [],
    "datum": "2026-09-09"
   },
+  "ECLI:NL:RVS:2026:5925": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:4569": {
+   "gem": [],
+   "datum": "2026-08-05"
+  },
   "ECLI:NL:RVS:2026:1379": {
    "gem": [],
    "datum": "2026-03-11"
+  },
+  "ECLI:NL:RVS:2026:5475": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5919": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5903": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5804": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5810": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5811": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:5894": {
    "gem": [],
    "datum": "2026-10-07"
   },
+  "ECLI:NL:RVS:2026:5793": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5955": {
+   "gem": [],
+   "datum": "2026-10-14"
+  },
   "ECLI:NL:RVS:2026:5783": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:3195": {
+   "gem": [],
+   "datum": "2026-06-03"
+  },
+  "ECLI:NL:RVS:2026:4288": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2025:5683": {
+   "gem": [],
+   "datum": "2025-12-03"
+  },
+  "ECLI:NL:RVS:2026:4628": {
+   "gem": [],
+   "datum": "2026-08-12"
+  },
+  "ECLI:NL:RVS:2026:1808": {
+   "gem": [],
+   "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5867": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5216": {
+   "gem": [],
+   "datum": "2026-09-09"
+  },
+  "ECLI:NL:RVS:2026:1932": {
+   "gem": [],
+   "datum": "2026-04-08"
+  },
+  "ECLI:NL:RVS:2026:1942": {
+   "gem": [],
+   "datum": "2026-04-08"
   },
   "ECLI:NL:RVS:2026:1951": {
    "gem": [],
    "datum": "2026-04-08"
   },
-  "ECLI:NL:RVS:2026:6248": {
+  "ECLI:NL:RVS:2026:6240": {
    "gem": [],
-   "datum": "2026-10-26"
+   "datum": "2026-10-12"
   },
-  "ECLI:NL:RVS:2026:6650": {
+  "ECLI:NL:RVS:2026:1941": {
+   "gem": [],
+   "datum": "2026-04-08"
+  },
+  "ECLI:NL:RVS:2026:6252": {
+   "gem": [],
+   "datum": "2026-10-12"
+  },
+  "ECLI:NL:RVS:2026:6455": {
+   "gem": [],
+   "datum": "2026-11-05"
+  },
+  "ECLI:NL:RVS:2026:6543": {
    "gem": [],
    "datum": "2026-11-11"
   },
-  "ECLI:NL:RVS:2026:461": {
+  "ECLI:NL:RVS:2026:6235": {
    "gem": [],
-   "datum": "2026-01-28"
+   "datum": "2026-10-21"
   },
-  "ECLI:NL:RVS:2026:6328": {
+  "ECLI:NL:RVS:2026:6392": {
    "gem": [],
-   "datum": "2026-10-28"
+   "datum": "2026-11-03"
   },
-  "ECLI:NL:RVS:2026:4218": {
+  "ECLI:NL:RVS:2026:4980": {
    "gem": [],
-   "datum": "2026-07-17"
+   "datum": "2026-08-27"
   },
-  "ECLI:NL:RVS:2026:4203": {
+  "ECLI:NL:RVS:2026:4608": {
    "gem": [],
-   "datum": "2026-07-20"
+   "datum": "2026-08-05"
   },
-  "ECLI:NL:RVS:2026:4300": {
+  "ECLI:NL:RVS:2026:6239": {
    "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:6585": {
-   "gem": [],
-   "datum": "2026-11-09"
-  },
-  "ECLI:NL:RVS:2026:6641": {
-   "gem": [],
-   "datum": "2026-11-11"
-  },
-  "ECLI:NL:RVS:2026:6428": {
-   "gem": [],
-   "datum": "2026-11-04"
+   "datum": "2026-10-12"
   }
  }
 }
