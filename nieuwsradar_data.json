@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 16:55",
+ "bijgewerkt": "28-11-2026 17:14",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -2361,7 +2361,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december": {
    "titel": "Dorpsoverleg Lierop bespreekt toekomst op 3 december",
    "link": "https://www.omroepbrabant.nl/nieuws/6035704/dorpsoverleg-lierop-bespreekt-toekomst-op-3-december",
-   "tekst": "zondag Op donderdag 3 december organiseert het Dorpsoverleg Lierop een openbare vergadering in De Vurtuin. Tijdens deze bijeenkomst worden actuele onderwerpen besproken, zoals wonen in Lierop en de reconstructie van Eindje en Lungendonk.",
+   "tekst": "22 november 2026 Op donderdag 3 december organiseert het Dorpsoverleg Lierop een openbare vergadering in De Vurtuin. Tijdens deze bijeenkomst worden actuele onderwerpen besproken, zoals wonen in Lierop en de reconstructie van Eindje en …",
    "datum": "2026-11-23T08:38:52.887265+00:00",
    "eerst_gezien": "2026-11-23T08:38:52.887265+00:00",
    "bron": "Omroep Brabant lokaal Someren",
@@ -19995,6 +19995,10 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4098": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
   "ECLI:NL:RVS:2026:4099": {
    "gem": [],
    "datum": "2026-07-15"
@@ -20007,7 +20011,15 @@
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4081": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -20015,7 +20027,23 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4190": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4998": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4999": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20023,41 +20051,13 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5008": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5013": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5014": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5015": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5018": {
+  "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:5021": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5023": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5497": {
-   "gem": [],
-   "datum": "2026-09-16"
   }
  }
 }
