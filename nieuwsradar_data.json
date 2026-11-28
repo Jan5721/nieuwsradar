@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 18:49",
+ "bijgewerkt": "28-11-2026 19:07",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -1009,23 +1009,6 @@
    "prio": false,
    "tijd": "27-11 15:25"
   },
-  "https://www.omroepbrabant.nl/nieuws/6036504/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet": {
-   "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
-   "link": "https://www.omroepbrabant.nl/nieuws/6036504/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet",
-   "tekst": "Op natuurplas het Buntven in Deurne gleden de eerste schaatsers vrijdag al fanatiek over het krakende ijs. Door de aanhoudende kou lag er genoeg ijs om de eerste baantjes van deze winter te kunnen schaatsen. De temperaturen zijn vrijdag flink gedaald . In de nacht van donderdag …",
-   "datum": "2026-11-27T16:32:00+00:00",
-   "eerst_gezien": "2026-11-27T17:02:34.580602+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 17:32"
-  },
   "https://www.omroepbrabant.nl/nieuws/6036605/waterstoring-rond-de-binnen-parallelweg-in-helmond": {
    "titel": "Waterstoring rond de Binnen Parallelweg in Helmond",
    "link": "https://www.omroepbrabant.nl/nieuws/6036605/waterstoring-rond-de-binnen-parallelweg-in-helmond",
@@ -1554,6 +1537,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 18:47"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6036504/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet": {
+   "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
+   "link": "https://www.omroepbrabant.nl/nieuws/6036504/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet",
+   "tekst": "Op natuurplas het Buntven in Deurne gleden de eerste schaatsers vrijdag al fanatiek over het krakende ijs. Door de aanhoudende kou lag er genoeg ijs om de eerste baantjes van deze winter te kunnen schaatsen.",
+   "datum": "2026-11-27T17:02:34.580602+00:00",
+   "eerst_gezien": "2026-11-27T17:02:34.580602+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 18:02"
   },
   "https://www.omroepbrabant.nl/nieuws/6036496/bedrijfspand-aan-piet-mondriaanstraat-in-deurne-mag-deels-verhoogd-worden": {
    "titel": "Bedrijfspand aan Piet Mondriaanstraat in Deurne mag deels verhoogd worden",
@@ -4104,7 +4104,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 18:31"
@@ -4852,7 +4852,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 18:24"
@@ -4869,7 +4869,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 17:26"
@@ -4886,7 +4886,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 17:11"
@@ -4903,7 +4903,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 16:39"
@@ -4920,7 +4920,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": true,
    "tijd": "28-11 16:39"
@@ -5401,23 +5401,6 @@
    "prio": false,
    "tijd": "27-11 21:04"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126210254a2somerenrit141778": {
-   "titel": "A2 Someren Rit: 141778",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126210254a2somerenrit141778",
-   "tekst": "Ambulance 22-119 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-27T21:02:54+01:00",
-   "eerst_gezien": "2026-11-27T20:18:29.968216+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "27-11 21:02"
-  },
   "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
    "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
    "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
@@ -5434,6 +5417,23 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#271126210254a2somerenrit141778": {
+   "titel": "A2 Someren Rit: 141778",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#271126210254a2somerenrit141778",
+   "tekst": "Ambulance 22-119 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-27T21:02:54+01:00",
+   "eerst_gezien": "2026-11-27T20:18:29.968216+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "27-11 21:02"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108742555/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html": {
    "titel": "Vrienden en collega`s vragen in Den Haag aandacht en actie om ASML`er Omar Elshal (34) naar huis te halen",
@@ -7924,23 +7924,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html": {
-   "titel": "[VIDEO] Terugblik op de Voortuinenwedstrijd van Groei & Bloei: ‘Als je dat ziet, word je vrolijk’",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671272/video-terugblik-op-de-voortuinenwedstrijd-van-groei-bloei-als-je-dat-ziet-word-je-vrolijk.html",
-   "tekst": "Je krijgt gewoon goede zin als je door de Antoniusstraat in Heusden wandelt. Dat zijn de woorden van Twan van Tilburg. Hij blikt samen...",
-   "datum": "2026-11-21T17:53:15+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108729411/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html": {
    "titel": "Duitse verdachte dacht cannabis te vervoeren, maar bleek met 2 kilo cocaïne op pad te zijn",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108729411/duitse-verdachte-dacht-cannabis-te-vervoeren-maar-bleek-met-2-kilo-cocaine-op-pad-te-zijn.html",
@@ -9764,23 +9747,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671271/podcastmakers-de-magische-spons-zien-nwc-plotseling-opleven-ze-hebben-het-licht-weer-gezien.html": {
-   "titel": "Podcastmakers De Magische Spons zien NWC plotseling opleven: ´Ze hebben het licht weer gezien´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671271/podcastmakers-de-magische-spons-zien-nwc-plotseling-opleven-ze-hebben-het-licht-weer-gezien.html",
-   "tekst": "NWC lijkt na een moeizame competitiestart eindelijk de weg omhoog te hebben gevonden. De Astenaren wonnen afgelopen weekend met 0-3 van EFC en maken...",
-   "datum": "2026-11-21T17:53:15+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/": {
    "titel": "Reportage ‘Het zit echt hier’ blikt terug op carnaval in Asten",
    "link": "https://www.ed.nl/asten/reportage-het-zit-echt-hier-blikt-terug-op-carnaval-in-asten~af081235/",
@@ -10682,23 +10648,6 @@
    "prio": false,
    "tijd": "26-11 07:19"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671270/burgemeesters-maken-vuist-tegen-gendergerelateerd-geweld-verantwoordelijkheid-van-ons-allemaal.html": {
-   "titel": "Burgemeesters maken vuist tegen gendergerelateerd geweld: ´Verantwoordelijkheid van ons allemaal´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671270/burgemeesters-maken-vuist-tegen-gendergerelateerd-geweld-verantwoordelijkheid-van-ons-allemaal.html",
-   "tekst": "Orange the World, de wereldwijde campagne van UN Women tegen gendergerelateerd geweld, gaat maandag van start. Ook in de gemeenten...",
-   "datum": "2026-11-21T17:53:15+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html": {
    "titel": "Buurt hoopt opvang Leger des Heils in Woensel-Zuid met petitie alsnog tegen te houden",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108716292/buurt-hoopt-opvang-leger-des-heils-in-woensel-zuid-met-petitie-alsnog-tegen-te-houden.html",
@@ -10948,24 +10897,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671269/streekvervoer-ligt-maandag-en-dinsdag-stil-door-landelijke-staking-ook-in-asten-en-someren.html": {
-   "titel": "Streekvervoer ligt maandag en dinsdag stil door landelijke staking, ook in Asten en Someren",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671269/streekvervoer-ligt-maandag-en-dinsdag-stil-door-landelijke-staking-ook-in-asten-en-someren.html",
-   "tekst": "Wie aankomende maandag en dinsdag met de bus wil reizen, moet rekening houden met flinke hinder. Medewerkers in het streekvervoer leggen...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html": {
    "titel": "Al vier jaar dezelfde burenruzie in Helmond, de rechter is er klaar mee: `Hier word je echt niet gelukkiger van`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108711739/al-vier-jaar-dezelfde-burenruzie-in-helmond-de-rechter-is-er-klaar-mee-hier-word-je-echt-niet-gelukkiger-van.html",
@@ -11064,40 +10995,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671266/fotos-opbouw-van-asielzoekersopvang-in-asten-van-start-gegaan.html": {
-   "titel": "[FOTO’S] Opbouw van asielzoekersopvang in Asten van start gegaan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671266/fotos-opbouw-van-asielzoekersopvang-in-asten-van-start-gegaan.html",
-   "tekst": "Er rijden vrachtwagens af en aan om de asielopvang in Asten gereed te maken. Enige haast is geboden: als het meezit, wonen er per half...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671263/video-van-baars-bleekerven-en-hartman-winnen-felbegeerde-prijs-heel-veel-reacties-gekregen.html": {
-   "titel": "[VIDEO] Van Baars, Bleekerven en Hartman winnen felbegeerde prijs: ´Heel veel reacties gekregen´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671263/video-van-baars-bleekerven-en-hartman-winnen-felbegeerde-prijs-heel-veel-reacties-gekregen.html",
-   "tekst": "Kunst - en siersmederij Van Baars, Groentekwekerij ´t Bleekerven BV en Hartman Bouwbedrijf BV zijn uitgeroepen tot de Astense ondernemers...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/": {
    "titel": "Nationaal Theaterweekend: hier in Helmond kun je lekker goedkoop naar een voorstelling",
    "link": "https://www.ed.nl/helmond/nationaal-theaterweekend-2027-helmond-deelnemende-theaters~aae0d673/",
@@ -11165,23 +11062,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "25-11 20:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671260/vrienden-van-asten-live-terug-van-weggeweest-om-uit-volle-borst-mee-te-zingen.html": {
-   "titel": "Vrienden van Asten Live terug van weggeweest: ´Om uit volle borst mee te zingen´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671260/vrienden-van-asten-live-terug-van-weggeweest-om-uit-volle-borst-mee-te-zingen.html",
-   "tekst": "Twee avonden die in teken staan van livemuziek, bekende meezingers en feestvieren: de kaartverkoop voor De Vrienden van Asten Live...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108711684/groundhog-day-in-helmond-rechter-vraagt-ruziende-buren-om-eindelijk-aan-de-koffietafel-te-gaan-zitten.html": {
    "titel": "`Groundhog Day` in Helmond: rechter vraagt ruziënde buren om eindelijk aan de koffietafel te gaan zitten",
@@ -15431,41 +15311,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671265/fotos-somerense-artiesten-stelen-de-show-tijdens-dit-is-helmond-live.html": {
-   "titel": "[FOTO´S] Somerense artiesten stelen de show tijdens Dit is Helmond Live",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671265/fotos-somerense-artiesten-stelen-de-show-tijdens-dit-is-helmond-live.html",
-   "tekst": "De eerste editie van Dit is Helmond Live vond woensdagavond plaats in de popzaal van de Cacaofabriek in Helmond. Acht lokale artiesten...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Helmond",
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671262/pakketpunt-mondial-relay-in-someren-eind-buiten-werking-wachten-al-drie-dagen-op-nieuwe-scanner.html": {
-   "titel": "Pakketpunt Mondial Relay in Someren-Eind buiten werking: ´Wachten al drie dagen op nieuwe scanner´",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671262/pakketpunt-mondial-relay-in-someren-eind-buiten-werking-wachten-al-drie-dagen-op-nieuwe-scanner.html",
-   "tekst": "DenoClean wordt momenteel overspoeld met pakketten van bezorgdienst Mondial Relay. Bij het afhaalpunt in Someren-Eind liggen momenteel...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108688837/mist-boven-eindhoven-airport-vluchten-wijken-uit.html": {
    "titel": "Mist boven Eindhoven Airport: vluchten wijken uit",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108688837/mist-boven-eindhoven-airport-vluchten-wijken-uit.html",
@@ -15548,23 +15393,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 17:13"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671258/carnavalsvereniging-locomotion-presenteert-nieuwe-hoogheden-levy-en-luuk.html": {
-   "titel": "Carnavalsvereniging Locomotion presenteert nieuwe hoogheden: Levy en Luuk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671258/carnavalsvereniging-locomotion-presenteert-nieuwe-hoogheden-levy-en-luuk.html",
-   "tekst": "Levy Looijmans alias Levy d’n Urste is de nieuwe prins van carnavalsvereniging Locomotion uit Someren. Hij krijgt assistentie van adjudant...",
-   "datum": "2026-11-21T17:53:14+00:00",
-   "eerst_gezien": "2026-11-21T18:05:35.882267+00:00",
-   "bron": "Drimble Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:53"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108688441/verkeer-op-randweg-n2-met-nieuwe-afslag-voortaan-sneller-op-a2.html": {
    "titel": "Verkeer op randweg N2 met nieuwe afslag voortaan sneller op A2",
@@ -17693,7 +17521,7 @@
   },
   "Omroep Brabant": {
    "ok": true,
-   "aantal": 1,
+   "aantal": 0,
    "fout": ""
   },
   "Omroep Brabant lokaal Helmond": {
@@ -17703,7 +17531,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 29,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -17778,7 +17606,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 34,
+   "aantal": 33,
    "fout": ""
   },
   "112Brabant": {
@@ -19642,6 +19470,30 @@
    "gem": [],
    "datum": "2026-11-11"
   },
+  "ECLI:NL:RVS:2026:6335": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6403": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6677": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6528": {
+   "gem": [],
+   "datum": "2026-11-09"
+  },
+  "ECLI:NL:RVS:2026:6426": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6467": {
+   "gem": [],
+   "datum": "2026-11-05"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -20006,27 +19858,7 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4996": {
-   "gem": [
-    "Helmond"
-   ],
-   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
-   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4076": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4081": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -20034,35 +19866,27 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5008": {
+  "ECLI:NL:RVS:2026:5013": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5010": {
+  "ECLI:NL:RVS:2026:4569": {
    "gem": [],
-   "datum": "2026-08-26"
+   "datum": "2026-08-05"
   },
-  "ECLI:NL:RVS:2026:5015": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5018": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5019": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5021": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5810": {
+  "ECLI:NL:RVS:2026:5804": {
    "gem": [],
    "datum": "2026-09-30"
   },
@@ -20070,41 +19894,25 @@
    "gem": [],
    "datum": "2026-07-22"
   },
-  "ECLI:NL:RVS:2026:629": {
+  "ECLI:NL:RVS:2026:4608": {
    "gem": [],
-   "datum": "2026-02-04"
+   "datum": "2026-08-05"
   },
-  "ECLI:NL:RVS:2026:6335": {
-   "gem": [],
-   "datum": "2026-10-28"
-  },
-  "ECLI:NL:RVS:2026:4216": {
-   "gem": [],
-   "datum": "2026-07-17"
-  },
-  "ECLI:NL:RVS:2026:4218": {
-   "gem": [],
-   "datum": "2026-07-17"
-  },
-  "ECLI:NL:RVS:2026:6403": {
-   "gem": [],
-   "datum": "2026-11-03"
-  },
-  "ECLI:NL:RVS:2026:6677": {
+  "ECLI:NL:RVS:2026:6651": {
    "gem": [],
    "datum": "2026-11-11"
   },
-  "ECLI:NL:RVS:2026:6528": {
+  "ECLI:NL:RVS:2026:4178": {
    "gem": [],
-   "datum": "2026-11-09"
+   "datum": "2026-07-17"
   },
-  "ECLI:NL:RVS:2026:6426": {
+  "ECLI:NL:RVS:2026:4197": {
    "gem": [],
-   "datum": "2026-11-04"
+   "datum": "2026-07-20"
   },
-  "ECLI:NL:RVS:2026:6467": {
+  "ECLI:NL:RVS:2026:6072": {
    "gem": [],
-   "datum": "2026-11-05"
+   "datum": "2026-10-14"
   }
  }
 }
