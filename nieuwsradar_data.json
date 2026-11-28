@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 12:13",
+ "bijgewerkt": "28-11-2026 12:31",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4143,6 +4143,40 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740516/hij-duwde-beatrix-opzij-en-was-ooit-stapelverliefd-op-de-first-lady-van-georgie-voor-satheo-60-is-niks-te-gek.html": {
+   "titel": "Hij duwde Beatrix opzij en was ooit stapelverliefd op de first lady van Georgië: voor `Satheo` (60) is niks te gek",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740516/hij-duwde-beatrix-opzij-en-was-ooit-stapelverliefd-op-de-first-lady-van-georgie-voor-satheo-60-is-niks-te-gek.html",
+   "tekst": "",
+   "datum": "2026-11-28T11:25:11+00:00",
+   "eerst_gezien": "2026-11-28T11:28:32.786687+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 12:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740453/korte-tunnel-ter-vervanging-van-strijps-bultje-blijkt-aanzienlijk-duurder-dan-gedacht.html": {
+   "titel": "Korte tunnel ter vervanging van Strijps Bultje blijkt `aanzienlijk duurder` dan gedacht",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740453/korte-tunnel-ter-vervanging-van-strijps-bultje-blijkt-aanzienlijk-duurder-dan-gedacht.html",
+   "tekst": "",
+   "datum": "2026-11-28T11:19:03+00:00",
+   "eerst_gezien": "2026-11-28T11:28:32.786687+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 12:19"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108740257/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html": {
    "titel": "Lara (12) belde 112 nadat haar moeder lelijk was gevallen en voorkwam erger: nu wordt ze beloond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108740257/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html",
@@ -4306,40 +4340,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108739541/gerard-ging-als-vlisco-man-mee-naar-duitsland-om-huizen-te-bouwen-voor-vluchtelingen-uit-de-ddr.html": {
-   "titel": "Gerard ging als Vlisco-man mee naar Duitsland om huizen te bouwen voor vluchtelingen uit de DDR",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739541/gerard-ging-als-vlisco-man-mee-naar-duitsland-om-huizen-te-bouwen-voor-vluchtelingen-uit-de-ddr.html",
-   "tekst": "",
-   "datum": "2026-11-28T08:49:08+00:00",
-   "eerst_gezien": "2026-11-28T08:56:37.160485+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "28-11 09:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108739353/bedrijf-verduurzaamt-burgers-betalen-beetje-extra-hoe-kan-dat.html": {
-   "titel": "Bedrijf verduurzaamt, burgers betalen (beetje) extra; hoe kan dat'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739353/bedrijf-verduurzaamt-burgers-betalen-beetje-extra-hoe-kan-dat.html",
-   "tekst": "",
-   "datum": "2026-11-28T08:13:25+00:00",
-   "eerst_gezien": "2026-11-28T08:18:01.946003+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "28-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html": {
    "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
@@ -5350,6 +5350,40 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739541/gerard-ging-als-vlisco-man-mee-naar-duitsland-om-huizen-te-bouwen-voor-vluchtelingen-uit-de-ddr.html": {
+   "titel": "Gerard ging als Vlisco-man mee naar Duitsland om huizen te bouwen voor vluchtelingen uit de DDR",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739541/gerard-ging-als-vlisco-man-mee-naar-duitsland-om-huizen-te-bouwen-voor-vluchtelingen-uit-de-ddr.html",
+   "tekst": "",
+   "datum": "2026-11-28T08:49:08+00:00",
+   "eerst_gezien": "2026-11-28T08:56:37.160485+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 09:49"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739353/bedrijf-verduurzaamt-burgers-betalen-beetje-extra-hoe-kan-dat.html": {
+   "titel": "Bedrijf verduurzaamt, burgers betalen (beetje) extra; hoe kan dat'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739353/bedrijf-verduurzaamt-burgers-betalen-beetje-extra-hoe-kan-dat.html",
+   "tekst": "",
+   "datum": "2026-11-28T08:13:25+00:00",
+   "eerst_gezien": "2026-11-28T08:18:01.946003+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 09:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108739150/erwin-58-en-nicole-52-krijgen-hun-nieuwe-huis-in-mierlo-hout-opgeleverd-maar-nu-begint-pas-het-echte-werk.html": {
    "titel": "Erwin (58) en Nicole (52) krijgen hun nieuwe huis in Mierlo-Hout opgeleverd, maar nu begint pas het echte werk",
@@ -17460,23 +17494,6 @@
    "prio": false,
    "tijd": "21-11 21:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108669215/bij-de-smulwinkel-in-helmond-draait-alles-om-magie-geur-van-speculaas-en-warme-chocolademelk.html": {
-   "titel": "Bij de Smulwinkel in Helmond draait alles om magie, geur van speculaas en warme chocolademelk",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108669215/bij-de-smulwinkel-in-helmond-draait-alles-om-magie-geur-van-speculaas-en-warme-chocolademelk.html",
-   "tekst": "",
-   "datum": "2026-11-21T11:19:03+00:00",
-   "eerst_gezien": "2026-11-21T11:25:10.069952+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 12:19"
-  },
   "https://www.omroepbrabant.nl/nieuws/6035684/kinderen-steken-school-in-brand-maar-straffen-is-haast-onmogelijk": {
    "titel": "Kinderen steken school in brand, maar straffen is haast onmogelijk",
    "link": "https://www.omroepbrabant.nl/nieuws/6035684/kinderen-steken-school-in-brand-maar-straffen-is-haast-onmogelijk",
@@ -19769,6 +19786,10 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4099": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
   "ECLI:NL:RVS:2026:4996": {
    "gem": [
     "Helmond"
@@ -19777,15 +19798,31 @@
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4081": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4092": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4190": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4191": {
    "gem": [],
    "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4998": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4999": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19800,26 +19837,6 @@
   "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5013": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5014": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5925": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:4569": {
-   "gem": [],
-   "datum": "2026-08-05"
-  },
-  "ECLI:NL:RVS:2026:5475": {
-   "gem": [],
-   "datum": "2026-09-16"
   }
  }
 }
