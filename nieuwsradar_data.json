@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 19:26",
+ "bijgewerkt": "28-11-2026 19:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4091,6 +4091,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108742851/deze-zussen-hebben-een-ijsbaan-in-hun-achtertuin.html": {
+   "titel": "Deze zussen hebben een ijsbaan in hun achtertuin",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108742851/deze-zussen-hebben-een-ijsbaan-in-hun-achtertuin.html",
+   "tekst": "Op veel plekken in Nederland kan vandaag op natuurijs geschaatst worden. Kan best druk worden, maar niet voor drie zusjes uit Helmond....",
+   "datum": "2026-11-28T18:28:08+00:00",
+   "eerst_gezien": "2026-11-28T18:41:40.976690+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 19:28"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108742589/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html": {
    "titel": "Vrienden en collega`s vragen in Den Haag aandacht en actie om ASML`er Omar Elshal (34) naar huis te halen",
@@ -17569,7 +17586,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19877,29 +19894,21 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4225": {
+  "ECLI:NL:RVS:2026:4998": {
    "gem": [],
-   "datum": "2026-07-16"
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5013": {
+   "gem": [],
+   "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5025": {
+  "ECLI:NL:RVS:2026:5021": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5497": {
-   "gem": [],
-   "datum": "2026-09-16"
-  },
-  "ECLI:NL:RVS:2026:5324": {
-   "gem": [],
-   "datum": "2026-09-09"
-  },
-  "ECLI:NL:RVS:2026:4569": {
-   "gem": [],
-   "datum": "2026-08-05"
   }
  }
 }
