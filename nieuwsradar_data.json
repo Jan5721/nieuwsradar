@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 00:52",
+ "bijgewerkt": "28-11-2026 01:13",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -1763,7 +1763,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten": {
    "titel": "Straf of niet? Dit staat kinderen die school in brand staken te wachten",
    "link": "https://www.omroepbrabant.nl/nieuws/6035684/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten",
-   "tekst": "21 november 2026 Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. …",
+   "tekst": "zaterdag Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat …",
    "datum": "2026-11-21T19:57:46.543769+00:00",
    "eerst_gezien": "2026-11-21T19:57:46.543769+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -1780,7 +1780,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan": {
    "titel": "Hal en lokalen verwoest na schoolbrand: 'Vraag of school nog open kan'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan",
-   "tekst": "21 november 2026 Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden …",
+   "tekst": "zaterdag Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden worden. …",
    "datum": "2026-11-21T16:13:39.683487+00:00",
    "eerst_gezien": "2026-11-21T16:13:39.683487+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -2156,7 +2156,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035651/hybride-auto-belandt-in-sloot-en-vat-vlam-in-asten-heusden": {
    "titel": "Hybride auto belandt in sloot en vat vlam in Asten-Heusden",
    "link": "https://www.omroepbrabant.nl/nieuws/6035651/hybride-auto-belandt-in-sloot-en-vat-vlam-in-asten-heusden",
-   "tekst": "21 november 2026 Een automobilist is vrijdagavond met zijn auto van de weg geraakt in Asten-Heusden en in een sloot beland. De bestuurder kon zelf uit de auto komen. Hij was niet gewond.",
+   "tekst": "zaterdag Een automobilist is vrijdagavond met zijn auto van de weg geraakt in Asten-Heusden en in een sloot beland. De bestuurder kon zelf uit de auto komen. Hij was niet gewond.",
    "datum": "2026-11-21T05:30:13.778422+00:00",
    "eerst_gezien": "2026-11-21T05:30:13.778422+00:00",
    "bron": "Omroep Brabant lokaal Asten",
@@ -2510,6 +2510,40 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
   },
   "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start": {
    "titel": "‘Ons dorp in de schijnwerpers’ feestelijk van start in Vlierden",
@@ -4921,40 +4955,6 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
-   "datum": "2026-11-26T08:35:50+00:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 09:35"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108733795/vaatchirurg-joep-teijink-mag-zich-voortaan-ook-ridder-noemen.html": {
    "titel": "Vaatchirurg Joep Teijink mag zich voortaan ook ridder noemen",
@@ -16553,23 +16553,6 @@
    "prio": false,
    "tijd": "22-11 12:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666821/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html": {
-   "titel": "Vuurwerk veroorzaakt brand in basisschool Deurne",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666821/vuurwerk-veroorzaakt-brand-in-basisschool-deurne.html",
-   "tekst": "Op basisschool Zeilberg in het Oost-Brabantse Deurne is vrijdagavond brand ontstaan. Twee leslokalen en de aula zijn uitgebrand, meldt...",
-   "datum": "2026-11-20T23:53:03+00:00",
-   "eerst_gezien": "2026-11-21T00:09:22.032038+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 00:53"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677176/in-dit-veghelse-clubhuis-krijgt-iedereen-de-code-zodat-niemand-zich-buitengesloten-voelt-het-gaat-bij-ons-vooral-om-de-gezelligheid.html": {
    "titel": "In dit Veghelse clubhuis krijgt iedereen de code, zodat niemand zich buitengesloten voelt: `Het gaat bij ons vooral om de gezelligheid`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677176/in-dit-veghelse-clubhuis-krijgt-iedereen-de-code-zodat-niemand-zich-buitengesloten-voelt-het-gaat-bij-ons-vooral-om-de-gezelligheid.html",
@@ -17913,23 +17896,6 @@
    "prio": false,
    "tijd": "21-11 05:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108666895/de-kattenmeppers-slaan-keihard-toe-met-treffers-samenvatting-helmond-sport-fc-dordrecht-video.html": {
-   "titel": "De KATTENMEPPERS slaan KEIHARD toe met TREFFERS | Samenvatting Helmond Sport - FC Dordrecht [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108666895/de-kattenmeppers-slaan-keihard-toe-met-treffers-samenvatting-helmond-sport-fc-dordrecht-video.html",
-   "tekst": "De samenvatting van Helmond Sport - FC Dordrecht, een wedstrijd in speelronde 16 van de Keuken Kampioen Divisie, gespeeld op vrijdag...",
-   "datum": "2026-11-20T23:59:03+00:00",
-   "eerst_gezien": "2026-11-21T00:09:22.032038+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 00:59"
-  },
   "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/": {
    "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
    "link": "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/",
@@ -18039,9 +18005,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": false,
-   "aantal": 0,
-   "fout": "HTTPError: HTTP Error 500: Internal server error"
+   "ok": true,
+   "aantal": 2,
+   "fout": ""
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -19092,10 +19058,6 @@
    "gem": [],
    "datum": "2026-10-21"
   },
-  "ECLI:NL:RVS:2026:5955": {
-   "gem": [],
-   "datum": "2026-10-14"
-  },
   "ECLI:NL:RVS:2026:6458": {
    "gem": [],
    "datum": "2026-11-06"
@@ -19275,6 +19237,66 @@
   "ECLI:NL:RVS:2026:6618": {
    "gem": [],
    "datum": "2026-11-12"
+  },
+  "ECLI:NL:RVS:2026:6697": {
+   "gem": [],
+   "datum": "2026-11-13"
+  },
+  "ECLI:NL:RVS:2026:6700": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6571": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6564": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6367": {
+   "gem": [],
+   "datum": "2026-10-30"
+  },
+  "ECLI:NL:RVS:2026:6510": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6404": {
+   "gem": [],
+   "datum": "2026-11-02"
+  },
+  "ECLI:NL:RVS:2026:6179": {
+   "gem": [],
+   "datum": "2026-10-21"
+  },
+  "ECLI:NL:RVS:2026:6247": {
+   "gem": [],
+   "datum": "2026-10-26"
+  },
+  "ECLI:NL:RVS:2026:6171": {
+   "gem": [],
+   "datum": "2026-10-21"
+  },
+  "ECLI:NL:RVS:2026:6180": {
+   "gem": [],
+   "datum": "2026-10-21"
+  },
+  "ECLI:NL:RVS:2026:6318": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6347": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6320": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6358": {
+   "gem": [],
+   "datum": "2026-10-28"
   },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
@@ -19680,10 +19702,6 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4999": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:5005": {
    "gem": [],
    "datum": "2026-08-26"
@@ -19692,11 +19710,15 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5008": {
+  "ECLI:NL:RVS:2026:5010": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5014": {
+  "ECLI:NL:RVS:2026:5013": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19708,59 +19730,83 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5021": {
+  "ECLI:NL:RVS:2026:5025": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5023": {
+  "ECLI:NL:RVS:2026:5497": {
    "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5027": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4569": {
-   "gem": [],
-   "datum": "2026-08-05"
+   "datum": "2026-09-16"
   },
   "ECLI:NL:RVS:2026:5919": {
    "gem": [],
    "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:5894": {
+  "ECLI:NL:RVS:2026:5810": {
    "gem": [],
-   "datum": "2026-10-07"
+   "datum": "2026-09-30"
   },
-  "ECLI:NL:RVS:2026:6697": {
+  "ECLI:NL:RVS:2026:1808": {
    "gem": [],
-   "datum": "2026-11-13"
+   "datum": "2026-04-01"
   },
-  "ECLI:NL:RVS:2026:6700": {
+  "ECLI:NL:RVS:2026:5216": {
    "gem": [],
-   "datum": "2026-11-11"
+   "datum": "2026-09-09"
   },
-  "ECLI:NL:RVS:2026:6571": {
-   "gem": [],
-   "datum": "2026-11-11"
-  },
-  "ECLI:NL:RVS:2026:6564": {
+  "ECLI:NL:RVS:2026:6597": {
    "gem": [],
    "datum": "2026-11-11"
   },
-  "ECLI:NL:RVS:2026:6367": {
+  "ECLI:NL:RVS:2026:6573": {
    "gem": [],
-   "datum": "2026-10-30"
+   "datum": "2026-11-11"
   },
-  "ECLI:NL:RVS:2026:6510": {
+  "ECLI:NL:RVS:2026:6718": {
+   "gem": [],
+   "datum": "2026-11-16"
+  },
+  "ECLI:NL:RVS:2026:6566": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6627": {
+   "gem": [],
+   "datum": "2026-11-12"
+  },
+  "ECLI:NL:RVS:2026:4168": {
+   "gem": [],
+   "datum": "2026-07-17"
+  },
+  "ECLI:NL:RVS:2026:4177": {
+   "gem": [],
+   "datum": "2026-07-17"
+  },
+  "ECLI:NL:RVS:2026:6415": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6549": {
+   "gem": [],
+   "datum": "2026-11-06"
+  },
+  "ECLI:NL:RVS:2026:6488": {
    "gem": [],
    "datum": "2026-11-04"
   },
-  "ECLI:NL:RVS:2026:6404": {
+  "ECLI:NL:RVS:2026:6505": {
    "gem": [],
-   "datum": "2026-11-02"
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:5892": {
+   "gem": [],
+   "datum": "2026-10-07"
   },
   "ECLI:NL:RVS:2026:5893": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5895": {
    "gem": [],
    "datum": "2026-10-07"
   },
@@ -19772,81 +19818,45 @@
    "gem": [],
    "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:5490": {
+  "ECLI:NL:RVS:2026:5933": {
    "gem": [],
-   "datum": "2026-09-16"
+   "datum": "2026-10-02"
+  },
+  "ECLI:NL:RVS:2026:5715": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5142": {
+   "gem": [],
+   "datum": "2026-09-02"
+  },
+  "ECLI:NL:RVS:2026:1919": {
+   "gem": [],
+   "datum": "2026-04-08"
   },
   "ECLI:NL:RVS:2026:5661": {
    "gem": [],
    "datum": "2026-09-23"
   },
-  "ECLI:NL:RVS:2026:4606": {
+  "ECLI:NL:RVS:2026:5515": {
    "gem": [],
-   "datum": "2026-08-05"
+   "datum": "2026-09-16"
   },
-  "ECLI:NL:RVS:2001:AB2069": {
+  "ECLI:NL:RVS:2026:5341": {
    "gem": [],
-   "datum": "2001-06-01"
+   "datum": "2026-09-09"
   },
-  "ECLI:NL:RVS:2026:5872": {
+  "ECLI:NL:RVS:2026:5183": {
    "gem": [],
-   "datum": "2026-09-30"
+   "datum": "2026-09-02"
   },
-  "ECLI:NL:RVS:2026:4929": {
+  "ECLI:NL:RVS:2026:6316": {
    "gem": [],
-   "datum": "2026-08-25"
+   "datum": "2026-10-28"
   },
-  "ECLI:NL:RVS:2026:3303": {
-   "gem": [],
-   "datum": "2026-06-09"
-  },
-  "ECLI:NL:RVS:2026:4946": {
+  "ECLI:NL:RVS:2026:5009": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:6179": {
-   "gem": [],
-   "datum": "2026-10-21"
-  },
-  "ECLI:NL:RVS:2026:6247": {
-   "gem": [],
-   "datum": "2026-10-26"
-  },
-  "ECLI:NL:RVS:2026:6171": {
-   "gem": [],
-   "datum": "2026-10-21"
-  },
-  "ECLI:NL:RVS:2026:6180": {
-   "gem": [],
-   "datum": "2026-10-21"
-  },
-  "ECLI:NL:RVS:2026:6318": {
-   "gem": [],
-   "datum": "2026-10-28"
-  },
-  "ECLI:NL:RVS:2026:6347": {
-   "gem": [],
-   "datum": "2026-10-28"
-  },
-  "ECLI:NL:RVS:2026:6320": {
-   "gem": [],
-   "datum": "2026-10-28"
-  },
-  "ECLI:NL:RVS:2026:6358": {
-   "gem": [],
-   "datum": "2026-10-28"
-  },
-  "ECLI:NL:RVS:2026:3388": {
-   "gem": [],
-   "datum": "2026-06-12"
-  },
-  "ECLI:NL:RVS:2026:3425": {
-   "gem": [],
-   "datum": "2026-06-12"
-  },
-  "ECLI:NL:RVS:2026:4968": {
-   "gem": [],
-   "datum": "2026-08-27"
   }
  }
 }
