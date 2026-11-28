@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 01:13",
+ "bijgewerkt": "28-11-2026 01:32",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -19298,6 +19298,46 @@
    "gem": [],
    "datum": "2026-10-28"
   },
+  "ECLI:NL:RVS:2026:6597": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6573": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6718": {
+   "gem": [],
+   "datum": "2026-11-16"
+  },
+  "ECLI:NL:RVS:2026:6566": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6627": {
+   "gem": [],
+   "datum": "2026-11-12"
+  },
+  "ECLI:NL:RVS:2026:6415": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6549": {
+   "gem": [],
+   "datum": "2026-11-06"
+  },
+  "ECLI:NL:RVS:2026:6488": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6505": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6316": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19654,14 +19694,6 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4098": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4099": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
   "ECLI:NL:RVS:2026:4996": {
    "gem": [
     "Helmond"
@@ -19669,22 +19701,6 @@
    "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4076": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4081": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4092": {
-   "gem": [],
-   "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4190": {
    "gem": [],
@@ -19694,13 +19710,9 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4998": {
+  "ECLI:NL:RVS:2026:4999": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4225": {
-   "gem": [],
-   "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:5005": {
    "gem": [],
@@ -19710,153 +19722,89 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5010": {
+  "ECLI:NL:RVS:2026:5014": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5013": {
+  "ECLI:NL:RVS:2026:5023": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5015": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5018": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5019": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5025": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5497": {
-   "gem": [],
-   "datum": "2026-09-16"
-  },
-  "ECLI:NL:RVS:2026:5919": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5810": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
-  "ECLI:NL:RVS:2026:1808": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
-  "ECLI:NL:RVS:2026:5216": {
+  "ECLI:NL:RVS:2026:5324": {
    "gem": [],
    "datum": "2026-09-09"
   },
-  "ECLI:NL:RVS:2026:6597": {
+  "ECLI:NL:RVS:2026:5925": {
    "gem": [],
-   "datum": "2026-11-11"
+   "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:6573": {
+  "ECLI:NL:RVS:2025:5683": {
    "gem": [],
-   "datum": "2026-11-11"
+   "datum": "2025-12-03"
   },
-  "ECLI:NL:RVS:2026:6718": {
+  "ECLI:NL:RVS:2026:4628": {
+   "gem": [],
+   "datum": "2026-08-12"
+  },
+  "ECLI:NL:RVS:2026:6688": {
+   "gem": [],
+   "datum": "2026-11-13"
+  },
+  "ECLI:NL:RVS:2026:6724": {
    "gem": [],
    "datum": "2026-11-16"
   },
-  "ECLI:NL:RVS:2026:6566": {
+  "ECLI:NL:RVS:2026:6699": {
    "gem": [],
-   "datum": "2026-11-11"
+   "datum": "2026-11-13"
   },
-  "ECLI:NL:RVS:2026:6627": {
+  "ECLI:NL:RVS:2026:6710": {
    "gem": [],
-   "datum": "2026-11-12"
+   "datum": "2026-11-16"
   },
-  "ECLI:NL:RVS:2026:4168": {
+  "ECLI:NL:RVS:2026:6542": {
    "gem": [],
-   "datum": "2026-07-17"
+   "datum": "2026-11-10"
   },
-  "ECLI:NL:RVS:2026:4177": {
+  "ECLI:NL:RVS:2026:6691": {
    "gem": [],
-   "datum": "2026-07-17"
+   "datum": "2026-11-16"
   },
-  "ECLI:NL:RVS:2026:6415": {
+  "ECLI:NL:RVS:2026:6826": {
    "gem": [],
-   "datum": "2026-11-03"
+   "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:6549": {
+  "ECLI:NL:RVS:2026:6729": {
    "gem": [],
-   "datum": "2026-11-06"
+   "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:6488": {
-   "gem": [],
-   "datum": "2026-11-04"
-  },
-  "ECLI:NL:RVS:2026:6505": {
-   "gem": [],
-   "datum": "2026-11-04"
-  },
-  "ECLI:NL:RVS:2026:5892": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5893": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5895": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5897": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5900": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5933": {
-   "gem": [],
-   "datum": "2026-10-02"
-  },
-  "ECLI:NL:RVS:2026:5715": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5142": {
-   "gem": [],
-   "datum": "2026-09-02"
-  },
-  "ECLI:NL:RVS:2026:1919": {
+  "ECLI:NL:RVS:2026:1942": {
    "gem": [],
    "datum": "2026-04-08"
   },
-  "ECLI:NL:RVS:2026:5661": {
+  "ECLI:NL:RVS:2026:4608": {
    "gem": [],
-   "datum": "2026-09-23"
+   "datum": "2026-08-05"
   },
-  "ECLI:NL:RVS:2026:5515": {
+  "ECLI:NL:RVS:2026:6644": {
    "gem": [],
-   "datum": "2026-09-16"
+   "datum": "2026-11-11"
   },
-  "ECLI:NL:RVS:2026:5341": {
+  "ECLI:NL:RVS:2024:3150": {
    "gem": [],
-   "datum": "2026-09-09"
+   "datum": "2024-08-02"
   },
-  "ECLI:NL:RVS:2026:5183": {
+  "ECLI:NL:RVS:2026:4304": {
    "gem": [],
-   "datum": "2026-09-02"
+   "datum": "2026-07-22"
   },
-  "ECLI:NL:RVS:2026:6316": {
+  "ECLI:NL:RVS:2026:6395": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6278": {
    "gem": [],
    "datum": "2026-10-28"
-  },
-  "ECLI:NL:RVS:2026:5009": {
-   "gem": [],
-   "datum": "2026-08-26"
   }
  }
 }
