@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 18:29",
+ "bijgewerkt": "28-11-2026 18:49",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -496,23 +496,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 09:00"
-  },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne": {
-   "titel": "Boxtelse Cantorij geeft concert rond thema liefde in Deurne",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64818/boxtelse-cantorij-geeft-concert-rond-thema-liefde-in-deurne",
-   "tekst": "DEURNE - De Boxtelse Cantorij geeft woensdag 25 november een concert in de Protestantse kerk aan de Helmondseweg in Deurne. Onder leiding van dirigent Wil Barten brengt het koor een programma rond het thema liefde. Aanleiding is het 50-jarig huwelijk van Barten en zijn vrouw …",
-   "datum": "2026-11-21T18:45:00+01:00",
-   "eerst_gezien": "2026-11-21T17:49:30.587289+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:45"
   },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64945/voorstanders-asielopvang-overhandigen-petitie-gezamenlijke-ve": {
    "titel": "Voorstanders asielopvang overhandigen petitie: ‘Gezamenlijke verantwoordelijkheid voor ons allemaal’",
@@ -4109,12 +4092,12 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108742555/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html": {
+  "https://drimble.nl/regio/noord-brabant/helmond/108742589/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html": {
    "titel": "Vrienden en collega`s vragen in Den Haag aandacht en actie om ASML`er Omar Elshal (34) naar huis te halen",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108742555/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108742589/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html",
    "tekst": "",
-   "datum": "2026-11-28T17:25:12+00:00",
-   "eerst_gezien": "2026-11-28T17:26:52.177603+00:00",
+   "datum": "2026-11-28T17:31:03+00:00",
+   "eerst_gezien": "2026-11-28T17:45:12.392434+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -4124,7 +4107,7 @@
    "nieuw": true,
    "dagen": 7,
    "prio": false,
-   "tijd": "28-11 18:25"
+   "tijd": "28-11 18:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108741814/knuffelkont-en-stuiterbal-nougat-zoekt-een-gezin-met-kinderen.html": {
    "titel": "Knuffelkont en stuiterbal: Nougat zoekt een gezin met kinderen",
@@ -4357,23 +4340,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 12:19"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108740257/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html": {
-   "titel": "Lara (12) belde 112 nadat haar moeder lelijk was gevallen en voorkwam erger: nu wordt ze beloond",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740257/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html",
-   "tekst": "",
-   "datum": "2026-11-28T10:43:14+00:00",
-   "eerst_gezien": "2026-11-28T10:51:46.631689+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "28-11 11:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html": {
    "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
@@ -4874,39 +4840,90 @@
    "dagen": 7,
    "prio": false
   },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108740256/satheo-60-duwde-ooit-beatrix-opzij-nu-reist-hij-met-sate-het-land-door.html": {
-   "titel": "`Satheo` (60) duwde ooit Beatrix opzij, nu reist hij met saté het land door",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740256/satheo-60-duwde-ooit-beatrix-opzij-nu-reist-hij-met-sate-het-land-door.html",
-   "tekst": "",
-   "datum": "2026-11-28T10:43:14+00:00",
-   "eerst_gezien": "2026-11-28T10:51:46.631689+00:00",
-   "bron": "Drimble Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126182449a2helmondrit142128": {
+   "titel": "A2 Helmond Rit: 142128",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126182449a2helmondrit142128",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T18:24:49+01:00",
+   "eerst_gezien": "2026-11-28T17:45:12.392434+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "verzamelsite",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "28-11 11:43"
+   "tijd": "28-11 18:24"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126172646a2helmondrit142119": {
+   "titel": "A2 Helmond Rit: 142119",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126172646a2helmondrit142119",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T17:26:46+01:00",
+   "eerst_gezien": "2026-11-28T17:45:12.392434+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "28-11 17:26"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126171144a2helmondrit142113": {
+   "titel": "A2 Helmond Rit: 142113",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126171144a2helmondrit142113",
+   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T17:11:44+01:00",
+   "eerst_gezien": "2026-11-28T17:45:12.392434+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "28-11 17:11"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126163956a2helmondrit142092": {
+   "titel": "A2 Helmond Rit: 142092",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126163956a2helmondrit142092",
+   "tekst": "Ambulance 22-119 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T16:39:56+01:00",
+   "eerst_gezien": "2026-11-28T17:45:12.392434+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "28-11 16:39"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126163928a1helmondrit142090": {
+   "titel": "A1 Helmond Rit: 142090",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126163928a1helmondrit142090",
+   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T16:39:28+01:00",
+   "eerst_gezien": "2026-11-28T17:45:12.392434+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": true,
+   "tijd": "28-11 16:39"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126163020a2helmondrit142089": {
    "titel": "A2 Helmond Rit: 142089",
@@ -5400,6 +5417,74 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 21:02"
+  },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108742555/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html": {
+   "titel": "Vrienden en collega`s vragen in Den Haag aandacht en actie om ASML`er Omar Elshal (34) naar huis te halen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108742555/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html",
+   "tekst": "",
+   "datum": "2026-11-28T17:25:12+00:00",
+   "eerst_gezien": "2026-11-28T17:26:52.177603+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 18:25"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740257/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html": {
+   "titel": "Lara (12) belde 112 nadat haar moeder lelijk was gevallen en voorkwam erger: nu wordt ze beloond",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740257/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:43:14+00:00",
+   "eerst_gezien": "2026-11-28T10:51:46.631689+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 11:43"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740256/satheo-60-duwde-ooit-beatrix-opzij-nu-reist-hij-met-sate-het-land-door.html": {
+   "titel": "`Satheo` (60) duwde ooit Beatrix opzij, nu reist hij met saté het land door",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740256/satheo-60-duwde-ooit-beatrix-opzij-nu-reist-hij-met-sate-het-land-door.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:43:14+00:00",
+   "eerst_gezien": "2026-11-28T10:51:46.631689+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 11:43"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126204813a2helmondrit141770": {
    "titel": "A2 Helmond Rit: 141770",
@@ -7606,40 +7691,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 19:09"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126183745a1deurnerit141306": {
-   "titel": "A1 Deurne Rit: 141306",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126183745a1deurnerit141306",
-   "tekst": "Ambulance 22-126 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T18:37:45+01:00",
-   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "26-11 18:37"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126183049a2helmondrit141303": {
-   "titel": "A2 Helmond Rit: 141303",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126183049a2helmondrit141303",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-26T18:30:49+01:00",
-   "eerst_gezien": "2026-11-26T17:54:40.782004+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 18:30"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108730256/eindhovenaar-krijgt-vier-jaar-cel-voor-cocaine-export-via-bladels-bedrijf.html": {
    "titel": "Eindhovenaar krijgt vier jaar cel voor cocaïne-export via Bladels bedrijf",
@@ -16318,23 +16369,6 @@
    "prio": false,
    "tijd": "23-11 06:52"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671218/basisschool-maanden-dicht-na-verwoestende-vuurwerkbrand-veroorzaakt-door-jonge-kinderen-ouders-voeren-geen-lik-op-stukbeleid.html": {
-   "titel": "Basisschool maanden dicht na verwoestende vuurwerkbrand veroorzaakt door jonge kinderen: ’Ouders voeren geen lik-op-stukbeleid...",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671218/basisschool-maanden-dicht-na-verwoestende-vuurwerkbrand-veroorzaakt-door-jonge-kinderen-ouders-voeren-geen-lik-op-stukbeleid.html",
-   "tekst": "",
-   "datum": "2026-11-21T17:44:01+00:00",
-   "eerst_gezien": "2026-11-21T17:49:30.587289+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 18:44"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108684323/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108684323/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
@@ -17629,7 +17663,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 30,
+   "aantal": 29,
    "fout": ""
   },
   "Peelbelang": {
@@ -17724,7 +17758,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 16,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -17744,7 +17778,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 34,
    "fout": ""
   },
   "112Brabant": {
@@ -19596,6 +19630,18 @@
    "gem": [],
    "datum": "2026-11-06"
   },
+  "ECLI:NL:RVS:2026:6352": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6513": {
+   "gem": [],
+   "datum": "2026-11-06"
+  },
+  "ECLI:NL:RVS:2026:6674": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19608,13 +19654,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:1840": {
    "gem": [],
    "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19912,6 +19958,30 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2025:6456": {
+   "gem": [],
+   "datum": "2025-07-30"
+  },
+  "ECLI:NL:RVS:2026:4008": {
+   "gem": [],
+   "datum": "2026-07-13"
+  },
+  "ECLI:NL:RVS:2026:4034": {
+   "gem": [],
+   "datum": "2026-07-14"
+  },
+  "ECLI:NL:RVS:2026:4992": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4224": {
+   "gem": [],
+   "datum": "2026-07-14"
+  },
+  "ECLI:NL:RVS:2026:4045": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
   "ECLI:NL:RVS:2026:4993": {
    "gem": [],
    "datum": "2026-08-26"
@@ -19919,6 +19989,10 @@
   "ECLI:NL:RVS:2026:4066": {
    "gem": [],
    "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4994": {
+   "gem": [],
+   "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:4067": {
    "gem": [],
@@ -19932,6 +20006,26 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4081": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
@@ -19940,15 +20034,23 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4998": {
+  "ECLI:NL:RVS:2026:4999": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
+  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5013": {
+  "ECLI:NL:RVS:2026:5010": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5015": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5018": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19956,45 +20058,53 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5925": {
+  "ECLI:NL:RVS:2026:5021": {
    "gem": [],
-   "datum": "2026-10-07"
+   "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4569": {
+  "ECLI:NL:RVS:2026:5810": {
    "gem": [],
-   "datum": "2026-08-05"
+   "datum": "2026-09-30"
   },
-  "ECLI:NL:RVS:2026:5867": {
+  "ECLI:NL:RVS:2026:4288": {
    "gem": [],
-   "datum": "2026-10-07"
+   "datum": "2026-07-22"
   },
-  "ECLI:NL:RVS:2026:6252": {
+  "ECLI:NL:RVS:2026:629": {
    "gem": [],
-   "datum": "2026-10-12"
+   "datum": "2026-02-04"
   },
-  "ECLI:NL:RVS:2026:459": {
-   "gem": [],
-   "datum": "2026-01-28"
-  },
-  "ECLI:NL:RVS:2026:478": {
-   "gem": [],
-   "datum": "2026-01-28"
-  },
-  "ECLI:NL:RVS:2026:6352": {
+  "ECLI:NL:RVS:2026:6335": {
    "gem": [],
    "datum": "2026-10-28"
   },
-  "ECLI:NL:RVS:2026:4186": {
+  "ECLI:NL:RVS:2026:4216": {
    "gem": [],
    "datum": "2026-07-17"
   },
-  "ECLI:NL:RVS:2026:6513": {
+  "ECLI:NL:RVS:2026:4218": {
    "gem": [],
-   "datum": "2026-11-06"
+   "datum": "2026-07-17"
   },
-  "ECLI:NL:RVS:2026:6674": {
+  "ECLI:NL:RVS:2026:6403": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6677": {
    "gem": [],
    "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6528": {
+   "gem": [],
+   "datum": "2026-11-09"
+  },
+  "ECLI:NL:RVS:2026:6426": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6467": {
+   "gem": [],
+   "datum": "2026-11-05"
   }
  }
 }
