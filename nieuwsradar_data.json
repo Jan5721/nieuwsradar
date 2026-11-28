@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 17:14",
+ "bijgewerkt": "28-11-2026 17:33",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -1793,23 +1793,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 20:57"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan": {
-   "titel": "Hal en lokalen verwoest na schoolbrand: 'Vraag of school nog open kan'",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan",
-   "tekst": "21 november 2026 Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden …",
-   "datum": "2026-11-21T16:13:39.683487+00:00",
-   "eerst_gezien": "2026-11-21T16:13:39.683487+00:00",
-   "bron": "Omroep Brabant lokaal Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 17:13"
   },
   "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken": {
    "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
@@ -15243,7 +15226,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 23:17"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108673344/straf-of-niet-dit-staat-kinderen-die-school-in-brand-staken-te-wachten.html": {
    "titel": "Straf of niet' Dit staat kinderen die school in brand staken te wachten",
@@ -16462,23 +16446,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108670671/basisschool-in-brand-doordat-kinderen-vuurwerk-afsteken-video.html": {
-   "titel": "Basisschool in brand doordat kinderen vuurwerk afsteken [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670671/basisschool-in-brand-doordat-kinderen-vuurwerk-afsteken-video.html",
-   "tekst": "Een basisschool in het Brabantse dorp Deurne stond vrijdagavond in brand. Het vuur was in twee klaslokalen en een zaal van basisschool...",
-   "datum": "2026-11-21T16:15:01+00:00",
-   "eerst_gezien": "2026-11-21T16:29:36.686813+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 17:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108685372/eindhoven-staat-bewust-niet-op-de-brabantse-pfas-kaart-we-willen-onnodige-onrust-voorkomen.html": {
    "titel": "Eindhoven staat bewust niet op de Brabantse PFAS-kaart: `We willen onnodige onrust voorkomen`",
@@ -17716,7 +17683,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 28,
+   "aantal": 27,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -19651,13 +19618,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19991,38 +19958,6 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4067": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4098": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4099": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4996": {
-   "gem": [
-    "Helmond"
-   ],
-   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
-   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4076": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4081": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
@@ -20039,25 +19974,29 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4225": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:5022": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:5023": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5019": {
+  "ECLI:NL:RVS:2026:5026": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5021": {
+  "ECLI:NL:RVS:2026:5955": {
    "gem": [],
-   "datum": "2026-08-26"
+   "datum": "2026-10-14"
+  },
+  "ECLI:NL:RVS:2026:4628": {
+   "gem": [],
+   "datum": "2026-08-12"
+  },
+  "ECLI:NL:RVS:2026:6443": {
+   "gem": [],
+   "datum": "2026-11-06"
   }
  }
 }
