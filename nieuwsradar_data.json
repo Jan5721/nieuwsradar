@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 17:33",
+ "bijgewerkt": "28-11-2026 17:53",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -1793,6 +1793,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 20:57"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan": {
+   "titel": "Hal en lokalen verwoest na schoolbrand: 'Vraag of school nog open kan'",
+   "link": "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan",
+   "tekst": "21 november 2026 Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden …",
+   "datum": "2026-11-28T16:49:07.479172+00:00",
+   "eerst_gezien": "2026-11-28T16:49:07.479172+00:00",
+   "bron": "Omroep Brabant lokaal Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 17:49"
   },
   "https://www.omroepbrabant.nl/nieuws/6035633/klaslokaal-basisschool-verwoest-door-brand-nadat-kinderen-vuurwerk-afsteken": {
    "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
@@ -14528,7 +14545,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 23:42"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108695393/nieuw-stroomhuis-opent-pas-in-2029-gemeente-vraagt-verzekeraar-om-uitstel.html": {
    "titel": "Nieuw Stroomhuis opent pas in 2029, gemeente vraagt verzekeraar om uitstel",
@@ -16300,23 +16318,6 @@
    "prio": false,
    "tijd": "21-11 18:44"
   },
-  "https://www.ed.nl/deurne/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik~a9205304e/": {
-   "titel": "Door vuurwerk verwoeste basisschool in Deurne is zeker maanden buiten gebruik",
-   "link": "https://www.ed.nl/deurne/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik~a9205304e/",
-   "tekst": "Basisschool Zeilberg in Deurne blijft vermoedelijk minstens maandenlang gesloten. Het hele schoolgebouw is fors beschadigd door vuur, rook en roet. De brand werd vrijdagavond veroorzaakt door vuurwerk. Voor de ruim 250 leerlingen wordt komende week naar een tijdelijk onderkomen …",
-   "datum": "2026-11-21T16:37:00+00:00",
-   "eerst_gezien": "2026-11-21T16:45:37.335833+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 17:37"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108684323/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108684323/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
@@ -16326,22 +16327,6 @@
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108670930/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik.html": {
-   "titel": "Door vuurwerk verwoeste basisschool in Deurne is zeker maanden buiten gebruik",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670930/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik.html",
-   "tekst": "",
-   "datum": "2026-11-21T16:49:07+00:00",
-   "eerst_gezien": "2026-11-21T17:01:33.603266+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
    ],
    "soort": "verzamelsite",
    "betaald": false,
@@ -17622,22 +17607,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108670893/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik.html": {
-   "titel": "Door vuurwerk verwoeste basisschool in Deurne is zeker maanden buiten gebruik",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108670893/door-vuurwerk-verwoeste-basisschool-in-deurne-is-zeker-maanden-buiten-gebruik.html",
-   "tekst": "",
-   "datum": "2026-11-21T16:43:14+00:00",
-   "eerst_gezien": "2026-11-21T16:45:37.335833+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   }
  },
  "bronnen": {
@@ -17683,7 +17652,7 @@
   },
   "Omroep Brabant lokaal Deurne": {
    "ok": true,
-   "aantal": 27,
+   "aantal": 28,
    "fout": ""
   },
   "Omroep Brabant lokaal Asten": {
@@ -19606,6 +19575,10 @@
    "gem": [],
    "datum": "2026-10-28"
   },
+  "ECLI:NL:RVS:2026:6443": {
+   "gem": [],
+   "datum": "2026-11-06"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19958,7 +19931,31 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4092": {
+  "ECLI:NL:RVS:2026:4067": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4098": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4099": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4081": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19966,37 +19963,65 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4191": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4998": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5022": {
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5023": {
+  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5026": {
+  "ECLI:NL:RVS:2026:5013": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5014": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5018": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5025": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5027": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5919": {
+   "gem": [],
+   "datum": "2026-10-07"
   },
   "ECLI:NL:RVS:2026:5955": {
    "gem": [],
    "datum": "2026-10-14"
   },
-  "ECLI:NL:RVS:2026:4628": {
+  "ECLI:NL:RVS:2026:3195": {
    "gem": [],
-   "datum": "2026-08-12"
+   "datum": "2026-06-03"
   },
-  "ECLI:NL:RVS:2026:6443": {
+  "ECLI:NL:RVS:2026:1942": {
    "gem": [],
-   "datum": "2026-11-06"
+   "datum": "2026-04-08"
+  },
+  "ECLI:NL:RVS:2026:6088": {
+   "gem": [],
+   "datum": "2026-10-14"
+  },
+  "ECLI:NL:RVS:2026:4274": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:4601": {
+   "gem": [],
+   "datum": "2026-08-05"
   }
  }
 }
