@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 07:09",
+ "bijgewerkt": "28-11-2026 07:29",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -783,7 +783,7 @@
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 07:00"
@@ -2182,7 +2182,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 07:05"
@@ -4143,6 +4143,39 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108738899/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html": {
+   "titel": "Tbs`ers in de Woenselse Poort klagen over stagnerende behandeling en verveling: `Ik zit hier niet om te gamen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738899/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html",
+   "tekst": "",
+   "datum": "2026-11-28T06:13:25+00:00",
+   "eerst_gezien": "2026-11-28T06:24:40.898468+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 07:13"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108738897/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html": {
+   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: `Deze keer had hij niets te zeggen`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108738897/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html",
+   "tekst": "",
+   "datum": "2026-11-28T06:13:25+00:00",
+   "eerst_gezien": "2026-11-28T06:24:40.898468+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108738844/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html": {
    "titel": "Tbs`ers in de Woenselse Poort klagen over stagnerende behandeling en verveling: `Ik zit hier niet om te gamen`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108738844/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html",
@@ -4155,10 +4188,9 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "28-11 07:01"
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108738842/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen.html": {
    "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: `Deze keer had hij niets te zeggen`",
@@ -4172,7 +4204,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4422,23 +4454,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 19:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108733926/premier-jetten-trekt-aan-de-bel-bij-trump-over-asml-dit-is-onacceptabel.html": {
-   "titel": "Premier Jetten trekt aan de bel bij Trump over ASML: `Dit is onacceptabel`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733926/premier-jetten-trekt-aan-de-bel-bij-trump-over-asml-dit-is-onacceptabel.html",
-   "tekst": "",
-   "datum": "2026-11-27T18:43:16+00:00",
-   "eerst_gezien": "2026-11-27T18:48:57.948992+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 19:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html": {
    "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
@@ -5397,6 +5412,23 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733926/premier-jetten-trekt-aan-de-bel-bij-trump-over-asml-dit-is-onacceptabel.html": {
+   "titel": "Premier Jetten trekt aan de bel bij Trump over ASML: `Dit is onacceptabel`",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733926/premier-jetten-trekt-aan-de-bel-bij-trump-over-asml-dit-is-onacceptabel.html",
+   "tekst": "",
+   "datum": "2026-11-27T18:43:16+00:00",
+   "eerst_gezien": "2026-11-27T18:48:57.948992+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 19:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108733844/vaatchirurg-joep-teijink-mag-zich-voortaan-ook-ridder-noemen.html": {
    "titel": "Vaatchirurg Joep Teijink mag zich voortaan ook ridder noemen",
@@ -17947,57 +17979,6 @@
    "prio": false,
    "tijd": "21-11 07:49"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667596/fc-dordrecht-verliest-met-5-1-in-helmond-en-staat-laatste-video.html": {
-   "titel": "FC Dordrecht verliest met 5-1 in Helmond en staat laatste [video]",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667596/fc-dordrecht-verliest-met-5-1-in-helmond-en-staat-laatste-video.html",
-   "tekst": "Meer lezen' ð¥ï¸ www.rtvdordrecht.nl Welkom op het YouTube-kanaal van RTV Dordrecht en Streekomroep 56. Hier vind je al onze...",
-   "datum": "2026-11-21T06:22:10+00:00",
-   "eerst_gezien": "2026-11-21T06:34:32.644226+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 07:22"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667593/vlaamse-burgemeesters-snappen-het-niet-waarom-komen-nederlanders-wel-slapen-maar-werken-en-leven-ze-nog-steeds-over-de-grens.html": {
-   "titel": "Vlaamse burgemeesters snappen het niet: waarom komen Nederlanders wel slapen, maar werken en leven ze nog steeds over de grens'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667593/vlaamse-burgemeesters-snappen-het-niet-waarom-komen-nederlanders-wel-slapen-maar-werken-en-leven-ze-nog-steeds-over-de-grens.html",
-   "tekst": "",
-   "datum": "2026-11-21T06:21:29+00:00",
-   "eerst_gezien": "2026-11-21T06:34:32.644226+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 07:21"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667541/nederlanders-beleggen-een-recordbedrag-op-de-beurs-en-kiezen-massaal-voor-asml.html": {
-   "titel": "Nederlanders beleggen een recordbedrag op de beurs en kiezen massaal voor ASML",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667541/nederlanders-beleggen-een-recordbedrag-op-de-beurs-en-kiezen-massaal-voor-asml.html",
-   "tekst": "",
-   "datum": "2026-11-21T06:07:20+00:00",
-   "eerst_gezien": "2026-11-21T06:18:27.427731+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 07:07"
-  },
   "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/": {
    "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
    "link": "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/",
@@ -18131,7 +18112,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 18,
+   "aantal": 19,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19815,13 +19796,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -20187,17 +20168,13 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4092": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4190": {
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4998": {
+  "ECLI:NL:RVS:2026:4191": {
    "gem": [],
-   "datum": "2026-08-26"
+   "datum": "2026-07-16"
   },
   "ECLI:NL:RVS:2026:4225": {
    "gem": [],
@@ -20207,17 +20184,77 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:5005": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5008": {
+  "ECLI:NL:RVS:2026:5014": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5010": {
+  "ECLI:NL:RVS:2026:5018": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5023": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5025": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5026": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5475": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5894": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5793": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:6745": {
+   "gem": [],
+   "datum": "2026-11-13"
+  },
+  "ECLI:NL:RVS:2026:6574": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6240": {
+   "gem": [],
+   "datum": "2026-10-12"
+  },
+  "ECLI:NL:RVS:2026:4608": {
+   "gem": [],
+   "datum": "2026-08-05"
+  },
+  "ECLI:NL:RVS:2026:6326": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:4193": {
+   "gem": [],
+   "datum": "2026-07-17"
+  },
+  "ECLI:NL:RVS:2026:4272": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:6448": {
+   "gem": [],
+   "datum": "2026-11-05"
   }
  }
 }
