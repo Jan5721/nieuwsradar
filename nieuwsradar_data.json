@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 09:02",
+ "bijgewerkt": "28-11-2026 09:22",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -1780,7 +1780,7 @@
   "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan": {
    "titel": "Hal en lokalen verwoest na schoolbrand: 'Vraag of school nog open kan'",
    "link": "https://www.omroepbrabant.nl/nieuws/6035679/hal-en-lokalen-verwoest-na-schoolbrand-vraag-of-school-nog-open-kan",
-   "tekst": "zaterdag Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden worden. …",
+   "tekst": "21 november 2026 Basisschool De Zeilberg in Deurne blijft waarschijnlijk nog maanden dicht nadat vrijdagavond brand uitbrak. Die ontstond nadat twee kinderen er vuurwerk afstaken. Voor de bijna 300 leerlingen moet een andere plek gevonden …",
    "datum": "2026-11-21T16:13:39.683487+00:00",
    "eerst_gezien": "2026-11-21T16:13:39.683487+00:00",
    "bron": "Omroep Brabant lokaal Deurne",
@@ -4126,6 +4126,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739353/bedrijf-verduurzaamt-burgers-betalen-beetje-extra-hoe-kan-dat.html": {
+   "titel": "Bedrijf verduurzaamt, burgers betalen (beetje) extra; hoe kan dat'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739353/bedrijf-verduurzaamt-burgers-betalen-beetje-extra-hoe-kan-dat.html",
+   "tekst": "",
+   "datum": "2026-11-28T08:13:25+00:00",
+   "eerst_gezien": "2026-11-28T08:18:01.946003+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 09:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108739150/erwin-58-en-nicole-52-krijgen-hun-nieuwe-huis-in-mierlo-hout-opgeleverd-maar-nu-begint-pas-het-echte-werk.html": {
    "titel": "Erwin (58) en Nicole (52) krijgen hun nieuwe huis in Mierlo-Hout opgeleverd, maar nu begint pas het echte werk",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108739150/erwin-58-en-nicole-52-krijgen-hun-nieuwe-huis-in-mierlo-hout-opgeleverd-maar-nu-begint-pas-het-echte-werk.html",
@@ -4387,22 +4404,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 20:31"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108734161/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html": {
-   "titel": "Helmondse Senna scoort met `Hey Poes`, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734161/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html",
-   "tekst": "",
-   "datum": "2026-11-27T19:25:11+00:00",
-   "eerst_gezien": "2026-11-27T19:32:46.589233+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html": {
    "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
@@ -5378,6 +5379,22 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108734161/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html": {
+   "titel": "Helmondse Senna scoort met `Hey Poes`, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734161/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:25:11+00:00",
+   "eerst_gezien": "2026-11-27T19:32:46.589233+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108739055/lapjes-uit-hele-land-worden-warme-knuffels-voor-vrouwen-in-eindhovense-opvang-dankzij-lotte-en-diana.html": {
    "titel": "Lapjes uit hele land worden `warme knuffels` voor vrouwen in Eindhovense opvang, dankzij Lotte en Diana",
@@ -8277,23 +8294,6 @@
    "prio": false,
    "tijd": "23-11 23:18"
   },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126090459a2astenrit141029": {
-   "titel": "A2 Asten Rit: 141029",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126090459a2astenrit141029",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T09:04:59+01:00",
-   "eerst_gezien": "2026-11-26T08:15:52.251520+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 09:04"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108691807/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school.html": {
    "titel": "Schoolbrand raakt kinderen hard: ´Ik had het heel leuk op school´",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108691807/schoolbrand-raakt-kinderen-hard-ik-had-het-heel-leuk-op-school.html",
@@ -8513,23 +8513,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 11:07"
-  },
-  "https://www.helmondnu.nl/algemeen/algemeen/20548/nie-graaie-maar-zwaaie-": {
-   "titel": "Nie graaie, maar zwaaie?",
-   "link": "https://www.helmondnu.nl/algemeen/algemeen/20548/nie-graaie-maar-zwaaie-",
-   "tekst": "Helmond maakt zich weer op voor carnaval. De carnavalskleding uit de kast, de steek op het hoofd en zwaaien maar! In Kattemeppersland zijn we een paar dagen allemaal vrienden. Zelfs mensen die elkaar elf maanden straal voorbijlopen, vallen elkaar ineens om de nek. Wonderlijk …",
-   "datum": "2026-11-21T08:06:00+00:00",
-   "eerst_gezien": "2026-11-26T21:08:17.549243+00:00",
-   "bron": "De Loop (HelmondNu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:06"
   },
   "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-280-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
    "titel": "Eerste schooldag in Someren komt dichtbij voor 280 getroffen kinderen uit Deurne: ‘Iedereen staat voor elkaar klaar’",
@@ -16138,23 +16121,6 @@
    "prio": false,
    "tijd": "23-11 07:19"
   },
-  "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/": {
-   "titel": "Bij Stiphout Vooruit hebben ze nu twee voorzitters: ‘Vele handen maken licht werk’",
-   "link": "https://www.ed.nl/helmond/bij-stiphout-vooruit-hebben-ze-nu-twee-voorzitters-vele-handen-maken-licht-werk~a13f3102/",
-   "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
-   "datum": "2026-11-21T08:15:00+00:00",
-   "eerst_gezien": "2026-11-21T09:47:34.544838+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:15"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108681087/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem.html": {
    "titel": "Wáár komt die pakjesboot dan aan' Een mogelijke landelijke Sintocht in Helmond heeft één groot probleem",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108681087/waar-komt-die-pakjesboot-dan-aan-een-mogelijke-landelijke-sintocht-in-helmond-heeft-een-groot-probleem.html",
@@ -17526,7 +17492,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 10:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108668655/twee-assists-en-een-belangrijke-zege-maar-voor-flor-van-den-eynden-is-veel-groter-geluk-in-aantocht-het-kan-elk-moment.html": {
    "titel": "Twee assists en een belangrijke zege, maar voor Flor Van den Eynden is veel groter geluk in aantocht: `Het kan elk moment...",
@@ -17559,7 +17526,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 10:13"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
    "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
@@ -17674,41 +17642,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
-  },
-  "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/": {
-   "titel": "Een halve baan als voorzitter? Stiphout Vooruit lost het gewoon op met z’n tweeën",
-   "link": "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/",
-   "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
-   "datum": "2026-11-21T08:15:00+00:00",
-   "eerst_gezien": "2026-11-21T09:15:24.525002+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
    "prio": false,
-   "tijd": "21-11 09:15"
-  },
-  "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/": {
-   "titel": "Geen grote ego’s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
-   "link": "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/",
-   "tekst": "Een baan die veel van je vraagt, een druk gezinsleven en dan ook nog in je schaarse vrije tijd vele uren steken in je sportvereniging? Veel mensen passen voor dat laatste. Bij voetbalclub Stiphout Vooruit bedachten ze daar een oplossing voor.",
-   "datum": "2026-11-21T08:15:01+00:00",
-   "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:15"
+   "tijd": "21-11 09:21"
   }
  },
  "bronnen": {
@@ -19941,6 +19876,10 @@
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
@@ -19953,13 +19892,17 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4190": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4191": {
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4225": {
+  "ECLI:NL:RVS:2026:4998": {
    "gem": [],
-   "datum": "2026-07-16"
+   "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:5006": {
    "gem": [],
@@ -19969,7 +19912,7 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5013": {
+  "ECLI:NL:RVS:2026:5014": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19977,7 +19920,7 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5022": {
+  "ECLI:NL:RVS:2026:5021": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19993,9 +19936,65 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5027": {
+  "ECLI:NL:RVS:2026:5497": {
    "gem": [],
-   "datum": "2026-08-26"
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5475": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5811": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5793": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5216": {
+   "gem": [],
+   "datum": "2026-09-09"
+  },
+  "ECLI:NL:RVS:2026:1941": {
+   "gem": [],
+   "datum": "2026-04-08"
+  },
+  "ECLI:NL:RVS:2026:461": {
+   "gem": [],
+   "datum": "2026-01-28"
+  },
+  "ECLI:NL:RVS:2026:4290": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:6646": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6477": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6533": {
+   "gem": [],
+   "datum": "2026-11-09"
+  },
+  "ECLI:NL:RVS:2026:3225": {
+   "gem": [],
+   "datum": "2026-06-05"
+  },
+  "ECLI:NL:RVS:2026:3813": {
+   "gem": [],
+   "datum": "2026-07-01"
+  },
+  "ECLI:NL:RVS:2026:4578": {
+   "gem": [],
+   "datum": "2026-08-05"
+  },
+  "ECLI:NL:RVS:2026:4846": {
+   "gem": [],
+   "datum": "2026-08-19"
   }
  }
 }
