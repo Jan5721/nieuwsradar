@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 08:25",
+ "bijgewerkt": "28-11-2026 08:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -4138,7 +4138,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4154,7 +4154,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 08:13"
@@ -4920,140 +4920,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126081757a2astenrit141896": {
+   "titel": "A2 Asten Rit: 141896",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126081757a2astenrit141896",
+   "tekst": "Ambulance 22-122 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T08:17:57+01:00",
+   "eerst_gezien": "2026-11-28T07:40:36.083905+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
-    "Someren"
+    "Asten"
    ],
-   "soort": "Raad van State",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "18-11 01:00"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108739055/lapjes-uit-hele-land-worden-warme-knuffels-voor-vrouwen-in-eindhovense-opvang-dankzij-lotte-en-diana.html": {
-   "titel": "Lapjes uit hele land worden `warme knuffels` voor vrouwen in Eindhovense opvang, dankzij Lotte en Diana",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739055/lapjes-uit-hele-land-worden-warme-knuffels-voor-vrouwen-in-eindhovense-opvang-dankzij-lotte-en-diana.html",
-   "tekst": "",
-   "datum": "2026-11-28T07:01:05+00:00",
-   "eerst_gezien": "2026-11-28T07:04:08.505125+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "28-11 08:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108734006/vijf-duels-in-keuken-kampioen-divisie-gaan-niet-door-vanwege-winterweer.html": {
-   "titel": "Vijf duels in Keuken Kampioen Divisie gaan niet door vanwege winterweer",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734006/vijf-duels-in-keuken-kampioen-divisie-gaan-niet-door-vanwege-winterweer.html",
-   "tekst": "",
-   "datum": "2026-11-27T19:01:09+00:00",
-   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 20:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108733999/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html": {
-   "titel": "Helmondse Senna scoort met `Hey Poes`, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733999/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html",
-   "tekst": "",
-   "datum": "2026-11-27T19:01:05+00:00",
-   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108733964/rechter-wijst-miljoeneneis-af-oud-top-gibson-niet-aansprakelijk-voor-ondergang-philips-audiotak.html": {
-   "titel": "Rechter wijst miljoeneneis af: oud-top Gibson niet aansprakelijk voor ondergang Philips-audiotak",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733964/rechter-wijst-miljoeneneis-af-oud-top-gibson-niet-aansprakelijk-voor-ondergang-philips-audiotak.html",
-   "tekst": "",
-   "datum": "2026-11-27T18:49:09+00:00",
-   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 19:49"
-  },
-  "https://www.ed.nl/helmond/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen~ae07e5f3/": {
-   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: ‘Deze keer had hij niets te zeggen’",
-   "link": "https://www.ed.nl/helmond/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen~ae07e5f3/",
-   "tekst": "Erwin en Nicole Filippini stralen. Hun nieuwe huis in Mierlo-Hout is net opgeleverd door de bouwer. „Erwin had eigenlijk nog wel even verder willen kijken, maar ik wilde niet uit Mierlo-Hout weg”, zegt Nicole. „Dus deze keer had hij niets te zeggen.”",
-   "datum": "2026-11-28T06:00:27+00:00",
-   "eerst_gezien": "2026-11-28T06:05:23.689428+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "28-11 07:00"
-  },
-  "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
-   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
-   "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
-   "tekst": "De voorpret bij het Helmondse Kasteel van Sinterklaas begint al op het voorplein, waar bezoekers voor en na hun visite worden opgevangen. Buiten vliegen de Pieten en pepernoten om de oren, maar in de Smulwinkel komen pa en ma tot rust, totdat ze zoonlief kwijt zijn.",
-   "datum": "2026-11-27T06:30:00+00:00",
-   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 07:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html": {
-   "titel": "Premier Jetten wil ASML bespreken met Trump op G20 in Miami",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html",
-   "tekst": "",
-   "datum": "2026-11-27T18:49:09+00:00",
-   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 19:49"
+   "tijd": "28-11 08:17"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126050330a1helmondrit141868": {
    "titel": "A1 Helmond Rit: 141868",
@@ -5479,6 +5361,141 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 11:58"
+  },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739055/lapjes-uit-hele-land-worden-warme-knuffels-voor-vrouwen-in-eindhovense-opvang-dankzij-lotte-en-diana.html": {
+   "titel": "Lapjes uit hele land worden `warme knuffels` voor vrouwen in Eindhovense opvang, dankzij Lotte en Diana",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739055/lapjes-uit-hele-land-worden-warme-knuffels-voor-vrouwen-in-eindhovense-opvang-dankzij-lotte-en-diana.html",
+   "tekst": "",
+   "datum": "2026-11-28T07:01:05+00:00",
+   "eerst_gezien": "2026-11-28T07:04:08.505125+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 08:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108734006/vijf-duels-in-keuken-kampioen-divisie-gaan-niet-door-vanwege-winterweer.html": {
+   "titel": "Vijf duels in Keuken Kampioen Divisie gaan niet door vanwege winterweer",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734006/vijf-duels-in-keuken-kampioen-divisie-gaan-niet-door-vanwege-winterweer.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:01:09+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 20:01"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733999/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html": {
+   "titel": "Helmondse Senna scoort met `Hey Poes`, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733999/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:01:05+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733964/rechter-wijst-miljoeneneis-af-oud-top-gibson-niet-aansprakelijk-voor-ondergang-philips-audiotak.html": {
+   "titel": "Rechter wijst miljoeneneis af: oud-top Gibson niet aansprakelijk voor ondergang Philips-audiotak",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733964/rechter-wijst-miljoeneneis-af-oud-top-gibson-niet-aansprakelijk-voor-ondergang-philips-audiotak.html",
+   "tekst": "",
+   "datum": "2026-11-27T18:49:09+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 19:49"
+  },
+  "https://www.ed.nl/helmond/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen~ae07e5f3/": {
+   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: ‘Deze keer had hij niets te zeggen’",
+   "link": "https://www.ed.nl/helmond/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen~ae07e5f3/",
+   "tekst": "Erwin en Nicole Filippini stralen. Hun nieuwe huis in Mierlo-Hout is net opgeleverd door de bouwer. „Erwin had eigenlijk nog wel even verder willen kijken, maar ik wilde niet uit Mierlo-Hout weg”, zegt Nicole. „Dus deze keer had hij niets te zeggen.”",
+   "datum": "2026-11-28T06:00:27+00:00",
+   "eerst_gezien": "2026-11-28T06:05:23.689428+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 07:00"
+  },
+  "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
+   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
+   "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
+   "tekst": "De voorpret bij het Helmondse Kasteel van Sinterklaas begint al op het voorplein, waar bezoekers voor en na hun visite worden opgevangen. Buiten vliegen de Pieten en pepernoten om de oren, maar in de Smulwinkel komen pa en ma tot rust, totdat ze zoonlief kwijt zijn.",
+   "datum": "2026-11-27T06:30:00+00:00",
+   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 07:30"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html": {
+   "titel": "Premier Jetten wil ASML bespreken met Trump op G20 in Miami",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html",
+   "tekst": "",
+   "datum": "2026-11-27T18:49:09+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 19:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108733926/premier-jetten-trekt-aan-de-bel-bij-trump-over-asml-dit-is-onacceptabel.html": {
    "titel": "Premier Jetten trekt aan de bel bij Trump over ASML: `Dit is onacceptabel`",
@@ -8648,57 +8665,6 @@
    "dagen": 2,
    "prio": true,
    "tijd": "26-11 08:45"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126083402a1helmondrit141014": {
-   "titel": "A1 Helmond Rit: 141014",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126083402a1helmondrit141014",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-26T08:34:02+01:00",
-   "eerst_gezien": "2026-11-26T07:43:09.141812+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "26-11 08:34"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126083000a2helmondrit141011": {
-   "titel": "A2 Helmond Rit: 141011",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126083000a2helmondrit141011",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T08:30:00+01:00",
-   "eerst_gezien": "2026-11-26T07:43:09.141812+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 08:30"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126082609a2astenrit141010": {
-   "titel": "A2 Asten Rit: 141010",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126082609a2astenrit141010",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T08:26:09+01:00",
-   "eerst_gezien": "2026-11-26T07:27:11.592108+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 08:26"
   },
   "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-2800-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
    "titel": "Eerste schooldag in Someren komt dichtbij voor 2800 getroffen kinderen uit Deurne: ‘Iedereen staat voor elkaar klaar’",
@@ -16587,23 +16553,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html": {
-   "titel": "Basisschool in brand nadat kinderen vuurwerk afsteken",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667958/basisschool-in-brand-nadat-kinderen-vuurwerk-afsteken.html",
-   "tekst": "Een basisschool in het Brabantse dorp Deurne stond vrijdagavond in brand. Het vuur was in twee klaslokalen en een zaal van basisschool...",
-   "datum": "2026-11-21T07:40:08+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:40"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html": {
    "titel": "`Skonner wordt het nie` met Edwin 1e aan het roer bij de Brouwhazen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108677711/skonner-wordt-het-nie-met-edwin-1e-aan-het-roer-bij-de-brouwhazen.html",
@@ -17531,23 +17480,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/": {
-   "titel": "Auto belandt in sloot en vliegt in brand",
-   "link": "https://112brabant.nl/2026/11/21/video/auto-belandt-in-sloot-en-vliegt-in-brand/",
-   "tekst": "HEUSDEN - In Heusden bij Asten is een automobilist met zijn auto van de weg geraakt en in een sloot beland. De bestuurder wist zelfstandig uit het voertuig te komen en bleef ongedeerd. Enige tijd later vloog de auto in brand.",
-   "datum": "2026-11-21T07:35:57+00:00",
-   "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
-   "bron": "112Brabant",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112-nieuws",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:35"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108668977/helmond-sport-uitblinker-van-den-eynden-haast-zich-na-5-1-zege-op-fc-dordrecht-naar-huis-hij-kan-elk-moment-vader-worden.html": {
    "titel": "Helmond Sport-uitblinker Van den Eynden haast zich na 5-1-zege op FC Dordrecht naar huis: hij kan elk moment vader worden",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108668977/helmond-sport-uitblinker-van-den-eynden-haast-zich-na-5-1-zege-op-fc-dordrecht-naar-huis-hij-kan-elk-moment-vader-worden.html",
@@ -17997,7 +17929,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 26,
    "fout": ""
   },
   "112Brabant": {
@@ -19749,13 +19681,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:1840": {
    "gem": [],
    "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -20121,7 +20053,31 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:4092": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4190": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4998": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:5005": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20136,14 +20092,6 @@
   "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5903": {
-   "gem": [],
-   "datum": "2026-10-07"
   }
  }
 }
