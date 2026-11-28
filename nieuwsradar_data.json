@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 07:48",
+ "bijgewerkt": "28-11-2026 08:06",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -771,19 +771,19 @@
    "prio": false,
    "tijd": "23-11 10:23"
   },
-  "https://www.ed.nl/helmond/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen~ae07e5f3/": {
-   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: ‘Deze keer had hij niets te zeggen’",
-   "link": "https://www.ed.nl/helmond/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen~ae07e5f3/",
-   "tekst": "Erwin en Nicole Filippini stralen. Hun nieuwe huis in Mierlo-Hout is net opgeleverd door de bouwer. „Erwin had eigenlijk nog wel even verder willen kijken, maar ik wilde niet uit Mierlo-Hout weg”, zegt Nicole. „Dus deze keer had hij niets te zeggen.”",
-   "datum": "2026-11-28T06:00:27+00:00",
-   "eerst_gezien": "2026-11-28T06:05:23.689428+00:00",
+  "https://www.ed.nl/helmond/erwin-58-en-nicole-52-krijgen-hun-nieuwe-huis-in-mierlo-hout-opgeleverd-maar-nu-begint-pas-het-echte-werk~ae07e5f3/": {
+   "titel": "Erwin (58) en Nicole (52) krijgen hun nieuwe huis in Mierlo-Hout opgeleverd, maar nu begint pas het echte werk",
+   "link": "https://www.ed.nl/helmond/erwin-58-en-nicole-52-krijgen-hun-nieuwe-huis-in-mierlo-hout-opgeleverd-maar-nu-begint-pas-het-echte-werk~ae07e5f3/",
+   "tekst": "Edwin en Nicole Filippini stralen. Hun nieuwe huis in Mierlo-Hout is net opgeleverd door de bouwer. „Edwin had eigenlijk nog wel even verder willen kijken, maar ik wilde niet uit Mierlo-Hout weg”, zegt Nicole. „Dus deze keer had hij niets te zeggen.”",
+   "datum": "2026-11-28T06:00:00+00:00",
+   "eerst_gezien": "2026-11-28T07:04:08.505125+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": true,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 07:00"
@@ -940,23 +940,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 09:40"
-  },
-  "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
-   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
-   "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
-   "tekst": "De voorpret bij het Helmondse Kasteel van Sinterklaas begint al op het voorplein, waar bezoekers voor en na hun visite worden opgevangen. Buiten vliegen de Pieten en pepernoten om de oren, maar in de Smulwinkel komen pa en ma tot rust, totdat ze zoonlief kwijt zijn.",
-   "datum": "2026-11-27T06:30:00+00:00",
-   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 07:30"
   },
   "https://www.ed.nl/asten/oniswelzijn-zoekt-meedenkers-voor-nieuwe-ontmoetingsplekken-in-asten~a7216101/": {
    "titel": "OnisWelzijn zoekt meedenkers voor nieuwe ontmoetingsplekken in Asten",
@@ -2527,40 +2510,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 13:57"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
-   "datum": "2026-11-26T08:35:50+00:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 09:35"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
   },
   "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start": {
    "titel": "‘Ons dorp in de schijnwerpers’ feestelijk van start in Vlierden",
@@ -4143,6 +4092,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739055/lapjes-uit-hele-land-worden-warme-knuffels-voor-vrouwen-in-eindhovense-opvang-dankzij-lotte-en-diana.html": {
+   "titel": "Lapjes uit hele land worden `warme knuffels` voor vrouwen in Eindhovense opvang, dankzij Lotte en Diana",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739055/lapjes-uit-hele-land-worden-warme-knuffels-voor-vrouwen-in-eindhovense-opvang-dankzij-lotte-en-diana.html",
+   "tekst": "",
+   "datum": "2026-11-28T07:01:05+00:00",
+   "eerst_gezien": "2026-11-28T07:04:08.505125+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 08:01"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108738899/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html": {
    "titel": "Tbs`ers in de Woenselse Poort klagen over stagnerende behandeling en verveling: `Ik zit hier niet om te gamen`",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108738899/tbsers-in-de-woenselse-poort-klagen-over-stagnerende-behandeling-en-verveling-ik-zit-hier-niet-om-te-gamen.html",
@@ -4424,23 +4390,6 @@
   "https://drimble.nl/regio/noord-brabant/helmond/108733964/rechter-wijst-miljoeneneis-af-oud-top-gibson-niet-aansprakelijk-voor-ondergang-philips-audiotak.html": {
    "titel": "Rechter wijst miljoeneneis af: oud-top Gibson niet aansprakelijk voor ondergang Philips-audiotak",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108733964/rechter-wijst-miljoeneneis-af-oud-top-gibson-niet-aansprakelijk-voor-ondergang-philips-audiotak.html",
-   "tekst": "",
-   "datum": "2026-11-27T18:49:09+00:00",
-   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 19:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html": {
-   "titel": "Premier Jetten wil ASML bespreken met Trump op G20 in Miami",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html",
    "tekst": "",
    "datum": "2026-11-27T18:49:09+00:00",
    "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
@@ -4987,6 +4936,91 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://www.ed.nl/helmond/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen~ae07e5f3/": {
+   "titel": "Hun huis is klaar, maar voor Erwin (58) en Nicole (52) begint het werk nu pas: ‘Deze keer had hij niets te zeggen’",
+   "link": "https://www.ed.nl/helmond/hun-huis-is-klaar-maar-voor-erwin-58-en-nicole-52-begint-het-werk-nu-pas-deze-keer-had-hij-niets-te-zeggen~ae07e5f3/",
+   "tekst": "Erwin en Nicole Filippini stralen. Hun nieuwe huis in Mierlo-Hout is net opgeleverd door de bouwer. „Erwin had eigenlijk nog wel even verder willen kijken, maar ik wilde niet uit Mierlo-Hout weg”, zegt Nicole. „Dus deze keer had hij niets te zeggen.”",
+   "datum": "2026-11-28T06:00:27+00:00",
+   "eerst_gezien": "2026-11-28T06:05:23.689428+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 07:00"
+  },
+  "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/": {
+   "titel": "De magie van het voorplein van het Sintkasteel in Helmond: ‘De spanning op die gezichten, onbeschrijfelijk’",
+   "link": "https://www.ed.nl/helmond/de-magie-van-het-voorplein-van-het-sintkasteel-in-helmond-de-spanning-op-die-gezichten-onbeschrijfelijk~afdc4755/",
+   "tekst": "De voorpret bij het Helmondse Kasteel van Sinterklaas begint al op het voorplein, waar bezoekers voor en na hun visite worden opgevangen. Buiten vliegen de Pieten en pepernoten om de oren, maar in de Smulwinkel komen pa en ma tot rust, totdat ze zoonlief kwijt zijn.",
+   "datum": "2026-11-27T06:30:00+00:00",
+   "eerst_gezien": "2026-11-27T06:45:24.773106+00:00",
+   "bron": "ED Deurne",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 07:30"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html": {
+   "titel": "Premier Jetten wil ASML bespreken met Trump op G20 in Miami",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108733962/premier-jetten-wil-asml-bespreken-met-trump-op-g20-in-miami.html",
+   "tekst": "",
+   "datum": "2026-11-27T18:49:09+00:00",
+   "eerst_gezien": "2026-11-27T19:11:16.856798+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 19:49"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126050330a1helmondrit141868": {
    "titel": "A1 Helmond Rit: 141868",
@@ -10871,24 +10905,6 @@
    "prio": false,
    "tijd": "25-11 19:31"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667721/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
-   "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667721/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
-   "tekst": "",
-   "datum": "2026-11-21T06:52:17+00:00",
-   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
-   "bron": "Drimble Asten",
-   "gemeenten": [
-    "Asten",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 07:52"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html": {
    "titel": "Stamboomcaf&é Someren nodigt ge&ïnteresseerden uit voor zoektocht naar familiegeschiedenis",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108680316/stamboomcafe-someren-nodigt-geinteresseerden-uit-voor-zoektocht-naar-familiegeschiedenis.html",
@@ -16257,23 +16273,6 @@
    "prio": false,
    "tijd": "22-11 21:40"
   },
-  "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/": {
-   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
-   "link": "https://www.ed.nl/eindhoven/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet~a4d91670/",
-   "tekst": "Woningbouwplannen genoeg in de regio, maar zonder stroom wordt een groot deel voorlopig niet gebouwd. In het Helmondse Nieuw Brandevoort en KnoopXL in Eindhoven gaan ze onderzoeken wat er wellicht toch kan door de plannen aan te passen.",
-   "datum": "2026-11-21T07:00:00+00:00",
-   "eerst_gezien": "2026-11-21T07:38:38.927065+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:00"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108684027/treinverkeer-eindhoven-ontregeld-door-seinstoring.html": {
    "titel": "Treinverkeer Eindhoven ontregeld door seinstoring",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108684027/treinverkeer-eindhoven-ontregeld-door-seinstoring.html",
@@ -17811,7 +17810,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 08:49"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
    "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
@@ -17876,39 +17876,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667762/bijzondere-kist-met-initialen-wdn-duikt-op-en-belandt-in-geldrops-weverijmuseum.html": {
-   "titel": "Bijzondere kist met initialen WDN duikt op en belandt in Geldrops Weverijmuseum",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667762/bijzondere-kist-met-initialen-wdn-duikt-op-en-belandt-in-geldrops-weverijmuseum.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:01:05+00:00",
-   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667759/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan.html": {
-   "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667759/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:01:05+00:00",
-   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 08:13"
   },
   "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/": {
    "titel": "Een halve baan als voorzitter? Stiphout Vooruit lost het gewoon op met z’n tweeën",
@@ -17927,24 +17896,6 @@
    "prio": false,
    "tijd": "21-11 09:15"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html": {
-   "titel": "Elektrische auto belandt in sloot bij Heusden en vliegt in brand",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667704/elektrische-auto-belandt-in-sloot-bij-heusden-en-vliegt-in-brand.html",
-   "tekst": "",
-   "datum": "2026-11-21T06:49:06+00:00",
-   "eerst_gezien": "2026-11-21T06:50:30.430823+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Asten",
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 07:49"
-  },
   "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/": {
    "titel": "Geen grote ego’s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
    "link": "https://www.ed.nl/helmond/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol~a13f3102/",
@@ -17961,40 +17912,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 09:15"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667702/met-psv-terug-naar-vertrouwde-grond-in-nijmegen-pech-zorgt-voor-enorm-contrast-tussen-sano-en-ouaissa.html": {
-   "titel": "Met PSV terug naar vertrouwde grond in Nijmegen: pech zorgt voor enorm contrast tussen Sano en Ouaissa",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667702/met-psv-terug-naar-vertrouwde-grond-in-nijmegen-pech-zorgt-voor-enorm-contrast-tussen-sano-en-ouaissa.html",
-   "tekst": "",
-   "datum": "2026-11-21T06:49:06+00:00",
-   "eerst_gezien": "2026-11-21T06:50:30.430823+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 07:49"
-  },
-  "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/": {
-   "titel": "Vol stroomnet en tóch bouwen, in KnoopXL en Nieuw Brandevoort gaan ze onderzoeken hoe dat kan",
-   "link": "https://www.ed.nl/eindhoven/vol-stroomnet-en-toch-bouwen-in-knoopxl-en-nieuw-brandevoort-gaan-ze-onderzoeken-hoe-dat-kan~a4d91670/",
-   "tekst": "Woningbouwplannen genoeg in de regio, maar zonder stroom wordt een groot deel voorlopig niet gebouwd. In het Helmondse Nieuw Brandevoort en KnoopXL in Eindhoven gaan ze onderzoeken wat er wellicht toch kan door de plannen aan te passen.",
-   "datum": "2026-11-21T07:00:05+00:00",
-   "eerst_gezien": "2026-11-21T07:06:32.040061+00:00",
-   "bron": "ED Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": true,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:00"
   },
   "https://112brabant.nl/2026/11/21/auto-belandt-in-sloot-en-vliegt-in-brand/": {
    "titel": "Auto belandt in sloot en vliegt in brand",
@@ -18032,7 +17949,7 @@
   },
   "ED Deurne": {
    "ok": true,
-   "aantal": 2,
+   "aantal": 1,
    "fout": ""
   },
   "ED Asten": {
@@ -18071,9 +17988,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 2,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "ParseError: no element found: line 2, column 0"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -19800,6 +19717,30 @@
    "gem": [],
    "datum": "2026-11-05"
   },
+  "ECLI:NL:RVS:2026:6809": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6811": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6805": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6807": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6525": {
+   "gem": [],
+   "datum": "2026-11-05"
+  },
+  "ECLI:NL:RVS:2026:6025": {
+   "gem": [],
+   "datum": "2026-10-15"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19812,13 +19753,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -20164,7 +20105,27 @@
    "gem": [],
    "datum": "2026-07-15"
   },
+  "ECLI:NL:RVS:2026:4996": {
+   "gem": [
+    "Helmond"
+   ],
+   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
+   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4074": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4076": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4081": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -20172,7 +20133,23 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4191": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4998": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4999": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5005": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20192,7 +20169,35 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:5014": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5015": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5018": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5019": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5021": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5022": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5023": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5025": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20200,9 +20205,21 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:5027": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5497": {
    "gem": [],
    "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5324": {
+   "gem": [],
+   "datum": "2026-09-09"
+  },
+  "ECLI:NL:RVS:2026:5925": {
+   "gem": [],
+   "datum": "2026-10-07"
   },
   "ECLI:NL:RVS:2026:4569": {
    "gem": [],
@@ -20211,6 +20228,38 @@
   "ECLI:NL:RVS:2026:1379": {
    "gem": [],
    "datum": "2026-03-11"
+  },
+  "ECLI:NL:RVS:2026:5475": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5919": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5903": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5804": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5810": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5811": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5894": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5793": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:5955": {
    "gem": [],
@@ -20224,37 +20273,85 @@
    "gem": [],
    "datum": "2026-06-03"
   },
+  "ECLI:NL:RVS:2026:4288": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2025:5683": {
+   "gem": [],
+   "datum": "2025-12-03"
+  },
+  "ECLI:NL:RVS:2026:4628": {
+   "gem": [],
+   "datum": "2026-08-12"
+  },
   "ECLI:NL:RVS:2026:1808": {
    "gem": [],
    "datum": "2026-04-01"
   },
-  "ECLI:NL:RVS:2026:6809": {
+  "ECLI:NL:RVS:2026:5867": {
+   "gem": [],
+   "datum": "2026-10-07"
+  },
+  "ECLI:NL:RVS:2026:5216": {
+   "gem": [],
+   "datum": "2026-09-09"
+  },
+  "ECLI:NL:RVS:2026:6787": {
    "gem": [],
    "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:6811": {
+  "ECLI:NL:RVS:2026:6814": {
    "gem": [],
    "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:6805": {
+  "ECLI:NL:RVS:2026:6832": {
    "gem": [],
    "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:6807": {
+  "ECLI:NL:RVS:2026:6803": {
    "gem": [],
    "datum": "2026-11-18"
   },
-  "ECLI:NL:RVS:2026:1951": {
+  "ECLI:NL:RVS:2026:6823": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6824": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6802": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6831": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6830": {
+   "gem": [],
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6799": {
+   "gem": [
+    "Deurne"
+   ],
+   "titel": "Bij besluit van 7 september 2020 heeft het college van burgemeester en wethouders van Deurne een verzoek van [appellante] om haar huwelijksgegevens te verwijderen uit de basisregistratie personen …",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6799",
+   "datum": "2026-11-18"
+  },
+  "ECLI:NL:RVS:2026:6480": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:1932": {
    "gem": [],
    "datum": "2026-04-08"
   },
-  "ECLI:NL:RVS:2026:6525": {
+  "ECLI:NL:RVS:2026:1942": {
    "gem": [],
-   "datum": "2026-11-05"
-  },
-  "ECLI:NL:RVS:2026:6025": {
-   "gem": [],
-   "datum": "2026-10-15"
+   "datum": "2026-04-08"
   }
  }
 }
