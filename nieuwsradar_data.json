@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 18:11",
+ "bijgewerkt": "28-11-2026 18:29",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4109,6 +4109,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108742555/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html": {
+   "titel": "Vrienden en collega`s vragen in Den Haag aandacht en actie om ASML`er Omar Elshal (34) naar huis te halen",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108742555/vrienden-en-collegas-vragen-in-den-haag-aandacht-en-actie-om-asmler-omar-elshal-34-naar-huis-te-halen.html",
+   "tekst": "",
+   "datum": "2026-11-28T17:25:12+00:00",
+   "eerst_gezien": "2026-11-28T17:26:52.177603+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 18:25"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108741814/knuffelkont-en-stuiterbal-nougat-zoekt-een-gezin-met-kinderen.html": {
    "titel": "Knuffelkont en stuiterbal: Nougat zoekt een gezin met kinderen",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108741814/knuffelkont-en-stuiterbal-nougat-zoekt-een-gezin-met-kinderen.html",
@@ -4344,23 +4361,6 @@
   "https://drimble.nl/regio/noord-brabant/helmond/108740257/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html": {
    "titel": "Lara (12) belde 112 nadat haar moeder lelijk was gevallen en voorkwam erger: nu wordt ze beloond",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108740257/lara-12-belde-112-nadat-haar-moeder-lelijk-was-gevallen-en-voorkwam-erger-nu-wordt-ze-beloond.html",
-   "tekst": "",
-   "datum": "2026-11-28T10:43:14+00:00",
-   "eerst_gezien": "2026-11-28T10:51:46.631689+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "28-11 11:43"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108740256/satheo-60-duwde-ooit-beatrix-opzij-nu-reist-hij-met-sate-het-land-door.html": {
-   "titel": "`Satheo` (60) duwde ooit Beatrix opzij, nu reist hij met saté het land door",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740256/satheo-60-duwde-ooit-beatrix-opzij-nu-reist-hij-met-sate-het-land-door.html",
    "tekst": "",
    "datum": "2026-11-28T10:43:14+00:00",
    "eerst_gezien": "2026-11-28T10:51:46.631689+00:00",
@@ -4890,6 +4890,23 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740256/satheo-60-duwde-ooit-beatrix-opzij-nu-reist-hij-met-sate-het-land-door.html": {
+   "titel": "`Satheo` (60) duwde ooit Beatrix opzij, nu reist hij met saté het land door",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740256/satheo-60-duwde-ooit-beatrix-opzij-nu-reist-hij-met-sate-het-land-door.html",
+   "tekst": "",
+   "datum": "2026-11-28T10:43:14+00:00",
+   "eerst_gezien": "2026-11-28T10:51:46.631689+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 11:43"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126163020a2helmondrit142089": {
    "titel": "A2 Helmond Rit: 142089",
@@ -19591,13 +19608,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:1840": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
   "ECLI:NL:RVS:2026:5777": {
    "gem": [],
    "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:1840": {
+   "gem": [],
+   "datum": "2026-04-01"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19895,30 +19912,6 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2025:6456": {
-   "gem": [],
-   "datum": "2025-07-30"
-  },
-  "ECLI:NL:RVS:2026:4008": {
-   "gem": [],
-   "datum": "2026-07-13"
-  },
-  "ECLI:NL:RVS:2026:4034": {
-   "gem": [],
-   "datum": "2026-07-14"
-  },
-  "ECLI:NL:RVS:2026:4992": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4224": {
-   "gem": [],
-   "datum": "2026-07-14"
-  },
-  "ECLI:NL:RVS:2026:4045": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
   "ECLI:NL:RVS:2026:4993": {
    "gem": [],
    "datum": "2026-08-26"
@@ -19927,11 +19920,15 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4994": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:4067": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4098": {
+   "gem": [],
+   "datum": "2026-07-15"
+  },
+  "ECLI:NL:RVS:2026:4099": {
    "gem": [],
    "datum": "2026-07-15"
   },
@@ -19939,7 +19936,7 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4191": {
+  "ECLI:NL:RVS:2026:4190": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19947,15 +19944,7 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4225": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4999": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:5005": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19963,7 +19952,7 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5023": {
+  "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19975,17 +19964,37 @@
    "gem": [],
    "datum": "2026-08-05"
   },
-  "ECLI:NL:RVS:2026:5919": {
+  "ECLI:NL:RVS:2026:5867": {
    "gem": [],
    "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:5903": {
+  "ECLI:NL:RVS:2026:6252": {
    "gem": [],
-   "datum": "2026-10-07"
+   "datum": "2026-10-12"
   },
-  "ECLI:NL:RVS:2026:5783": {
+  "ECLI:NL:RVS:2026:459": {
    "gem": [],
-   "datum": "2026-09-30"
+   "datum": "2026-01-28"
+  },
+  "ECLI:NL:RVS:2026:478": {
+   "gem": [],
+   "datum": "2026-01-28"
+  },
+  "ECLI:NL:RVS:2026:6352": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:4186": {
+   "gem": [],
+   "datum": "2026-07-17"
+  },
+  "ECLI:NL:RVS:2026:6513": {
+   "gem": [],
+   "datum": "2026-11-06"
+  },
+  "ECLI:NL:RVS:2026:6674": {
+   "gem": [],
+   "datum": "2026-11-11"
   }
  }
 }
