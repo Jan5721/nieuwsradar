@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 17:53",
+ "bijgewerkt": "28-11-2026 18:11",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -1806,7 +1806,7 @@
    ],
    "soort": "regionale omroep",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 17:49"
@@ -19591,13 +19591,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:1840": {
    "gem": [],
    "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19935,31 +19935,11 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4098": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4099": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4996": {
-   "gem": [
-    "Helmond"
-   ],
-   "titel": "Bij besluit van 17 oktober 2023 heeft het college van burgemeester en wethouders van Beverwijk aan RSB Brothers B.V. (RSB) een omgevingsvergunning verleend voor de realisatie van een …",
-   "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4074": {
+  "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4081": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4190": {
+  "ECLI:NL:RVS:2026:4191": {
    "gem": [],
    "datum": "2026-07-16"
   },
@@ -19967,11 +19947,15 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4999": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5008": {
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -19979,49 +19963,29 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5014": {
+  "ECLI:NL:RVS:2026:5023": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5018": {
+  "ECLI:NL:RVS:2026:5925": {
    "gem": [],
-   "datum": "2026-08-26"
+   "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:5025": {
+  "ECLI:NL:RVS:2026:4569": {
    "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5027": {
-   "gem": [],
-   "datum": "2026-08-26"
+   "datum": "2026-08-05"
   },
   "ECLI:NL:RVS:2026:5919": {
    "gem": [],
    "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:5955": {
+  "ECLI:NL:RVS:2026:5903": {
    "gem": [],
-   "datum": "2026-10-14"
+   "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:3195": {
+  "ECLI:NL:RVS:2026:5783": {
    "gem": [],
-   "datum": "2026-06-03"
-  },
-  "ECLI:NL:RVS:2026:1942": {
-   "gem": [],
-   "datum": "2026-04-08"
-  },
-  "ECLI:NL:RVS:2026:6088": {
-   "gem": [],
-   "datum": "2026-10-14"
-  },
-  "ECLI:NL:RVS:2026:4274": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4601": {
-   "gem": [],
-   "datum": "2026-08-05"
+   "datum": "2026-09-30"
   }
  }
 }
