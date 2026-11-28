@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 09:41",
+ "bijgewerkt": "28-11-2026 10:00",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -13,7 +13,7 @@
    ],
    "soort": "lokale pers",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 09:32"
@@ -804,19 +804,19 @@
    "prio": false,
    "tijd": "28-11 07:00"
   },
-  "https://www.ed.nl/helmond/helmondse-zangeres-senna-scoort-met-monique-smit-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed~ad0a343e/": {
-   "titel": "Helmondse zangeres Senna scoort met Monique Smit, maar in Zuid-Afrika valt de tekst niet helemaal goed",
-   "link": "https://www.ed.nl/helmond/helmondse-zangeres-senna-scoort-met-monique-smit-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed~ad0a343e/",
+  "https://www.ed.nl/helmond/helmondse-senna-scoort-hit-met-monique-smit-maar-in-zuid-afrika-valt-de-tekst-niet-zo-goed-dit-is-waarom~ad0a343e/": {
+   "titel": "Helmondse Senna scoort hit met Monique Smit, maar in Zuid-Afrika valt de tekst niet zo goed: dit is waarom",
+   "link": "https://www.ed.nl/helmond/helmondse-senna-scoort-hit-met-monique-smit-maar-in-zuid-afrika-valt-de-tekst-niet-zo-goed-dit-is-waarom~ad0a343e/",
    "tekst": "Hey poes. Zo heet het nieuwste nummer van de Helmondse zangeres Senna Willems, dat ze samen met Monique Smit heeft gemaakt. Het nummer trekt behoorlijk veel aandacht op sociale media. Maar niet alleen in Nederland wordt het liedje opgepikt. Ook vanuit Zuid-Afrika stromen de …",
    "datum": "2026-11-27T19:00:00+00:00",
-   "eerst_gezien": "2026-11-27T20:18:29.968216+00:00",
+   "eerst_gezien": "2026-11-28T08:56:37.160485+00:00",
    "bron": "ED Helmond",
    "gemeenten": [
     "Helmond"
    ],
    "soort": "regionale pers",
    "betaald": false,
-   "nieuw": false,
+   "nieuw": true,
    "dagen": 7,
    "prio": false,
    "tijd": "27-11 20:00"
@@ -4125,6 +4125,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739541/gerard-ging-als-vlisco-man-mee-naar-duitsland-om-huizen-te-bouwen-voor-vluchtelingen-uit-de-ddr.html": {
+   "titel": "Gerard ging als Vlisco-man mee naar Duitsland om huizen te bouwen voor vluchtelingen uit de DDR",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739541/gerard-ging-als-vlisco-man-mee-naar-duitsland-om-huizen-te-bouwen-voor-vluchtelingen-uit-de-ddr.html",
+   "tekst": "",
+   "datum": "2026-11-28T08:49:08+00:00",
+   "eerst_gezien": "2026-11-28T08:56:37.160485+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 09:49"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108739353/bedrijf-verduurzaamt-burgers-betalen-beetje-extra-hoe-kan-dat.html": {
    "titel": "Bedrijf verduurzaamt, burgers betalen (beetje) extra; hoe kan dat'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108739353/bedrijf-verduurzaamt-burgers-betalen-beetje-extra-hoe-kan-dat.html",
@@ -4370,39 +4387,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108734288/helmondse-zangeres-senna-scoort-met-hey-poes-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed.html": {
-   "titel": "Helmondse zangeres Senna scoort met `Hey poes`, maar in Zuid-Afrika valt de tekst niet helemaal goed",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734288/helmondse-zangeres-senna-scoort-met-hey-poes-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed.html",
-   "tekst": "",
-   "datum": "2026-11-27T19:55:08+00:00",
-   "eerst_gezien": "2026-11-27T20:18:29.968216+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108734196/philips-audiotak-ging-kopje-onder-maar-amerikaanse-ex-bazen-draaien-niet-op-voor-50-miljoen-euro-tekort.html": {
-   "titel": "Philips-audiotak ging kopje onder, maar Amerikaanse ex-bazen draaien niet op voor 50 miljoen euro tekort",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734196/philips-audiotak-ging-kopje-onder-maar-amerikaanse-ex-bazen-draaien-niet-op-voor-50-miljoen-euro-tekort.html",
-   "tekst": "",
-   "datum": "2026-11-27T19:31:04+00:00",
-   "eerst_gezien": "2026-11-27T19:32:46.589233+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "27-11 20:31"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html": {
    "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
@@ -4936,6 +4920,56 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://www.ed.nl/helmond/helmondse-zangeres-senna-scoort-met-monique-smit-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed~ad0a343e/": {
+   "titel": "Helmondse zangeres Senna scoort met Monique Smit, maar in Zuid-Afrika valt de tekst niet helemaal goed",
+   "link": "https://www.ed.nl/helmond/helmondse-zangeres-senna-scoort-met-monique-smit-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed~ad0a343e/",
+   "tekst": "Hey poes. Zo heet het nieuwste nummer van de Helmondse zangeres Senna Willems, dat ze samen met Monique Smit heeft gemaakt. Het nummer trekt behoorlijk veel aandacht op sociale media. Maar niet alleen in Nederland wordt het liedje opgepikt. Ook vanuit Zuid-Afrika stromen de …",
+   "datum": "2026-11-27T19:00:00+00:00",
+   "eerst_gezien": "2026-11-27T20:18:29.968216+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "regionale pers",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 20:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108734288/helmondse-zangeres-senna-scoort-met-hey-poes-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed.html": {
+   "titel": "Helmondse zangeres Senna scoort met `Hey poes`, maar in Zuid-Afrika valt de tekst niet helemaal goed",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734288/helmondse-zangeres-senna-scoort-met-hey-poes-maar-in-zuid-afrika-valt-de-tekst-niet-helemaal-goed.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:55:08+00:00",
+   "eerst_gezien": "2026-11-27T20:18:29.968216+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108734196/philips-audiotak-ging-kopje-onder-maar-amerikaanse-ex-bazen-draaien-niet-op-voor-50-miljoen-euro-tekort.html": {
+   "titel": "Philips-audiotak ging kopje onder, maar Amerikaanse ex-bazen draaien niet op voor 50 miljoen euro tekort",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108734196/philips-audiotak-ging-kopje-onder-maar-amerikaanse-ex-bazen-draaien-niet-op-voor-50-miljoen-euro-tekort.html",
+   "tekst": "",
+   "datum": "2026-11-27T19:31:04+00:00",
+   "eerst_gezien": "2026-11-27T19:32:46.589233+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "27-11 20:31"
   },
   "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind": {
    "titel": "Prins Koen I en Prinses Karlijn leiden carnaval in Someren-Eind",
@@ -8224,57 +8258,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "26-11 19:13"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126095055a1deurnerit141050": {
-   "titel": "A1 Deurne Rit: 141050",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126095055a1deurnerit141050",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-26T09:50:55+01:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "26-11 09:50"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094356ongevalwegvervoerletselruusbroeclaannachtegaalla": {
-   "titel": "Ongeval wegvervoer letsel Ruusbroeclaan Nachtegaallaan Helmond",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094356ongevalwegvervoerletselruusbroeclaannachtegaalla",
-   "tekst": "Politie Oost-Brabant (Persinformatie Brabant-Zuidoost)",
-   "datum": "2026-11-26T09:43:56+01:00",
-   "eerst_gezien": "2026-11-26T08:48:18.472684+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 politie",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 09:43"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094319a2helmondrit141042": {
-   "titel": "A2 Helmond Rit: 141042",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126094319a2helmondrit141042",
-   "tekst": "Ambulance 22-123 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T09:43:19+01:00",
-   "eerst_gezien": "2026-11-26T08:48:18.472684+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 09:43"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108696514/marokkaan-door-gemaskerde-groep-ontvoerd-in-antwerpen-na-verdwijnen-1500-kilo-cocaine.html": {
    "titel": "Marokkaan door gemaskerde groep ontvoerd in Antwerpen na verdwijnen 1500 kilo cocaïne",
@@ -17512,39 +17495,6 @@
    "prio": false,
    "tijd": "21-11 10:13"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
-   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668370/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
-   "tekst": "",
-   "datum": "2026-11-21T08:49:07+00:00",
-   "eerst_gezien": "2026-11-21T08:59:20.300288+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668368/veldhoven-wacht-op-provincie-voor-pumptrack-aan-antwerpsebaan-oplevering-na-zomer-2027.html": {
-   "titel": "Veldhoven wacht op provincie voor pumptrack aan Antwerpsebaan; oplevering na zomer 2027",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668368/veldhoven-wacht-op-provincie-voor-pumptrack-aan-antwerpsebaan-oplevering-na-zomer-2027.html",
-   "tekst": "",
-   "datum": "2026-11-21T08:49:07+00:00",
-   "eerst_gezien": "2026-11-21T08:59:20.300288+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:49"
-  },
   "https://www.ed.nl/helmond/bij-de-smulwinkel-in-helmond-draait-alles-om-magie-geur-van-speculaas-en-warme-chocolademelk~a6af1228/": {
    "titel": "Bij de Smulwinkel in Helmond draait alles om magie, geur van speculaas en warme chocolademelk",
    "link": "https://www.ed.nl/helmond/bij-de-smulwinkel-in-helmond-draait-alles-om-magie-geur-van-speculaas-en-warme-chocolademelk~a6af1228/",
@@ -17568,22 +17518,6 @@
    "tekst": "",
    "datum": "2026-11-21T11:07:20+00:00",
    "eerst_gezien": "2026-11-21T11:07:44.805027+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668319/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html": {
-   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze'",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668319/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze.html",
-   "tekst": "",
-   "datum": "2026-11-21T08:41:10+00:00",
-   "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
    "bron": "Drimble Helmond",
    "gemeenten": [
     "Helmond"
@@ -17710,7 +17644,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -19862,10 +19796,6 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4081": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4092": {
    "gem": [],
    "datum": "2026-07-16"
@@ -19874,25 +19804,49 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4191": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4998": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4999": {
+  "ECLI:NL:RVS:2026:5010": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:5014": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5008": {
+  "ECLI:NL:RVS:2026:5022": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5804": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:5955": {
+   "gem": [],
+   "datum": "2026-10-14"
+  },
+  "ECLI:NL:RVS:2026:5783": {
+   "gem": [],
+   "datum": "2026-09-30"
+  },
+  "ECLI:NL:RVS:2026:4980": {
+   "gem": [],
+   "datum": "2026-08-27"
+  },
+  "ECLI:NL:RVS:2026:4273": {
+   "gem": [],
+   "datum": "2026-07-22"
+  },
+  "ECLI:NL:RVS:2026:6530": {
+   "gem": [],
+   "datum": "2026-11-09"
+  },
+  "ECLI:NL:RVS:2026:6679": {
+   "gem": [],
+   "datum": "2026-11-11"
   }
  }
 }
