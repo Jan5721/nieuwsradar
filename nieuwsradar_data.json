@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 01:53",
+ "bijgewerkt": "28-11-2026 02:13",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -2511,40 +2511,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
-   "datum": "2026-11-26T08:35:50+00:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 09:35"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
   "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start": {
    "titel": "‘Ons dorp in de schijnwerpers’ feestelijk van start in Vlierden",
    "link": "https://www.deurne.nl/nieuws/ons-dorp-in-de-schijnwerpers-van-start",
@@ -4939,6 +4905,57 @@
    "dagen": 7,
    "prio": false
   },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126014849a2somerenrit141843": {
    "titel": "A2 Someren Rit: 141843",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126014849a2somerenrit141843",
@@ -4951,7 +4968,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 01:48"
@@ -4968,7 +4985,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 00:47"
@@ -5295,23 +5312,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 09:47"
-  },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108733795/vaatchirurg-joep-teijink-mag-zich-voortaan-ook-ridder-noemen.html": {
    "titel": "Vaatchirurg Joep Teijink mag zich voortaan ook ridder noemen",
@@ -18039,9 +18039,9 @@
    "fout": ""
   },
   "Gemeente Helmond": {
-   "ok": true,
-   "aantal": 2,
-   "fout": ""
+   "ok": false,
+   "aantal": 0,
+   "fout": "HTTPError: HTTP Error 500: Internal server error"
   },
   "Gemeente Deurne": {
    "ok": true,
@@ -18100,7 +18100,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 21,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
@@ -19816,31 +19816,27 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4999": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5015": {
+  "ECLI:NL:RVS:2026:5010": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5013": {
    "gem": [],
    "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:5018": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5019": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5022": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5025": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
    "gem": [],
    "datum": "2026-08-26"
   }
