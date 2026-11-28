@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 14:05",
+ "bijgewerkt": "28-11-2026 14:25",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4109,6 +4109,23 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108741116/kind-zakt-door-het-ijs-in-eindhoven-naar-ziekenhuis-voor-controle.html": {
+   "titel": "Kind zakt door het ijs in Eindhoven, naar ziekenhuis voor controle",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108741116/kind-zakt-door-het-ijs-in-eindhoven-naar-ziekenhuis-voor-controle.html",
+   "tekst": "",
+   "datum": "2026-11-28T13:13:24+00:00",
+   "eerst_gezien": "2026-11-28T13:20:47.274163+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 14:13"
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108741013/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij.html": {
    "titel": "Van buurtsuper naar supermarkt van 1500 vierkante meter: Zeilberg krijgt er heel wat nieuws bij",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108741013/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij.html",
@@ -4121,7 +4138,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false
   },
@@ -4840,72 +4857,22 @@
    "dagen": 7,
    "prio": false
   },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
-   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
-   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
-   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
-   "datum": "2026-11-26T08:35:50+00:00",
-   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
-   "bron": "Gemeente Helmond",
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126135235a2helmondrit142021": {
+   "titel": "A2 Helmond Rit: 142021",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126135235a2helmondrit142021",
+   "tekst": "Ambulance 22-125 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T13:52:35+01:00",
+   "eerst_gezien": "2026-11-28T13:20:47.274163+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
    "gemeenten": [
     "Helmond"
    ],
-   "soort": "gemeente",
+   "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
+   "nieuw": true,
+   "dagen": 2,
    "prio": false,
-   "tijd": "26-11 09:35"
-  },
-  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
-   "titel": "Aangepaste openingstijden milieustraat in december",
-   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
-   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
-   "datum": "2026-11-25T10:20:02+00:00",
-   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
-   "bron": "Gemeente Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "gemeente",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "25-11 11:20"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108740992/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij.html": {
-   "titel": "Van buurtsuper naar supermarkt van 1500 vierkante meter: Zeilberg krijgt er heel wat nieuws bij",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740992/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij.html",
-   "tekst": "",
-   "datum": "2026-11-28T12:43:14+00:00",
-   "eerst_gezien": "2026-11-28T12:44:25.033334+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
+   "tijd": "28-11 13:52"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126134314a1deurnerit142015": {
    "titel": "A1 Deurne Rit: 142015",
@@ -5433,6 +5400,73 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 17:03"
+  },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
+   "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
+   "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
+   "tekst": "Hoe blijft Helmond ook in de toekomst goed bereikbaar, gezond en prettig om in te wonen, werken en ondernemen? Daar werkt de gemeente aan met studie toekomstige verkeersstructuur Helmond. We nodigen wijkraden, ondernemersverenigingen, belangengroepen en andere organisaties uit …",
+   "datum": "2026-11-26T08:35:50+00:00",
+   "eerst_gezien": "2026-11-26T09:04:21.460437+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 09:35"
+  },
+  "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december": {
+   "titel": "Aangepaste openingstijden milieustraat in december",
+   "link": "https://www.helmond.nl/1/nieuws/2026/december/aangepaste-openingstijden-milieustraat-in-december",
+   "tekst": "Gaat u in de decembermaand afval wegbrengen naar de milieustraat? Houd dan rekening met aangepaste openingstijden rondom de feestdagen.",
+   "datum": "2026-11-25T10:20:02+00:00",
+   "eerst_gezien": "2026-11-25T09:53:55.901824+00:00",
+   "bron": "Gemeente Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "gemeente",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "25-11 11:20"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740992/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij.html": {
+   "titel": "Van buurtsuper naar supermarkt van 1500 vierkante meter: Zeilberg krijgt er heel wat nieuws bij",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740992/van-buurtsuper-naar-supermarkt-van-1500-vierkante-meter-zeilberg-krijgt-er-heel-wat-nieuws-bij.html",
+   "tekst": "",
+   "datum": "2026-11-28T12:43:14+00:00",
+   "eerst_gezien": "2026-11-28T12:44:25.033334+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
   },
   "https://www.ed.nl/deurne/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij~a9e73a81/": {
    "titel": "Hoe Zeilberg verandert: grotere supermarkt, slagerij terug en dik dertig woningen erbij",
@@ -17756,7 +17790,7 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 15,
+   "aantal": 16,
    "fout": ""
   },
   "Drimble Deurne": {
@@ -17776,7 +17810,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
@@ -19580,6 +19614,22 @@
    "gem": [],
    "datum": "2026-11-03"
   },
+  "ECLI:NL:RVS:2026:6671": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6634": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6315": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6319": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19592,13 +19642,13 @@
    "gem": [],
    "datum": "2026-08-19"
   },
-  "ECLI:NL:RVS:2026:5777": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:1840": {
    "gem": [],
    "datum": "2026-04-01"
+  },
+  "ECLI:NL:RVS:2026:5777": {
+   "gem": [],
+   "datum": "2026-09-30"
   },
   "ECLI:NL:RVS:2026:4600": {
    "gem": [],
@@ -19964,43 +20014,15 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4092": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4190": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4191": {
    "gem": [],
    "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4998": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4225": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4999": {
-   "gem": [],
-   "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:5005": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:5008": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5010": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20016,41 +20038,13 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5018": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5019": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5021": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
   "ECLI:NL:RVS:2026:5022": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5023": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5025": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
    "gem": [],
    "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:5027": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5497": {
-   "gem": [],
-   "datum": "2026-09-16"
   },
   "ECLI:NL:RVS:2026:5324": {
    "gem": [],
@@ -20064,129 +20058,29 @@
    "gem": [],
    "datum": "2026-08-05"
   },
-  "ECLI:NL:RVS:2026:1379": {
-   "gem": [],
-   "datum": "2026-03-11"
-  },
-  "ECLI:NL:RVS:2026:5475": {
-   "gem": [],
-   "datum": "2026-09-16"
-  },
-  "ECLI:NL:RVS:2026:5919": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5903": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5804": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
-  "ECLI:NL:RVS:2026:5810": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
-  "ECLI:NL:RVS:2026:5811": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
-  "ECLI:NL:RVS:2026:5894": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5793": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
-  "ECLI:NL:RVS:2026:5955": {
-   "gem": [],
-   "datum": "2026-10-14"
-  },
-  "ECLI:NL:RVS:2026:5783": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
   "ECLI:NL:RVS:2026:3195": {
    "gem": [],
    "datum": "2026-06-03"
-  },
-  "ECLI:NL:RVS:2026:4288": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2025:5683": {
-   "gem": [],
-   "datum": "2025-12-03"
   },
   "ECLI:NL:RVS:2026:4628": {
    "gem": [],
    "datum": "2026-08-12"
   },
-  "ECLI:NL:RVS:2026:1808": {
-   "gem": [],
-   "datum": "2026-04-01"
-  },
-  "ECLI:NL:RVS:2026:5867": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:5216": {
-   "gem": [],
-   "datum": "2026-09-09"
-  },
-  "ECLI:NL:RVS:2026:1932": {
-   "gem": [],
-   "datum": "2026-04-08"
-  },
-  "ECLI:NL:RVS:2026:1942": {
-   "gem": [],
-   "datum": "2026-04-08"
-  },
-  "ECLI:NL:RVS:2026:1951": {
-   "gem": [],
-   "datum": "2026-04-08"
-  },
-  "ECLI:NL:RVS:2026:6240": {
-   "gem": [],
-   "datum": "2026-10-12"
-  },
-  "ECLI:NL:RVS:2026:1941": {
-   "gem": [],
-   "datum": "2026-04-08"
-  },
-  "ECLI:NL:RVS:2026:6252": {
-   "gem": [],
-   "datum": "2026-10-12"
-  },
-  "ECLI:NL:RVS:2026:4980": {
-   "gem": [],
-   "datum": "2026-08-27"
-  },
-  "ECLI:NL:RVS:2026:4608": {
-   "gem": [],
-   "datum": "2026-08-05"
-  },
   "ECLI:NL:RVS:2026:6239": {
    "gem": [],
    "datum": "2026-10-12"
   },
-  "ECLI:NL:RVS:2026:6671": {
-   "gem": [],
-   "datum": "2026-11-11"
-  },
-  "ECLI:NL:RVS:2026:6634": {
-   "gem": [],
-   "datum": "2026-11-11"
-  },
-  "ECLI:NL:RVS:2026:6315": {
+  "ECLI:NL:RVS:2026:6331": {
    "gem": [],
    "datum": "2026-10-28"
   },
-  "ECLI:NL:RVS:2026:6319": {
+  "ECLI:NL:RVS:2026:4181": {
    "gem": [],
-   "datum": "2026-10-28"
+   "datum": "2026-07-17"
+  },
+  "ECLI:NL:RVS:2026:4217": {
+   "gem": [],
+   "datum": "2026-07-17"
   }
  }
 }
