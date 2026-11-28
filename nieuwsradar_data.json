@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 08:44",
+ "bijgewerkt": "28-11-2026 09:02",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
@@ -4932,7 +4932,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 08:17"
@@ -8631,40 +8631,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "24-11 08:53"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126084530a2astenrit141021": {
-   "titel": "A2 Asten Rit: 141021",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126084530a2astenrit141021",
-   "tekst": "Ambulance 22-108 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T08:45:30+01:00",
-   "eerst_gezien": "2026-11-26T07:59:21.761386+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 08:45"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126084502a1deurnerit141019": {
-   "titel": "A1 Deurne Rit: 141019",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126084502a1deurnerit141019",
-   "tekst": "Ambulance 22-128 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T08:45:02+01:00",
-   "eerst_gezien": "2026-11-26T07:59:21.761386+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": true,
-   "tijd": "26-11 08:45"
   },
   "https://www.ed.nl/deurne/eerste-schooldag-in-someren-komt-dichtbij-voor-2800-getroffen-kinderen-uit-deurne-iedereen-staat-voor-elkaar-klaar~a408ed2f/": {
    "titel": "Eerste schooldag in Someren komt dichtbij voor 2800 getroffen kinderen uit Deurne: ‘Iedereen staat voor elkaar klaar’",
@@ -17710,72 +17676,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
-   "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667993/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:49:07+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667992/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html": {
-   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667992/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:49:07+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 08:49"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html": {
-   "titel": "Vlaamse burgemeesters over de vernederlandsing van hun gemeente: `Niet de lasten hier, de lusten in Nederland`",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667989/vlaamse-burgemeesters-over-de-vernederlandsing-van-hun-gemeente-niet-de-lasten-hier-de-lusten-in-nederland.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:49:07+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108667988/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html": {
-   "titel": "KnoopXL en Nieuw Brandevoort aangewezen voor proef met bouwen ondanks het volle stroomnet",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108667988/knoopxl-en-nieuw-brandevoort-aangewezen-voor-proef-met-bouwen-ondanks-het-volle-stroomnet.html",
-   "tekst": "",
-   "datum": "2026-11-21T07:49:07+00:00",
-   "eerst_gezien": "2026-11-21T07:54:45.352046+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/": {
    "titel": "Een halve baan als voorzitter? Stiphout Vooruit lost het gewoon op met z’n tweeën",
    "link": "https://www.ed.nl/helmond/een-halve-baan-als-voorzitter-stiphout-vooruit-lost-het-gewoon-op-met-zn-tweeen~a13f3102/",
@@ -20041,10 +19941,6 @@
    "tekst": "Bestuursrecht; Omgevingsrecht · ECLI:NL:RVS:2026:4996",
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4074": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4076": {
    "gem": [],
    "datum": "2026-07-16"
@@ -20057,23 +19953,15 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4190": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4191": {
    "gem": [],
    "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4998": {
-   "gem": [],
-   "datum": "2026-08-26"
   },
   "ECLI:NL:RVS:2026:4225": {
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:5005": {
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20085,11 +19973,27 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5018": {
+  "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5019": {
+  "ECLI:NL:RVS:2026:5022": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5023": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5025": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5026": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5027": {
    "gem": [],
    "datum": "2026-08-26"
   }
