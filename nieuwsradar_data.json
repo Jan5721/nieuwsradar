@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 20:22",
+ "bijgewerkt": "28-11-2026 20:40",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4857,23 +4857,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
-  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126195754a2somerenrit142154": {
    "titel": "A2 Someren Rit: 142154",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126195754a2somerenrit142154",
@@ -5417,6 +5400,23 @@
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 00:47"
+  },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#271126215550a1deurnerit141798": {
    "titel": "A1 Deurne Rit: 141798",
@@ -17439,22 +17439,6 @@
    "dagen": 7,
    "prio": false
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108671917/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html": {
-   "titel": "Helmond heeft weer Sinterklaascircus, maar dit zou wel eens de laatste keer kunnen zijn",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108671917/helmond-heeft-weer-sinterklaascircus-maar-dit-zou-wel-eens-de-laatste-keer-kunnen-zijn.html",
-   "tekst": "",
-   "datum": "2026-11-21T19:19:03+00:00",
-   "eerst_gezien": "2026-11-21T19:25:38.209933+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108672153/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html": {
    "titel": "Heet van de Herdgang | Poll: `Moet PSV tegen Real Madrid zijn aanvallende speelstijl handhaven'",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108672153/heet-van-de-herdgang-poll-moet-psv-tegen-real-madrid-zijn-aanvallende-speelstijl-handhaven.html",
@@ -17471,23 +17455,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 21:13"
-  },
-  "https://www.omroepbrabant.nl/nieuws/6035684/kinderen-steken-school-in-brand-maar-straffen-is-haast-onmogelijk": {
-   "titel": "Kinderen steken school in brand, maar straffen is haast onmogelijk",
-   "link": "https://www.omroepbrabant.nl/nieuws/6035684/kinderen-steken-school-in-brand-maar-straffen-is-haast-onmogelijk",
-   "tekst": "Twee lokalen van basisschool De Zeilberg in Deurne zijn vrijdagavond verwoest door een brand. Het vuur ontstond nadat kinderen onder de 12 jaar vuurwerk afstaken en op het dak gooiden. De school blijft voorlopig dicht. Maar wat gebeurt er eigenlijk als een kind onder de 12 …",
-   "datum": "2026-11-21T19:30:00+00:00",
-   "eerst_gezien": "2026-11-21T19:41:46.168150+00:00",
-   "bron": "Omroep Brabant",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 20:30"
   }
  },
  "bronnen": {
@@ -17608,7 +17575,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 0,
+   "aantal": 32,
    "fout": ""
   },
   "112Brabant": {
@@ -19500,6 +19467,18 @@
    "gem": [],
    "datum": "2026-11-11"
   },
+  "ECLI:NL:RVS:2026:6468": {
+   "gem": [],
+   "datum": "2026-11-03"
+  },
+  "ECLI:NL:RVS:2026:6311": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
+  "ECLI:NL:RVS:2026:6418": {
+   "gem": [],
+   "datum": "2026-10-30"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19832,21 +19811,9 @@
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:4224": {
-   "gem": [],
-   "datum": "2026-07-14"
-  },
-  "ECLI:NL:RVS:2026:4045": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
   "ECLI:NL:RVS:2026:4993": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:4066": {
-   "gem": [],
-   "datum": "2026-07-15"
   },
   "ECLI:NL:RVS:2026:4994": {
    "gem": [],
@@ -19880,105 +19847,57 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4190": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
   "ECLI:NL:RVS:2026:4191": {
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4998": {
+  "ECLI:NL:RVS:2026:4225": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
+  "ECLI:NL:RVS:2026:5014": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:5018": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5019": {
+  "ECLI:NL:RVS:2026:5025": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5023": {
+  "ECLI:NL:RVS:2026:5497": {
    "gem": [],
-   "datum": "2026-08-26"
+   "datum": "2026-09-16"
   },
-  "ECLI:NL:RVS:2026:5027": {
+  "ECLI:NL:RVS:2026:5324": {
    "gem": [],
-   "datum": "2026-08-26"
+   "datum": "2026-09-09"
   },
-  "ECLI:NL:RVS:2026:5925": {
+  "ECLI:NL:RVS:2026:5475": {
+   "gem": [],
+   "datum": "2026-09-16"
+  },
+  "ECLI:NL:RVS:2026:5903": {
    "gem": [],
    "datum": "2026-10-07"
   },
-  "ECLI:NL:RVS:2026:5811": {
+  "ECLI:NL:RVS:2026:5955": {
    "gem": [],
-   "datum": "2026-09-30"
+   "datum": "2026-10-14"
   },
   "ECLI:NL:RVS:2026:3195": {
    "gem": [],
    "datum": "2026-06-03"
   },
-  "ECLI:NL:RVS:2026:4288": {
+  "ECLI:NL:RVS:2026:5216": {
    "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:6240": {
-   "gem": [],
-   "datum": "2026-10-12"
-  },
-  "ECLI:NL:RVS:2026:4608": {
-   "gem": [],
-   "datum": "2026-08-05"
-  },
-  "ECLI:NL:RVS:2026:6088": {
-   "gem": [],
-   "datum": "2026-10-14"
-  },
-  "ECLI:NL:RVS:2026:478": {
-   "gem": [],
-   "datum": "2026-01-28"
-  },
-  "ECLI:NL:RVS:2026:4178": {
-   "gem": [],
-   "datum": "2026-07-17"
-  },
-  "ECLI:NL:RVS:2026:4264": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:4300": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:6468": {
-   "gem": [],
-   "datum": "2026-11-03"
-  },
-  "ECLI:NL:RVS:2026:6311": {
-   "gem": [],
-   "datum": "2026-10-28"
-  },
-  "ECLI:NL:RVS:2026:2294": {
-   "gem": [],
-   "datum": "2026-04-22"
-  },
-  "ECLI:NL:RVS:2026:5920": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:6418": {
-   "gem": [],
-   "datum": "2026-10-30"
-  },
-  "ECLI:NL:RVS:2026:4403": {
-   "gem": [],
-   "datum": "2026-07-29"
+   "datum": "2026-09-09"
   }
  }
 }
