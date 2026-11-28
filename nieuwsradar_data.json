@@ -1,6 +1,23 @@
 {
- "bijgewerkt": "28-11-2026 09:22",
+ "bijgewerkt": "28-11-2026 09:41",
  "items": {
+  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
+   "titel": "De mooiste lezersfoto’s van deze week",
+   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week",
+   "tekst": "DEURNE - We ontvingen weer veel mooie foto's. Het is moeilijk kiezen welke inzending we wel publiceren en welke niet, want de ene foto is nog mooier dan de andere. Gelukkig kan onze redacteur moeilijke beslissingen maken en koos hij de volgende foto's. Blijf vooral op pad gaan! …",
+   "datum": "2026-11-28T09:32:00+01:00",
+   "eerst_gezien": "2026-11-28T08:38:01.929570+00:00",
+   "bron": "Weekblad voor Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "lokale pers",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 09:32"
+  },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif": {
    "titel": "Knalfuif",
    "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64952/knalfuif",
@@ -427,8 +444,7 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false,
-   "tijd": "22-11 18:30"
+   "prio": false
   },
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64807/schaakvereniging-deurne-houdt-open-schaakavond-voor-senioren": {
    "titel": "Schaakvereniging Deurne houdt open schaakavond voor senioren",
@@ -2494,23 +2510,6 @@
    "prio": false,
    "tijd": "23-11 13:57"
   },
-  "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind": {
-   "titel": "Prins Koen I en Prinses Karlijn leiden carnaval in Someren-Eind",
-   "link": "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind",
-   "tekst": "14 november 2026 Koen Wijnen en Karlijn Swinkels zijn uitgeroepen tot het 69e Prinsenpaar van Carnavalsvereniging De Plattevonder in Someren-Eind.",
-   "datum": "2026-11-23T12:57:19.109671+00:00",
-   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
-   "bron": "Omroep Brabant lokaal Someren",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "regionale omroep",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "23-11 13:57"
-  },
   "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
    "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
    "link": "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond",
@@ -4138,7 +4137,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 09:13"
@@ -4921,6 +4920,40 @@
    "dagen": 7,
    "prio": false
   },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
+  "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind": {
+   "titel": "Prins Koen I en Prinses Karlijn leiden carnaval in Someren-Eind",
+   "link": "https://www.omroepbrabant.nl/nieuws/6034774/prins-koen-i-en-prinses-karlijn-leiden-carnaval-in-someren-eind",
+   "tekst": "14 november 2026 Koen Wijnen en Karlijn Swinkels zijn uitgeroepen tot het 69e Prinsenpaar van Carnavalsvereniging De Plattevonder in Someren-Eind.",
+   "datum": "2026-11-23T12:57:19.109671+00:00",
+   "eerst_gezien": "2026-11-23T12:57:19.109671+00:00",
+   "bron": "Omroep Brabant lokaal Someren",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "regionale omroep",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "23-11 13:57"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126081757a2astenrit141896": {
    "titel": "A2 Asten Rit: 141896",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126081757a2astenrit141896",
@@ -5362,23 +5395,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 11:58"
-  },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108734161/helmondse-senna-scoort-met-hey-poes-maar-in-zuid-afrika-heeft-dat-nummer-een-heel-andere-betekenis.html": {
    "titel": "Helmondse Senna scoort met `Hey Poes`, maar in Zuid-Afrika heeft dat nummer een héél andere betekenis",
@@ -16087,23 +16103,6 @@
    "prio": false,
    "tijd": "23-11 09:01"
   },
-  "https://www.ed.nl/helmond/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze~a3a6df16/": {
-   "titel": "Vlisco-jongens op avontuur in Duitsland, onder leiding van meneer Jacobs: herkent u ze?",
-   "link": "https://www.ed.nl/helmond/vlisco-jongens-op-avontuur-in-duitsland-onder-leiding-van-meneer-jacobs-herkent-u-ze~a3a6df16/",
-   "tekst": "Het zijn jonge mannen die op 4 augustus 1961 in Helmond in de bus stappen. De bestemming is Erlingen in Duitsland. Ze gaan daar werken in een zogenoemd ‘Bouworde-kamp’. Het betreft dertien jonge werknemers van Vlisco, oud-leerlingen van de C.M.S., zo staat bij de foto vermeld.",
-   "datum": "2026-11-21T08:30:05+00:00",
-   "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
-   "bron": "ED Deurne",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "regionale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:30"
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108683859/eindhoven-snel-aan-de-slag-met-noodsteunpunten-om-inwoners-en-stad-klaar-te-maken-voor-calamiteiten.html": {
    "titel": "Eindhoven snel aan de slag met noodsteunpunten om inwoners en stad klaar te maken voor calamiteiten",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108683859/eindhoven-snel-aan-de-slag-met-noodsteunpunten-om-inwoners-en-stad-klaar-te-maken-voor-calamiteiten.html",
@@ -16451,23 +16450,6 @@
    "dagen": 7,
    "prio": false,
    "tijd": "22-11 14:01"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html": {
-   "titel": "Nieuwswekker: School in brand + Opgelicht met Pokémon",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668224/nieuwswekker-school-in-brand-opgelicht-met-pokemon.html",
-   "tekst": "Gooooooiemorgen! Tijd voor weekend! Het ideale moment om eens lekker de Nieuwswekker te lezen. Komt-ie! Het weer Zon en wolken wisselen...",
-   "datum": "2026-11-21T08:28:07+00:00",
-   "eerst_gezien": "2026-11-21T08:43:13.133247+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:28"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108677729/prins-oraculus-zwaait-scepter-over-het-narregat.html": {
    "titel": "Prins Oraculus zwaait scepter over het Narregat",
@@ -17011,7 +16993,8 @@
    "betaald": false,
    "nieuw": false,
    "dagen": 7,
-   "prio": false
+   "prio": false,
+   "tijd": "21-11 23:15"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108673213/in-de-winkel-in-het-kasteel-van-sinterklaas-proef-je-de-magie-letterlijk-en-figuurlijk-papa-werkt-voor-de-sint.html": {
    "titel": "In de winkel in het Kasteel van Sinterklaas proef je de magie letterlijk en figuurlijk: `Papa werkt voor de Sint`",
@@ -17627,29 +17610,12 @@
    "dagen": 7,
    "prio": false,
    "tijd": "21-11 11:30"
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html": {
-   "titel": "Geen grote ego`s, wel een appgroep en twee bazen: zo houdt Stiphout Vooruit het vol",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108668143/geen-grote-egos-wel-een-appgroep-en-twee-bazen-zo-houdt-stiphout-vooruit-het-vol.html",
-   "tekst": "",
-   "datum": "2026-11-21T08:21:29+00:00",
-   "eerst_gezien": "2026-11-21T08:26:49.799742+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 09:21"
   }
  },
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 33,
    "fout": ""
   },
   "Peelbelang": {
@@ -17699,7 +17665,7 @@
   },
   "Omroep Brabant lokaal Someren": {
    "ok": true,
-   "aantal": 17,
+   "aantal": 16,
    "fout": ""
   },
   "Gemeente Helmond": {
@@ -17764,7 +17730,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 26,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
@@ -19504,6 +19470,18 @@
    "gem": [],
    "datum": "2026-11-04"
   },
+  "ECLI:NL:RVS:2026:6646": {
+   "gem": [],
+   "datum": "2026-11-11"
+  },
+  "ECLI:NL:RVS:2026:6477": {
+   "gem": [],
+   "datum": "2026-11-04"
+  },
+  "ECLI:NL:RVS:2026:6533": {
+   "gem": [],
+   "datum": "2026-11-09"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -19904,6 +19882,10 @@
    "gem": [],
    "datum": "2026-08-26"
   },
+  "ECLI:NL:RVS:2026:4999": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
@@ -19911,90 +19893,6 @@
   "ECLI:NL:RVS:2026:5008": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5014": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5019": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5021": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5023": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5025": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5026": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5497": {
-   "gem": [],
-   "datum": "2026-09-16"
-  },
-  "ECLI:NL:RVS:2026:5475": {
-   "gem": [],
-   "datum": "2026-09-16"
-  },
-  "ECLI:NL:RVS:2026:5811": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
-  "ECLI:NL:RVS:2026:5793": {
-   "gem": [],
-   "datum": "2026-09-30"
-  },
-  "ECLI:NL:RVS:2026:5216": {
-   "gem": [],
-   "datum": "2026-09-09"
-  },
-  "ECLI:NL:RVS:2026:1941": {
-   "gem": [],
-   "datum": "2026-04-08"
-  },
-  "ECLI:NL:RVS:2026:461": {
-   "gem": [],
-   "datum": "2026-01-28"
-  },
-  "ECLI:NL:RVS:2026:4290": {
-   "gem": [],
-   "datum": "2026-07-22"
-  },
-  "ECLI:NL:RVS:2026:6646": {
-   "gem": [],
-   "datum": "2026-11-11"
-  },
-  "ECLI:NL:RVS:2026:6477": {
-   "gem": [],
-   "datum": "2026-11-04"
-  },
-  "ECLI:NL:RVS:2026:6533": {
-   "gem": [],
-   "datum": "2026-11-09"
-  },
-  "ECLI:NL:RVS:2026:3225": {
-   "gem": [],
-   "datum": "2026-06-05"
-  },
-  "ECLI:NL:RVS:2026:3813": {
-   "gem": [],
-   "datum": "2026-07-01"
-  },
-  "ECLI:NL:RVS:2026:4578": {
-   "gem": [],
-   "datum": "2026-08-05"
-  },
-  "ECLI:NL:RVS:2026:4846": {
-   "gem": [],
-   "datum": "2026-08-19"
   }
  }
 }
