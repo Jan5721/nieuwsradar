@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 14:25",
+ "bijgewerkt": "28-11-2026 14:44",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -4121,7 +4121,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 14:13"
@@ -4857,6 +4857,23 @@
    "dagen": 7,
    "prio": false
   },
+  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
+   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
+   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
+   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
+   "datum": "2026-11-18T00:00:00+00:00",
+   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
+   "bron": "Raad van State",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "Raad van State",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 30,
+   "prio": false,
+   "tijd": "18-11 01:00"
+  },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126135235a2helmondrit142021": {
    "titel": "A2 Helmond Rit: 142021",
    "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126135235a2helmondrit142021",
@@ -4869,7 +4886,7 @@
    ],
    "soort": "112 ambulance",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 2,
    "prio": false,
    "tijd": "28-11 13:52"
@@ -5400,23 +5417,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "27-11 17:03"
-  },
-  "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863": {
-   "titel": "Bij besluit van 24 oktober 2023 heeft het college van gedeputeerde staten van Noord-Brabant het verzoek van MOB en Leefmilieu tot intrekking van de natuurvergunning van, dan wel het opleggen van een …",
-   "link": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6863",
-   "tekst": "Bestuursrecht · ECLI:NL:RVS:2026:6863",
-   "datum": "2026-11-18T00:00:00+00:00",
-   "eerst_gezien": "2026-11-27T21:00:37.007506+00:00",
-   "bron": "Raad van State",
-   "gemeenten": [
-    "Someren"
-   ],
-   "soort": "Raad van State",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 30,
-   "prio": false,
-   "tijd": "18-11 01:00"
   },
   "https://www.helmond.nl/1/nieuws/2026/november/denk-mee-over-de-toekomstige-verkeersstructuur-van-helmond": {
    "titel": "Denk mee over de toekomstige verkeersstructuur van Helmond",
@@ -8137,40 +8137,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143659a2helmondrit141190": {
-   "titel": "A2 Helmond Rit: 141190",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143659a2helmondrit141190",
-   "tekst": "MKA Brabant-Zuidoost (Ambulance 22-130)",
-   "datum": "2026-11-26T14:36:59+01:00",
-   "eerst_gezien": "2026-11-26T13:37:22.558856+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 14:36"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143227a2deurnerit141188": {
-   "titel": "A2 Deurne Rit: 141188",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126143227a2deurnerit141188",
-   "tekst": "Ambulance 22-129 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T14:32:27+01:00",
-   "eerst_gezien": "2026-11-26T13:37:22.558856+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 14:32"
   },
   "https://www.ed.nl/asten/kindermiddag-in-museum-klok-en-peel-in-asten-leert-kinderen-over-wintervoer-voor-dieren~a145a5ce/": {
    "titel": "Kindermiddag in Museum Klok & Peel in Asten leert kinderen over wintervoer voor dieren",
@@ -17810,7 +17776,7 @@
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 0,
    "fout": ""
   },
   "112Brabant": {
@@ -19630,6 +19596,10 @@
    "gem": [],
    "datum": "2026-10-28"
   },
+  "ECLI:NL:RVS:2026:6331": {
+   "gem": [],
+   "datum": "2026-10-28"
+  },
   "ECLI:NL:RVS:2026:5489": {
    "gem": [],
    "datum": "2026-09-16"
@@ -20014,11 +19984,27 @@
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4092": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
+  "ECLI:NL:RVS:2026:4190": {
+   "gem": [],
+   "datum": "2026-07-16"
+  },
   "ECLI:NL:RVS:2026:4191": {
    "gem": [],
    "datum": "2026-07-16"
   },
+  "ECLI:NL:RVS:2026:4999": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
   "ECLI:NL:RVS:2026:5005": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5006": {
    "gem": [],
    "datum": "2026-08-26"
   },
@@ -20033,54 +20019,6 @@
   "ECLI:NL:RVS:2026:5014": {
    "gem": [],
    "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5015": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5022": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5027": {
-   "gem": [],
-   "datum": "2026-08-26"
-  },
-  "ECLI:NL:RVS:2026:5324": {
-   "gem": [],
-   "datum": "2026-09-09"
-  },
-  "ECLI:NL:RVS:2026:5925": {
-   "gem": [],
-   "datum": "2026-10-07"
-  },
-  "ECLI:NL:RVS:2026:4569": {
-   "gem": [],
-   "datum": "2026-08-05"
-  },
-  "ECLI:NL:RVS:2026:3195": {
-   "gem": [],
-   "datum": "2026-06-03"
-  },
-  "ECLI:NL:RVS:2026:4628": {
-   "gem": [],
-   "datum": "2026-08-12"
-  },
-  "ECLI:NL:RVS:2026:6239": {
-   "gem": [],
-   "datum": "2026-10-12"
-  },
-  "ECLI:NL:RVS:2026:6331": {
-   "gem": [],
-   "datum": "2026-10-28"
-  },
-  "ECLI:NL:RVS:2026:4181": {
-   "gem": [],
-   "datum": "2026-07-17"
-  },
-  "ECLI:NL:RVS:2026:4217": {
-   "gem": [],
-   "datum": "2026-07-17"
   }
  }
 }
