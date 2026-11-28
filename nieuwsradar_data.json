@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "28-11-2026 12:31",
+ "bijgewerkt": "28-11-2026 12:50",
  "items": {
   "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64953/de-mooiste-lezersfotos-van-deze-week": {
    "titel": "De mooiste lezersfoto’s van deze week",
@@ -531,23 +531,6 @@
    "prio": false,
    "tijd": "21-11 15:45"
   },
-  "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en": {
-   "titel": "Rianne Baggermans-Filippini wordt nieuwe directeur Alfrink- en Peellandcollege",
-   "link": "https://www.weekbladvoordeurne.nl/nieuws/algemeen/64809/rianne-baggermans-filippini-wordt-nieuwe-directeur-alfrink-en",
-   "tekst": "DEURNE - Rianne Baggermans-Filippini treedt per 1 januari 2027 aan als bovenschools directeur van het Alfrinkcollege en het Peellandcollege in Deurne. In deze rol wordt zij verantwoordelijk voor de gezamenlijke onderwijskundige koers en verdere ontwikkeling van beide scholen …",
-   "datum": "2026-11-21T12:30:00+01:00",
-   "eerst_gezien": "2026-11-21T11:41:13.179728+00:00",
-   "bron": "Weekblad voor Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "lokale pers",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "21-11 12:30"
-  },
   "https://www.peelbelangonline.nl/nieuws/algemeen/64945/voorstanders-asielopvang-overhandigen-petitie-gezamenlijke-ve": {
    "titel": "Voorstanders asielopvang overhandigen petitie: ‘Gezamenlijke verantwoordelijkheid voor ons allemaal’",
    "link": "https://www.peelbelangonline.nl/nieuws/algemeen/64945/voorstanders-asielopvang-overhandigen-petitie-gezamenlijke-ve",
@@ -769,6 +752,23 @@
    "dagen": 7,
    "prio": false,
    "tijd": "23-11 10:23"
+  },
+  "https://www.ed.nl/deurne/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij~a9e73a81/": {
+   "titel": "Hoe Zeilberg verandert: grotere supermarkt, slagerij terug en dik dertig woningen erbij",
+   "link": "https://www.ed.nl/deurne/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij~a9e73a81/",
+   "tekst": "Het is even wennen voor Zeilbergers: in het flink groter geworden Plus-filiaal staan nu ook zelfscankassa’s. De vernieuwing van de supermarkt is de eerste in een reeks veranderingen in het winkelhart van het Deurnese dorp.",
+   "datum": "2026-11-28T11:30:18+00:00",
+   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "bron": "ED Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "regionale pers",
+   "betaald": true,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 12:30"
   },
   "https://www.ed.nl/helmond/broeder-joep-32-zorgt-graag-en-schrijft-er-tweede-boek-over-je-moet-altijd-de-mens-blijven-zien~ad4805fc/": {
    "titel": "Broeder Joep (32) zorgt graag en schrijft er tweede boek over: ‘Je moet altijd de mens blijven zien’",
@@ -4143,6 +4143,72 @@
    "prio": false,
    "tijd": "27-11 01:00"
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740613/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij.html": {
+   "titel": "Hoe Zeilberg verandert: grotere supermarkt, slagerij terug en dik dertig woningen erbij",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740613/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij.html",
+   "tekst": "",
+   "datum": "2026-11-28T11:43:14+00:00",
+   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740573/live-nieuwe-poging-lukt-het-helmond-sport-na-klinkende-zege-om-ook-buitenshuis-te-winnen.html": {
+   "titel": "LIVE | Nieuwe poging: lukt het Helmond Sport na klinkende zege om ook buitenshuis te winnen'",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740573/live-nieuwe-poging-lukt-het-helmond-sport-na-klinkende-zege-om-ook-buitenshuis-te-winnen.html",
+   "tekst": "",
+   "datum": "2026-11-28T11:36:07+00:00",
+   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 12:36"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740547/persleiding-in-veghel-blijkt-veel-lastiger-te-vervangen-meierijstad-is-nu-5-miljoen-euro-extra-kwijt.html": {
+   "titel": "Persleiding in Veghel blijkt veel lastiger te vervangen: Meierijstad is nu 5 miljoen euro extra kwijt",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740547/persleiding-in-veghel-blijkt-veel-lastiger-te-vervangen-meierijstad-is-nu-5-miljoen-euro-extra-kwijt.html",
+   "tekst": "",
+   "datum": "2026-11-28T11:31:04+00:00",
+   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "28-11 12:31"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108740545/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij.html": {
+   "titel": "Hoe Zeilberg verandert: grotere supermarkt, slagerij terug en dik dertig woningen erbij",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108740545/hoe-zeilberg-verandert-grotere-supermarkt-slagerij-terug-en-dik-dertig-woningen-erbij.html",
+   "tekst": "",
+   "datum": "2026-11-28T11:31:03+00:00",
+   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108740516/hij-duwde-beatrix-opzij-en-was-ooit-stapelverliefd-op-de-first-lady-van-georgie-voor-satheo-60-is-niks-te-gek.html": {
    "titel": "Hij duwde Beatrix opzij en was ooit stapelverliefd op de first lady van Georgië: voor `Satheo` (60) is niks te gek",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108740516/hij-duwde-beatrix-opzij-en-was-ooit-stapelverliefd-op-de-first-lady-van-georgie-voor-satheo-60-is-niks-te-gek.html",
@@ -4155,7 +4221,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 12:25"
@@ -4172,7 +4238,7 @@
    ],
    "soort": "verzamelsite",
    "betaald": false,
-   "nieuw": true,
+   "nieuw": false,
    "dagen": 7,
    "prio": false,
    "tijd": "28-11 12:19"
@@ -4325,22 +4391,6 @@
    "prio": false,
    "tijd": "28-11 10:31"
   },
-  "https://drimble.nl/regio/noord-brabant/helmond/108739663/24-x-een-verrassing-hier-in-helmond-koop-je-een-adventskalender.html": {
-   "titel": "24 x een verrassing: hier in Helmond koop je een adventskalender",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739663/24-x-een-verrassing-hier-in-helmond-koop-je-een-adventskalender.html",
-   "tekst": "",
-   "datum": "2026-11-28T09:13:24+00:00",
-   "eerst_gezien": "2026-11-28T09:16:11.319837+00:00",
-   "bron": "Drimble Helmond",
-   "gemeenten": [
-    "Helmond"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
   "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html": {
    "titel": "Geen school voor Teun, dus trekt hij direct zijn schaatsen uit het vet",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108735880/geen-school-voor-teun-dus-trekt-hij-direct-zijn-schaatsen-uit-het-vet.html",
@@ -4453,39 +4503,6 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108724723/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les.html": {
-   "titel": "Enorme puzzel na schoolbrand opgelost: 300 kinderen kunnen weer naar de les",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724723/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les.html",
-   "tekst": "De ongeveer driehonderd leerlingen van basisschool De Zeilberg in Deurne kunnen vanaf dinsdag weer naar school. Na de verwoestende...",
-   "datum": "2026-11-26T22:17:05+00:00",
-   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false
-  },
-  "https://drimble.nl/regio/noord-brabant/helmond/108723500/de-wieger-nodigt-je-uit-om-kerstsfeer-te-beleven.html": {
-   "titel": "De Wieger nodigt je uit om kerstsfeer te beleven",
-   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723500/de-wieger-nodigt-je-uit-om-kerstsfeer-te-beleven.html",
-   "tekst": "Kerst in Museum De Wieger met leuke activiteiten Tijdens Kerst in De Wieger is er van alles te beleven! Ga op zoek naar de engeltjes...",
-   "datum": "2026-11-26T21:45:04+00:00",
-   "eerst_gezien": "2026-11-26T21:56:40.197374+00:00",
-   "bron": "Drimble Deurne",
-   "gemeenten": [
-    "Deurne"
-   ],
-   "soort": "verzamelsite",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 7,
-   "prio": false,
-   "tijd": "26-11 22:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108730974/video-astense-lotte-in-een-klap-beroemd-na-deelname-aan-muziekprogramma-sing-with-me.html": {
    "titel": "[VIDEO] Astense Lotte in &é&én klap beroemd na deelname aan muziekprogramma Sing With Me",
@@ -4756,6 +4773,22 @@
    "dagen": 7,
    "prio": false
   },
+  "https://drimble.nl/regio/noord-brabant/helmond/108724723/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les.html": {
+   "titel": "Enorme puzzel na schoolbrand opgelost: 300 kinderen kunnen weer naar de les",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108724723/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les.html",
+   "tekst": "De ongeveer driehonderd leerlingen van basisschool De Zeilberg in Deurne kunnen vanaf dinsdag weer naar school. Na de verwoestende...",
+   "datum": "2026-11-26T22:17:05+00:00",
+   "eerst_gezien": "2026-11-26T22:28:43.627403+00:00",
+   "bron": "Drimble Someren",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
   "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html": {
    "titel": "280 kinderen uit Deurne per touringcar naar school in Someren, terugkeer naar eigen dorp pas begin volgend jaar",
    "link": "https://drimble.nl/regio/noord-brabant/helmond/108723447/280-kinderen-uit-deurne-per-touringcar-naar-school-in-someren-terugkeer-naar-eigen-dorp-pas-begin-volgend-jaar.html",
@@ -4840,6 +4873,40 @@
    "nieuw": false,
    "dagen": 7,
    "prio": false
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126123954a2somerenrit141983": {
+   "titel": "A2 Someren Rit: 141983",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126123954a2somerenrit141983",
+   "tekst": "Ambulance 22-121 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T12:39:54+01:00",
+   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Someren"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "28-11 12:39"
+  },
+  "https://www.p2000monitor.eu/Brabantzuidoost.html#281126123724a2astenrit141981": {
+   "titel": "A2 Asten Rit: 141981",
+   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#281126123724a2astenrit141981",
+   "tekst": "Ambulance 22-121 (RAV Brabant-Zuidoost)",
+   "datum": "2026-11-28T12:37:24+01:00",
+   "eerst_gezien": "2026-11-28T11:47:16.912009+00:00",
+   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
+   "gemeenten": [
+    "Asten"
+   ],
+   "soort": "112 ambulance",
+   "betaald": false,
+   "nieuw": true,
+   "dagen": 2,
+   "prio": false,
+   "tijd": "28-11 12:37"
   },
   "https://www.p2000monitor.eu/Brabantzuidoost.html#281126113451a1helmondrit141957": {
    "titel": "A1 Helmond Rit: 141957",
@@ -5350,6 +5417,39 @@
    "dagen": 30,
    "prio": false,
    "tijd": "18-11 01:00"
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108739663/24-x-een-verrassing-hier-in-helmond-koop-je-een-adventskalender.html": {
+   "titel": "24 x een verrassing: hier in Helmond koop je een adventskalender",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108739663/24-x-een-verrassing-hier-in-helmond-koop-je-een-adventskalender.html",
+   "tekst": "",
+   "datum": "2026-11-28T09:13:24+00:00",
+   "eerst_gezien": "2026-11-28T09:16:11.319837+00:00",
+   "bron": "Drimble Helmond",
+   "gemeenten": [
+    "Helmond"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false
+  },
+  "https://drimble.nl/regio/noord-brabant/helmond/108723500/de-wieger-nodigt-je-uit-om-kerstsfeer-te-beleven.html": {
+   "titel": "De Wieger nodigt je uit om kerstsfeer te beleven",
+   "link": "https://drimble.nl/regio/noord-brabant/helmond/108723500/de-wieger-nodigt-je-uit-om-kerstsfeer-te-beleven.html",
+   "tekst": "Kerst in Museum De Wieger met leuke activiteiten Tijdens Kerst in De Wieger is er van alles te beleven! Ga op zoek naar de engeltjes...",
+   "datum": "2026-11-26T21:45:04+00:00",
+   "eerst_gezien": "2026-11-26T21:56:40.197374+00:00",
+   "bron": "Drimble Deurne",
+   "gemeenten": [
+    "Deurne"
+   ],
+   "soort": "verzamelsite",
+   "betaald": false,
+   "nieuw": false,
+   "dagen": 7,
+   "prio": false,
+   "tijd": "26-11 22:45"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108739541/gerard-ging-als-vlisco-man-mee-naar-duitsland-om-huizen-te-bouwen-voor-vluchtelingen-uit-de-ddr.html": {
    "titel": "Gerard ging als Vlisco-man mee naar Duitsland om huizen te bouwen voor vluchtelingen uit de DDR",
@@ -8275,23 +8375,6 @@
    "dagen": 2,
    "prio": false,
    "tijd": "26-11 13:09"
-  },
-  "https://www.p2000monitor.eu/Brabantzuidoost.html#261126124654a2astenrit141138": {
-   "titel": "A2 Asten Rit: 141138",
-   "link": "https://www.p2000monitor.eu/Brabantzuidoost.html#261126124654a2astenrit141138",
-   "tekst": "Ambulance 22-124 (RAV Brabant-Zuidoost)",
-   "datum": "2026-11-26T12:46:54+01:00",
-   "eerst_gezien": "2026-11-26T12:00:52.088162+00:00",
-   "bron": "P2000 Brabant-Zuidoost (p2000monitor.eu)",
-   "gemeenten": [
-    "Asten"
-   ],
-   "soort": "112 ambulance",
-   "betaald": false,
-   "nieuw": false,
-   "dagen": 2,
-   "prio": false,
-   "tijd": "26-11 12:46"
   },
   "https://drimble.nl/regio/noord-brabant/helmond/108723077/man-37-uit-eindhoven-reed-door-rood-en-veroorzaakte-zwaar-ongeluk-taakstraf-en-rijverbod.html": {
    "titel": "Man (37) uit Eindhoven reed door rood en veroorzaakte zwaar ongeluk: taakstraf en rijverbod",
@@ -17547,7 +17630,7 @@
  "bronnen": {
   "Weekblad voor Deurne": {
    "ok": true,
-   "aantal": 32,
+   "aantal": 31,
    "fout": ""
   },
   "Peelbelang": {
@@ -17557,7 +17640,7 @@
   },
   "ED Helmond": {
    "ok": true,
-   "aantal": 10,
+   "aantal": 11,
    "fout": ""
   },
   "ED Deurne": {
@@ -17642,12 +17725,12 @@
   },
   "Drimble Helmond": {
    "ok": true,
-   "aantal": 12,
+   "aantal": 15,
    "fout": ""
   },
   "Drimble Deurne": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 7,
    "fout": ""
   },
   "Drimble Asten": {
@@ -17657,12 +17740,12 @@
   },
   "Drimble Someren": {
    "ok": true,
-   "aantal": 9,
+   "aantal": 10,
    "fout": ""
   },
   "P2000 Brabant-Zuidoost (p2000monitor.eu)": {
    "ok": true,
-   "aantal": 29,
+   "aantal": 31,
    "fout": ""
   },
   "112Brabant": {
@@ -19782,14 +19865,6 @@
    "gem": [],
    "datum": "2026-07-15"
   },
-  "ECLI:NL:RVS:2026:4098": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
-  "ECLI:NL:RVS:2026:4099": {
-   "gem": [],
-   "datum": "2026-07-15"
-  },
   "ECLI:NL:RVS:2026:4996": {
    "gem": [
     "Helmond"
@@ -19818,25 +19893,33 @@
    "gem": [],
    "datum": "2026-07-16"
   },
-  "ECLI:NL:RVS:2026:4191": {
-   "gem": [],
-   "datum": "2026-07-16"
-  },
-  "ECLI:NL:RVS:2026:4998": {
+  "ECLI:NL:RVS:2026:4999": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5005": {
+  "ECLI:NL:RVS:2026:5010": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5006": {
+  "ECLI:NL:RVS:2026:5015": {
    "gem": [],
    "datum": "2026-08-26"
   },
-  "ECLI:NL:RVS:2026:5008": {
+  "ECLI:NL:RVS:2026:5019": {
    "gem": [],
    "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5022": {
+   "gem": [],
+   "datum": "2026-08-26"
+  },
+  "ECLI:NL:RVS:2026:5324": {
+   "gem": [],
+   "datum": "2026-09-09"
+  },
+  "ECLI:NL:RVS:2026:5804": {
+   "gem": [],
+   "datum": "2026-09-30"
   }
  }
 }
